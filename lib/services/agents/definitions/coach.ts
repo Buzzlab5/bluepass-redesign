@@ -226,6 +226,7 @@ export const coachAgent: AgentDefinition = {
   id: COACH_ID,
   name: "Coach",
   desk: "company",
+  managedBy: "platform-manager",
   plane: "operating",
   wave: 2,
   modelTier: "reasoning",

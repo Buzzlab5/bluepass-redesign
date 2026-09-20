@@ -166,6 +166,7 @@ export const watchAgent: AgentDefinition = {
   id: WATCH_ID,
   name: "Watch",
   desk: "company",
+  managedBy: "platform-manager",
   plane: "operating",
   wave: 2,
   modelTier: "reasoning",

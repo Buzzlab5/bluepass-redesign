@@ -40,7 +40,9 @@ operator's history readable as a single thread.
 | `coach` | Proposes what each agent should do differently, from evidence | Every lesson, and the default is discard |
 | `content-studio` | Writes articles for search; everything is a draft | Every draft, and it cannot publish |
 | `referral-mesh` | Rescues an enquiry an operator declined or ignored | Every referral, before it is sent |
-| **`supply-manager`** | **Runs the six supply agents and reports to Kirby** | **Only when something needs her this week** |
+| `growth-analyst` | Reads the funnel and mostly says it is too early to tell | Nothing; it proposes and never acts |
+| **`supply-manager`** | **Runs the six supply agents, reports to Kirby** | **Only when something needs her this week** |
+| **`platform-manager`** | **Is it running, what does it cost. Reports to Inov** | **Only when something is actually broken** |
 
 ## The learning loop
 
