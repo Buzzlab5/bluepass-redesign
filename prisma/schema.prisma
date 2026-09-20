@@ -576,6 +576,13 @@ model OperatorListing {
 
   operatorProfile OperatorProfile @relation(fields: [operatorProfileId], references: [id], onDelete: Cascade)
 
+  // Native booking rails. Present only for operators with no booking system of
+  // their own; a Rezdy-synced listing carries externalProductId instead.
+  schedules ListingSchedule[]
+  blackouts ListingBlackout[]
+  rates     ListingRate[]
+  seatHolds ListingSeatHold[]
+
   @@index([operatorProfileId])
   @@index([status])
   @@index([region])
@@ -1235,4 +1242,147 @@ model ManagerReport {
 
   @@index([managerId, createdAt])
   @@index([reportsTo, createdAt])
+}
+
+// ---------------------------------------------------------------------------
+// Native booking rails
+//
+// The inventory for operators who have no booking system at all. Roughly 480 of
+// the ~780 Australian marine businesses we have identified run on a phone and an
+// inbox, and almost all Indonesian supply does; no connector can ever reach them
+// because there is nothing on the other end to connect to.
+//
+// The whole design turns on one constraint: an operator who has never kept a
+// booking calendar will not start keeping one. That is precisely why they have no
+// system today. So availability here is a RULE the operator states once ("we run
+// Tuesday, Thursday and Saturday at 8am, twelve seats, closed in cyclone season")
+// and not a row per day. Departures are derived from the rule at query time.
+// Nothing needs maintaining for the rails to stay correct next month.
+//
+// Seats sold are tracked separately, against a specific departure instant, so
+// capacity nets down without anyone generating a year of calendar rows.
+// ---------------------------------------------------------------------------
+
+/// When a listing runs. One row is a recurring pattern, not a single departure.
+model ListingSchedule {
+  id        String @id @default(cuid())
+  listingId String
+
+  /// Operator-facing name when a listing has more than one pattern, e.g. "Morning reef trip".
+  label String?
+
+  /// Days this departs, 0 = Sunday through 6 = Saturday. Empty means every day.
+  weekdays Int[]
+
+  /// Local departure times as "HH:MM", 24 hour. One pattern can run several times a day.
+  departureTimes String[]
+
+  /// Season window. Null on both means the pattern runs all year.
+  seasonStart DateTime?
+  seasonEnd   DateTime?
+
+  /// Seats per departure. This is the number that nets down as bookings are taken.
+  capacityPerDeparture Int
+  /// Departures below this do not run, so Kai must not confirm one.
+  minGuests            Int @default(1)
+
+  /// Hours before departure that bookings close. A dive boat needs the manifest the
+  /// night before; a jetski does not. Stated by the operator, enforced here.
+  cutoffHours Int @default(24)
+  /// How far ahead bookings are accepted.
+  maxAdvanceDays Int @default(365)
+
+  /// IANA zone. Departure times are local to the operator, never to the traveller.
+  timezone String @default("Australia/Brisbane")
+
+  active    Boolean  @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  listing OperatorListing @relation(fields: [listingId], references: [id], onDelete: Cascade)
+
+  @@index([listingId, active])
+}
+
+/// Dates a listing does not run despite its schedule: maintenance, weather, holidays.
+model ListingBlackout {
+  id        String @id @default(cuid())
+  listingId String
+
+  /// Inclusive date range, interpreted in the schedule's timezone.
+  startDate DateTime
+  endDate   DateTime
+  reason    String?
+
+  createdAt DateTime @default(now())
+
+  listing OperatorListing @relation(fields: [listingId], references: [id], onDelete: Cascade)
+
+  @@index([listingId, startDate, endDate])
+}
+
+/// What a seat costs. Several rows per listing allow adult/child and seasonal pricing.
+model ListingRate {
+  id        String @id @default(cuid())
+  listingId String
+
+  /// Operator-facing label, e.g. "Adult", "Child 4-14", "Peak season adult".
+  label       String
+  amountCents Int
+  currency    String @default("AUD")
+
+  /// True bills per guest; false is a flat charge for the whole booking, which is
+  /// how private charters are priced.
+  perGuest Boolean @default(true)
+
+  /// Age band this rate applies to. Null bounds mean unbounded on that side.
+  minAge Int?
+  maxAge Int?
+
+  /// Season window, same convention as the schedule.
+  seasonStart DateTime?
+  seasonEnd   DateTime?
+
+  /// The rate quoted when no age is known. Exactly one per listing should carry it,
+  /// and it is what Kai uses for an unqualified "how much for two people".
+  isDefault Boolean @default(false)
+
+  active    Boolean  @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  listing OperatorListing @relation(fields: [listingId], references: [id], onDelete: Cascade)
+
+  @@index([listingId, active])
+}
+
+/// Seats taken on one specific departure.
+///
+/// Stored per departure instant rather than as generated calendar rows, so a listing
+/// costs nothing to carry until somebody actually books it. A hold expires; a
+/// confirmed seat does not.
+model ListingSeatHold {
+  id        String @id @default(cuid())
+  listingId String
+
+  /// The exact departure, stored in UTC and derived from the schedule.
+  departsAt DateTime
+  seats     Int
+
+  /// Null once confirmed. A hold past its expiry is ignored when counting capacity,
+  /// so an abandoned checkout releases its seats without a cleanup job.
+  expiresAt DateTime?
+  confirmed Boolean   @default(false)
+
+  /// What claimed these seats, for tracing back to the booking or enquiry.
+  bookingId String?
+  inquiryId String?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  listing OperatorListing @relation(fields: [listingId], references: [id], onDelete: Cascade)
+
+  @@index([listingId, departsAt])
+  @@index([expiresAt])
 }

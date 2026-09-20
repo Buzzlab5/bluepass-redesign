@@ -15,7 +15,10 @@ export default defineConfig({
   test: {
     environment: "node",
     globals: true,
-    include: ["lib/services/operators/operator-public-lead.test.ts"],
+    include: [
+      "lib/services/operators/operator-public-lead.test.ts",
+      "lib/services/operators/listing-availability.test.ts",
+    ],
   },
   resolve: {
     alias: { "@": fileURLToPath(new URL(".", import.meta.url)) },
