@@ -11,6 +11,7 @@ import { requestDecision } from "./decisions";
 import { claimNextJob, completeJob, deferJob, failJob } from "./jobs";
 import { MODEL_IDS, getModelPort } from "./model";
 import { ensureAgentsLoaded, getAgent } from "./registry";
+import { loadLessons, renderLessons } from "./lessons";
 import type {
   AgentDefinition,
   DecisionRequest,
@@ -126,11 +127,17 @@ export async function runJob(
       return { runId: run.id, status: "SKIPPED", outcome: { reason: build.skip } };
     }
 
+    // Lessons go in the task, never the persona: the persona is what an
+    // agent is and stays cached, a lesson is something it noticed lately
+    // and may later be wrong about.
+    const lessons = await loadLessons(agent.id);
+    if (lessons.length > 0) ctx.outcome.lessonsApplied = lessons.map((l) => l.id);
+
     const port = opts.port ?? getModelPort();
     const result = await port.run({
       model: MODEL_IDS[agent.modelTier],
       system: agent.persona + RUNTIME_RULES,
-      user: build.task,
+      user: build.task + renderLessons(lessons),
       tools: agent.tools,
       ctx,
       maxTokens: agent.budget.maxTokensPerRun,

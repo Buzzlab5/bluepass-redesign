@@ -1136,3 +1136,46 @@ model AgentDecision {
   @@index([entityType, entityId])
   @@index([agentId, createdAt])
 }
+
+// ─── Agent learning ────────────────────────────────────────────────────────
+// What an agent has learned from its own outcomes. This is not model
+// training: it is durable context an agent reads before it acts, derived
+// from evidence already in the database (what the Verifier blocked, how
+// operators replied, where a person drew the line on a decision).
+//
+// A lesson is PROPOSED by the Coach and does nothing until a person makes
+// it ACTIVE. That gate is the whole safety property: an agent that could
+// write its own instructions unreviewed would eventually write away the
+// instructions that constrain it.
+
+enum AgentLessonStatus {
+  PROPOSED
+  ACTIVE
+  REJECTED
+  RETIRED
+}
+
+model AgentLesson {
+  id           String            @id @default(cuid())
+  agentId      String
+  // When this applies, in the agent's own terms, e.g. "first touch to a
+  // Rezdy operator". Kept narrow so a lesson cannot quietly become a rule.
+  scope        String
+  lesson       String
+  // The runs, outcomes and counts behind it. A lesson with no evidence is
+  // an opinion and must not be proposed.
+  evidence     Json?
+  status       AgentLessonStatus @default(PROPOSED)
+  proposedByRunId String?
+  decidedBy    String?
+  decidedAt    DateTime?
+  // Incremented each time an agent run loads it, so a lesson nobody ever
+  // hits can be retired rather than accumulating.
+  timesApplied Int               @default(0)
+  retiredReason String?
+  createdAt    DateTime          @default(now())
+  updatedAt    DateTime          @updatedAt
+
+  @@index([agentId, status])
+  @@index([status, createdAt])
+}

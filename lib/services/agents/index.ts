@@ -26,6 +26,14 @@ export {
   hasAgent,
 } from "./runtime/registry";
 export { getModelPort, setModelPort, ScriptedModel, MODEL_IDS } from "./runtime/model";
+export {
+  loadLessons,
+  listLessons,
+  proposeLesson,
+  decideLesson,
+  retireLesson,
+} from "./runtime/lessons";
+export type { Lesson, LessonStatus } from "./runtime/lessons";
 export { setDispatcher, dispatcherWired } from "./tools/dispatch";
 export type { Dispatcher, DispatchRequest, DispatchResult } from "./tools/dispatch";
 export { checkCopy, formatCopyCheck } from "./tools/copy-rules";

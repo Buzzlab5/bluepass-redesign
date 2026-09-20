@@ -32,6 +32,37 @@ operator's history readable as a single thread.
 | `opener` | Writes the first touch from what the Scout found | Nothing; every draft passes the Verifier first |
 | `reply-desk` | Classifies a reply, moves the lead, answers it | A reply it cannot read, or one from the wrong person |
 | `onboarder` | Moves operators who agreed but stalled, one concrete step | An operator a message will not fix |
+| `supply-health` | Demotes a listing a traveller could book but an operator could not honour | Putting a demoted listing back |
+| `trust-quality` | Reads a claim before a person approves it | Every claim; it never approves |
+| `watch` | Reads the logs, treats silence as the serious signal | Incidents, to Inov |
+| `partner-desk` | Reviews partners, issues tracked links, reads whether they get used | Anything about terms or money |
+| `operator-support` | Answers operators, sends the monthly standing note | Money owed, disputes, leaving |
+| `coach` | Proposes what each agent should do differently, from evidence | Every lesson, and the default is discard |
+
+## The learning loop
+
+Agents read what they have learned before they act. A lesson is a short,
+scoped instruction derived from evidence already in the database: what the
+copy rules kept blocking, how operators replied, where a person drew the
+line on a decision. The Coach proposes them weekly; a person makes them
+active at `/api/admin/agents/lessons`.
+
+Three properties keep this from drifting:
+
+**Lessons are proposed, never self-applied.** An agent that could write its
+own instructions unreviewed would eventually write away the ones that
+constrain it, and every step of that would read as reasonable at the time.
+An unanswered proposal defaults to discard, not to teach.
+
+**Lessons are context, not identity.** They go in the task, never the
+persona, which keeps the cached prefix stable and keeps the distinction
+honest: the persona is what an agent is, a lesson is something it noticed
+lately and may later be wrong about.
+
+**Lessons cannot reach the floor.** The copy rules, the gates, the
+manual-only channels and the tool allow-lists are enforced in code that
+never consults a lesson. The Coach also refuses to propose one that reads
+as loosening a rule, so the attempt fails twice over.
 
 ## Running it
 
