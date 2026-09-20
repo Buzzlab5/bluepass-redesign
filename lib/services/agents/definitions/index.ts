@@ -18,6 +18,8 @@ import { onboarderAgent } from "./onboarder";
 import { supplyHealthAgent } from "./supply-health";
 import { trustQualityAgent } from "./trust-quality";
 import { watchAgent } from "./watch";
+import { partnerDeskAgent } from "./partner-desk";
+import { operatorSupportAgent } from "./operator-support";
 
 export const ALL_AGENTS: AgentDefinition[] = [
   verifierAgent,
@@ -28,6 +30,8 @@ export const ALL_AGENTS: AgentDefinition[] = [
   supplyHealthAgent,
   trustQualityAgent,
   watchAgent,
+  partnerDeskAgent,
+  operatorSupportAgent,
 ];
 
 export function registerAllAgents(): void {
@@ -36,7 +40,7 @@ export function registerAllAgents(): void {
   }
 }
 
-export { verifierAgent, scoutAgent, openerAgent, replyDeskAgent, onboarderAgent, supplyHealthAgent, trustQualityAgent, watchAgent };
+export { verifierAgent, scoutAgent, openerAgent, replyDeskAgent, onboarderAgent, supplyHealthAgent, trustQualityAgent, watchAgent, partnerDeskAgent, operatorSupportAgent };
 export { VERIFIER_ID } from "./verifier";
 export { SCOUT_ID } from "./scout";
 export { OPENER_ID } from "./opener";
@@ -45,3 +49,5 @@ export { ONBOARDER_ID } from "./onboarder";
 export { SUPPLY_HEALTH_ID } from "./supply-health";
 export { TRUST_QUALITY_ID } from "./trust-quality";
 export { WATCH_ID } from "./watch";
+export { PARTNER_DESK_ID } from "./partner-desk";
+export { OPERATOR_SUPPORT_ID } from "./operator-support";
