@@ -62,3 +62,6 @@ next-env.d.ts
 .turbo
 .cache/
 .env*
+
+# throwaway client used to typecheck the agents offline
+.agent-typecheck/

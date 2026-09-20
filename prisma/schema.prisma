@@ -1038,3 +1038,101 @@ model BlogPost {
   @@index([categoryId])
   @@index([updatedAt])
 }
+
+// ─── Agent runtime ─────────────────────────────────────────────────────────
+// The substrate the BluePass agents run on. AgentJob is the durable queue:
+// one row per (agent, trigger key), so a replayed webhook or a cron that
+// fires twice cannot run an agent twice. AgentRun is the log every run
+// writes, including what it cost. AgentDecision is the short list of things
+// that wait for a person, each with a deadline and a safe default applied
+// when nobody answers.
+
+enum AgentJobStatus {
+  QUEUED
+  RUNNING
+  DONE
+  FAILED
+  CANCELLED
+}
+
+enum AgentRunStatus {
+  RUNNING
+  SUCCEEDED
+  FAILED
+  SKIPPED
+}
+
+enum AgentDecisionStatus {
+  PENDING
+  APPROVED
+  DENIED
+  EXPIRED
+}
+
+model AgentJob {
+  id          String         @id @default(cuid())
+  agentId     String
+  kind        String
+  triggerKey  String
+  payload     Json?
+  status      AgentJobStatus @default(QUEUED)
+  attempts    Int            @default(0)
+  maxAttempts Int            @default(3)
+  runAfter    DateTime       @default(now())
+  lockedAt    DateTime?
+  lastError   String?
+  runId       String?
+  createdAt   DateTime       @default(now())
+  updatedAt   DateTime       @updatedAt
+
+  @@unique([agentId, triggerKey])
+  @@index([status, runAfter])
+  @@index([agentId, createdAt])
+}
+
+model AgentRun {
+  id              String         @id @default(cuid())
+  agentId         String
+  jobId           String?
+  triggerKey      String
+  status          AgentRunStatus @default(RUNNING)
+  model           String?
+  inputTokens     Int            @default(0)
+  outputTokens    Int            @default(0)
+  cacheReadTokens Int            @default(0)
+  toolCalls       Json?
+  outcome         Json?
+  error           String?
+  startedAt       DateTime       @default(now())
+  finishedAt      DateTime?
+
+  @@index([agentId, startedAt])
+  @@index([status, startedAt])
+}
+
+model AgentDecision {
+  id            String              @id @default(cuid())
+  agentId       String
+  runId         String?
+  kind          String
+  title         String
+  summary       String
+  payload       Json?
+  options       Json?
+  defaultAction String
+  assignee      String
+  status        AgentDecisionStatus @default(PENDING)
+  decision      String?
+  decidedBy     String?
+  decidedAt     DateTime?
+  expiresAt     DateTime
+  onResolve     Json?
+  entityType    String?
+  entityId      String?
+  createdAt     DateTime            @default(now())
+  updatedAt     DateTime            @updatedAt
+
+  @@index([status, expiresAt])
+  @@index([entityType, entityId])
+  @@index([agentId, createdAt])
+}
