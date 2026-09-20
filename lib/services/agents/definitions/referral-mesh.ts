@@ -276,6 +276,7 @@ export const referralMeshAgent: AgentDefinition = {
   id: REFERRAL_MESH_ID,
   name: "Referral mesh",
   desk: "multipliers",
+  managedBy: "demand-manager",
   plane: "product",
   wave: 2,
   modelTier: "reasoning",

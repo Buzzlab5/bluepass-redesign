@@ -180,6 +180,7 @@ export const operatorSupportAgent: AgentDefinition = {
   id: OPERATOR_SUPPORT_ID,
   name: "Operator support",
   desk: "operators",
+  managedBy: "supply-manager",
   plane: "product",
   wave: 2,
   modelTier: "reasoning",

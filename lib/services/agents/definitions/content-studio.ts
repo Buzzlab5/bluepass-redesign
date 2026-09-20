@@ -164,6 +164,7 @@ export const contentStudioAgent: AgentDefinition = {
   id: CONTENT_STUDIO_ID,
   name: "Content studio",
   desk: "travellers",
+  managedBy: "demand-manager",
   plane: "operating",
   wave: 2,
   modelTier: "reasoning",

@@ -209,6 +209,7 @@ export const platformManagerAgent: AgentDefinition = {
   id: PLATFORM_MANAGER_ID,
   name: "Platform manager",
   desk: "company",
+  managedBy: "chief-of-staff",
   plane: "operating",
   wave: 2,
   modelTier: "reasoning",

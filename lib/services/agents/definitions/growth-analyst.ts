@@ -162,6 +162,7 @@ export const growthAnalystAgent: AgentDefinition = {
   id: GROWTH_ANALYST_ID,
   name: "Growth analyst",
   desk: "travellers",
+  managedBy: "demand-manager",
   plane: "operating",
   wave: 3,
   modelTier: "reasoning",

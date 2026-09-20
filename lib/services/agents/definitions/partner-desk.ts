@@ -276,6 +276,7 @@ export const partnerDeskAgent: AgentDefinition = {
   id: PARTNER_DESK_ID,
   name: "Partner desk",
   desk: "multipliers",
+  managedBy: "demand-manager",
   plane: "operating",
   wave: 2,
   modelTier: "reasoning",

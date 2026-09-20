@@ -41,6 +41,7 @@ export const SUPPLY_DESK = [
   "onboarder",
   "supply-health",
   "trust-quality",
+  "operator-support",
 ] as const;
 
 const readDesk: AgentTool = {
@@ -286,6 +287,7 @@ export const supplyManagerAgent: AgentDefinition = {
   id: SUPPLY_MANAGER_ID,
   name: "Supply manager",
   desk: "supply",
+  managedBy: "chief-of-staff",
   plane: "operating",
   wave: 2,
   modelTier: "reasoning",

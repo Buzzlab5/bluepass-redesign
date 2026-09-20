@@ -26,6 +26,8 @@ import { referralMeshAgent } from "./referral-mesh";
 import { supplyManagerAgent } from "./supply-manager";
 import { growthAnalystAgent } from "./growth-analyst";
 import { platformManagerAgent } from "./platform-manager";
+import { chiefOfStaffAgent } from "./chief-of-staff";
+import { demandManagerAgent } from "./demand-manager";
 
 export const ALL_AGENTS: AgentDefinition[] = [
   verifierAgent,
@@ -44,6 +46,8 @@ export const ALL_AGENTS: AgentDefinition[] = [
   supplyManagerAgent,
   growthAnalystAgent,
   platformManagerAgent,
+  demandManagerAgent,
+  chiefOfStaffAgent,
 ];
 
 export function registerAllAgents(): void {
@@ -52,7 +56,7 @@ export function registerAllAgents(): void {
   }
 }
 
-export { verifierAgent, scoutAgent, openerAgent, replyDeskAgent, onboarderAgent, supplyHealthAgent, trustQualityAgent, watchAgent, partnerDeskAgent, operatorSupportAgent, coachAgent, contentStudioAgent, referralMeshAgent, supplyManagerAgent, growthAnalystAgent, platformManagerAgent };
+export { verifierAgent, scoutAgent, openerAgent, replyDeskAgent, onboarderAgent, supplyHealthAgent, trustQualityAgent, watchAgent, partnerDeskAgent, operatorSupportAgent, coachAgent, contentStudioAgent, referralMeshAgent, supplyManagerAgent, growthAnalystAgent, platformManagerAgent, demandManagerAgent, chiefOfStaffAgent };
 export { VERIFIER_ID } from "./verifier";
 export { SCOUT_ID } from "./scout";
 export { OPENER_ID } from "./opener";
@@ -69,3 +73,5 @@ export { REFERRAL_MESH_ID } from "./referral-mesh";
 export { SUPPLY_MANAGER_ID, SUPPLY_DESK } from "./supply-manager";
 export { GROWTH_ANALYST_ID } from "./growth-analyst";
 export { PLATFORM_MANAGER_ID, PLATFORM_DESK } from "./platform-manager";
+export { CHIEF_OF_STAFF_ID, MANAGERS } from "./chief-of-staff";
+export { DEMAND_MANAGER_ID, DEMAND_DESK } from "./demand-manager";
