@@ -250,6 +250,7 @@ export const scoutAgent: AgentDefinition = {
   id: SCOUT_ID,
   name: "Scout",
   desk: "supply",
+  managedBy: "supply-manager",
   plane: "operating",
   wave: 1,
   modelTier: "classification",

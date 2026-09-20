@@ -7,6 +7,7 @@
 import { describe, it, expect, beforeEach, vi } from "vitest";
 
 const h = vi.hoisted(() => ({
+  directiveFindMany: vi.fn(),
   runCreate: vi.fn(),
   runUpdate: vi.fn(),
   runCount: vi.fn(),
@@ -22,6 +23,7 @@ const h = vi.hoisted(() => ({
 
 vi.mock("@/lib/db/prisma", () => ({
   prisma: {
+    agentDirective: { findMany: h.directiveFindMany },
     agentRun: { create: h.runCreate, update: h.runUpdate, count: h.runCount, findMany: h.agentRunFindMany },
     agentDecision: { findMany: h.decisionFindMany },
     agentLesson: {
@@ -58,6 +60,7 @@ function toolResults(): { name: string; result: string }[] {
 
 beforeEach(() => {
   Object.values(h).forEach((f) => f.mockReset());
+  h.directiveFindMany.mockResolvedValue([]);
   h.runCreate.mockResolvedValue({ id: "run_coach" });
   h.runUpdate.mockResolvedValue({});
   h.runCount.mockResolvedValue(0);

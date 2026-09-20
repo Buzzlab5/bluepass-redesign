@@ -34,6 +34,15 @@ export {
   retireLesson,
 } from "./runtime/lessons";
 export type { Lesson, LessonStatus } from "./runtime/lessons";
+export {
+  issueDirective,
+  revokeDirective,
+  expireDirectives,
+  resolveForAgent,
+  listDirectives,
+  checkInstruction,
+} from "./runtime/directives";
+export type { Levers, DirectiveScope } from "./runtime/directives";
 export { setDispatcher, dispatcherWired } from "./tools/dispatch";
 export type { Dispatcher, DispatchRequest, DispatchResult } from "./tools/dispatch";
 export { checkCopy, formatCopyCheck } from "./tools/copy-rules";

@@ -12,6 +12,7 @@ import { claimNextJob, completeJob, deferJob, failJob } from "./jobs";
 import { MODEL_IDS, getModelPort } from "./model";
 import { ensureAgentsLoaded, getAgent } from "./registry";
 import { loadLessons, renderLessons } from "./lessons";
+import { renderDirectives, resolveForAgent } from "./directives";
 import type {
   AgentDefinition,
   DecisionRequest,
@@ -114,6 +115,26 @@ export async function runJob(
   const ctx = makeContext(agent, run.id, job, payload, now);
 
   try {
+    // Standing direction is resolved before any work is done, so a paused
+    // agent costs nothing: no model call, no tools, just a recorded skip.
+    const directives = await resolveForAgent({ agentId: agent.id, managerId: agent.managedBy ?? null });
+    if (directives.levers.paused) {
+      await prisma.agentRun.update({
+        where: { id: run.id },
+        data: {
+          status: "SKIPPED",
+          outcome: { reason: "paused by a standing directive", instructions: directives.instructions } as Prisma.InputJsonValue,
+          finishedAt: now,
+        },
+      });
+      return { runId: run.id, status: "SKIPPED", outcome: { reason: "paused by a standing directive" } };
+    }
+    // A scope directive narrows the payload the agent builds its task from,
+    // so an agent told "Queensland only" queries Queensland rather than
+    // being asked politely to prefer it.
+    if (directives.levers.region && payload.region === undefined) payload.region = directives.levers.region;
+    if (directives.levers.category && payload.category === undefined) payload.category = directives.levers.category;
+
     const build = await agent.buildTask(payload, ctx);
     if (build.skip !== undefined) {
       await prisma.agentRun.update({
@@ -137,7 +158,7 @@ export async function runJob(
     const result = await port.run({
       model: MODEL_IDS[agent.modelTier],
       system: agent.persona + RUNTIME_RULES,
-      user: build.task + renderLessons(lessons),
+      user: build.task + renderDirectives(directives) + renderLessons(lessons),
       tools: agent.tools,
       ctx,
       maxTokens: agent.budget.maxTokensPerRun,
@@ -215,7 +236,11 @@ export async function drainJobs(
     stats.claimed++;
 
     const agent = getAgent(job.agentId);
-    if ((await runsToday(agent.id, now)) >= agent.budget.maxRunsPerDay) {
+    const { levers } = await resolveForAgent({ agentId: agent.id, managerId: agent.managedBy ?? null });
+    // Pace only ever narrows: a manager can slow an agent to nothing, and
+    // can never raise the ceiling set in the agent's own definition.
+    const dailyCap = Math.floor(agent.budget.maxRunsPerDay * (levers.pace ?? 1));
+    if ((await runsToday(agent.id, now)) >= dailyCap) {
       await deferJob(job.id, new Date(startOfUtcDay(now).getTime() + 86_400_000));
       stats.deferred++;
       continue;

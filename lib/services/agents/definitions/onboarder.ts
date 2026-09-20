@@ -271,6 +271,7 @@ export const onboarderAgent: AgentDefinition = {
   id: ONBOARDER_ID,
   name: "Onboarder",
   desk: "supply",
+  managedBy: "supply-manager",
   plane: "operating",
   wave: 1,
   modelTier: "reasoning",

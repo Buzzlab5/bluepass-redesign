@@ -164,6 +164,7 @@ export const trustQualityAgent: AgentDefinition = {
   id: TRUST_QUALITY_ID,
   name: "Trust and quality",
   desk: "operators",
+  managedBy: "supply-manager",
   plane: "product",
   wave: 2,
   modelTier: "reasoning",

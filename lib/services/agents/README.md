@@ -38,6 +38,9 @@ operator's history readable as a single thread.
 | `partner-desk` | Reviews partners, issues tracked links, reads whether they get used | Anything about terms or money |
 | `operator-support` | Answers operators, sends the monthly standing note | Money owed, disputes, leaving |
 | `coach` | Proposes what each agent should do differently, from evidence | Every lesson, and the default is discard |
+| `content-studio` | Writes articles for search; everything is a draft | Every draft, and it cannot publish |
+| `referral-mesh` | Rescues an enquiry an operator declined or ignored | Every referral, before it is sent |
+| **`supply-manager`** | **Runs the six supply agents and reports to Kirby** | **Only when something needs her this week** |
 
 ## The learning loop
 
@@ -63,6 +66,27 @@ lately and may later be wrong about.
 manual-only channels and the tool allow-lists are enforced in code that
 never consults a lesson. The Coach also refuses to propose one that reads
 as loosening a rule, so the attempt fails twice over.
+
+## The manager layer
+
+A manager is not a supervisor. It compresses a desk into one page, decides
+what deserves a person's attention, and turns plain language into settings
+its agents obey. It reads the database, never the agents, so it cannot
+report something the rows do not support. It is not in the path of the
+work: turn it off and every agent underneath keeps running.
+
+Four levers, and nothing else: **scope** (a region or segment), **pace** (a
+fraction of an agent's existing daily budget, never more), **pause**
+(always the safe direction), and **ask** (enqueue a run now).
+
+Two directives can only ever make an agent do less. Pause wins over
+everything; the slowest pace wins. That asymmetry is deliberate.
+
+The floor no directive reaches: the copy rules, gate assignment and
+defaults, the manual-only channels, an agent's tool allow-list, and
+anything that moves money. Those are enforced in code that never reads a
+directive, and an instruction asking for one is refused with the reason at
+`/api/admin/agents/directives`, never quietly dropped.
 
 ## Running it
 

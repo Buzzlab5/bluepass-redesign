@@ -116,6 +116,8 @@ export interface AgentDefinition {
   id: string;
   name: string;
   desk: Desk;
+  /** The manager whose directives apply to this agent, if any. */
+  managedBy?: string;
   plane: AgentPlane;
   wave: 0 | 1 | 2 | 3;
   modelTier: ModelTier;

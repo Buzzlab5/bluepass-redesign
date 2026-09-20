@@ -1179,3 +1179,60 @@ model AgentLesson {
   @@index([agentId, status])
   @@index([status, createdAt])
 }
+
+// ─── Manager layer ─────────────────────────────────────────────────────────
+// A directive is a standing instruction from a principal, translated from
+// plain language into the four settings a manager may change on its agents:
+// scope, pace, pause and ask. Nothing here can reach the copy rules, a
+// gate, a manual-only channel or an agent's tool allow-list; those are
+// enforced in code that never reads a directive.
+//
+// A manager report is generated from queries, never from an agent's own
+// account of itself, and carries the row ids behind each figure so a claim
+// can be checked rather than trusted.
+
+enum AgentDirectiveStatus {
+  ACTIVE
+  EXPIRED
+  REVOKED
+}
+
+model AgentDirective {
+  id           String               @id @default(cuid())
+  // The manager that owns it, or a single agent when it is narrower.
+  scopeType    String
+  scopeId      String
+  // What the principal actually said, kept verbatim so the translation can
+  // be checked against the intent.
+  instruction  String
+  // The structured translation: region, category, pause, pace multiplier.
+  levers       Json
+  issuedBy     String
+  status       AgentDirectiveStatus @default(ACTIVE)
+  expiresAt    DateTime?
+  revokedAt    DateTime?
+  revokedBy    String?
+  createdAt    DateTime             @default(now())
+  updatedAt    DateTime             @updatedAt
+
+  @@index([scopeType, scopeId, status])
+  @@index([status, expiresAt])
+}
+
+model ManagerReport {
+  id         String   @id @default(cuid())
+  managerId  String
+  reportsTo  String
+  period     String
+  // Figures, each with the query behind it.
+  metrics    Json
+  headline   String
+  concerns   Json?
+  // Row ids behind the claims, so a figure can be checked.
+  citations  Json?
+  runId      String?
+  createdAt  DateTime @default(now())
+
+  @@index([managerId, createdAt])
+  @@index([reportsTo, createdAt])
+}

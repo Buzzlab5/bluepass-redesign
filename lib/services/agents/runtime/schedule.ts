@@ -9,6 +9,7 @@
 import { enqueueJob } from "./jobs";
 import { agentsForCadence, ensureAgentsLoaded } from "./registry";
 import { expireDecisions } from "./decisions";
+import { expireDirectives } from "./directives";
 import { requeueStaleJobs } from "./jobs";
 import type { Cadence } from "./types";
 
@@ -67,6 +68,7 @@ export async function tickSchedules(
 ): Promise<{
   enqueued: { agentId: string; cadence: Cadence; bucket: string }[];
   expiredDecisions: number;
+  expiredDirectives: number;
   requeuedStale: number;
 }> {
   await ensureAgentsLoaded();
@@ -84,6 +86,7 @@ export async function tickSchedules(
     }
   }
   const expiredDecisions = await expireDecisions(now);
+  const expiredDirectives = await expireDirectives(now);
   const requeuedStale = await requeueStaleJobs(now);
-  return { enqueued, expiredDecisions, requeuedStale };
+  return { enqueued, expiredDecisions, expiredDirectives, requeuedStale };
 }

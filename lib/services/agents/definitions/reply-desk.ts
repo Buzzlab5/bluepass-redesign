@@ -209,6 +209,7 @@ export const replyDeskAgent: AgentDefinition = {
   id: REPLY_DESK_ID,
   name: "Reply desk",
   desk: "supply",
+  managedBy: "supply-manager",
   plane: "operating",
   wave: 1,
   modelTier: "reasoning",

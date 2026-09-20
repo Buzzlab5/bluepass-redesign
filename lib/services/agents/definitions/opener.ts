@@ -176,6 +176,7 @@ export const openerAgent: AgentDefinition = {
   id: OPENER_ID,
   name: "Opener",
   desk: "supply",
+  managedBy: "supply-manager",
   plane: "operating",
   wave: 1,
   modelTier: "reasoning",

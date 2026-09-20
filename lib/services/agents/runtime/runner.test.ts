@@ -3,6 +3,7 @@ import { z } from "zod";
 
 
 const h = vi.hoisted(() => ({
+  directiveFindMany: vi.fn(),
   lessonFindMany: vi.fn(),
   lessonUpdateMany: vi.fn(),
   runCreate: vi.fn(),
@@ -16,6 +17,7 @@ const h = vi.hoisted(() => ({
 
 vi.mock("@/lib/db/prisma", () => ({
   prisma: {
+    agentDirective: { findMany: h.directiveFindMany },
     agentLesson: { findMany: h.lessonFindMany, updateMany: h.lessonUpdateMany },
     agentRun: { create: h.runCreate, update: h.runUpdate, count: h.runCount },
     agentJob: { findMany: h.jobFindMany, updateMany: h.jobUpdateMany, update: h.jobUpdate },
@@ -89,6 +91,7 @@ const job = (over: Record<string, unknown> = {}) => ({
 
 beforeEach(() => {
   Object.values(h).forEach((f) => f.mockReset());
+  h.directiveFindMany.mockResolvedValue([]);
   h.lessonFindMany.mockResolvedValue([]);
   h.lessonUpdateMany.mockResolvedValue({ count: 0 });
   resetRegistryForTests();

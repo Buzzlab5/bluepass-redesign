@@ -167,6 +167,7 @@ export const supplyHealthAgent: AgentDefinition = {
   id: SUPPLY_HEALTH_ID,
   name: "Supply health",
   desk: "supply",
+  managedBy: "supply-manager",
   plane: "product",
   wave: 1,
   modelTier: "classification",

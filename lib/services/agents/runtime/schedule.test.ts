@@ -1,6 +1,7 @@
 import { describe, it, expect, beforeEach, vi } from "vitest";
 
 const h = vi.hoisted(() => ({
+  expireDirectives: vi.fn(),
   enqueueJob: vi.fn(),
   requeueStaleJobs: vi.fn(),
   expireDecisions: vi.fn(),
@@ -8,6 +9,7 @@ const h = vi.hoisted(() => ({
 
 vi.mock("./jobs", () => ({ enqueueJob: h.enqueueJob, requeueStaleJobs: h.requeueStaleJobs }));
 vi.mock("./decisions", () => ({ expireDecisions: h.expireDecisions }));
+vi.mock("./directives", () => ({ expireDirectives: h.expireDirectives }));
 vi.mock("../definitions", () => ({ registerAllAgents: () => {} }));
 
 import { dueCadences, isoWeek, tickSchedules } from "./schedule";
@@ -30,6 +32,7 @@ beforeEach(() => {
   h.enqueueJob.mockResolvedValue({ jobId: "j", created: true });
   h.requeueStaleJobs.mockResolvedValue(0);
   h.expireDecisions.mockResolvedValue(0);
+  h.expireDirectives.mockResolvedValue(0);
 });
 
 describe("dueCadences", () => {
