@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import PartnersHero from "@/components/partners/PartnersHero";
 import WhyPartner from "@/components/partners/WhyPartner";
 import QuietMoves from "@/components/partners/QuietMoves";
@@ -42,15 +43,28 @@ async function loadToolkitState(): Promise<PartnerToolkitState> {
   return { kind: "live", shareUrl: mainLink.shareUrl, clickCount: mainLink.clickCount };
 }
 
-export default async function PartnersPage() {
+/**
+ * Isolated behind its own Suspense boundary below so the session/DB lookups in
+ * `loadToolkitState` (slowest for a signed-in partner: session + profile + referral-link
+ * queries) never block the rest of the page. Everything else on /partners is static client
+ * markup with nothing to await - without this split, the whole route used to wait on that
+ * chain of round-trips before Next.js could send back anything at all, which is what made
+ * clicking "Partners" in the nav feel stuck rather than instant.
+ */
+async function PartnerToolkit() {
   const toolkitState = await loadToolkitState();
+  return <Toolkit state={toolkitState} />;
+}
 
+export default function PartnersPage() {
   return (
     <main style={{ background: "var(--color-canvas)", position: "relative" }}>
       <PartnersHero />
       <WhyPartner />
       <QuietMoves />
-      <Toolkit state={toolkitState} />
+      <Suspense fallback={<Toolkit state={{ kind: "demo" }} />}>
+        <PartnerToolkit />
+      </Suspense>
       <FeaturedCreators />
       <ReelProof />
       <PartnersCta />
