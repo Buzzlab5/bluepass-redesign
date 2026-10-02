@@ -6,7 +6,7 @@ import { gsap, useGSAP, reduced } from "@/lib/gsap";
 import KaiPanel from "./KaiPanel";
 import { isConsolePathname } from "@/lib/services/pathname";
 
-/** The floating "Ask Kai" pill — `showFloatingChat` in the design, default on. */
+/** The floating "Kai" pill — `showFloatingChat` in the design, default on. */
 export default function KaiChat() {
   const ref = useRef<HTMLButtonElement>(null);
   const [open, setOpen] = useState(false);
@@ -107,7 +107,7 @@ export default function KaiChat() {
       </span>
         <span style={{ display: "flex", flexDirection: "column", lineHeight: 1.2, textAlign: "left" }}>
           <span className="ds-body-sm" style={{ color: "var(--color-ink)" }}>
-            Ask Kai
+            Kai
           </span>
           <span className="ds-micro" style={{ color: "var(--color-ink-muted)" }}>
             Chat on bluepass.co
