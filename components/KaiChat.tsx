@@ -6,6 +6,10 @@ import { gsap, useGSAP, reduced } from "@/lib/gsap";
 import KaiPanel from "./KaiPanel";
 import { isConsolePathname } from "@/lib/services/pathname";
 
+/* Kai is still in development, so the whole widget (pill and panel) is switched off. Flip this
+   back to true to bring it back — nothing else was removed. */
+const KAI_ENABLED = false;
+
 /** The floating "Kai" pill — `showFloatingChat` in the design, default on. */
 export default function KaiChat() {
   const ref = useRef<HTMLButtonElement>(null);
@@ -84,7 +88,7 @@ export default function KaiChat() {
   /* After the hooks, never before them — the GSAP effect above already no-ops
      on a null ref, so bailing here costs nothing and keeps the hook order
      stable across routes. */
-  if (hidden) {
+  if (hidden || !KAI_ENABLED) {
     return null;
   }
 
