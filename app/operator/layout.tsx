@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import type { ReactNode } from "react";
-import OperatorNav from "@/components/operator/OperatorNav";
+import ConsoleShell from "@/components/console/ConsoleShell";
 import { currentOperatorPathname, requireOperatorOrRedirect } from "@/lib/services/operator/guard";
 
 export const metadata: Metadata = {
@@ -25,17 +25,14 @@ export default async function OperatorLayout({ children }: { children: ReactNode
   const { account, profile } = await requireOperatorOrRedirect(pathname);
 
   return (
-    /* Deliberately the admin console's shell, unmodified. An operator and an admin are looking at
-       variations of the same kind of page, and this area having its own visual language meant two
-       sets of console styles to keep in step — with the operator's half always the one lagging.
-       Consistency here is the feature. */
-    <div className="adm">
-      <aside className="adm__rail">
-        <OperatorNav companyName={profile.companyName} email={account.email} />
-      </aside>
-      <main className="adm__main">
-        <div className="adm__inner">{children}</div>
-      </main>
-    </div>
+    /* The same console shell as admin, CRM and partner: one visual language for every console. */
+    <ConsoleShell
+      area="Operator"
+      groups={[{ label: "Menu", items: [{ href: "/operator", label: "Dashboard", icon: "dashboard" }] }]}
+      person={profile.companyName ?? account.email}
+      role="Operator"
+    >
+      {children}
+    </ConsoleShell>
   );
 }

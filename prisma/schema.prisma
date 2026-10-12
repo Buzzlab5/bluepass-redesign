@@ -566,6 +566,12 @@ model OperatorListing {
   // pool of manual inquiries, and this is what turns that pool back into "this operator's inquiries"
   // (see lib/services/operator/dashboard.ts's rezdy-agent branch).
   externalProductId String?
+  // Where a traveller books this trip themselves when BluePass resells it as an affiliate or agent
+  // rather than through Kai: a FareHarbor Distribution Network referral link, or a Rezdy agent
+  // booking link. Both open the platform's own booking flow (live times, payment, confirmation),
+  // so no payment touches BluePass for these trips. Null means the trip is booked through Kai.
+  bookingUrl        String?
+  bookingPlatform   PmsPlatform?
   status            OperatorListingStatus @default(DRAFT)
   publishedAt       DateTime?
   archivedAt        DateTime?

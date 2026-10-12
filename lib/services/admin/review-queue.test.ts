@@ -1,5 +1,5 @@
 import { randomUUID } from "node:crypto";
-import { afterAll, describe, expect, it } from "vitest";
+import { afterAll, describe, expect, it, vi } from "vitest";
 import { prisma } from "@/lib/db/prisma";
 import { listPendingApprovals, resolveApproval } from "./review-queue";
 
@@ -189,13 +189,26 @@ describe("resolveApproval", () => {
 
   it("approves a partner application and gives them a referral partner", async () => {
     const { profile } = await seedPartnerApplication();
+    const notifyPartnerApproved = vi.fn(async () => undefined);
 
-    await resolveApproval({
-      kind: "partner-application",
-      id: profile.id,
-      decision: "approve",
-      reviewerEmail: REVIEWER,
-    });
+    await resolveApproval(
+      {
+        kind: "partner-application",
+        id: profile.id,
+        decision: "approve",
+        reviewerEmail: REVIEWER,
+      },
+      { notifyPartnerApproved },
+    );
+
+    // The welcome email goes out once, for this partner; approving again does not send another.
+    expect(notifyPartnerApproved).toHaveBeenCalledTimes(1);
+    expect(notifyPartnerApproved).toHaveBeenCalledWith(profile.id);
+    await resolveApproval(
+      { kind: "partner-application", id: profile.id, decision: "approve", reviewerEmail: REVIEWER },
+      { notifyPartnerApproved },
+    );
+    expect(notifyPartnerApproved).toHaveBeenCalledTimes(1);
 
     const reviewed = await prisma.partnerProfile.findUniqueOrThrow({
       where: { id: profile.id },

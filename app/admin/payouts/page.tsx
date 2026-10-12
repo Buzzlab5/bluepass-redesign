@@ -54,7 +54,6 @@ export default async function PayoutsPage({
   return (
     <>
       <AdminPageHeader
-        eyebrow="Money"
         title="Payouts & Ledger"
         support="Operator payouts run unattended on both the Australia and Indonesia paths. This is where you check they actually ran, and what each one paid."
       />

@@ -22,7 +22,6 @@ export default async function OperatorsPage() {
   return (
     <>
       <AdminPageHeader
-        eyebrow="Operators"
         title="Every operator profile"
         support={`${operators.length} profile${operators.length === 1 ? "" : "s"} — manually onboarded and Rezdy-synced alike. Open one to correct its details.`}
         aside={

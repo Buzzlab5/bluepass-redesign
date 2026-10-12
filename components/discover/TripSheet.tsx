@@ -506,18 +506,34 @@ export default function TripSheet() {
                 ) : null}
 
                 <div className="tsheet__acts">
-                  <Button
-                    variant="primary"
-                    large
-                    magnetic={false}
-                    onClick={() =>
-                      openKaiFor(
-                        `I'd like to book ${trip.name}${departure ? `, ${departure}` : ""}.`,
-                      )
-                    }
-                  >
-                    Request this trip
-                  </Button>
+                  {trip.booking ? (
+                    /* Resold as a FareHarbor affiliate or Rezdy agent: the platform's own booking
+                       page has the live calendar and takes the payment. FareHarbor's Lightframe
+                       script (loaded by the page) opens it as an overlay on this one; without it
+                       the link still works as a plain page. Rezdy opens in a new tab. */
+                    <Button
+                      variant="primary"
+                      large
+                      magnetic={false}
+                      href={trip.booking.url}
+                      target={trip.booking.platform === "REZDY" ? "_blank" : undefined}
+                    >
+                      Book now
+                    </Button>
+                  ) : (
+                    <Button
+                      variant="primary"
+                      large
+                      magnetic={false}
+                      onClick={() =>
+                        openKaiFor(
+                          `I'd like to book ${trip.name}${departure ? `, ${departure}` : ""}.`,
+                        )
+                      }
+                    >
+                      Request this trip
+                    </Button>
+                  )}
                   <Button
                     variant="translucent"
                     large
@@ -528,7 +544,9 @@ export default function TripSheet() {
                   </Button>
                 </div>
                 <span className="ds-micro tsheet__note">
-                  No card needed. Kai confirms with the operator first.
+                  {trip.booking
+                    ? `Live times and secure checkout on ${trip.booking.platform === "FAREHARBOR" ? "FareHarbor" : "Rezdy"}, the operator's own booking system.`
+                    : "No card needed. Kai confirms with the operator first."}
                 </span>
               </div>
 

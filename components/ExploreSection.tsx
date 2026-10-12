@@ -1,7 +1,6 @@
 "use client";
 
 import Image from "next/image";
-import { useRouter } from "next/navigation";
 import { useRef } from "react";
 import { gsap, useGSAP, reduced } from "@/lib/gsap";
 import { boats } from "@/lib/data";
@@ -10,7 +9,6 @@ import Button from "./ui/Button";
 
 export default function ExploreSection() {
   const ref = useRef<HTMLElement>(null);
-  const router = useRouter();
 
   useGSAP(
     () => {
@@ -307,7 +305,7 @@ export default function ExploreSection() {
         className="boats__cta"
         style={{ display: "flex", justifyContent: "center", marginTop: 44 }}
       >
-        <Button variant="translucent" large onClick={() => router.push("/")}>
+        <Button variant="translucent" large onClick={() => window.location.assign("/")}>
           Explore all trips
         </Button>
       </div>

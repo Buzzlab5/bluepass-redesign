@@ -1385,6 +1385,10 @@ export async function buildOperatorListingCatalogSnapshot() {
     imageUrl: listing.heroImageUrl,
     departuresPreview: [] as string[],
     interests: [] as string[],
+    // Set for trips resold as a FareHarbor affiliate or Rezdy agent: Kai hands over this link
+    // instead of collecting details for an operator enquiry.
+    bookingUrl: listing.bookingUrl,
+    bookingPlatform: listing.bookingPlatform,
   }));
 }
 

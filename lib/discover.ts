@@ -105,6 +105,16 @@ export type Trip = {
   impactSplit: ImpactSplit;
   /** Named recipient of the 5%, shown against the computed figure. */
   fundsPartner: string;
+  /**
+   * Set when BluePass resells this trip as a FareHarbor affiliate or Rezdy agent: the traveller
+   * books on that platform's own booking page instead of through Kai. Absent means Kai handles it.
+   */
+  booking?: TripBooking;
+};
+
+export type TripBooking = {
+  platform: "FAREHARBOR" | "REZDY";
+  url: string;
 };
 
 export const trips: Trip[] = [

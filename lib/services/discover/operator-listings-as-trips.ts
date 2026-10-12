@@ -1,3 +1,4 @@
+import type { OperatorListing } from "@prisma/client";
 import { prisma } from "@/lib/db/prisma";
 import type { Category, Trip } from "@/lib/discover";
 
@@ -43,7 +44,14 @@ export async function fetchSyncedTrips(): Promise<Trip[]> {
     orderBy: { publishedAt: "desc" },
   });
 
-  return listings.map((listing): Trip => ({
+  return listings.map(listingToTrip);
+}
+
+type ListingForTrip = OperatorListing & { operatorProfile: { companyName: string | null } };
+
+/** One live listing in the Trip shape the grid and sheet render. Pure, so it can be tested without a database. */
+export function listingToTrip(listing: ListingForTrip): Trip {
+  return {
     slug: listing.slug,
     name: listing.title,
     category: mapCategory(listing.category),
@@ -68,5 +76,8 @@ export async function fetchSyncedTrips(): Promise<Trip[]> {
     // sync with whatever the curated 6 trips' typical split is if that changes.
     impactSplit: { protect: 40, restore: 30, uplift: 30 },
     fundsPartner: "ocean and reef conservation",
-  }));
+    ...(listing.bookingUrl && (listing.bookingPlatform === "FAREHARBOR" || listing.bookingPlatform === "REZDY")
+      ? { booking: { platform: listing.bookingPlatform, url: listing.bookingUrl } }
+      : {}),
+  };
 }

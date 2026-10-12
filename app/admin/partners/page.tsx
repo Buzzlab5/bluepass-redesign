@@ -21,7 +21,6 @@ export default async function PartnersPage() {
   return (
     <>
       <AdminPageHeader
-        eyebrow="Partners"
         title="Every partner profile"
         support={`${partners.length} profile${partners.length === 1 ? "" : "s"} — approved, declined, and still-pending alike. Open one to correct its category or notes.`}
       />

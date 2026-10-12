@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 import AuthShell from "@/components/auth/AuthShell";
 import Field from "@/components/auth/Field";
@@ -21,7 +20,6 @@ import { PASSWORD_MIN, resetPassword } from "@/lib/auth-client";
  * means the token never appears in a server-rendered payload.
  */
 export default function ResetPasswordPage() {
-  const router = useRouter();
   const [token, setToken] = useState<string | null>(null);
   const [ready, setReady] = useState(false);
   const [password, setPassword] = useState("");
@@ -61,7 +59,7 @@ export default function ResetPasswordPage() {
 
     /* Reset does not create a session, so the visitor still has to sign in —
        the flash flag turns that into a confirmation instead of a bare form. */
-    router.push("/login?passwordReset=1");
+    window.location.assign("/login?passwordReset=1");
   };
 
   const shell = {
@@ -87,7 +85,7 @@ export default function ResetPasswordPage() {
           No reset token in this URL. Open the link straight from the email, or request a new one.
         </Notice>
         <div className="aactions">
-          <Button variant="primary" large magnetic={false} onClick={() => router.push("/login")}>
+          <Button variant="primary" large magnetic={false} onClick={() => window.location.assign("/login")}>
             Request a new link
           </Button>
         </div>

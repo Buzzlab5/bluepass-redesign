@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import type { ReactNode } from "react";
-import PartnerNav from "@/components/partner/PartnerNav";
+import ConsoleShell from "@/components/console/ConsoleShell";
 import { currentPartnerPathname, requirePartnerOrRedirect } from "@/lib/services/partner/guard";
 
 export const metadata: Metadata = {
@@ -22,15 +22,14 @@ export default async function PartnerLayout({ children }: { children: ReactNode 
   const { account, profile } = await requirePartnerOrRedirect(pathname);
 
   return (
-    /* Deliberately the same console shell as admin/operator — see OperatorLayout for why a third
-       visual language for this area would be pure cost. */
-    <div className="adm">
-      <aside className="adm__rail">
-        <PartnerNav handle={profile.handle} email={account.email} />
-      </aside>
-      <main className="adm__main">
-        <div className="adm__inner">{children}</div>
-      </main>
-    </div>
+    /* The same console shell as admin, CRM and operator: one visual language for every console. */
+    <ConsoleShell
+      area="Partner"
+      groups={[{ label: "Menu", items: [{ href: "/partner-portal", label: "Dashboard", icon: "dashboard" }] }]}
+      person={profile.handle ?? account.email}
+      role="Partner"
+    >
+      {children}
+    </ConsoleShell>
   );
 }

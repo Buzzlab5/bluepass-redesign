@@ -51,7 +51,7 @@ async function requireOwnedListing(listingId: string, operatorProfileId: string)
   return listing;
 }
 
-async function buildUniqueListingSlug(title: string) {
+export async function buildUniqueListingSlug(title: string) {
   const base = normalizeSlug(title) || "listing";
 
   for (let attempt = 0; attempt < 20; attempt += 1) {
@@ -91,7 +91,7 @@ function listingWriteData(input: OperatorListingInput) {
 // loose formats (bare domain, no scheme), so this is deliberately forgiving rather than rejecting
 // via zod's strict .url() - which is what previously crashed the "New listing" form on any
 // heroImageUrl missing "https://".
-function normalizeOptionalUrl(value?: string | null) {
+export function normalizeOptionalUrl(value?: string | null) {
   const raw = value?.trim();
 
   if (!raw) {

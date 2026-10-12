@@ -73,7 +73,6 @@ export default async function LeadsPage({
   return (
     <>
       <AdminPageHeader
-        eyebrow="Outreach"
         title="Operator leads"
         support={`${list.totals.all} lead${list.totals.all === 1 ? "" : "s"} in the pipeline — ${list.totals.needsOutreach} still untouched, ${list.totals.contacted} contacted, ${list.totals.inDiscussion} in discussion, ${list.totals.approved} signed.`}
       />

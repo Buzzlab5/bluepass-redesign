@@ -29,7 +29,6 @@ export default async function PartnerDashboardPage() {
   return (
     <>
       <AdminPageHeader
-        eyebrow="Your account"
         title={profile.handle ?? "Your partner dashboard"}
         support="Your referral link, what it's earned so far, and your own profile."
       />
