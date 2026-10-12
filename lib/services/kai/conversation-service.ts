@@ -523,8 +523,8 @@ export function buildSuggestedReplies(
     const destination = intent.destination ?? "there";
     return [
       { label: "Best season?", message: `What is the best time to go to ${destination}?` },
-      { label: "July 2026", message: "July 2026" },
-      { label: "October 2026", message: "October 2026" },
+      { label: "December 2026", message: "December 2026" },
+      { label: "January 2027", message: "January 2027" },
     ];
   }
 

@@ -9,6 +9,7 @@
     "lint": "next lint",
     "test": "vitest run",
     "test:watch": "vitest",
+    "check:dates": "node scripts/check-stale-dates.mjs",
     "postinstall": "prisma generate"
   },
   "dependencies": {
