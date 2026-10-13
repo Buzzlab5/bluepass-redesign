@@ -19,6 +19,7 @@ export type SavedTripSummary = {
   operator: string;
   region: string;
   price: number;
+  currency?: string;
   img: string;
 };
 
@@ -44,6 +45,7 @@ export async function loadSavedTripSummaries(accountId: string): Promise<SavedTr
       operator: trip.operator,
       region: trip.region,
       price: trip.price,
+      currency: trip.currency,
       img: trip.img,
     }));
 }

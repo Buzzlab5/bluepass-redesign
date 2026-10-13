@@ -572,6 +572,10 @@ model OperatorListing {
   // so no payment touches BluePass for these trips. Null means the trip is booked through Kai.
   bookingUrl        String?
   bookingPlatform   PmsPlatform?
+  // The trip on Kai's own booking system (NativeTrip.id) this listing was written from, when the
+  // operator runs trips on BluePass rather than on Rezdy or FareHarbor. Publishing or unpublishing
+  // that trip keeps this listing in step, so the website never shows a trip Kai cannot sell.
+  nativeTripId      String?               @unique
   status            OperatorListingStatus @default(DRAFT)
   publishedAt       DateTime?
   archivedAt        DateTime?

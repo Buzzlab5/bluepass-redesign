@@ -62,6 +62,7 @@ export function listingToTrip(listing: ListingForTrip): Trip {
     // Universal, true for every trip on the platform - not a claim about this specific operator.
     impact: "funds ocean and reef conservation",
     price: listing.priceFrom as number,
+    currency: listing.currency,
     img: listing.heroImageUrl || FALLBACK_IMAGE,
     // No stock-photo stand-in here, unlike the 6 curated demo trips (lib/discover.ts) - a real
     // operator listing with no real gallery photos should show no gallery, not stock ones.

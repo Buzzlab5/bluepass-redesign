@@ -1,8 +1,8 @@
 import Image from "next/image";
 import Link from "next/link";
+import { tripMoney } from "@/lib/discover";
 import type { SavedTripSummary } from "@/lib/services/account/saved-trips";
 
-const aud = (n: number) => "A$" + n.toLocaleString("en-AU");
 
 /** Reuses Discover's own `region` query param to land close to the trip - there's no per-trip page
  * to deep-link to, and adding one is its own project, not part of shortlisting one. */
@@ -26,7 +26,7 @@ export default function SavedTripList({ trips }: { trips: SavedTripSummary[] }) 
               <span className="ds-micro acct-saved__meta">
                 {trip.operator} · {trip.region}
               </span>
-              <span className="ds-body-sm acct-saved__price">from {aud(trip.price)}</span>
+              <span className="ds-body-sm acct-saved__price">from {tripMoney(trip.price, trip.currency)}</span>
             </span>
           </Link>
         </li>

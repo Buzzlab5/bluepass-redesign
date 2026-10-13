@@ -1236,7 +1236,7 @@ export async function resumeKaiCoreSession(
   };
 }
 
-function resolveKaiCoreConfig(env: KaiCoreClientEnv, region: KaiRegion = "indonesia") {
+export function resolveKaiCoreConfig(env: KaiCoreClientEnv, region: KaiRegion = "indonesia") {
   return {
     baseUrl: (env.KAI_CORE_BASE_URL ?? "http://127.0.0.1:3107").replace(/\/$/, ""),
     widgetKey:
@@ -1247,14 +1247,14 @@ function resolveKaiCoreConfig(env: KaiCoreClientEnv, region: KaiRegion = "indone
   };
 }
 
-function buildKaiCoreHeaders(config: ReturnType<typeof resolveKaiCoreConfig>) {
+export function buildKaiCoreHeaders(config: ReturnType<typeof resolveKaiCoreConfig>) {
   return {
     "Content-Type": "application/json",
     origin: config.origin,
   };
 }
 
-async function fetchKaiCoreWithRetry(fetchImpl: FetchLike, url: string, init: RequestInit) {
+export async function fetchKaiCoreWithRetry(fetchImpl: FetchLike, url: string, init: RequestInit) {
   let lastError: unknown;
 
   for (let attempt = 0; attempt < 2; attempt += 1) {

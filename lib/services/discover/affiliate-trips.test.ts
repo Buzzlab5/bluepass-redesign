@@ -45,6 +45,7 @@ function listing(overrides: Partial<OperatorListing> = {}) {
     externalProductId: null,
     bookingUrl: null,
     bookingPlatform: null,
+    nativeTripId: null,
     status: "LIVE",
     publishedAt: new Date(),
     archivedAt: null,

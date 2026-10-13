@@ -8,6 +8,7 @@ import {
   categories,
   categoryIcon,
   ALL_REGIONS,
+  tripMoney,
   type Trip,
 } from "@/lib/discover";
 import Button from "../ui/Button";
@@ -16,7 +17,6 @@ import { useDiscover, RESULTS_ID, type CategoryFilter } from "./DiscoverState";
 
 const filters: CategoryFilter[] = ["All", ...categories];
 
-const aud = (n: number) => "A$" + n.toLocaleString("en-AU");
 
 export default function TripGrid() {
   const ref = useRef<HTMLElement>(null);
@@ -328,7 +328,7 @@ export default function TripGrid() {
 
               <div className="trip__foot">
                 <div className="trip__price">
-                  <span className="ds-display-md">{aud(t.price)}</span>
+                  <span className="ds-display-md">{tripMoney(t.price, t.currency)}</span>
                   <span className="ds-micro">/guest</span>
                 </div>
                 <span className="trip__cta">

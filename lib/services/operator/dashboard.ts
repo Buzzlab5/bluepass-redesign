@@ -167,6 +167,8 @@ export type OperatorListingRow = {
   maxGuests: number | null;
   priceFrom: number | null;
   currency: string;
+  /** Set when the listing is written from a trip on the Trips page, which is then the only place to change it. */
+  nativeTripId: string | null;
 };
 
 /**
@@ -193,6 +195,7 @@ export async function loadOperatorListings(operatorProfileId: string): Promise<O
       maxGuests: true,
       priceFrom: true,
       currency: true,
+      nativeTripId: true,
     },
   });
 }

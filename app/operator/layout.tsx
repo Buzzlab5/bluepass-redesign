@@ -28,7 +28,16 @@ export default async function OperatorLayout({ children }: { children: ReactNode
     /* The same console shell as admin, CRM and partner: one visual language for every console. */
     <ConsoleShell
       area="Operator"
-      groups={[{ label: "Menu", items: [{ href: "/operator", label: "Dashboard", icon: "dashboard" }] }]}
+      groups={[
+        {
+          label: "Menu",
+          items: [
+            { href: "/operator", label: "Dashboard", icon: "dashboard" },
+            { href: "/operator/trips", label: "Trips", icon: "trips" },
+            { href: "/operator/bookings", label: "Bookings", icon: "approvals" },
+          ],
+        },
+      ]}
       person={profile.companyName ?? account.email}
       role="Operator"
     >

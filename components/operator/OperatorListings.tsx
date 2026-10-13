@@ -94,7 +94,10 @@ function ListingCard({
     publishListingAction.bind(null, listing.id),
     IDLE,
   );
-  const canEdit = editable && listing.status === "DRAFT";
+  /* A listing written from a trip is changed on the Trips page; editing it here would be overwritten
+     by the next save there, and publishing it here would skip the check that the trip is sellable. */
+  const managedByTrip = listing.nativeTripId !== null;
+  const canEdit = editable && !managedByTrip && listing.status === "DRAFT";
   const canPublish = editable && listing.status === "DRAFT" && publishState.status !== "done";
 
   return (
@@ -124,6 +127,12 @@ function ListingCard({
           </dd>
         </div>
       </dl>
+
+      {managedByTrip ? (
+        <p className="ds-body-sm" style={{ marginTop: 12 }}>
+          This listing comes from one of your trips. <a href={`/operator/trips/${listing.nativeTripId}`}>Change it on the Trips page.</a>
+        </p>
+      ) : null}
 
       {canEdit ? (
         <div className="adm-form__submit" style={{ marginTop: 12 }}>

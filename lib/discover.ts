@@ -76,6 +76,8 @@ export type Trip = {
   /** Attribution for `quote`, shown in the sheet's pull-quote. */
   quoteBy?: string;
   price: number;
+  /** ISO currency of `price`. Unset means AUD, which is what the curated and Rezdy trips are priced in. */
+  currency?: string;
   /** Optional and never fabricated (2026-08-21, Tony's UX audit §9) - there's no real inventory
       system to check remaining spots against, so leave this unset rather than claim a scarcity
       figure nobody can verify. A future real availability integration can set it honestly. */
@@ -116,6 +118,16 @@ export type TripBooking = {
   platform: "FAREHARBOR" | "REZDY";
   url: string;
 };
+
+const MONEY_PREFIX: Record<string, string> = { AUD: "A$", USD: "US$", EUR: "€", IDR: "Rp " };
+
+/** A trip's price in its own currency. AUD keeps the "A$1,200" look the site was drawn with; other
+ *  currencies are named so a Barbados trip in US dollars is never read as Australian dollars. */
+export function tripMoney(amount: number, currency?: string): string {
+  const code = (currency ?? "AUD").toUpperCase();
+  const prefix = MONEY_PREFIX[code] ?? `${code} `;
+  return prefix + amount.toLocaleString(code === "AUD" ? "en-AU" : "en-US");
+}
 
 export const trips: Trip[] = [
   {

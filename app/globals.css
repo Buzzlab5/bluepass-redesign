@@ -9663,3 +9663,100 @@ html.is-scroll-locked body {
     font-size: 26px;
   }
 }
+
+/* Operator trips and bookings ---------------------------------------------- */
+/* Rows the operator adds and removes (photos, tickets, departure times, closed days). One column on
+   a phone, because this is filled in on a boat dock as often as at a desk. */
+.adm-rows {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+.adm-rows__item {
+  display: grid;
+  gap: var(--space-md);
+  grid-template-columns: minmax(0, 1fr);
+  align-items: end;
+  padding-bottom: var(--space-md);
+  border-bottom: 1px solid var(--color-hairline);
+}
+.adm-rows__item:last-child {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+.adm-rows__remove {
+  justify-self: start;
+  padding: 0;
+  white-space: nowrap;
+}
+@media (min-width: 760px) {
+  .adm-rows__item {
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+  .adm-rows__item--ticket {
+    grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr) minmax(0, 1.2fr) auto;
+  }
+  .adm-rows__item--blackout {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1.4fr) auto;
+  }
+  .adm-rows__remove {
+    padding: 14px 0;
+  }
+}
+.adm-rows__item--schedule {
+  grid-template-columns: minmax(0, 1fr);
+  align-items: start;
+}
+.adm-days {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs);
+}
+.adm-days__day {
+  min-width: 48px;
+  min-height: 44px;
+  padding: 0 14px;
+  border-radius: 999px;
+  border: 1px solid var(--color-hairline);
+  background: transparent;
+  color: var(--color-ink-muted, var(--color-ink));
+  font: inherit;
+  cursor: pointer;
+}
+.adm-days__day.is-on {
+  background: var(--color-accent-blue-soft);
+  border-color: var(--color-accent-blue);
+  color: var(--color-ink);
+}
+.adm-days__day:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+.adm-trip-status {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+}
+.adm-trip-danger {
+  align-items: center;
+  flex-wrap: wrap;
+}
+/* Booking inbox */
+.adm-booking {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+.adm-booking__answer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+  align-items: center;
+}
+.adm-booking__answer form {
+  display: contents;
+}

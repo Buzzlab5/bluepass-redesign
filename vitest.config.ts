@@ -14,6 +14,17 @@ export default defineConfig({
     environment: "node",
     include: ["lib/**/*.test.ts"],
     /**
+     * The booking CMS suites empty tables (TRUNCATE ... "BluePassAccount" CASCADE) before every test,
+     * so they only run through vitest.rails.config.ts, whose setup file refuses any database that
+     * is not local. Left in this config they would run against the shared Supabase.
+     */
+    exclude: [
+      "**/node_modules/**",
+      "lib/services/rails/**",
+      "lib/services/channels/**",
+      "lib/services/operators/prepared-*.test.ts",
+    ],
+    /**
      * Test files run one at a time.
      *
      * Almost every suite here talks to the real shared Supabase, and vitest's default is a fork per

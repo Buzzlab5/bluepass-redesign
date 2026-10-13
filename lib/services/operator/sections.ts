@@ -9,7 +9,11 @@ export type OperatorSection = {
   label: string;
 };
 
-export const OPERATOR_SECTIONS: OperatorSection[] = [{ href: "/operator", label: "Dashboard" }];
+export const OPERATOR_SECTIONS: OperatorSection[] = [
+  { href: "/operator", label: "Dashboard" },
+  { href: "/operator/trips", label: "Trips" },
+  { href: "/operator/bookings", label: "Bookings" },
+];
 
 /** Longest-prefix match, so a future `/operator/listings/:id` highlights its section. */
 export function activeOperatorSection(pathname: string) {

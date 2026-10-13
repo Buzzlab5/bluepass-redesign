@@ -5,13 +5,12 @@ import { useEffect, useRef, useState } from "react";
 import { createPortal } from "react-dom";
 import { gsap, useGSAP, reduced } from "@/lib/gsap";
 import { lockScroll, unlockScroll } from "@/lib/lenis";
-import { categoryIcon, platformCancellationPolicy, standardExclusions } from "@/lib/discover";
+import { categoryIcon, platformCancellationPolicy, standardExclusions, tripMoney } from "@/lib/discover";
 import { threeWays } from "@/lib/data";
 import Button from "../ui/Button";
 import { MaskLines } from "../ui/Text";
 import { useDiscover } from "./DiscoverState";
 
-const aud = (n: number) => "A$" + n.toLocaleString("en-AU");
 
 /** The three ways, keyed to match `Trip.impactSplit`. */
 const ways = [
@@ -163,7 +162,7 @@ export default function TripSheet() {
           ease: "bp-out",
           delay: 0.7,
           onUpdate: () => {
-            node.textContent = aud(Math.round(obj.v));
+            node.textContent = tripMoney(Math.round(obj.v), trip.currency);
           },
         });
       }
@@ -303,7 +302,7 @@ export default function TripSheet() {
                   { k: "Operator", v: trip.operator },
                   { k: "Duration", v: trip.duration },
                   { k: "Aboard", v: trip.detail },
-                  { k: "From", v: `${aud(trip.price)} /guest` },
+                  { k: "From", v: `${tripMoney(trip.price, trip.currency)} /guest` },
                 ].map((f) => (
                   <div key={f.k} className="tsheet__fact">
                     <span className="ds-micro tsheet__fact-k">{f.k}</span>
@@ -472,7 +471,7 @@ export default function TripSheet() {
             <aside className="tsheet__side">
               <div className="tsheet__card tsheet__price-card">
                 <div className="tsheet__price">
-                  <span className="ds-display-md">{aud(trip.price)}</span>
+                  <span className="ds-display-md">{tripMoney(trip.price, trip.currency)}</span>
                   <span className="ds-micro">/guest</span>
                 </div>
                 <div className="ds-micro tsheet__rate">
@@ -553,7 +552,7 @@ export default function TripSheet() {
               <div className="tsheet__card tsheet__give">
                 <span className="ds-micro tsheet__label">What the 5% does here</span>
                 <div className="tsheet__give-line">
-                  <span className="ds-display-md tsheet__give-value">{aud(give)}</span>
+                  <span className="ds-display-md tsheet__give-value">{tripMoney(give, trip.currency)}</span>
                   <span className="ds-body-sm">of this fare</span>
                 </div>
                 {/* This is the conservation-partner line that used to sit on every grid card
@@ -609,10 +608,10 @@ export default function TripSheet() {
         <div className="tsheet__dock">
           <div>
             <div className="tsheet__price">
-              <span className="ds-headline">{aud(trip.price)}</span>
+              <span className="ds-headline">{tripMoney(trip.price, trip.currency)}</span>
               <span className="ds-micro">/guest</span>
             </div>
-            <span className="ds-micro tsheet__dock-give">{aud(give)} to {trip.fundsPartner}</span>
+            <span className="ds-micro tsheet__dock-give">{tripMoney(give, trip.currency)} to {trip.fundsPartner}</span>
           </div>
           <Button
             variant="primary"
