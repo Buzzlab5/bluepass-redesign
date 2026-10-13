@@ -14,7 +14,6 @@ export default async function BlogCategoriesPage() {
   return (
     <>
       <AdminPageHeader
-        eyebrow="Blog"
         title="Categories"
         support="Each category gets its own indexable archive at /blog/category/…, which is a second route into the articles filed under it. Keep them few and keep them real — five categories with four articles each beat twenty with one."
         aside={

@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 import AuthShell from "@/components/auth/AuthShell";
 import Field from "@/components/auth/Field";
@@ -98,7 +97,6 @@ function landingFor(roles: string[]) {
 }
 
 export default function LoginPage() {
-  const router = useRouter();
   const { refresh } = useSession();
   const [mode, setMode] = useState<Mode>("signin");
   const [email, setEmail] = useState("");
@@ -161,8 +159,8 @@ export default function LoginPage() {
     /* The cookie is set — pull the session before navigating so the nav is
        already showing the signed-in state when the next page paints. */
     const me = await refresh();
-    router.push(next ?? landingFor(me?.roles ?? []));
-    router.refresh();
+    // A full page load, so the browser shows its own loading spinner while the next page loads.
+    window.location.assign(next ?? landingFor(me?.roles ?? []));
   };
 
   const onResend = async () => {

@@ -21,14 +21,13 @@ export default async function OperatorPagePhotos() {
 
   if (!claimed) {
     return (
-      <AdminPageHeader eyebrow="Your page" title="No prepared page" support="Bluepass has not prepared a page for your business. Your trips show from what you add under Trips." />
+      <AdminPageHeader title="No prepared page" support="Bluepass has not prepared a page for your business. Your trips show from what you add under Trips." />
     );
   }
 
   return (
     <>
       <AdminPageHeader
-        eyebrow="Your page"
         title="Your Bluepass page"
         support={`We built it from ${claimed.name}'s website. Choose which of your photos travellers see, and check which Rezdy trip each trip books through.`}
         aside={claimed.pageLive ? <Link href={`/operators/${claimed.slug}`} target="_blank" className="ds-body-sm">See your page ↗</Link> : null}

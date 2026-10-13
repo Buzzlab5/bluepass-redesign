@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import type { ReactNode } from "react";
-import CrmTopbar from "@/components/crm/CrmTopbar";
+import ConsoleShell from "@/components/console/ConsoleShell";
 import { currentCrmPathname, requireAdminOrRedirect } from "@/lib/services/admin/guard";
 
 export const metadata: Metadata = {
@@ -25,11 +25,16 @@ export default async function CrmLayout({ children }: { children: ReactNode }) {
   const admin = await requireAdminOrRedirect(pathname);
 
   return (
-    <div className="crm">
-      <CrmTopbar adminEmail={admin.email} />
-      <main className="crm__main">
-        <div className="crm__inner">{children}</div>
-      </main>
-    </div>
+    <ConsoleShell
+      area="Outreach CRM"
+      groups={[
+        { label: "Outreach", items: [{ href: "/crm", label: "Leads", icon: "leads" }] },
+        { label: "Admin", items: [{ href: "/admin", label: "Admin console", icon: "overview" }] },
+      ]}
+      person={admin.displayName || admin.email}
+      role="Admin"
+    >
+      {children}
+    </ConsoleShell>
   );
 }

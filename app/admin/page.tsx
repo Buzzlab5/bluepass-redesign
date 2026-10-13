@@ -20,7 +20,6 @@ export default async function AdminIndexPage() {
   return (
     <>
       <AdminPageHeader
-        eyebrow="Control plane"
         title="Admin"
         support="The parts of Bluepass that need a person: who gets to take money as an operator, who earns commission as a partner, and what their payouts are attached to."
       />

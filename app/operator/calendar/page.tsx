@@ -56,7 +56,7 @@ export default async function CalendarPage({ searchParams }: { searchParams: Pro
   return (
     <>
       <AdminPageHeader
-        eyebrow={isThisWeek ? "Next 7 days" : `${RANGE.format(asDate(first))} to ${RANGE.format(asDate(last))}`}
+        context={isThisWeek ? "Next 7 days" : `${RANGE.format(asDate(first))} to ${RANGE.format(asDate(last))}`}
         title="Calendar"
         support={departures === 0 ? "Nothing scheduled in these seven days." : `${departures} ${departures === 1 ? "departure" : "departures"} · ${guests} ${guests === 1 ? "guest" : "guests"} booked`}
         aside={

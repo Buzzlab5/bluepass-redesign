@@ -55,6 +55,13 @@ export function payoutTone(status: string): PillTone {
   return PAYOUT_TONES[status.toUpperCase()] ?? "muted";
 }
 
+/** "OPERATOR_NOTIFIED" -> "Operator notified": raw database values read as plain words, never in capitals. */
+export function humanizeStatus(value: string) {
+  if (!/^[A-Z0-9_]+$/.test(value)) return value;
+  const words = value.toLowerCase().replace(/_/g, " ");
+  return words.charAt(0).toUpperCase() + words.slice(1);
+}
+
 export default function StatusPill({
   tone,
   children,
@@ -66,7 +73,7 @@ export default function StatusPill({
 }) {
   return (
     <span className={`ds-micro adm-status adm-status--${tone}`} title={title}>
-      {children}
+      {typeof children === "string" ? humanizeStatus(children) : children}
     </span>
   );
 }

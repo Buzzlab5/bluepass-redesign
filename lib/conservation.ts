@@ -61,7 +61,7 @@ export const partners: Partner[] = [
     name: "Great Barrier Reef Foundation",
     region: "Cairns",
     desc: "Reef restoration, local monitoring, and mooring education.",
-    nextReport: "June 2026",
+    nextReport: "November 2026",
     img: "/reef-conservation2.jpg",
   },
   {
@@ -69,7 +69,7 @@ export const partners: Partner[] = [
     name: "Whitsundays Marine Trust",
     region: "Airlie Beach",
     desc: "Community reef patrols and coral nursery support.",
-    nextReport: "June 2026",
+    nextReport: "November 2026",
     img: "/great-barrier-3.jpg",
   },
   {
@@ -77,7 +77,7 @@ export const partners: Partner[] = [
     name: "Hervey Bay Whale Research",
     region: "Hervey Bay",
     desc: "Humpback migration monitoring and youth ocean education.",
-    nextReport: "July 2026",
+    nextReport: "December 2026",
     img: "/great-barrier-4.jpg",
   },
 ];

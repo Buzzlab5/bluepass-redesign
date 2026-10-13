@@ -20,7 +20,7 @@ export default async function EditBlogPostPage({ params }: { params: Promise<{ i
   return (
     <>
       <AdminPageHeader
-        eyebrow={post.status === "PUBLISHED" ? "Live article" : "Draft"}
+        context={post.status === "PUBLISHED" ? "Live" : "Draft"}
         title={post.title || "Untitled article"}
         support={
           post.status === "PUBLISHED"

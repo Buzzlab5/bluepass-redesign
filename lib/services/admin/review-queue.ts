@@ -1,5 +1,6 @@
 import type { PartnerCategory } from "@prisma/client";
 import { prisma } from "@/lib/db/prisma";
+import { sendPartnerApprovedEmail } from "@/lib/services/partner/approval-email";
 import { partnerCategoryOptions } from "@/lib/partners";
 import {
   approveOperatorClaim,
@@ -184,12 +185,17 @@ export async function listPendingApprovals(): Promise<PendingApprovals> {
  * function exists purely so the server action has one call to make and the
  * dispatch itself is testable without a request context.
  */
-export async function resolveApproval(input: {
-  kind: ApprovalKind;
-  id: string;
-  decision: ApprovalDecision;
-  reviewerEmail: string;
-}) {
+export async function resolveApproval(
+  input: {
+    kind: ApprovalKind;
+    id: string;
+    decision: ApprovalDecision;
+    reviewerEmail: string;
+  },
+  /* Injectable because the default really emails the applicant: a test approving a seeded
+     application must not mail anyone. */
+  deps: { notifyPartnerApproved?: (partnerProfileId: string) => Promise<unknown> } = {},
+) {
   if (input.kind === "operator-claim") {
     return input.decision === "approve"
       ? approveOperatorClaim({ claimId: input.id, reviewerEmail: input.reviewerEmail })
@@ -198,9 +204,29 @@ export async function resolveApproval(input: {
 
   const kind = input.kind === "partner-application" ? "partner" : "operator";
 
-  return input.decision === "approve"
-    ? approveReferralApplication({ kind, id: input.id })
-    : declineReferralApplication({ kind, id: input.id });
+  if (input.decision !== "approve") {
+    return declineReferralApplication({ kind, id: input.id });
+  }
+
+  // Only a first approval sends the welcome email, so a repeated click never mails twice.
+  const wasApproved =
+    kind === "partner"
+      ? (await prisma.partnerProfile.findUnique({ where: { id: input.id }, select: { status: true } }))?.status === "APPROVED"
+      : true;
+
+  const approved = await approveReferralApplication({ kind, id: input.id });
+
+  if (kind === "partner" && !wasApproved) {
+    const notify = deps.notifyPartnerApproved ?? sendPartnerApprovedEmail;
+    await notify(input.id).catch((error) =>
+      console.error("partner_approval.email_failed", {
+        partnerProfileId: input.id,
+        error: error instanceof Error ? error.message : String(error),
+      }),
+    );
+  }
+
+  return approved;
 }
 
 type FactRow = [label: string, value: string | null | undefined, href?: string | null];

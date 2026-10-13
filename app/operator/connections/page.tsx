@@ -85,7 +85,6 @@ export default async function ConnectionsPage({ searchParams }: { searchParams: 
   return (
     <>
       <AdminPageHeader
-        eyebrow="Connections"
         title="Connections"
         support="Your trips and bookings, where you already work: your booking system, your calendar and WhatsApp."
       />

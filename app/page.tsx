@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import DiscoverState from "@/components/discover/DiscoverState";
 import DiscoverHero from "@/components/discover/DiscoverHero";
 import TrustBanner from "@/components/discover/TrustBanner";
@@ -62,6 +63,7 @@ export default async function DiscoverPage() {
     return [];
   });
   const trips = [...curatedTrips, ...syncedTrips];
+  const hasFareHarborTrip = trips.some((trip) => trip.booking?.platform === "FAREHARBOR");
 
   return (
     <main style={{ background: "var(--color-canvas)", position: "relative" }}>
@@ -77,6 +79,12 @@ export default async function DiscoverPage() {
       <HowItWorks />
       <PartnerMarquee />
       <SiteFooter />
+      {/* FareHarbor's Lightframe: turns their booking links into an overlay on this page, so a
+          traveller books without leaving Bluepass. Their affiliate guide asks for exactly this tag.
+          Only loaded when a FareHarbor trip is listed. */}
+      {hasFareHarborTrip ? (
+        <Script src="https://fareharbor.com/embeds/api/v1/?autolightframe=yes" strategy="lazyOnload" />
+      ) : null}
     </main>
   );
 }

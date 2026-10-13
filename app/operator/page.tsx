@@ -54,7 +54,6 @@ export default async function OperatorDashboardPage() {
   return (
     <>
       <AdminPageHeader
-        eyebrow="Your account"
         title={profile.companyName ?? "Your operator dashboard"}
         support="Everything Bluepass holds for you in one place — your profile and payout setup, your listing, and the bookings and payouts behind them."
       />

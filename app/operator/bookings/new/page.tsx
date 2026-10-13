@@ -32,7 +32,7 @@ export default async function NewBookingPage({ searchParams }: { searchParams: P
     const from = external?.channel === "REZDY" ? "Rezdy" : "FareHarbor";
     return (
       <>
-        <AdminPageHeader eyebrow="Bookings" title="New booking" />
+        <AdminPageHeader title="New booking" />
         <div className="adm-card adm-empty">
           {external ? (
             <>
@@ -73,7 +73,7 @@ export default async function NewBookingPage({ searchParams }: { searchParams: P
       <p className="ds-caption rl-crumb">
         <Link href="/operator/bookings">Bookings</Link> <span aria-hidden>›</span> New
       </p>
-      <AdminPageHeader eyebrow="Phone, walk-up or desk" title="New booking" support="Seats you sell yourself come off the booking page straight away, so nothing is ever sold twice." />
+      <AdminPageHeader title="New booking" support="Seats you sell yourself come off the booking page straight away, so nothing is ever sold twice." />
 
       <form className="rl-pick adm-card" method="get">
         <label className="rl-field">

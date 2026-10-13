@@ -1,6 +1,5 @@
 "use client";
 
-import { useRouter } from "next/navigation";
 import { useRef } from "react";
 import { gsap, useGSAP, reduced } from "@/lib/gsap";
 import { heroImage } from "@/lib/data";
@@ -13,7 +12,6 @@ const WHATSAPP_HREF = "https://wa.me/628213143343";
 
 export default function Hero() {
   const ref = useRef<HTMLElement>(null);
-  const router = useRouter();
 
   useGSAP(
     () => {
@@ -138,7 +136,7 @@ export default function Hero() {
             justifyContent: "center",
           }}
         >
-          <Button variant="primary" large onClick={() => router.push("/")}>
+          <Button variant="primary" large onClick={() => window.location.assign("/")}>
             Explore trips
           </Button>
           {/* The pill lives in the root layout, so this asks for it by event

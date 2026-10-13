@@ -26,7 +26,6 @@ export default async function NewOperatorPage({
   return (
     <>
       <AdminPageHeader
-        eyebrow="Manual onboarding"
         title="New operator"
         support="For an operator you have already closed by phone or email. This creates a real, live profile with real payout details — not a placeholder waiting to be claimed."
       />

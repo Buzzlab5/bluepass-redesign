@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import type { ReactNode } from "react";
-import AdminNav from "@/components/admin/AdminNav";
+import ConsoleShell, { type ConsoleNavGroup } from "@/components/console/ConsoleShell";
+import { ADMIN_SECTIONS } from "@/lib/services/admin/sections";
 import { currentAdminPathname, requireAdminOrRedirect } from "@/lib/services/admin/guard";
 import { countPendingApprovals } from "@/lib/services/admin/review-queue";
 
@@ -27,14 +28,33 @@ export default async function AdminLayout({ children }: { children: ReactNode })
   const admin = await requireAdminOrRedirect(pathname);
   const pendingApprovals = await countPendingApprovals();
 
+  const groups: ConsoleNavGroup[] = [
+    {
+      label: "Menu",
+      items: [
+        { href: "/admin", label: "Overview", icon: "overview", exact: true },
+        ...ADMIN_SECTIONS.filter((section) => section.group === "Menu").map((section) => ({
+          href: section.href,
+          label: section.label,
+          icon: section.icon,
+          count: section.counter === "pendingApprovals" ? pendingApprovals : undefined,
+        })),
+      ],
+    },
+    {
+      label: "Content and money",
+      items: ADMIN_SECTIONS.filter((section) => section.group !== "Menu").map((section) => ({
+        href: section.href,
+        label: section.label,
+        icon: section.icon,
+      })),
+    },
+    { label: "Tools", items: [{ href: "/crm", label: "Outreach CRM", icon: "leads" }] },
+  ];
+
   return (
-    <div className="adm">
-      <aside className="adm__rail">
-        <AdminNav adminEmail={admin.email} counters={{ pendingApprovals }} />
-      </aside>
-      <main className="adm__main">
-        <div className="adm__inner">{children}</div>
-      </main>
-    </div>
+    <ConsoleShell area="Admin" groups={groups} person={admin.displayName || admin.email} role="Admin">
+      {children}
+    </ConsoleShell>
   );
 }

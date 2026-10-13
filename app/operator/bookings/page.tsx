@@ -26,7 +26,6 @@ export default async function BookingsPage({ searchParams }: { searchParams: Pro
   return (
     <>
       <AdminPageHeader
-        eyebrow="Your bookings"
         title="Bookings"
         support={upcomingCount === 0 ? "Nothing upcoming yet. Bookings from your link, Bluepass and Kai land here, alongside the ones you take yourself." : `${upcomingCount} upcoming.`}
         aside={<Link href="/operator/bookings/new" className="rl-btn rl-btn--primary">New booking</Link>}

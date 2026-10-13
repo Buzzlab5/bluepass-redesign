@@ -73,7 +73,7 @@ export default async function DeparturePage({ params }: { params: Promise<{ list
         <Link href={`/operator/calendar?week=${m.date}`}>Calendar</Link> <span aria-hidden>›</span> {formatDepartureDay(departsAt, tz)}
       </p>
       <AdminPageHeader
-        eyebrow={`${formatDepartureDay(departsAt, tz)} · ${formatClock(departsAt, tz)}`}
+        context={`${formatDepartureDay(departsAt, tz)} · ${formatClock(departsAt, tz)}`}
         title={m.listing.title}
         support={support || undefined}
         aside={

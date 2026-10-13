@@ -158,7 +158,7 @@ export default async function CheckPreparedPage({ params }: { params: Promise<{ 
     <>
       <p className="ds-caption" style={{ marginBottom: 8 }}><Link href="/admin/operator-pages">Prepared pages</Link> › {page.name}</p>
       <AdminPageHeader
-        eyebrow={[page.town, page.state, page.category].filter(Boolean).join(" · ")}
+        context={[page.town, page.state, page.category].filter(Boolean).join(" · ")}
         title={page.name}
         support={`${trips.length} trips read from ${page.website}. Check each against its source page, then approve the page.`}
         aside={

@@ -84,7 +84,6 @@ export default async function TripSetupPage({ params }: { params: Promise<{ id: 
         <Link href="/operator/trips">Trips</Link> <span aria-hidden>›</span> {listing.title}
       </p>
       <AdminPageHeader
-        eyebrow="Trip setup"
         title={listing.title}
         support={
           readiness.bookable
@@ -275,7 +274,7 @@ async function ChannelTripSetup({ setup }: { setup: Setup }) {
         <Link href="/operator/trips">Trips</Link> <span aria-hidden>›</span> {listing.title}
       </p>
       <AdminPageHeader
-        eyebrow={`From ${from}`}
+        context={`From ${from}`}
         title={listing.title}
         support={
           listing.channel === "REZDY"

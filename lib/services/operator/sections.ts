@@ -5,22 +5,25 @@
  * selling through the native rails. An operator on Rezdy or FareHarbor manages
  * their departures there, and a calendar here would be a second, emptier copy of it.
  */
+import type { ConsoleIconName } from "@/components/console/ConsoleIcon";
+
 export type OperatorSection = {
   href: string;
   label: string;
+  icon: ConsoleIconName;
 };
 
-export const OPERATOR_SECTIONS: OperatorSection[] = [{ href: "/operator", label: "Dashboard" }];
+export const OPERATOR_SECTIONS: OperatorSection[] = [{ href: "/operator", label: "Dashboard", icon: "dashboard" }];
 
 export const RAILS_SECTIONS: OperatorSection[] = [
-  { href: "/operator/calendar", label: "Calendar" },
-  { href: "/operator/bookings", label: "Bookings" },
-  { href: "/operator/trips", label: "Trips" },
-  { href: "/operator/connections", label: "Connections" },
+  { href: "/operator/calendar", label: "Calendar", icon: "calendar" },
+  { href: "/operator/bookings", label: "Bookings", icon: "bookings" },
+  { href: "/operator/trips", label: "Trips", icon: "trips" },
+  { href: "/operator/connections", label: "Connections", icon: "connections" },
 ];
 
 /** Only for an operator whose page Bluepass prepared from their website. */
-export const PREPARED_PAGE_SECTION: OperatorSection = { href: "/operator/your-page", label: "Your page" };
+export const PREPARED_PAGE_SECTION: OperatorSection = { href: "/operator/your-page", label: "Your page", icon: "page" };
 
 export function operatorSections(railsEnabled: boolean, hasPreparedPage = false): OperatorSection[] {
   return [

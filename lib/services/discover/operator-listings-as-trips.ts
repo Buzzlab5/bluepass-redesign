@@ -1,3 +1,4 @@
+import type { OperatorListing } from "@prisma/client";
 import { prisma } from "@/lib/db/prisma";
 import type { Category, Trip } from "@/lib/discover";
 import { fareHarborAffiliate } from "@/lib/services/channels/fareharbor/links";
@@ -59,7 +60,17 @@ export async function fetchSyncedTrips(): Promise<Trip[]> {
     return listing._count.schedules > 0 && listing._count.rates > 0;
   };
 
-  return listings.map((listing): Trip => ({
+  return listings.map((listing) => listingToTrip(listing, bookable(listing) ? `/book/${listing.slug}` : undefined));
+}
+
+type ListingForTrip = OperatorListing & { operatorProfile: { companyName: string | null } };
+
+/**
+ * One live listing in the Trip shape the grid and sheet render. Pure, so it can be tested without a
+ * database. `bookUrl` is Bluepass's own booking page, when the caller has found the trip bookable there.
+ */
+export function listingToTrip(listing: ListingForTrip, bookUrl?: string): Trip {
+  return {
     slug: listing.slug,
     name: listing.title,
     category: mapCategory(listing.category),
@@ -70,7 +81,7 @@ export async function fetchSyncedTrips(): Promise<Trip[]> {
     // Universal, true for every trip on the platform - not a claim about this specific operator.
     impact: "funds ocean and reef conservation",
     price: listing.priceFrom as number,
-    bookUrl: bookable(listing) ? `/book/${listing.slug}` : undefined,
+    ...(bookUrl ? { bookUrl } : {}),
     img: listing.heroImageUrl || FALLBACK_IMAGE,
     // No stock-photo stand-in here, unlike the 6 curated demo trips (lib/discover.ts) - a real
     // operator listing with no real gallery photos should show no gallery, not stock ones.
@@ -85,5 +96,8 @@ export async function fetchSyncedTrips(): Promise<Trip[]> {
     // sync with whatever the curated 6 trips' typical split is if that changes.
     impactSplit: { protect: 40, restore: 30, uplift: 30 },
     fundsPartner: "ocean and reef conservation",
-  }));
+    ...(listing.bookingUrl && (listing.bookingPlatform === "FAREHARBOR" || listing.bookingPlatform === "REZDY")
+      ? { booking: { platform: listing.bookingPlatform, url: listing.bookingUrl } }
+      : {}),
+  };
 }

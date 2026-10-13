@@ -22,7 +22,6 @@ export default async function ApprovalsPage() {
   return (
     <>
       <AdminPageHeader
-        eyebrow="Review queue"
         title="Approvals"
         support={
           total === 0

@@ -14,7 +14,6 @@ export default async function NewBlogPostPage() {
   return (
     <>
       <AdminPageHeader
-        eyebrow="New article"
         title="Untitled article"
         support="Nothing here is visible to anyone — not a reader, not a crawler — until you publish it."
       />

@@ -507,7 +507,23 @@ export default function TripSheet() {
 
                 <div className="tsheet__acts">
                   {trip.bookUrl ? (
+                    /* Bookable on Bluepass itself: native rails, or a Rezdy or FareHarbor trip the
+                       operator connected. Preferred over an affiliate link when a trip has both. */
                     <Button variant="primary" large magnetic={false} onClick={() => window.location.assign(trip.bookUrl!)}>
+                      Book now
+                    </Button>
+                  ) : trip.booking ? (
+                    /* Resold as a FareHarbor affiliate or Rezdy agent: the platform's own booking
+                       page has the live calendar and takes the payment. FareHarbor's Lightframe
+                       script (loaded by the page) opens it as an overlay on this one; without it
+                       the link still works as a plain page. Rezdy opens in a new tab. */
+                    <Button
+                      variant="primary"
+                      large
+                      magnetic={false}
+                      href={trip.booking.url}
+                      target={trip.booking.platform === "REZDY" ? "_blank" : undefined}
+                    >
                       Book now
                     </Button>
                   ) : (
@@ -536,6 +552,8 @@ export default function TripSheet() {
                 <span className="ds-micro tsheet__note">
                   {trip.bookUrl
                     ? "Live availability. Your payment is held until the trip has run."
+                    : trip.booking
+                    ? `Live times and secure checkout on ${trip.booking.platform === "FAREHARBOR" ? "FareHarbor" : "Rezdy"}, the operator's own booking system.`
                     : "No card needed. Kai confirms with the operator first."}
                 </span>
               </div>

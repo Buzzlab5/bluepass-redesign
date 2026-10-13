@@ -19,7 +19,6 @@ export default async function EditOperatorPage({ params }: { params: Promise<{ i
   return (
     <>
       <AdminPageHeader
-        eyebrow="Existing operator"
         title={operator.companyName ?? operator.accountEmail}
         support={`Created ${operator.createdAt.toISOString().slice(0, 10)} · signed in as ${operator.accountEmail}. Changes here take effect immediately — there is no separate review step for an edit.`}
       />

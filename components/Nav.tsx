@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { usePathname, useRouter } from "next/navigation";
+import { usePathname } from "next/navigation";
 import { useRef, useState } from "react";
 import { gsap, ScrollTrigger, useGSAP, reduced } from "@/lib/gsap";
 import { navLinks } from "@/lib/data";
@@ -17,7 +17,6 @@ export default function Nav() {
   const indicatorRef = useRef<HTMLSpanElement>(null);
   const menuRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
-  const router = useRouter();
   const { traveller, signOut } = useSession();
 
   /* The auth pages carry their own brand mark inside the poster panel and have
@@ -373,7 +372,7 @@ export default function Nav() {
               </svg>
             </Link>
           ) : (
-            <Button variant="primary" onClick={() => router.push("/register")}>
+            <Button variant="primary" onClick={() => window.location.assign("/register")}>
               Join Bluepass →
             </Button>
           )}
@@ -424,7 +423,7 @@ export default function Nav() {
                 onClick={async () => {
                   await signOut();
                   setOpen(false);
-                  router.push("/");
+                  window.location.assign("/");
                 }}
               >
                 Sign out

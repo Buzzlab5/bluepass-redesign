@@ -77,7 +77,8 @@ body:has(.theme-light) .grain {
 }
 
 /* The white logo, made near-black for a white rail. */
-.theme-light .adm-nav__mark img {
+.theme-light .adm-nav__mark img,
+.theme-light .cshell-brand__mark img {
   filter: invert(1);
 }
 
@@ -85,7 +86,8 @@ body:has(.theme-light) .grain {
 .theme-light .adm-card--link:hover {
   border-color: rgba(15, 15, 15, 0.18);
 }
-.theme-light .adm-nav__link.is-active {
+.theme-light .adm-nav__link.is-active,
+.theme-light .cshell-side__link.is-active {
   box-shadow: none;
 }
 .theme-light .adm-tabs__count {

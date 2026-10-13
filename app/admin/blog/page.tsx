@@ -26,7 +26,6 @@ export default async function AdminBlogPage() {
   return (
     <>
       <AdminPageHeader
-        eyebrow="Blog"
         title="Everything Bluepass has published"
         support="Each article is one more Bluepass result on page one. Write for a single keyword, link back to the pages that convert, and keep publishing."
         aside={

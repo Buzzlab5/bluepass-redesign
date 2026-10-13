@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import type { ReactNode } from "react";
-import OperatorNav from "@/components/operator/OperatorNav";
+import ConsoleShell from "@/components/console/ConsoleShell";
 import { currentOperatorPathname, requireOperatorOrRedirect } from "@/lib/services/operator/guard";
+import { operatorSections } from "@/lib/services/operator/sections";
 import { hasClaimedPreparedPage } from "@/lib/services/operators/prepared-pages";
 import { railsAccess } from "@/lib/services/rails/access";
 import "../rails.css";
@@ -30,17 +31,20 @@ export default async function OperatorLayout({ children }: { children: ReactNode
   const [rails, hasPreparedPage] = await Promise.all([railsAccess(profile), hasClaimedPreparedPage(account.id)]);
 
   return (
-    /* Deliberately the admin console's shell, unmodified. An operator and an admin are looking at
-       variations of the same kind of page, and this area having its own visual language meant two
-       sets of console styles to keep in step — with the operator's half always the one lagging.
-       Consistency here is the feature. */
-    <div className="adm theme-light">
-      <aside className="adm__rail">
-        <OperatorNav companyName={profile.companyName} email={account.email} railsEnabled={rails.enabled} hasPreparedPage={hasPreparedPage} />
-      </aside>
-      <main className="adm__main">
-        <div className="adm__inner">{children}</div>
-      </main>
+    /* The same console shell as admin, CRM and partner, in the light theme the operator's booking
+       screens are drawn in (theme-light.css). */
+    <div className="theme-light">
+      <ConsoleShell
+        area="Operator"
+        groups={[{
+          label: "Menu",
+          items: operatorSections(rails.enabled, hasPreparedPage).map((section) => ({ ...section, exact: section.href === "/operator" })),
+        }]}
+        person={profile.companyName ?? account.email}
+        role="Operator"
+      >
+        {children}
+      </ConsoleShell>
     </div>
   );
 }

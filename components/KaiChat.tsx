@@ -6,7 +6,11 @@ import { gsap, useGSAP, reduced } from "@/lib/gsap";
 import KaiPanel from "./KaiPanel";
 import { isChromelessPathname } from "@/lib/services/pathname";
 
-/** The floating "Ask Kai" pill — `showFloatingChat` in the design, default on. */
+/* Kai is still in development, so the whole widget (pill and panel) is switched off. Flip this
+   back to true to bring it back — nothing else was removed. */
+const KAI_ENABLED = false;
+
+/** The floating "Kai" pill — `showFloatingChat` in the design, default on. */
 export default function KaiChat() {
   const ref = useRef<HTMLButtonElement>(null);
   const [open, setOpen] = useState(false);
@@ -86,7 +90,7 @@ export default function KaiChat() {
   /* After the hooks, never before them — the GSAP effect above already no-ops
      on a null ref, so bailing here costs nothing and keeps the hook order
      stable across routes. */
-  if (hidden) {
+  if (hidden || !KAI_ENABLED) {
     return null;
   }
 
@@ -109,7 +113,7 @@ export default function KaiChat() {
       </span>
         <span style={{ display: "flex", flexDirection: "column", lineHeight: 1.2, textAlign: "left" }}>
           <span className="ds-body-sm" style={{ color: "var(--color-ink)" }}>
-            Ask Kai
+            Kai
           </span>
           <span className="ds-micro" style={{ color: "var(--color-ink-muted)" }}>
             Chat on bluepass.co

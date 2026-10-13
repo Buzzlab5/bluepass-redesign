@@ -228,6 +228,15 @@ html.lenis body {
 .btn--lg {
   padding: 14px 22px;
 }
+/* A Button rendered as a link keeps its own colours on hover: the global a:hover rule is more
+   specific than a single variant class and would otherwise turn the label link-blue. */
+a.btn--primary:hover {
+  color: var(--color-on-primary);
+}
+a.btn--secondary:hover,
+a.btn--translucent:hover {
+  color: var(--color-ink);
+}
 
 /* Ask Kai ----------------------------------------------------------------- */
 .kai {
@@ -9359,5 +9368,298 @@ html.is-scroll-locked body {
   .crm-topbar__meta {
     gap: var(--space-sm);
     flex-wrap: wrap;
+  }
+}
+
+/* A form button that reads as a link, for row actions in admin tables (e.g. "Take down"). */
+.adm-linkbtn {
+  background: none;
+  border: 0;
+  padding: 0;
+  color: var(--color-accent-blue);
+  cursor: pointer;
+  font: inherit;
+}
+.adm-linkbtn:hover {
+  text-decoration: underline;
+}
+
+/* =============================================================================
+   Console shell (admin, CRM, operator, partner), 2026-10-09: a top bar, a side
+   menu card and the page, the same layout as the Kai console. Declared last so
+   it wins over the older console rules above. See components/console/ConsoleShell.
+   ========================================================================== */
+.cshell {
+  min-height: 100svh;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: auto 1fr;
+  gap: 16px;
+  padding: 16px;
+  background: var(--color-canvas);
+}
+.cshell-top {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 12px;
+  background: var(--color-surface-1);
+  border: 1px solid var(--color-hairline);
+  border-radius: 20px;
+}
+.cshell-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 5px 8px 5px 5px;
+  border-radius: var(--radius-pill);
+  background: var(--color-surface-2);
+  color: var(--color-ink);
+}
+.cshell-brand:hover {
+  color: var(--color-ink);
+  text-decoration: none;
+}
+.cshell-brand__mark {
+  display: grid;
+  place-items: center;
+  width: 32px;
+  height: 32px;
+  border-radius: var(--radius-full);
+  background: var(--color-canvas);
+}
+.cshell-brand__name {
+  font-weight: 600;
+  font-size: 15px;
+}
+.cshell-brand__area {
+  padding: 3px 10px;
+  border-radius: var(--radius-pill);
+  background: var(--color-canvas);
+  color: var(--color-ink-muted);
+  font-size: 13px;
+}
+.cshell-top__spacer {
+  flex: 1;
+}
+.cshell-user {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+  padding: 5px 14px 5px 5px;
+  border-radius: var(--radius-pill);
+  background: var(--color-surface-2);
+}
+.cshell-user__avatar {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 32px;
+  height: 32px;
+  border-radius: var(--radius-full);
+  background: var(--color-accent-blue);
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 14px;
+}
+.cshell-user__text {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  line-height: 1.2;
+}
+.cshell-user__name {
+  overflow: hidden;
+  max-width: 220px;
+  font-size: 13px;
+  font-weight: 600;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.cshell-user__role {
+  color: var(--color-ink-muted);
+  font-size: 12px;
+}
+
+.cshell-body {
+  display: grid;
+  grid-template-columns: 248px minmax(0, 1fr);
+  gap: 16px;
+  align-items: start;
+}
+.cshell-side {
+  position: sticky;
+  top: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-height: calc(100svh - 116px);
+  padding: 16px 12px;
+  background: var(--color-surface-1);
+  border: 1px solid var(--color-hairline);
+  border-radius: 20px;
+}
+.cshell-side__group {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.cshell-side__label {
+  padding: 0 12px 6px;
+  color: var(--color-ink-muted);
+  font-size: 13px;
+}
+.cshell-side__link {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-height: 44px;
+  padding: 0 14px;
+  border-radius: 12px;
+  color: var(--color-ink-muted);
+  font-size: 15px;
+  transition:
+    background 0.2s ease,
+    color 0.2s ease;
+}
+.cshell-side__link svg {
+  flex: none;
+  width: 18px;
+  height: 18px;
+}
+.cshell-side__text {
+  flex: 1;
+}
+.cshell-side__link:hover {
+  background: var(--color-surface-2);
+  color: var(--color-ink);
+  text-decoration: none;
+}
+.cshell-side__link.is-active {
+  background: var(--color-accent-blue);
+  color: #ffffff;
+  box-shadow: 0 8px 24px rgba(0, 153, 255, 0.25);
+}
+.cshell-side__count {
+  min-width: 22px;
+  padding: 2px 7px;
+  border-radius: var(--radius-pill);
+  background: var(--color-gradient-coral);
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 600;
+  text-align: center;
+}
+.cshell-side__link.is-active .cshell-side__count {
+  background: #ffffff;
+  color: var(--color-accent-blue);
+}
+.cshell-side__foot {
+  margin-top: auto;
+}
+.cshell-main {
+  min-width: 0;
+  padding: 4px 8px 64px;
+}
+
+/* Page header inside a console: the title, a quiet chip, one plain sentence. No rule under it. */
+.cshell .adm-head {
+  padding-bottom: 0;
+  margin: 6px 0 24px;
+  border-bottom: 0;
+}
+.cshell .adm-head__copy {
+  max-width: 70ch;
+}
+.cshell .adm-head__title {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  font-size: 32px;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+}
+.adm-head__context {
+  padding: 4px 12px;
+  border: 1px solid var(--color-hairline);
+  border-radius: var(--radius-pill);
+  background: var(--color-surface-2);
+  color: var(--color-ink-muted);
+  font-family: var(--font-body);
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+/* Cards and tables: rounder cards, and a soft header band on tables. */
+.cshell .adm-card {
+  border-radius: 18px;
+  box-shadow: none;
+}
+.cshell .adm-table th {
+  background: var(--color-surface-2);
+  border-bottom: 0;
+  font-size: 13px;
+  font-weight: 500;
+}
+.cshell .adm-table th:first-child {
+  border-radius: 10px 0 0 10px;
+}
+.cshell .adm-table th:last-child {
+  border-radius: 0 10px 10px 0;
+}
+
+/* No all-capitals labels anywhere in a console: field labels, tabs, table headings and stat labels
+   read in plain sentence case. */
+.cshell [class] {
+  text-transform: none;
+}
+.cshell .ds-micro,
+.cshell th,
+.cshell [class*="label"],
+.cshell [class*="eyebrow"] {
+  letter-spacing: normal;
+}
+
+/* Small screens: the menu becomes a scrolling row under the top bar. */
+@media (max-width: 900px) {
+  .cshell {
+    gap: 10px;
+    padding: 10px;
+  }
+  .cshell-user__text,
+  .cshell-brand__area {
+    display: none;
+  }
+  .cshell-body {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 10px;
+  }
+  .cshell-side {
+    position: static;
+    flex-direction: row;
+    gap: 4px;
+    min-height: 0;
+    padding: 6px;
+    overflow-x: auto;
+  }
+  .cshell-side__group {
+    flex-direction: row;
+    gap: 4px;
+  }
+  .cshell-side__label,
+  .cshell-side__foot {
+    display: none;
+  }
+  .cshell-side__link {
+    white-space: nowrap;
+  }
+  .cshell-main {
+    padding: 0 2px 48px;
+  }
+  .cshell .adm-head__title {
+    font-size: 26px;
   }
 }

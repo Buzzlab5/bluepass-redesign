@@ -19,7 +19,6 @@ export default async function EditPartnerPage({ params }: { params: Promise<{ id
   return (
     <>
       <AdminPageHeader
-        eyebrow="Existing partner"
         title={partner.handle ?? partner.accountEmail}
         support={`Created ${partner.createdAt.toISOString().slice(0, 10)} · signed in as ${partner.accountEmail}. Category and notes take effect immediately — approval/decline still happens on Approvals.`}
       />

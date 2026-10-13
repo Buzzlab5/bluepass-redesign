@@ -39,7 +39,6 @@ export default async function TripsPage() {
   return (
     <>
       <AdminPageHeader
-        eyebrow="Your trips"
         title="Trips"
         support="Each trip sells itself once it has a schedule and a price, or once it comes in from Rezdy or FareHarbor. The calendar, the booking page and Kai all read from here."
         aside={<Link href="/operator/connections" className="rl-btn rl-btn--secondary">Rezdy or FareHarbor ›</Link>}

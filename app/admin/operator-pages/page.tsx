@@ -25,7 +25,6 @@ export default async function PreparedPagesAdmin() {
   return (
     <>
       <AdminPageHeader
-        eyebrow="Operator pages"
         title="Prepared pages"
         support={pages.length
           ? `${pages.length} operators, ${totals.trips} trips, ${totals.approved} approved. Every fact was read from the operator's own website; check it against the source page linked beside it.`

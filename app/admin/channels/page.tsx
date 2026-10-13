@@ -46,7 +46,6 @@ export default async function ChannelsAdminPage() {
   return (
     <>
       <AdminPageHeader
-        eyebrow="Channels"
         title="Rezdy & FareHarbor"
         support="Operators who sell from their own booking system. Rezdy runs itself every 15 minutes; FareHarbor bookings arrive only when its affiliate report is imported here."
       />

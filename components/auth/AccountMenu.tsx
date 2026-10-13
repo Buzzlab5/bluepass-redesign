@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import { useRouter } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { gsap, useGSAP, reduced } from "@/lib/gsap";
 import { initialsOf } from "@/lib/auth-client";
@@ -18,7 +17,6 @@ import { useSession } from "./SessionProvider";
  */
 export default function AccountMenu() {
   const { traveller, loading, signOut } = useSession();
-  const router = useRouter();
   const ref = useRef<HTMLDivElement>(null);
   const [open, setOpen] = useState(false);
   const [signingOut, setSigningOut] = useState(false);
@@ -67,8 +65,7 @@ export default function AccountMenu() {
     await signOut();
     setSigningOut(false);
     setOpen(false);
-    router.push("/");
-    router.refresh();
+    window.location.assign("/");
   };
 
   /* Until /api/auth/me settles, render the resting circle. Guessing "signed

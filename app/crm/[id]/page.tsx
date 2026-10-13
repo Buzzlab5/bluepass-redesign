@@ -33,7 +33,6 @@ export default async function LeadDetailPage({ params }: { params: Promise<{ id:
   return (
     <>
       <AdminPageHeader
-        eyebrow="Outreach"
         title={lead.name}
         support={`${lead.category ?? "Uncategorised"} · ${lead.region ?? "Location unknown"} · found via ${lead.source === "rezdy-scrape" ? "Rezdy" : lead.source === "fareharbor-scrape" ? "FareHarbor" : lead.source}`}
         aside={

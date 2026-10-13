@@ -150,7 +150,7 @@ export default function BlogEditor({
     if (!post.id) return;
     startTransition(async () => {
       const result = await deleteBlogPostAction(post.id!, post.slug);
-      if (result.status === "saved") router.push("/admin/blog");
+      if (result.status === "saved") window.location.assign("/admin/blog");
       else setState(result);
     });
   };

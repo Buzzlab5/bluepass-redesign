@@ -136,7 +136,7 @@ export default async function BookingPage({
         <Link href="/operator/bookings">Bookings</Link> <span aria-hidden>›</span> {b.reference}
       </p>
       <AdminPageHeader
-        eyebrow={b.reference}
+        context={b.reference}
         title={b.leadName}
         support={`${b.listing.title} · ${formatDepartureDay(b.departsAt, tz)}, ${formatClock(b.departsAt, tz)}`}
         aside={<StatusPill tone={status.tone}>{status.label}</StatusPill>}

@@ -31,6 +31,8 @@ export default function Button({
   name,
   value,
   disabled,
+  href,
+  target,
 }: {
   variant?: Variant;
   children: ReactNode;
@@ -48,6 +50,9 @@ export default function Button({
   name?: string;
   value?: string;
   disabled?: boolean;
+  /** Renders a link that looks like the button, for when pressing it goes somewhere. */
+  href?: string;
+  target?: "_blank";
 }) {
   const wrapRef = useRef<HTMLSpanElement>(null);
 
@@ -56,7 +61,7 @@ export default function Button({
       const wrap = wrapRef.current;
       if (!wrap || reduced()) return;
 
-      const btn = wrap.querySelector<HTMLButtonElement>("button");
+      const btn = wrap.querySelector<HTMLElement>("button, a");
       const wipe = wrap.querySelector(".btn__wipe");
       if (!btn) return;
 
@@ -112,6 +117,24 @@ export default function Button({
     { scope: wrapRef, dependencies: [variant, magnetic] },
   );
 
+  const classes = `btn btn--${variant} ${large ? "btn--lg" : ""} ${className}`;
+
+  if (href) {
+    return (
+      <span ref={wrapRef} className="btn-magnet">
+        <a
+          href={href}
+          className={classes}
+          onClick={onClick}
+          {...(target === "_blank" ? { target: "_blank", rel: "noopener noreferrer" } : {})}
+        >
+          <span className="btn__wipe" aria-hidden />
+          <span className="btn__label">{children}</span>
+        </a>
+      </span>
+    );
+  }
+
   return (
     <span ref={wrapRef} className="btn-magnet">
       <button
@@ -120,7 +143,7 @@ export default function Button({
         value={value}
         disabled={disabled}
         onClick={onClick}
-        className={`btn btn--${variant} ${large ? "btn--lg" : ""} ${className}`}
+        className={classes}
       >
         <span className="btn__wipe" aria-hidden />
         <span className="btn__label">{children}</span>
