@@ -35,9 +35,23 @@ export function photoProblem(url: string, measure: PhotoFinding | undefined, rol
 }
 
 /**
- * The page as it will be imported: every trip keeps only its photos that passed, in the
- * operator's order and without repeats, and a hero that failed is swapped for the first
- * good trip photo. What was left out is recorded, so the check screen can show it.
+ * How good a photo is to lead with: big, landscape and full of detail. Portraits crop
+ * badly into a card and a near-plain photo reads as a background. A photo the site would
+ * not let us measure scores nothing, so it follows every measured one.
+ */
+export function photoScore(measure: PhotoFinding | undefined): number {
+  if (!measure || typeof measure !== "object") return 0;
+  const { width, height, spread } = measure;
+  const size = Math.min(width, 2400) * Math.min(height, 1600) / 1_000_000;
+  const shape = width >= height ? 1 : 0.6;
+  const detail = Math.min(Math.max(spread / 40, 0.5), 1.2);
+  return size * shape * detail;
+}
+
+/**
+ * The page as it will be imported: every trip keeps only its photos that passed, best
+ * first and without repeats, and a hero that failed is swapped for the best trip photo.
+ * What was left out is recorded, so the check screen can show it.
  */
 export function applyPhotoChecks(op: PreparedOperator, measured: Map<string, PhotoFinding>): PreparedOperator {
   const verdict = (url: string, role: "trip" | "hero") => photoProblem(url, measured.get(url), role);
@@ -51,18 +65,22 @@ export function applyPhotoChecks(op: PreparedOperator, measured: Map<string, Pho
       const reason = verdict(url, "trip");
       if (reason) leftOut.push({ url, reason }); else kept.push(url);
     }
+    // Best first; equal scores keep the operator's own order (sort is stable).
+    kept.sort((a, b) => photoScore(measured.get(b)) - photoScore(measured.get(a)));
     const { photosLeftOut: _left, photosUnmeasured: _unmeasured, ...rest } = trip;
     const blocked = unmeasured(kept);
     return { ...rest, images: kept, ...(leftOut.length ? { photosLeftOut: leftOut } : {}), ...(blocked.length ? { photosUnmeasured: blocked } : {}) };
   });
 
   const { photosLeftOut: _previous, ...rest } = op;
+  // The operator's own hero stays unless it fails; with none, or a failed one, their best trip photo leads.
   const heroReason = op.heroImage ? verdict(op.heroImage, "hero") : null;
-  if (!op.heroImage || !heroReason) return { ...rest, trips };
+  if (op.heroImage && !heroReason) return { ...rest, trips };
+  const best = trips.flatMap((t) => t.images).sort((a, b) => photoScore(measured.get(b)) - photoScore(measured.get(a)))[0] ?? null;
   return {
     ...rest,
-    heroImage: trips.flatMap((t) => t.images).sort((a, b) => Number(measured.get(a) === "blocked") - Number(measured.get(b) === "blocked"))[0] ?? null,
-    photosLeftOut: [{ url: op.heroImage, reason: heroReason }],
+    heroImage: best,
+    ...(op.heroImage && heroReason ? { photosLeftOut: [{ url: op.heroImage, reason: heroReason }] } : {}),
     trips,
   };
 }

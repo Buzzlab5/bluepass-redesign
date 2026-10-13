@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import ClaimFrame from "@/components/operators/ClaimFrame";
 import ClaimStartPanel from "@/components/operator/ClaimStartPanel";
 import SiteFooter from "@/components/SiteFooter";
 import {
@@ -38,55 +39,28 @@ export default async function ClaimStartPage({
 
   return (
     <>
-      <main className="mx-auto w-full max-w-2xl px-6 pb-24 pt-32 sm:px-8">
-        <p className="text-sm uppercase tracking-[0.12em] text-[var(--color-ink-muted)]">
-          Claim your page
-        </p>
-
-        <h1 className="mt-4 font-[family-name:var(--font-geist)] text-4xl leading-tight tracking-tight text-[var(--color-ink)]">
-          {lead.name}
-        </h1>
-
+      <ClaimFrame kicker="Claim your page" title={lead.name} seed={lead.slug}>
         {lead.claimed ? (
-          <div className="mt-10 space-y-5 text-[17px] leading-relaxed text-[var(--color-ink-muted)]">
+          <>
             <p>This page has already been claimed.</p>
-            <p>
-              If that was not you, write to{" "}
-              <a className="underline underline-offset-4" href="mailto:hello@bluepass.co">
-                hello@bluepass.co
-              </a>{" "}
-              and we will look into it.
+            <p className="opp-sheet__small">
+              If that wasn&rsquo;t you, write to <a href="mailto:hello@bluepass.co">hello@bluepass.co</a> and we will look into it.
             </p>
-          </div>
+          </>
         ) : (
           <>
-            <div className="mt-10 space-y-5 text-[17px] leading-relaxed text-[var(--color-ink-muted)]">
-              <p>
-                Bluepass prepared a page for {lead.name}. Claiming it puts you in control of what it
-                says, what you list and what you charge.
-              </p>
-              <p>
-                You set your own rates and it is free to list. We only earn a commission when we
-                bring you a booking, and a fixed 5% of every booking goes to ocean conservation.
-              </p>
-            </div>
-
-            <div className="mt-10 border-t border-[var(--color-hairline)] pt-8">
-              <ClaimStartPanel
-                businessName={lead.name}
-                maskedEmail={maskedEmail}
-                slug={lead.slug}
-              />
-            </div>
+            <p>
+              Bluepass prepared a page for {lead.name}. We email a link to the business address we hold; open it to see your page with your photos, then claim it in one press and it goes live.
+            </p>
+            <p className="opp-sheet__small">
+              Free to list, and you set your own prices. We only earn a commission when we bring you a booking, and a fixed 5% of every booking goes to ocean conservation.
+            </p>
+            <div className="opp-sheet__divider" />
+            <ClaimStartPanel businessName={lead.name} maskedEmail={maskedEmail} slug={lead.slug} />
           </>
         )}
-
-        <p className="mt-12 text-sm text-[var(--color-ink-muted)]">
-          <Link className="underline underline-offset-4" href={`/operators/${lead.slug}`}>
-            See the page as it stands
-          </Link>
-        </p>
-      </main>
+        <p className="opp-sheet__small"><Link href={`/operators/${lead.slug}`}>See the page as it stands ›</Link></p>
+      </ClaimFrame>
       <SiteFooter />
     </>
   );

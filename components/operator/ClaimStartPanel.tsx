@@ -12,7 +12,7 @@ type Props = {
 type State =
   | { kind: "idle" }
   | { kind: "sending" }
-  | { kind: "sent" }
+  | { kind: "sent"; devLink: string | null }
   | { kind: "no_email" }
   | { kind: "error"; message: string };
 
@@ -56,7 +56,10 @@ export default function ClaimStartPanel({ slug, businessName, maskedEmail }: Pro
         setState({ kind: "error", message });
         return;
       }
-      setState({ kind: "sent" });
+      // Outside production the API hands the link back too, so the flow can be tried without email.
+      const sent: unknown = await res.json().catch(() => null);
+      const devLink = sent && typeof sent === "object" && "developmentClaimUrl" in sent && typeof sent.developmentClaimUrl === "string" ? sent.developmentClaimUrl : null;
+      setState({ kind: "sent", devLink });
     } catch {
       setState({ kind: "error", message: "We could not reach Bluepass. Please try again shortly." });
     }
@@ -64,63 +67,40 @@ export default function ClaimStartPanel({ slug, businessName, maskedEmail }: Pro
 
   if (state.kind === "sent") {
     return (
-      <div className="border-l-2 border-[var(--color-semantic-success)] pl-4">
-        <p className="text-[15px] leading-relaxed text-[var(--color-ink)]">
-          Sent. Check {maskedEmail ? <strong>{maskedEmail}</strong> : "the business inbox"} for a
-          link to finish claiming {businessName}. It is valid for seven days.
+      <div className="opp-msg">
+        <p>
+          Sent. Check {maskedEmail ? <strong>{maskedEmail}</strong> : "the business inbox"} for a link to review and claim {businessName}. It works for seven days.
         </p>
-        <p className="mt-2 text-sm text-[var(--color-ink-muted)]">
-          If it does not arrive, look in spam before asking for another one.
-        </p>
+        <p className="opp-sheet__small">If it doesn&rsquo;t arrive, look in spam before asking for another one.</p>
+        {state.devLink ? <p className="opp-sheet__small">Development only: <a href={state.devLink}>open the claim link</a></p> : null}
       </div>
     );
   }
 
   if (state.kind === "no_email") {
     return (
-      <div className="border-l-2 border-[var(--color-accent-blue)] pl-4">
-        <p className="text-[15px] leading-relaxed text-[var(--color-ink)]">
-          We do not hold a business email for {businessName} yet, so there is nowhere safe to send
-          the claim link.
-        </p>
-        <p className="mt-2 text-sm text-[var(--color-ink-muted)]">
-          Write to{" "}
-          <a className="underline underline-offset-4" href="mailto:hello@bluepass.co">
-            hello@bluepass.co
-          </a>{" "}
-          from the business address and we will verify it by hand.
+      <div className="opp-msg">
+        <p>We don&rsquo;t hold a business email for {businessName} yet, so there is nowhere safe to send the claim link.</p>
+        <p className="opp-sheet__small">
+          Write to <a href="mailto:hello@bluepass.co">hello@bluepass.co</a> from the business address and we will verify it.
         </p>
       </div>
     );
   }
 
   return (
-    <div>
-      <button
-        className="bg-[var(--color-primary)] px-6 py-3 text-[15px] font-medium text-[var(--color-on-primary)] transition-opacity hover:opacity-90 disabled:opacity-60"
-        disabled={state.kind === "sending"}
-        onClick={requestLink}
-        type="button"
-      >
-        {state.kind === "sending" ? "Sending..." : "Send me the claim link"}
+    <>
+      <button className="bk-cta" disabled={state.kind === "sending"} onClick={requestLink} type="button">
+        {state.kind === "sending" ? "Sending…" : "Email me the claim link"}
       </button>
-
-      <p className="mt-3 text-sm text-[var(--color-ink-muted)]">
+      <p className="opp-sheet__small">
         {maskedEmail ? (
-          <>
-            We will send it to <strong>{maskedEmail}</strong>, the address we already hold for this
-            business. We do not send it anywhere else.
-          </>
+          <>It goes to <strong>{maskedEmail}</strong>, the address we already hold for this business, and nowhere else.</>
         ) : (
-          <>We will send it to the business address we already hold. We do not send it anywhere else.</>
+          <>It goes to the business address we already hold, and nowhere else.</>
         )}
       </p>
-
-      {state.kind === "error" && (
-        <p className="mt-4 border-l-2 border-[var(--color-gradient-coral)] pl-4 text-sm text-[var(--color-ink)]">
-          {state.message}
-        </p>
-      )}
-    </div>
+      {state.kind === "error" ? <div className="opp-msg opp-msg--error"><p>{state.message}</p></div> : null}
+    </>
   );
 }

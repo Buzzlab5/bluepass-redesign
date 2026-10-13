@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { applyPhotoChecks, photoProblem, photosOf, type PhotoFinding, type PhotoMeasure } from "@/lib/services/operators/photo-check";
+import { applyPhotoChecks, photoProblem, photoScore, photosOf, type PhotoFinding, type PhotoMeasure } from "@/lib/services/operators/photo-check";
 import type { PreparedOperator } from "@/lib/services/operators/prepared-pages";
 
 const photo: PhotoMeasure = { width: 1920, height: 1080, spread: 52 };
@@ -58,5 +58,24 @@ describe("applyPhotoChecks", () => {
 
   it("lists every photo a page uses once", () => {
     expect(photosOf(op)).toEqual(["https://reef.test/bg.jpg", "https://reef.test/turtle.jpg", "https://reef.test/gone.jpg", "https://reef.test/guarded.jpg"]);
+  });
+});
+
+describe("leading with the best photo", () => {
+  it("puts big, landscape, detailed photos first and unmeasured ones last", () => {
+    const op: PreparedOperator = {
+      slug: "reef-co", name: "Reef Co", website: "https://reef.test", summary: "x",
+      trips: [{ title: "Day", kind: "tour", summary: "x", sourceUrl: "https://reef.test", images: ["https://reef.test/guarded.jpg", "https://reef.test/small.jpg", "https://reef.test/portrait.jpg", "https://reef.test/big.jpg"] }],
+    };
+    const measured = new Map<string, PhotoFinding>([
+      ["https://reef.test/guarded.jpg", "blocked"],
+      ["https://reef.test/small.jpg", { width: 800, height: 600, spread: 50 }],
+      ["https://reef.test/portrait.jpg", { width: 1600, height: 2000, spread: 50 }],
+      ["https://reef.test/big.jpg", { width: 2400, height: 1600, spread: 45 }],
+    ]);
+    expect(applyPhotoChecks(op, measured).trips[0].images).toEqual([
+      "https://reef.test/big.jpg", "https://reef.test/portrait.jpg", "https://reef.test/small.jpg", "https://reef.test/guarded.jpg",
+    ]);
+    expect(photoScore("blocked")).toBe(0);
   });
 });

@@ -12,7 +12,7 @@ import { defineConfig } from "vitest/config";
 export default defineConfig({
   test: {
     environment: "node",
-    include: ["lib/services/rails/**/*.test.ts", "lib/services/channels/**/*.test.ts", "lib/services/operators/photo-check.test.ts", "lib/services/operators/main-price.test.ts", "lib/services/operators/stale-signs.test.ts", "lib/services/operators/prepared-edits.test.ts", "lib/services/operators/prepared-booking.test.ts", "lib/services/operators/prepared-pages.test.ts"],
+    include: ["lib/services/rails/**/*.test.ts", "lib/services/channels/**/*.test.ts", "lib/services/operators/photo-check.test.ts", "lib/services/operators/main-price.test.ts", "lib/services/operators/stale-signs.test.ts", "lib/services/operators/prepared-edits.test.ts", "lib/services/operators/prepared-booking.test.ts", "lib/services/operators/prepared-claim.test.ts", "lib/services/operators/prepared-pages.test.ts"],
     setupFiles: ["./lib/services/rails/rails.setup.ts"],
     fileParallelism: false,
     testTimeout: 30_000,

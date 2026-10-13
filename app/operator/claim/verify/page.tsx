@@ -1,9 +1,14 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import type { ReactNode } from "react";
+import ClaimBar from "@/components/operator/ClaimBar";
 import ClaimVerifyForm from "@/components/operator/ClaimVerifyForm";
+import ClaimFrame from "@/components/operators/ClaimFrame";
+import { PreparedOperatorView, PreparedTripView, type PageLinks } from "@/components/operators/PreparedViews";
 import SiteFooter from "@/components/SiteFooter";
 import { getCurrentTraveller } from "@/lib/services/auth/session";
 import { resolveOperatorClaimToken } from "@/lib/services/operators/operator-claim-tokens";
+import { reviewForClaim } from "@/lib/services/operators/prepared-claim";
 
 export const dynamic = "force-dynamic";
 
@@ -17,42 +22,72 @@ export const dynamic = "force-dynamic";
  * in the query string, so there is nothing here that may be cached or served to
  * a second visitor.
  *
- * The token is resolved server side before anything about the business is
- * rendered. A wrong or expired token gets a plain explanation and a way back,
- * not a form that fails on submit.
+ * A business Bluepass prepared a page for sees that page, every photo included, and
+ * claims it in one press. Anyone else gets the slower form, reviewed by Bluepass. A
+ * wrong or expired link gets a plain explanation and a way back, not a form that fails
+ * on submit.
  */
 export const metadata: Metadata = {
   title: "Confirm your claim | Bluepass",
   robots: { index: false, follow: false },
 };
 
-function Shell({ children }: { children: React.ReactNode }) {
+function Frame({ kicker, title, seed, children }: { kicker?: string; title: string; seed: string; children: ReactNode }) {
   return (
     <>
-      <main className="mx-auto w-full max-w-2xl px-6 pb-24 pt-32 sm:px-8">{children}</main>
+      <ClaimFrame kicker={kicker} title={title} seed={seed}>{children}</ClaimFrame>
       <SiteFooter />
     </>
   );
 }
 
+/** Why a press of "Claim and publish" came back, in the operator's terms. */
+const CLAIM_PROBLEMS: Record<string, string> = {
+  elsewhere: "Your email already manages another page on Bluepass. Write to hello@bluepass.co and we will connect both.",
+  invalid: "This link has expired or been used. Ask for a new one from your page.",
+  failed: "That did not go through. Try again, or write to hello@bluepass.co.",
+};
+
 export default async function ClaimVerifyPage({
   searchParams,
 }: {
-  searchParams: Promise<{ token?: string }>;
+  searchParams: Promise<{ token?: string; trip?: string; error?: string }>;
 }) {
-  const { token } = await searchParams;
+  const { token, trip, error } = await searchParams;
 
   if (!token) {
     return (
-      <Shell>
-        <h1 className="font-[family-name:var(--font-geist)] text-3xl text-[var(--color-ink)]">
-          This link is incomplete
-        </h1>
-        <p className="mt-4 text-[17px] leading-relaxed text-[var(--color-ink-muted)]">
-          Open the link from your email exactly as it was sent. If your mail client shortened it,
-          copy the whole address into your browser instead.
+      <Frame title="This link is incomplete" seed="claim">
+        <p>Open the link from your email exactly as it was sent. If your mail app shortened it, copy the whole address into your browser instead.</p>
+      </Frame>
+    );
+  }
+
+  const review = await reviewForClaim(token);
+  if (review.ok) {
+    const base = `/operator/claim/verify?token=${encodeURIComponent(token)}`;
+    const links: PageLinks = { page: base, trip: (tripSlug) => `${base}&trip=${encodeURIComponent(tripSlug)}` };
+    const site = review.page.page.website.replace(/^https?:\/\//, "").replace(/^www\./, "").replace(/\/.*$/, "");
+    const problem = error ? CLAIM_PROBLEMS[error] ?? CLAIM_PROBLEMS.failed : null;
+    const bar = <ClaimBar token={token} name={review.name} site={site} error={problem} />;
+    const onTrip = trip && review.page.trips.some((t) => t.slug === trip);
+    return (
+      <div className="opp--claim">
+        {onTrip
+          ? <PreparedTripView data={review.page} tripSlug={trip} preview={false} links={links} banner={bar} />
+          : <PreparedOperatorView data={review.page} preview={false} links={links} banner={bar} />}
+        <SiteFooter />
+      </div>
+    );
+  }
+  if (review.reason === "claimed") {
+    return (
+      <Frame kicker="Already claimed" title={review.message.replace(/ has already been claimed\.$/, "")} seed={review.slug ?? "claim"}>
+        <p>This page has already been claimed.</p>
+        <p className="opp-sheet__small">
+          If that was you, <Link href="/login?next=/operator/your-page">sign in</Link> to manage it. If not, write to <a href="mailto:hello@bluepass.co">hello@bluepass.co</a>.
         </p>
-      </Shell>
+      </Frame>
     );
   }
 
@@ -60,22 +95,12 @@ export default async function ClaimVerifyPage({
 
   if (!result.ok) {
     return (
-      <Shell>
-        <h1 className="font-[family-name:var(--font-geist)] text-3xl text-[var(--color-ink)]">
-          This claim link is no longer valid
-        </h1>
-        <p className="mt-4 text-[17px] leading-relaxed text-[var(--color-ink-muted)]">
-          {result.error}
+      <Frame title="This claim link no longer works" seed="claim">
+        <p>{result.error}</p>
+        <p className="opp-sheet__small">
+          Claim links last seven days and work once. Ask for a new one from your page, or write to <a href="mailto:hello@bluepass.co">hello@bluepass.co</a>.
         </p>
-        <p className="mt-6 text-[15px] leading-relaxed text-[var(--color-ink-muted)]">
-          Claim links last seven days and can be used once. You can ask for a new one from your
-          page, or write to{" "}
-          <a className="underline underline-offset-4" href="mailto:hello@bluepass.co">
-            hello@bluepass.co
-          </a>
-          .
-        </p>
-      </Shell>
+      </Frame>
     );
   }
 
@@ -88,59 +113,22 @@ export default async function ClaimVerifyPage({
   if (!traveller?.accountId) {
     const next = encodeURIComponent(`/operator/claim/verify?token=${encodeURIComponent(token)}`);
     return (
-      <Shell>
-        <p className="text-sm uppercase tracking-[0.12em] text-[var(--color-ink-muted)]">
-          Confirm your claim
-        </p>
-        <h1 className="mt-4 font-[family-name:var(--font-geist)] text-4xl leading-tight tracking-tight text-[var(--color-ink)]">
-          {lead.name}
-        </h1>
-        <p className="mt-6 text-[17px] leading-relaxed text-[var(--color-ink-muted)]">
-          Your link is valid. Sign in or create a Bluepass account and we will bring you straight
-          back here to finish.
-        </p>
-        <div className="mt-8 flex flex-wrap gap-4">
-          <Link
-            className="bg-[var(--color-primary)] px-6 py-3 text-[15px] font-medium text-[var(--color-on-primary)] transition-opacity hover:opacity-90"
-            href={`/register?next=${next}`}
-          >
-            Create an account
-          </Link>
-          <Link
-            className="border border-[var(--color-hairline)] px-6 py-3 text-[15px] font-medium text-[var(--color-ink)] transition-colors hover:border-[var(--color-ink)]"
-            href={`/login?next=${next}`}
-          >
-            Sign in
-          </Link>
+      <Frame kicker="Confirm your claim" title={lead.name} seed={lead.slug}>
+        <p>Your link is valid. Sign in or create a Bluepass account and we will bring you straight back here to finish.</p>
+        <div className="opp-closing__actions" style={{ alignItems: "flex-start", flexDirection: "row", flexWrap: "wrap" }}>
+          <Link className="bk-cta" href={`/register?next=${next}`}>Create an account</Link>
+          <Link className="opp-contact" href={`/login?next=${next}`}>Sign in</Link>
         </div>
-        <p className="mt-6 text-sm text-[var(--color-ink-muted)]">
-          Your link stays valid for seven days, so it will still work after you sign in.
-        </p>
-      </Shell>
+        <p className="opp-sheet__small">Your link stays valid for seven days, so it will still work after you sign in.</p>
+      </Frame>
     );
   }
 
   return (
-    <Shell>
-      <p className="text-sm uppercase tracking-[0.12em] text-[var(--color-ink-muted)]">
-        Confirm your claim
-      </p>
-      <h1 className="mt-4 font-[family-name:var(--font-geist)] text-4xl leading-tight tracking-tight text-[var(--color-ink)]">
-        {lead.name}
-      </h1>
-      <p className="mt-6 text-[17px] leading-relaxed text-[var(--color-ink-muted)]">
-        Tell us who you are and we will review the claim by hand. Nothing is published until we have
-        written back to you.
-      </p>
-
-      <div className="mt-10 border-t border-[var(--color-hairline)] pt-8">
-        <ClaimVerifyForm
-          businessName={lead.name}
-          invitedEmail={result.claimToken.email}
-          slug={lead.slug}
-          websiteUrl={lead.websiteUrl}
-        />
-      </div>
-    </Shell>
+    <Frame kicker="Confirm your claim" title={lead.name} seed={lead.slug}>
+      <p>Tell us who you are and we will review the claim. Nothing is published until we have written back to you.</p>
+      <div className="opp-sheet__divider" />
+      <ClaimVerifyForm businessName={lead.name} invitedEmail={result.claimToken.email} slug={lead.slug} websiteUrl={lead.websiteUrl} />
+    </Frame>
   );
 }

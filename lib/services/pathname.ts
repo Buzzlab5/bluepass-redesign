@@ -41,9 +41,18 @@ const CONSOLE_PATHNAME_PREFIXES = ["/admin", "/operator", "/partner-portal", "/c
  * characters: `/administrators` is a marketing page and must keep its nav.
  */
 export function isConsolePathname(pathname: string) {
+  if (isClaimPathname(pathname)) return false;
   return CONSOLE_PATHNAME_PREFIXES.some(
     (prefix) => pathname === prefix || pathname.startsWith(`${prefix}/`),
   );
+}
+
+/**
+ * The operator claim pages. They live under /operator for their address, but they are public:
+ * the operator has no account yet, and the site's own navigation tells them where they are.
+ */
+export function isClaimPathname(pathname: string) {
+  return pathname === "/operator/claim" || pathname.startsWith("/operator/claim/");
 }
 
 /**

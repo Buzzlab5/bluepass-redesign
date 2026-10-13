@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import type { ReactNode } from "react";
 import ConsoleShell from "@/components/console/ConsoleShell";
 import { currentOperatorPathname, requireOperatorOrRedirect } from "@/lib/services/operator/guard";
+import { isClaimPathname } from "@/lib/services/pathname";
 import { operatorSections } from "@/lib/services/operator/sections";
 import { hasClaimedPreparedPage } from "@/lib/services/operators/prepared-pages";
 import { railsAccess } from "@/lib/services/rails/access";
@@ -27,6 +28,10 @@ export const dynamic = "force-dynamic";
  */
 export default async function OperatorLayout({ children }: { children: ReactNode }) {
   const pathname = await currentOperatorPathname();
+  // The claim pages are where an operator arrives before they have an account: the link in
+  // the claim email is the proof of who they are. They sit outside the gate and the shell.
+  // Leaving them is always a full page load, so this layout renders again for the console.
+  if (isClaimPathname(pathname)) return children;
   const { account, profile } = await requireOperatorOrRedirect(pathname);
   const [rails, hasPreparedPage] = await Promise.all([railsAccess(profile), hasClaimedPreparedPage(account.id)]);
 

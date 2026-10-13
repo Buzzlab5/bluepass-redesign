@@ -16,10 +16,6 @@ type State =
   | { kind: "done" }
   | { kind: "error"; message: string };
 
-const FIELD =
-  "mt-2 w-full border border-[var(--color-hairline)] bg-transparent px-3 py-2 text-[15px] text-[var(--color-ink)] outline-none focus:border-[var(--color-accent-blue)]";
-const LABEL = "block text-sm font-medium text-[var(--color-ink)]";
-
 /**
  * The claim itself, shown only after the emailed token has been verified server
  * side. Submitting creates a claim for review; it does not make the operator
@@ -85,95 +81,48 @@ export default function ClaimVerifyForm({
 
   if (state.kind === "done") {
     return (
-      <div className="border-l-2 border-[var(--color-semantic-success)] pl-4">
-        <p className="text-[17px] leading-relaxed text-[var(--color-ink)]">
-          Thank you. Your claim for {businessName} is with us.
-        </p>
-        <p className="mt-3 text-[15px] leading-relaxed text-[var(--color-ink-muted)]">
-          Somebody checks it by hand, usually within a working day. You are not live yet, and we
-          will write to you before anything is published.
-        </p>
+      <div className="opp-msg">
+        <p>Thank you. Your claim for {businessName} is with us.</p>
+        <p className="opp-sheet__small">We check it within a working day. You aren&rsquo;t live yet, and we will write to you before anything is published.</p>
       </div>
     );
   }
 
   return (
-    <form className="space-y-6" onSubmit={submit}>
-      <div>
-        <label className={LABEL} htmlFor="claimantName">
-          Your name
+    <form className="opp-form" onSubmit={submit}>
+      <label className="opp-field">
+        Your name
+        <input name="claimantName" required maxLength={120} autoComplete="name" />
+      </label>
+      <label className="opp-field">
+        Your email
+        <input defaultValue={invitedEmail} maxLength={200} name="claimantEmail" required type="email" autoComplete="email" />
+      </label>
+      <div className="opp-form__pair">
+        <label className="opp-field">
+          <span>Your role <small>(optional)</small></span>
+          <input maxLength={120} name="claimantRole" />
         </label>
-        <input className={FIELD} id="claimantName" name="claimantName" required maxLength={120} />
-      </div>
-
-      <div>
-        <label className={LABEL} htmlFor="claimantEmail">
-          Your email
+        <label className="opp-field">
+          <span>Phone <small>(optional)</small></span>
+          <input maxLength={40} name="claimantPhone" autoComplete="tel" />
         </label>
-        <input
-          className={FIELD}
-          defaultValue={invitedEmail}
-          id="claimantEmail"
-          maxLength={200}
-          name="claimantEmail"
-          required
-          type="email"
-        />
       </div>
-
-      <div className="grid gap-6 sm:grid-cols-2">
-        <div>
-          <label className={LABEL} htmlFor="claimantRole">
-            Your role <span className="font-normal text-[var(--color-ink-muted)]">(optional)</span>
-          </label>
-          <input className={FIELD} id="claimantRole" maxLength={120} name="claimantRole" />
-        </div>
-        <div>
-          <label className={LABEL} htmlFor="claimantPhone">
-            Phone <span className="font-normal text-[var(--color-ink-muted)]">(optional)</span>
-          </label>
-          <input className={FIELD} id="claimantPhone" maxLength={40} name="claimantPhone" />
-        </div>
-      </div>
-
-      <div>
-        <label className={LABEL} htmlFor="websiteUrl">
-          Your website <span className="font-normal text-[var(--color-ink-muted)]">(optional)</span>
-        </label>
-        <input
-          className={FIELD}
-          defaultValue={websiteUrl ?? ""}
-          id="websiteUrl"
-          maxLength={300}
-          name="websiteUrl"
-        />
-      </div>
-
-      <div>
-        <label className={LABEL} htmlFor="notes">
-          Anything we should know{" "}
-          <span className="font-normal text-[var(--color-ink-muted)]">(optional)</span>
-        </label>
-        <textarea className={FIELD} id="notes" maxLength={1000} name="notes" rows={4} />
-      </div>
-
-      <label className="flex items-start gap-3 text-[15px] leading-relaxed text-[var(--color-ink)]">
-        <input className="mt-1" name="authorized" type="checkbox" />
+      <label className="opp-field">
+        <span>Your website <small>(optional)</small></span>
+        <input defaultValue={websiteUrl ?? ""} maxLength={300} name="websiteUrl" />
+      </label>
+      <label className="opp-field">
+        <span>Anything we should know <small>(optional)</small></span>
+        <textarea maxLength={1000} name="notes" rows={4} />
+      </label>
+      <label className="opp-check-row">
+        <input name="authorized" type="checkbox" />
         <span>I am authorised to act for {businessName}.</span>
       </label>
-
-      {state.kind === "error" && (
-        <p className="border-l-2 border-[var(--color-gradient-coral)] pl-4 text-sm text-[var(--color-ink)]">
-          {state.message}
-        </p>
-      )}
-
-      <button
-        className="bg-[var(--color-primary)] px-6 py-3 text-[15px] font-medium text-[var(--color-on-primary)] transition-opacity hover:opacity-90 disabled:opacity-60"
-        disabled={state.kind === "saving"}
-        type="submit"
-      >
-        {state.kind === "saving" ? "Sending..." : "Submit claim"}
+      {state.kind === "error" ? <div className="opp-msg opp-msg--error"><p>{state.message}</p></div> : null}
+      <button className="bk-cta" disabled={state.kind === "saving"} type="submit" style={{ alignSelf: "flex-start" }}>
+        {state.kind === "saving" ? "Sending…" : "Submit claim"}
       </button>
     </form>
   );

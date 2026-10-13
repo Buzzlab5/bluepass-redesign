@@ -26,15 +26,17 @@ export default async function PreparedTripPage({
   searchParams,
 }: {
   params: Promise<{ slug: string; trip: string }>;
-  searchParams: Promise<{ preview?: string }>;
+  searchParams: Promise<{ preview?: string; view?: string }>;
 }) {
   const { slug, trip } = await params;
-  const preview = (await searchParams).preview === "1" && Boolean(await requireCurrentAdmin());
-  const page = await loadPreparedPage(slug, { preview });
+  const query = await searchParams;
+  const preview = query.preview === "1" && Boolean(await requireCurrentAdmin());
+  const travellerView = preview && query.view === "traveller";
+  const page = await loadPreparedPage(slug, { preview, travellerPhotos: travellerView });
   if (!page || !page.trips.some((t) => t.slug === trip)) notFound();
   return (
     <>
-      <PreparedTripView data={page} tripSlug={trip} preview={preview} />
+      <PreparedTripView data={page} tripSlug={trip} preview={preview} travellerView={travellerView} />
       <SiteFooter />
     </>
   );

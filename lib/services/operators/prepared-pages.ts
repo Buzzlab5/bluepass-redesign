@@ -302,7 +302,7 @@ function approvedPhotosOnly(page: PreparedOperator, trips: LoadedPage["trips"], 
  * One prepared page. For travellers, only an approved page with its approved trips; for
  * the person checking it, everything, with each item's check.
  */
-export async function loadPreparedPage(slug: string, opts: { preview?: boolean } = {}): Promise<LoadedPage | null> {
+export async function loadPreparedPage(slug: string, opts: { preview?: boolean; travellerPhotos?: boolean } = {}): Promise<LoadedPage | null> {
   const [page, lead, profile] = await Promise.all([
     prisma.preparedOperatorPage.findUnique({ where: { slug } }),
     prisma.operatorLead.findUnique({ where: { slug }, select: { name: true, status: true } }),
@@ -334,8 +334,9 @@ export async function loadPreparedPage(slug: string, opts: { preview?: boolean }
   const pageEdits = (page.edits as PageEdits | null) ?? null;
   const data = applyPageEdits(website, pageEdits);
   const photos: PhotoApproval = { approved: page.photosApproved, seen: page.photosSeen, approvedAt: page.photosApprovedAt, approvedBy: page.photosApprovedBy };
-  // The person checking the page sees every photo; a traveller sees only the approved ones.
-  const shown = opts.preview ? { page: data, trips: all } : approvedPhotosOnly(data, all, page.photosApproved);
+  // The person checking the page sees every photo, unless they ask to see it as a traveller
+  // would; a traveller sees only the ones the operator approved.
+  const shown = opts.preview && !opts.travellerPhotos ? { page: data, trips: all } : approvedPhotosOnly(data, all, page.photosApproved);
   return {
     slug,
     lead: { name: lead.name, claimed: lead.status === "APPROVED" || lead.status === "LIVE" },
@@ -395,6 +396,26 @@ export async function claimedPreparedPage(accountId: string) {
     /** Photos the operator has not been asked about yet. */
     undecided: photos.filter((p) => !seen.has(p.url)).length,
   };
+}
+
+/**
+ * The operator correcting their own page. Allowed only for the page their approved claim
+ * is for, and only for that page's trips; their word is the page's from then on.
+ */
+export async function operatorCorrectTrip(input: { accountId: string; listingId: string; form: Record<string, string> }) {
+  const claimed = await claimedPreparedPage(input.accountId);
+  if (!claimed?.claimApproved) return { ok: false as const, message: "You can correct your page once your claim is approved." };
+  const loaded = await loadPreparedPage(claimed.slug, { preview: true });
+  if (!loaded?.trips.some((t) => t.id === input.listingId)) return { ok: false as const, message: "That trip is not on your page." };
+  const account = await prisma.bluePassAccount.findUnique({ where: { id: input.accountId }, select: { email: true } });
+  return setTripEdits({ listingId: input.listingId, form: input.form, editor: `operator ${account?.email ?? input.accountId}` });
+}
+
+export async function operatorCorrectPage(input: { accountId: string; form: Record<string, string> }) {
+  const claimed = await claimedPreparedPage(input.accountId);
+  if (!claimed?.claimApproved) return { ok: false as const, message: "You can correct your page once your claim is approved." };
+  const account = await prisma.bluePassAccount.findUnique({ where: { id: input.accountId }, select: { email: true } });
+  return setPageEdits({ slug: claimed.slug, form: input.form, editor: `operator ${account?.email ?? input.accountId}` });
 }
 
 /** The operator chooses which of the page's photos travellers see. */

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import ClaimFrame from "@/components/operators/ClaimFrame";
 import SiteFooter from "@/components/SiteFooter";
 import { PreparedOperatorView } from "@/components/operators/PreparedViews";
 import { requireCurrentAdmin } from "@/lib/services/auth/admin";
@@ -54,17 +55,19 @@ export default async function PublicOperatorPage({
   searchParams,
 }: {
   params: Promise<{ slug: string }>;
-  searchParams: Promise<{ preview?: string }>;
+  searchParams: Promise<{ preview?: string; view?: string }>;
 }) {
   const { slug } = await params;
   // A page prepared from the operator's own website shows once a person has checked it.
   // Before that, an admin can preview it with ?preview=1; anyone else sees the plain page.
-  const preview = (await searchParams).preview === "1" && Boolean(await requireCurrentAdmin());
-  const prepared = await loadPreparedPage(slug, { preview });
+  const query = await searchParams;
+  const preview = query.preview === "1" && Boolean(await requireCurrentAdmin());
+  const travellerView = preview && query.view === "traveller";
+  const prepared = await loadPreparedPage(slug, { preview, travellerPhotos: travellerView });
   if (prepared) {
     return (
       <>
-        <PreparedOperatorView data={prepared} preview={preview} />
+        <PreparedOperatorView data={prepared} preview={preview} travellerView={travellerView} />
         <SiteFooter />
       </>
     );
@@ -74,73 +77,36 @@ export default async function PublicOperatorPage({
 
   if (!lead) notFound();
 
-  const where = [lead.category, lead.region].filter(Boolean).join(" · ");
+  const website = lead.websiteUrl ? (lead.websiteUrl.startsWith("http") ? lead.websiteUrl : `https://${lead.websiteUrl}`) : null;
 
   return (
     <>
-      <main className="mx-auto w-full max-w-3xl px-6 pb-24 pt-32 sm:px-8">
-        {!lead.claimed && (
-          <p className="mb-8 border-l-2 border-[var(--color-accent-blue)] pl-4 text-sm leading-relaxed text-[var(--color-ink-muted)]">
-            This is a page Bluepass prepared for {lead.name}. Nobody from the business has claimed
-            it yet, so nothing here has been confirmed by them and no trips are bookable.
-          </p>
-        )}
-
-        <h1 className="font-[family-name:var(--font-geist)] text-4xl leading-tight tracking-tight text-[var(--color-ink)] sm:text-5xl">
-          {lead.name}
-        </h1>
-
-        {where && (
-          <p className="mt-3 text-sm uppercase tracking-[0.12em] text-[var(--color-ink-muted)]">
-            {where}
-          </p>
-        )}
-
-        <div className="mt-10 space-y-5 text-[17px] leading-relaxed text-[var(--color-ink-muted)]">
-          <p>
-            Bluepass is a booking platform for marine tourism. Operators set their own rates and it
-            is free to list. We only earn a commission when we bring you a booking, and a fixed 5%
-            of every booking goes back to the ocean you work in.
-          </p>
-          {lead.websiteUrl && (
-            <p>
-              Their own site:{" "}
-              <a
-                className="underline underline-offset-4 hover:text-[var(--color-ink)]"
-                href={lead.websiteUrl.startsWith("http") ? lead.websiteUrl : `https://${lead.websiteUrl}`}
-                rel="nofollow noopener noreferrer"
-                target="_blank"
-              >
-                {lead.websiteUrl.replace(/^https?:\/\//, "")}
-              </a>
+      <ClaimFrame kicker={lead.category} title={lead.name} sub={lead.region} seed={lead.slug}>
+        {!lead.claimed ? (
+          <div className="opp-msg">
+            <p className="opp-sheet__small">
+              This is a page Bluepass prepared for {lead.name}. Nobody from the business has claimed it yet, so nothing here is confirmed by them and no trips are bookable.
             </p>
-          )}
-        </div>
-
-        {lead.claimable && !lead.claimed && (
-          <div className="mt-12 border-t border-[var(--color-hairline)] pt-8">
-            <h2 className="font-[family-name:var(--font-geist)] text-xl text-[var(--color-ink)]">
-              Is this your business?
-            </h2>
-            <p className="mt-3 max-w-xl text-[15px] leading-relaxed text-[var(--color-ink-muted)]">
-              Claim the page and you control what it says. We send a link to the business address we
-              already hold, so nobody else can take it.
-            </p>
-            <Link
-              className="mt-6 inline-block bg-[var(--color-primary)] px-6 py-3 text-[15px] font-medium text-[var(--color-on-primary)] transition-opacity hover:opacity-90"
-              href={`/operator/claim/start/${lead.slug}`}
-            >
-              Claim this page
-            </Link>
           </div>
-        )}
-
-        {lead.claimed && (
-          <p className="mt-12 border-t border-[var(--color-hairline)] pt-8 text-[15px] text-[var(--color-ink-muted)]">
-            This page has been claimed by its operator.
+        ) : null}
+        <p>
+          Bluepass is a booking platform for marine tourism. Operators set their own prices and it is free to list. We only earn a commission when we bring a booking, and a fixed 5% of every booking goes back to the ocean it happens on.
+        </p>
+        {website ? (
+          <p className="opp-sheet__small">
+            Their own site: <a href={website} rel="nofollow noopener noreferrer" target="_blank">{lead.websiteUrl?.replace(/^https?:\/\//, "")}</a>
           </p>
-        )}
-      </main>
+        ) : null}
+        {lead.claimable && !lead.claimed ? (
+          <>
+            <div className="opp-sheet__divider" />
+            <h2 className="ds-headline">Is this your business?</h2>
+            <p>Claim the page and you control what it says. We email a link to the business address we already hold, so nobody else can take it.</p>
+            <Link className="bk-cta" href={`/operator/claim/start/${lead.slug}`}>Claim this page</Link>
+          </>
+        ) : null}
+        {lead.claimed ? <p className="opp-sheet__small">This page has been claimed by its operator.</p> : null}
+      </ClaimFrame>
       <SiteFooter />
     </>
   );

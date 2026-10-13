@@ -9,7 +9,8 @@ import ApproveWaiting from "@/components/admin/ApproveWaiting";
 import { approveWaitingTripsAction, checkPageAction, checkTripAction, editPageAction, editTripAction } from "@/app/admin/operator-pages/actions";
 import { requireAdminOrRedirect } from "@/lib/services/admin/guard";
 import type { LeftOutPhoto } from "@/lib/services/operators/photo-check";
-import { PAGE_FIELDS, TRIP_FIELDS, fieldText, type TripEdits } from "@/lib/services/operators/prepared-edits";
+import { pageEditor, tripEditor, wasFor } from "@/components/operators/editorFields";
+import { type TripEdits } from "@/lib/services/operators/prepared-edits";
 import { loadPreparedPage, nextPageToCheck, type LoadedPage, type PreparedTrip } from "@/lib/services/operators/prepared-pages";
 import { pageStaleSigns, staleSigns } from "@/lib/services/operators/stale-signs";
 
@@ -40,34 +41,6 @@ function Row({ label, children, was }: { label: string; children: ReactNode; was
       </dd>
     </div>
   );
-}
-
-/** What the website says for a field that was corrected, or null when it was not. */
-function wasFor(edits: Record<string, unknown> | null, website: object, name: string) {
-  if (!edits || !(name in edits)) return null;
-  const field = [...TRIP_FIELDS, ...PAGE_FIELDS].find((f) => f.name === name);
-  return field ? fieldText(field.kind, (website as Record<string, unknown>)[name]) : null;
-}
-
-function tripEditor(t: LoadedPage["trips"][number]): EditorField[] {
-  const shown = t.trip as unknown as Record<string, unknown>;
-  return TRIP_FIELDS.map((f) => ({
-    name: f.name, label: f.label, kind: f.kind, hint: f.hint,
-    // The From price starts empty unless set by hand, so leaving it alone keeps it worked out.
-    value: f.name === "priceFrom" ? fieldText("money", t.edits?.priceFrom) : fieldText(f.kind, shown[f.name]),
-    website: wasFor(t.edits as Record<string, unknown> | null, t.website, f.name),
-  }));
-}
-
-function pageEditor(loaded: LoadedPage): EditorField[] {
-  const shown = { summary: loaded.page.summary, standouts: loaded.page.standouts, phone: loaded.page.contact?.phone, email: loaded.page.contact?.email, address: loaded.page.contact?.address };
-  const website = { summary: loaded.website.summary, standouts: loaded.website.standouts, phone: loaded.website.contact?.phone, email: loaded.website.contact?.email, address: loaded.website.contact?.address };
-  const edited = { ...loaded.edits, ...loaded.edits?.contact } as Record<string, unknown>;
-  return PAGE_FIELDS.map((f) => ({
-    name: f.name, label: f.label, kind: f.kind, hint: f.hint,
-    value: fieldText(f.kind, (shown as Record<string, unknown>)[f.name]),
-    website: loaded.edits ? wasFor(edited, website, f.name) : null,
-  }));
 }
 
 function Thumbs({ urls }: { urls: string[] | undefined }) {
