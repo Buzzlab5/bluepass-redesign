@@ -1,0 +1,631 @@
+{
+ "requestStatus": {
+  "success": true,
+  "version": "v1"
+ },
+ "products": [
+  {
+   "productType": "DAYTOUR",
+   "name": "Grand Island Tour 11:30am (AOS TOUR)",
+   "shortDescription": " test test test test test test GIT1130",
+   "description": "&nbsp;test test test test test test&nbsp;&nbsp;test test test test test test&nbsp;&nbsp;test test test test test test&nbsp;&nbsp;test test test test test test",
+   "productCode": "PJ0CSW",
+   "internalCode": "TOR_QKC_GIT",
+   "supplierId": 13317,
+   "supplierAlias": "rottnestfastferries",
+   "supplierName": "Rottnest Fast Ferries - Channel Manager",
+   "timezone": "Australia/Perth",
+   "advertisedPrice": 92.0,
+   "priceOptions": [
+    {
+     "price": 99.0,
+     "label": "Adult",
+     "id": 1301489,
+     "seatsUsed": 1,
+     "productCode": "PJ0CSW"
+    },
+    {
+     "price": 60.0,
+     "label": "Child",
+     "id": 1301488,
+     "seatsUsed": 1,
+     "productCode": "PJ0CSW"
+    },
+    {
+     "price": 90.0,
+     "label": "Concession",
+     "id": 1301516,
+     "seatsUsed": 1,
+     "productCode": "PJ0CSW"
+    }
+   ],
+   "currency": "AUD",
+   "unitLabel": "Participant",
+   "unitLabelPlural": "Participants",
+   "quantityRequired": true,
+   "quantityRequiredMin": 1,
+   "images": [],
+   "bookingMode": "INVENTORY",
+   "charter": false,
+   "terms": "",
+   "bookingFields": [
+    {
+     "label": "First Name",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": false,
+     "visiblePerParticipant": true,
+     "visiblePerBooking": true,
+     "fieldType": "String"
+    },
+    {
+     "label": "Last Name",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": false,
+     "visiblePerParticipant": true,
+     "visiblePerBooking": true,
+     "fieldType": "String"
+    },
+    {
+     "label": "Mobile",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": true,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "Phone"
+    },
+    {
+     "label": "Email",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": true,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "String"
+    },
+    {
+     "label": "Country",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": true,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "List"
+    },
+    {
+     "label": "State/County/Region",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": true,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "String"
+    },
+    {
+     "label": "Postcode/ZIP",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": true,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "String"
+    },
+    {
+     "label": "Special Requirements",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": false,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "String"
+    }
+   ],
+   "latitude": -25.274398,
+   "longitude": 133.775136,
+   "xeroAccount": "",
+   "confirmMode": "AUTOCONFIRM",
+   "confirmModeMinParticipants": 0,
+   "agentPaymentType": "PAYOUTS",
+   "maxCommissionPercent": 23.0,
+   "commissionIncludesExtras": false,
+   "cancellationPolicyDays": 0,
+   "dateCreated": "2026-08-11T02:10:37Z",
+   "minimumNoticeMinutes": 0,
+   "durationMinutes": 120,
+   "dateUpdated": "2026-08-16T11:26:28Z",
+   "pickupId": 2641,
+   "locationAddress": {
+    "addressLine": "",
+    "postCode": "",
+    "city": "",
+    "state": "",
+    "countryCode": "au",
+    "latitude": -25.274398,
+    "longitude": 133.775136
+   },
+   "languages": [
+    "en_us"
+   ],
+   "tags": [],
+   "isApiBookingSupported": true,
+   "isMultiProductBookingSupported": false
+  },
+  {
+   "productType": "ACTIVITY",
+   "name": "MegaClimb + Giant Swing - Most Popular!",
+   "shortDescription": "Do it all! This ticket includes the 70+ obstacles on the MegaClimb, the MegaJump from 18m and TWO turns on the Giant Swing.\r\nClick Book Now to check height requirements.\r\n",
+   "description": "<p>All climbers must be over 140cm tall to do the MegaClimb without an adult.<br></p><p>Climbers between 120cm &amp; 140cm must be accompanied by an adult climber to help them move around.</p><b>*RECOMMENDED LAST BOOKING TIME 3:30PM - the park closes at 6pm.<br></b><br><p>With over 70 obstacles available for you to tackle at your own pace, the MegaClimb is perfect for anyone wanting a new adrenaline filled adventure. Imagine playing tennis in the sky, rowing a boat mid-air, or manoeuvring between obstacles like our floating esky, BMX bike, and sky-high picnic table. Don't forget the Crows Nest climb to take you to the tallest point on our course.&nbsp;<br></p><p>Once you've completed the obstacles you'll have a chance to take on our MegaJump, an 18m simulated free fall experience! You do not have a time limit on this course, however, once you jump your adventure is done for the day, so choose wisely!&nbsp;</p><p><br>This package deal also includes our Giant Swing! Seating up to 3 people at a time and reaching a maximum height of 20m and speeds up to 70km/hr, this is the ultimate thrill seeking experience!&nbsp;&nbsp;<br></p><p><br></p>",
+   "productCode": "PNF01G",
+   "internalCode": "WB_MegaClimb + Giant Swing - Most Popular!_22_7024_7096",
+   "supplierId": 15444,
+   "supplierAlias": "westbeachadventure",
+   "supplierName": "West Beach Adventure",
+   "timezone": "Australia/South",
+   "advertisedPrice": 86.0,
+   "priceOptions": [
+    {
+     "price": 86.0,
+     "label": "Quantity",
+     "id": 1297022,
+     "seatsUsed": 1,
+     "productCode": "PNF01G"
+    }
+   ],
+   "currency": "AUD",
+   "unitLabel": "Participant",
+   "unitLabelPlural": "Participants",
+   "quantityRequired": true,
+   "quantityRequiredMin": 1,
+   "quantityRequiredMax": 12,
+   "images": [],
+   "bookingMode": "INVENTORY",
+   "charter": false,
+   "terms": "Minimum height to climb with an adult: 120cm. \r\nMinimum height to climb unassisted: 140cm. \r\nMaximum weight: 128kg. \r\nClosed in shoes must be worn and nothing is to be carried in pockets.",
+   "extras": [
+    {
+     "name": "Locker",
+     "description": "Keep your belongings safe & sound while you climb",
+     "price": 2.0,
+     "extraPriceType": "ANY"
+    },
+    {
+     "name": "RENT: Phone Pouch",
+     "description": "Pockets must be empty and no loose items are allowed on the tower, so these specially designed, splash proof pouches are required for climbers that wish to take their phone up with them. They safely secure your phone to you while still allowing you to capture photos of your adventure. \r\nRent and return to the front desk after your adventure.",
+     "price": 5.0,
+     "extraPriceType": "ANY"
+    },
+    {
+     "name": "Safety Gloves",
+     "description": "Protect your hands and climb for longer with our CE standard safety gloves. Yours to keep so you can bring them back again and again.\r\n",
+     "price": 5.0,
+     "extraPriceType": "QUANTITY"
+    },
+    {
+     "name": "Sunglasses Strap",
+     "description": "You're welcome to climb with your sunnies, however if you're worried they may fall and break, a sunnies strap will help keep them safe!",
+     "price": 3.0,
+     "extraPriceType": "ANY"
+    }
+   ],
+   "bookingFields": [
+    {
+     "label": "First Name",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": true,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "String"
+    },
+    {
+     "label": "Last Name",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": true,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "String"
+    },
+    {
+     "label": "Mobile",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": true,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "Phone"
+    },
+    {
+     "label": "Email",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": true,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "String"
+    },
+    {
+     "label": "Country",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": false,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "List"
+    },
+    {
+     "label": "Special Requirements",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": false,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "String"
+    }
+   ],
+   "latitude": -34.9538655,
+   "longitude": 138.5071387,
+   "xeroAccount": "",
+   "confirmMode": "AUTOCONFIRM",
+   "confirmModeMinParticipants": 0,
+   "agentPaymentType": "PAYOUTS",
+   "maxCommissionPercent": 13.0,
+   "commissionIncludesExtras": false,
+   "cancellationPolicyDays": 7,
+   "dateCreated": "2026-07-15T03:06:16Z",
+   "minimumNoticeMinutes": 0,
+   "durationMinutes": 150,
+   "dateUpdated": "2026-08-04T03:48:54Z",
+   "locationAddress": {
+    "addressLine": "4 Hamra Avenue",
+    "postCode": "5024",
+    "city": "West Beach",
+    "state": "South Australia",
+    "countryCode": "au",
+    "latitude": -34.9538655,
+    "longitude": 138.5071387
+   },
+   "languages": [
+    "en_au"
+   ],
+   "tags": [
+    "TYPE:Activity"
+   ],
+   "waitListingEnabled": false,
+   "isApiBookingSupported": true,
+   "isMultiProductBookingSupported": true
+  },
+  {
+   "productType": "ACTIVITY",
+   "name": "Test Group",
+   "shortDescription": "Tickets are valid for 90 days from purchase date.",
+   "description": "Come and visit New Zealand's first zoo to get up close and personal to native treasures and endangered exotic animals.&nbsp;<br>Child entry applies for 3-14 year olds, and we have free entry for under 3 years old. All children under the age of 14 must be accompanied by an adult.&nbsp;<br>Tickets are valid for 90 days from purchase date.&nbsp;",
+   "productCode": "PRLAQE",
+   "supplierId": 13888,
+   "supplierAlias": "heidirctest",
+   "supplierName": "Heidi Test RC Account",
+   "timezone": "US/Eastern",
+   "priceOptions": [
+    {
+     "price": 100.0,
+     "label": "Group from 1 to 8",
+     "id": 1279848,
+     "seatsUsed": 1,
+     "minQuantity": 1,
+     "maxQuantity": 8,
+     "priceGroupType": "TOTAL",
+     "productCode": "PRLAQE"
+    }
+   ],
+   "currency": "USD",
+   "unitLabel": "Participant",
+   "unitLabelPlural": "Participants",
+   "quantityRequired": true,
+   "quantityRequiredMin": 1,
+   "images": [],
+   "bookingMode": "INVENTORY",
+   "charter": false,
+   "latitude": 55.378051,
+   "longitude": -3.435973,
+   "agentPaymentType": "PAYOUTS",
+   "maxCommissionPercent": 23.0,
+   "commissionIncludesExtras": false,
+   "cancellationPolicyDays": 60,
+   "dateCreated": "2026-04-30T21:41:05Z",
+   "durationMinutes": 30,
+   "dateUpdated": "2026-04-30T21:41:06Z",
+   "locationAddress": {
+    "addressLine": "",
+    "postCode": "",
+    "city": "",
+    "state": "",
+    "countryCode": "us",
+    "latitude": 55.378051,
+    "longitude": -3.435973
+   },
+   "tags": [
+    "TYPE:Activity"
+   ],
+   "isApiBookingSupported": true,
+   "isMultiProductBookingSupported": true
+  },
+  {
+   "productType": "ACTIVITY",
+   "name": "IRUN tour 2time",
+   "shortDescription": "IRUN tour 2time IRUN tour 2time IRUN tour 2time IRUN tour 2time IRUN tour 2time IRUN tour 2time ",
+   "description": "IRUN tour 2time IRUN tour 2time IRUN tour 2time IRUN tour 2time IRUN tour 2time IRUN tour 2time&nbsp;&nbsp;IRUN tour 2time IRUN tour 2time IRUN tour 2time IRUN tour 2time IRUN tour 2time IRUN tour 2time&nbsp;&nbsp;IRUN tour 2time IRUN tour 2time IRUN tour 2time IRUN tour 2time IRUN tour 2time IRUN tour 2time&nbsp;&nbsp;IRUN tour 2time IRUN tour 2time IRUN tour 2time IRUN tour 2time IRUN tour 2time IRUN tour 2time&nbsp;",
+   "productCode": "PXPWXS",
+   "internalCode": "TEST1",
+   "supplierId": 15251,
+   "supplierAlias": "quokkacoaches",
+   "supplierName": "Quokka Coaches",
+   "timezone": "Australia/Sydney",
+   "advertisedPrice": 10.0,
+   "priceOptions": [
+    {
+     "price": 10.0,
+     "label": "Adult",
+     "id": 1217042,
+     "seatsUsed": 1,
+     "productCode": "PXPWXS"
+    },
+    {
+     "price": 5.0,
+     "label": "Child",
+     "id": 1217040,
+     "seatsUsed": 1,
+     "productCode": "PXPWXS"
+    },
+    {
+     "price": 7.5,
+     "label": "Concession",
+     "id": 1217041,
+     "seatsUsed": 1,
+     "productCode": "PXPWXS"
+    },
+    {
+     "price": 30.0,
+     "label": "Family of 4",
+     "id": 1217043,
+     "seatsUsed": 4,
+     "productCode": "PXPWXS"
+    }
+   ],
+   "currency": "AUD",
+   "unitLabel": "Participant",
+   "unitLabelPlural": "Participants",
+   "quantityRequired": true,
+   "quantityRequiredMin": 1,
+   "images": [],
+   "bookingMode": "INVENTORY",
+   "charter": false,
+   "terms": "",
+   "extras": [
+    {
+     "name": "Custom",
+     "description": "Customer's choice",
+     "price": 2.0,
+     "extraPriceType": "ANY"
+    },
+    {
+     "name": "Per Quantity",
+     "description": "Per Quantity",
+     "price": 2.0,
+     "extraPriceType": "QUANTITY"
+    },
+    {
+     "name": "Priority Boarding",
+     "description": "Priority Boarding",
+     "price": 10.0,
+     "extraPriceType": "QUANTITY"
+    }
+   ],
+   "bookingFields": [
+    {
+     "label": "First Name",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": false,
+     "visiblePerParticipant": true,
+     "visiblePerBooking": true,
+     "fieldType": "String"
+    },
+    {
+     "label": "Last Name",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": false,
+     "visiblePerParticipant": true,
+     "visiblePerBooking": true,
+     "fieldType": "String"
+    },
+    {
+     "label": "Mobile",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": false,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "Phone"
+    },
+    {
+     "label": "Email",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": false,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "String"
+    },
+    {
+     "label": "Country",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": false,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "List"
+    },
+    {
+     "label": "Special Requirements",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": false,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "String"
+    }
+   ],
+   "latitude": -31.9965027,
+   "longitude": 115.5398997,
+   "xeroAccount": "",
+   "confirmMode": "AUTOCONFIRM",
+   "agentPaymentType": "PAYOUTS",
+   "maxCommissionPercent": 23.0,
+   "commissionIncludesExtras": false,
+   "cancellationPolicyDays": 7,
+   "dateCreated": "2025-10-25T13:19:59Z",
+   "dateUpdated": "2025-10-30T09:08:51Z",
+   "pickupId": 2199,
+   "locationAddress": {
+    "addressLine": "Rottnest island",
+    "postCode": "",
+    "city": "",
+    "state": "",
+    "countryCode": "au",
+    "latitude": -31.9965027,
+    "longitude": 115.5398997
+   },
+   "languages": [
+    "en_au"
+   ],
+   "tags": [
+    "TYPE:Activity"
+   ],
+   "isApiBookingSupported": true,
+   "isMultiProductBookingSupported": true
+  },
+  {
+   "productType": "ACTIVITY",
+   "name": "Hobbiton Movie Set Tour",
+   "shortDescription": "Tour of the Hobbiton movie set ",
+   "description": "<p>Guided tour of the Hobbiton movie set in New Zealand.</p><p>Guided tour of the Hobbiton movie set in New Zealand.</p><p>Guided tour of the Hobbiton movie set in New Zealand.</p><p>Guided tour of the Hobbiton movie set in New Zealand.</p><p><br></p><p></p>",
+   "productCode": "PMCA5D",
+   "internalCode": "",
+   "supplierId": 13719,
+   "supplierAlias": "travellotest",
+   "supplierName": "Travello Test",
+   "timezone": "Australia/Sydney",
+   "advertisedPrice": 215.0,
+   "priceOptions": [
+    {
+     "price": 215.0,
+     "label": "Adult",
+     "id": 1098757,
+     "seatsUsed": 1,
+     "productCode": "PMCA5D"
+    },
+    {
+     "price": 89.0,
+     "label": "Child",
+     "id": 1098758,
+     "seatsUsed": 1,
+     "productCode": "PMCA5D"
+    }
+   ],
+   "currency": "AUD",
+   "unitLabel": "Participant",
+   "unitLabelPlural": "Participants",
+   "quantityRequired": true,
+   "quantityRequiredMin": 1,
+   "images": [
+    {
+     "id": 37674,
+     "itemUrl": "https://rz-email-images-upload.rezdy-staging.com/PRODUCT_IMAGE/13719/image1.jpg",
+     "thumbnailUrl": "https://rz-email-images-upload.rezdy-staging.com/PRODUCT_IMAGE/13719/image1_tb.jpg",
+     "mediumSizeUrl": "https://rz-email-images-upload.rezdy-staging.com/PRODUCT_IMAGE/13719/image1_med.jpg",
+     "largeSizeUrl": "https://rz-email-images-upload.rezdy-staging.com/PRODUCT_IMAGE/13719/image1_lg.jpg"
+    },
+    {
+     "id": 37675,
+     "itemUrl": "https://rz-email-images-upload.rezdy-staging.com/PRODUCT_IMAGE/13719/image2.jpg",
+     "thumbnailUrl": "https://rz-email-images-upload.rezdy-staging.com/PRODUCT_IMAGE/13719/image2_tb.jpg",
+     "mediumSizeUrl": "https://rz-email-images-upload.rezdy-staging.com/PRODUCT_IMAGE/13719/image2_med.jpg",
+     "largeSizeUrl": "https://rz-email-images-upload.rezdy-staging.com/PRODUCT_IMAGE/13719/image2_lg.jpg"
+    },
+    {
+     "id": 37676,
+     "itemUrl": "https://rz-email-images-upload.rezdy-staging.com/PRODUCT_IMAGE/13719/image3.jpg",
+     "thumbnailUrl": "https://rz-email-images-upload.rezdy-staging.com/PRODUCT_IMAGE/13719/image3_tb.jpg",
+     "mediumSizeUrl": "https://rz-email-images-upload.rezdy-staging.com/PRODUCT_IMAGE/13719/image3_med.jpg",
+     "largeSizeUrl": "https://rz-email-images-upload.rezdy-staging.com/PRODUCT_IMAGE/13719/image3_lg.jpg"
+    }
+   ],
+   "bookingMode": "INVENTORY",
+   "charter": false,
+   "terms": "",
+   "bookingFields": [
+    {
+     "label": "First Name",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": false,
+     "visiblePerParticipant": true,
+     "visiblePerBooking": true,
+     "fieldType": "String"
+    },
+    {
+     "label": "Last Name",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": false,
+     "visiblePerParticipant": true,
+     "visiblePerBooking": true,
+     "fieldType": "String"
+    },
+    {
+     "label": "Mobile",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": false,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "Phone"
+    },
+    {
+     "label": "Email",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": false,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "String"
+    },
+    {
+     "label": "Country",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": false,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "List"
+    },
+    {
+     "label": "Special Requirements",
+     "requiredPerParticipant": false,
+     "requiredPerBooking": false,
+     "visiblePerParticipant": false,
+     "visiblePerBooking": true,
+     "fieldType": "String"
+    }
+   ],
+   "latitude": -37.7825893,
+   "longitude": 175.2527624,
+   "xeroAccount": "",
+   "confirmMode": "AUTOCONFIRM",
+   "confirmModeMinParticipants": 0,
+   "agentPaymentType": "PAYOUTS",
+   "maxCommissionPercent": 23.0,
+   "commissionIncludesExtras": false,
+   "cancellationPolicyDays": 7,
+   "dateCreated": "2025-01-28T04:34:15Z",
+   "minimumNoticeMinutes": 1440,
+   "durationMinutes": 120,
+   "dateUpdated": "2025-01-29T08:18:04Z",
+   "locationAddress": {
+    "addressLine": "",
+    "postCode": "4030",
+    "city": "Hamilton",
+    "state": "Waikato",
+    "countryCode": "nz",
+    "latitude": -37.7825893,
+    "longitude": 175.2527624
+   },
+   "additionalInformation": "",
+   "languages": [
+    "en_au"
+   ],
+   "tags": [],
+   "waitListingEnabled": false,
+   "isApiBookingSupported": true,
+   "isMultiProductBookingSupported": true
+  }
+ ]
+}

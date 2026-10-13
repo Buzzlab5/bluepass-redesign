@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { OPERATOR_SECTIONS, activeOperatorSection } from "@/lib/services/operator/sections";
+import { activeOperatorSection, operatorSections } from "@/lib/services/operator/sections";
 
 /**
  * The operator area's rail.
@@ -16,12 +16,17 @@ import { OPERATOR_SECTIONS, activeOperatorSection } from "@/lib/services/operato
 export default function OperatorNav({
   companyName,
   email,
+  railsEnabled = false,
+  hasPreparedPage = false,
 }: {
   companyName: string | null;
   email: string;
+  railsEnabled?: boolean;
+  hasPreparedPage?: boolean;
 }) {
   const pathname = usePathname();
-  const active = activeOperatorSection(pathname);
+  const sections = operatorSections(railsEnabled, hasPreparedPage);
+  const active = activeOperatorSection(pathname, sections);
 
   return (
     <nav className="adm-nav" aria-label="Operator sections">
@@ -36,7 +41,7 @@ export default function OperatorNav({
       </Link>
 
       <ul className="adm-nav__list">
-        {OPERATOR_SECTIONS.map((section) => {
+        {sections.map((section) => {
           const isActive = active?.href === section.href;
 
           return (

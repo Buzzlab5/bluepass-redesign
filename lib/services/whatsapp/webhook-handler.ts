@@ -9,6 +9,7 @@ import {
   type ProcessOperatorInquiryActionResult,
 } from "@/lib/services/booking/booking-inquiry-actions";
 import { prisma } from "@/lib/db/prisma";
+import { applyWhatsAppStatuses } from "@/lib/services/rails/notify";
 import { maskPhoneNumber } from "@/lib/services/whatsapp/client";
 import {
   buildOperatorCounterPrompt,
@@ -261,6 +262,13 @@ export async function handleWhatsAppWebhook(
     typeof payload === "string" ? (JSON.parse(payload) as unknown) : payload;
 
   await handleWhatsAppStatuses(extractIncomingStatuses(parsedPayload), logger);
+  // Receipts for booking-CMS messages live in their own log; this leaves the inquiry
+  // flow's handling above exactly as it was.
+  await applyWhatsAppStatuses(parsedPayload).catch((error) => {
+    logger.warn("whatsapp.webhook.rails_status_failed", {
+      reason: error instanceof Error ? error.message : "Unknown status error.",
+    });
+  });
 
   const messages = extractIncomingMessages(parsedPayload);
 

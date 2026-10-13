@@ -76,6 +76,11 @@ export type Trip = {
   /** Attribution for `quote`, shown in the sheet's pull-quote. */
   quoteBy?: string;
   price: number;
+  /**
+   * Set only for a trip on the native booking rails with a schedule and a price: it can be
+   * booked and paid for on the spot, so the sheet offers "Book now" instead of a request.
+   */
+  bookUrl?: string;
   /** Optional and never fabricated (2026-08-21, Tony's UX audit §9) - there's no real inventory
       system to check remaining spots against, so leave this unset rather than claim a scarcity
       figure nobody can verify. A future real availability integration can set it honestly. */

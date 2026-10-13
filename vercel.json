@@ -11,6 +11,22 @@
     {
       "path": "/api/cron/agents-drain",
       "schedule": "*/5 * * * *"
+    },
+    {
+      "path": "/api/cron/rails-settle",
+      "schedule": "0 22 * * *"
+    },
+    {
+      "path": "/api/cron/rails-calendar",
+      "schedule": "*/15 * * * *"
+    },
+    {
+      "path": "/api/cron/rails-notify",
+      "schedule": "0 * * * *"
+    },
+    {
+      "path": "/api/cron/channel-sync",
+      "schedule": "*/15 * * * *"
     }
   ]
 }

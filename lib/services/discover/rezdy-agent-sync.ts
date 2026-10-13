@@ -1,5 +1,8 @@
 import { randomBytes } from "node:crypto";
+import type { Prisma } from "@prisma/client";
 import { prisma } from "@/lib/db/prisma";
+import { rezdyApi, type RezdyApi, type RezdyProduct } from "@/lib/services/channels/rezdy/api";
+import { productIssue, productToListing } from "@/lib/services/channels/rezdy/map";
 import { normalizeSlug } from "@/lib/services/operators/operator-leads";
 
 type FetchLike = typeof fetch;
@@ -15,6 +18,8 @@ export type RezdyMarketplaceProduct = {
   currency: string;
   imageUrl: string | null;
   productUrl: string | null;
+  /** Rezdy's full product record. Kai passes it through; the direct read keeps it whole. */
+  raw?: Record<string, unknown>;
 };
 
 export type RezdyAgentSyncEnv = Record<string, string | undefined> & {
@@ -33,7 +38,11 @@ export type RezdyAgentSyncEnv = Record<string, string | undefined> & {
 export async function fetchRezdyAgentMarketplaceProducts(
   env: RezdyAgentSyncEnv = process.env,
   fetchImpl: FetchLike = fetch,
+  direct: RezdyApi | null = env === process.env ? rezdyApi() : null,
 ): Promise<RezdyMarketplaceProduct[]> {
+  // With Bluepass's own Rezdy agent key in this app, read the marketplace directly
+  // rather than through Kai: one less hop, and the whole product comes back.
+  if (direct) return (await direct.marketplaceProducts({})).map(asMarketplaceProduct);
   const token = env.REZDY_AGENT_SYNC_TOKEN;
   if (!token) {
     throw new Error("REZDY_AGENT_SYNC_TOKEN is not configured.");
@@ -51,6 +60,23 @@ export async function fetchRezdyAgentMarketplaceProducts(
 
   const body = (await response.json()) as { products?: unknown };
   return Array.isArray(body.products) ? (body.products as RezdyMarketplaceProduct[]) : [];
+}
+
+function asMarketplaceProduct(product: RezdyProduct): RezdyMarketplaceProduct {
+  const listing = productToListing(product);
+  return {
+    productCode: product.productCode,
+    name: product.name,
+    description: listing.description,
+    supplierName: product.supplierName ?? "",
+    supplierId: product.supplierId ? String(product.supplierId) : "",
+    region: listing.region,
+    priceFrom: listing.priceFrom,
+    currency: listing.currency,
+    imageUrl: listing.heroImageUrl,
+    productUrl: null,
+    raw: product as unknown as Record<string, unknown>,
+  };
 }
 
 export type RezdyAgentManualInquiry = {
@@ -204,9 +230,24 @@ async function findOrCreateOperatorProfileForSupplier(product: RezdyMarketplaceP
 const DEFAULT_REZDY_LISTING_CATEGORY = "Tour";
 
 async function upsertListingForProduct(operatorProfileId: string, product: RezdyMarketplaceProduct) {
-  const existing = await prisma.operatorListing.findFirst({
-    where: { operatorProfileId, title: product.name },
-  });
+  // By product code first: titles change, codes do not. By title only for rows made
+  // before codes were stored.
+  const existing =
+    (await prisma.operatorListing.findFirst({ where: { channel: "REZDY", externalProductId: product.productCode } }))
+    ?? (await prisma.operatorListing.findFirst({ where: { operatorProfileId, title: product.name } }));
+  // The full record makes the trip bookable through the agent API (see channels/rezdy).
+  const raw = product.raw && typeof product.raw.productCode === "string" ? (product.raw as unknown as RezdyProduct) : null;
+  const channel = raw
+    ? {
+        channel: "REZDY" as const,
+        channelData: { product: raw, pickups: [] } as unknown as Prisma.InputJsonValue,
+        channelSyncedAt: new Date(),
+        channelIssue: productIssue(raw),
+        durationMinutes: productToListing(raw).durationMinutes,
+        meetingPoint: productToListing(raw).meetingPoint,
+        confirmationNote: productToListing(raw).confirmationNote,
+      }
+    : { channel: "REZDY" as const };
 
   const data = {
     category: DEFAULT_REZDY_LISTING_CATEGORY,
@@ -222,6 +263,7 @@ async function upsertListingForProduct(operatorProfileId: string, product: Rezdy
     // comment. Kept in sync on every run, same as everything else in this object, since a product's
     // code never changes once assigned in Rezdy.
     externalProductId: product.productCode,
+    ...channel,
   };
 
   if (existing) {
@@ -269,10 +311,9 @@ export async function syncRezdyAgentMarketplaceProducts(
       result.operatorsCreated += 1;
     }
 
-    const listingBefore = await prisma.operatorListing.findFirst({
-      where: { operatorProfileId: profile.id, title: product.name },
-      select: { id: true },
-    });
+    const listingBefore =
+      (await prisma.operatorListing.findFirst({ where: { channel: "REZDY", externalProductId: product.productCode }, select: { id: true } }))
+      ?? (await prisma.operatorListing.findFirst({ where: { operatorProfileId: profile.id, title: product.name }, select: { id: true } }));
     await upsertListingForProduct(profile.id, product);
     if (listingBefore) {
       result.listingsUpdated += 1;

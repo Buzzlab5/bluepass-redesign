@@ -45,3 +45,17 @@ export function isConsolePathname(pathname: string) {
     (prefix) => pathname === prefix || pathname.startsWith(`${prefix}/`),
   );
 }
+
+/**
+ * Pages that render inside someone else's website: the booking widget an operator
+ * embeds. They get none of the site's own chrome (nav, Kai, grain), because inside
+ * an operator's page those would be Bluepass talking over the operator.
+ */
+export function isEmbedPathname(pathname: string) {
+  return pathname === "/embed" || pathname.startsWith("/embed/");
+}
+
+/** Every route that stands the site chrome down: the consoles and the embeds. */
+export function isChromelessPathname(pathname: string) {
+  return isConsolePathname(pathname) || isEmbedPathname(pathname);
+}

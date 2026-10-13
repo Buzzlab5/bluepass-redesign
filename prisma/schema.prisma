@@ -518,6 +518,12 @@ model OperatorProfile {
   referralPartner        ReferralPartner?      @relation(fields: [referralPartnerId], references: [id], onDelete: SetNull)
   pmsReadiness           OperatorPmsReadiness?
   listings               OperatorListing[]
+  listingBookings        ListingBooking[]
+  googleConnection       OperatorGoogleConnection?
+  railsSettings          OperatorRailsSettings?
+  railsNotifications     RailsNotification[]
+  channelConnections     OperatorChannelConnection[]
+  channelHandoffs        ChannelHandoff[]
 
   @@index([status])
   @@index([companyName])
@@ -566,6 +572,23 @@ model OperatorListing {
   // pool of manual inquiries, and this is what turns that pool back into "this operator's inquiries"
   // (see lib/services/operator/dashboard.ts's rezdy-agent branch).
   externalProductId String?
+
+  /// Where this trip's seats, prices and payments live. NATIVE is Bluepass's own rails
+  /// (schedules and rates below). REZDY is the operator's Rezdy, read and booked through
+  /// Bluepass's agent account; externalProductId is the product code. FAREHARBOR is the
+  /// operator's FareHarbor, booked in FareHarbor's own checkout under Bluepass's
+  /// affiliate tag; externalProductId is the item id. One trip, one source of seats:
+  /// a trip is never sold from two inventories at once.
+  channel            PmsPlatform @default(NATIVE)
+  /// The channel's own record of the trip as last read (Rezdy: the product, with its
+  /// price options, booking questions, pickups and payment terms).
+  channelData        Json?
+  channelSyncedAt    DateTime?
+  /// Why the trip cannot be sold right now, in words the operator can act on. Null when it can.
+  channelIssue       String?
+  /// FareHarbor: the booking link the operator made with Bluepass as the affiliate.
+  externalBookingUrl String?
+
   status            OperatorListingStatus @default(DRAFT)
   publishedAt       DateTime?
   archivedAt        DateTime?
@@ -582,10 +605,29 @@ model OperatorListing {
   blackouts ListingBlackout[]
   rates     ListingRate[]
   seatHolds ListingSeatHold[]
+  departures ListingDepartureOverride[]
+  bookings   ListingBooking[]
+
+  // Logistics a traveller needs once they have booked. Editable while the listing is
+  // LIVE, unlike the marketing copy above: a changed meeting point is an operational
+  // fact, not a new pitch, and the next confirmation email has to carry it.
+  /// How long the trip runs, so a confirmation can say when guests are back.
+  durationMinutes  Int?
+  /// Where guests meet, printed on the confirmation and the manifest.
+  meetingPoint     String?
+  /// What to bring, when to arrive. Sent verbatim in every confirmation.
+  confirmationNote String?
+
+  /// One of the operator's own Google calendars. While it shows them busy, this trip's
+  /// departures do not run: a private charter in their diary closes the public sailing.
+  busyCalendarId String?
+  calendarEvents DepartureCalendarEvent[]
+  handoffs       ChannelHandoff[]
 
   @@index([operatorProfileId])
   @@index([status])
   @@index([region])
+  @@index([channel, externalProductId])
 }
 
 model OperatorLead {
@@ -1385,4 +1427,428 @@ model ListingSeatHold {
 
   @@index([listingId, departsAt])
   @@index([expiresAt])
+}
+
+// ---------------------------------------------------------------------------
+// Booking CMS
+//
+// The write side of the native rails: what turns "this trip runs Tuesdays at 8am"
+// into seats a traveller can pay for and a manifest the skipper can read on the
+// jetty. Built for the operator who has never had a booking system, so every
+// screen behind it asks for a decision once and never for upkeep.
+// ---------------------------------------------------------------------------
+
+enum ListingBookingStatus {
+  /// Seats are held while the traveller pays. Lapses on its own if they never do.
+  PENDING_PAYMENT
+  /// Paid, and waiting for the operator to accept it in their own booking system
+  /// (a Rezdy product that confirms by hand). Becomes CONFIRMED or CANCELLED there.
+  REQUESTED
+  CONFIRMED
+  CANCELLED
+  /// The checkout was abandoned and the hold ran out. Kept, not deleted, so the
+  /// operator can see demand they nearly had.
+  EXPIRED
+}
+
+enum ListingBookingSource {
+  /// The public booking page or the widget on the operator's own site.
+  ONLINE
+  /// Sold through Kai, over the same API any agent can call.
+  KAI
+  /// Entered by the operator: a phone call, a walk-up, a booking from a hotel desk.
+  OPERATOR
+}
+
+enum ListingPaymentStatus {
+  UNPAID
+  /// Paid online. Bluepass holds the money until the trip runs.
+  PAID
+  /// Collected by the operator directly. Bluepass never touched it, so no 5% and no fee.
+  PAID_TO_OPERATOR
+  /// Charged by the operator's booking system (Rezdy automated payments), which pays the
+  /// operator and Bluepass's commission itself. Bluepass never holds it; the 5% comes out
+  /// of that commission.
+  PAID_VIA_CHANNEL
+  PARTIALLY_REFUNDED
+  REFUNDED
+}
+
+/// One departure the operator has changed by hand: closed for weather, or a bigger
+/// boat on a busy Saturday. Only exists when something differs from the rule, so a
+/// listing with no exceptions has no rows here at all.
+model ListingDepartureOverride {
+  id        String   @id @default(cuid())
+  listingId String
+  departsAt DateTime
+
+  /// No new bookings. Existing ones stand unless the departure is cancelled.
+  closed   Boolean @default(false)
+  /// Replaces the schedule's capacity for this one departure.
+  capacity Int?
+  /// Shown to the operator, and to travellers when the departure is closed.
+  note     String?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  listing OperatorListing @relation(fields: [listingId], references: [id], onDelete: Cascade)
+
+  @@unique([listingId, departsAt])
+}
+
+/// A booking on a native-rails listing. Seats it occupies live in ListingSeatHold
+/// (bookingId points back here); this row is the commercial record around them.
+model ListingBooking {
+  id                String  @id @default(cuid())
+  /// Short and unambiguous, e.g. "BP-7K3QX9". Read aloud on the phone, so it never
+  /// contains 0/O or 1/I.
+  reference         String  @unique
+  listingId         String
+  operatorProfileId String
+  scheduleId        String?
+
+  departsAt DateTime
+  /// The operator's IANA zone at the time of booking. Copied so the confirmation and
+  /// manifest read the same local time even if the schedule is later edited.
+  timezone  String
+  guests    Int
+
+  /// The priced lines as sold. Copied, not referenced, so a later rate change never
+  /// rewrites what a traveller already paid for.
+  lines      Json
+  totalCents Int
+  currency   String
+
+  /// The fixed 5% to the reef. Online bookings only; zero when the operator took the
+  /// money themselves, because Bluepass handled none of it.
+  conservationCents Int @default(0)
+  /// What the operator is owed once the trip has run. Online bookings only.
+  operatorNetCents  Int @default(0)
+
+  status        ListingBookingStatus @default(PENDING_PAYMENT)
+  source        ListingBookingSource
+  paymentStatus ListingPaymentStatus @default(UNPAID)
+
+  leadName  String
+  leadEmail String?
+  leadPhone String?
+  notes     String?
+
+  referralCode String?
+
+  /// The guest agreed to messages about this booking on WhatsApp, from this operator and
+  /// Bluepass. Recorded per booking because consent belongs to the person who gave it.
+  whatsappOptIn Boolean @default(false)
+  /// Opens the guest's own booking page (/trip/[token]). Unguessable, never the id.
+  guestToken    String? @unique
+
+  /// While PENDING_PAYMENT: when the held seats lapse.
+  expiresAt DateTime?
+
+  stripeCheckoutSessionId String?   @unique
+  stripePaymentIntentId   String?
+  stripeChargeId          String?
+  paidAt                  DateTime?
+  refundedCents           Int       @default(0)
+
+  /// Operator payout, made after the departure has run.
+  settledAt        DateTime?
+  stripeTransferId String?
+
+  checkedInAt  DateTime?
+  cancelledAt  DateTime?
+  cancelledBy  String?
+  cancelReason String?
+
+  /// Copied from the listing when booked: which system holds this booking's seats.
+  channel           PmsPlatform @default(NATIVE)
+  /// The booking's number in that system (a Rezdy order number). What the crew sees.
+  externalReference String?     @unique
+  /// That system's own status for it, as last read.
+  externalStatus    String?
+  externalSyncedAt  DateTime?
+  /// What the channel says Bluepass earns on this booking (Rezdy's commission). The
+  /// operator's payout is the fare less this, never less a rate Bluepass picked itself.
+  commissionCents   Int?
+  /// Answers to the operator's booking questions and the pickup chosen, as sent to
+  /// their system: { fields, participants, pickup }.
+  answers           Json?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  /// Restrict, not Cascade: a booking is a financial record. Removing the listing or
+  /// the operator behind a paid booking has to be a deliberate act, never a side effect.
+  listing         OperatorListing       @relation(fields: [listingId], references: [id], onDelete: Restrict)
+  operatorProfile OperatorProfile       @relation(fields: [operatorProfileId], references: [id], onDelete: Restrict)
+  events          ListingBookingEvent[]
+  notifications   RailsNotification[]
+
+  @@index([listingId, departsAt])
+  @@index([operatorProfileId, departsAt])
+  @@index([status, expiresAt])
+  @@index([leadEmail])
+}
+
+/// What happened to a booking and who did it, in order. The operator's answer to
+/// "why was this refunded".
+model ListingBookingEvent {
+  id        String   @id @default(cuid())
+  bookingId String
+  type      String
+  actor     String
+  message   String?
+  payload   Json?
+  createdAt DateTime @default(now())
+
+  booking ListingBooking @relation(fields: [bookingId], references: [id], onDelete: Cascade)
+
+  @@index([bookingId, createdAt])
+}
+
+// ---------------------------------------------------------------------------
+// Calendar and WhatsApp
+//
+// Operators already live in two places: the calendar on their phone and WhatsApp.
+// The booking CMS goes to them there instead of asking them to check a dashboard.
+// ---------------------------------------------------------------------------
+
+enum GoogleConnectionStatus {
+  CONNECTED
+  /// Google no longer accepts the token: revoked, or the app is still in Google's
+  /// testing mode, where access lapses after seven days.
+  NEEDS_RECONNECT
+}
+
+/// An operator's Google account, connected so their departures appear in their own
+/// calendar and their own busy times close departures.
+model OperatorGoogleConnection {
+  id                 String                 @id @default(cuid())
+  operatorProfileId  String                 @unique
+  googleEmail        String
+  /// encryptCredentials({ refreshToken }). Access tokens last an hour and are fetched
+  /// for each sync, never stored.
+  encryptedTokens    String
+  scopes             String[]
+  /// The "Bluepass bookings" calendar created in their account to hold departures.
+  bookingsCalendarId String?
+  status             GoogleConnectionStatus @default(CONNECTED)
+  lastSyncedAt       DateTime?
+  lastError          String?
+  createdAt          DateTime               @default(now())
+  updatedAt          DateTime               @updatedAt
+
+  operatorProfile OperatorProfile @relation(fields: [operatorProfileId], references: [id], onDelete: Cascade)
+}
+
+/// One departure mirrored as one event in the operator's Google Calendar. A row exists
+/// only once something has been booked on the departure.
+model DepartureCalendarEvent {
+  id            String    @id @default(cuid())
+  listingId     String
+  departsAt     DateTime
+  googleEventId String?
+  /// Set whenever the departure's bookings change; cleared by a successful sync.
+  dirtyAt       DateTime?
+  syncedAt      DateTime?
+  attempts      Int       @default(0)
+  lastError     String?
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  listing OperatorListing @relation(fields: [listingId], references: [id], onDelete: Cascade)
+
+  @@unique([listingId, departsAt])
+  @@index([dirtyAt])
+}
+
+/// A stretch of time an operator is busy in one of their own Google calendars. Read
+/// through FreeBusy, so it carries no titles: Bluepass learns when, never what.
+model OperatorBusyBlock {
+  id                String   @id @default(cuid())
+  operatorProfileId String
+  calendarId        String
+  startsAt          DateTime
+  endsAt            DateTime
+  syncedAt          DateTime @default(now())
+
+  @@index([calendarId, startsAt])
+  @@index([operatorProfileId])
+}
+
+/// How an operator wants to hear about bookings, and the secret in their calendar feed.
+model OperatorRailsSettings {
+  id                  String   @id @default(cuid())
+  operatorProfileId   String   @unique
+  whatsappNewBooking  Boolean  @default(true)
+  whatsappDailyDigest Boolean  @default(true)
+  emailNewBooking     Boolean  @default(true)
+  /// Local hour the evening-before summary goes out.
+  digestHour          Int      @default(17)
+  /// Secret in the subscribe-by-URL calendar feed. A new one revokes the old link.
+  calendarFeedToken   String?  @unique
+  createdAt           DateTime @default(now())
+  updatedAt           DateTime @updatedAt
+
+  operatorProfile OperatorProfile @relation(fields: [operatorProfileId], references: [id], onDelete: Cascade)
+}
+
+enum RailsNotificationChannel {
+  WHATSAPP
+  EMAIL
+}
+
+enum RailsNotificationAudience {
+  TRAVELLER
+  OPERATOR
+}
+
+enum RailsNotificationStatus {
+  /// Claimed by a sender, not yet accepted by the provider.
+  QUEUED
+  SENT
+  DELIVERED
+  READ
+  FAILED
+  /// Deliberately not sent: no consent, no number, or the channel is not switched on.
+  SKIPPED
+}
+
+/// Every message sent about a booking or to an operator, and what became of it.
+model RailsNotification {
+  id                String                    @id @default(cuid())
+  operatorProfileId String
+  bookingId         String?
+  channel           RailsNotificationChannel
+  audience          RailsNotificationAudience
+  /// booking_confirmed, trip_reminder, booking_cancelled, departure_update,
+  /// operator_new_booking or operator_daily_digest.
+  kind              String
+  recipient         String
+  status            RailsNotificationStatus   @default(QUEUED)
+  /// Makes each message once-only: one reminder per booking, one digest per evening.
+  dedupeKey         String?                   @unique
+  providerMessageId String?                   @unique
+  /// Why it failed or was skipped, in words an operator can act on.
+  detail            String?
+  sentAt            DateTime?
+  deliveredAt       DateTime?
+  readAt            DateTime?
+  createdAt         DateTime                  @default(now())
+  updatedAt         DateTime                  @updatedAt
+
+  operatorProfile OperatorProfile @relation(fields: [operatorProfileId], references: [id], onDelete: Cascade)
+  booking         ListingBooking? @relation(fields: [bookingId], references: [id], onDelete: SetNull)
+
+  @@index([bookingId, createdAt])
+  @@index([operatorProfileId, createdAt])
+}
+
+// ---------------------------------------------------------------------------
+// Channels: Rezdy and FareHarbor
+//
+// An operator who already runs Rezdy or FareHarbor keeps running it. Their trips
+// come to Bluepass from there and their seats stay there, so nothing is ever sold
+// twice. Rezdy is read and booked through Bluepass's agent account; FareHarbor sells
+// through its own checkout with Bluepass's affiliate tag, because FareHarbor gives
+// affiliates no data access below its API threshold.
+// ---------------------------------------------------------------------------
+
+enum ChannelConnectionStatus {
+  /// The operator's account exists, but they have not shared trips with Bluepass yet
+  /// (no Rezdy rate for Bluepass, or no FareHarbor link carrying Bluepass's affiliate tag).
+  WAITING
+  CONNECTED
+  /// It worked before and does not now: trips withdrawn, account gone, or access refused.
+  BROKEN
+}
+
+/// An operator's Rezdy or FareHarbor account, connected so their trips sell on Bluepass.
+model OperatorChannelConnection {
+  id                String                  @id @default(cuid())
+  operatorProfileId String
+  platform          PmsPlatform
+  status            ChannelConnectionStatus @default(WAITING)
+  /// Rezdy: the company alias ("reefrunner" in reefrunner.rezdy.com).
+  /// FareHarbor: the company shortname ("reefrunner" in fareharbor.com/reefrunner).
+  accountKey        String
+  /// Rezdy's numeric supplier id, once known.
+  externalId        String?
+  displayName       String?
+  timezone          String?
+  currency          String?
+  /// New trips in the operator's system appear on Bluepass without anyone asking.
+  autoPublish       Boolean                 @default(true)
+  lastSyncedAt      DateTime?
+  lastCheckedAt     DateTime?
+  /// In words the operator can act on.
+  lastError         String?
+  createdAt         DateTime                @default(now())
+  updatedAt         DateTime                @updatedAt
+
+  operatorProfile OperatorProfile @relation(fields: [operatorProfileId], references: [id], onDelete: Cascade)
+
+  @@unique([platform, accountKey])
+  @@unique([operatorProfileId, platform])
+  @@index([status])
+}
+
+/// One traveller sent to an operator's FareHarbor checkout. Its reference travels as
+/// FareHarbor's affiliate voucher number, so the booking it becomes can be matched back
+/// to the trip and to whoever referred the traveller.
+model ChannelHandoff {
+  id                String      @id @default(cuid())
+  reference         String      @unique
+  listingId         String
+  operatorProfileId String
+  channel           PmsPlatform
+  referralCode      String?
+  createdAt         DateTime    @default(now())
+
+  listing         OperatorListing @relation(fields: [listingId], references: [id], onDelete: Cascade)
+  operatorProfile OperatorProfile @relation(fields: [operatorProfileId], references: [id], onDelete: Cascade)
+
+  @@index([listingId, createdAt])
+  @@index([operatorProfileId, createdAt])
+}
+
+/// Where a channel's incremental reads last stopped ("rezdy:bookings" -> an ISO time).
+model ChannelCursor {
+  key       String   @id
+  value     String
+  updatedAt DateTime @updatedAt
+}
+
+/// A page Bluepass prepares for an operator from their own published information, held
+/// back until a person has checked it against the source. The trips on it are
+/// OperatorListing rows (DRAFT, each with its own check in channelData.qc); this row
+/// holds the operator-level copy and the page's own check.
+model PreparedOperatorPage {
+  id         String    @id @default(cuid())
+  /// Matches OperatorLead.slug and the page at /operators/[slug].
+  slug       String    @unique
+  /// Operator-level copy and facts: summary, standouts, hero, contact, offers, sources, notes.
+  data       Json
+  /// pending, approved or needs_fix.
+  qcStatus   String    @default("pending")
+  qcNotes    String?
+  reviewedBy String?
+  reviewedAt DateTime?
+  /// The photos are linked from the operator's own website. Travellers see only the ones
+  /// the operator has approved, which they do once their claim on the page is approved.
+  photosApproved   String[]  @default([])
+  photosApprovedAt DateTime?
+  photosApprovedBy String?
+  /// Every photo on the page when the operator last chose, so a photo added by a later
+  /// import is asked about rather than silently left out.
+  photosSeen       String[]  @default([])
+  /// Corrections made while checking (summary, standouts, contact), kept apart from what
+  /// was read off the website so a re-import cannot undo them.
+  edits      Json?
+  editedBy   String?
+  editedAt   DateTime?
+  importedAt DateTime
+  createdAt  DateTime  @default(now())
+  updatedAt  DateTime  @updatedAt
 }

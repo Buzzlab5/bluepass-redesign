@@ -11,13 +11,21 @@ export type WhatsAppTextMessage = {
 export type WhatsAppTemplateComponent =
   | {
       type: "body";
-      parameters: Array<{ type: "text"; text: string }>;
+      /** `parameter_name` is set for templates created with named variables, e.g. {{guest_name}}. */
+      parameters: Array<{ type: "text"; text: string; parameter_name?: string }>;
     }
   | {
       type: "button";
       sub_type: "quick_reply";
       index: string;
       parameters: [{ type: "payload"; payload: string }];
+    }
+  | {
+      /** A link button whose URL ends in a variable; `text` is what replaces it. */
+      type: "button";
+      sub_type: "url";
+      index: string;
+      parameters: [{ type: "text"; text: string }];
     };
 
 export type WhatsAppTemplateMessage = {

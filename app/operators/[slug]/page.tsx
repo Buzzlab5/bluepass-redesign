@@ -2,9 +2,12 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import SiteFooter from "@/components/SiteFooter";
+import { PreparedOperatorView } from "@/components/operators/PreparedViews";
+import { requireCurrentAdmin } from "@/lib/services/auth/admin";
 import { loadPublicOperatorLead } from "@/lib/services/operators/operator-public-lead";
+import { loadPreparedPage } from "@/lib/services/operators/prepared-pages";
 
-export const revalidate = 300;
+export const dynamic = "force-dynamic";
 
 /**
  * The public page for an operator Bluepass has prepared but who has not claimed
@@ -48,10 +51,25 @@ export async function generateMetadata({
 
 export default async function PublicOperatorPage({
   params,
+  searchParams,
 }: {
   params: Promise<{ slug: string }>;
+  searchParams: Promise<{ preview?: string }>;
 }) {
   const { slug } = await params;
+  // A page prepared from the operator's own website shows once a person has checked it.
+  // Before that, an admin can preview it with ?preview=1; anyone else sees the plain page.
+  const preview = (await searchParams).preview === "1" && Boolean(await requireCurrentAdmin());
+  const prepared = await loadPreparedPage(slug, { preview });
+  if (prepared) {
+    return (
+      <>
+        <PreparedOperatorView data={prepared} preview={preview} />
+        <SiteFooter />
+      </>
+    );
+  }
+
   const lead = await loadPublicOperatorLead(slug);
 
   if (!lead) notFound();

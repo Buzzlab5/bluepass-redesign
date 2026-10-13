@@ -43,6 +43,16 @@ export const ADMIN_SECTIONS: AdminSection[] = [
       "The editorial CMS behind /blog — write, optimise and publish the articles that put Bluepass on page one for its own name.",
   },
   {
+    href: "/admin/operator-pages",
+    label: "Prepared pages",
+    blurb: "Operator pages prepared from operators' own websites, checked fact by fact before anything is shown.",
+  },
+  {
+    href: "/admin/channels",
+    label: "Rezdy & FareHarbor",
+    blurb: "Operators selling from their own booking system: Rezdy connection health, and FareHarbor's affiliate report, imported.",
+  },
+  {
     href: "/admin/payouts",
     label: "Payouts & Ledger",
     blurb:

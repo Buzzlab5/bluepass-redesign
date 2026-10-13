@@ -36,6 +36,7 @@ export default function PhoneField({
   hint,
   required,
   disabled,
+  confirmLabel = "Kai will message",
 }: {
   label: string;
   /** E.164, e.g. `+61412345678`. Empty string while the number is incomplete. */
@@ -44,6 +45,8 @@ export default function PhoneField({
   hint?: string;
   required?: boolean;
   disabled?: boolean;
+  /** Words before the finished number in the line under the field. */
+  confirmLabel?: string;
 }) {
   const id = useId();
   const listId = useId();
@@ -234,7 +237,7 @@ export default function PhoneField({
 
       <span id={`${id}-preview`} className="ds-micro aphone__preview">
         {national.length >= NATIONAL_MIN_DIGITS
-          ? `Kai will message +${country.dial}${national}`
+          ? `${confirmLabel} +${country.dial}${national}`
           : `${country.name}: enter your number without the leading 0`}
       </span>
     </div>

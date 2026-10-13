@@ -58,6 +58,13 @@ export type PendingApprovals = {
   applications: ReviewItem[];
 };
 
+/**
+ * Accounts on ops.bluepass.co hold an operator's trips before the operator signs up (a
+ * prepared page, or a Rezdy supplier). Nobody can sign in to them, so there is nothing
+ * to approve; the real operator arrives through a claim.
+ */
+const NOT_A_PLACEHOLDER = { NOT: { email: { endsWith: "@ops.bluepass.co" } } };
+
 /** The nav badge's number. Counts only — the queue page does the full fetch. */
 export async function countPendingApprovals() {
   const [claims, partners, operators] = await Promise.all([
@@ -66,7 +73,7 @@ export async function countPendingApprovals() {
     prisma.operatorProfile.count({
       where: {
         status: "PENDING_REVIEW",
-        account: { operatorClaims: { none: { status: "PENDING_REVIEW" } } },
+        account: { operatorClaims: { none: { status: "PENDING_REVIEW" } }, ...NOT_A_PLACEHOLDER },
       },
     }),
   ]);
@@ -96,7 +103,7 @@ export async function listPendingApprovals(): Promise<PendingApprovals> {
            and let an admin approve the claim while declining the profile behind
            it — two writes that contradict each other. The claim is the richer
            record, so it wins and the profile is filtered out here. */
-        account: { operatorClaims: { none: { status: "PENDING_REVIEW" } } },
+        account: { operatorClaims: { none: { status: "PENDING_REVIEW" } }, ...NOT_A_PLACEHOLDER },
       },
       orderBy: { createdAt: "asc" },
       include: { account: { select: { email: true, displayName: true, phone: true } } },

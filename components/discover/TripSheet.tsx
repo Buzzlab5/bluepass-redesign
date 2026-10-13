@@ -506,18 +506,24 @@ export default function TripSheet() {
                 ) : null}
 
                 <div className="tsheet__acts">
-                  <Button
-                    variant="primary"
-                    large
-                    magnetic={false}
-                    onClick={() =>
-                      openKaiFor(
-                        `I'd like to book ${trip.name}${departure ? `, ${departure}` : ""}.`,
-                      )
-                    }
-                  >
-                    Request this trip
-                  </Button>
+                  {trip.bookUrl ? (
+                    <Button variant="primary" large magnetic={false} onClick={() => window.location.assign(trip.bookUrl!)}>
+                      Book now
+                    </Button>
+                  ) : (
+                    <Button
+                      variant="primary"
+                      large
+                      magnetic={false}
+                      onClick={() =>
+                        openKaiFor(
+                          `I'd like to book ${trip.name}${departure ? `, ${departure}` : ""}.`,
+                        )
+                      }
+                    >
+                      Request this trip
+                    </Button>
+                  )}
                   <Button
                     variant="translucent"
                     large
@@ -528,7 +534,9 @@ export default function TripSheet() {
                   </Button>
                 </div>
                 <span className="ds-micro tsheet__note">
-                  No card needed. Kai confirms with the operator first.
+                  {trip.bookUrl
+                    ? "Live availability. Your payment is held until the trip has run."
+                    : "No card needed. Kai confirms with the operator first."}
                 </span>
               </div>
 
@@ -600,10 +608,12 @@ export default function TripSheet() {
             variant="primary"
             magnetic={false}
             onClick={() =>
-              openKaiFor(`I'd like to book ${trip.name}${departure ? `, ${departure}` : ""}.`)
+              trip.bookUrl
+                ? window.location.assign(trip.bookUrl)
+                : openKaiFor(`I'd like to book ${trip.name}${departure ? `, ${departure}` : ""}.`)
             }
           >
-            Request
+            {trip.bookUrl ? "Book" : "Request"}
           </Button>
         </div>
       </div>
