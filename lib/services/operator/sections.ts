@@ -1,23 +1,43 @@
 /**
  * The operator area's navigation, as data — the same shape as `ADMIN_SECTIONS`.
  *
- * One entry today. It exists as an array anyway because the next pieces of operator-facing work
- * (editing a listing, payout settings) are a row appended here rather than an edit to the rail.
+ * Calendar, Bookings and Trips are the booking CMS, and only appear for an operator
+ * selling through the native rails. An operator on Rezdy or FareHarbor manages
+ * their departures there, and a calendar here would be a second, emptier copy of it.
  */
+import type { ConsoleIconName } from "@/components/console/ConsoleIcon";
+
 export type OperatorSection = {
   href: string;
   label: string;
+  icon: ConsoleIconName;
 };
 
-export const OPERATOR_SECTIONS: OperatorSection[] = [
-  { href: "/operator", label: "Dashboard" },
-  { href: "/operator/trips", label: "Trips" },
-  { href: "/operator/bookings", label: "Bookings" },
+export const OPERATOR_SECTIONS: OperatorSection[] = [{ href: "/operator", label: "Dashboard", icon: "dashboard" }];
+
+export const RAILS_SECTIONS: OperatorSection[] = [
+  { href: "/operator/calendar", label: "Calendar", icon: "calendar" },
+  { href: "/operator/bookings", label: "Bookings", icon: "bookings" },
+  { href: "/operator/trips", label: "Trips", icon: "trips" },
+  { href: "/operator/connections", label: "Connections", icon: "connections" },
 ];
 
-/** Longest-prefix match, so a future `/operator/listings/:id` highlights its section. */
-export function activeOperatorSection(pathname: string) {
-  return OPERATOR_SECTIONS.filter(
-    (section) => pathname === section.href || pathname.startsWith(`${section.href}/`),
-  ).sort((a, b) => b.href.length - a.href.length)[0];
+/** Only for an operator whose page Bluepass prepared from their website. */
+export const PREPARED_PAGE_SECTION: OperatorSection = { href: "/operator/your-page", label: "Your page", icon: "page" };
+
+export function operatorSections(railsEnabled: boolean, hasPreparedPage = false): OperatorSection[] {
+  return [
+    ...OPERATOR_SECTIONS,
+    ...(hasPreparedPage ? [PREPARED_PAGE_SECTION] : []),
+    ...(railsEnabled ? RAILS_SECTIONS : []),
+  ];
+}
+
+/** Longest-prefix match, so `/operator/bookings/BP-7K3QX9` highlights Bookings. A departure's
+ *  manifest belongs to the calendar it was opened from. */
+export function activeOperatorSection(pathname: string, sections: OperatorSection[] = OPERATOR_SECTIONS) {
+  const path = pathname.startsWith("/operator/departures") ? "/operator/calendar" : pathname;
+  return sections
+    .filter((section) => path === section.href || path.startsWith(`${section.href}/`))
+    .sort((a, b) => b.href.length - a.href.length)[0];
 }

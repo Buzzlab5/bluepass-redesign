@@ -9,7 +9,7 @@ import { navLinks } from "@/lib/data";
 import Button from "./ui/Button";
 import AccountMenu from "./auth/AccountMenu";
 import { useSession } from "./auth/SessionProvider";
-import { isConsolePathname } from "@/lib/services/pathname";
+import { isChromelessPathname } from "@/lib/services/pathname";
 
 export default function Nav() {
   const ref = useRef<HTMLElement>(null);
@@ -28,7 +28,7 @@ export default function Nav() {
      one this check was originally written for. */
   const bare =
     ["/login", "/register", "/reset-password", "/partners/apply"].includes(pathname) ||
-    isConsolePathname(pathname);
+    isChromelessPathname(pathname);
   /* The index the white indicator is actually sitting under.
      This used to be a separate `hover` state, and the split was the bug: the text colour read
      `hover ?? active` while the indicator's position was set independently by `moveIndicator`. The

@@ -1,6 +1,8 @@
 import type { OperatorListing } from "@prisma/client";
 import { prisma } from "@/lib/db/prisma";
 import type { Category, Trip } from "@/lib/discover";
+import { fareHarborAffiliate } from "@/lib/services/channels/fareharbor/links";
+import { rezdyConfig } from "@/lib/services/channels/rezdy/api";
 
 const CATEGORY_MAP: Record<string, Category> = {
   dive: "Dive",
@@ -40,17 +42,34 @@ const FALLBACK_IMAGE = "/great-barrier.jpg";
 export async function fetchSyncedTrips(): Promise<Trip[]> {
   const listings = await prisma.operatorListing.findMany({
     where: { status: "LIVE", priceFrom: { not: null } },
-    include: { operatorProfile: { select: { companyName: true } } },
+    include: {
+      operatorProfile: { select: { companyName: true } },
+      _count: { select: { schedules: { where: { active: true } }, rates: { where: { active: true } } } },
+    },
     orderBy: { publishedAt: "desc" },
   });
 
-  return listings.map(listingToTrip);
+  const rezdyOn = Boolean(rezdyConfig());
+  const fareHarborOn = Boolean(fareHarborAffiliate());
+  // Whether "Book now" opens a booking page that will actually take the booking: a
+  // native trip with a schedule and a price, a Rezdy trip Bluepass has read and can
+  // sell, or a FareHarbor trip with Bluepass's affiliate link.
+  const bookable = (listing: (typeof listings)[number]) => {
+    if (listing.channel === "REZDY") return rezdyOn && !listing.channelIssue && Boolean(listing.channelSyncedAt);
+    if (listing.channel === "FAREHARBOR") return fareHarborOn && !listing.channelIssue && Boolean(listing.externalBookingUrl);
+    return listing._count.schedules > 0 && listing._count.rates > 0;
+  };
+
+  return listings.map((listing) => listingToTrip(listing, bookable(listing) ? `/book/${listing.slug}` : undefined));
 }
 
 type ListingForTrip = OperatorListing & { operatorProfile: { companyName: string | null } };
 
-/** One live listing in the Trip shape the grid and sheet render. Pure, so it can be tested without a database. */
-export function listingToTrip(listing: ListingForTrip): Trip {
+/**
+ * One live listing in the Trip shape the grid and sheet render. Pure, so it can be tested without a
+ * database. `bookUrl` is Bluepass's own booking page, when the caller has found the trip bookable there.
+ */
+export function listingToTrip(listing: ListingForTrip, bookUrl?: string): Trip {
   return {
     slug: listing.slug,
     name: listing.title,
@@ -63,6 +82,7 @@ export function listingToTrip(listing: ListingForTrip): Trip {
     impact: "funds ocean and reef conservation",
     price: listing.priceFrom as number,
     currency: listing.currency,
+    ...(bookUrl ? { bookUrl } : {}),
     img: listing.heroImageUrl || FALLBACK_IMAGE,
     // No stock-photo stand-in here, unlike the 6 curated demo trips (lib/discover.ts) - a real
     // operator listing with no real gallery photos should show no gallery, not stock ones.

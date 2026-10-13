@@ -4,7 +4,7 @@ import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { gsap, useGSAP, reduced } from "@/lib/gsap";
 import KaiPanel from "./KaiPanel";
-import { isConsolePathname } from "@/lib/services/pathname";
+import { isChromelessPathname, isClaimPathname } from "@/lib/services/pathname";
 
 /* Kai is still in development, so the whole widget (pill and panel) is switched off. Flip this
    back to true to bring it back — nothing else was removed. */
@@ -23,7 +23,10 @@ export default function KaiChat() {
      operator's own payout figures on /operator. Nobody working inside a console
      is the audience for a booking assistant, so it stands down across all of
      them, the same way Nav does. */
-  const hidden = isConsolePathname(pathname);
+  /* Also off on the booking pages: a traveller there is one tap from paying, and a
+     floating pill over the booking card is a second thing asking for that tap. */
+  // Hidden where it would sit on a page's own call to action: booking, and claiming a page.
+  const hidden = isChromelessPathname(pathname) || pathname.startsWith("/book/") || isClaimPathname(pathname);
 
   /* Anything on the page can open the panel by dispatching `kai:open` — the trip sheet's
      "Request this trip"/"Ask Kai" buttons do (see TripSheet.tsx). An event rather than lifted

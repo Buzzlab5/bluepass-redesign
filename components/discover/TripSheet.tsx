@@ -505,7 +505,13 @@ export default function TripSheet() {
                 ) : null}
 
                 <div className="tsheet__acts">
-                  {trip.booking ? (
+                  {trip.bookUrl ? (
+                    /* Bookable on Bluepass itself: native rails, or a Rezdy or FareHarbor trip the
+                       operator connected. Preferred over an affiliate link when a trip has both. */
+                    <Button variant="primary" large magnetic={false} onClick={() => window.location.assign(trip.bookUrl!)}>
+                      Book now
+                    </Button>
+                  ) : trip.booking ? (
                     /* Resold as a FareHarbor affiliate or Rezdy agent: the platform's own booking
                        page has the live calendar and takes the payment. FareHarbor's Lightframe
                        script (loaded by the page) opens it as an overlay on this one; without it
@@ -543,7 +549,9 @@ export default function TripSheet() {
                   </Button>
                 </div>
                 <span className="ds-micro tsheet__note">
-                  {trip.booking
+                  {trip.bookUrl
+                    ? "Live availability. Your payment is held until the trip has run."
+                    : trip.booking
                     ? `Live times and secure checkout on ${trip.booking.platform === "FAREHARBOR" ? "FareHarbor" : "Rezdy"}, the operator's own booking system.`
                     : "No card needed. Kai confirms with the operator first."}
                 </span>
@@ -617,10 +625,12 @@ export default function TripSheet() {
             variant="primary"
             magnetic={false}
             onClick={() =>
-              openKaiFor(`I'd like to book ${trip.name}${departure ? `, ${departure}` : ""}.`)
+              trip.bookUrl
+                ? window.location.assign(trip.bookUrl)
+                : openKaiFor(`I'd like to book ${trip.name}${departure ? `, ${departure}` : ""}.`)
             }
           >
-            Request
+            {trip.bookUrl ? "Book" : "Request"}
           </Button>
         </div>
       </div>

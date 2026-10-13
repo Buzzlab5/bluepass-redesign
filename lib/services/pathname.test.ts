@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { isConsolePathname } from "./pathname";
+import { isClaimPathname, isConsolePathname } from "./pathname";
 
 /**
  * Pure, so unlike most suites in this repo it needs no database row and no cleanup.
@@ -40,5 +40,19 @@ describe("isConsolePathname", () => {
     expect(isConsolePathname("/operators")).toBe(false);
     expect(isConsolePathname("/operators/whitsunday-sailing")).toBe(false);
     expect(isConsolePathname("/administrators")).toBe(false);
+  });
+});
+
+describe("isClaimPathname", () => {
+  it("treats the operator claim pages as public, not console", () => {
+    for (const pathname of ["/operator/claim/start/reef-co", "/operator/claim/verify"]) {
+      expect(isClaimPathname(pathname)).toBe(true);
+      expect(isConsolePathname(pathname)).toBe(false);
+    }
+  });
+
+  it("leaves the rest of the operator console a console", () => {
+    expect(isClaimPathname("/operator/claims")).toBe(false);
+    expect(isConsolePathname("/operator/your-page")).toBe(true);
   });
 });

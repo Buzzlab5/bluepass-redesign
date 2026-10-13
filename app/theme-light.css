@@ -1,0 +1,218 @@
+/* Light theme for the booking system -----------------------------------------
+ * The 60-30-10 rule, applied to Bluepass's own tokens:
+ *
+ *   60  Neutral   #F7F7F5 page, #FFFFFF cards and fields
+ *   30  Secondary #A3A3A3 icons, dividers, inactive states;
+ *                 #6E6E6E secondary text (4.7:1 on the page; #A3A3A3 is 2.4:1,
+ *                 too faint to read); #949494 control borders (3:1, so a field
+ *                 or a checkbox can still be found)
+ *   10  Accent    #0F0F0F primary actions, selection, the one key number
+ *
+ * One accent only. Links, selection and progress all take the near-black; the
+ * blue and green the dark site uses are left out. Colour that carries meaning
+ * (an error, a warning) stays, used small.
+ *
+ * Scoped to .theme-light, which wraps the operator console and the traveller
+ * booking pages. The admin console and the marketing site are untouched. */
+
+.theme-light {
+  --color-canvas: #f7f7f5;
+  --color-surface-1: #ffffff;
+  --color-surface-2: #efefec;
+  --color-surface-3: #e6e6e3;
+  --color-hairline: rgba(15, 15, 15, 0.1);
+  --color-hairline-soft: rgba(15, 15, 15, 0.06);
+
+  --color-secondary: #a3a3a3;
+  --color-control-border: #949494;
+  --color-ink-muted: #6e6e6e;
+  --color-ink: #0f0f0f;
+
+  --color-primary: #0f0f0f;
+  --color-on-primary: #ffffff;
+  --color-primary-hover: #2b2b2b;
+  --color-accent-blue: #0f0f0f;
+  --color-accent-blue-soft: rgba(15, 15, 15, 0.06);
+
+  --color-semantic-success: #0f0f0f;
+  --color-gradient-orange: #9a4d00;
+  --color-gradient-coral: #b42318;
+  --color-warn-soft: rgba(154, 77, 0, 0.08);
+  --color-warn-line: rgba(154, 77, 0, 0.3);
+  --color-danger-soft: rgba(180, 35, 24, 0.05);
+  --color-danger-line: rgba(180, 35, 24, 0.28);
+
+  --shadow-2: 0 1px 2px rgba(15, 15, 15, 0.04), 0 6px 20px rgba(15, 15, 15, 0.04);
+  --shadow-3: 0 0 0 1px rgba(15, 15, 15, 0.12);
+  --focus-ring: 0 0 0 3px rgba(15, 15, 15, 0.12);
+
+  color-scheme: light;
+  background: var(--color-canvas);
+  color: var(--color-ink);
+}
+
+/* The page behind the theme: overscroll, and the gaps a fixed layer leaves. */
+html:has(.theme-light),
+body:has(.theme-light) {
+  background: #f7f7f5;
+}
+/* The site's film grain is tuned for a dark page and reads as dirt on a light one. */
+body:has(.theme-light) .grain {
+  display: none;
+}
+
+/* Links: the accent, and underlined when they sit inside text, because a link the
+   same colour as the words around it needs some other way to be seen. */
+.theme-light a:hover {
+  color: var(--color-ink);
+}
+.theme-light a:not([class]) {
+  color: var(--color-ink);
+  text-decoration: underline;
+  text-decoration-color: rgba(15, 15, 15, 0.3);
+  text-underline-offset: 3px;
+}
+.theme-light a:not([class]):hover {
+  text-decoration-color: currentColor;
+}
+
+/* The white logo, made near-black for a white rail. */
+.theme-light .adm-nav__mark img,
+.theme-light .cshell-brand__mark img {
+  filter: invert(1);
+}
+
+/* Shared console pieces that write their colours out in full ------------------- */
+.theme-light .adm-card--link:hover {
+  border-color: rgba(15, 15, 15, 0.18);
+}
+.theme-light .adm-nav__link.is-active,
+.theme-light .cshell-side__link.is-active {
+  box-shadow: none;
+}
+.theme-light .adm-tabs__count {
+  background: var(--color-surface-2);
+}
+.theme-light .adm-review__notes-body,
+.theme-light .adm-dupe__body {
+  color: var(--color-ink);
+}
+.theme-light .adm-pill--live {
+  border-color: var(--color-hairline);
+  background: var(--color-surface-2);
+}
+.theme-light .adm-pill--warn,
+.theme-light .adm-dupe {
+  border-color: var(--color-warn-line);
+  background: var(--color-warn-soft);
+}
+.theme-light .adm-choice__option.is-active {
+  border-color: var(--color-ink);
+  box-shadow: none;
+}
+.theme-light .adm-ledger__row.is-payout {
+  border-color: rgba(15, 15, 15, 0.2);
+}
+.theme-light .adm-done {
+  border-color: var(--color-hairline);
+}
+.theme-light .adm-done__glyph {
+  background: var(--color-surface-2);
+}
+.theme-light .adm-fault,
+.theme-light .adm-cron__row.is-bad {
+  border-color: var(--color-danger-line);
+  background: var(--color-danger-soft);
+}
+.theme-light .adm-form__row--invalid .afield__well {
+  border-color: var(--color-gradient-coral);
+}
+
+/* Status pills: only a problem gets colour. "Paid" and "Confirmed" are the normal
+   state of things, so they read as quiet labels rather than a second accent. */
+.theme-light .adm-status--good {
+  border-color: var(--color-hairline);
+  background: var(--color-surface-2);
+  color: var(--color-ink);
+}
+.theme-light .adm-status--warn {
+  border-color: var(--color-warn-line);
+  background: var(--color-warn-soft);
+  color: var(--color-gradient-orange);
+}
+.theme-light .adm-status--bad {
+  border-color: var(--color-danger-line);
+  background: var(--color-danger-soft);
+  color: var(--color-gradient-coral);
+}
+.theme-light .adm-status--muted {
+  background: transparent;
+}
+
+/* Fields */
+.theme-light .afield__well {
+  background: var(--color-surface-1);
+  border-color: var(--color-control-border);
+}
+.theme-light .afield__well:focus-within {
+  border-color: var(--color-ink);
+  box-shadow: var(--focus-ring);
+}
+.theme-light .afield__input::placeholder,
+.theme-light .aphone__search::placeholder {
+  color: #8a8a8a;
+}
+.theme-light .afield__reveal:hover,
+.theme-light .aphone__country:hover:not(:disabled),
+.theme-light .aphone__option:focus-visible {
+  background: var(--color-surface-2);
+}
+.theme-light .aphone__panel {
+  box-shadow: 0 18px 44px rgba(15, 15, 15, 0.14);
+}
+
+/* Notices: success is said in words and a black tick, not in green. */
+.theme-light .anotice__text {
+  color: var(--color-ink);
+}
+.theme-light .anotice--success {
+  border-color: var(--color-hairline);
+  background: var(--color-surface-1);
+}
+.theme-light .anotice--success .anotice__glyph {
+  color: var(--color-ink);
+}
+.theme-light .anotice--error {
+  border-color: var(--color-danger-line);
+  background: var(--color-danger-soft);
+}
+
+/* The site's magnetic button, which inverts its label on hover. */
+.theme-light .btn.is-hover .btn__label {
+  color: inherit;
+}
+.theme-light .btn--primary .btn__wipe {
+  background: var(--color-primary-hover);
+}
+.theme-light .btn--secondary {
+  box-shadow: inset 0 0 0 1px var(--color-hairline);
+}
+.theme-light .btn--secondary .btn__wipe,
+.theme-light .btn--translucent .btn__wipe {
+  background: var(--color-surface-2);
+}
+.theme-light .btn--danger .btn__wipe {
+  background: var(--color-danger-soft);
+}
+.theme-light .adm-decide .btn--danger {
+  box-shadow: inset 0 0 0 1px var(--color-danger-line);
+}
+
+/* The site nav rests transparent with white type, made for photographs and the dark
+   site. On a light page with no photo at the top (the confirmation and the guest's
+   booking page), it starts in its condensed dark state, so its mark has something to
+   sit on. The booking page keeps the transparent nav over its photograph. */
+body:has(main.bk-done.theme-light) .nav__surface {
+  background-color: rgba(10, 10, 9, 0.72) !important;
+  backdrop-filter: blur(18px);
+}
