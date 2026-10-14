@@ -11,8 +11,30 @@ import AccountMenu from "./auth/AccountMenu";
 import { useSession } from "./auth/SessionProvider";
 import { isChromelessPathname } from "@/lib/services/pathname";
 
+/* Every move to another page is a full page load (see FullPageNavigation), which mounts this bar
+   afresh. Its entrance is for the visitor's first arrival only: played again on each click, the bar
+   would slide in with every menu change instead of standing still while the page changes. */
+const INTRO_KEY = "bp-nav-intro";
+const introPlayed = () => {
+  try {
+    return window.sessionStorage.getItem(INTRO_KEY) === "1";
+  } catch {
+    return false;
+  }
+};
+const markIntroPlayed = () => {
+  try {
+    window.sessionStorage.setItem(INTRO_KEY, "1");
+  } catch {
+    // Storage blocked: the intro simply plays on every load, which is the old behaviour.
+  }
+};
+
 export default function Nav() {
   const ref = useRef<HTMLElement>(null);
+  /* True once the entrance has been skipped for this load, so the active-link pill is also placed
+     straight away instead of sliding in from the left. */
+  const settled = useRef(false);
   const pillRef = useRef<HTMLDivElement>(null);
   const indicatorRef = useRef<HTMLSpanElement>(null);
   const menuRef = useRef<HTMLDivElement>(null);
@@ -59,7 +81,9 @@ export default function Nav() {
       const actions = el.querySelector(".nav__actions");
 
       /* ---- entrance -------------------------------------------------- */
-      if (!reduced()) {
+      settled.current = introPlayed();
+      if (!reduced() && !settled.current) {
+        markIntroPlayed();
         gsap
           .timeline({ delay: 0.15 })
           .from(el, { yPercent: -100, duration: 1.1, ease: "bp-out" })
@@ -132,7 +156,7 @@ export default function Nav() {
   );
 
   /* ---- sliding pill indicator ---------------------------------------- */
-  const moveIndicator = (index: number) => {
+  const moveIndicator = (index: number, instant = false) => {
     const pill = pillRef.current;
     const ind = indicatorRef.current;
     if (!pill || !ind) return;
@@ -147,7 +171,7 @@ export default function Nav() {
     gsap.to(ind, {
       x: target.offsetLeft - 5,
       width: target.offsetWidth,
-      duration: reduced() ? 0 : 0.55,
+      duration: reduced() || instant ? 0 : 0.55,
       ease: "bp-out",
       overwrite: true,
     });
@@ -155,9 +179,12 @@ export default function Nav() {
 
   useGSAP(
     () => {
-      const run = () => moveIndicator(active);
+      /* The first placement on a page that skipped the entrance is instant; later ones (resize,
+         fonts arriving) and every hover keep their slide. */
+      const run = () => moveIndicator(active, settled.current);
       run();
-      document.fonts?.ready.then(run);
+      settled.current = false;
+      document.fonts?.ready.then(() => moveIndicator(active, true));
       window.addEventListener("resize", run);
       return () => window.removeEventListener("resize", run);
     },
