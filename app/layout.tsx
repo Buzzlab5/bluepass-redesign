@@ -6,7 +6,7 @@ import Grain from "@/components/Grain";
 import Nav from "@/components/Nav";
 import KaiChat from "@/components/KaiChat";
 import ReferralTracker from "@/components/ReferralTracker";
-import FullPageNavigation from "@/components/FullPageNavigation";
+import RouteProgress from "@/components/RouteProgress";
 import SessionProvider from "@/components/auth/SessionProvider";
 import FlashNotice from "@/components/auth/FlashNotice";
 
@@ -61,7 +61,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <SmoothScroll />
         <Grain />
         <ReferralTracker />
-        <FullPageNavigation />
+        <RouteProgress />
         <SessionProvider>
           <Nav />
           <FlashNotice />

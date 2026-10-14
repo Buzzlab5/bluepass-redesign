@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import { useRef, useState } from "react";
 import { gsap, ScrollTrigger, useGSAP, reduced } from "@/lib/gsap";
 import { navLinks } from "@/lib/data";
@@ -11,9 +11,9 @@ import AccountMenu from "./auth/AccountMenu";
 import { useSession } from "./auth/SessionProvider";
 import { isChromelessPathname } from "@/lib/services/pathname";
 
-/* Every move to another page is a full page load (see FullPageNavigation), which mounts this bar
-   afresh. Its entrance is for the visitor's first arrival only: played again on each click, the bar
-   would slide in with every menu change instead of standing still while the page changes. */
+/* The bar lives in the root layout, so it stays mounted while pages change and this entrance plays
+   once, when the visitor first arrives. The session flag covers the cases that do reload the
+   document (a sign-in redirect, a new tab's refresh): the bar must not slide in again then. */
 const INTRO_KEY = "bp-nav-intro";
 const introPlayed = () => {
   try {
@@ -39,6 +39,7 @@ export default function Nav() {
   const indicatorRef = useRef<HTMLSpanElement>(null);
   const menuRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
+  const router = useRouter();
   const { traveller, loading, signedInHint, signOut } = useSession();
 
   /* The auth pages carry their own brand mark inside the poster panel and have
@@ -412,7 +413,7 @@ export default function Nav() {
               </svg>
             </Link>
           ) : (
-            <Button variant="primary" onClick={() => window.location.assign("/register")}>
+            <Button variant="primary" onClick={() => router.push("/register")}>
               Join Bluepass →
             </Button>
           )}
