@@ -39,7 +39,7 @@ export default function Nav() {
   const indicatorRef = useRef<HTMLSpanElement>(null);
   const menuRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
-  const { traveller, signOut } = useSession();
+  const { traveller, loading, signedInHint, signOut } = useSession();
 
   /* The auth pages carry their own brand mark inside the poster panel and have
      no use for a marketing nav — leaving it up stacked two Bluepass marks in
@@ -387,7 +387,20 @@ export default function Nav() {
               account-menu link below opens by default. Two real tabs now, not two anchors into
               one long scroll (2026-08-21, after the user pointed out both links landed on what
               looked like the same page). */}
-          {traveller ? (
+          {loading ? (
+            /* Until /api/auth/me answers we do not know which of the two to show, and guessing
+               "signed out" flashed "Join Bluepass" at signed-in visitors on every page. An invisible
+               stand-in of the right size keeps the bar from shifting when the real one arrives. */
+            signedInHint ? (
+              <span className="nav__avatar acct__circle" aria-hidden style={{ visibility: "hidden" }} />
+            ) : (
+              <span aria-hidden style={{ visibility: "hidden", pointerEvents: "none" }}>
+                <Button variant="primary" onClick={() => undefined}>
+                  Join Bluepass →
+                </Button>
+              </span>
+            )
+          ) : traveller ? (
             <Link
               href="/account?tab=saved"
               className="nav__avatar acct__circle acct__circle--link"
@@ -432,7 +445,7 @@ export default function Nav() {
         {/* Below 560px the avatar is hidden, so the burger menu is the only way
             to reach the account at all. */}
         <div className="nav__menu-acct">
-          {traveller ? (
+          {loading ? null : traveller ? (
             <>
               <span className="ds-micro nav__menu-who">
                 Signed in as {traveller.name ?? traveller.email}
