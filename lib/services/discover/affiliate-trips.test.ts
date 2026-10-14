@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import type { OperatorListing } from "@prisma/client";
-import { parseAffiliateBookingUrl } from "./affiliate-trips";
+import { guideTripUrl, parseAffiliateBookingUrl } from "./affiliate-trips";
 import { listingToTrip } from "./operator-listings-as-trips";
 
 describe("parseAffiliateBookingUrl", () => {
@@ -77,5 +77,19 @@ describe("listingToTrip", () => {
     expect(listingToTrip(listing()).booking).toBeUndefined();
     // A platform the sheet cannot open is treated the same way.
     expect(listingToTrip(listing({ bookingPlatform: "BOKUN", bookingUrl: "https://bokun.io/x" })).booking).toBeUndefined();
+  });
+});
+
+describe("guideTripUrl", () => {
+  it("sends a trip with its own schedule and price to its booking page", () => {
+    expect(guideTripUrl({ slug: "outer-reef-day", hasOwnSchedule: true }, "https://bluepass.co")).toBe("https://bluepass.co/book/outer-reef-day");
+  });
+
+  it("opens the trip sheet on the home page for every other trip", () => {
+    expect(guideTripUrl({ slug: "outer-reef-day", hasOwnSchedule: false }, "https://bluepass.co/")).toBe("https://bluepass.co/?trip=outer-reef-day");
+  });
+
+  it("encodes the slug", () => {
+    expect(guideTripUrl({ slug: "a b", hasOwnSchedule: false }, "https://bluepass.co")).toBe("https://bluepass.co/?trip=a%20b");
   });
 });

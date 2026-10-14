@@ -101,8 +101,8 @@ export function RezdyConnection({
   if (!configured) {
     return (
       <div className="adm-card adm-empty">
-        <p className="ds-body-sm adm-empty__title">Rezdy is not switched on yet.</p>
-        <p className="ds-body-sm adm-empty__body">Bluepass&rsquo;s Rezdy agent account is still being set up.</p>
+        <p className="ds-body-sm adm-empty__title">The Rezdy connection is coming soon.</p>
+        <p className="ds-body-sm adm-empty__body">There is nothing for you to set up yet. We will tell you when you can connect your Rezdy account.</p>
       </div>
     );
   }
@@ -188,8 +188,8 @@ export function FareHarborConnection({
   if (!ready) {
     return (
       <div className="adm-card adm-empty">
-        <p className="ds-body-sm adm-empty__title">FareHarbor is not switched on yet.</p>
-        <p className="ds-body-sm adm-empty__body">Bluepass&rsquo;s FareHarbor affiliate account is still being set up.</p>
+        <p className="ds-body-sm adm-empty__title">The FareHarbor connection is coming soon.</p>
+        <p className="ds-body-sm adm-empty__body">There is nothing for you to set up yet. We will tell you when you can connect your FareHarbor account.</p>
       </div>
     );
   }

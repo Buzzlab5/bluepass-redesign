@@ -25,7 +25,7 @@ const GOOGLE_RESULTS: Record<string, { tone: "success" | "error" | "info"; text:
     tone: "error",
     text: "Google needs every box ticked on its permission screen for bookings to sync. Nothing was kept; connect again and leave them ticked.",
   },
-  "not-configured": { tone: "info", text: "Google sign-in is not set up on Bluepass yet." },
+  "not-configured": { tone: "info", text: "Google Calendar sync is not available yet. The subscribe link on this page works with any calendar today." },
   unavailable: { tone: "info", text: "Calendar sync is for trips sold through Bluepass's own booking system." },
 };
 
@@ -155,8 +155,8 @@ export default async function ConnectionsPage({ searchParams }: { searchParams: 
           </div>
         ) : (
           <div className="adm-card adm-empty">
-            <p className="ds-body-sm adm-empty__title">Google Calendar is not switched on yet.</p>
-            <p className="ds-body-sm adm-empty__body">Bluepass&rsquo;s Google sign-in is still being set up. The subscribe link below works with any calendar today.</p>
+            <p className="ds-body-sm adm-empty__title">Google Calendar sync is coming soon.</p>
+            <p className="ds-body-sm adm-empty__body">There is nothing for you to set up yet. The subscribe link below already works with Google, Apple Calendar and Outlook.</p>
           </div>
         )}
         {connection && connection.status === "CONNECTED" ? (
@@ -189,7 +189,7 @@ export default async function ConnectionsPage({ searchParams }: { searchParams: 
         </header>
         {!whatsappOn ? (
           <div className="rl-gap">
-            <Notice tone="info">WhatsApp messages start once Meta approves Bluepass&rsquo;s message templates. Until then, everything goes by email.</Notice>
+            <Notice tone="info">WhatsApp messages are coming soon. Until then, everything goes by email.</Notice>
           </div>
         ) : null}
         <AlertSettings {...settings} />

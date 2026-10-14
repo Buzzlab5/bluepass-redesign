@@ -160,6 +160,11 @@ export default function DiscoverState({
     const c = q.get("category");
     if (r && trips.some((t) => t.region === r)) setRegionState(r);
     if (c && trips.some((t) => t.category === c)) setCategoryState(c as Category);
+    /* A link to one trip (Kai sends these): open its sheet. A slug that matches nothing is ignored,
+       so an old link just lands on the home page. */
+    const wanted = q.get("trip");
+    const linked = wanted ? trips.find((t) => t.slug === wanted) : undefined;
+    if (linked) setOpenTrip(linked);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 

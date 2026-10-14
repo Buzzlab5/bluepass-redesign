@@ -195,8 +195,8 @@ export async function setAffiliateTripLive(listingId: string, live: boolean, adm
   return { ok: true as const };
 }
 
-/** What Kai needs to recommend a resold trip and hand over its booking link. Public facts only:
-    everything here is already shown on the trip page. */
+/** What Kai needs to recommend a trip and send the traveller to where it is booked. Public facts
+    only: everything here is already shown on the trip page. */
 export type KaiAffiliateTrip = {
   slug: string;
   title: string;
@@ -205,25 +205,59 @@ export type KaiAffiliateTrip = {
   category: string;
   description: string;
   priceSignal: string | null;
-  bookingPlatform: AffiliatePlatform;
-  bookingUrl: string;
+  /** Set when the trip is resold on FareHarbor or Rezdy through an admin-added link. */
+  bookingPlatform: AffiliatePlatform | null;
+  bookingUrl: string | null;
+  /** The BluePass page the traveller is sent to. Booking happens there, so Kai states no availability. */
+  tripUrl: string;
 };
+
+function siteBase() {
+  return (process.env.NEXT_PUBLIC_SITE_URL || process.env.BLUEPASS_APP_URL || "https://bluepass.co").replace(/\/$/, "");
+}
+
+/**
+ * Where Kai sends a traveller for a trip. A trip with its own schedule and price has a booking page
+ * of its own; every other trip (resold on FareHarbor or Rezdy, or read from Rezdy) opens its sheet on
+ * the home page, which carries the right "Book now" for its channel.
+ */
+export function guideTripUrl(trip: { slug: string; hasOwnSchedule: boolean }, base = siteBase()) {
+  const root = base.replace(/\/$/, "");
+  return trip.hasOwnSchedule ? `${root}/book/${encodeURIComponent(trip.slug)}` : `${root}/?trip=${encodeURIComponent(trip.slug)}`;
+}
 
 export async function listLiveAffiliateTripsForKai(): Promise<KaiAffiliateTrip[]> {
   const rows = await prisma.operatorListing.findMany({
-    where: { status: "LIVE", bookingUrl: { not: null }, bookingPlatform: { in: [...AFFILIATE_PLATFORMS] } },
+    where: {
+      status: "LIVE",
+      priceFrom: { not: null },
+      OR: [
+        { bookingUrl: { not: null }, bookingPlatform: { in: [...AFFILIATE_PLATFORMS] } },
+        { schedules: { some: { active: true } }, rates: { some: { active: true } } },
+        { channel: "FAREHARBOR", externalBookingUrl: { not: null }, channelIssue: null },
+        { channel: "REZDY", channelSyncedAt: { not: null }, channelIssue: null },
+      ],
+    },
     orderBy: { publishedAt: "desc" },
-    include: { operatorProfile: { select: { companyName: true } } },
+    include: {
+      operatorProfile: { select: { companyName: true } },
+      _count: { select: { schedules: { where: { active: true } }, rates: { where: { active: true } } } },
+    },
   });
-  return rows.map((row) => ({
-    slug: row.slug,
-    title: row.title,
-    operatorName: row.operatorProfile.companyName ?? row.title,
-    region: row.region,
-    category: row.category,
-    description: row.description,
-    priceSignal: row.priceSignal,
-    bookingPlatform: row.bookingPlatform as AffiliatePlatform,
-    bookingUrl: row.bookingUrl as string,
-  }));
+  const base = siteBase();
+  return rows.map((row) => {
+    const affiliate = (AFFILIATE_PLATFORMS as readonly string[]).includes(row.bookingPlatform ?? "") && row.bookingUrl;
+    return {
+      slug: row.slug,
+      title: row.title,
+      operatorName: row.operatorProfile.companyName ?? row.title,
+      region: row.region,
+      category: row.category,
+      description: row.description,
+      priceSignal: row.priceSignal,
+      bookingPlatform: affiliate ? (row.bookingPlatform as AffiliatePlatform) : null,
+      bookingUrl: affiliate ? row.bookingUrl : null,
+      tripUrl: guideTripUrl({ slug: row.slug, hasOwnSchedule: row._count.schedules > 0 && row._count.rates > 0 && row.channel === "NATIVE" }, base),
+    };
+  });
 }
