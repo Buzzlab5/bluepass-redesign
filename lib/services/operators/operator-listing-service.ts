@@ -2,22 +2,47 @@ import { z } from "zod";
 import { prisma } from "@/lib/db/prisma";
 import { normalizeSlug } from "@/lib/services/operators/operator-leads";
 
+/**
+ * A number typed into a form field. Operators write "75", "75 aud", "A$75" or "1,200", so currency
+ * words and symbols are ignored. Something with no digits in it at all ("abc") becomes NaN rather
+ * than silently disappearing, so the field it came from gets the error message.
+ */
+function typedNumber(label: string, rules: { max: number; whole?: boolean }) {
+  const base = z.number({ error: `${label} must be a number, like 75.` }).positive(`${label} must be more than 0.`);
+  const bounded = (rules.whole ? base.int(`${label} must be a whole number.`) : base).max(
+    rules.max,
+    `${label} cannot be more than ${rules.max.toLocaleString("en")}.`,
+  );
+
+  return z.preprocess((value) => {
+    if (value === undefined || value === null) return undefined;
+    const raw = String(value).trim();
+    if (raw === "") return undefined;
+    const digits = raw.replace(/[^\d.,]/g, "").replace(/,/g, "");
+    return digits === "" ? Number.NaN : Number(digits);
+  }, bounded.optional());
+}
+
 export const operatorListingInputSchema = z.object({
-  title: z.string().trim().min(2).max(160),
-  category: z.string().trim().min(2).max(80),
-  region: z.string().trim().min(2).max(120),
-  description: z.string().trim().min(10).max(4000),
-  heroImageUrl: z.string().trim().max(500).optional(),
-  maxGuests: z.coerce.number().int().positive().max(500).optional(),
-  priceSignal: z.string().trim().max(120).optional(),
+  title: z.string().trim().min(2, "Give the listing a title of at least 2 characters.").max(160, "The title is too long (160 characters at most)."),
+  category: z.string().trim().min(2, "Enter a category, like Sailing or Diving.").max(80, "The category is too long (80 characters at most)."),
+  region: z.string().trim().min(2, "Enter where the trip runs, like Brisbane.").max(120, "The region is too long (120 characters at most)."),
+  description: z
+    .string()
+    .trim()
+    .min(10, "Describe the trip in at least 10 characters, so travellers know what they are booking.")
+    .max(4000, "The description is too long (4,000 characters at most)."),
+  heroImageUrl: z.string().trim().max(500, "The photo link is too long.").optional(),
+  maxGuests: typedNumber("Max guests", { max: 500, whole: true }),
+  priceSignal: z.string().trim().max(120, "The custom price text is too long (120 characters at most).").optional(),
   /* Not optional in practice, even though the column is nullable: fetchSyncedTrips() only ever
      shows a listing with `priceFrom: { not: null }` on Discover, since Trip.price backs both the
      "A$X/guest" display and the 5%-conservation-split math there, un-guarded. A self-service
      listing with no priceFrom saves fine and shows on the operator's own dashboard, but never
      reaches a traveller - discovered live (2026-08-24) the first time this schema was driven by a
      real form instead of only the Rezdy sync, which always supplies one. */
-  priceFrom: z.coerce.number().positive().max(1_000_000).optional(),
-  currency: z.string().trim().length(3).optional(),
+  priceFrom: typedNumber("Price per guest", { max: 1_000_000 }),
+  currency: z.string().trim().length(3, "The currency must be a 3 letter code, like AUD.").optional(),
 });
 
 export type OperatorListingInput = z.infer<typeof operatorListingInputSchema>;
