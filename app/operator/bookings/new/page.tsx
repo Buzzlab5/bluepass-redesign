@@ -1,17 +1,25 @@
 import Link from "next/link";
 import AdminPageHeader from "@/components/admin/AdminPageHeader";
 import NewBookingForm from "@/components/rails/NewBookingForm";
+import NewBookingPicker, { type PickerDate } from "@/components/rails/NewBookingPicker";
 import RailsUnavailable from "@/components/rails/RailsUnavailable";
 import { prisma } from "@/lib/db/prisma";
-import { listDepartures, localDateInZone, ratesForDate } from "@/lib/services/operators/listing-availability";
+import { addDays, listDepartures, localDateInZone, ratesForDate } from "@/lib/services/operators/listing-availability";
 import { requireRailsOperator } from "@/lib/services/rails/guard";
 import { operatorToday } from "@/lib/services/rails/views";
 
 export const metadata = { title: "New booking · Bluepass" };
 
+/** How far ahead a phone booking can be taken: far enough for a season, short enough to list. */
+const BOOKABLE_DAYS = 180;
+
+function dayLabel(date: string): string {
+  return new Date(`${date}T12:00:00Z`).toLocaleDateString("en-AU", { weekday: "short", day: "numeric", month: "short", year: "numeric", timeZone: "UTC" });
+}
+
 /**
- * Two steps on one page: which trip and which day (a plain GET form, so it works on
- * a phone with no JavaScript to speak of), then the booking itself.
+ * Two steps on one page: which trip and which day (from the trip's own schedule, so no
+ * date is ever typed), then the booking itself.
  */
 export default async function NewBookingPage({ searchParams }: { searchParams: Promise<{ listing?: string; date?: string; at?: string }> }) {
   const { profile, rails } = await requireRailsOperator("/operator/bookings/new");
@@ -54,9 +62,20 @@ export default async function NewBookingPage({ searchParams }: { searchParams: P
   const timezone = listing.schedules[0]?.timezone ?? "Australia/Brisbane";
   const preselect = params.at && Number.isFinite(Number(params.at)) ? Number(params.at) : null;
   const { today } = await operatorToday(profile.id);
-  const date = params.date && /^\d{4}-\d{2}-\d{2}$/.test(params.date)
+  const requested = params.date && /^\d{4}-\d{2}-\d{2}$/.test(params.date)
     ? params.date
-    : preselect ? localDateInZone(new Date(preselect), timezone) : today;
+    : preselect ? localDateInZone(new Date(preselect), timezone) : null;
+
+  /* The days to offer come from the trip's own schedule: only a day that runs and still has a seat. */
+  const horizon = requested && requested > addDays(today, BOOKABLE_DAYS) ? requested : addDays(today, BOOKABLE_DAYS);
+  const upcoming = await listDepartures({ listingId: listing.id, from: today, to: horizon, ignoreWindow: true });
+  const dates: PickerDate[] = upcoming
+    .filter((d) => d.departures.some((x) => x.seatsLeft > 0))
+    .map((d) => {
+      const times = d.departures.filter((x) => x.seatsLeft > 0).length;
+      return { value: d.date, label: dayLabel(d.date), note: times > 1 ? `${times} departures` : "" };
+    });
+  const date = requested && dates.some((d) => d.value === requested) ? requested : (dates[0]?.value ?? requested ?? today);
 
   const [day] = await listDepartures({ listingId: listing.id, from: date, to: date, ignoreWindow: true });
   const departures = (day?.departures ?? []).map((d) => ({
@@ -65,6 +84,7 @@ export default async function NewBookingPage({ searchParams }: { searchParams: P
     seatsLeft: d.seatsLeft,
     capacity: d.capacity,
     closed: d.closed,
+    minGuests: d.minGuests,
   }));
   const rates = ratesForDate(listing.rates, date).map((r) => ({ id: r.id, label: r.label, amountCents: r.amountCents, perGuest: r.perGuest }));
 
@@ -75,21 +95,16 @@ export default async function NewBookingPage({ searchParams }: { searchParams: P
       </p>
       <AdminPageHeader title="New booking" support="Seats you sell yourself come off the booking page straight away, so nothing is ever sold twice." />
 
-      <form className="rl-pick adm-card" method="get">
-        <label className="rl-field">
-          <span className="ds-micro rl-field__label">Trip</span>
-          <select name="listing" defaultValue={listing.id} className="rl-input">
-            {listings.map((l) => <option key={l.id} value={l.id}>{l.title}</option>)}
-          </select>
-        </label>
-        <label className="rl-field">
-          <span className="ds-micro rl-field__label">Date</span>
-          <input type="date" name="date" defaultValue={date} className="rl-input" />
-        </label>
-        <button type="submit" className="rl-btn rl-btn--secondary">Show departures</button>
-      </form>
+      <NewBookingPicker listings={listings.map((l) => ({ id: l.id, title: l.title }))} listingId={listing.id} dates={dates} date={dates.length ? date : ""} />
 
-      {day?.blackout ? (
+      {dates.length === 0 ? (
+        <div className="adm-card adm-empty">
+          <p className="ds-body-sm adm-empty__title">No days with a seat left in the next {BOOKABLE_DAYS} days.</p>
+          <p className="ds-body-sm adm-empty__body">Check the season and days on the <Link href={`/operator/trips/${listing.id}`}>trip setup</Link> page, or the closed dates.</p>
+        </div>
+      ) : null}
+
+      {dates.length === 0 ? null : day?.blackout ? (
         <div className="adm-card adm-empty"><p className="ds-body-sm adm-empty__title">Closed that day: {day.blackout}.</p></div>
       ) : (
         <section className="adm-block">
@@ -101,6 +116,7 @@ export default async function NewBookingPage({ searchParams }: { searchParams: P
               rates={rates}
               currency={listing.currency}
               preselect={preselect && departures.some((d) => d.at === preselect) ? preselect : null}
+              phoneCountry={profile.country}
             />
           </div>
         </section>

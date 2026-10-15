@@ -216,7 +216,7 @@ function ScheduleForm({
 
       <div className="rl-grid">
         <NumberField label="Seats per departure" name="capacity" defaultValue={schedule?.capacityPerDeparture ?? defaultCapacity ?? 12} min={1} invalid={state.status === "error" && state.field === "capacityPerDeparture"} />
-        <NumberField label="Runs with at least" name="minGuests" defaultValue={schedule?.minGuests ?? 1} min={1} suffix="guests" invalid={state.status === "error" && state.field === "minGuests"} />
+        <NumberField label="Boat runs with at least" name="minGuests" defaultValue={schedule?.minGuests ?? 1} min={1} suffix="guests in total" hint="Counted across all bookings on a departure, not per booking. Guests can book before it is reached; you decide at the end whether it runs." invalid={state.status === "error" && state.field === "minGuests"} />
         <NumberField label="Online bookings close" name="cutoffHours" defaultValue={schedule?.cutoffHours ?? 24} min={0} suffix="hours before" />
         <NumberField label="Open for booking" name="maxAdvanceDays" defaultValue={schedule?.maxAdvanceDays ?? 365} min={1} suffix="days ahead" />
       </div>
@@ -282,8 +282,8 @@ function OneOffForm({ listingId, onDone, defaultTimezone, defaultCapacity }: { l
 }
 
 export function NumberField({
-  label, name, defaultValue, min, suffix, invalid, step,
-}: { label: string; name: string; defaultValue: number | string; min?: number; suffix?: string; invalid?: boolean; step?: string }) {
+  label, name, defaultValue, min, suffix, invalid, step, hint,
+}: { label: string; name: string; defaultValue: number | string; min?: number; suffix?: string; invalid?: boolean; step?: string; hint?: string }) {
   return (
     <label className={`rl-field${invalid ? " is-invalid" : ""}`}>
       <span className="ds-micro rl-field__label">{label}</span>
@@ -291,6 +291,7 @@ export function NumberField({
         <input type="number" name={name} defaultValue={defaultValue} min={min} step={step ?? "1"} inputMode="numeric" />
         {suffix ? <span className="ds-caption rl-input__suffix">{suffix}</span> : null}
       </span>
+      {hint ? <span className="ds-micro rl-field__hint">{hint}</span> : null}
     </label>
   );
 }

@@ -342,7 +342,7 @@ export async function createOperatorBookingAction(_prev: RailsActionState, form:
     phoneCountry: access.profile.country,
     actorEmail: access.account.email,
   });
-  if (!result.ok) return { status: "error", message: result.reason };
+  if (!result.ok) return { status: "error", message: result.reason, field: result.field };
 
   refreshConsole();
   syncCalendarSoon(access.profile.id);

@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useActionState, useState } from "react";
 import Field from "@/components/auth/Field";
+import BankDetailsFields from "@/components/payout/BankDetailsFields";
 import Notice from "@/components/auth/Notice";
 import Button from "@/components/ui/Button";
 import StatusPill, { type PillTone } from "@/components/admin/StatusPill";
@@ -231,33 +232,7 @@ function PayoutSection({ operator }: { operator: OperatorEditView }) {
 
       <div className="adm-form__grid adm-form__grid--conditional">
         {payoutMethod === "MANUAL_BANK_TRANSFER" ? (
-          <label className="afield adm-form__row adm-form__row--wide">
-            <span className="afield__top">
-              <span className="ds-micro afield__label">Bank details</span>
-              <span className="ds-micro afield__hint">
-                {operator.hasPayoutDetails ? "Leave blank to keep what's on file" : "Encrypted at rest"}
-              </span>
-            </span>
-            <span className="afield__well">
-              <textarea
-                name="bankDetails"
-                value={values.bankDetails}
-                onChange={(e) => set("bankDetails")(e.target.value)}
-                rows={4}
-                disabled={pending}
-                className="afield__input adm-textarea"
-                placeholder={
-                  operator.hasPayoutDetails
-                    ? "Leave blank to keep the details already on file"
-                    : "Account name\nBSB / routing\nAccount number\nBank, branch, SWIFT"
-                }
-              />
-            </span>
-            <span className="ds-micro adm-form__help">
-              What's currently on file is never shown here — it's write-only. Leave this blank to keep
-              it unchanged, or type new details to replace it entirely.
-            </span>
-          </label>
+          <BankDetailsFields country={operator.country} hasDetailsOnFile={operator.hasPayoutDetails} optionalWhenEmpty disabled={pending} />
         ) : null}
 
         {payoutMethod === "STRIPE_CONNECT" ? (

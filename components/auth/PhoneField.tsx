@@ -37,6 +37,7 @@ export default function PhoneField({
   required,
   disabled,
   confirmLabel = "Kai will message",
+  defaultCountry,
 }: {
   label: string;
   /** E.164, e.g. `+61412345678`. Empty string while the number is incomplete. */
@@ -47,12 +48,18 @@ export default function PhoneField({
   disabled?: boolean;
   /** Words before the finished number in the line under the field. */
   confirmLabel?: string;
+  /** ISO code or country name to start on instead of `DEFAULT_COUNTRY_ISO`, e.g. the operator's own country. */
+  defaultCountry?: string | null;
 }) {
   const id = useId();
   const listId = useId();
-  const [country, setCountry] = useState<Country>(
-    () => findCountryByIso(DEFAULT_COUNTRY_ISO) ?? COUNTRIES[0],
-  );
+  const [country, setCountry] = useState<Country>(() => {
+    const wanted = (defaultCountry ?? "").trim().toLowerCase();
+    const requested = wanted
+      ? (findCountryByIso(wanted.toUpperCase()) ?? COUNTRIES.find((c) => c.name.toLowerCase() === wanted))
+      : undefined;
+    return requested ?? findCountryByIso(DEFAULT_COUNTRY_ISO) ?? COUNTRIES[0];
+  });
   const [national, setNational] = useState("");
   const [open, setOpen] = useState(false);
   const [query, setQuery] = useState("");

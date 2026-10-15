@@ -54,7 +54,8 @@ export const CHECKOUT_MINUTES = 31;
 /** The seats outlast the payment page by a little, so a payment completed in its last second still finds them. */
 export const HOLD_MINUTES = CHECKOUT_MINUTES + 3;
 
-export type BookingFailure = { ok: false; reason: string; code: BookingFailureCode };
+/** `field` is the form input at fault, when the refusal is about one, so the page can point at it. */
+export type BookingFailure = { ok: false; reason: string; code: BookingFailureCode; field?: string };
 export type BookingFailureCode =
   | "NOT_FOUND"
   | "NOT_BOOKABLE"
@@ -68,8 +69,8 @@ export type BookingFailureCode =
   /** The operator's booking system refused or did not answer. */
   | "CHANNEL";
 
-export function fail(code: BookingFailureCode, reason: string): BookingFailure {
-  return { ok: false, code, reason };
+export function fail(code: BookingFailureCode, reason: string, field?: string): BookingFailure {
+  return field ? { ok: false, code, reason, field } : { ok: false, code, reason };
 }
 
 export async function underDepartureLock<T>(listingId: string, departsAt: Date, fn: (tx: Tx) => Promise<T>) {
@@ -194,10 +195,10 @@ export function cleanLead(lead: LeadGuest, emailRequired: boolean): { ok: true; 
   const name = lead.name?.trim() ?? "";
   const email = lead.email?.trim().toLowerCase() || null;
   const phone = lead.phone?.trim() || null;
-  if (name.length < 2 || name.length > 120) return fail("INVALID", "Add the lead guest's name.");
-  if (emailRequired && !email) return fail("INVALID", "Add an email address for the confirmation.");
-  if (email && (!EMAIL.test(email) || email.length > 200)) return fail("INVALID", "That email address does not look right.");
-  if (phone && phone.length > 40) return fail("INVALID", "That phone number is too long.");
+  if (name.length < 2 || name.length > 120) return fail("INVALID", "Add the lead guest's name.", "leadName");
+  if (emailRequired && !email) return fail("INVALID", "Add an email address for the confirmation.", "leadEmail");
+  if (email && (!EMAIL.test(email) || email.length > 200)) return fail("INVALID", "That email address does not look right.", "leadEmail");
+  if (phone && phone.length > 40) return fail("INVALID", "That phone number is too long.", "leadPhone");
   return { ok: true, lead: { name, email, phone } };
 }
 
@@ -244,10 +245,10 @@ export async function reserveSeats(input: ReserveInput): Promise<{ ok: true; boo
 
   return underDepartureLock(input.listingId, input.departsAt, async (tx) => {
     const located = await locateDeparture(tx, input.listingId, input.departsAt);
-    if (!located) return fail("UNAVAILABLE", "That departure is no longer on the schedule. Pick another time.");
+    if (!located) return fail("UNAVAILABLE", "That departure is no longer on the schedule. Pick another time.", "at");
 
     const priced = priceParty(listing.rates, located.localDate, { quantities: input.quantities, guests: input.guests });
-    if (!priced.ok) return fail("INVALID", priced.reason);
+    if (!priced.ok) return fail("INVALID", priced.reason, "guests");
     if (priced.totalCents < 100) return fail("NOT_BOOKABLE", "This trip has no price set for that date yet.");
 
     const live = await departureState(tx, input.listingId, located, input.departsAt, {
@@ -562,7 +563,7 @@ export async function createOperatorBooking(input: OperatorBookingInput): Promis
 
   const result = await underDepartureLock(input.listingId, input.departsAt, async (tx) => {
     const located = await locateDeparture(tx, input.listingId, input.departsAt);
-    if (!located) return fail("UNAVAILABLE", "That departure is not on your schedule.");
+    if (!located) return fail("UNAVAILABLE", "That departure is not on your schedule.", "at");
 
     const chosen = Object.values(input.quantities).some((q) => Number(q) > 0);
     let lines: PricedLine[];
@@ -572,18 +573,18 @@ export async function createOperatorBooking(input: OperatorBookingInput): Promis
 
     if (chosen) {
       const priced = priceParty(listing.rates, located.localDate, { quantities: input.quantities, guests: input.guests });
-      if (!priced.ok) return fail("INVALID", priced.reason);
+      if (!priced.ok) return fail("INVALID", priced.reason, "guests");
       ({ lines, guests, totalCents, currency } = priced);
     } else {
       guests = Math.floor(Number(input.guests ?? 0));
-      if (!(guests >= 1 && guests <= 500)) return fail("INVALID", "Add how many guests are coming.");
+      if (!(guests >= 1 && guests <= 500)) return fail("INVALID", "Add how many guests are coming.", "guests");
       lines = [{ rateId: "manual", label: "Guests", amountCents: 0, quantity: guests, perGuest: true }];
       totalCents = 0;
     }
 
     const override = input.totalCents;
     if (override !== null && override !== undefined) {
-      if (!Number.isInteger(override) || override < 0 || override > 100_000_000) return fail("INVALID", "That total does not look right.");
+      if (!Number.isInteger(override) || override < 0 || override > 100_000_000) return fail("INVALID", "That total does not look right.", "total");
       totalCents = override;
     }
 
@@ -802,7 +803,7 @@ export async function setDepartureOverride(input: {
 
   const result = await underDepartureLock(input.listingId, input.departsAt, async (tx) => {
     const located = await locateDeparture(tx, input.listingId, input.departsAt);
-    if (!located) return fail("UNAVAILABLE", "That departure is not on your schedule.");
+    if (!located) return fail("UNAVAILABLE", "That departure is not on your schedule.", "at");
 
     if (input.capacity !== null) {
       if (!Number.isInteger(input.capacity) || input.capacity < 1 || input.capacity > 1000) return fail("INVALID", "Capacity has to be a whole number of seats.");

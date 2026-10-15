@@ -9,6 +9,7 @@ import ReferralTracker from "@/components/ReferralTracker";
 import RouteProgress from "@/components/RouteProgress";
 import SessionProvider from "@/components/auth/SessionProvider";
 import FlashNotice from "@/components/auth/FlashNotice";
+import FormKeeper from "@/components/FormKeeper";
 
 /* The design system specifies GT Walsheim for display type and substitutes
  * Geist (see the DS readme's font caveat); Inter carries all body copy. */
@@ -62,6 +63,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Grain />
         <ReferralTracker />
         <RouteProgress />
+        <FormKeeper />
         <SessionProvider>
           <Nav />
           <FlashNotice />

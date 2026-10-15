@@ -207,12 +207,10 @@ describe("resolveAvailability", () => {
     expect(r.reason).toContain("2026-07-21");
   });
 
-  it("refuses a party below the minimum the trip needs to run", async () => {
+  it("takes a party smaller than the minimum, because the minimum is for the whole boat", async () => {
     h.scheduleFindMany.mockResolvedValue([schedule({ minGuests: 4 })]);
     const r = await resolveAvailability({ listingId: "L1", date: "2026-07-16", guests: 2, now });
-    expect(r.available).toBe(false);
-    if (r.available) return;
-    expect(r.reason).toContain("at least 4");
+    expect(r.available).toBe(true);
   });
 
   it("says plainly when an operator has loaded no schedule at all", async () => {
@@ -463,13 +461,14 @@ describe("listDepartures", () => {
 });
 
 describe("listDepartures without a party size", () => {
-  it("tests each departure against the smallest party it runs for", async () => {
+  it("offers a departure to a single guest even when it needs more to run", async () => {
     h.scheduleFindMany.mockResolvedValue([schedule({ minGuests: 2 })]);
     const now = new Date("2026-07-01T00:00:00Z");
     const [day] = await listDepartures({ listingId: "L1", from: "2026-07-16", to: "2026-07-16", now });
     expect(day.departures[0].block).toBeNull();
+    expect(day.departures[0].minGuests).toBe(2);
     const [single] = await listDepartures({ listingId: "L1", from: "2026-07-16", to: "2026-07-16", guests: 1, now });
-    expect(single.departures[0].block).toBe("tooFew");
+    expect(single.departures[0].block).toBeNull();
   });
 });
 

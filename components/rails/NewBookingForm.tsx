@@ -1,6 +1,7 @@
 "use client";
 
 import { useActionState, useMemo, useState } from "react";
+import PhoneField from "@/components/auth/PhoneField";
 import ActionNotice from "@/components/rails/ActionNotice";
 import PendingButton from "@/components/rails/PendingButton";
 import { createOperatorBookingAction, type RailsActionState } from "@/app/operator/rails-actions";
@@ -9,7 +10,7 @@ import { formatMoney } from "@/lib/services/rails/money";
 
 const IDLE: RailsActionState = { status: "idle" };
 
-export type NewBookingDeparture = { at: number; localTime: string; seatsLeft: number; capacity: number; closed: boolean };
+export type NewBookingDeparture = { at: number; localTime: string; seatsLeft: number; capacity: number; closed: boolean; minGuests: number };
 export type NewBookingRate = { id: string; label: string; amountCents: number; perGuest: boolean };
 
 /**
@@ -23,23 +24,33 @@ export default function NewBookingForm({
   rates,
   currency,
   preselect,
+  phoneCountry,
 }: {
   listingId: string;
   departures: NewBookingDeparture[];
   rates: NewBookingRate[];
   currency: string;
   preselect: number | null;
+  /** The operator's own country, which is where most callers are ringing from. */
+  phoneCountry: string | null;
 }) {
   const [state, formAction] = useActionState(createOperatorBookingAction, IDLE);
   const open = departures.filter((d) => d.seatsLeft > 0);
   const [at, setAt] = useState<number | null>(preselect ?? (open.length === 1 ? open[0].at : null));
+  const startingParty = 2;
   const [qty, setQty] = useState<Record<string, number>>(() => {
     const first = rates.find((r) => r.perGuest);
-    return first ? { [first.id]: 2 } : {};
+    return first ? { [first.id]: startingParty } : {};
   });
-  const [guests, setGuests] = useState(2);
+  const [guests, setGuests] = useState(startingParty);
+  /* Held in state, not left to the browser: a refused booking resets a form's plain inputs, and having the
+     name and email wiped along with the refusal is how this page once looked like it did nothing. */
+  const [leadName, setLeadName] = useState("");
+  const [leadEmail, setLeadEmail] = useState("");
+  const [notes, setNotes] = useState("");
   const [total, setTotal] = useState<string>("");
   const [payment, setPayment] = useState<"collect" | "paid">("collect");
+  const [phone, setPhone] = useState("");
 
   const flatChosen = rates.some((r) => !r.perGuest && (qty[r.id] ?? 0) > 0);
   const perGuestSeats = rates.filter((r) => r.perGuest).reduce((n, r) => n + (qty[r.id] ?? 0), 0);
@@ -47,6 +58,9 @@ export default function NewBookingForm({
   const computed = useMemo(() => rates.reduce((sum, r) => sum + r.amountCents * (qty[r.id] ?? 0), 0), [rates, qty]);
   const chosen = departures.find((d) => d.at === at);
   const tooMany = chosen ? seats > chosen.seatsLeft : false;
+  /* The minimum is for the whole boat, not this booking: say how far the departure is from running. */
+  const taken = chosen ? chosen.capacity - chosen.seatsLeft : 0;
+  const stillNeeded = chosen && chosen.minGuests > 1 ? Math.max(0, chosen.minGuests - taken - seats) : 0;
 
   const step = (id: string, delta: number, max = 99) =>
     setQty((cur) => ({ ...cur, [id]: Math.min(max, Math.max(0, (cur[id] ?? 0) + delta)) }));
@@ -56,7 +70,7 @@ export default function NewBookingForm({
       <input type="hidden" name="listingId" value={listingId} />
       <input type="hidden" name="at" value={at ?? ""} />
 
-      <fieldset className="rl-field">
+      <fieldset className="rl-field" data-field="at">
         <legend className="ds-micro rl-field__label">Departure</legend>
         {departures.length === 0 ? (
           <p className="ds-body-sm rl-muted">No departures on this date.</p>
@@ -79,7 +93,7 @@ export default function NewBookingForm({
         )}
       </fieldset>
 
-      <fieldset className="rl-field">
+      <fieldset className="rl-field" data-field="guests">
         <legend className="ds-micro rl-field__label">Guests</legend>
         {rates.length === 0 ? (
           <Stepper label="Guests" value={guests} onChange={setGuests} name="guests" />
@@ -107,20 +121,27 @@ export default function NewBookingForm({
           </div>
         )}
         {tooMany ? <span className="ds-micro rl-field__hint rl-warn">Only {chosen?.seatsLeft} seats left on this departure.</span> : null}
+        {chosen && chosen.minGuests > 1 ? (
+          <span className="ds-micro rl-field__hint">
+            {stillNeeded === 0
+              ? `With this booking the departure has its ${chosen.minGuests} guests and runs.`
+              : `The boat runs with ${chosen.minGuests} guests in total. ${taken} booked so far, so ${stillNeeded} more still needed after this booking.`}
+          </span>
+        ) : null}
       </fieldset>
 
       <div className="rl-grid">
         <label className="rl-field">
           <span className="ds-micro rl-field__label">Lead guest</span>
-          <input name="leadName" required autoComplete="off" placeholder="Full name" className="rl-input" />
+          <input name="leadName" required autoComplete="off" placeholder="Full name" className="rl-input" value={leadName} onChange={(e) => setLeadName(e.target.value)} />
         </label>
-        <label className="rl-field">
-          <span className="ds-micro rl-field__label">Phone</span>
-          <input name="leadPhone" type="tel" autoComplete="off" placeholder="+61 4…" className="rl-input" />
-        </label>
+        <div className="rl-field">
+          <PhoneField label="Phone" value={phone} onChange={setPhone} defaultCountry={phoneCountry} confirmLabel="Saved as" />
+          <input type="hidden" name="leadPhone" value={phone} />
+        </div>
         <label className="rl-field">
           <span className="ds-micro rl-field__label">Email</span>
-          <input name="leadEmail" type="email" autoComplete="off" placeholder="For the confirmation" className="rl-input" />
+          <input name="leadEmail" type="email" autoComplete="off" placeholder="For the confirmation" className="rl-input" value={leadEmail} onChange={(e) => setLeadEmail(e.target.value)} />
         </label>
       </div>
 
@@ -157,7 +178,7 @@ export default function NewBookingForm({
 
       <label className="rl-field">
         <span className="ds-micro rl-field__label">Notes</span>
-        <input name="notes" placeholder="Allergies, a birthday, pick-up from the hotel" maxLength={1000} className="rl-input" />
+        <input name="notes" placeholder="Allergies, a birthday, pick-up from the hotel" maxLength={1000} className="rl-input" value={notes} onChange={(e) => setNotes(e.target.value)} />
       </label>
 
       <label className="rl-switch">
@@ -168,7 +189,7 @@ export default function NewBookingForm({
       <label className="rl-switch">
         <input type="checkbox" name="sendWhatsApp" />
         <span className="ds-body-sm">WhatsApp them their booking and a reminder</span>
-        <span className="ds-micro rl-field__hint">Ask them first. A local number is read as one from your country.</span>
+        <span className="ds-micro rl-field__hint">Ask them first. They get it on the number above.</span>
       </label>
 
       <ActionNotice state={state} />

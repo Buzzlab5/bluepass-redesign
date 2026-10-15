@@ -228,7 +228,6 @@ export default function BookingPanel({
   const problem = useMemo(() => {
     if (!departure || seats === 0) return null;
     if (seats > departure.seatsLeft) return `Only ${departure.seatsLeft} ${departure.seatsLeft === 1 ? "seat" : "seats"} left ${departure.allDay ? "that day" : `at ${formatLocalTime(departure.localTime)}`}.`;
-    if (seats < departure.minGuests) return `This trip runs with ${departure.minGuests} or more.`;
     return null;
   }, [departure, seats]);
 
@@ -472,6 +471,7 @@ export default function BookingPanel({
                 ) : null}
               </div>
               {problem ? <p className="ds-caption bk-warn" role="status">{problem}</p> : null}
+              {!problem && departure && departure.minGuests > 1 ? <p className="ds-caption rl-muted">This trip runs once {departure.minGuests} guests have booked in total.</p> : null}
             </section>
           ) : null}
 

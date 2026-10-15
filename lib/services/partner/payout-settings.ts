@@ -1,3 +1,4 @@
+import "@/lib/validation/zod-messages";
 import { z } from "zod";
 import { prisma } from "@/lib/db/prisma";
 import { encryptCredentials } from "@/lib/services/booking/adapters/credentials";

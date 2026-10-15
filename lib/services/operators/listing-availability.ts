@@ -212,12 +212,11 @@ export type Misses = {
   cutoff: number;
   advance: number;
   full: number;
-  tooFew: number;
   closed: number;
 };
 
 export function emptyMisses(): Misses {
-  return { season: 0, weekday: 0, cutoff: 0, advance: 0, full: 0, tooFew: 0, closed: 0 };
+  return { season: 0, weekday: 0, cutoff: 0, advance: 0, full: 0, closed: 0 };
 }
 
 /**
@@ -250,7 +249,7 @@ export function scheduledDepartures(
   return out.sort((a, b) => a.departsAt.getTime() - b.departsAt.getTime());
 }
 
-export type DepartureBlock = "closed" | "cutoff" | "advance" | "full" | "tooFew";
+export type DepartureBlock = "closed" | "cutoff" | "advance" | "full";
 
 export type DepartureState = {
   scheduleId: string;
@@ -262,6 +261,7 @@ export type DepartureState = {
   ruleCapacity: number;
   taken: number;
   seatsLeft: number;
+  /** Guests the whole departure needs, across every booking, to run. Never a rule about one booking. */
   minGuests: number;
   closed: boolean;
   /** The operator's own calendar shows them busy across this departure. */
@@ -304,7 +304,6 @@ export function evaluateDeparture(
   else if (ctx.busy && !ctx.ignoreWindow) block = "closed";
   else if (!ctx.ignoreWindow && untilDeparture > s.maxAdvanceDays * DAY_MS) block = "advance";
   else if (!ctx.ignoreWindow && untilDeparture < s.cutoffHours * 3_600_000) block = "cutoff";
-  else if (ctx.guests < s.minGuests) block = "tooFew";
   else if (seatsLeft < ctx.guests) block = "full";
 
   return {
@@ -590,8 +589,7 @@ export async function listDepartures(input: {
   to: string;
   /**
    * The party to test each departure against. Left out, each departure is tested
-   * against the smallest party it would run for, which is the question a calendar
-   * asks: "could anyone book this", not "could one person".
+   * against one guest, which is the question a calendar asks: "could anyone book this".
    */
   guests?: number;
   now?: Date;
@@ -639,7 +637,7 @@ export async function listDepartures(input: {
       evaluateDeparture(d, {
         taken: countTaken(holdsAt.get(d.departsAt.getTime()) ?? [], now),
         override: overrideAt.get(d.departsAt.getTime()),
-        guests: guests ?? Math.max(1, d.schedule.minGuests),
+        guests: guests ?? 1,
         now,
         ignoreWindow: input.ignoreWindow,
         busy: overlapsBusy(d.departsAt, busy.durationMinutes, busy.intervals),
@@ -679,10 +677,6 @@ export function refusalReason(
       : "This trip does not run on that day.";
   }
   if (misses.season > 0) return "That date falls outside the season this trip runs.";
-  if (misses.tooFew > 0) {
-    const min = Math.min(...schedules.map((s) => s.minGuests));
-    return `This trip needs at least ${min} guests to run.`;
-  }
   if (misses.advance > 0) return "That date is further ahead than bookings are open for.";
   return "No departures available on that date.";
 }

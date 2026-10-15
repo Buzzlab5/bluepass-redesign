@@ -3,6 +3,7 @@
 import { useActionState, useState } from "react";
 import { updatePayoutDetailsAction, type PartnerSettingsState } from "@/app/partner-portal/actions";
 import Notice from "@/components/auth/Notice";
+import BankDetailsFields from "@/components/payout/BankDetailsFields";
 import Button from "@/components/ui/Button";
 
 const IDLE: PartnerSettingsState = { status: "idle" };
@@ -33,26 +34,7 @@ export default function PartnerPayoutSettings({ hasDetailsOnFile }: { hasDetails
         {state.status === "done" ? <Notice tone="success">{state.message}</Notice> : null}
 
         <section className="adm-form__section">
-          <label className="afield adm-form__row adm-form__row--wide">
-            <span className="afield__top">
-              <span className="ds-micro afield__label">Bank details</span>
-              <span className="ds-micro afield__hint">Encrypted at rest</span>
-            </span>
-            <span className="afield__well">
-              <textarea
-                name="bankDetails"
-                rows={4}
-                disabled={pending}
-                className="afield__input adm-textarea"
-                placeholder={"Account name\nBank name\nAccount number\nBranch / SWIFT"}
-              />
-            </span>
-            <span className="ds-micro adm-form__help">
-              {hasDetailsOnFile
-                ? "Bluepass already holds details for you. They are encrypted and can never be read back out, so this box starts empty. Leave it empty to keep them as they are; anything you type replaces them."
-                : "Nothing is on file yet, so this is required. Paste it exactly as your bank shows it."}
-            </span>
-          </label>
+          <BankDetailsFields hasDetailsOnFile={hasDetailsOnFile} disabled={pending} />
 
           <label className="adm-confirm ds-body-sm">
             <input

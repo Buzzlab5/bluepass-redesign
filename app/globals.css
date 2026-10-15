@@ -5863,6 +5863,15 @@ html.is-scroll-locked body {
   color: var(--color-ink-muted);
   line-height: 1.5;
 }
+/* Bank details: a type picker, then one box per thing the payer needs, filling the card's width. */
+.adm-bank {
+  grid-column: 1 / -1;
+  display: grid;
+  gap: var(--space-md);
+}
+.adm-bank select.afield__input {
+  appearance: auto;
+}
 .adm-textarea {
   resize: vertical;
   min-height: 96px;

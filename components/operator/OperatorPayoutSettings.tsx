@@ -4,6 +4,7 @@ import { useActionState, useState } from "react";
 import Notice from "@/components/auth/Notice";
 import Button from "@/components/ui/Button";
 import Field from "@/components/auth/Field";
+import BankDetailsFields from "@/components/payout/BankDetailsFields";
 import { updatePayoutDetailsAction, type OperatorSettingsState } from "@/app/operator/actions";
 import type { OperatorProfileView } from "@/lib/services/operator/guard";
 
@@ -106,26 +107,7 @@ export default function OperatorPayoutSettings({
 
           <div className="adm-form__grid adm-form__grid--conditional">
             {method === "MANUAL_BANK_TRANSFER" ? (
-              <label className="afield adm-form__row adm-form__row--wide">
-                <span className="afield__top">
-                  <span className="ds-micro afield__label">Bank details</span>
-                  <span className="ds-micro afield__hint">Encrypted at rest</span>
-                </span>
-                <span className="afield__well">
-                  <textarea
-                    name="bankDetails"
-                    rows={4}
-                    disabled={pending}
-                    className="afield__input adm-textarea"
-                    placeholder={"Account name\nBSB / routing\nAccount number\nBank, branch, SWIFT"}
-                  />
-                </span>
-                <span className="ds-micro adm-form__help">
-                  {hasDetailsOnFile
-                    ? "Bluepass already holds details for you. They are encrypted and can never be read back out, so this box starts empty. Leave it empty to keep them as they are; anything you type replaces them."
-                    : "Nothing is on file yet, so this is required. Paste it exactly as your bank shows it."}
-                </span>
-              </label>
+              <BankDetailsFields country={profile.country} hasDetailsOnFile={hasDetailsOnFile} disabled={pending} />
             ) : (
               <div className="adm-form__row adm-form__row--wide">
                 <Field
