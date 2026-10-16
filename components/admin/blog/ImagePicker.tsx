@@ -1,6 +1,7 @@
 "use client";
 
 import { useRef, useState, type DragEvent } from "react";
+import { uploadPhoto } from "@/lib/client/photo-upload";
 
 /**
  * Featured / share image.
@@ -16,12 +17,26 @@ export default function ImagePicker({
   label,
   hint,
   aspect = "16 / 9",
+  endpoint = "/api/admin/blog/upload",
+  spec = "1200 × 630 or larger · JPG, PNG, WebP, AVIF · up to 8MB",
+  accept = "image/jpeg,image/png,image/webp,image/avif,image/gif",
+  allowUrl = true,
+  maxDimension,
 }: {
   value: string;
   onChange: (url: string) => void;
   label: string;
   hint?: string;
   aspect?: string;
+  /** Where the chosen file is posted. The blog editor's admin-only route unless told otherwise. */
+  endpoint?: string;
+  /** The line under the prompt saying what will be accepted. */
+  spec?: string;
+  accept?: string;
+  /** Whether a pasted address is offered as well as a file. */
+  allowUrl?: boolean;
+  /** Shrinks a larger photo in the browser first: a phone photo is often 6 MB for no visible gain. */
+  maxDimension?: number;
 }) {
   const inputRef = useRef<HTMLInputElement>(null);
   const [dragging, setDragging] = useState(false);
@@ -32,14 +47,7 @@ export default function ImagePicker({
     setError(null);
     setUploading(true);
     try {
-      const body = new FormData();
-      body.append("file", file);
-      const response = await fetch("/api/admin/blog/upload", { method: "POST", body });
-      const payload = (await response.json()) as { url?: string; error?: string };
-      if (!response.ok || !payload.url) {
-        throw new Error(payload.error ?? "Upload failed.");
-      }
-      onChange(payload.url);
+      onChange(await uploadPhoto(file, endpoint, maxDimension));
     } catch (cause) {
       setError(cause instanceof Error ? cause.message : "Upload failed.");
     } finally {
@@ -104,14 +112,14 @@ export default function ImagePicker({
           <span className="ds-body-sm bpe-image__prompt">
             {uploading ? "Uploading…" : "Drop an image, or click to choose one"}
           </span>
-          <span className="ds-micro bpe-image__spec">1200 × 630 or larger · JPG, PNG, WebP, AVIF · up to 8MB</span>
+          <span className="ds-micro bpe-image__spec">{spec}</span>
         </div>
       )}
 
       <input
         ref={inputRef}
         type="file"
-        accept="image/jpeg,image/png,image/webp,image/avif,image/gif"
+        accept={accept}
         hidden
         onChange={(event) => {
           const file = event.target.files?.[0];
@@ -120,7 +128,8 @@ export default function ImagePicker({
         }}
       />
 
-      <span className="afield__well bpe-image__url">
+      {allowUrl ? (
+        <span className="afield__well bpe-image__url">
         <input
           className="afield__input"
           value={value}
@@ -128,7 +137,8 @@ export default function ImagePicker({
           placeholder="…or paste an image URL"
           inputMode="url"
         />
-      </span>
+        </span>
+      ) : null}
 
       {error ? (
         <span className="ds-micro bpe-image__error" role="alert">

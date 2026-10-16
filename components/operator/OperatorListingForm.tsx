@@ -3,6 +3,7 @@
 import { useActionState, useState } from "react";
 import Notice from "@/components/auth/Notice";
 import Field from "@/components/auth/Field";
+import ImagePicker from "@/components/admin/blog/ImagePicker";
 import Button from "@/components/ui/Button";
 import {
   createListingAction,
@@ -168,18 +169,20 @@ export default function OperatorListingForm({
             disabled={pending}
           />
         </div>
-        <div className="adm-form__row adm-form__row--wide">
-          <Field
-            label="Photo URL"
-            name="heroImageUrl"
+        <div className="adm-form__row adm-form__row--wide rl-photo">
+          <ImagePicker
+            label="Cover photo"
+            hint="Optional"
             value={values.heroImageUrl}
             onChange={set("heroImageUrl")}
-            inputMode="url"
-            placeholder="operator.com/photo.jpg"
-            hint="Optional"
-            autoComplete="off"
-            disabled={pending}
+            endpoint="/api/operator/listing-image"
+            accept="image/jpeg,image/png,image/webp,image/avif"
+            spec="Landscape works best · JPG, PNG, WebP or AVIF · up to 8 MB"
+            aspect="16 / 9"
+            allowUrl={false}
+            maxDimension={2000}
           />
+          <input type="hidden" name="heroImageUrl" value={values.heroImageUrl} />
         </div>
         <div className="adm-form__row adm-form__row--wide">
           <label className="afield">

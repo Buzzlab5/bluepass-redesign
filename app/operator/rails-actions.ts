@@ -2,6 +2,7 @@
 
 import { randomBytes } from "node:crypto";
 import { revalidatePath } from "next/cache";
+import { isListingImageUrl } from "@/lib/services/storage/listing-images";
 import { redirect } from "next/navigation";
 import { prisma } from "@/lib/db/prisma";
 import { currentOperatorAccess } from "@/lib/services/operator/guard";
@@ -585,4 +586,44 @@ export async function setChannelTripLiveAction(listingId: string, live: boolean,
       ? listing.channelIssue ? "Shown on Bluepass. It starts selling once the issue above is fixed." : "Selling on Bluepass."
       : "Hidden from Bluepass. Nothing changes in your booking system.",
   };
+}
+
+
+/**
+ * Sets or clears a trip's cover photo from its own page. Allowed on a live trip too: a better photo
+ * is not the kind of change the draft-only rule exists to stop. The address must be https, and the
+ * trip must be this operator's.
+ */
+export async function saveTripPhotoAction(listingId: string, url: string | null): Promise<RailsActionState> {
+  const { access, failure } = await operator();
+  if (failure) return failure;
+
+  const listing = await prisma.operatorListing.findUnique({ where: { id: listingId }, select: { operatorProfileId: true } });
+  if (!listing || listing.operatorProfileId !== access.profile.id) return { status: "error", message: "That trip is not one of yours." };
+  if (url && !isListingImageUrl(url)) return { status: "error", message: "That photo was not uploaded here. Choose the file again." };
+
+  await prisma.operatorListing.update({ where: { id: listingId }, data: { heroImageUrl: url || null } });
+  refreshConsole();
+  revalidatePath("/", "layout");
+  return { status: "done", message: url ? "Photo saved." : "Photo removed." };
+}
+
+const MAX_GALLERY_PHOTOS = 12;
+
+/** Replaces a trip's gallery with exactly this list, in this order. Every address must be one of our own uploads. */
+export async function saveTripGalleryAction(listingId: string, urls: string[]): Promise<RailsActionState> {
+  const { access, failure } = await operator();
+  if (failure) return failure;
+
+  const listing = await prisma.operatorListing.findUnique({ where: { id: listingId }, select: { operatorProfileId: true } });
+  if (!listing || listing.operatorProfileId !== access.profile.id) return { status: "error", message: "That trip is not one of yours." };
+
+  const unique = [...new Set(urls)];
+  if (unique.length > MAX_GALLERY_PHOTOS) return { status: "error", message: `A trip can have up to ${MAX_GALLERY_PHOTOS} gallery photos.`, field: "gallery" };
+  if (!unique.every(isListingImageUrl)) return { status: "error", message: "One of those photos was not uploaded here. Choose the file again." };
+
+  await prisma.operatorListing.update({ where: { id: listingId }, data: { galleryUrls: unique } });
+  refreshConsole();
+  revalidatePath("/", "layout");
+  return { status: "done", message: unique.length ? "Gallery saved." : "Gallery cleared." };
 }

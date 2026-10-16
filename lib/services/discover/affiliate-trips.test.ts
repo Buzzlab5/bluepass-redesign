@@ -38,6 +38,7 @@ function listing(overrides: Partial<OperatorListing> = {}) {
     region: "Great Barrier Reef",
     description: "A day on the outer reef.",
     heroImageUrl: null,
+    galleryUrls: [],
     maxGuests: null,
     priceSignal: "From AUD 249",
     priceFrom: 249,
@@ -77,6 +78,12 @@ describe("listingToTrip", () => {
     expect(listingToTrip(listing()).booking).toBeUndefined();
     // A platform the sheet cannot open is treated the same way.
     expect(listingToTrip(listing({ bookingPlatform: "BOKUN", bookingUrl: "https://bokun.io/x" })).booking).toBeUndefined();
+  });
+
+  it("shows the photos the operator uploaded, in order, and none when there are none", () => {
+    expect(listingToTrip(listing()).gallery).toEqual([]);
+    const photos = ["https://x.supabase.co/storage/v1/object/public/operator-listings/a/1.jpg", "https://x.supabase.co/storage/v1/object/public/operator-listings/a/2.jpg"];
+    expect(listingToTrip(listing({ galleryUrls: photos })).gallery).toEqual(photos);
   });
 });
 

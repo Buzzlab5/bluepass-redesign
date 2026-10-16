@@ -556,6 +556,9 @@ model OperatorListing {
   region            String
   description       String
   heroImageUrl      String?
+  // Extra photos the operator uploaded for the trip sheet gallery, in the order shown. Empty for every
+  // listing that existed before this column; the cover above is separate and is not repeated here.
+  galleryUrls       String[]              @default([])
   maxGuests         Int?
   priceSignal       String?
   // Plain decimal amount backing priceSignal's display string (e.g. "From AUD 189" -> 189) - added

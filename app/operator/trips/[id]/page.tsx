@@ -12,6 +12,8 @@ import RailsUnavailable from "@/components/rails/RailsUnavailable";
 import RateEditor from "@/components/rails/RateEditor";
 import ScheduleEditor from "@/components/rails/ScheduleEditor";
 import PublishTripButton from "@/components/operator/PublishTripButton";
+import TripGallery from "@/components/operator/TripGallery";
+import TripPhoto from "@/components/operator/TripPhoto";
 import { prisma } from "@/lib/db/prisma";
 import { fareHarborLinkOf } from "@/lib/services/channels/fareharbor/connect";
 import { fareHarborAffiliate } from "@/lib/services/channels/fareharbor/links";
@@ -175,6 +177,22 @@ export default async function TripSetupPage({ params }: { params: Promise<{ id: 
             blackouts={blackouts.map((b) => ({ id: b.id, startDate: ymd(b.startDate)!, endDate: ymd(b.endDate)!, reason: b.reason }))}
           />
           <BusyCalendarPicker listingId={listing.id} current={listing.busyCalendarId} calendars={calendars} state={calendarState} />
+        </div>
+      </section>
+
+      <section className="adm-block">
+        <header className="adm-block__head">
+          <h2 className="ds-headline adm-block__title">Photos</h2>
+          <p className="ds-caption adm-block__note">The cover is the picture travellers see first, on the trips page and at the top of the booking page. The gallery photos open in the trip&rsquo;s own panel.</p>
+        </header>
+        <div className="rl-photos">
+          <TripPhoto listingId={listing.id} initialUrl={listing.heroImageUrl} />
+          <div className="bpe-image">
+            <div className="afield__top">
+              <span className="ds-micro afield__label">Gallery</span>
+            </div>
+            <TripGallery listingId={listing.id} initialUrls={listing.galleryUrls} />
+          </div>
         </div>
       </section>
 

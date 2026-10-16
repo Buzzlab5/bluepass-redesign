@@ -85,8 +85,8 @@ export function listingToTrip(listing: ListingForTrip, bookUrl?: string): Trip {
     ...(bookUrl ? { bookUrl } : {}),
     img: listing.heroImageUrl || FALLBACK_IMAGE,
     // No stock-photo stand-in here, unlike the 6 curated demo trips (lib/discover.ts) - a real
-    // operator listing with no real gallery photos should show no gallery, not stock ones.
-    gallery: [],
+    // operator listing shows the photos its operator uploaded, and none when there are none.
+    gallery: listing.galleryUrls ?? [],
     summary: listing.description,
     highlights: [],
     itinerary: [],
