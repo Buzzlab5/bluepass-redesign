@@ -14,6 +14,9 @@
  * inventory lands; the sheet reads every field off this file.
  */
 
+/** Shown for a trip whose operator has not uploaded a cover yet, on the trips page and the booking page alike. */
+export const FALLBACK_TRIP_IMAGE = "/great-barrier.jpg";
+
 /** The unfiltered region, used as the label when no region is selected. */
 export const ALL_REGIONS = "All Australia";
 

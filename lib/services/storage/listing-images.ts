@@ -11,7 +11,9 @@ import { randomUUID } from "node:crypto";
  * Runs server-side only; the service role key must never reach the browser.
  */
 const BUCKET = "operator-listings";
-export const MAX_LISTING_IMAGE_BYTES = 8 * 1024 * 1024;
+/* The browser shrinks every photo to under 500 KB first. This is the safety net for a file it could not
+   decode, so it is set above that rather than at it. */
+export const MAX_LISTING_IMAGE_BYTES = 1024 * 1024;
 
 /* Only formats a browser renders inline. SVG is left out on purpose: it can carry script, and these
    files are served from a URL a public page embeds. GIF is left out because a trip cover is a photo. */
@@ -50,7 +52,7 @@ export function isListingImageUrl(value: string): boolean {
 export function listingImageProblem(file: { type: string; size: number }): string | null {
   if (!LISTING_IMAGE_TYPES.includes(file.type)) return "Photos must be JPG, PNG, WebP or AVIF.";
   if (file.size === 0) return "That file is empty.";
-  if (file.size > MAX_LISTING_IMAGE_BYTES) return "That photo is over 8 MB. Choose a smaller one.";
+  if (file.size > MAX_LISTING_IMAGE_BYTES) return "That photo is too large and could not be shrunk here. Save it as a JPG and try again.";
   return null;
 }
 

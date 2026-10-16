@@ -4,6 +4,7 @@ import SiteFooter from "@/components/SiteFooter";
 import BookingPanel from "@/components/rails/BookingPanel";
 import FareHarborPanel from "@/components/rails/FareHarborPanel";
 import { bookableTrip, checkoutFor, openingMonth, tripHeadline } from "@/lib/services/channels/trips";
+import { FALLBACK_TRIP_IMAGE } from "@/lib/discover";
 import { cssImage, describeWeekdays, formatDuration, formatLocalTime } from "@/lib/services/rails/format";
 
 export const dynamic = "force-dynamic";
@@ -62,7 +63,7 @@ export default async function BookPage({ params }: { params: Promise<{ slug: str
   return (
     <>
       <main className="bk theme-light">
-        <header className="bk-hero" style={listing.heroImageUrl ? { backgroundImage: cssImage(listing.heroImageUrl) } : undefined}>
+        <header className="bk-hero" style={{ backgroundImage: cssImage(listing.heroImageUrl || FALLBACK_TRIP_IMAGE) }}>
           <div className="bk-hero__shade" />
           <div className="bk-hero__copy">
             <p className="ds-micro bk-hero__eyebrow">{listing.region} · {trip.operatorName}</p>

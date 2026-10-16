@@ -1,6 +1,6 @@
 import type { OperatorListing } from "@prisma/client";
 import { prisma } from "@/lib/db/prisma";
-import type { Category, Trip } from "@/lib/discover";
+import { FALLBACK_TRIP_IMAGE, type Category, type Trip } from "@/lib/discover";
 import { fareHarborAffiliate } from "@/lib/services/channels/fareharbor/links";
 import { rezdyConfig } from "@/lib/services/channels/rezdy/api";
 
@@ -25,7 +25,7 @@ function mapCategory(raw: string): Category {
 
 // Used only when a listing has no heroImageUrl yet - keeps the card from rendering a broken image
 // while still looking like part of the site, not a stock-photo generic default going elsewhere.
-const FALLBACK_IMAGE = "/great-barrier.jpg";
+const FALLBACK_IMAGE = FALLBACK_TRIP_IMAGE;
 
 /**
  * Real, published operator listings (from Rezdy sync or any future source), shaped into the same

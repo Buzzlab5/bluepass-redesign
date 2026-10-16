@@ -28,10 +28,10 @@ export default function TripPhoto({ listingId, initialUrl }: { listingId: string
         onChange={change}
         endpoint="/api/operator/listing-image"
         accept="image/jpeg,image/png,image/webp,image/avif"
-        spec="Landscape works best · JPG, PNG, WebP or AVIF · up to 8 MB"
+        spec="Any size: shrunk to HD, under 500 KB · JPG, PNG, WebP or AVIF"
         aspect="16 / 9"
         allowUrl={false}
-        maxDimension={2000}
+        compress
       />
       <ActionNotice state={state} />
     </div>

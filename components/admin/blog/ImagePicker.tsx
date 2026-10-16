@@ -21,7 +21,7 @@ export default function ImagePicker({
   spec = "1200 × 630 or larger · JPG, PNG, WebP, AVIF · up to 8MB",
   accept = "image/jpeg,image/png,image/webp,image/avif,image/gif",
   allowUrl = true,
-  maxDimension,
+  compress = false,
 }: {
   value: string;
   onChange: (url: string) => void;
@@ -35,8 +35,8 @@ export default function ImagePicker({
   accept?: string;
   /** Whether a pasted address is offered as well as a file. */
   allowUrl?: boolean;
-  /** Shrinks a larger photo in the browser first: a phone photo is often 6 MB for no visible gain. */
-  maxDimension?: number;
+  /** Shrinks the photo in the browser to HD and under 500 KB before it goes up. */
+  compress?: boolean;
 }) {
   const inputRef = useRef<HTMLInputElement>(null);
   const [dragging, setDragging] = useState(false);
@@ -47,7 +47,7 @@ export default function ImagePicker({
     setError(null);
     setUploading(true);
     try {
-      onChange(await uploadPhoto(file, endpoint, maxDimension));
+      onChange(await uploadPhoto(file, endpoint, compress));
     } catch (cause) {
       setError(cause instanceof Error ? cause.message : "Upload failed.");
     } finally {

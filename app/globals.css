@@ -8727,18 +8727,24 @@ html.is-scroll-locked body {
   display: flex;
   gap: 5px;
 }
+/* Sits on top of a photo, so it carries its own colours rather than the page's: the theme's text colour
+   is dark on the light console, and dark text on a dark chip over a photo is what made these vanish. */
 .bpe-image__action {
-  padding: 5px 11px;
-  border: 1px solid var(--color-hairline);
+  padding: 6px 13px;
+  border: 0;
   border-radius: var(--radius-pill);
-  background: rgba(10, 10, 9, 0.8);
-  color: var(--color-ink);
+  background: rgba(255, 255, 255, 0.94);
+  color: #111111;
   cursor: pointer;
   font-family: var(--font-body);
-  backdrop-filter: blur(8px);
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.35);
 }
 .bpe-image__action:hover {
-  background: var(--color-canvas);
+  background: #ffffff;
+}
+.bpe-image__action:focus-visible {
+  outline: 2px solid #ffffff;
+  outline-offset: 2px;
 }
 .bpe-image__url .afield__input {
   padding: 10px var(--space-sm);

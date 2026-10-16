@@ -3,7 +3,7 @@ import { isListingImageUrl, listingImageProblem } from "@/lib/services/storage/l
 
 describe("listingImageProblem", () => {
   it("accepts a normal photo", () => {
-    expect(listingImageProblem({ type: "image/jpeg", size: 2_000_000 })).toBeNull();
+    expect(listingImageProblem({ type: "image/jpeg", size: 480_000 })).toBeNull();
     expect(listingImageProblem({ type: "image/webp", size: 500 })).toBeNull();
   });
 
@@ -15,7 +15,7 @@ describe("listingImageProblem", () => {
 
   it("refuses an empty or oversized file with a plain reason", () => {
     expect(listingImageProblem({ type: "image/png", size: 0 })).toMatch(/empty/);
-    expect(listingImageProblem({ type: "image/png", size: 9 * 1024 * 1024 })).toMatch(/over 8 MB/);
+    expect(listingImageProblem({ type: "image/png", size: 2 * 1024 * 1024 })).toMatch(/too large/);
   });
 });
 

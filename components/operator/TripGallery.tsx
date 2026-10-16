@@ -38,7 +38,7 @@ export default function TripGallery({ listingId, initialUrls }: { listingId: str
     for (const [index, file] of files.slice(0, room).entries()) {
       setUploading(`Uploading ${index + 1} of ${Math.min(files.length, room)}…`);
       try {
-        uploaded.push(await uploadPhoto(file, ENDPOINT, 2000));
+        uploaded.push(await uploadPhoto(file, ENDPOINT, true));
       } catch (cause) {
         failures.push(`${file.name}: ${cause instanceof Error ? cause.message : "could not be uploaded."}`);
       }
@@ -94,7 +94,7 @@ export default function TripGallery({ listingId, initialUrls }: { listingId: str
             onDrop={onDrop}
           >
             <span className="ds-body-sm">{uploading ?? "+ Add photos"}</span>
-            <span className="ds-micro rl-muted">{urls.length} of {MAX_PHOTOS} · JPG, PNG, WebP or AVIF · up to 8 MB each</span>
+            <span className="ds-micro rl-muted">{urls.length} of {MAX_PHOTOS} · shrunk to HD, under 500 KB</span>
           </button>
         ) : null}
       </div>
