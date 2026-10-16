@@ -66,6 +66,27 @@ body:has(.theme-light) .grain {
 .theme-light a:hover {
   color: var(--color-ink);
 }
+/* ...except where a link is a filled button or the active menu row. Its text is light on a dark fill, and the
+   rule above is more specific than the button's own colour, so on hover the text turned the same near-black
+   as the fill and disappeared. These keep their own text colour while hovered. */
+.theme-light :is(
+  .cshell-side__link.is-active,
+  .rl-btn--primary,
+  .btn--primary,
+  .bk-cta,
+  .bpe__btn--primary,
+  .bpl__new,
+  .bp-blog__cta-btn,
+  .bp-post__cta-btn,
+  .opp-claimhead,
+  .kform__go,
+  .kpay__go
+):hover {
+  color: var(--color-on-primary, #ffffff);
+}
+.theme-light .cshell-side__link.is-active:hover {
+  color: #ffffff;
+}
 .theme-light a:not([class]) {
   color: var(--color-ink);
   text-decoration: underline;
