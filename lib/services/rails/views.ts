@@ -327,15 +327,17 @@ export async function bookingDetail(input: { operatorProfileId: string; referenc
 
 /** The dashboard's one line: what is happening today and what Bluepass owes. */
 export async function operatorRailsSummary(operatorProfileId: string, now = new Date()) {
-  const { today, timezone } = await operatorToday(operatorProfileId, now);
-  const calendar = await operatorCalendar({ operatorProfileId, from: today, to: addDays(today, 6), now });
-  const todayItems = calendar.days[0]?.items ?? [];
-
-  const owed = await prisma.listingBooking.groupBy({
+  const owedRequest = prisma.listingBooking.groupBy({
     by: ["currency"],
     where: { operatorProfileId, status: "CONFIRMED", paymentStatus: "PAID", settledAt: null },
     _sum: { operatorNetCents: true },
   });
+  const { today, timezone } = await operatorToday(operatorProfileId, now);
+  const [calendar, owed] = await Promise.all([
+    operatorCalendar({ operatorProfileId, from: today, to: addDays(today, 6), now }),
+    owedRequest,
+  ]);
+  const todayItems = calendar.days[0]?.items ?? [];
 
   return {
     hasSchedules: calendar.hasSchedules,

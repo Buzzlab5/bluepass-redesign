@@ -33,6 +33,9 @@ export default async function OperatorDashboardPage() {
   /* Independent loads. The listings come from this app's own database and the ledger from Kai
      across the network, so a Kai that is down must not take the rest of the page with it —
      `loadOperatorBookings` captures its own failure rather than throwing. */
+  /* The week's summary does not depend on the rails check, so it starts with everything else and is
+     thrown away if the operator turns out not to be on the rails. One round of waiting, not two. */
+  const summaryRequest = operatorRailsSummary(profile.id).catch(() => null);
   const [listings, bookings, hasDetailsOnFile, rails, prepared] = await Promise.all([
     loadOperatorListings(profile.id),
     loadOperatorBookings(profile),
@@ -40,7 +43,7 @@ export default async function OperatorDashboardPage() {
     railsAccess(profile),
     claimedPreparedPage(account.id),
   ]);
-  const railsSummary = rails.enabled ? await operatorRailsSummary(profile.id) : null;
+  const railsSummary = rails.enabled ? await summaryRequest : null;
 
   /* Stored as `Json?`, so Prisma types it as JsonValue and it has to be narrowed before use. A row
      written by anything other than this form could be any shape at all; treating a non-array as

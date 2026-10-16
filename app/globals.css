@@ -6059,6 +6059,11 @@ html.is-scroll-locked body {
 .adm-block {
   margin-bottom: var(--space-xxl);
 }
+/* A button that belongs to a block, set apart from the heading above it and the list below it. */
+.adm-block__actions {
+  display: flex;
+  margin: var(--space-md) 0;
+}
 /* A heading and its own explanation, stacked — not two things spread apart.
    This was `justify-content: space-between` on a row, which pinned the title left and the note
    right and opened a gap between them that grew with the viewport: the shorter the heading and the

@@ -45,9 +45,11 @@ export default function OperatorListings({
       </header>
 
       {editable && !creating ? (
-        <Button variant="secondary" magnetic={false} onClick={() => setCreating(true)}>
-          + New listing
-        </Button>
+        <div className="adm-block__actions">
+          <Button variant="secondary" magnetic={false} onClick={() => setCreating(true)}>
+            + New listing
+          </Button>
+        </div>
       ) : null}
 
       {creating ? <OperatorListingForm onDone={() => setCreating(false)} /> : null}

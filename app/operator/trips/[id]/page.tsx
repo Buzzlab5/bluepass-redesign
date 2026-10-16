@@ -11,6 +11,7 @@ import LogisticsForm from "@/components/rails/LogisticsForm";
 import RailsUnavailable from "@/components/rails/RailsUnavailable";
 import RateEditor from "@/components/rails/RateEditor";
 import ScheduleEditor from "@/components/rails/ScheduleEditor";
+import PublishTripButton from "@/components/operator/PublishTripButton";
 import { prisma } from "@/lib/db/prisma";
 import { fareHarborLinkOf } from "@/lib/services/channels/fareharbor/connect";
 import { fareHarborAffiliate } from "@/lib/services/channels/fareharbor/links";
@@ -102,19 +103,17 @@ export default async function TripSetupPage({ params }: { params: Promise<{ id: 
       />
 
       {!readiness.bookable ? (
-        <ol className="rl-checklist">
-          {steps.map((s, i) => (
-            <li key={s.label} className={`rl-checklist__step${s.done ? " is-done" : ""}`}>
-              <span className="rl-checklist__mark" aria-hidden>{s.done ? "✓" : i + 1}</span>
-              <span className="ds-body-sm">{s.label}</span>
-            </li>
-          ))}
-          {!readiness.live ? (
-            <li className="rl-checklist__note ds-caption">
-              Publish the listing from your <Link href="/operator">dashboard</Link> when its description is ready.
-            </li>
-          ) : null}
-        </ol>
+        <section className="rl-ready" aria-label="Before this trip can sell">
+          <ol className="rl-ready__steps">
+            {steps.map((s, i) => (
+              <li key={s.label} className={`rl-checklist__step${s.done ? " is-done" : ""}`}>
+                <span className="rl-checklist__mark" aria-hidden>{s.done ? "✓" : i + 1}</span>
+                <span className="ds-body-sm">{s.label}</span>
+              </li>
+            ))}
+          </ol>
+          {!readiness.live ? <PublishTripButton listingId={listing.id} ready={readiness.hasSchedule && readiness.hasPrice} /> : null}
+        </section>
       ) : null}
 
       <section className="adm-block">

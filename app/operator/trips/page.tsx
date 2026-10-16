@@ -22,7 +22,7 @@ function nextStep(r: TripReadiness): { tone: "good" | "warn" | "muted"; label: s
   if (r.bookable) return { tone: "good", label: "Taking bookings", detail: r.hasMeetingPoint ? "Selling on Bluepass and your booking link." : "Selling. Add a meeting point so guests know where to go." };
   if (!r.hasSchedule) return { tone: "warn", label: "Needs a schedule", detail: "Say when it runs and the calendar fills itself in." };
   if (!r.hasPrice) return { tone: "warn", label: "Needs a price", detail: "Add what a seat costs and it can be sold." };
-  return { tone: "muted", label: "Draft", detail: "Ready to sell once you publish it from the dashboard." };
+  return { tone: "muted", label: "Draft", detail: "Add when it runs and a price, then publish it from its page." };
 }
 
 /**
@@ -41,13 +41,18 @@ export default async function TripsPage() {
       <AdminPageHeader
         title="Trips"
         support="Each trip sells itself once it has a schedule and a price, or once it comes in from Rezdy or FareHarbor. The calendar, the booking page and Kai all read from here."
-        aside={<Link href="/operator/connections" className="rl-btn rl-btn--secondary">Rezdy or FareHarbor ›</Link>}
+        aside={
+          <>
+            <Link href="/operator/connections" className="rl-btn rl-btn--secondary">Rezdy or FareHarbor ›</Link>
+            {profile.rezdySupplierId ? null : <Link href="/operator/trips/new" className="rl-btn rl-btn--primary">+ New trip</Link>}
+          </>
+        }
       />
       {trips.length === 0 ? (
         <div className="adm-card adm-empty">
           <p className="ds-body-sm adm-empty__title">No trips yet.</p>
           <p className="ds-body-sm adm-empty__body">
-            On Rezdy or FareHarbor already? <Link href="/operator/connections">Connect it</Link> and your trips come in on their own. Otherwise, create your first listing on the <Link href="/operator">dashboard</Link> and set when it runs and what it costs here.
+            On Rezdy or FareHarbor already? <Link href="/operator/connections">Connect it</Link> and your trips come in on their own. Otherwise, <Link href="/operator/trips/new">create your first trip</Link>, then say when it runs and what it costs.
           </p>
         </div>
       ) : (

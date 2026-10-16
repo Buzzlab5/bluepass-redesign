@@ -46,10 +46,13 @@ const EMPTY: FormValues = {
 export default function OperatorListingForm({
   listing,
   onDone,
+  nextStepIsSetup,
 }: {
   /** Present for edit mode, absent for creating a new draft. */
   listing?: OperatorListingRow;
   onDone: () => void;
+  /** Creating from the Trips page: continue to that trip's schedule and price once it is saved. */
+  nextStepIsSetup?: boolean;
 }) {
   const action = listing ? updateListingAction.bind(null, listing.id) : createListingAction;
   const [state, formAction, pending] = useActionState(action, IDLE);
@@ -89,6 +92,7 @@ export default function OperatorListingForm({
   return (
     <form action={formAction} className="adm-form__section" style={{ marginTop: 16 }}>
       {error ? <Notice tone="error">{error.message}</Notice> : null}
+      {nextStepIsSetup ? <input type="hidden" name="next" value="trip-setup" /> : null}
 
       <div className="adm-form__grid">
         <div className={`adm-form__row adm-form__row--wide ${invalid("title")}`}>

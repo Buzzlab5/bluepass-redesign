@@ -1,17 +1,7 @@
 import type { Metadata } from "next";
-import Script from "next/script";
-import DiscoverState from "@/components/discover/DiscoverState";
-import DiscoverHero from "@/components/discover/DiscoverHero";
-import TrustBanner from "@/components/discover/TrustBanner";
-import RegionRail from "@/components/discover/RegionRail";
-import TripGrid from "@/components/discover/TripGrid";
-import TripSheet from "@/components/discover/TripSheet";
-import HowItWorks from "@/components/discover/HowItWorks";
-import PartnerMarquee from "@/components/discover/PartnerMarquee";
+import DiscoverPageContent from "@/components/discover/DiscoverPageContent";
 import WaitlistGate from "@/components/discover/WaitlistGate";
 import SiteFooter from "@/components/SiteFooter";
-import { trips as curatedTrips } from "@/lib/discover";
-import { fetchSyncedTrips } from "@/lib/services/discover/operator-listings-as-trips";
 
 /* Evaluated server-side, before any trip data is fetched - a plain (non-NEXT_PUBLIC) env var read
    in a Server Component decides whether the real Discover query even runs. Tony, 2026-08-27: trip
@@ -54,37 +44,5 @@ export default async function DiscoverPage() {
     );
   }
 
-  // Real, published operator listings (e.g. from the Rezdy Agent sync) are appended after the
-  // curated 6 rather than replacing them - the page never looks sparse while real inventory is
-  // still trickling in, and the curated trips keep showcasing the design at its best. Fails open:
-  // if the DB read fails for any reason, the curated 6 alone still render.
-  const syncedTrips = await fetchSyncedTrips().catch((error) => {
-    console.error("discover_page.fetch_synced_trips_failed", error);
-    return [];
-  });
-  const trips = [...curatedTrips, ...syncedTrips];
-  const hasFareHarborTrip = trips.some((trip) => trip.booking?.platform === "FAREHARBOR");
-
-  return (
-    <main style={{ background: "var(--color-canvas)", position: "relative" }}>
-      {/* Region, category, shortlist and the open trip are one piece of state —
-          the hero select, the rail and the grid are three views onto it. */}
-      <DiscoverState trips={trips}>
-        <DiscoverHero />
-        <TrustBanner />
-        <RegionRail />
-        <TripGrid />
-        <TripSheet />
-      </DiscoverState>
-      <HowItWorks />
-      <PartnerMarquee />
-      <SiteFooter />
-      {/* FareHarbor's Lightframe: turns their booking links into an overlay on this page, so a
-          traveller books without leaving Bluepass. Their affiliate guide asks for exactly this tag.
-          Only loaded when a FareHarbor trip is listed. */}
-      {hasFareHarborTrip ? (
-        <Script src="https://fareharbor.com/embeds/api/v1/?autolightframe=yes" strategy="lazyOnload" />
-      ) : null}
-    </main>
-  );
+  return <DiscoverPageContent />;
 }

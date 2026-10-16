@@ -1,4 +1,5 @@
 import type { Prisma } from "@prisma/client";
+import { cache } from "react";
 import { headers } from "next/headers";
 import { redirect } from "next/navigation";
 import { prisma } from "@/lib/db/prisma";
@@ -98,7 +99,12 @@ export async function resolveOperatorAccess(accountId: string): Promise<Operator
 }
 
 /** The signed-in visitor's operator access, or why they have none. */
-export async function currentOperatorAccess(): Promise<OperatorAccess> {
+/**
+ * Memoised for the length of one request. The layout, the page and every guard in between all ask
+ * "who is this operator?", and each ask is two round trips to the database (the session, then the
+ * account and its profile). Answered once, a page that used to wait on four of those waits on two.
+ */
+export const currentOperatorAccess = cache(async (): Promise<OperatorAccess> => {
   const traveller = await getCurrentTraveller();
 
   if (!traveller) {
@@ -106,7 +112,7 @@ export async function currentOperatorAccess(): Promise<OperatorAccess> {
   }
 
   return resolveOperatorAccess(traveller.accountId);
-}
+});
 
 /**
  * The gate every operator surface sits behind — the mirror of `requireAdminOrRedirect`.
