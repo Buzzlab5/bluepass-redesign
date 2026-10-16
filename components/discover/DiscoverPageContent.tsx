@@ -18,8 +18,12 @@ import { fetchSyncedTrips } from "@/lib/services/discover/operator-listings-as-t
  * render exactly the same thing: the only difference between them is who is let in. Unlocking the
  * site is then a single switch (`WAITLIST_POPUP_ENABLED` off) and the page the public gets is the one
  * that was already checked at the preview address, not a near copy of it.
+ *
+ * `operatorTripsFirst` is the one deliberate difference: the preview puts the real operator listings
+ * (the ones being tested) ahead of the curated six, so a reviewer sees at once which trips are new.
+ * The public page leaves it off and keeps the curated showcase first.
  */
-export default async function DiscoverPageContent() {
+export default async function DiscoverPageContent({ operatorTripsFirst = false }: { operatorTripsFirst?: boolean }) {
   // Real, published operator listings (e.g. from the Rezdy Agent sync) are appended after the
   // curated 6 rather than replacing them - the page never looks sparse while real inventory is
   // still trickling in, and the curated trips keep showcasing the design at its best. Fails open:
@@ -28,7 +32,7 @@ export default async function DiscoverPageContent() {
     console.error("discover_page.fetch_synced_trips_failed", error);
     return [];
   });
-  const trips = [...curatedTrips, ...syncedTrips];
+  const trips = operatorTripsFirst ? [...syncedTrips, ...curatedTrips] : [...curatedTrips, ...syncedTrips];
   const hasFareHarborTrip = trips.some((trip) => trip.booking?.platform === "FAREHARBOR");
 
   return (

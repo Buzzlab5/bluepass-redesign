@@ -24,5 +24,5 @@ export default async function TripsPreviewPage({ params }: { params: Promise<{ k
   const { key } = await params;
   if (!isPreviewKey(decodeURIComponent(key))) notFound();
 
-  return <DiscoverPageContent />;
+  return <DiscoverPageContent operatorTripsFirst />;
 }
