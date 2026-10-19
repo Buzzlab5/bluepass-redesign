@@ -22,6 +22,9 @@ export const RAILS_SECTIONS: OperatorSection[] = [
   { href: "/operator/connections", label: "Connections", icon: "connections" },
 ];
 
+/** The creators an operator picked to feature their trips, and their creator credit. */
+export const CREATORS_SECTION: OperatorSection = { href: "/operator/creators", label: "Creators", icon: "creators" };
+
 /** Only for an operator whose page Bluepass prepared from their website. */
 export const PREPARED_PAGE_SECTION: OperatorSection = { href: "/operator/your-page", label: "Your page", icon: "page" };
 
@@ -29,6 +32,7 @@ export function operatorSections(railsEnabled: boolean, hasPreparedPage = false)
   return [
     ...OPERATOR_SECTIONS,
     ...(hasPreparedPage ? [PREPARED_PAGE_SECTION] : []),
+    CREATORS_SECTION,
     ...(railsEnabled ? RAILS_SECTIONS : []),
   ];
 }

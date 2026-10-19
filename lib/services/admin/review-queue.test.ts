@@ -30,7 +30,8 @@ afterAll(async () => {
 async function seedAccount(displayName: string) {
   return prisma.bluePassAccount.create({
     data: {
-      email: `${EMAIL_PREFIX}${randomUUID()}@ops.bluepass.co`,
+      // Not @ops.bluepass.co: the queue hides those as unclaimed placeholder accounts.
+      email: `${EMAIL_PREFIX}${randomUUID()}@review.bluepass.test`,
       passwordHash: randomUUID(),
       displayName,
       // BluePassAccount.phone is unique now - every seeded account needs its own; the UUID suffix

@@ -65,3 +65,6 @@ next-env.d.ts
 
 # throwaway client used to typecheck the agents offline
 .agent-typecheck/
+
+# Operator photos uploaded while trying the app locally without Supabase
+/public/dev-uploads/

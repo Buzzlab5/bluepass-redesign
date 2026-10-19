@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { applyPhotoChecks, photoProblem, photoScore, photosOf, type PhotoFinding, type PhotoMeasure } from "@/lib/services/operators/photo-check";
+import { applyPhotoChecks, bestCopies, photoProblem, photoScore, photosOf, samePhoto, type PhotoFinding, type PhotoMeasure } from "@/lib/services/operators/photo-check";
 import type { PreparedOperator } from "@/lib/services/operators/prepared-pages";
 
 const photo: PhotoMeasure = { width: 1920, height: 1080, spread: 52 };
@@ -16,6 +16,11 @@ describe("photoProblem", () => {
     expect(photoProblem("https://x.test/bg.jpg", { width: 4320, height: 1020, spread: 7.2 }, "trip")).toMatch(/plain colour/);
     expect(photoProblem("https://x.test/strip.jpg", { width: 3000, height: 900, spread: 40 }, "trip")).toMatch(/banner/);
     expect(photoProblem("https://x.test/Screenshot-2025-10-07-at-2.46.04-pm.png", { width: 1129, height: 1263, spread: 51 }, "trip")).toBe("a screenshot");
+  });
+
+  it("leaves out a photo too heavy to load quickly on a phone", () => {
+    expect(photoProblem("https://x.test/original.jpg", { width: 6000, height: 4000, spread: 50, bytes: 14 * 1024 * 1024 }, "trip")).toMatch(/too heavy/);
+    expect(photoProblem("https://x.test/web.jpg", { width: 1600, height: 1067, spread: 50, bytes: 420 * 1024 }, "trip")).toBeNull();
   });
 
   it("keeps a photo the site would not let the checker fetch, for a person to judge", () => {
@@ -77,5 +82,46 @@ describe("leading with the best photo", () => {
       "https://reef.test/big.jpg", "https://reef.test/portrait.jpg", "https://reef.test/small.jpg", "https://reef.test/guarded.jpg",
     ]);
     expect(photoScore("blocked")).toBe(0);
+  });
+});
+
+describe("one photo at several addresses", () => {
+  it("treats fingerprints a few points apart as the same photo", () => {
+    expect(samePhoto("f0f0f0f0f0f0f0f0", "f0f0f0f0f0f0f0f0")).toBe(true);
+    expect(samePhoto("f0f0f0f0f0f0f0f0", "f0f0f0f0f0f0f0f3")).toBe(true);
+    expect(samePhoto("f0f0f0f0f0f0f0f0", "0f0f0f0f0f0f0f0f")).toBe(false);
+    expect(samePhoto(undefined, "f0f0f0f0f0f0f0f0")).toBe(false);
+  });
+
+  it("swaps every copy for the biggest one that passes, and shows it once", () => {
+    const measured = new Map<string, PhotoFinding>([
+      ["https://reef.test/shark-1024x683.jpg", { width: 1024, height: 683, spread: 50, print: "a1b2c3d4e5f60718" }],
+      ["https://reef.test/shark.jpg", { width: 2400, height: 1600, spread: 50, print: "a1b2c3d4e5f60719" }],
+      // The original upload is too heavy to send to a phone, so a passing copy wins.
+      ["https://reef.test/shark-original.jpg", { width: 6000, height: 4000, spread: 50, bytes: 14 * 1024 * 1024, print: "a1b2c3d4e5f60718" }],
+      ["https://reef.test/turtle.jpg", { width: 1600, height: 1067, spread: 48, print: "0f1e2d3c4b5a6978" }],
+    ]);
+    expect(bestCopies([...measured.keys()], measured).get("https://reef.test/shark-1024x683.jpg")).toBe("https://reef.test/shark.jpg");
+    const op: PreparedOperator = {
+      slug: "reef-co", name: "Reef Co", website: "https://reef.test", summary: "Small reef trips.",
+      heroImage: "https://reef.test/shark-1024x683.jpg",
+      gallery: ["https://reef.test/shark-1024x683.jpg", "https://reef.test/turtle.jpg", "https://reef.test/shark-original.jpg"],
+      trips: [
+        { title: "Shark dive", sourceUrl: "https://reef.test/sharks", summary: "Sharks.", images: ["https://reef.test/shark-1024x683.jpg", "https://reef.test/shark.jpg"] },
+      ],
+    } as PreparedOperator;
+    const checked = applyPhotoChecks(op, measured);
+    expect(checked.heroImage).toBe("https://reef.test/shark.jpg");
+    expect(checked.gallery).toEqual(["https://reef.test/shark.jpg", "https://reef.test/turtle.jpg"]);
+    expect(checked.trips[0].images).toEqual(["https://reef.test/shark.jpg"]);
+  });
+});
+
+describe("quick to load", () => {
+  it("puts a light photo before a heavy original of the same size", () => {
+    const light = photoScore({ width: 2560, height: 1700, spread: 50, bytes: 360 * 1024 });
+    const heavy = photoScore({ width: 8192, height: 5464, spread: 50, bytes: 3.5 * 1024 * 1024 });
+    expect(light).toBeGreaterThan(heavy);
+    expect(heavy).toBeGreaterThan(0);
   });
 });

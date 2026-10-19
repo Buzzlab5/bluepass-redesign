@@ -110,7 +110,7 @@ function TripFacts({ t, website, edits }: { t: PreparedTrip; website: PreparedTr
       <Row label="Booking links" was={was("bookingLinks")}>{t.bookingLinks?.length ? t.bookingLinks.map((l) => <a key={l} href={l} target="_blank" rel="noreferrer" style={{ display: "block", wordBreak: "break-all" }}>{l}</a>) : null}</Row>
       <Row label="Photos"><Thumbs urls={t.images} /></Row>
       <Row label="Left out">{t.photosLeftOut?.length ? <LeftOut photos={t.photosLeftOut} /> : null}</Row>
-      <Row label="Not measured">{t.photosUnmeasured?.length ? `The site turns away automated checks, so ${t.photosUnmeasured.length === 1 ? "this photo was" : `these ${t.photosUnmeasured.length} photos were`} kept without measuring. Judge ${t.photosUnmeasured.length === 1 ? "it" : "them"} by eye above.` : null}</Row>
+      <Row label="Not measured">{t.photosUnmeasured?.length ? `The site turns away automated checks, so ${t.photosUnmeasured.length === 1 ? "this photo was" : `these ${t.photosUnmeasured.length} photos were`} kept without measuring. Judge ${t.photosUnmeasured.length === 1 ? "it" : "them"} by eye above. A photo that does not show is one their site will not send to other pages either, so travellers will not see it; the page hides it.` : null}</Row>
     </dl>
   );
 }
@@ -156,7 +156,33 @@ export default async function CheckPreparedPage({ params }: { params: Promise<{ 
             <Row label="Contact" was={loaded.edits?.contact ? [loaded.website.contact?.phone, loaded.website.contact?.email, loaded.website.contact?.address].filter(Boolean).join(" · ") : null}>{[page.contact?.phone, page.contact?.email, page.contact?.address].filter(Boolean).join(" · ") || null}</Row>
             <Row label="Rezdy">{page.rezdyAlias ? `${page.rezdyAlias}.rezdy.com` : null}</Row>
             <Row label="Offers">{page.offers?.length ? page.offers.map((o) => `${o.text}${o.conditions ? ` (${o.conditions})` : ""}`).join(" · ") : null}</Row>
+            <Row label="Logo">{page.logo ? <Thumbs urls={[page.logo]} /> : <span style={{ color: "var(--color-gradient-orange)" }}>No logo found</span>}</Row>
             <Row label="Hero photo"><Thumbs urls={page.heroImage ? [page.heroImage] : []} /></Row>
+            <Row label="Gallery">{page.gallery?.length ? <Thumbs urls={page.gallery} /> : null}</Row>
+            <Row label="Videos">
+              {page.videos?.length
+                ? page.videos.map((v) => <a key={v.url} href={v.url} target="_blank" rel="noreferrer" style={{ display: "block" }}>{v.title || v.url} ↗</a>)
+                : <span style={{ color: "var(--color-ink-muted)" }}>None found on their site</span>}
+            </Row>
+            <Row label="Videos left out">
+              {page.videosLeftOut?.length
+                ? page.videosLeftOut.map((v) => <span key={v.url} style={{ display: "block" }}><a href={v.url} target="_blank" rel="noreferrer">{v.url}</a> · {v.reason}</span>)
+                : null}
+            </Row>
+            <Row label="Added by the operator">
+              {loaded.own && (loaded.own.logo || loaded.own.gallery?.length || Object.keys(loaded.own.trips ?? {}).length || loaded.own.videos?.length) ? (
+                <>
+                  <span style={{ display: "block", marginBottom: 8 }}>
+                    {[
+                      loaded.own.logo ? "their logo" : null,
+                      `${(loaded.own.gallery?.length ?? 0) + Object.values(loaded.own.trips ?? {}).flat().length} photos`,
+                      loaded.own.videos?.length ? `${loaded.own.videos.length} ${loaded.own.videos.length === 1 ? "video" : "videos"}` : null,
+                    ].filter(Boolean).join(" · ")}. Shown straight away: they chose to publish them.
+                  </span>
+                  <Thumbs urls={[...(loaded.own.logo ? [loaded.own.logo.url] : []), ...(loaded.own.gallery ?? []), ...Object.values(loaded.own.trips ?? {}).flat()]} />
+                </>
+              ) : null}
+            </Row>
             <Row label="Photo approval">
               {loaded.photos.approvedAt
                 ? `${loaded.photos.approvedBy ?? "The operator"} approved ${loaded.photos.approved.length} on ${loaded.photos.approvedAt.toLocaleDateString("en-AU", { day: "numeric", month: "short", year: "numeric" })}. Travellers see only those.`

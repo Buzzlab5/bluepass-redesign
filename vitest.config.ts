@@ -1,3 +1,4 @@
+import { fileURLToPath } from "node:url";
 import { defineConfig } from "vitest/config";
 
 /**
@@ -23,6 +24,9 @@ export default defineConfig({
       "lib/services/rails/**",
       "lib/services/channels/**",
       "lib/services/operators/prepared-*.test.ts",
+      "lib/services/operators/own-media.test.ts",
+      "lib/services/onboarding/**",
+      "lib/services/outreach/**",
     ],
     /**
      * Test files run one at a time.
@@ -43,7 +47,8 @@ export default defineConfig({
   },
   resolve: {
     alias: {
-      "@": new URL(".", import.meta.url).pathname,
+      // fileURLToPath, not .pathname: a checkout path with a space would otherwise arrive as %20.
+      "@": fileURLToPath(new URL(".", import.meta.url)),
     },
   },
 });

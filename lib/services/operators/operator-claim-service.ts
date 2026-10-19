@@ -1,6 +1,7 @@
 import { BluePassAccountRole } from "@prisma/client";
 import { z } from "zod";
 import { prisma } from "@/lib/db/prisma";
+import { stopOutreachQuietly } from "@/lib/services/outreach/stop";
 import {
   getClaimableOperator,
   getClaimableOperatorBackHref,
@@ -240,6 +241,10 @@ async function syncOperatorLeadClaimStatus(input: {
       message: input.message,
     },
   });
+  // They have answered the only thing the cold emails ask, so the follow-ups stop here.
+  if (input.status !== "DECLINED") {
+    await stopOutreachQuietly({ operatorSlug: input.operatorSlug }, input.status === "APPROVED" ? "claimed their page" : "submitted a claim");
+  }
 }
 
 async function createOperatorReferralPartner(input: {

@@ -251,7 +251,9 @@ Rules you cannot bend:
   budget: { maxRunsPerDay: 100, maxTokensPerRun: 8000, maxIterations: 12 },
   buildTask: async (payload, ctx: RunContext) => {
     const leadId = (payload.entityId as string) ?? (payload.leadId as string | undefined);
-    const message = typeof payload.message === "string" ? payload.message : null;
+    // emitDomainEvent carries the reply inside metadata; a manual run may pass it at the top.
+    const meta = (payload.metadata ?? {}) as Record<string, unknown>;
+    const message = typeof payload.message === "string" ? payload.message : typeof meta.message === "string" ? meta.message : null;
     if (!leadId) return { skip: "no lead id on the trigger" };
     if (!message) return { skip: "no reply text on the trigger" };
 

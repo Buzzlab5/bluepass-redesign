@@ -2,12 +2,39 @@ import Link from "next/link";
 import AdminPageHeader from "@/components/admin/AdminPageHeader";
 import BookingChooser from "@/components/operator/BookingChooser";
 import FactEditor from "@/components/admin/FactEditor";
+import OwnMediaEditor, { type OwnMediaProps } from "@/components/operator/OwnMediaEditor";
 import PhotoChooser from "@/components/operator/PhotoChooser";
 import { pageEditor, tripEditor } from "@/components/operators/editorFields";
-import { chooseBookingAction, choosePhotosAction, correctPageAction, correctTripAction } from "@/app/operator/your-page/actions";
+import { addVideoAction, chooseBookingAction, choosePhotosAction, correctPageAction, correctTripAction, leadPhotoAction, removeOwnAction } from "@/app/operator/your-page/actions";
 import { requireOperatorOrRedirect } from "@/lib/services/operator/guard";
 import { preparedBookingFor } from "@/lib/services/operators/prepared-booking";
-import { claimedPreparedPage, loadPreparedPage } from "@/lib/services/operators/prepared-pages";
+import { claimedPreparedPage, loadPreparedPage, mediaCoverage, type LoadedPage } from "@/lib/services/operators/prepared-pages";
+
+/**
+ * What the operator can add, and what their page lacks. A site that turns away other pages'
+ * requests for its photos leaves the page with none; only the operator can fill that.
+ */
+function ownMediaFor(loaded: LoadedPage): OwnMediaProps {
+  const own = loaded.own ?? {};
+  const found = mediaCoverage(loaded.website, loaded.trips.map((t) => ({ trip: t.website })));
+  const needs: string[] = [];
+  if (found.status === "blocked" && !(own.gallery ?? []).length) {
+    needs.push("Photos. Your website does not let other sites show its photos, so travellers see none yet. Add a few of your own.");
+  }
+  if (!loaded.page.logo) needs.push("Your logo. We could not find a logo file on your website.");
+  const thin = loaded.trips.filter((t) => (t.trip.images?.length ?? 0) < 3);
+  if (thin.length && found.status !== "blocked") {
+    needs.push(`More photos for ${thin.length === 1 ? thin[0].trip.title : `${thin.length} trips`}. A trip looks its best with three or more.`);
+  }
+  return {
+    logo: { url: loaded.page.logo ?? null, own: Boolean(own.logo), light: Boolean(loaded.page.logoLight) },
+    hero: loaded.page.heroImage ?? null,
+    gallery: own.gallery ?? [],
+    trips: loaded.trips.map((t) => ({ id: t.id, title: t.trip.title, photos: t.trip.images?.length ?? 0, own: own.trips?.[t.id] ?? [] })),
+    videos: (own.videos ?? []).map((v) => ({ url: v.url, title: v.title ?? null })),
+    needs,
+  };
+}
 
 export const metadata = { title: "Your page · Bluepass" };
 
@@ -44,7 +71,7 @@ export default async function OperatorPagePhotos({ searchParams }: { searchParam
 
       <section className="adm-block">
         <header className="adm-block__head">
-          <h2 className="ds-headline adm-block__title">Photos</h2>
+          <h2 className="ds-headline adm-block__title">Photos from your website</h2>
         </header>
         {!claimed.claimApproved ? (
           <p className="ds-body adm-card" style={{ padding: 20 }}>Your claim is still being checked. You can choose photos as soon as it is approved.</p>
@@ -57,6 +84,18 @@ export default async function OperatorPagePhotos({ searchParams }: { searchParam
           </>
         )}
       </section>
+
+      {loaded ? (
+        <section className="adm-block" id="your-media">
+          <header className="adm-block__head">
+            <h2 className="ds-headline adm-block__title">Add your own</h2>
+          </header>
+          <p className="ds-body-sm" style={{ color: "var(--color-ink-muted)", margin: "0 0 12px" }}>
+            Your logo, photos and videos. They show on your page straight away, ahead of what we found on your website.
+          </p>
+          <OwnMediaEditor media={ownMediaFor(loaded)} actions={{ addVideo: addVideoAction, remove: removeOwnAction, lead: leadPhotoAction }} />
+        </section>
+      ) : null}
 
       {loaded ? (
         <section className="adm-block">

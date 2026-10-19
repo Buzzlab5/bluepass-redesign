@@ -70,6 +70,20 @@ export const ADMIN_SECTIONS: AdminSection[] = [
     blurb: "Operator pages prepared from operators' own websites, checked fact by fact before anything is shown.",
   },
   {
+    href: "/admin/creators",
+    group: "Menu",
+    icon: "creators",
+    label: "Creators",
+    blurb: "Creators operators picked when they joined: who still needs an invite, and posts an operator questioned.",
+  },
+  {
+    href: "/admin/outreach",
+    group: "Menu",
+    icon: "outreach",
+    label: "Outreach",
+    blurb: "Cold email to operators and creators through Instantly: who is in a sequence, replies waiting for a person, and the next batch.",
+  },
+  {
     href: "/admin/channels",
     group: "Menu",
     icon: "channels",

@@ -2,6 +2,7 @@ import "@/lib/validation/zod-messages";
 import type { OperatorLeadStatus } from "@prisma/client";
 import { z } from "zod";
 import { prisma } from "@/lib/db/prisma";
+import { stopOutreachQuietly } from "@/lib/services/outreach/stop";
 
 /**
  * The admin side of an operator lead: what the outreach desk sees on one lead, and the two things it
@@ -144,7 +145,21 @@ export async function updateLeadStatus(input: UpdateLeadStatusInput): Promise<Le
     }),
   ]);
 
+  // A person has the conversation now, so the automatic emails step back.
+  if (PERSON_HAS_IT.includes(status)) {
+    await stopOutreachQuietly({ operatorLeadId: lead.id }, `moved to ${BD_STATUS_LABELS[status]} by ${input.actorEmail}`);
+  }
+  if (status === "DECLINED") await suppressLeadEmail(lead.id, `declined in the CRM by ${input.actorEmail}`);
+
   return { ok: true };
+}
+
+const PERSON_HAS_IT: string[] = ["IN_DISCUSSION", "APPROVED", "LIVE", "DECLINED", "MANUAL_REVIEW"];
+
+async function suppressLeadEmail(leadId: string, reason: string) {
+  const email = (await prisma.operatorLead.findUnique({ where: { id: leadId }, select: { email: true } }))?.email?.trim().toLowerCase();
+  if (!email) return;
+  await prisma.outreachSuppression.upsert({ where: { email }, create: { email, reason, source: "crm" }, update: {} });
 }
 
 const noteSchema = z.object({
@@ -219,6 +234,7 @@ export async function markLeadSigned(input: {
       },
     }),
   ]);
+  await stopOutreachQuietly({ operatorLeadId: lead.id }, "signed as an operator");
 
   return { ok: true };
 }

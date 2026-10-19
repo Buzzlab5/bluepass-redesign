@@ -6,6 +6,7 @@ import { currentPartnerAccess } from "@/lib/services/partner/guard";
 import { createPartnerPayoutRequest } from "@/lib/services/partner/payout-requests";
 import { updatePartnerPayoutDetails } from "@/lib/services/partner/payout-settings";
 import { updatePartnerProfileDetails } from "@/lib/services/partner/profile-settings";
+import { markFeatured, respondToPick } from "@/lib/services/onboarding/creator-campaigns";
 
 export type PartnerSettingsState =
   | { status: "idle" }
@@ -178,4 +179,26 @@ export async function requestPayoutAction(
   revalidatePath("/admin/payouts");
 
   return { status: "done", message: "Payout requested. Bluepass will be in touch once it's sent." };
+}
+
+export type CreatorRequestState = { status: "idle" } | { status: "done" | "error"; message: string };
+
+/** A creator answering an operator's pick. The creator comes from the session, never the form. */
+export async function respondToPickAction(campaignId: string, accept: boolean): Promise<CreatorRequestState> {
+  const access = await currentPartnerAccess();
+  if (!access.ok) return { status: "error", message: "Your session has expired. Sign in again and retry." };
+  const result = await respondToPick({ partnerProfileId: access.profile.id, campaignId, accept });
+  if (!result.ok) return { status: "error", message: result.message };
+  revalidatePath("/partner-portal");
+  return { status: "done", message: accept ? "Accepted. Your link is ready below." : "Declined. Thanks for letting them know." };
+}
+
+/** A creator sharing the post that features the operator. */
+export async function markFeaturedAction(campaignId: string, _prev: CreatorRequestState, form: FormData): Promise<CreatorRequestState> {
+  const access = await currentPartnerAccess();
+  if (!access.ok) return { status: "error", message: "Your session has expired. Sign in again and retry." };
+  const result = await markFeatured({ partnerProfileId: access.profile.id, campaignId, postUrl: String(form.get("postUrl") ?? "") });
+  if (!result.ok) return { status: "error", message: result.message };
+  revalidatePath("/partner-portal");
+  return { status: "done", message: "Thanks. Your share is paid once the operator's week to check it has passed." };
 }
