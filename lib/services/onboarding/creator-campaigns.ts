@@ -64,8 +64,14 @@ async function operatorContext(accountId: string): Promise<{ name: string; path:
 }
 
 async function isApprovedOperator(accountId: string) {
-  const profile = await prisma.operatorProfile.findUnique({ where: { accountId }, select: { status: true } });
-  return profile?.status === "APPROVED" || profile?.status === "LIVE";
+  const profile = await prisma.operatorProfile.findUnique({ where: { accountId }, select: { status: true, country: true } });
+  // The credit is in Australian dollars and the creators are Australian, so it is Australia's for now.
+  return (profile?.status === "APPROVED" || profile?.status === "LIVE") && creatorCreditCountry(profile.country);
+}
+
+/** Creator credit and the creator directory are Australian; an operator with no country is an Australian one from before countries. */
+export function creatorCreditCountry(country: string | null | undefined) {
+  return !country || country.toUpperCase() === "AU";
 }
 
 function handleFrom(url: string | null | undefined) {

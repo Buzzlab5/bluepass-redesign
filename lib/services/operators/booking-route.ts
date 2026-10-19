@@ -9,7 +9,7 @@ import type { PreparedOperator, PreparedTrip } from "@/lib/services/operators/pr
  */
 export type BookingRoute =
   | { kind: "online"; url: string }
-  | { kind: "enquire"; url: string; email: string | null; phone: string | null };
+  | { kind: "enquire"; url: string; email: string | null; phone: string | null; whatsapp: string | null };
 
 function https(url: string | null | undefined): string | null {
   if (!url) return null;
@@ -19,6 +19,14 @@ function https(url: string | null | undefined): string | null {
   } catch {
     return null;
   }
+}
+
+/** A WhatsApp chat link from what the operator publishes: a wa.me link or the number itself. */
+export function whatsappLink(value: string | null | undefined): string | null {
+  const raw = value?.trim();
+  if (!raw) return null;
+  const digits = (raw.match(/wa\.me\/(\+?\d+)/i)?.[1] ?? raw).replace(/\D/g, "");
+  return digits.length >= 8 ? `https://wa.me/${digits}` : null;
 }
 
 export function bookingRoute(trip: PreparedTrip, page: Pick<PreparedOperator, "website" | "contact">): BookingRoute {
@@ -31,5 +39,7 @@ export function bookingRoute(trip: PreparedTrip, page: Pick<PreparedOperator, "w
     url: https(trip.sourceUrl) ?? https(page.website) ?? (email ? `mailto:${email}` : "#"),
     email,
     phone: page.contact?.phone?.trim() || null,
+    // Many Barbados operators take bookings this way; only a number they publish themselves.
+    whatsapp: whatsappLink(page.contact?.whatsapp),
   };
 }

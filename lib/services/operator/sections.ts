@@ -28,11 +28,11 @@ export const CREATORS_SECTION: OperatorSection = { href: "/operator/creators", l
 /** Only for an operator whose page Bluepass prepared from their website. */
 export const PREPARED_PAGE_SECTION: OperatorSection = { href: "/operator/your-page", label: "Your page", icon: "page" };
 
-export function operatorSections(railsEnabled: boolean, hasPreparedPage = false): OperatorSection[] {
+export function operatorSections(railsEnabled: boolean, hasPreparedPage = false, creators = true): OperatorSection[] {
   return [
     ...OPERATOR_SECTIONS,
     ...(hasPreparedPage ? [PREPARED_PAGE_SECTION] : []),
-    CREATORS_SECTION,
+    ...(creators ? [CREATORS_SECTION] : []),
     ...(railsEnabled ? RAILS_SECTIONS : []),
   ];
 }

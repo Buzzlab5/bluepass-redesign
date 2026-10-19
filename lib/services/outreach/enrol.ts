@@ -112,7 +112,8 @@ export async function operatorCandidates(limit: number, opts: { mx?: MxCheck; on
     select: { id: true, slug: true, name: true, email: true, region: true, source: true, websiteUrl: true },
     orderBy: { createdAt: "asc" },
   });
-  const au = leads.filter((l) => AU_SOURCES.has(l.source) || AU_STATE.test(l.region ?? ""));
+  // Australia only: the Barbados pilot is introduced in person, not by cold email.
+  const au = leads.filter((l) => l.source !== "barbados" && !/barbados/i.test(l.region ?? "") && (AU_SOURCES.has(l.source) || AU_STATE.test(l.region ?? "")));
   const pages = new Set((await prisma.preparedOperatorPage.findMany({ where: { qcStatus: "approved" }, select: { slug: true } })).map((p) => p.slug));
   au.sort((a, b) => Number(pages.has(b.slug)) - Number(pages.has(a.slug)));
   await warmMx(au.slice(0, limit * 3).map((l) => l.email), opts.mx ?? defaultMx);

@@ -100,6 +100,7 @@ export const OUTREACH_SOURCE_OPTIONS: { key: string; label: string; sources?: st
   { key: "rezdy", label: "AU · Rezdy", sources: ["rezdy-scrape"] },
   { key: "fareharbor", label: "AU · FareHarbor", sources: ["fareharbor-scrape"] },
   { key: "indonesia", label: "Indonesia", sources: ["csv"] },
+  { key: "barbados", label: "Barbados", sources: ["barbados"] },
 ];
 
 export async function loadOperatorOutreachList({

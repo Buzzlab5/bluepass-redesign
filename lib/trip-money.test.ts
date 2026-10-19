@@ -11,6 +11,7 @@ describe("tripMoney", () => {
     expect(tripMoney(95, "USD")).toBe("US$95");
     expect(tripMoney(1500000, "IDR")).toBe("Rp 1,500,000");
     expect(tripMoney(80, "EUR")).toBe("€80");
-    expect(tripMoney(10, "bbd")).toBe("BBD 10");
+    expect(tripMoney(10, "bbd")).toBe("BDS$10");
+    expect(tripMoney(10, "xpf")).toBe("XPF 10");
   });
 });
