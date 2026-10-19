@@ -9,6 +9,7 @@ import SiteFooter from "@/components/SiteFooter";
 import { getCurrentTraveller } from "@/lib/services/auth/session";
 import { resolveOperatorClaimToken } from "@/lib/services/operators/operator-claim-tokens";
 import { reviewForClaim } from "@/lib/services/operators/prepared-claim";
+import { mediaCoverage } from "@/lib/services/operators/prepared-pages";
 
 export const dynamic = "force-dynamic";
 
@@ -69,7 +70,9 @@ export default async function ClaimVerifyPage({
     const links: PageLinks = { page: base, trip: (tripSlug) => `${base}&trip=${encodeURIComponent(tripSlug)}` };
     const site = review.page.page.website.replace(/^https?:\/\//, "").replace(/^www\./, "").replace(/\/.*$/, "");
     const problem = error ? CLAIM_PROBLEMS[error] ?? CLAIM_PROBLEMS.failed : null;
-    const bar = <ClaimBar token={token} name={review.name} site={site} error={problem} />;
+    // A site that will not let its photos be shown elsewhere leaves the page bare; say why, and what fixes it.
+    const bare = mediaCoverage(review.page.website, review.page.trips.map((t) => ({ trip: t.website }))).status === "blocked";
+    const bar = <ClaimBar token={token} name={review.name} site={site} error={problem} bare={bare} />;
     const onTrip = trip && review.page.trips.some((t) => t.slug === trip);
     return (
       <div className="opp--claim">

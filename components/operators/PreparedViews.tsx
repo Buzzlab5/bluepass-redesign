@@ -1,10 +1,13 @@
 import Link from "next/link";
 import type { ReactNode } from "react";
-import Contours from "@/components/operators/Contours";
 import OpIcon from "@/components/operators/OpIcon";
+import PhotoGallery from "@/components/operators/PhotoGallery";
+import { HeroPhoto, LogoTile } from "@/components/operators/LinkedPhoto";
 import TripGrid, { type TripCardData } from "@/components/operators/TripGrid";
+import VideoGrid from "@/components/operators/VideoGrid";
+import { bookingRoute } from "@/lib/services/operators/booking-route";
+import { playableVideos } from "@/lib/services/operators/videos";
 import type { LoadedPage, PreparedTrip } from "@/lib/services/operators/prepared-pages";
-import { cssImage } from "@/lib/services/rails/format";
 
 /**
  * The public face of a prepared operator page: who they are and every trip they run, in
@@ -77,6 +80,10 @@ function bookLabel(name: string) {
   return name.length <= 20 ? `Book with ${name}` : "Book on their website";
 }
 
+function enquireLabel(name: string) {
+  return name.length <= 17 ? `Enquire with ${name}` : "Enquire on their website";
+}
+
 function siteName(url: string) {
   return url.replace(/^https?:\/\//, "").replace(/^www\./, "").replace(/\/.*$/, "");
 }
@@ -102,8 +109,8 @@ export function PreviewBanner({ data, status, travellerView, here }: { data: Loa
         {status === "approved" ? "This is approved; travellers see only its approved trips." : "Travellers can’t see this until it’s approved."}{" "}
         {travellerView
           ? data.photos.approvedAt
-            ? `Showing the ${approved} ${approved === 1 ? "photo" : "photos"} the operator approved, as travellers see them.`
-            : "Showing it as travellers see it: no photos until the operator approves them."
+            ? `Showing the ${approved} ${approved === 1 ? "photo" : "photos"} the operator approved${data.own ? ", and any they added," : ""} as travellers see them.`
+            : "Showing it as travellers see it: only the photos the operator approved or added."
           : "Every photo shows here for checking."}
       </span>
       <span className="opp-preview__links">
@@ -129,9 +136,14 @@ function Unconfirmed({ data }: { data: LoadedPage }) {
   );
 }
 
-function cardsFor(trips: Trip[], preview: boolean, links: PageLinks): TripCardData[] {
+function cardsFor(trips: Trip[], preview: boolean, links: PageLinks, shownAbove: (string | null)[] = []): TripCardData[] {
+  // Trips often share their lead photo; each card takes the first of its photos not already on screen.
+  const used = new Set(shownAbove.filter((u): u is string => Boolean(u)));
   return trips.map((t) => {
     const price = priceOf(t);
+    const images = t.trip.images ?? [];
+    const image = images.find((url) => !used.has(url)) ?? images[0] ?? null;
+    if (image) used.add(image);
     return {
       href: links.trip(t.slug),
       title: t.trip.title,
@@ -141,9 +153,9 @@ function cardsFor(trips: Trip[], preview: boolean, links: PageLinks): TripCardDa
       meta: [t.trip.duration, t.trip.season].filter(Boolean).join(" · ") || null,
       price: price ? money(price.amount, price.currency) : null,
       per: price?.per ?? null,
-      image: t.trip.images?.[0] ?? null,
+      image,
       excerpt: firstSentences(t.trip.summary, 140),
-      chip: t.bookable ? "Book now" : t.trip.offer ? "Offer" : null,
+      chip: t.bookable ? "Book now" : t.trip.offer ? "Offer" : t.trip.bookingLinks?.length ? null : "On enquiry",
       check: preview && t.check.status !== "approved" ? (t.check.status === "needs_fix" ? "Needs a fix" : "Not yet approved") : null,
     };
   });
@@ -151,7 +163,11 @@ function cardsFor(trips: Trip[], preview: boolean, links: PageLinks): TripCardDa
 
 /** The cheapest From price across the trips, in the currency most of them use. */
 function lowestPrice(trips: Trip[]) {
-  const prices = trips.map(priceOf).filter((p): p is NonNullable<ReturnType<typeof priceOf>> => Boolean(p));
+  // A private charter's whole-boat price is not where a traveller starts; it counts only for an
+  // operator that runs nothing but charters. With shared trips and none priced, there is no From.
+  const isCharter = (t: Trip) => t.trip.kind === "charter" || /\bprivate\b|\bcharters?\b/i.test(t.trip.title);
+  const shared = trips.filter((t) => !isCharter(t));
+  const prices = (shared.length ? shared : trips).map(priceOf).filter((p): p is NonNullable<ReturnType<typeof priceOf>> => Boolean(p));
   if (!prices.length) return null;
   const counts = new Map<string, number>();
   for (const p of prices) counts.set(p.currency, (counts.get(p.currency) ?? 0) + 1);
@@ -179,11 +195,14 @@ export function PreparedOperatorView({ data, preview, travellerView = false, lin
   const website = websiteHref(page.website);
   const phone = page.contact?.phone;
   const email = page.contact?.email;
+  const videos = playableVideos(page.videos);
+  // The page's own gallery, or failing that a photo from each trip, so every page that has photos shows them.
+  const photos = page.gallery?.length ? page.gallery : [...new Set(trips.flatMap((t) => t.trip.images ?? []))].slice(0, 12);
 
   return (
     <main className="bk theme-light opp">
-      <header className={page.heroImage ? "opp-hero" : "opp-hero opp-hero--plain"} style={page.heroImage ? { backgroundImage: cssImage(page.heroImage) } : undefined}>
-        {page.heroImage ? <div className="opp-hero__shade" /> : <Contours seed={slug} />}
+      <header className={page.heroImage ? "opp-hero" : "opp-hero opp-hero--plain"}>
+        <HeroPhoto src={page.heroImage ?? null} seed={slug} />
         <div className="opp-hero__copy">
           {page.category ? <p className="opp-hero__kicker">{page.category}</p> : null}
           <h1 className="ds-display-lg opp-hero__title">{page.name}</h1>
@@ -193,6 +212,7 @@ export function PreparedOperatorView({ data, preview, travellerView = false, lin
 
       <div className="opp-wrap">
         <section className="opp-summary" aria-label="At a glance">
+          {page.logo ? <LogoTile src={page.logo} name={page.name} light={Boolean(page.logoLight)} /> : null}
           <dl className="opp-summary__facts">
             <div>
               <dt>{trips.length === 1 ? "Trip" : "Trips"}</dt>
@@ -242,6 +262,8 @@ export function PreparedOperatorView({ data, preview, travellerView = false, lin
           ) : null}
         </section>
 
+        {videos.length ? <VideoGrid videos={videos} name={page.name} heading="Watch" /> : null}
+
         <section id="trips" className="opp-section" aria-labelledby="opp-trips">
           <header className="opp-section__head">
             <h2 id="opp-trips" className="ds-headline">{trips.length === 1 ? "The trip" : "Trips"}</h2>
@@ -249,6 +271,8 @@ export function PreparedOperatorView({ data, preview, travellerView = false, lin
           </header>
           <TripGrid items={cardsFor(trips, preview, to)} />
         </section>
+
+        <PhotoGallery photos={photos} name={page.name} heading="Photos" min={3} />
 
         {page.offers?.length ? (
           <section className="opp-section" aria-labelledby="opp-offers">
@@ -310,8 +334,8 @@ export function PreparedTripView({ data, tripSlug, preview, travellerView = fals
   if (!found) return null;
   const t = found.trip;
   const image = t.images?.[0] ?? null;
-  const gallery = (t.images ?? []).slice(1, 5);
-  const book = t.bookingLinks?.[0] ?? websiteHref(page.website);
+  const gallery = (t.images ?? []).slice(1);
+  const route = bookingRoute(t, page);
   const where = [page.town, page.state].filter(Boolean).join(", ");
   const price = priceOf(found);
   const others = data.trips.filter((x) => x.slug !== tripSlug).slice(0, 3);
@@ -324,8 +348,8 @@ export function PreparedTripView({ data, tripSlug, preview, travellerView = fals
 
   return (
     <main className="bk theme-light opp">
-      <header className={image ? "opp-hero opp-hero--trip" : "opp-hero opp-hero--trip opp-hero--plain"} style={image ? { backgroundImage: cssImage(image) } : undefined}>
-        {image ? <div className="opp-hero__shade" /> : <Contours seed={`${slug}/${tripSlug}`} />}
+      <header className={image ? "opp-hero opp-hero--trip" : "opp-hero opp-hero--trip opp-hero--plain"}>
+        <HeroPhoto src={image} seed={`${slug}/${tripSlug}`} />
         <div className="opp-hero__copy">
           <Link href={to.page} className="opp-hero__back"><OpIcon name="back" size={16} />{page.name}</Link>
           <h1 className="ds-display-lg opp-hero__title">{t.title}</h1>
@@ -343,7 +367,7 @@ export function PreparedTripView({ data, tripSlug, preview, travellerView = fals
                 {price.per ? <span className="opp-panel__per">{price.per}</span> : null}
               </p>
             ) : (
-              <p className="opp-panel__price"><span className="ds-body">Price when you book</span></p>
+              <p className="opp-panel__price"><span className="ds-body">{route.kind === "enquire" ? "Price on enquiry" : "Price when you book"}</span></p>
             )}
             {found.bookable ? (
               <>
@@ -351,10 +375,18 @@ export function PreparedTripView({ data, tripSlug, preview, travellerView = fals
                 <p className="ds-micro bk-reef">Booked at {page.name}&rsquo;s own price. A fixed 5% of your fare protects the reef you visit.</p>
               </>
             ) : (
-              <>
-                <a href={book} className="bk-cta" target="_blank" rel="nofollow noopener noreferrer">{bookLabel(page.name)} <OpIcon name="arrow" size={16} /></a>
-                <p className="opp-panel__note">On {page.name}&rsquo;s own booking page.</p>
-              </>
+              route.kind === "online" ? (
+                <>
+                  <a href={route.url} className="bk-cta" target="_blank" rel="nofollow noopener noreferrer">{bookLabel(page.name)} <OpIcon name="arrow" size={16} /></a>
+                  <p className="opp-panel__note">Live times and prices, on {page.name}&rsquo;s own booking page.</p>
+                </>
+              ) : (
+                <>
+                  <a href={route.url} className="bk-cta" target="_blank" rel="nofollow noopener noreferrer">{enquireLabel(page.name)} <OpIcon name="arrow" size={16} /></a>
+                  <p className="opp-panel__note">{page.name} takes this one by enquiry, so ask for dates{price ? "" : " and a price"}.</p>
+                  {route.email ? <a href={`mailto:${route.email}`} className="opp-contact opp-contact--panel"><OpIcon name="mail" size={16} />{route.email}</a> : null}
+                </>
+              )
             )}
             {page.contact?.phone ? (
               <a href={`tel:${page.contact.phone.replace(/[^\d+]/g, "")}`} className="opp-contact opp-contact--panel"><OpIcon name="phone" size={16} />{page.contact.phone}</a>
@@ -390,11 +422,7 @@ export function PreparedTripView({ data, tripSlug, preview, travellerView = fals
             </ul>
           ) : null}
 
-          {gallery.length ? (
-            <div className={`opp-gallery opp-gallery--${Math.min(gallery.length, 4)}`}>
-              {gallery.map((u) => <span key={u} className="opp-gallery__img" style={{ backgroundImage: cssImage(u) }} aria-hidden />)}
-            </div>
-          ) : null}
+          {gallery.length ? <PhotoGallery photos={gallery} name={t.title} /> : null}
 
           {/* Once a trip books through Rezdy, its live prices are on the booking page; the website's list could disagree. */}
           {t.prices?.length && !found.bookable ? (
@@ -444,7 +472,7 @@ export function PreparedTripView({ data, tripSlug, preview, travellerView = fals
             <h2 id="opp-more" className="ds-headline">More from {page.name}</h2>
             <Link href={to.page} className="opp-more__all">All {data.trips.length} trips ›</Link>
           </header>
-          <TripGrid items={cardsFor(others, preview, to)} filterable={false} />
+          <TripGrid items={cardsFor(others, preview, to, [image, ...gallery])} filterable={false} />
         </section>
       ) : null}
     </main>

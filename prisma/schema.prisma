@@ -204,14 +204,14 @@ model Operator {
 }
 
 model ReferralPartner {
-  id               String              @id @default(cuid())
+  id               String                 @id @default(cuid())
   role             ReferralPartnerRole
   name             String
   handle           String?
   email            String?
   phone            String?
-  createdAt        DateTime            @default(now())
-  updatedAt        DateTime            @updatedAt
+  createdAt        DateTime               @default(now())
+  updatedAt        DateTime               @updatedAt
   links            ReferralLink[]
   clicks           ReferralClick[]
   kaiSessions      KaiSession[]
@@ -240,20 +240,20 @@ enum PartnerPayoutRequestStatus {
  * lib/services/partner/payout-requests.ts.
  */
 model PartnerPayoutRequest {
-  id                  String                     @id @default(cuid())
-  referralPartnerId   String
+  id                   String                     @id @default(cuid())
+  referralPartnerId    String
   requestedByAccountId String
-  amountCents         Int
-  currency            String
-  status              PartnerPayoutRequestStatus @default(PENDING)
-  paidAt              DateTime?
-  paidBy              String?
-  paidReference       String?
-  declinedAt          DateTime?
-  declinedBy          String?
-  declineReason       String?
-  createdAt           DateTime                   @default(now())
-  referralPartner     ReferralPartner            @relation(fields: [referralPartnerId], references: [id], onDelete: Cascade)
+  amountCents          Int
+  currency             String
+  status               PartnerPayoutRequestStatus @default(PENDING)
+  paidAt               DateTime?
+  paidBy               String?
+  paidReference        String?
+  declinedAt           DateTime?
+  declinedBy           String?
+  declineReason        String?
+  createdAt            DateTime                   @default(now())
+  referralPartner      ReferralPartner            @relation(fields: [referralPartnerId], references: [id], onDelete: Cascade)
 
   @@index([referralPartnerId])
   @@index([status])
@@ -359,6 +359,8 @@ model BluePassAccount {
   operatorClaims          OperatorClaim[]
   commissionEntries       CommissionLedgerEntry[]
   savedTrips              SavedTrip[]
+  creatorCampaigns        CreatorCampaign[]
+  creditEntries           OperatorCreditEntry[]
 
   @@index([email])
   @@index([travellerId])
@@ -422,25 +424,26 @@ model SavedTrip {
 }
 
 model PartnerProfile {
-  id                String            @id @default(cuid())
-  accountId         String            @unique
-  referralPartnerId String?           @unique
-  status            ApplicationStatus @default(PENDING_REVIEW)
-  handle            String?
-  audienceUrl       String?
-  instagramUrl      String?
-  youtubeUrl        String?
-  tiktokUrl         String?
-  partnerCategory   PartnerCategory?
+  id                     String            @id @default(cuid())
+  accountId              String            @unique
+  referralPartnerId      String?           @unique
+  status                 ApplicationStatus @default(PENDING_REVIEW)
+  handle                 String?
+  audienceUrl            String?
+  instagramUrl           String?
+  youtubeUrl             String?
+  tiktokUrl              String?
+  partnerCategory        PartnerCategory?
   // Same encrypt-at-rest convention as OperatorProfile.encryptedPayoutDetails
   // (lib/services/booking/adapters/credentials.ts's encryptCredentials/decryptCredentials) - real
   // bank account data, never stored as plain JSON.
   encryptedPayoutDetails String?
-  notes             String?
-  createdAt         DateTime          @default(now())
-  updatedAt         DateTime          @updatedAt
-  account           BluePassAccount   @relation(fields: [accountId], references: [id], onDelete: Cascade)
-  referralPartner   ReferralPartner?  @relation(fields: [referralPartnerId], references: [id], onDelete: SetNull)
+  notes                  String?
+  createdAt              DateTime          @default(now())
+  updatedAt              DateTime          @updatedAt
+  account                BluePassAccount   @relation(fields: [accountId], references: [id], onDelete: Cascade)
+  referralPartner        ReferralPartner?  @relation(fields: [referralPartnerId], references: [id], onDelete: SetNull)
+  creator                Creator?
 
   @@index([status])
   @@index([handle])
@@ -463,47 +466,47 @@ enum OperatorPayoutMethod {
 }
 
 model OperatorProfile {
-  id                     String                @id @default(cuid())
-  accountId              String                @unique
-  referralPartnerId      String?               @unique
-  status                 ApplicationStatus     @default(PENDING_REVIEW)
-  companyName            String?
-  whatsappE164           String?
-  websiteUrl             String?
-  claimedOperatorSlug    String?
-  claimedYachtSlugs      String[]              @default([])
-  claimedAt              DateTime?
-  notes                  String?
+  id                      String                      @id @default(cuid())
+  accountId               String                      @unique
+  referralPartnerId       String?                     @unique
+  status                  ApplicationStatus           @default(PENDING_REVIEW)
+  companyName             String?
+  whatsappE164            String?
+  websiteUrl              String?
+  claimedOperatorSlug     String?
+  claimedYachtSlugs       String[]                    @default([])
+  claimedAt               DateTime?
+  notes                   String?
   // ISO 3166-1 alpha-2 (e.g. "AU", "ID") - drives payout routing once Phase 2 Stripe Connect
   // ships; not yet collected anywhere in the onboarding flow, so expect this to be null for
   // existing operators until a follow-up backfill/onboarding-form step is built.
-  country                String?
-  payoutMethod           OperatorPayoutMethod  @default(MANUAL_BANK_TRANSFER)
+  country                 String?
+  payoutMethod            OperatorPayoutMethod        @default(MANUAL_BANK_TRANSFER)
   // Same encrypt-at-rest convention as OperatorIntegration.encryptedCredentials
   // (lib/services/booking/adapters/credentials.ts's encryptCredentials/decryptCredentials) - this
   // is real bank account data, never stored as plain JSON.
-  encryptedPayoutDetails String?
-  payoutContactEmail     String?
+  encryptedPayoutDetails  String?
+  payoutContactEmail      String?
   // Created by kai (which holds BluePass's own Stripe secret key) via the admin bridge when the
   // operator starts Connect onboarding; bluepass-app never talks to Stripe's account-creation API
   // directly. stripeChargesEnabled/stripePayoutsEnabled/stripeOnboardedAt are updated by this
   // app's own account.updated webhook (a separate Stripe webhook endpoint, own signing secret).
-  stripeConnectAccountId String?               @unique
-  stripeChargesEnabled   Boolean               @default(false)
-  stripePayoutsEnabled   Boolean               @default(false)
-  stripeOnboardedAt      DateTime?
+  stripeConnectAccountId  String?                     @unique
+  stripeChargesEnabled    Boolean                     @default(false)
+  stripePayoutsEnabled    Boolean                     @default(false)
+  stripeOnboardedAt       DateTime?
   // Kai's Tenant.slug (e.g. "boattime") for the operator this profile belongs to - deliberately a
   // separate field from claimedOperatorSlug, which is this app's own legacy Operator table's slug
   // namespace, never designed to match Kai's tenant slugs. Set explicitly per operator when linking
   // Kai's direct-PMS/Rezdy payout flow to this profile's stripeConnectAccountId (see
   // /api/internal/operator-payout-account) - null until that linking happens. Added 2026-08-06.
-  kaiTenantSlug          String?               @unique
+  kaiTenantSlug           String?                     @unique
   // Rezdy supplier id (from the Agent API marketplace listing), distinct from kaiTenantSlug above -
   // a Rezdy-connected operator discovered via the Discover sync has no Kai Tenant/booking flow of
   // its own, so it can't use kaiTenantSlug as its dedupe key. Set only on profiles auto-created by
   // the Rezdy Agent Discover sync (lib/services/discover/rezdy-agent-sync.ts); null for every
   // operator that signed up/claimed a page directly. Added 2026-08-06.
-  rezdySupplierId        String?               @unique
+  rezdySupplierId         String?                     @unique
   // Structured tiered cancellation policy, e.g. [{"minDaysBeforeDeparture":14,"refundPercent":100},
   // {"minDaysBeforeDeparture":3,"refundPercent":50}, {"minDaysBeforeDeparture":0,"refundPercent":0}].
   // Null until an operator/admin sets one - same gap as `country` above, no onboarding UI collects
@@ -512,18 +515,18 @@ model OperatorProfile {
   // Exposed via GET /api/internal/operator-payout-account alongside the Stripe Connect fields above.
   // Added 2026-08-10 for Milestone 3 (payment-settlement plan).
   cancellationPolicyTiers Json?
-  createdAt              DateTime              @default(now())
-  updatedAt              DateTime              @updatedAt
-  account                BluePassAccount       @relation(fields: [accountId], references: [id], onDelete: Cascade)
-  referralPartner        ReferralPartner?      @relation(fields: [referralPartnerId], references: [id], onDelete: SetNull)
-  pmsReadiness           OperatorPmsReadiness?
-  listings               OperatorListing[]
-  listingBookings        ListingBooking[]
-  googleConnection       OperatorGoogleConnection?
-  railsSettings          OperatorRailsSettings?
-  railsNotifications     RailsNotification[]
-  channelConnections     OperatorChannelConnection[]
-  channelHandoffs        ChannelHandoff[]
+  createdAt               DateTime                    @default(now())
+  updatedAt               DateTime                    @updatedAt
+  account                 BluePassAccount             @relation(fields: [accountId], references: [id], onDelete: Cascade)
+  referralPartner         ReferralPartner?            @relation(fields: [referralPartnerId], references: [id], onDelete: SetNull)
+  pmsReadiness            OperatorPmsReadiness?
+  listings                OperatorListing[]
+  listingBookings         ListingBooking[]
+  googleConnection        OperatorGoogleConnection?
+  railsSettings           OperatorRailsSettings?
+  railsNotifications      RailsNotification[]
+  channelConnections      OperatorChannelConnection[]
+  channelHandoffs         ChannelHandoff[]
 
   @@index([status])
   @@index([companyName])
@@ -548,10 +551,10 @@ enum OperatorListingStatus {
 // so an Australian region (e.g. "Great Barrier Reef") needs no schema change to be listed
 // alongside "Komodo"/"Raja Ampat".
 model OperatorListing {
-  id                String                @id @default(cuid())
+  id                String       @id @default(cuid())
   operatorProfileId String
   title             String
-  slug              String                @unique
+  slug              String       @unique
   category          String
   region            String
   description       String
@@ -567,7 +570,7 @@ model OperatorListing {
   // here via operator-listing-service.ts). Nullable/optional: existing human-authored listings won't
   // have this set, and the Discover mapping treats that the same as "no price shown."
   priceFrom         Float?
-  currency          String                @default("AUD")
+  currency          String       @default("AUD")
   // The Rezdy product code this listing was synced from (rezdy-agent-sync.ts's RezdyMarketplaceProduct.productCode)
   // - null for listings an operator authored themselves. Join key back to Kai's ManualInquiry rows
   // (Kai's PmsBookingPaymentAttempt.productExternalId is the same value on that side): the shared
@@ -602,22 +605,22 @@ model OperatorListing {
   /// FareHarbor: the booking link the operator made with Bluepass as the affiliate.
   externalBookingUrl String?
 
-  status            OperatorListingStatus @default(DRAFT)
-  publishedAt       DateTime?
-  archivedAt        DateTime?
-  archivedBy        String?
-  archivedReason    String?
-  createdAt         DateTime              @default(now())
-  updatedAt         DateTime              @updatedAt
+  status         OperatorListingStatus @default(DRAFT)
+  publishedAt    DateTime?
+  archivedAt     DateTime?
+  archivedBy     String?
+  archivedReason String?
+  createdAt      DateTime              @default(now())
+  updatedAt      DateTime              @updatedAt
 
   operatorProfile OperatorProfile @relation(fields: [operatorProfileId], references: [id], onDelete: Cascade)
 
   // Native booking rails. Present only for operators with no booking system of
   // their own; a Rezdy-synced listing carries externalProductId instead.
-  schedules ListingSchedule[]
-  blackouts ListingBlackout[]
-  rates     ListingRate[]
-  seatHolds ListingSeatHold[]
+  schedules  ListingSchedule[]
+  blackouts  ListingBlackout[]
+  rates      ListingRate[]
+  seatHolds  ListingSeatHold[]
   departures ListingDepartureOverride[]
   bookings   ListingBooking[]
 
@@ -660,6 +663,7 @@ model OperatorLead {
   updatedAt      DateTime                @updatedAt
   claimTokens    OperatorClaimToken[]
   outreachEvents OperatorOutreachEvent[]
+  enrolments     OutreachEnrolment[]
 
   @@index([status])
   @@index([email])
@@ -1045,11 +1049,11 @@ model BlogCategory {
 }
 
 model BlogPost {
-  id        String @id @default(cuid())
-  title     String
+  id         String @id @default(cuid())
+  title      String
   // The public URL. Unique because it *is* the address - two posts sharing one would make the
   // second unreachable, and a 200 that serves the wrong article is worse for search than a 404.
-  slug      String @unique
+  slug       String @unique
   // A display name, not a relation to BluePassAccount. The byline is editorial ("Bluepass Crew",
   // a guest operator's name) and should survive the staff account that typed it being deleted.
   authorName String @default("Bluepass")
@@ -1057,7 +1061,7 @@ model BlogPost {
   // Body is Markdown, rendered server-side by lib/services/blog/markdown.ts. Stored as source
   // rather than HTML so the renderer can be improved (heading anchors, link rel rules, JSON-LD
   // extraction) without a migration over every published article.
-  bodyMarkdown String @default("")
+  bodyMarkdown String   @default("")
   excerpt      String?
   tags         String[] @default([])
 
@@ -1218,25 +1222,25 @@ enum AgentLessonStatus {
 }
 
 model AgentLesson {
-  id           String            @id @default(cuid())
-  agentId      String
+  id              String            @id @default(cuid())
+  agentId         String
   // When this applies, in the agent's own terms, e.g. "first touch to a
   // Rezdy operator". Kept narrow so a lesson cannot quietly become a rule.
-  scope        String
-  lesson       String
+  scope           String
+  lesson          String
   // The runs, outcomes and counts behind it. A lesson with no evidence is
   // an opinion and must not be proposed.
-  evidence     Json?
-  status       AgentLessonStatus @default(PROPOSED)
+  evidence        Json?
+  status          AgentLessonStatus @default(PROPOSED)
   proposedByRunId String?
-  decidedBy    String?
-  decidedAt    DateTime?
+  decidedBy       String?
+  decidedAt       DateTime?
   // Incremented each time an agent run loads it, so a lesson nobody ever
   // hits can be retired rather than accumulating.
-  timesApplied Int               @default(0)
-  retiredReason String?
-  createdAt    DateTime          @default(now())
-  updatedAt    DateTime          @updatedAt
+  timesApplied    Int               @default(0)
+  retiredReason   String?
+  createdAt       DateTime          @default(now())
+  updatedAt       DateTime          @updatedAt
 
   @@index([agentId, status])
   @@index([status, createdAt])
@@ -1260,40 +1264,40 @@ enum AgentDirectiveStatus {
 }
 
 model AgentDirective {
-  id           String               @id @default(cuid())
+  id          String               @id @default(cuid())
   // The manager that owns it, or a single agent when it is narrower.
-  scopeType    String
-  scopeId      String
+  scopeType   String
+  scopeId     String
   // What the principal actually said, kept verbatim so the translation can
   // be checked against the intent.
-  instruction  String
+  instruction String
   // The structured translation: region, category, pause, pace multiplier.
-  levers       Json
-  issuedBy     String
-  status       AgentDirectiveStatus @default(ACTIVE)
-  expiresAt    DateTime?
-  revokedAt    DateTime?
-  revokedBy    String?
-  createdAt    DateTime             @default(now())
-  updatedAt    DateTime             @updatedAt
+  levers      Json
+  issuedBy    String
+  status      AgentDirectiveStatus @default(ACTIVE)
+  expiresAt   DateTime?
+  revokedAt   DateTime?
+  revokedBy   String?
+  createdAt   DateTime             @default(now())
+  updatedAt   DateTime             @updatedAt
 
   @@index([scopeType, scopeId, status])
   @@index([status, expiresAt])
 }
 
 model ManagerReport {
-  id         String   @id @default(cuid())
-  managerId  String
-  reportsTo  String
-  period     String
+  id        String   @id @default(cuid())
+  managerId String
+  reportsTo String
+  period    String
   // Figures, each with the query behind it.
-  metrics    Json
-  headline   String
-  concerns   Json?
+  metrics   Json
+  headline  String
+  concerns  Json?
   // Row ids behind the claims, so a figure can be checked.
-  citations  Json?
-  runId      String?
-  createdAt  DateTime @default(now())
+  citations Json?
+  runId     String?
+  createdAt DateTime @default(now())
 
   @@index([managerId, createdAt])
   @@index([reportsTo, createdAt])
@@ -1343,7 +1347,7 @@ model ListingSchedule {
 
   /// Hours before departure that bookings close. A dive boat needs the manifest the
   /// night before; a jetski does not. Stated by the operator, enforced here.
-  cutoffHours Int @default(24)
+  cutoffHours    Int @default(24)
   /// How far ahead bookings are accepted.
   maxAdvanceDays Int @default(365)
 
@@ -1838,16 +1842,16 @@ model ChannelCursor {
 /// OperatorListing rows (DRAFT, each with its own check in channelData.qc); this row
 /// holds the operator-level copy and the page's own check.
 model PreparedOperatorPage {
-  id         String    @id @default(cuid())
+  id               String    @id @default(cuid())
   /// Matches OperatorLead.slug and the page at /operators/[slug].
-  slug       String    @unique
+  slug             String    @unique
   /// Operator-level copy and facts: summary, standouts, hero, contact, offers, sources, notes.
-  data       Json
+  data             Json
   /// pending, approved or needs_fix.
-  qcStatus   String    @default("pending")
-  qcNotes    String?
-  reviewedBy String?
-  reviewedAt DateTime?
+  qcStatus         String    @default("pending")
+  qcNotes          String?
+  reviewedBy       String?
+  reviewedAt       DateTime?
   /// The photos are linked from the operator's own website. Travellers see only the ones
   /// the operator has approved, which they do once their claim on the page is approved.
   photosApproved   String[]  @default([])
@@ -1858,10 +1862,195 @@ model PreparedOperatorPage {
   photosSeen       String[]  @default([])
   /// Corrections made while checking (summary, standouts, contact), kept apart from what
   /// was read off the website so a re-import cannot undo them.
-  edits      Json?
-  editedBy   String?
-  editedAt   DateTime?
-  importedAt DateTime
-  createdAt  DateTime  @default(now())
-  updatedAt  DateTime  @updatedAt
+  edits            Json?
+  editedBy         String?
+  editedAt         DateTime?
+  /// Photos, a logo and videos the operator added themselves after claiming: theirs to
+  /// publish, so always shown, and never touched by a re-import from the website.
+  operatorMedia    Json?
+  operatorMediaAt  DateTime?
+  importedAt       DateTime
+  createdAt        DateTime  @default(now())
+  updatedAt        DateTime  @updatedAt
+}
+
+/// A creator an operator can pick during onboarding to feature their trips: someone with a
+/// Bluepass creator account (partnerProfileId set), or someone from Bluepass's research list
+/// whom Bluepass invites by hand once an operator picks them. Matched to operators by place
+/// and by what they make (specialties).
+model Creator {
+  id               String              @id @default(cuid())
+  slug             String              @unique
+  name             String
+  brand            String?
+  website          String?
+  instagram        String?
+  youtube          String?
+  tiktok           String?
+  /// A business contact the creator publishes on their own site; used only for a person's invite.
+  contactEmail     String?
+  baseState        String?
+  baseTown         String?
+  regions          String[]            @default([])
+  specialties      String[]            @default([])
+  summary          String?
+  sourceUrl        String?
+  /// "research" (from the creator research list) or "partner" (signed up as a creator).
+  source           String
+  partnerProfileId String?             @unique
+  /// When a person at Bluepass invited them, after an operator picked them.
+  invitedAt        DateTime?
+  invitedBy        String?
+  hidden           Boolean             @default(false)
+  createdAt        DateTime            @default(now())
+  updatedAt        DateTime            @updatedAt
+  partnerProfile   PartnerProfile?     @relation(fields: [partnerProfileId], references: [id], onDelete: SetNull)
+  campaigns        CreatorCampaign[]
+  enrolments       OutreachEnrolment[]
+
+  @@index([baseState])
+}
+
+enum CreatorCampaignStatus {
+  /// Picked by the operator; waiting for the creator to accept (or to join, then accept).
+  REQUESTED
+  ACCEPTED
+  DECLINED
+  /// The creator has shared their post; the credit is theirs once the review window passes.
+  FEATURED
+  /// The operator said the feature did not happen; the credit is held back for a person.
+  DISPUTED
+  CANCELLED
+}
+
+/// One operator's pick of one creator, with the part of the operator's creator credit set
+/// aside for them.
+model CreatorCampaign {
+  id                String                @id @default(cuid())
+  operatorAccountId String
+  operatorName      String
+  /// The operator's Bluepass page, where the creator's tracked link points.
+  operatorPath      String?
+  creatorId         String
+  status            CreatorCampaignStatus @default(REQUESTED)
+  creditCents       Int
+  currency          String                @default("AUD")
+  referralLinkId    String?               @unique
+  postUrl           String?
+  respondedAt       DateTime?
+  featuredAt        DateTime?
+  disputedAt        DateTime?
+  createdAt         DateTime              @default(now())
+  updatedAt         DateTime              @updatedAt
+  operatorAccount   BluePassAccount       @relation(fields: [operatorAccountId], references: [id], onDelete: Cascade)
+  creator           Creator               @relation(fields: [creatorId], references: [id], onDelete: Cascade)
+
+  @@unique([operatorAccountId, creatorId])
+  @@index([creatorId])
+  @@index([status])
+}
+
+enum OperatorCreditKind {
+  WELCOME_GRANT
+  CAMPAIGN_HOLD
+  CAMPAIGN_RELEASE
+}
+
+/// The operator's creator credit as a ledger: the welcome grant, credit set aside for a
+/// creator they picked, and credit returned when that creator declines.
+model OperatorCreditEntry {
+  id                String             @id @default(cuid())
+  operatorAccountId String
+  kind              OperatorCreditKind
+  /// Positive for grants and releases, negative for holds.
+  amountCents       Int
+  currency          String             @default("AUD")
+  campaignId        String?
+  /// Grants only: unspent grant credit cannot be set aside after this.
+  expiresAt         DateTime?
+  /// Makes a grant or a ledger move happen once, e.g. "welcome:<accountId>".
+  onceKey           String?            @unique
+  createdAt         DateTime           @default(now())
+  operatorAccount   BluePassAccount    @relation(fields: [operatorAccountId], references: [id], onDelete: Cascade)
+
+  @@index([operatorAccountId])
+}
+
+/// Who a cold-outreach campaign is for. Operators come from OperatorLead, creators from Creator.
+enum OutreachAudience {
+  OPERATOR
+  CREATOR
+}
+
+enum OutreachEnrolmentStatus {
+  /// Handed to Instantly; the sequence is running.
+  ENROLLED
+  REPLIED
+  INTERESTED
+  NOT_INTERESTED
+  BOUNCED
+  UNSUBSCRIBED
+  /// Taken out of the sequence by something that happened on Bluepass (claimed, joined, a person took over).
+  STOPPED
+  /// The sequence ran to the end without an answer.
+  COMPLETED
+}
+
+/// One person in one cold-email sequence. The sequence itself runs in Instantly; this is Bluepass's record of it.
+model OutreachEnrolment {
+  id              String                  @id @default(cuid())
+  audience        OutreachAudience
+  campaignKey     String
+  email           String
+  operatorLeadId  String?
+  creatorId       String?
+  status          OutreachEnrolmentStatus
+  /// The first message as it was sent, so the record stands without Instantly.
+  subject         String
+  body            String
+  /// Why Bluepass may email this address (Spam Act: a business address the recipient publishes).
+  consentBasis    String
+  instantlyLeadId String?
+  stopReason      String?
+  lastEventAt     DateTime?
+  createdAt       DateTime                @default(now())
+  updatedAt       DateTime                @updatedAt
+  operatorLead    OperatorLead?           @relation(fields: [operatorLeadId], references: [id], onDelete: SetNull)
+  creator         Creator?                @relation(fields: [creatorId], references: [id], onDelete: SetNull)
+  events          OutreachEvent[]
+
+  @@unique([email, campaignKey])
+  @@index([operatorLeadId])
+  @@index([creatorId])
+  @@index([status])
+}
+
+/// Addresses that must never get cold email again: unsubscribed, bounced, said no, or asked by a person.
+model OutreachSuppression {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  reason    String
+  source    String
+  createdAt DateTime @default(now())
+}
+
+/// Everything Instantly reported, once each: deliveries are retried, so the key makes them safe to replay.
+model OutreachEvent {
+  id          String             @id @default(cuid())
+  dedupeKey   String             @unique
+  type        String
+  email       String?
+  enrolmentId String?
+  campaignId  String?
+  payload     Json
+  /// A reply that waits for a person, until someone marks it handled.
+  needsPerson Boolean            @default(false)
+  handledAt   DateTime?
+  handledBy   String?
+  createdAt   DateTime           @default(now())
+  enrolment   OutreachEnrolment? @relation(fields: [enrolmentId], references: [id], onDelete: SetNull)
+
+  @@index([enrolmentId])
+  @@index([type])
+  @@index([needsPerson, handledAt])
 }

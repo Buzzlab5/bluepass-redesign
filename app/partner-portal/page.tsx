@@ -3,6 +3,9 @@ import PartnerCommissionStats from "@/components/partner/PartnerCommissionStats"
 import PartnerPayoutSettings from "@/components/partner/PartnerPayoutSettings";
 import PartnerProfileSettings from "@/components/partner/PartnerProfileSettings";
 import PartnerReferralLinks from "@/components/partner/PartnerReferralLinks";
+import CreatorRequests, { type CreatorRequest } from "@/components/partner/CreatorRequests";
+import { markFeaturedAction, respondToPickAction } from "@/app/partner-portal/actions";
+import { campaignsForCreator } from "@/lib/services/onboarding/creator-campaigns";
 import { loadPartnerCommissionSummary, loadPartnerReferralLinks } from "@/lib/services/partner/dashboard";
 import { requirePartnerOrRedirect } from "@/lib/services/partner/guard";
 import { getRequestablePartnerBalance } from "@/lib/services/partner/payout-requests";
@@ -19,11 +22,12 @@ export default async function PartnerDashboardPage() {
   const { profile } = await requirePartnerOrRedirect("/partner-portal");
   const referralPartnerId = profile.referralPartnerId;
 
-  const [links, commissionSummary, balances, hasPayoutDetails] = await Promise.all([
+  const [links, commissionSummary, balances, hasPayoutDetails, requests] = await Promise.all([
     loadPartnerReferralLinks(referralPartnerId),
     loadPartnerCommissionSummary(referralPartnerId),
     referralPartnerId ? getRequestablePartnerBalance(referralPartnerId) : Promise.resolve([]),
     hasStoredPartnerPayoutDetails(profile.id),
+    campaignsForCreator(profile.id),
   ]);
 
   return (
@@ -33,6 +37,7 @@ export default async function PartnerDashboardPage() {
         support="Your referral link, what it's earned so far, and your own profile."
       />
 
+      <CreatorRequests requests={requests as CreatorRequest[]} actions={{ respond: respondToPickAction, featured: markFeaturedAction }} />
       <PartnerReferralLinks status={profile.status} links={links} />
       <PartnerCommissionStats summary={commissionSummary} balances={balances} />
       <PartnerPayoutSettings hasDetailsOnFile={hasPayoutDetails} />

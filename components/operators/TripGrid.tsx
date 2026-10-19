@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useState } from "react";
-import { cssImage } from "@/lib/services/rails/format";
+import { failedAlready } from "@/components/operators/LinkedPhoto";
 
 export type TripCardData = {
   href: string;
@@ -30,6 +30,8 @@ export default function TripGrid({ items, filterable = true }: { items: TripCard
     .sort((a, b) => b.count - a.count);
   const showPills = filterable && items.length >= 6 && kinds.length > 1;
   const [kind, setKind] = useState<string | null>(null);
+  // A photo the operator's server would not send becomes a text card, not a grey box.
+  const [failed, setFailed] = useState<Set<string>>(() => new Set());
   const shown = kind ? items.filter((t) => t.kind === kind) : items;
 
   return (
@@ -47,19 +49,33 @@ export default function TripGrid({ items, filterable = true }: { items: TripCard
         </div>
       ) : null}
       <ul className="opp-cards">
-        {shown.map((t) => (
+        {shown.map((t) => {
+          const image = t.image && !failed.has(t.image) ? t.image : null;
+          return (
           <li key={t.href}>
-            <Link href={t.href} className={t.image ? "opp-card" : "opp-card opp-card--text"}>
-              {t.image ? (
-                <span className="opp-card__media" style={{ backgroundImage: cssImage(t.image) }}>
+            <Link href={t.href} className={image ? "opp-card" : "opp-card opp-card--text"}>
+              {image ? (
+                <span className="opp-card__media">
+                  {/* Loaded as it scrolls into view: a page of trips should not ask a small operator's server for every photo at once. */}
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    className="opp-card__img"
+                    src={image}
+                    alt=""
+                    loading="lazy"
+                    decoding="async"
+                    referrerPolicy="no-referrer"
+                    ref={(img) => { if (failedAlready(img)) setFailed((prev) => new Set(prev).add(image)); }}
+                    onError={() => setFailed((prev) => new Set(prev).add(image))}
+                  />
                   <span className="opp-card__kind">{t.kindLabel}</span>
                 </span>
               ) : null}
               <span className="opp-card__body">
-                {t.image ? null : <span className="opp-card__kind opp-card__kind--text">{t.kindLabel}</span>}
+                {image ? null : <span className="opp-card__kind opp-card__kind--text">{t.kindLabel}</span>}
                 <span className="opp-card__title">{t.title}</span>
                 {t.meta ? <span className="opp-card__meta">{t.meta}</span> : null}
-                {!t.image && t.excerpt ? <span className="opp-card__excerpt">{t.excerpt}</span> : null}
+                {!image && t.excerpt ? <span className="opp-card__excerpt">{t.excerpt}</span> : null}
                 <span className="opp-card__foot">
                   {t.price ? (
                     <span className="opp-card__price">
@@ -75,7 +91,8 @@ export default function TripGrid({ items, filterable = true }: { items: TripCard
               </span>
             </Link>
           </li>
-        ))}
+          );
+        })}
       </ul>
     </div>
   );

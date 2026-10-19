@@ -1,5 +1,6 @@
 import type { PartnerCategory } from "@prisma/client";
 import { prisma } from "@/lib/db/prisma";
+import { autoLinkCreator } from "@/lib/services/onboarding/creator-admin";
 import { sendPartnerApprovedEmail } from "@/lib/services/partner/approval-email";
 import { partnerCategoryOptions } from "@/lib/partners";
 import {
@@ -217,6 +218,9 @@ export async function resolveApproval(
   const approved = await approveReferralApplication({ kind, id: input.id });
 
   if (kind === "partner" && !wasApproved) {
+    await autoLinkCreator(input.id).catch((error) =>
+      console.error("partner_approval.creator_link_failed", { partnerProfileId: input.id, error: error instanceof Error ? error.message : String(error) }),
+    );
     const notify = deps.notifyPartnerApproved ?? sendPartnerApprovedEmail;
     await notify(input.id).catch((error) =>
       console.error("partner_approval.email_failed", {

@@ -9,6 +9,8 @@ import RailsToday from "@/components/rails/RailsToday";
 import { loadOperatorBookings, loadOperatorListings } from "@/lib/services/operator/dashboard";
 import { requireOperatorOrRedirect } from "@/lib/services/operator/guard";
 import { claimedPreparedPage } from "@/lib/services/operators/prepared-pages";
+import { creatorCreditPrompt } from "@/lib/services/onboarding/creator-campaigns";
+import { formatCredit } from "@/lib/services/onboarding/credits";
 import {
   hasStoredPayoutDetails,
   PLATFORM_DEFAULT_CANCELLATION_TIERS,
@@ -36,12 +38,13 @@ export default async function OperatorDashboardPage() {
   /* The week's summary does not depend on the rails check, so it starts with everything else and is
      thrown away if the operator turns out not to be on the rails. One round of waiting, not two. */
   const summaryRequest = operatorRailsSummary(profile.id).catch(() => null);
-  const [listings, bookings, hasDetailsOnFile, rails, prepared] = await Promise.all([
+  const [listings, bookings, hasDetailsOnFile, rails, prepared, creatorCredit] = await Promise.all([
     loadOperatorListings(profile.id),
     loadOperatorBookings(profile),
     hasStoredPayoutDetails(profile.id),
     railsAccess(profile),
     claimedPreparedPage(account.id),
+    creatorCreditPrompt(account.id),
   ]);
   const railsSummary = rails.enabled ? await summaryRequest : null;
 
@@ -61,6 +64,14 @@ export default async function OperatorDashboardPage() {
         support="Everything Bluepass holds for you in one place — your profile and payout setup, your listing, and the bookings and payouts behind them."
       />
 
+      {creatorCredit ? (
+        <Link href="/operator/creators" className="adm-card op-prompt">
+          <span className="ds-body">You have {formatCredit(creatorCredit.availableCents)} of creator credit to share</span>
+          <span className="ds-caption" style={{ color: "var(--color-ink-muted)" }}>
+            Pick {creatorCredit.slotsLeft === 3 ? "three creators" : creatorCredit.slotsLeft === 1 ? "one more creator" : `${creatorCredit.slotsLeft} more creators`} to feature your trips. It pays them when they post. ›
+          </span>
+        </Link>
+      ) : null}
       {prepared?.claimApproved && prepared.undecided > 0 ? (
         <Link href="/operator/your-page" className="adm-card op-prompt">
           <span className="ds-body">{prepared.approvedAt ? `${prepared.undecided} new ${prepared.undecided === 1 ? "photo" : "photos"} on your page` : "Choose the photos on your page"}</span>

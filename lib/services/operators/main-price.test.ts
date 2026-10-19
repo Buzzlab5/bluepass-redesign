@@ -69,4 +69,46 @@ describe("mainPrice", () => {
     expect(from(p("Kids, from", 119), p("Members, from", 89))).toBeNull();
     expect(from()).toBeNull();
   });
+
+  it("counts a fare for adults and children alike, and sets a private charter aside beside it", () => {
+    // Cooly Eco Adventures' whale watching, as their site lists it.
+    expect(mainPrice([
+      { label: "Per adult or child (minimum age 6)", amount: 129, currency: "AUD" },
+      { label: "Private charter (up to 12 guests)", amount: 1400, currency: "AUD" },
+    ])?.amount).toBe(129);
+    expect(mainPrice([
+      { label: "Per person (age 15+)", amount: 399, currency: "AUD" },
+      { label: "Private charter (1 to 9 passengers)", amount: 3299, currency: "AUD" },
+    ])?.amount).toBe(399);
+    // A charter trip priced only as a charter keeps its price.
+    expect(mainPrice([{ label: "Private charter, half day", amount: 1800, currency: "AUD" }])?.amount).toBe(1800);
+  });
+
+  it("never takes a supplement or an additional guest's rate for the trip's price", () => {
+    // Pilgrim Sailing, as their site lists it.
+    expect(mainPrice([
+      { label: "Per person, from", amount: 139, currency: "AUD" },
+      { label: "Supplement per person", amount: 6, currency: "AUD" },
+      { label: "Sip, Sail & Dine package, per person", amount: 75, currency: "AUD" },
+    ])?.amount).toBe(139);
+    expect(mainPrice([
+      { label: "Four-hour charter (10:15 start), up to 10 guests", amount: 2290, currency: "AUD" },
+      { label: "Four-hour charter, each additional adult", amount: 229, currency: "AUD" },
+      { label: "Four-hour charter, each additional child (ages 1 to 14)", amount: 149, currency: "AUD" },
+      { label: "Five-hour charter (9:15 start), up to 10 guests", amount: 2790, currency: "AUD" },
+    ])?.amount).toBe(2290);
+  });
+
+  it("never takes an additional hour for a charter's price", () => {
+    // Kokomo Cruises' private charters, as their site lists them.
+    expect(mainPrice([
+      { label: "Standard rate, 2.5 hours (minimum)", amount: 2640, currency: "AUD" },
+      { label: "Additional hour", amount: 660, currency: "AUD" },
+    ])?.amount).toBe(2640);
+    expect(mainPrice([
+      { label: "Standard rate, 1 hour", amount: 820, currency: "AUD" },
+      { label: "Standard rate, each additional hour", amount: 550, currency: "AUD" },
+      { label: "Drinks package, per person per hour", amount: 25, currency: "AUD" },
+    ])?.amount).toBe(820);
+  });
 });

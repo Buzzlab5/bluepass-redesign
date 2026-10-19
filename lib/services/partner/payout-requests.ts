@@ -1,6 +1,7 @@
 import { prisma } from "@/lib/db/prisma";
 import { loadPartnerCommissionSummary, type AuLedgerLoader } from "@/lib/services/partner/dashboard";
 import { listKaiCorePmsBookingLedgerForReferralPartner } from "@/lib/services/kai-core/client";
+import { creatorCampaignEarnings } from "@/lib/services/onboarding/creator-campaigns";
 
 /**
  * A partner minting a real request has no obvious "right" amount to require - $50 is generous
@@ -34,15 +35,21 @@ export async function getRequestablePartnerBalance(
   referralPartnerId: string,
   listAuLedger: AuLedgerLoader = listKaiCorePmsBookingLedgerForReferralPartner,
 ): Promise<PartnerPayoutBalance[]> {
-  const [summary, requests] = await Promise.all([
+  const [summary, requests, features] = await Promise.all([
     loadPartnerCommissionSummary(referralPartnerId, listAuLedger),
     prisma.partnerPayoutRequest.findMany({
       where: { referralPartnerId, status: { in: ["PENDING", "PAID"] } },
       select: { currency: true, amountCents: true, status: true, createdAt: true },
     }),
+    // A creator also earns the credit an operator set aside for them, once they have featured
+    // the operator and the operator's review window has passed (onboarding/creator-campaigns.ts).
+    creatorCampaignEarnings(referralPartnerId),
   ]);
 
-  return Object.entries(summary.totalCentsByCurrency).map(([currency, accruedCents]) => {
+  const accrued = { ...summary.totalCentsByCurrency };
+  for (const [currency, cents] of Object.entries(features)) accrued[currency] = (accrued[currency] ?? 0) + cents;
+
+  return Object.entries(accrued).map(([currency, accruedCents]) => {
     const requestedCents = requests
       .filter((request) => request.currency === currency)
       .reduce((sum, request) => sum + request.amountCents, 0);

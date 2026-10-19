@@ -8,6 +8,8 @@ import {
 } from "@/lib/services/operators/prepared-edits";
 import type { LeftOutPhoto } from "@/lib/services/operators/photo-check";
 import { pageStaleSigns, staleSigns } from "@/lib/services/operators/stale-signs";
+import { ownUrls, withOwnMedia, type OwnMedia } from "@/lib/services/operators/own-media";
+import type { PreparedVideo } from "@/lib/services/operators/videos";
 
 /**
  * Operator pages Bluepass prepares from what an operator already publishes about their
@@ -73,6 +75,19 @@ export type PreparedOperator = {
   offers?: PreparedOffer[];
   checkNotes?: string | null;
   photosLeftOut?: LeftOutPhoto[];
+  /** The operator's own logo, page gallery and videos, from media/<slug>.json. */
+  logo?: string | null;
+  /** Measured on import: a light logo is shown on a dark tile so it does not vanish. */
+  logoLight?: boolean;
+  gallery?: string[];
+  videos?: PreparedVideo[];
+  /** Most of the site's photos were refused when the importer asked for them, so they will not show to travellers either. */
+  photosRefused?: boolean;
+  /** Videos that would not play on another site, with why; shown on the check screen. */
+  videosLeftOut?: { url: string; reason: string }[];
+  /** Set once the operator's media has been gathered and merged, whatever it found. */
+  mediaChecked?: boolean;
+  mediaNotes?: string | null;
 };
 
 export type QcStatus = "pending" | "approved" | "needs_fix";
@@ -135,8 +150,8 @@ export function validatePrepared(op: PreparedOperator): string[] {
  * website and its bot rules, and travellers see only the ones the operator approves, so a
  * photo changing must not send checked facts back to waiting.
  */
-function factsOf<T extends { images?: string[]; heroImage?: string | null; photosLeftOut?: unknown; photosUnmeasured?: unknown }>(item: T) {
-  const { images: _i, heroImage: _h, photosLeftOut: _l, photosUnmeasured: _u, ...facts } = item;
+function factsOf<T extends { images?: string[]; heroImage?: string | null; photosLeftOut?: unknown; photosUnmeasured?: unknown; logo?: unknown; logoLight?: unknown; gallery?: unknown; videos?: unknown; videosLeftOut?: unknown; photosRefused?: unknown; mediaChecked?: unknown; mediaNotes?: unknown }>(item: T) {
+  const { images: _i, heroImage: _h, photosLeftOut: _l, photosUnmeasured: _u, logo: _logo, logoLight: _ll, gallery: _g, videos: _v, videosLeftOut: _vl, photosRefused: _pr, mediaChecked: _mc, mediaNotes: _mn, ...facts } = item;
   return stableJson(facts);
 }
 
@@ -170,6 +185,13 @@ function listingFields(trip: PreparedTrip, region: string, heroImage: string | n
 export async function importPreparedOperator(op: PreparedOperator, now = new Date()) {
   const problems = validatePrepared(op);
   if (problems.length) return { ok: false as const, slug: op.slug, problems };
+
+  // Once claimed, the page is the operator's: they correct it themselves, and a fresh read
+  // of their website must neither overwrite what they approved nor take the page offline.
+  const claimedLead = await prisma.operatorLead.findUnique({ where: { slug: op.slug }, select: { status: true } });
+  if (claimedLead && (claimedLead.status === "APPROVED" || claimedLead.status === "LIVE")) {
+    return { ok: true as const, slug: op.slug, claimed: true, created: 0, updated: 0, unchanged: 0, removed: 0 };
+  }
 
   const region = [op.town, op.state].filter(Boolean).join(", ") || "Australia";
   await prisma.operatorLead.upsert({
@@ -259,7 +281,7 @@ export async function importPreparedOperator(op: PreparedOperator, now = new Dat
     data: { status: "ARCHIVED", archivedAt: now, archivedBy: "prepared-page import", archivedReason: "No longer on the operator's website." },
   });
   counts.removed = gone.count;
-  return { ok: true as const, slug: op.slug, ...counts };
+  return { ok: true as const, slug: op.slug, claimed: false, ...counts };
 }
 
 /** The placeholder profile that holds a prepared page's trips until, and after, it is claimed. */
@@ -287,13 +309,24 @@ export type LoadedPage = {
   website: PreparedOperator;
   edits: PageEdits | null;
   editedBy: string | null;
+  /** What the operator added themselves; already laid over `page` and `trips`. */
+  own: OwnMedia | null;
 };
 
-/** Keeps only the photos the operator approved; the rest are not shown to travellers. */
-function approvedPhotosOnly(page: PreparedOperator, trips: LoadedPage["trips"], approved: string[]) {
+/**
+ * Keeps only the photos the operator approved, and their videos once they have approved
+ * their media at all; the rest are not shown to travellers.
+ */
+function approvedPhotosOnly(page: PreparedOperator, trips: LoadedPage["trips"], approved: string[], approvedAt: Date | null) {
   const ok = new Set(approved);
   return {
-    page: { ...page, heroImage: page.heroImage && ok.has(page.heroImage) ? page.heroImage : null },
+    page: {
+      ...page,
+      heroImage: page.heroImage && ok.has(page.heroImage) ? page.heroImage : null,
+      logo: page.logo && ok.has(page.logo) ? page.logo : null,
+      gallery: (page.gallery ?? []).filter((u) => ok.has(u)),
+      videos: approvedAt ? page.videos ?? [] : [],
+    },
     trips: trips.map((t) => ({ ...t, trip: { ...t.trip, images: (t.trip.images ?? []).filter((u) => ok.has(u)) } })),
   };
 }
@@ -336,7 +369,10 @@ export async function loadPreparedPage(slug: string, opts: { preview?: boolean; 
   const photos: PhotoApproval = { approved: page.photosApproved, seen: page.photosSeen, approvedAt: page.photosApprovedAt, approvedBy: page.photosApprovedBy };
   // The person checking the page sees every photo, unless they ask to see it as a traveller
   // would; a traveller sees only the ones the operator approved.
-  const shown = opts.preview && !opts.travellerPhotos ? { page: data, trips: all } : approvedPhotosOnly(data, all, page.photosApproved);
+  const checked: { page: PreparedOperator; trips: LoadedPage["trips"] } = opts.preview && !opts.travellerPhotos ? { page: data, trips: all } : approvedPhotosOnly(data, all, page.photosApproved, page.photosApprovedAt);
+  // The operator's own additions need no approval: they chose to publish them.
+  const own = (page.operatorMedia as OwnMedia | null) ?? null;
+  const shown = withOwnMedia(checked.page, checked.trips, own);
   return {
     slug,
     lead: { name: lead.name, claimed: lead.status === "APPROVED" || lead.status === "LIVE" },
@@ -346,17 +382,21 @@ export async function loadPreparedPage(slug: string, opts: { preview?: boolean; 
     website,
     edits: pageEdits,
     editedBy: page.editedBy,
+    own,
   };
 }
 
-/** Every photo on a prepared page, once, with where it appears. */
-export function photosOnPage(loaded: Pick<LoadedPage, "page" | "trips">) {
+/** Every photo found on the operator's website that the page uses, once, with where it appears. */
+export function photosOnPage(loaded: Pick<LoadedPage, "page" | "trips"> & { own?: OwnMedia | null }) {
   const found = new Map<string, string[]>();
+  const theirs = ownUrls(loaded.own);
   const add = (url: string | null | undefined, where: string) => {
-    if (!url) return;
+    if (!url || theirs.has(url)) return;
     found.set(url, [...(found.get(url) ?? []), where]);
   };
+  add(loaded.page.logo, "Logo");
   add(loaded.page.heroImage, "Top of the page");
+  for (const url of loaded.page.gallery ?? []) add(url, "Photos");
   for (const { trip } of loaded.trips) for (const url of trip.images ?? []) add(url, trip.title);
   return [...found.entries()].map(([url, where]) => ({ url, where: [...new Set(where)] }));
 }
@@ -514,6 +554,26 @@ export async function nextPageToCheck(after: string) {
   return (pages.find((p) => p.slug > after) ?? pages.find((p) => p.slug !== after))?.slug ?? null;
 }
 
+/**
+ * How complete a page's media is: a logo, a hero, the operator's videos, a gallery, and
+ * trips with fewer than three photos. A page is done once its media has been gathered and
+ * merged: some operators have no videos or no trip photos to find. A site whose bot check
+ * stopped the gathering is "blocked", which only the operator can fix, at claim.
+ */
+export function mediaCoverage(page: PreparedOperator, trips: { trip: PreparedTrip }[]) {
+  const thinTrips = trips.filter((t) => (t.trip.images?.length ?? 0) < 3).length;
+  const blocked = Boolean(page.photosRefused) || (Boolean(page.mediaChecked) && /bot check|captcha|blocked|checking your browser|\b403\b/i.test(page.mediaNotes ?? "") && !page.logo && !(page.gallery?.length));
+  return {
+    logo: Boolean(page.logo),
+    hero: Boolean(page.heroImage),
+    videos: page.videos?.length ?? 0,
+    gallery: page.gallery?.length ?? 0,
+    thinTrips,
+    status: !page.mediaChecked ? ("waiting" as const) : blocked ? ("blocked" as const) : ("done" as const),
+    complete: Boolean(page.mediaChecked),
+  };
+}
+
 /** The checking queue: every prepared page with how far its check has got and what to look at first. */
 export async function preparedPagesOverview() {
   const pages = await prisma.preparedOperatorPage.findMany({ orderBy: { slug: "asc" } });
@@ -533,6 +593,10 @@ export async function preparedPagesOverview() {
     if (leftOut) flags.push(`${leftOut} ${leftOut === 1 ? "photo" : "photos"} left out`);
     const unmeasured = new Set(trips.flatMap((t) => t.trip.photosUnmeasured ?? [])).size;
     if (unmeasured) flags.push(`${unmeasured} ${unmeasured === 1 ? "photo" : "photos"} to judge by eye`);
+    const media = mediaCoverage(loaded?.page ?? data, trips);
+    if (!media.logo) flags.push("no logo");
+    if (!media.videos) flags.push("no videos");
+    if (media.thinTrips) flags.push(`${media.thinTrips} ${media.thinTrips === 1 ? "trip" : "trips"} under 3 photos`);
     const noted = trips.filter((t) => t.trip.checkNotes).length;
     if (noted) flags.push(`${noted} with notes`);
     return {

@@ -16,6 +16,8 @@ export type ConsoleIconName =
   | "connections"
   | "channels"
   | "page"
+  | "creators"
+  | "outreach"
   | "external";
 
 const PATHS: Record<ConsoleIconName, React.ReactNode> = {
@@ -103,6 +105,19 @@ const PATHS: Record<ConsoleIconName, React.ReactNode> = {
     <>
       <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
       <path d="M14 2v6h6M16 13H8M16 17H8M10 9H8" />
+    </>
+  ),
+  outreach: (
+    <>
+      <path d="M22 2 11 13" />
+      <path d="M22 2 15 22l-4-9-9-4 20-7z" />
+    </>
+  ),
+  creators: (
+    <>
+      <circle cx="9" cy="8" r="3.2" />
+      <path d="M3 20c.6-3.4 3-5.4 6-5.4s5.4 2 6 5.4" />
+      <path d="M16 4.8a3.2 3.2 0 0 1 0 6.4M18 14.8c1.6.6 2.7 2.4 3 5.2" />
     </>
   ),
   external: <path d="M7 17 17 7M8 7h9v9" />,

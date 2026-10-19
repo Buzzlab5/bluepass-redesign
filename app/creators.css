@@ -1,0 +1,71 @@
+/* Creator picks, shared by three consoles: the operator's picks (/operator/creators), the
+ * creator's requests (partner portal) and the team's invites and questioned posts
+ * (/admin/creators). Tokens only, so the same rows sit in the light operator console and
+ * the dark partner and admin ones. */
+
+.ob-avatar { flex: none; display: grid; place-items: center; width: 44px; height: 44px; border-radius: 50%; background: var(--color-surface-2); color: var(--color-ink); font-size: 15px; font-weight: 600; letter-spacing: 0.02em; }
+.ob-avatar--sm { width: 30px; height: 30px; font-size: 12px; border: 2px solid var(--color-surface-1); margin-left: -8px; }
+.ob-avatar--sm:first-child { margin-left: 0; }
+.ob-card__link { font-size: 13px; color: var(--color-ink-muted); text-decoration: underline; text-underline-offset: 3px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 60%; }
+.ob-card__link:hover { color: var(--color-ink); }
+.ob-picks__list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; border-radius: 16px; border: 1px solid var(--color-hairline); background: var(--color-surface-1); }
+.ob-pick { display: flex; align-items: center; gap: 14px; padding: 14px 16px; }
+.ob-pick + .ob-pick { border-top: 1px solid var(--color-hairline-soft, var(--color-hairline)); }
+.ob-pick__body { display: flex; flex-direction: column; gap: 2px; flex: 1; min-width: 0; }
+.ob-pick__name { font-size: 15px; font-weight: 600; color: var(--color-ink); }
+.ob-pick__state { font-size: 14px; color: var(--color-ink-muted); }
+.ob-pick--featured .ob-pick__state, .ob-pick--accepted .ob-pick__state { color: var(--color-ink); }
+.ob-pick__side { display: flex; flex-direction: column; align-items: flex-end; gap: 4px; }
+.ob-pick__credit { font-size: 15px; font-weight: 600; color: var(--color-ink); }
+.ob-pick--declined .ob-pick__credit { font-weight: 400; color: var(--color-ink-muted); }
+.ob-text-btn { padding: 0; border: 0; background: none; font-size: 13px; color: var(--color-ink-muted); text-decoration: underline; text-underline-offset: 3px; cursor: pointer; }
+.ob-text-btn:hover { color: var(--color-ink); }
+
+/* A creator's requests from operators (partner portal). */
+.cr-request { align-items: flex-start; }
+.cr-link { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-top: 6px; font-size: 13px; }
+.cr-link code { padding: 4px 8px; border-radius: 8px; background: var(--color-surface-2); color: var(--color-ink); word-break: break-all; }
+.cr-post { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
+.cr-post__btn, .cr-answer__yes, .ca-btn { min-height: 36px; padding: 0 16px; font-size: 14px; white-space: nowrap; }
+.cr-answer { display: flex; align-items: center; gap: 12px; }
+.cr-input { flex: 1 1 220px; min-width: 0; min-height: 36px; padding: 0 12px; border-radius: 10px; border: 1px solid var(--color-hairline); background: var(--color-surface-2); color: var(--color-ink); font: inherit; font-size: 14px; }
+.cr-input:focus { outline: 2px solid var(--color-ink); outline-offset: 1px; }
+
+/* Admin: creators operators picked. */
+.ca-row { align-items: flex-start; }
+.ca-contact { display: flex; gap: 14px; flex-wrap: wrap; font-size: 13px; color: var(--color-ink-muted); margin-top: 4px; }
+.ca-contact a { color: var(--color-ink); }
+.ca-actions { display: flex; flex-direction: column; align-items: flex-end; gap: 8px; min-width: 200px; }
+.ca-link { display: flex; gap: 8px; align-items: center; }
+
+@media (max-width: 600px) {
+  .ob-pick { flex-wrap: wrap; }
+  .ob-pick__side { flex-direction: row; align-items: center; gap: 14px; width: 100%; justify-content: space-between; padding-left: 58px; }
+  .ca-actions { align-items: stretch; width: 100%; min-width: 0; }
+  .cr-request .ob-pick__side, .ca-row .ob-pick__side { padding-left: 0; }
+}
+
+/* Admin: outreach (/admin/outreach). */
+.ou-muted { color: var(--color-ink-muted); }
+.ou-checks { list-style: none; margin: 0; padding: 8px 20px; display: flex; flex-direction: column; }
+.ou-check { display: flex; gap: 12px; align-items: baseline; padding: 10px 0; font-size: 15px; color: var(--color-ink); }
+.ou-check + .ou-check { border-top: 1px solid var(--color-hairline); }
+.ou-check__mark { flex: none; width: 20px; text-align: center; color: var(--color-ink-muted); }
+.ou-check__mark.is-ok { color: var(--color-ink); font-weight: 600; }
+.ou-quote { display: block; margin-top: 6px; padding: 10px 12px; border-radius: 10px; background: var(--color-surface-2); font-size: 14px; line-height: 1.45; color: var(--color-ink); white-space: pre-wrap; }
+.ou-draft { display: block; margin-top: 6px; padding: 10px 12px; border-radius: 10px; border: 1px dashed var(--color-hairline); font-size: 14px; line-height: 1.45; color: var(--color-ink-muted); white-space: pre-wrap; }
+.ou-draft strong { color: var(--color-ink); }
+.ou-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 340px), 1fr)); gap: 12px; margin-bottom: 14px; }
+.ou-stage { padding: 18px 20px; }
+.ou-stage dl { margin: 10px 0 0; display: flex; flex-direction: column; }
+.ou-stage dl > div { display: flex; justify-content: space-between; gap: 12px; padding: 8px 0; font-size: 14px; }
+.ou-stage dl > div + div { border-top: 1px solid var(--color-hairline); }
+.ou-stage dt { color: var(--color-ink-muted); }
+.ou-stage dd { margin: 0; font-weight: 600; color: var(--color-ink); }
+.ou-preview { display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.ou-preview p { margin: 0; font-size: 14px; }
+.ou-preview__title { margin: 0; font-size: 16px; font-weight: 600; color: var(--color-ink); }
+.ou-letter { margin: 4px 0 0; border-radius: 14px; border: 1px solid var(--color-hairline); background: var(--color-surface-1); overflow: hidden; }
+.ou-letter figcaption { padding: 10px 14px; font-size: 13px; color: var(--color-ink-muted); border-bottom: 1px solid var(--color-hairline); overflow-wrap: anywhere; }
+.ou-letter pre { margin: 0; padding: 14px; font-family: var(--font-body, inherit); font-size: 14px; line-height: 1.5; color: var(--color-ink); white-space: pre-wrap; overflow-wrap: anywhere; }
+.ou-send { display: flex; flex-direction: column; align-items: flex-start; gap: 8px; }
