@@ -1,5 +1,7 @@
 "use client";
 
+import KaiQuestionControl from "@/components/KaiQuestionControl";
+import type { KaiQuestionInput } from "@/lib/services/kai-core/question-input";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { createPortal } from "react-dom";
 import { gsap, useGSAP, reduced } from "@/lib/gsap";
@@ -249,6 +251,7 @@ export default function KaiPanel({
   const [thinking, setThinking] = useState(false);
 
   const [contactRequest, setContactRequest] = useState<ContactRequest | null>(null);
+  const [questionInput, setQuestionInput] = useState<KaiQuestionInput | null>(null);
   const [contactForm, setContactForm] = useState({ name: "", email: "", phone: "" });
   const [contactError, setContactError] = useState<string | null>(null);
 
@@ -445,6 +448,7 @@ export default function KaiPanel({
     push("user", message);
     setDraft("");
     setSuggested([]);
+    setQuestionInput(null);
     setContactError(null);
     setThinking(true);
 
@@ -477,6 +481,7 @@ export default function KaiPanel({
         suggestedReplies?: Suggested[];
         contactRequest?: ContactRequest | null;
         paymentRequest?: PaymentRequest | null;
+        questionInput?: KaiQuestionInput | null;
         dateOptions?: string[] | null;
         timeOptions?: TimeOption[] | null;
         ticketOptions?: TicketOption[] | null;
@@ -525,6 +530,8 @@ export default function KaiPanel({
 
       /* Both are latch-style: absent in a reply means that step is no longer pending. */
       setContactRequest(data.contactRequest ?? null);
+      // Only while Kai is waiting on that answer: a contact form or a payment takes the place of it.
+      setQuestionInput(data.contactRequest || data.paymentRequest ? null : (data.questionInput ?? null));
       if (!data.contactRequest) {
         setContactForm({ name: "", email: "", phone: "" });
       } else if (traveller) {
@@ -1152,6 +1159,10 @@ export default function KaiPanel({
             >
               Start something new
             </button>
+          </div>
+        ) : questionInput && !thinking && !contactRequest ? (
+          <div className="kpanel__chips kpanel__chips--control">
+            <KaiQuestionControl key={`${messages.length}-${questionInput.kind}`} input={questionInput} disabled={thinking} onAnswer={(text) => void send(text)} />
           </div>
         ) : suggested.length && !thinking ? (
           <div className="kpanel__chips">

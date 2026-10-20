@@ -56,6 +56,8 @@ export type KaiCoreResumedSession = {
   messages: Array<{ role: "user" | "assistant"; content: string }>;
 };
 
+import type { KaiQuestionInput } from "@/lib/services/kai-core/question-input";
+
 type KaiCoreMessageResponse = {
   assistantMessage?: {
     content?: string;
@@ -68,6 +70,8 @@ type KaiCoreMessageResponse = {
   productCards?: KaiCoreProductCard[] | null;
   contactRequest?: KaiCoreContactRequest | null;
   paymentRequest?: KaiCorePaymentRequest | null;
+  // The control that answers the question Kai just asked (a stepper, months, choices).
+  questionInput?: KaiQuestionInput | null;
   // The generic-booking-flow (AU/Rezdy) equivalents of productCards above - only ever present for
   // that same flow, since BluePass's own Indonesia catalog has no PMS-backed date range search,
   // times, tickets, or extras to offer. See boattimeyachtcharters-redesign's KaiWidget for the
@@ -250,6 +254,7 @@ export type KaiCoreWebChatResult = {
   matches?: (ReturnType<typeof toBluePassChatMatch> | ReturnType<typeof toProductCardMatch>)[];
   contactRequest?: KaiCoreContactRequest | null;
   paymentRequest?: KaiCorePaymentRequest | null;
+  questionInput?: KaiQuestionInput | null;
   dateOptions?: string[] | null;
   timeOptions?: KaiCoreTimeOption[] | null;
   ticketOptions?: KaiCoreTicketOption[] | null;
@@ -346,6 +351,7 @@ export async function handleKaiCoreWebChat(
     reply: data.assistantMessage?.content ?? "Kai Core did not return a reply.",
     ...(data.contactRequest ? { contactRequest: data.contactRequest } : {}),
     ...(data.paymentRequest ? { paymentRequest: data.paymentRequest } : {}),
+    ...(data.questionInput ? { questionInput: data.questionInput } : {}),
     ...(data.bluepassMatches && data.bluepassMatches.length > 0
       ? { matches: data.bluepassMatches.map(toBluePassChatMatch) }
       : data.productCards && data.productCards.length > 0

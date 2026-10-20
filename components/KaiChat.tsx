@@ -4,6 +4,7 @@ import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { gsap, useGSAP, reduced } from "@/lib/gsap";
 import KaiPanel from "./KaiPanel";
+import { isKaiUnlocked, KAI_UNLOCK_EVENT } from "@/lib/kai-unlock";
 import { isChromelessPathname, isClaimPathname } from "@/lib/services/pathname";
 
 /* Kai is still in development, so the whole widget (pill and panel) is switched off. Flip this
@@ -16,6 +17,9 @@ export default function KaiChat() {
   const [open, setOpen] = useState(false);
   const [initialMessage, setInitialMessage] = useState<string | null>(null);
   const pathname = usePathname();
+  /* On for a page that asks for it (the private preview), while the public site keeps Kai off. The page
+     says so by mounting <KaiUnlock />, so a plain visit to any other address stays as it was. */
+  const [unlocked, setUnlocked] = useState(false);
 
   /* Kai is the traveller's trip assistant, and it is pinned to the bottom-left
      gutter — which on a console is where the rail's own footer sits. It was
@@ -34,6 +38,18 @@ export default function KaiChat() {
      shared parent to thread a prop through. Same event name bluepass-app's widget listens for.
      An optional `detail.message` carries what the caller already knows - which trip, which
      departure - so the traveller isn't asked to retype it into a panel that just opened blank. */
+  useEffect(() => {
+    // Read what the page has already said (it can speak first on a fresh load), then follow changes.
+    const sync = () => {
+      const on = isKaiUnlocked();
+      setUnlocked(on);
+      if (!on) setOpen(false);
+    };
+    sync();
+    window.addEventListener(KAI_UNLOCK_EVENT, sync);
+    return () => window.removeEventListener(KAI_UNLOCK_EVENT, sync);
+  }, []);
+
   useEffect(() => {
     const openPanel = (e: Event) => {
       const message = (e as CustomEvent<{ message?: string }>).detail?.message;
@@ -85,13 +101,15 @@ export default function KaiChat() {
         el.removeEventListener("pointerleave", leave);
       };
     },
-    { scope: ref },
+    /* The pill is only in the page once Kai is on (and the route allows it), so the entrance has to
+       run again at that moment rather than once at mount, when the button was not there to animate. */
+    { scope: ref, dependencies: [unlocked, hidden] },
   );
 
   /* After the hooks, never before them — the GSAP effect above already no-ops
      on a null ref, so bailing here costs nothing and keeps the hook order
      stable across routes. */
-  if (hidden || !KAI_ENABLED) {
+  if (hidden || !(KAI_ENABLED || unlocked)) {
     return null;
   }
 

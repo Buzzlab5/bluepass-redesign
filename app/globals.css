@@ -4914,6 +4914,88 @@ html.is-scroll-locked body {
   border-color: var(--color-inverse-canvas);
   transform: translateY(-1px);
 }
+.kchip:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+.kchip--quiet {
+  border-style: dashed;
+  color: var(--color-ink-muted);
+}
+
+/* The control that answers Kai's question: a stepper for how many, months for when, choices for the rest. */
+.kpanel__chips--control {
+  display: block;
+  max-height: 176px;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-hairline) transparent;
+}
+.kq {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  animation: kq-in 0.5s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.kq--chips {
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.kq__stepper {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px;
+  border-radius: var(--radius-pill);
+  background: var(--color-surface-1);
+  border: 1px solid var(--color-hairline);
+}
+.kq__step {
+  width: 34px;
+  height: 34px;
+  border: none;
+  border-radius: 50%;
+  background: transparent;
+  color: var(--color-ink);
+  font-size: 20px;
+  line-height: 1;
+  cursor: pointer;
+  transition:
+    background 0.3s ease,
+    transform 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+    opacity 0.3s ease;
+}
+.kq__step:hover:not(:disabled) {
+  background: rgba(255, 255, 255, 0.08);
+  transform: scale(1.08);
+}
+.kq__step:disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+.kq__count {
+  min-width: 34px;
+  text-align: center;
+  font-family: var(--font-display);
+  font-size: 18px;
+  font-weight: 500;
+  color: var(--color-ink);
+}
+@keyframes kq-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .kq {
+    animation: none;
+  }
+}
 
 .kpanel__compose {
   flex: none;
