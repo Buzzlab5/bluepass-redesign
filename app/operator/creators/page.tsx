@@ -3,7 +3,8 @@ import CreatorPicker from "@/components/operator/CreatorPicker";
 import CreatorPicks from "@/components/operator/CreatorPicks";
 import { cancelPickAction, pickCreatorsAction, reportNotFeaturedAction } from "@/app/operator/creators/actions";
 import { requireOperatorOrRedirect } from "@/lib/services/operator/guard";
-import { creatorChoices } from "@/lib/services/onboarding/creator-campaigns";
+import { redirect } from "next/navigation";
+import { creatorChoices, creatorCreditCountry } from "@/lib/services/onboarding/creator-campaigns";
 import { formatCredit, splitCredit } from "@/lib/services/onboarding/credits";
 import { claimedPreparedPage } from "@/lib/services/operators/prepared-pages";
 
@@ -18,7 +19,8 @@ function longDate(d: Date) {
  * what they run, to pick three from. Later, the same page shows how those creators answered.
  */
 export default async function OperatorCreatorsPage({ searchParams }: { searchParams: Promise<{ welcome?: string }> }) {
-  const { account } = await requireOperatorOrRedirect("/operator/creators");
+  const { account, profile } = await requireOperatorOrRedirect("/operator/creators");
+  if (!creatorCreditCountry(profile.country)) redirect("/operator");
   const [data, prepared, { welcome }] = await Promise.all([creatorChoices(account.id), claimedPreparedPage(account.id), searchParams]);
   const { credit, picks, slotsLeft, choices, operator, approved } = data;
   const shares = splitCredit(credit.availableCents, slotsLeft);

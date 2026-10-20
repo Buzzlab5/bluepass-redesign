@@ -11,7 +11,7 @@ import { requireAdminOrRedirect } from "@/lib/services/admin/guard";
 import type { LeftOutPhoto } from "@/lib/services/operators/photo-check";
 import { pageEditor, tripEditor, wasFor } from "@/components/operators/editorFields";
 import { type TripEdits } from "@/lib/services/operators/prepared-edits";
-import { loadPreparedPage, nextPageToCheck, type LoadedPage, type PreparedTrip } from "@/lib/services/operators/prepared-pages";
+import { loadPreparedPage, nextPageToCheck, PAGE_REGIONS, type LoadedPage, type PreparedTrip } from "@/lib/services/operators/prepared-pages";
 import { pageStaleSigns, staleSigns } from "@/lib/services/operators/stale-signs";
 
 export const metadata = { title: "Check a prepared page · Bluepass Admin" };
@@ -119,17 +119,19 @@ function TripFacts({ t, website, edits }: { t: PreparedTrip; website: PreparedTr
  * One prepared page, laid out for checking: every fact beside the operator's own page it
  * came from, the researcher's doubts flagged first, and a decision per trip.
  */
-export default async function CheckPreparedPage({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = await params;
+export default async function CheckPreparedPage({ params, searchParams }: { params: Promise<{ slug: string }>; searchParams: Promise<{ region?: string }> }) {
+  const [{ slug }, { region }] = await Promise.all([params, searchParams]);
+  // Working through one region: the list link and "next page" stay inside it.
+  const inRegionQuery = region && PAGE_REGIONS.some((r) => r.key === region) ? `?region=${region}` : "";
   await requireAdminOrRedirect(`/admin/operator-pages/${slug}`);
   const loaded = await loadPreparedPage(slug, { preview: true });
   if (!loaded) notFound();
   const { page, trips } = loaded;
-  const next = await nextPageToCheck(slug);
+  const next = await nextPageToCheck(slug, inRegionQuery ? region : null);
 
   return (
     <>
-      <p className="ds-caption" style={{ marginBottom: 8 }}><Link href="/admin/operator-pages">Prepared pages</Link> › {page.name}</p>
+      <p className="ds-caption" style={{ marginBottom: 8 }}><Link href={`/admin/operator-pages${inRegionQuery}`}>Prepared pages</Link> › {page.name}</p>
       <AdminPageHeader
         context={[page.town, page.state, page.category].filter(Boolean).join(" · ")}
         title={page.name}
@@ -137,7 +139,7 @@ export default async function CheckPreparedPage({ params }: { params: Promise<{ 
         aside={
           <span style={{ display: "flex", flexDirection: "column", alignItems: "flex-end", gap: 6 }}>
             <Link href={`/operators/${slug}?preview=1`} target="_blank" className="ds-body-sm">Preview the page ↗</Link>
-            {next ? <Link href={`/admin/operator-pages/${next}`} className="ds-body-sm">Next page to check ›</Link> : null}
+            {next ? <Link href={`/admin/operator-pages/${next}${inRegionQuery}`} className="ds-body-sm">Next page to check ›</Link> : null}
           </span>
         }
       />

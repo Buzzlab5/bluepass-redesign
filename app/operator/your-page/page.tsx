@@ -38,6 +38,8 @@ function ownMediaFor(loaded: LoadedPage): OwnMediaProps {
 
 export const metadata = { title: "Your page · Bluepass" };
 
+const SYMBOL: Record<string, string> = { AUD: "A$", USD: "US$", BBD: "BDS$" };
+
 /**
  * The page Bluepass prepared for this operator from their website, and what they can do
  * with it: choose which photos travellers see, correct anything the page says, and, once
@@ -118,7 +120,7 @@ export default async function OperatorPagePhotos({ searchParams }: { searchParam
                   <Link href={`/operators/${claimed.slug}/${t.slug}`} target="_blank" className="ds-caption" style={{ marginLeft: "auto" }}>View ↗</Link>
                 </span>
                 <span className="ds-caption" style={{ color: "var(--color-ink-muted)" }}>
-                  {[t.trip.duration, t.trip.season, t.trip.priceFrom ? `From ${t.trip.prices?.[0]?.currency === "USD" ? "US$" : "A$"}${t.trip.priceFrom}` : null].filter(Boolean).join(" · ") || "No times or prices yet"}
+                  {[t.trip.duration, t.trip.season, t.trip.priceFrom ? `From ${SYMBOL[t.trip.prices?.[0]?.currency ?? "AUD"] ?? `${t.trip.prices?.[0]?.currency} `}${t.trip.priceFrom}` : null].filter(Boolean).join(" · ") || "No times or prices yet"}
                 </span>
                 <FactEditor action={correctTripAction.bind(null, t.id)} fields={tripEditor(t)} label="Correct this trip" />
               </div>

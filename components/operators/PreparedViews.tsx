@@ -50,7 +50,7 @@ const kindLabel = (k: string) => KIND[kindOf(k)][0];
 const kindPlural = (k: string) => KIND[kindOf(k)][1];
 
 function money(amount: number, currency: string) {
-  const symbol = currency === "AUD" ? "A$" : currency === "USD" ? "US$" : `${currency} `;
+  const symbol = currency === "AUD" ? "A$" : currency === "USD" ? "US$" : currency === "BBD" ? "BDS$" : `${currency} `;
   return `${symbol}${amount.toLocaleString("en-AU", { minimumFractionDigits: amount % 1 ? 2 : 0, maximumFractionDigits: 2 })}`;
 }
 
@@ -385,6 +385,7 @@ export function PreparedTripView({ data, tripSlug, preview, travellerView = fals
                   <a href={route.url} className="bk-cta" target="_blank" rel="nofollow noopener noreferrer">{enquireLabel(page.name)} <OpIcon name="arrow" size={16} /></a>
                   <p className="opp-panel__note">{page.name} takes this one by enquiry, so ask for dates{price ? "" : " and a price"}.</p>
                   {route.email ? <a href={`mailto:${route.email}`} className="opp-contact opp-contact--panel"><OpIcon name="mail" size={16} />{route.email}</a> : null}
+                  {route.whatsapp ? <a href={route.whatsapp} className="opp-contact opp-contact--panel" target="_blank" rel="nofollow noopener noreferrer"><OpIcon name="chat" size={16} />Message on WhatsApp</a> : null}
                 </>
               )
             )}

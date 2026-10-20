@@ -127,7 +127,7 @@ export type TripBooking = {
   url: string;
 };
 
-const MONEY_PREFIX: Record<string, string> = { AUD: "A$", USD: "US$", EUR: "€", IDR: "Rp " };
+const MONEY_PREFIX: Record<string, string> = { AUD: "A$", USD: "US$", BBD: "BDS$", EUR: "€", IDR: "Rp " };
 
 /** A trip's price in its own currency. AUD keeps the "A$1,200" look the site was drawn with; other
  *  currencies are named so a Barbados trip in US dollars is never read as Australian dollars. */

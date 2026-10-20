@@ -63,12 +63,14 @@ export type PreparedOperator = {
   name: string;
   website: string;
   rezdyAlias?: string | null;
+  /** ISO country code; Australian pages before Barbados carry none and mean "AU". */
+  country?: string | null;
   state?: string | null;
   town?: string | null;
   category?: string | null;
   summary: string;
   standouts?: string[];
-  contact?: { phone?: string | null; email?: string | null; address?: string | null };
+  contact?: { phone?: string | null; email?: string | null; address?: string | null; whatsapp?: string | null };
   heroImage?: string | null;
   sourceUrls?: string[];
   trips: PreparedTrip[];
@@ -193,12 +195,14 @@ export async function importPreparedOperator(op: PreparedOperator, now = new Dat
     return { ok: true as const, slug: op.slug, claimed: true, created: 0, updated: 0, unchanged: 0, removed: 0 };
   }
 
-  const region = [op.town, op.state].filter(Boolean).join(", ") || "Australia";
+  const country = op.country?.trim().toUpperCase() || "AU";
+  const region = [op.town, op.state].filter(Boolean).join(", ") || (country === "BB" ? "Barbados" : "Australia");
   await prisma.operatorLead.upsert({
     where: { slug: op.slug },
     create: {
       slug: op.slug, name: op.name, category: op.category ?? null, region, websiteUrl: op.website,
-      email: op.contact?.email ?? null, phone: op.contact?.phone ?? null, source: "prepared-page",
+      // A Barbados lead is its own market: kept out of the Australian outreach and CRM views.
+      email: op.contact?.email ?? null, phone: op.contact?.phone ?? null, source: country === "BB" ? "barbados" : "prepared-page",
     },
     update: { name: op.name, category: op.category ?? null, region, websiteUrl: op.website },
   });
@@ -215,7 +219,7 @@ export async function importPreparedOperator(op: PreparedOperator, now = new Dat
     where: { accountId: account.id },
     create: {
       accountId: account.id, status: "PENDING_REVIEW", companyName: op.name, websiteUrl: op.website,
-      claimedOperatorSlug: op.slug, country: "AU",
+      claimedOperatorSlug: op.slug, country,
       notes: `Placeholder for a page prepared from the operator's own website on ${now.toISOString().slice(0, 10)}. Not a real sign-in.`,
     },
     update: { companyName: op.name, websiteUrl: op.website, claimedOperatorSlug: op.slug },
@@ -549,8 +553,10 @@ export async function approveWaitingTrips(input: { slug: string; reviewer: strin
 }
 
 /** The next page in the queue that still needs a decision, after this one. */
-export async function nextPageToCheck(after: string) {
-  const pages = await prisma.preparedOperatorPage.findMany({ where: { qcStatus: { not: "approved" } }, orderBy: { slug: "asc" }, select: { slug: true } });
+/** The next page waiting for a check, staying inside the region being worked through when there is one. */
+export async function nextPageToCheck(after: string, region?: string | null) {
+  const waiting = await prisma.preparedOperatorPage.findMany({ where: { qcStatus: { not: "approved" } }, orderBy: { slug: "asc" }, select: { slug: true, data: true } });
+  const pages = waiting.filter((p) => inRegion(pageRegion(p.data as unknown as PreparedOperator), region));
   return (pages.find((p) => p.slug > after) ?? pages.find((p) => p.slug !== after))?.slug ?? null;
 }
 
@@ -575,6 +581,40 @@ export function mediaCoverage(page: PreparedOperator, trips: { trip: PreparedTri
 }
 
 /** The checking queue: every prepared page with how far its check has got and what to look at first. */
+/** The regions the checking queue can be walked by: each country, and Australia's states. */
+export const PAGE_REGIONS = [
+  { key: "barbados", label: "Barbados" },
+  { key: "australia", label: "Australia" },
+  { key: "qld", label: "Queensland", short: "QLD" },
+  { key: "nsw", label: "New South Wales", short: "NSW" },
+  { key: "vic", label: "Victoria", short: "VIC" },
+  { key: "tas", label: "Tasmania", short: "TAS" },
+  { key: "sa", label: "South Australia", short: "SA" },
+  { key: "wa", label: "Western Australia", short: "WA" },
+  { key: "nt", label: "Northern Territory", short: "NT" },
+  { key: "act", label: "Canberra", short: "ACT" },
+] as const;
+
+export type PageRegionKey = (typeof PAGE_REGIONS)[number]["key"];
+
+const STATE_KEYS: Record<string, PageRegionKey> = {
+  qld: "qld", queensland: "qld", nsw: "nsw", "new south wales": "nsw", vic: "vic", victoria: "vic", tas: "tas", tasmania: "tas",
+  sa: "sa", "south australia": "sa", wa: "wa", "western australia": "wa", nt: "nt", "northern territory": "nt", act: "act",
+};
+
+/** Where a prepared page sits: Barbados, or the Australian state it runs from. */
+export function pageRegion(data: Pick<PreparedOperator, "country" | "state">): PageRegionKey | null {
+  if (data.country?.toUpperCase() === "BB" || data.state?.trim().toLowerCase() === "barbados") return "barbados";
+  return STATE_KEYS[data.state?.trim().toLowerCase() ?? ""] ?? null;
+}
+
+/** True when a page belongs to the region asked for; "australia" takes in every state. */
+export function inRegion(region: PageRegionKey | null, wanted: string | null | undefined) {
+  if (!wanted) return true;
+  if (wanted === "australia") return Boolean(region && region !== "barbados");
+  return region === wanted;
+}
+
 export async function preparedPagesOverview() {
   const pages = await prisma.preparedOperatorPage.findMany({ orderBy: { slug: "asc" } });
   return Promise.all(pages.map(async (p) => {
@@ -602,6 +642,8 @@ export async function preparedPagesOverview() {
     return {
       slug: p.slug,
       name: data.name,
+      region: pageRegion(data),
+      town: data.town?.trim() || null,
       where: [data.town, data.state].filter(Boolean).join(", "),
       website: data.website,
       qcStatus: p.qcStatus as QcStatus,

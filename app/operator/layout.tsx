@@ -6,6 +6,7 @@ import { isClaimPathname } from "@/lib/services/pathname";
 import { operatorSections } from "@/lib/services/operator/sections";
 import { hasClaimedPreparedPage } from "@/lib/services/operators/prepared-pages";
 import { railsAccess } from "@/lib/services/rails/access";
+import { creatorCreditCountry } from "@/lib/services/onboarding/creator-campaigns";
 import "../rails.css";
 import "../theme-light.css";
 
@@ -43,7 +44,7 @@ export default async function OperatorLayout({ children }: { children: ReactNode
         area="Operator"
         groups={[{
           label: "Menu",
-          items: operatorSections(rails.enabled, hasPreparedPage).map((section) => ({ ...section, exact: section.href === "/operator" })),
+          items: operatorSections(rails.enabled, hasPreparedPage, creatorCreditCountry(profile.country)).map((section) => ({ ...section, exact: section.href === "/operator" })),
         }]}
         person={profile.companyName ?? account.email}
         role="Operator"

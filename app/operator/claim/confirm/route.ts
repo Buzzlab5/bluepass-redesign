@@ -1,5 +1,7 @@
 import { NextResponse, type NextRequest } from "next/server";
 import { createTravellerSession } from "@/lib/services/auth/session";
+import { prisma } from "@/lib/db/prisma";
+import { creatorCreditCountry } from "@/lib/services/onboarding/creator-campaigns";
 import { claimPreparedPage } from "@/lib/services/operators/prepared-claim";
 
 /**
@@ -19,6 +21,9 @@ export async function POST(request: NextRequest) {
   const result = await claimPreparedPage({ token });
   if (!result.ok) return back(result.code);
   await createTravellerSession(result.accountId);
-  // Straight to their welcome: their creator credit, and the creators who suit their trips.
-  return NextResponse.redirect(new URL("/operator/creators?welcome=1", request.url), 303);
+  // Straight to their welcome: their creator credit and the creators who suit their trips,
+  // where that is on offer (Australia); everyone else lands on their own page.
+  const profile = await prisma.operatorProfile.findUnique({ where: { accountId: result.accountId }, select: { country: true } });
+  const welcome = creatorCreditCountry(profile?.country) ? "/operator/creators?welcome=1" : "/operator/your-page?welcome=1";
+  return NextResponse.redirect(new URL(welcome, request.url), 303);
 }

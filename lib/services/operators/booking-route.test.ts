@@ -12,8 +12,15 @@ describe("how a prepared trip books", () => {
 
   it("is booked by asking when the website gives no booking link, as charters and school trips are", () => {
     expect(bookingRoute(trip({ kind: "charter", sourceUrl: "https://reef.test/charters" }), page)).toEqual({
-      kind: "enquire", url: "https://reef.test/charters", email: "hello@reef.test", phone: "07 4000 0000",
+      kind: "enquire", url: "https://reef.test/charters", email: "hello@reef.test", phone: "07 4000 0000", whatsapp: null,
     });
+  });
+
+  it("offers WhatsApp when the operator publishes a WhatsApp number", () => {
+    const withChat = { ...page, contact: { ...page.contact, whatsapp: "https://wa.me/12465551234?text=Hi" } };
+    expect(bookingRoute(trip({}), withChat)).toMatchObject({ kind: "enquire", whatsapp: "https://wa.me/12465551234" });
+    expect(bookingRoute(trip({}), { ...page, contact: { ...page.contact, whatsapp: "+1 (246) 555-1234" } })).toMatchObject({ whatsapp: "https://wa.me/12465551234" });
+    expect(bookingRoute(trip({}), { ...page, contact: { ...page.contact, whatsapp: "call us" } })).toMatchObject({ whatsapp: null });
   });
 
   it("never sends a traveller to a link that is not a web address", () => {
