@@ -1,6 +1,7 @@
 import { formatClock, formatDepartureDay } from "@/lib/services/rails/format";
 import { googleCalendarLink, tripCalendarFileUrl, tripUrl, siteUrl } from "@/lib/services/rails/links";
 import { formatMoney } from "@/lib/services/rails/money";
+import { guestsLine } from "@/lib/booking-party";
 
 /**
  * What each booking email says. Content only: sending, and recording that it was
@@ -86,14 +87,6 @@ function content(subject: string, title: string, rows: [string, string][], parag
   return { subject, html: layout(title, rows, paragraphs, buttons), text: text(title, rows, paragraphs, buttons) };
 }
 
-function partyLine(b: EmailBooking) {
-  // Taxes and fees a booking system adds are part of the price, not of the party.
-  return b.lines
-    .filter((l) => l.rateId !== "fees" && !l.rateId?.startsWith("extra:"))
-    .map((l) => (l.quantity > 1 ? `${l.quantity} × ${l.label}` : l.label))
-    .join(", ");
-}
-
 /** "View your booking" and "Add to Google Calendar", for any booking with a guest page. */
 function travellerButtons(b: EmailBooking, listing: EmailListing): Button[] {
   if (!b.guestToken) return [];
@@ -118,7 +111,7 @@ function travellerButtons(b: EmailBooking, listing: EmailListing): Button[] {
 function bookingRows(b: EmailBooking, listing: EmailListing): [string, string][] {
   const rows: [string, string][] = [["Booking", b.reference]];
   if (b.externalReference) rows.push(["Operator reference", b.externalReference]);
-  rows.push(["Trip", listing.title], ["When", when(b)], ["Guests", `${b.guests} · ${partyLine(b)}`]);
+  rows.push(["Trip", listing.title], ["When", when(b)], ["Guests", guestsLine(b)]);
   const addOns = b.lines.filter((l) => l.rateId?.startsWith("extra:"));
   if (addOns.length) rows.push(["Add-ons", addOns.map((l) => (l.quantity > 1 ? `${l.label} × ${l.quantity}` : l.label)).join(", ")]);
   if (b.totalCents > 0 && b.source !== "OPERATOR") rows.push(["Paid", formatMoney(b.totalCents, b.currency)]);
@@ -173,7 +166,7 @@ export function reminderEmail(b: EmailBooking, listing: EmailListing): EmailCont
   const rows: [string, string][] = [
     ["Booking", b.reference],
     ["When", when(b)],
-    ["Guests", `${b.guests} · ${partyLine(b)}`],
+    ["Guests", guestsLine(b)],
   ];
   if (listing.meetingPoint) rows.push(["Meet at", listing.meetingPoint]);
   return content(
@@ -189,7 +182,7 @@ export function operatorAlertEmail(b: EmailBooking, listing: EmailListing, manif
   const rows: [string, string][] = [
     ["Booking", b.reference],
     ["Departure", when(b)],
-    ["Guests", `${b.guests} · ${partyLine(b)}`],
+    ["Guests", guestsLine(b)],
     ["Lead guest", [b.leadName, b.leadPhone, b.leadEmail].filter(Boolean).join(" · ")],
   ];
   if (b.notes) rows.push(["Notes", b.notes]);
