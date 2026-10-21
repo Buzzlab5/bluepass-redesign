@@ -9,12 +9,12 @@ import { runOutreachBatch } from "@/lib/services/outreach/runner";
 export const runtime = "nodejs";
 
 async function handle(request: NextRequest) {
-  const expectedSecret = process.env.CRON_SECRET;
-  if (expectedSecret) {
-    const received = request.headers.get("authorization")?.replace(/^Bearer\s+/i, "");
-    if (received !== expectedSecret) {
-      return NextResponse.json({ error: "Unauthorized." }, { status: 401 });
-    }
+  /* Closed when the secret is missing, not open: with no CRON_SECRET the old check let anyone start a
+     batch. A batch is the one thing here that sends mail, so a forgotten variable must stop it, as it
+     does for the other cron routes that move money or bookings. */
+  const secret = process.env.CRON_SECRET?.trim();
+  if (!secret || request.headers.get("authorization")?.replace(/^Bearer\s+/i, "") !== secret) {
+    return NextResponse.json({ error: "Unauthorized." }, { status: 401 });
   }
   const result = await recordCronRun("outreach", () => runOutreachBatch());
   return NextResponse.json({ ok: true, ...result });

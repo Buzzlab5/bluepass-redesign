@@ -1,4 +1,6 @@
 {
   "regions": ["sin1"],
-  "crons": []
+  "crons": [
+    { "path": "/api/cron/outreach", "schedule": "0 21 * * 0-4" }
+  ]
 }
