@@ -77,6 +77,13 @@ export const ADMIN_SECTIONS: AdminSection[] = [
     blurb: "Creators operators picked when they joined: who still needs an invite, and posts an operator questioned.",
   },
   {
+    href: "/admin/visits",
+    group: "Menu",
+    icon: "visits",
+    label: "Visits",
+    blurb: "Barbados operators by town, for going round in person: the claim code to scan, their page to show, and their business email to confirm.",
+  },
+  {
     href: "/admin/outreach",
     group: "Menu",
     icon: "outreach",

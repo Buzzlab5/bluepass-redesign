@@ -25,6 +25,7 @@ export default defineConfig({
       "lib/services/channels/**",
       "lib/services/operators/prepared-*.test.ts",
       "lib/services/operators/own-media.test.ts",
+      "lib/services/operators/visits.test.ts",
       "lib/services/onboarding/**",
       "lib/services/outreach/**",
     ],

@@ -7,7 +7,8 @@ import TripGrid, { type TripCardData } from "@/components/operators/TripGrid";
 import VideoGrid from "@/components/operators/VideoGrid";
 import { bookingRoute } from "@/lib/services/operators/booking-route";
 import { playableVideos } from "@/lib/services/operators/videos";
-import type { LoadedPage, PreparedTrip } from "@/lib/services/operators/prepared-pages";
+import type { LoadedPage } from "@/lib/services/operators/prepared-pages";
+import { lowestPrice, money, priceOf } from "@/lib/services/operators/page-price";
 
 /**
  * The public face of a prepared operator page: who they are and every trip they run, in
@@ -48,28 +49,6 @@ const KIND: Record<string, [string, string]> = {
 const kindOf = (k: string) => (KIND[k] && k !== "other" ? k : "tour");
 const kindLabel = (k: string) => KIND[kindOf(k)][0];
 const kindPlural = (k: string) => KIND[kindOf(k)][1];
-
-function money(amount: number, currency: string) {
-  const symbol = currency === "AUD" ? "A$" : currency === "USD" ? "US$" : currency === "BBD" ? "BDS$" : `${currency} `;
-  return `${symbol}${amount.toLocaleString("en-AU", { minimumFractionDigits: amount % 1 ? 2 : 0, maximumFractionDigits: 2 })}`;
-}
-
-/** The trip's From price: Rezdy's live one when it books on Bluepass, otherwise the website's. */
-function priceOf(t: Trip): { amount: number; currency: string; per: string | null } | null {
-  if (t.bookable?.priceFrom) return { amount: t.bookable.priceFrom, currency: t.bookable.currency, per: "per guest" };
-  const trip = t.trip;
-  if (!trip.priceFrom) return null;
-  const currency = trip.prices?.find((p) => p.label === trip.priceFromLabel)?.currency ?? trip.prices?.[0]?.currency ?? "AUD";
-  return { amount: trip.priceFrom, currency, per: perWhom(trip) };
-}
-
-/** "per adult" only when the From price is an adult's fare; a charter's price is for the boat. */
-function perWhom(t: PreparedTrip) {
-  const label = t.priceFromLabel ?? "";
-  if (/\badults?\b/i.test(label)) return "per adult";
-  if (/per (person|guest|head)|\bpp\b/i.test(label)) return "per person";
-  return null;
-}
 
 function websiteHref(url: string) {
   return /^https?:\/\//.test(url) ? url : `https://${url}`;
@@ -159,21 +138,6 @@ function cardsFor(trips: Trip[], preview: boolean, links: PageLinks, shownAbove:
       check: preview && t.check.status !== "approved" ? (t.check.status === "needs_fix" ? "Needs a fix" : "Not yet approved") : null,
     };
   });
-}
-
-/** The cheapest From price across the trips, in the currency most of them use. */
-function lowestPrice(trips: Trip[]) {
-  // A private charter's whole-boat price is not where a traveller starts; it counts only for an
-  // operator that runs nothing but charters. With shared trips and none priced, there is no From.
-  const isCharter = (t: Trip) => t.trip.kind === "charter" || /\bprivate\b|\bcharters?\b/i.test(t.trip.title);
-  const shared = trips.filter((t) => !isCharter(t));
-  const prices = (shared.length ? shared : trips).map(priceOf).filter((p): p is NonNullable<ReturnType<typeof priceOf>> => Boolean(p));
-  if (!prices.length) return null;
-  const counts = new Map<string, number>();
-  for (const p of prices) counts.set(p.currency, (counts.get(p.currency) ?? 0) + 1);
-  const currency = [...counts.entries()].sort((a, b) => b[1] - a[1])[0][0];
-  const low = Math.min(...prices.filter((p) => p.currency === currency).map((p) => p.amount));
-  return money(low, currency);
 }
 
 export function PreparedOperatorView({ data, preview, travellerView = false, links, banner }: {

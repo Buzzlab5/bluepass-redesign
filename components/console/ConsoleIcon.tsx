@@ -18,6 +18,7 @@ export type ConsoleIconName =
   | "page"
   | "creators"
   | "outreach"
+  | "visits"
   | "external";
 
 const PATHS: Record<ConsoleIconName, React.ReactNode> = {
@@ -105,6 +106,12 @@ const PATHS: Record<ConsoleIconName, React.ReactNode> = {
     <>
       <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
       <path d="M14 2v6h6M16 13H8M16 17H8M10 9H8" />
+    </>
+  ),
+  visits: (
+    <>
+      <path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 0 1 16 0z" />
+      <circle cx="12" cy="10" r="3" />
     </>
   ),
   outreach: (
