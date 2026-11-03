@@ -28,6 +28,11 @@ export default defineConfig({
       "lib/services/operators/visits.test.ts",
       "lib/services/onboarding/**",
       "lib/services/outreach/**",
+      // WhatsApp loop suites TRUNCATE "Operator", "Booking", "Trip" ... CASCADE and write rows;
+      // listed in vitest.rails.config.ts, never here. (app/api/** is outside this config's include.)
+      "lib/services/whatsapp/webhook-handler.test.ts",
+      "lib/services/whatsapp/traveller-conversation.test.ts",
+      "lib/services/admin/operator-phone-storage.test.ts",
     ],
     /**
      * Test files run one at a time.

@@ -12,6 +12,19 @@ export type OperatorButtonPayload =
       source: "button_text";
     };
 
+/**
+ * A button payload that can never parse (a foreign app's button, a corrupted
+ * tap). Distinct from a transient failure: retrying it can never succeed, so
+ * the webhook layer records a terminal failed receipt and answers 200 instead
+ * of looping Meta redeliveries.
+ */
+export class InvalidOperatorButtonPayloadError extends Error {
+  constructor(message: string) {
+    super(message);
+    this.name = "InvalidOperatorButtonPayloadError";
+  }
+}
+
 const operatorButtonActions = new Set<OperatorButtonAction>([
   "accept",
   "decline",
@@ -29,14 +42,14 @@ export function parseOperatorButtonPayload(payload: string): OperatorButtonPaylo
   const trimmed = payload.trim();
 
   if (!trimmed) {
-    throw new Error("Invalid operator button payload: payload is empty.");
+    throw new InvalidOperatorButtonPayloadError("Invalid operator button payload: payload is empty.");
   }
 
   const separatorIndex = trimmed.indexOf(":");
   if (separatorIndex < 0) {
     const buttonTextAction = buttonTextActionMap[trimmed.toLowerCase()];
     if (!buttonTextAction) {
-      throw new Error(`Invalid operator button payload action: ${trimmed}.`);
+      throw new InvalidOperatorButtonPayloadError(`Invalid operator button payload action: ${trimmed}.`);
     }
 
     return {
@@ -50,11 +63,11 @@ export function parseOperatorButtonPayload(payload: string): OperatorButtonPaylo
   const bookingId = trimmed.slice(separatorIndex + 1).trim();
 
   if (!operatorButtonActions.has(action as OperatorButtonAction)) {
-    throw new Error(`Invalid operator button payload action: ${action}.`);
+    throw new InvalidOperatorButtonPayloadError(`Invalid operator button payload action: ${action}.`);
   }
 
   if (!bookingId) {
-    throw new Error("Invalid operator button payload: bookingId is required.");
+    throw new InvalidOperatorButtonPayloadError("Invalid operator button payload: bookingId is required.");
   }
 
   return {

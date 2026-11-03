@@ -1,4 +1,4 @@
-import { findCountryByDial, type Country } from "@/lib/countries";
+import { DEFAULT_COUNTRY_ISO, findCountryByDial, findCountryByIso, type Country } from "@/lib/countries";
 
 /**
  * Turning whatever someone types into E.164.
@@ -54,4 +54,44 @@ export function clampNational(digits: string, country: Country) {
 /** E.164, or `""` while the number is too short to be a real one. */
 export function toE164(country: Country, national: string) {
   return national.length >= NATIONAL_MIN_DIGITS ? `+${country.dial}${national}` : "";
+}
+
+/**
+ * Canonical E.164 for STORAGE ("+61412..."), or null when the input cannot be
+ * a real number. Every write path for an operator phone must store this
+ * marked form: the "+" marker is the provenance the webhook authorization
+ * comparison relies on. Digit-stripping storage (normalizePhone-style)
+ * destroys it - a bare national number whose leading digits form another
+ * country's dial code would otherwise be ambiguous forever after.
+ *
+ * Input rules are explicit: "+"/"00" values carry their own country
+ * (parsePhoneInput adopts it); a leading "0" marks a national number read
+ * under `current` - the country the form collected - or the project default;
+ * any OTHER bare digits are ambiguous (international-without-marker or
+ * trunk-less national) and are REJECTED, never guessed. A value that cannot
+ * produce a real, unambiguous E.164 returns null.
+ */
+export function toStorageE164(raw: string | null | undefined, current?: Country): string | null {
+  if (!raw?.trim()) {
+    return null;
+  }
+  const fallback = current ?? findCountryByIso(DEFAULT_COUNTRY_ISO);
+  if (!fallback) {
+    return null;
+  }
+  if (!/^\s*(\+|00)/.test(raw)) {
+    const digits = raw.replace(/\D/g, "");
+    if (!digits.startsWith("0") && findCountryByDial(digits)) {
+      /* Ambiguous: international digits that lost their marker, or a
+         trunk-less national number. Storing either reading could silently
+         point at the wrong subscriber (bare "61412..." mis-stored as
+         +6161412... locks the real operator out), so the caller must get the
+         number again in an explicit form - marked international, or national
+         with its trunk "0" read under the collected/default country. */
+      return null;
+    }
+  }
+  const parsed = parsePhoneInput(raw, fallback);
+  const e164 = toE164(parsed.country, parsed.national);
+  return e164 === "" ? null : e164;
 }

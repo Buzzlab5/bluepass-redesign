@@ -10,6 +10,17 @@ npm run dev     # http://localhost:3000
 npm run build
 ```
 
+## Database
+
+After pulling changes that touch `prisma/schema.prisma` (e.g. the
+`WhatsAppInboundReceipt` model), regenerate the client and apply migrations
+before running the app or tests:
+
+```bash
+npx prisma generate
+npx prisma migrate deploy   # or: npx prisma migrate dev
+```
+
 ## Structure
 
 | Path | What's in it |

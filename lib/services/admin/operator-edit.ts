@@ -4,6 +4,8 @@ import { z } from "zod";
 import { prisma } from "@/lib/db/prisma";
 import { encryptCredentials } from "@/lib/services/booking/adapters/credentials";
 import { PAYOUT_METHODS } from "./operator-onboarding";
+import { findCountryByIso } from "@/lib/countries";
+import { toStorageE164 } from "@/lib/phone";
 
 /**
  * Viewing and editing an operator profile that already exists — the counterpart to
@@ -154,6 +156,22 @@ export async function updateOperatorBasicInfo(input: BasicInfoInput): Promise<Op
   }
 
   const data = parsed.data;
+
+  // Marker-preserving canonical write, same rule as operator onboarding: the
+  // number authorizes operator actions, so only E.164 may be stored.
+  if (data.whatsappE164) {
+    const canonical = toStorageE164(data.whatsappE164, findCountryByIso(data.country));
+    if (!canonical) {
+      return {
+        ok: false,
+        message:
+          "That WhatsApp number is not a recognisable phone number. Use the full international format (e.g. +628123456789) or a valid local number for the selected country.",
+        field: "whatsappE164",
+      };
+    }
+    data.whatsappE164 = canonical;
+  }
+
   const existing = await prisma.operatorProfile.findUnique({
     where: { id: input.operatorProfileId },
     select: { notes: true },

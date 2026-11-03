@@ -4,6 +4,8 @@ import { OperatorPayoutMethod } from "@prisma/client";
 import { z } from "zod";
 import { prisma } from "@/lib/db/prisma";
 import { encryptCredentials } from "@/lib/services/booking/adapters/credentials";
+import { findCountryByIso } from "@/lib/countries";
+import { toStorageE164 } from "@/lib/phone";
 
 export const PAYOUT_METHODS = [
   OperatorPayoutMethod.MANUAL_BANK_TRANSFER,
@@ -107,6 +109,26 @@ export async function createManualOperator(input: ManualOperatorInput): Promise<
 
   const data = parsed.data;
   const websiteUrl = normalizeUrl(data.websiteUrl);
+
+  /* Marker-preserving canonical write: the WhatsApp number authorizes
+     operator actions by exact canonical comparison, so it is stored only as
+     E.164 - international input carries its own country, national input is
+     read under the country this form collected (project default otherwise).
+     A number that cannot canonicalize is rejected here, never stored
+     ambiguous. */
+  if (data.whatsappE164) {
+    const canonical = toStorageE164(data.whatsappE164, findCountryByIso(data.country));
+    if (!canonical) {
+      return {
+        ok: false,
+        code: "VALIDATION",
+        message:
+          "That WhatsApp number is not a recognisable phone number. Use the full international format (e.g. +628123456789) or a valid local number for the selected country.",
+        field: "whatsappE164",
+      };
+    }
+    data.whatsappE164 = canonical;
+  }
 
   const duplicate = await findDuplicateProfile({
     companyName: data.companyName,

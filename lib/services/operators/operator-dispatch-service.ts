@@ -12,6 +12,7 @@ import {
   type OperatorInquiryTemplateInput,
 } from "@/lib/services/whatsapp/operator-dispatch";
 import { whatsappTemplateNames } from "@/lib/services/whatsapp/templates";
+import { toStorageE164 } from "@/lib/phone";
 
 const operatorInquirySendMode = {
   template: "template",
@@ -30,7 +31,15 @@ export async function dispatchInquiryToOperator(
   const inquiry = await prisma.bookingInquiry.findUniqueOrThrow({
     where: { id: input.inquiryId },
   });
-  const recipientPhone = normalizePhone(input.operatorPhone);
+  /* Canonical marker-preserving storage: recipientPhone is what the webhook
+     authorization comparison reads, so it is stored only as E.164. The Meta
+     send address stays digits-only, as the API requires. */
+  const recipientPhone = toStorageE164(input.operatorPhone);
+  if (!recipientPhone) {
+    throw new Error(
+      `Cannot dispatch inquiry ${input.inquiryId}: the operator phone is not a recognisable number.`,
+    );
+  }
   const templateInput = buildInquiryTemplateInput({
     inquiry,
     operatorPhone: recipientPhone,
@@ -195,8 +204,19 @@ export function buildInquiryTemplateInput(input: {
     .filter(Boolean)
     .join(" | ");
 
+  /* The Meta send target is derived from the canonical storage value, never
+     from raw input: a national "0412..." sent as-is is a wrong address Meta
+     rejects. Digits-only on the wire, as the API requires; the stored
+     recipientPhone keeps its "+" marker as canonical provenance. */
+  const canonicalTo = toStorageE164(input.operatorPhone);
+  if (!canonicalTo) {
+    throw new Error(
+      `Cannot build an operator dispatch for inquiry ${input.inquiry.id}: the operator phone is not a recognisable number.`,
+    );
+  }
+
   return {
-    to: input.operatorPhone,
+    to: canonicalTo.replace(/\D/g, ""),
     bookingId: input.inquiry.id,
     inquiryTitle: inquiryTitle || "BluePass yacht inquiry",
     travellerName: input.inquiry.travellerName ?? "BluePass traveller",
@@ -215,6 +235,3 @@ function formatReferralSource(code: string, role?: string | null) {
   return role ? `${role.toLowerCase()} / ${code}` : code;
 }
 
-function normalizePhone(value: string) {
-  return value.trim().replace(/[^\d]/g, "");
-}

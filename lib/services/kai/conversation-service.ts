@@ -5,6 +5,11 @@ import { sanitizeObjectForResponse } from "@/lib/services/kai/json-safety";
 import { generateKaiReply } from "@/lib/services/kai/llm-provider";
 import { prismaKaiConversationStore } from "@/lib/services/kai/prisma-conversation-store";
 import { extractKaiTravelIntent } from "@/lib/services/kai/slot-extractor";
+import {
+  confirmedSelectionFromAssistantMessage,
+  detectOptionSelectionIntent,
+  resolveOptionReference,
+} from "@/lib/services/kai/option-reference";
 import { searchYachtsForIntent } from "@/lib/services/kai/yacht-catalog-search";
 import type {
   KaiChannel,
@@ -101,8 +106,16 @@ export function createKaiConversationService(
         previousMessages,
         recentClientMessages,
       );
+      // Intent reconstruction uses the full deduped memory, not the 12-turn
+      // LLM window: known slots must not be forgotten just because the chat
+      // window slid past the message that first stated them.
+      const conversationMemoryForIntent = mergeConversationMemory(
+        previousMessages,
+        recentClientMessages,
+        Number.POSITIVE_INFINITY,
+      );
       const reconstructedIntent = reconstructIntentFromHistory(
-        conversationMemory,
+        conversationMemoryForIntent,
         previousContext?.intent,
       );
       const prefilledIntent = mergeTravellerProfileIntoIntent(
@@ -111,7 +124,7 @@ export function createKaiConversationService(
       );
       const inferredLastAskedSlot =
         previousContext?.lastAskedSlot ??
-        inferLastAskedSlotFromHistory(conversationMemory);
+        inferLastAskedSlotFromHistory(conversationMemoryForIntent);
       const contextKeys = previousContext ? Object.keys(previousContext) : [];
       logKaiStage("kai.session.loaded_or_created", {
         sessionId,
@@ -151,18 +164,57 @@ export function createKaiConversationService(
         intentKeys: Object.keys(intent),
         missingSlots: planner.missingSlots,
       });
-      const matches =
+      let matches =
         planner.conversationStage === "ready_to_match"
           ? narrowMatchesToSelectedYacht(
               searchYachtsSafely(intent, sessionId, input.channel),
               intent.selectedYachtSlug,
             )
           : [];
+
+      // Resolve references to options Kai actually showed ("the first one",
+      // "the Rascal"). Only unambiguous grounded references resolve;
+      // anything else asks for clarification instead of guessing.
+      const optionReference = resolveOptionReference({
+        message: input.message,
+        selectedYachtSlug: intent.selectedYachtSlug,
+        matches,
+        memory: conversationMemoryForIntent,
+      });
+
+      if (optionReference.kind === "resolved") {
+        intent = { ...intent, selectedYachtSlug: optionReference.slug };
+        matches = narrowMatchesToSelectedYacht(
+          matches.length > 0
+            ? matches
+            : searchYachtsSafely(intent, sessionId, input.channel),
+          optionReference.slug,
+        );
+      } else if (
+        optionReference.kind === "clarify" &&
+        optionReference.clearSelection &&
+        intent.selectedYachtSlug
+      ) {
+        // A failed explicit correction must not keep the old boat as a
+        // silent success: clear it, un-narrow the cards, and clarify.
+        intent = { ...intent, selectedYachtSlug: undefined };
+        matches =
+          planner.conversationStage === "ready_to_match"
+            ? searchYachtsSafely(intent, sessionId, input.channel)
+            : [];
+      }
+
+      const optionClarification =
+        optionReference.kind === "clarify"
+          ? optionReference.candidates.map((candidate) => candidate.name)
+          : undefined;
+
       const deterministicReply = buildDeterministicReply(
         intent,
         planner,
         input.message,
         matches,
+        { optionClarification },
       );
       const suggestedReplies = buildSuggestedReplies(intent, planner, matches);
       const context = buildSessionContext(intent, planner);
@@ -366,6 +418,7 @@ export function buildDeterministicReply(
   }),
   latestUserMessage = "",
   matches: YachtMatch[] = [],
+  extras: { optionClarification?: string[] } = {},
 ) {
   if (intent.unsupportedDestination) {
     return `BluePass is currently focused on Komodo and Raja Ampat liveaboards. I can't match ${intent.unsupportedDestination} yet, but I can help compare Komodo and Raja Ampat if either works for you.`;
@@ -384,6 +437,14 @@ export function buildDeterministicReply(
 
   if (destinationOverviewReply) {
     return destinationOverviewReply;
+  }
+
+  if (extras.optionClarification && extras.optionClarification.length === 1) {
+    return `Right now the only option on the table is ${extras.optionClarification[0]}. Say its name to select it, or tap Send inquiry on its card.`;
+  }
+
+  if (extras.optionClarification && extras.optionClarification.length > 1) {
+    return `Happy to - which one should I prepare the inquiry for: ${joinHumanList(extras.optionClarification)}? Tap Send inquiry on that card, or just tell me the name.`;
   }
 
   if (planner.missingSlots.includes("destination")) {
@@ -636,30 +697,31 @@ function normalizeRecentClientMessages(
 function mergeConversationMemory(
   storedMessages: KaiConversationMessage[],
   recentClientMessages: KaiConversationMessage[],
+  limit = 12,
 ) {
   if (recentClientMessages.length === 0) {
-    return storedMessages;
+    return storedMessages.slice(-limit);
   }
 
   if (storedMessages.length === 0) {
-    return recentClientMessages;
+    return recentClientMessages.slice(-limit);
   }
 
   const merged = [...storedMessages, ...recentClientMessages];
   const seen = new Set<string>();
 
-  return merged
-    .filter((message) => {
-      const key = `${message.role}:${message.content}`;
+  const deduped = merged.filter((message) => {
+    const key = `${message.role}:${message.content}`;
 
-      if (seen.has(key)) {
-        return false;
-      }
+    if (seen.has(key)) {
+      return false;
+    }
 
-      seen.add(key);
-      return true;
-    })
-    .slice(-12);
+    seen.add(key);
+    return true;
+  });
+
+  return Number.isFinite(limit) ? deduped.slice(-limit) : deduped;
 }
 
 function reconstructIntentFromHistory(
@@ -669,16 +731,52 @@ function reconstructIntentFromHistory(
   let intent = initialIntent;
   let lastAskedSlot: KaiMissingSlot | undefined;
 
-  for (const message of messages) {
+  for (let index = 0; index < messages.length; index++) {
+    const message = messages[index];
+
     if (message.role === "assistant") {
       lastAskedSlot =
         inferLastAskedSlotFromText(message.content) ?? lastAskedSlot;
+
+      // Selections Kai confirmed (or cleared) apply in order, so a later
+      // correction survives: replaying an older "I'm interested in X" must
+      // never resurrect the boat that correction replaced.
+      const confirmed = confirmedSelectionFromAssistantMessage(message);
+
+      if (confirmed) {
+        intent = { ...intent, selectedYachtSlug: confirmed.slug };
+      }
     }
 
     if (message.role === "user") {
       intent = extractKaiTravelIntent(message.content, intent, {
         lastAskedSlot,
       });
+
+      // Replay selection resolution in order, fail closed, using only the
+      // context actually available in the history: a correction that
+      // clarified and cleared live must clear here too, on every channel -
+      // a cleared boat must never come back as a silent success. Historical
+      // this-turn recomputed matches are unknowable, so the resolver runs
+      // with an empty fallback; any residual gap is corrected by the next
+      // assistant confirmation above.
+      if (detectOptionSelectionIntent(message.content)) {
+        const resolution = resolveOptionReference({
+          message: message.content,
+          selectedYachtSlug: intent.selectedYachtSlug,
+          matches: [],
+          memory: messages.slice(0, index),
+        });
+
+        if (resolution.kind === "resolved") {
+          intent = { ...intent, selectedYachtSlug: resolution.slug };
+        } else if (
+          resolution.kind === "clarify" &&
+          resolution.clearSelection
+        ) {
+          intent = { ...intent, selectedYachtSlug: undefined };
+        }
+      }
     }
   }
 
@@ -700,6 +798,13 @@ function inferLastAskedSlotFromHistory(messages: KaiConversationMessage[]) {
 }
 
 function inferLastAskedSlotFromText(text: string): KaiMissingSlot | undefined {
+  // Slot inference only applies to actual questions. Statements like season
+  // advice mention slots ("for 4 guests", "liveaboard") without asking for
+  // them, and previously hijacked lastAskedSlot from the real open question.
+  if (!text.includes("?")) {
+    return undefined;
+  }
+
   const normalized = text.toLowerCase();
 
   if (/how many|guests?|people|travelers|travellers/.test(normalized)) {
@@ -715,12 +820,30 @@ function inferLastAskedSlotFromText(text: string): KaiMissingSlot | undefined {
   }
 
   if (/name|email|e-mail|phone|whatsapp|contact/.test(normalized)) {
-    if (/email|e-mail/.test(normalized)) {
-      return "travellerEmail";
+    // A combined ask ("name, email, and WhatsApp number") is normally
+    // answered in the order it was written, so the slot mentioned first is
+    // the one this reply is most likely answering. The previous version
+    // always preferred email, which dropped names from combined asks.
+    const ordered: Array<[number, KaiMissingSlot]> = [];
+    const nameAt = normalized.search(/\bname\b/);
+    const emailAt = normalized.search(/email|e-mail/);
+    const phoneAt = normalized.search(/phone|whatsapp/);
+
+    if (nameAt >= 0) {
+      ordered.push([nameAt, "travellerName"]);
     }
 
-    if (/phone|whatsapp/.test(normalized)) {
-      return "travellerPhone";
+    if (emailAt >= 0) {
+      ordered.push([emailAt, "travellerEmail"]);
+    }
+
+    if (phoneAt >= 0) {
+      ordered.push([phoneAt, "travellerPhone"]);
+    }
+
+    if (ordered.length > 0) {
+      ordered.sort((left, right) => left[0] - right[0]);
+      return ordered[0][1];
     }
 
     return "travellerName";
@@ -1318,10 +1441,14 @@ async function loadHistorySafely(
   });
 
   try {
+    // Read depth for intent reconstruction. The LLM prompt still gets only
+    // the recent window via mergeConversationMemory; reading deeper here is
+    // what lets a session recover slots stated more than 8 messages ago when
+    // saved session context is unavailable or stale.
     const messages = await store.listMessages({
       sessionId: input.sessionId,
       channel: input.channel,
-      limit: 8,
+      limit: 50,
     });
     const safeMessages = Array.isArray(messages)
       ? messages.filter((message) =>

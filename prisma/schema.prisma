@@ -929,6 +929,19 @@ model BookingInquiryEvent {
   @@index([bookingInquiryId, createdAt])
 }
 
+model WhatsAppInboundReceipt {
+  id                String   @id @default(cuid())
+  providerMessageId String   @unique
+  fromPhone         String?
+  handler           String
+  outcome           String?
+  payload           Json?
+  attempts          Int      @default(0)
+  processedAt       DateTime?
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+}
+
 model WhatsAppOutboundMessage {
   id                String                 @id @default(cuid())
   bookingInquiryId  String

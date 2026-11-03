@@ -201,3 +201,61 @@ export function buildOperatorCounterPrompt(input: {
     ].join("\n"),
   };
 }
+
+export function buildOperatorAmbiguousActionPrompt(input: {
+  action: string;
+  inquiries: Array<{
+    ref: string;
+    selectedYachtName: string | null;
+    dateWindow: string | null;
+    guests: number | null;
+  }>;
+}): FreeTextMessage {
+  const lines = input.inquiries.slice(0, 5).map((inquiry) => {
+    const parts = [
+      inquiry.ref,
+      inquiry.selectedYachtName ?? "Unspecified trip",
+      inquiry.dateWindow ?? "dates open",
+      inquiry.guests != null ? `${inquiry.guests} guests` : null,
+    ].filter(Boolean);
+    return `- ${parts.join(" · ")}`;
+  });
+
+  return {
+    type: "text",
+    body: [
+      `You have ${input.inquiries.length} pending inquiries, so a bare "${input.action}" is not enough - I have not changed anything.`,
+      "Reply with the reference, e.g. " + `${input.action}:${input.inquiries[0]?.ref ?? "<ref>"}`,
+      "",
+      ...lines,
+    ].join("\n"),
+  };
+}
+
+export function buildOperatorUnknownRefPrompt(input: {
+  action: string;
+  ref: string;
+}): FreeTextMessage {
+  return {
+    type: "text",
+    body: [
+      `I could not find a pending inquiry matching "${input.ref}" for your number, so nothing changed.`,
+      `Reply ${input.action}:<reference> using one of the references from your inquiry messages.`,
+    ].join("\n"),
+  };
+}
+
+export function buildOperatorCounterReceived(input: {
+  bookingShortCode: string;
+  terms: string;
+}): FreeTextMessage {
+  return {
+    type: "text",
+    body: [
+      `Counter-offer recorded for ${input.bookingShortCode}:`,
+      input.terms,
+      "",
+      "BluePass will carry this to the traveller.",
+    ].join("\n"),
+  };
+}

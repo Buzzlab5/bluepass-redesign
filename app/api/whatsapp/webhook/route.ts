@@ -77,6 +77,13 @@ export async function POST(request: NextRequest) {
           body: message.body,
         });
       },
+      onTravellerReply: async (message, context) => {
+        await sendWhatsAppText({
+          to: context.to,
+          role: "kai",
+          body: message.body,
+        });
+      },
     });
   } catch (error) {
     console.warn("whatsapp.webhook.handler_failed", {

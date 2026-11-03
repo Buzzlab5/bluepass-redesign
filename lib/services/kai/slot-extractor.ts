@@ -385,16 +385,53 @@ function findGuestCount(text: string, lastAskedSlot?: KaiMissingSlot) {
 }
 
 function findBudget(original: string, normalized: string) {
-  const moneyMatch = original.match(/\b(?:under|below|less than|around|about|approx(?:imately)?|budget(?: is)?|up to|max(?:imum)?)?\s*(?:usd\s*)?\$?\s?(\d{1,3}(?:,\d{3})+|\d{3,6}|\d{1,2}(?:\.\d)?k)(?:\s*(?:usd|dollars?|per cabin|per night|night|charter))?\b/i);
+  // Scan every numeric candidate and keep the first one with LOCAL money
+  // evidence. The previous single-match version took the first number in the
+  // message and then checked currency cues anywhere in the text, so a date
+  // like "December 2026" became the budget whenever a "$" appeared later.
+  const moneyPattern = /\b(?:under|below|less than|around|about|approx(?:imately)?|budget(?: is)?|up to|max(?:imum)?)?\s*(?:usd\s*)?\$?\s?(\d{1,3}(?:,\d{3})+|\d{3,6}|\d{1,2}(?:\.\d)?k)(?:\s*(?:usd|dollars?|per cabin|per night|night|charter))?\b/gi;
+  const moneyCue = /\b(budget|under|below|less than|around|about|approx(?:imately)?|up to|max(?:imum)?|per cabin|per night|charter|night|dollars?)\b/i;
 
-  if (
-    moneyMatch &&
-    (original.includes("$") ||
-      /\busd\b/i.test(original) ||
-      /\b(budget|under|below|less than|around|about|approx|up to|max|per cabin|per night|charter|night)\b/i.test(original) ||
-      /\d\s*k\b/i.test(original))
-  ) {
-    return moneyMatch[0].trim();
+  for (const match of original.matchAll(moneyPattern)) {
+    const candidate = match[0];
+    const start = match.index ?? 0;
+    const localBefore = original.slice(Math.max(0, start - 24), start);
+    // The leading word boundary in moneyPattern excludes a "$" directly
+    // before the number from the candidate, so currency evidence must also
+    // look at the characters immediately before the match.
+    const currencyPrefix = /[$]\s*$/.test(localBefore) || /\busd\s*$/i.test(localBefore);
+
+    const hasLocalEvidence =
+      candidate.includes("$") ||
+      /\busd\b/i.test(candidate) ||
+      /\d\s*k\b/i.test(candidate) ||
+      moneyCue.test(candidate) ||
+      moneyCue.test(localBefore) ||
+      currencyPrefix;
+
+    if (!hasLocalEvidence) {
+      continue;
+    }
+
+    // A year-looking amount (2026) is only a budget when the currency
+    // evidence is strong: "$2026" or "2026 dollars" is money; "about 2026"
+    // or "budget 2026" is a year.
+    const numberPart = (candidate.match(/\d{1,3}(?:,\d{3})+|\d{3,6}|\d{1,2}(?:\.\d)?k/)?.[0] ?? "").replace(/,/g, "");
+    const looksLikeYear = /^(?:19|20)\d{2}$/.test(numberPart);
+
+    if (looksLikeYear) {
+      const strongCurrency =
+        candidate.includes("$") ||
+        /\busd\b/i.test(candidate) ||
+        /\bdollars?\b/i.test(candidate) ||
+        currencyPrefix;
+
+      if (!strongCurrency) {
+        continue;
+      }
+    }
+
+    return candidate.trim();
   }
 
   if (containsPhrase(normalized, "luxury")) {
