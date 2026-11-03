@@ -940,6 +940,8 @@ model WhatsAppInboundReceipt {
   processedAt       DateTime?
   createdAt         DateTime @default(now())
   updatedAt         DateTime @updatedAt
+
+  @@index([outcome, updatedAt])
 }
 
 model WhatsAppOutboundMessage {
