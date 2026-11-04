@@ -460,9 +460,14 @@ export async function forwardWhatsAppWebhookToKaiCore(
   }
 
   const config = resolveKaiCoreConfig(env);
+  // Kai's webhook accepts Meta's signature or this bearer; a forwarded copy carries no Meta signature.
+  const adminToken = env.KAI_CORE_ADMIN_TOKEN?.trim();
   const response = await fetchKaiCoreWithRetry(fetchImpl, `${config.baseUrl}/api/whatsapp/webhook`, {
     method: "POST",
-    headers: buildKaiCoreHeaders(config),
+    headers: {
+      ...buildKaiCoreHeaders(config),
+      ...(adminToken ? { authorization: `Bearer ${adminToken}` } : {}),
+    },
     body: JSON.stringify(payload),
   });
 
