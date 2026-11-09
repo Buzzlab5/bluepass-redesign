@@ -21,19 +21,18 @@ export async function POST(request: NextRequest) {
     );
   }
 
-  // Always ack with 200 once the signature is verified - one handler failure should not make Stripe
-  // retry-storm the whole event; failures are logged and surfaced in the response body instead.
-  const failures: string[] = [];
-
+  // A handler failure answers 500 so Stripe redelivers. Safe because the handler only sets the
+  // operator's two capability flags from the event, so replaying it changes nothing the second time.
+  // Answering 200 would leave an operator stuck un-payable after one transient DB error.
   try {
     if (event.type === "account.updated") {
       await handleStripeAccountUpdated(event.data.object as Stripe.Account);
     }
   } catch (error) {
     const message = error instanceof Error ? error.message : String(error);
-    failures.push(message);
     console.error("stripe_connect_webhook.handler_failed", { eventType: event.type, error: message });
+    return NextResponse.json({ received: false, error: message }, { status: 500 });
   }
 
-  return NextResponse.json({ received: true, ...(failures.length > 0 ? { failures } : {}) });
+  return NextResponse.json({ received: true });
 }
