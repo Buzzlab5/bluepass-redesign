@@ -7972,26 +7972,34 @@ html.is-scroll-locked body {
   line-height: 1.75;
   letter-spacing: -0.18px;
 }
+/* Block rhythm lives only here. Element rules below must not set `margin`, or they
+   out-rank the flow rule and the blocks collapse together. */
+.bp-article > * {
+  margin: 0;
+}
 .bp-article > * + * {
-  margin-top: 26px;
+  margin-top: 24px;
+}
+/* A heading sits closer to its own content than to the section above it. */
+.bp-article > :is(.bp-article__h2, .bp-article__h3, .bp-article__h4) + * {
+  margin-top: 14px;
 }
 .bp-article p {
   color: rgba(255, 255, 255, 0.86);
-  margin: 0;
 }
 .bp-article__h2 {
   font-family: var(--type-display-md-family);
-  font-size: clamp(24px, 2.4vw, 30px);
+  font-size: clamp(26px, 2.6vw, 32px);
   font-weight: var(--type-display-md-weight);
   line-height: 1.18;
   letter-spacing: -0.9px;
   color: var(--color-ink);
+  text-wrap: balance;
   /* Offsets the fixed nav when a contents link jumps to this heading. */
   scroll-margin-top: 96px;
-  margin: 0;
 }
 .bp-article > .bp-article__h2 {
-  margin-top: clamp(36px, 4vw, 52px);
+  margin-top: clamp(48px, 5vw, 64px);
 }
 .bp-article__h3 {
   font-family: var(--font-body-static);
@@ -8000,18 +8008,20 @@ html.is-scroll-locked body {
   line-height: 1.3;
   letter-spacing: -0.4px;
   color: var(--color-ink);
+  text-wrap: balance;
   scroll-margin-top: 96px;
-  margin: 0;
 }
 .bp-article > .bp-article__h3 {
-  margin-top: clamp(26px, 3vw, 36px);
+  margin-top: clamp(32px, 3.5vw, 40px);
 }
 .bp-article__h4 {
   font-size: 17px;
   font-weight: 600;
   color: var(--color-ink);
   scroll-margin-top: 96px;
-  margin: 0;
+}
+.bp-article > .bp-article__h4 {
+  margin-top: 28px;
 }
 .bp-article a {
   color: var(--color-accent-blue);
@@ -8029,22 +8039,21 @@ html.is-scroll-locked body {
   font-weight: 600;
 }
 .bp-article__list {
-  margin: 0;
   padding-left: var(--space-lg);
   display: flex;
   flex-direction: column;
-  gap: var(--space-xs);
+  gap: 14px;
   color: rgba(255, 255, 255, 0.86);
 }
 .bp-article__list li::marker {
   color: var(--color-ink-muted);
 }
 .bp-article__quote {
-  margin: 0;
   padding: var(--space-sm) 0 var(--space-sm) var(--space-lg);
   border-left: 2px solid var(--color-accent-blue);
 }
 .bp-article__quote p {
+  margin: 0;
   color: var(--color-ink);
   font-size: 20px;
   line-height: 1.55;
@@ -8054,9 +8063,6 @@ html.is-scroll-locked body {
   border: none;
   border-top: 1px solid var(--color-hairline);
   margin-block: clamp(28px, 3vw, 40px);
-}
-.bp-article__figure {
-  margin: 0;
 }
 .bp-article__figure img,
 .bp-article__inline-image {
@@ -8071,7 +8077,6 @@ html.is-scroll-locked body {
   line-height: 1.4;
 }
 .bp-article__code {
-  margin: 0;
   padding: var(--space-md);
   border-radius: var(--radius-md);
   border: 1px solid var(--color-hairline);
