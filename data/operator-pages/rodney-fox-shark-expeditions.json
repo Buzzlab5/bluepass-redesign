@@ -1,0 +1,744 @@
+{
+  "slug": "rodney-fox-shark-expeditions",
+  "name": "Rodney Fox Shark Expeditions",
+  "website": "https://rodneyfox.com.au",
+  "rezdyAlias": "rodneyfox",
+  "state": "SA",
+  "town": "Port Lincoln",
+  "category": "Shark cage diving liveaboard",
+  "summary": "Liveaboard trips of three to nine nights from Port Lincoln to the Neptune Islands to see great white sharks from a surface cage, or from an ocean floor cage for certified divers. No dive qualification is needed for the surface cage, and most trips add a sea lion swim and a walk on the islands. The company has run great white shark tours since 1965.",
+  "standouts": [
+    "ECO Certified, Advanced Ecotourism (Ecotourism Australia logo on the site)",
+    "Ocean Floor Cage dives to about 20 metres for certified SCUBA divers",
+    "Great white shark tours since 1965",
+    "32m MV Rodney Fox, 9 guest cabins, maximum 18 guests"
+  ],
+  "contact": {
+    "phone": "+61 8 8363 1788",
+    "email": "expeditions@rodneyfox.com.au",
+    "address": "107 Henley Beach Road, Mile End, SA, 5031"
+  },
+  "heroImage": "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving-1024x685.jpeg",
+  "sourceUrls": [
+    "https://rodneyfox.com.au/",
+    "https://rodneyfox.com.au/tours/",
+    "https://rodneyfox.com.au/tours/itineraries/",
+    "https://rodneyfox.com.au/tours/itineraries/great-white-expedition-4-days-3-nights/",
+    "https://rodneyfox.com.au/tours/itineraries/the-great-white-escape/",
+    "https://rodneyfox.com.au/tours/itineraries/the-great-white-expedition/",
+    "https://rodneyfox.com.au/bookings/",
+    "https://rodneyfox.com.au/tours/great-white-shark-diving/",
+    "https://rodneyfox.com.au/tours/private-charters/",
+    "https://rodneyfox.com.au/tours/your-vessel/",
+    "https://rodneyfox.com.au/white-shark-lodge-port-lincoln/",
+    "https://rodneyfox.com.au/faq/",
+    "https://rodneyfox.com.au/expedition-terms-and-conditions/",
+    "https://rodneyfox.com.au/about-us/the-rodney-fox-promise/",
+    "https://rodneyfox.com.au/standby/",
+    "https://rodneyfox.com.au/product/gift-card/",
+    "https://rodneyfox.com.au/contact/",
+    "https://rodneyfox.com.au/awards/",
+    "https://rodneyfox.com.au/great-white-shark-central/how-to-get-here/",
+    "https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/",
+    "https://rodneyfox.com.au/gallery/lions-dragons-giants-and-sharks-tours/",
+    "https://rodneyfox.com.au/gallery/australian-sea-lions/",
+    "https://rodneyfox.com.au/gallery/island-shore-parties/",
+    "https://rodneyfox.com.au/gallery/surface-diving/",
+    "https://rodneyfox.com.au/gallery/ocean-floor-diving/",
+    "https://rodneyfox.com.au/gallery/expedition-vessel/",
+    "https://rodneyfox.com.au/sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Great White Expedition (4 days/3 Nights)",
+      "kind": "liveaboard",
+      "summary": "Three nights on the MV Rodney Fox at the Neptune Islands with time in the surface cage and, for certified divers, the ocean floor cage. The first afternoon includes a snorkel with Australian sea lions at Hopkins Island. There is no time limit in the cages as long as everyone gets a fair share.",
+      "highlights": [
+        "Snorkel with Australian sea lions at Hopkins Island on day 1",
+        "Surface Cage for all guests, Ocean Floor Cage for certified SCUBA divers",
+        "Tender boat trip to the fur seals and a walk on the Neptune Islands",
+        "Great White Shark Research Talk on board"
+      ],
+      "duration": "4 days/3 nights",
+      "durationMinutes": null,
+      "departureTimes": [
+        "11:30"
+      ],
+      "season": "Departures listed from 19 Dec 2026 to 17 Mar 2027",
+      "departsFrom": "Marina Hotel, Port Lincoln (meet 11.15am, aboard 11.30am)",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 2495,
+          "currency": "AUD",
+          "note": "'from' price in the Tour Dates table; marine park fees are extra (FAQ)"
+        }
+      ],
+      "priceFrom": 2495,
+      "includes": [
+        "Accommodation and meals",
+        "Scuba tanks and harness, weight belts and shark dives",
+        "Guided experiences and onboard presentations"
+      ],
+      "bring": [
+        "Swimwear and warm clothing",
+        "Own mask and snorkel",
+        "Toiletries, medicines and sunscreen",
+        "Camera and polarised sunglasses for spotting approaching sharks topside",
+        "Dive certification card (divers must show qualification to participate in the ocean floor cage dive)",
+        "Card or cash for on boat purchases"
+      ],
+      "requirements": "Surface cage: minimum age 8, no dive qualification needed. Ocean Floor Cage: PADI Open Water (or equivalent) certification required.",
+      "offer": null,
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving-1024x685.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw-1024x681.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg"
+      ],
+      "bookingLinks": [
+        "https://rodneyfox.rezdy.com/661074/great-white-expedition-4-days-3-nights",
+        "https://rodneyfox.rezdy.com/741861/great-white-expedition-4-days-3-nights"
+      ],
+      "sourceUrl": "https://rodneyfox.com.au/tours/itineraries/great-white-expedition-4-days-3-nights/",
+      "checkNotes": "Price and dates from the Tour Dates page (/bookings/); itinerary and times from the itinerary page, which is not linked from the menu (found in the sitemap). Two Rezdy product IDs (661074 and 741861) carry the same name. A second itinerary page, 'Great White Shark Expedition (3 Nights)' (/tours/itineraries/the-great-white-escape/), gives a different boarding time (meet 7:45pm, aboard 8:00pm, while its intro says 6.30PM); it is not matched to any current date, so it was not used. Itinerary is marked indicative only, subject to weather. Return to Port Lincoln by 8.00PM on day 4."
+    },
+    {
+      "title": "Great White Shark Expedition (4 days/4 Nights)",
+      "kind": "liveaboard",
+      "summary": "A four night liveaboard trip to the Neptune Islands for great white shark viewing from the cages. It runs on many dates through autumn, winter and spring. Surface cage diving needs no dive qualification.",
+      "highlights": [
+        "Surface Cage for all guests from age 8",
+        "Ocean Floor Cage for certified SCUBA divers",
+        "Sea lion swim and shore excursion are part of the shorter tours (FAQ)"
+      ],
+      "duration": "4 days/4 nights",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Departures listed 1 Nov to 11 Nov 2026, then April to July, September and October 2027",
+      "departsFrom": "Port Lincoln",
+      "prices": [
+        {
+          "label": "From (2026 departures)",
+          "amount": 2795,
+          "currency": "AUD",
+          "note": "'from' price in the Tour Dates table; marine park fees are extra (FAQ)"
+        },
+        {
+          "label": "From (2027 departures)",
+          "amount": 2895,
+          "currency": "AUD",
+          "note": "'from' price in the Tour Dates table; marine park fees are extra (FAQ)"
+        }
+      ],
+      "priceFrom": 2795,
+      "includes": [
+        "Accommodation and meals",
+        "Scuba tanks and harness, weight belts and shark dives",
+        "Guided experiences and onboard presentations"
+      ],
+      "bring": [
+        "Swimwear and warm clothing",
+        "Own mask and snorkel",
+        "Toiletries, medicines and sunscreen",
+        "Camera and polarised sunglasses for spotting approaching sharks topside",
+        "Dive certification card (divers must show qualification to participate in the ocean floor cage dive)",
+        "Card or cash for on boat purchases"
+      ],
+      "requirements": "Surface cage: minimum age 8, no dive qualification needed. Ocean Floor Cage: PADI Open Water (or equivalent) certification required.",
+      "offer": null,
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving-1024x685.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw-1024x681.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg"
+      ],
+      "bookingLinks": [
+        "https://rodneyfox.rezdy.com/733203/great-white-shark-expedition-4-days-4-nights-2026",
+        "https://rodneyfox.rezdy.com/758410/great-white-shark-expedition-4-days-4-nights-2027"
+      ],
+      "sourceUrl": "https://rodneyfox.com.au/bookings/",
+      "checkNotes": "Only listed as a row in the Tour Dates table; the site has no itinerary page for it, so departure time and meeting point are not stated. Includes, bring list and age rules come from the general FAQ. The name says 4 days/4 nights but the table shows 4 nights with boarding and disembarking dates five days apart (for example 1 Nov to 5 Nov 2026). Price is from $2795 for 2026 dates and from $2895 for 2027 dates."
+    },
+    {
+      "title": "Great White Shark Expedition 6 Day/5 Night",
+      "kind": "liveaboard",
+      "summary": "Six days and five nights on board, with five days set aside for great white shark diving at the North and South Neptune Islands. The trip also includes one or two dives with Australian sea lions and a tender boat tour of the fur seal colonies. Evenings bring local food and wine and a shark research talk.",
+      "highlights": [
+        "Five days of shark diving at the North and South Neptune Islands",
+        "One or two Australian sea lion dives",
+        "Tender boat tour of the long-nosed fur seal colonies",
+        "Walking tour on the Neptune Islands, conditions permitting"
+      ],
+      "duration": "6 days/5 nights",
+      "durationMinutes": null,
+      "departureTimes": [
+        "18:30"
+      ],
+      "season": "Departures listed 17 Oct, 17 Nov and 24 Nov 2026, then 25 Apr, 12 Oct, 23 Oct and 24 Nov 2027",
+      "departsFrom": "Marina Hotel, Port Lincoln (meet 6.15 PM, aboard 6.30 pm)",
+      "prices": [
+        {
+          "label": "From (2026 departures)",
+          "amount": 3580,
+          "currency": "AUD",
+          "note": "'from' price in the Tour Dates table; marine park fees are extra (FAQ)"
+        },
+        {
+          "label": "From (2027 departures)",
+          "amount": 3995,
+          "currency": "AUD",
+          "note": "'from' price in the Tour Dates table; marine park fees are extra (FAQ)"
+        }
+      ],
+      "priceFrom": 3580,
+      "includes": [
+        "Accommodation and meals",
+        "Scuba tanks and harness, weight belts and shark dives",
+        "Guided experiences and onboard presentations"
+      ],
+      "bring": [
+        "Swimwear and warm clothing",
+        "Own mask and snorkel",
+        "Toiletries, medicines and sunscreen",
+        "Camera and polarised sunglasses for spotting approaching sharks topside",
+        "Dive certification card (divers must show qualification to participate in the ocean floor cage dive)",
+        "Card or cash for on boat purchases"
+      ],
+      "requirements": "Surface cage: minimum age 8, no dive qualification needed. Ocean Floor Cage: PADI Open Water (or equivalent) certification required.",
+      "offer": null,
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving-1024x685.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw-1024x681.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg"
+      ],
+      "bookingLinks": [
+        "https://rodneyfox.rezdy.com/733860/great-white-shark-expedition-6-day-5-night-2026",
+        "https://rodneyfox.rezdy.com/759111/6-day-5-night-expedition-great-white-shark-expedition-2027"
+      ],
+      "sourceUrl": "https://rodneyfox.com.au/tours/itineraries/the-great-white-expedition/",
+      "checkNotes": "Itinerary from the 'Great White Shark Expedition (5 Nights)' page (found in the sitemap, not the menu); dates and prices from the Tour Dates page, where the 2027 product is named '6 Day/5 Night Expedition Great White Shark Expedition 2027'. 2026 dates are from $3580, 2027 dates from $3995. The 24 Nov 2026 row shows disembarking on 30 Nov, six nights apart. The itinerary page claims a near-certain shark record for this itinerary; not repeated here. Return to Port Lincoln before 8.00 PM on day 6."
+    },
+    {
+      "title": "Andrew Fox hosted Great White Shark Expedition 6 Day/5 Night",
+      "kind": "liveaboard",
+      "summary": "A five night great white shark expedition hosted by Andrew Fox. Guests can view sharks from the surface cage, and certified divers can use the ocean floor cage.",
+      "highlights": [
+        "Hosted by Andrew Fox",
+        "One departure listed: 24 Oct to 29 Oct 2026"
+      ],
+      "duration": "6 days/5 nights",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "One departure listed: 24 Oct 2026 to 29 Oct 2026",
+      "departsFrom": "Port Lincoln",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 3580,
+          "currency": "AUD",
+          "note": "'from' price in the Tour Dates table; marine park fees are extra (FAQ)"
+        }
+      ],
+      "priceFrom": 3580,
+      "includes": [
+        "Accommodation and meals",
+        "Scuba tanks and harness, weight belts and shark dives",
+        "Guided experiences and onboard presentations"
+      ],
+      "bring": [
+        "Swimwear and warm clothing",
+        "Own mask and snorkel",
+        "Toiletries, medicines and sunscreen",
+        "Camera and polarised sunglasses for spotting approaching sharks topside",
+        "Dive certification card (divers must show qualification to participate in the ocean floor cage dive)",
+        "Card or cash for on boat purchases"
+      ],
+      "requirements": "Surface cage: minimum age 8, no dive qualification needed. Ocean Floor Cage: PADI Open Water (or equivalent) certification required.",
+      "offer": null,
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving-1024x685.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw-1024x681.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg"
+      ],
+      "bookingLinks": [
+        "https://rodneyfox.rezdy.com/779629/andrew-fox-hosted-great-white-shark-expedition-6-day-5-night"
+      ],
+      "sourceUrl": "https://rodneyfox.com.au/bookings/",
+      "checkNotes": "Only listed as a row in the Tour Dates table; the site has no itinerary page for it, so departure time and meeting point are not stated. Includes, bring list and age rules come from the general FAQ."
+    },
+    {
+      "title": "50th Anniversary Cage Diving Adventurers with Andrew Fox (Featuring Rodney Fox Welcome Night)",
+      "kind": "liveaboard",
+      "summary": "A five night 50th anniversary shark cage diving trip hosted by Andrew Fox. It opens with a welcome night featuring Rodney Fox.",
+      "highlights": [
+        "Hosted by Andrew Fox",
+        "Rodney Fox welcome night",
+        "One departure listed: 1 Dec to 6 Dec 2026"
+      ],
+      "duration": "5 nights",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "One departure listed: 1 Dec 2026 to 6 Dec 2026",
+      "departsFrom": "Port Lincoln",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 4990,
+          "currency": "AUD",
+          "note": "'from' price in the Tour Dates table; marine park fees are extra (FAQ)"
+        }
+      ],
+      "priceFrom": 4990,
+      "includes": [
+        "Accommodation and meals",
+        "Scuba tanks and harness, weight belts and shark dives",
+        "Guided experiences and onboard presentations"
+      ],
+      "bring": [
+        "Swimwear and warm clothing",
+        "Own mask and snorkel",
+        "Toiletries, medicines and sunscreen",
+        "Camera and polarised sunglasses for spotting approaching sharks topside",
+        "Dive certification card (divers must show qualification to participate in the ocean floor cage dive)",
+        "Card or cash for on boat purchases"
+      ],
+      "requirements": "Surface cage: minimum age 8, no dive qualification needed. Ocean Floor Cage: PADI Open Water (or equivalent) certification required.",
+      "offer": null,
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving-1024x685.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw-1024x681.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg"
+      ],
+      "bookingLinks": [
+        "https://rodneyfox.rezdy.com/771929/50th-anniversary-cage-diving-adventurers-with-andrew-fox-featuring-rodney-fox-welcome-night"
+      ],
+      "sourceUrl": "https://rodneyfox.com.au/bookings/",
+      "checkNotes": "Only listed as a row in the Tour Dates table; the site has no itinerary page for it, so departure time and meeting point are not stated. Includes, bring list and age rules come from the general FAQ. Duration taken from the Nights column (5)."
+    },
+    {
+      "title": "Speciality Expedition, hosted by Dr. Barbara Wueringer from Sharks & Rays Australia",
+      "kind": "liveaboard",
+      "summary": "A three night shark expedition hosted by Dr. Barbara Wueringer of Sharks & Rays Australia. Three departures run in December 2026.",
+      "highlights": [
+        "Hosted by Dr. Barbara Wueringer from Sharks & Rays Australia",
+        "Departures 7, 11 and 15 Dec 2026"
+      ],
+      "duration": "3 nights",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Departures listed 7 to 10 Dec, 11 to 14 Dec and 15 to 18 Dec 2026",
+      "departsFrom": "Port Lincoln",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 2495,
+          "currency": "AUD",
+          "note": "'from' price in the Tour Dates table; marine park fees are extra (FAQ)"
+        }
+      ],
+      "priceFrom": 2495,
+      "includes": [
+        "Accommodation and meals",
+        "Scuba tanks and harness, weight belts and shark dives",
+        "Guided experiences and onboard presentations"
+      ],
+      "bring": [
+        "Swimwear and warm clothing",
+        "Own mask and snorkel",
+        "Toiletries, medicines and sunscreen",
+        "Camera and polarised sunglasses for spotting approaching sharks topside",
+        "Dive certification card (divers must show qualification to participate in the ocean floor cage dive)",
+        "Card or cash for on boat purchases"
+      ],
+      "requirements": "Surface cage: minimum age 8, no dive qualification needed. Ocean Floor Cage: PADI Open Water (or equivalent) certification required.",
+      "offer": null,
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving-1024x685.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw-1024x681.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg"
+      ],
+      "bookingLinks": [
+        "https://rodneyfox.rezdy.com/748762/speciality-expedition-hosted-by-dr-barbara-wueringer-from-sharks-rays-australia"
+      ],
+      "sourceUrl": "https://rodneyfox.com.au/bookings/",
+      "checkNotes": "Only listed as a row in the Tour Dates table; the site has no itinerary page for it, so departure time and meeting point are not stated. Includes, bring list and age rules come from the general FAQ. Duration taken from the Nights column (3)."
+    },
+    {
+      "title": "Great White Christmas 2026 Expedition (4 Nights/5 Days)",
+      "kind": "liveaboard",
+      "summary": "A four night great white shark trip over Christmas, boarding on 26 December. Cage diving runs at the Neptune Islands.",
+      "highlights": [
+        "Boards 26 Dec 2026, returns 30 Dec 2026",
+        "Surface Cage open to guests from age 8"
+      ],
+      "duration": "4 nights/5 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "One departure listed: 26 Dec 2026 to 30 Dec 2026",
+      "departsFrom": "Port Lincoln",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 2995,
+          "currency": "AUD",
+          "note": "'from' price in the Tour Dates table; marine park fees are extra (FAQ)"
+        }
+      ],
+      "priceFrom": 2995,
+      "includes": [
+        "Accommodation and meals",
+        "Scuba tanks and harness, weight belts and shark dives",
+        "Guided experiences and onboard presentations"
+      ],
+      "bring": [
+        "Swimwear and warm clothing",
+        "Own mask and snorkel",
+        "Toiletries, medicines and sunscreen",
+        "Camera and polarised sunglasses for spotting approaching sharks topside",
+        "Dive certification card (divers must show qualification to participate in the ocean floor cage dive)",
+        "Card or cash for on boat purchases"
+      ],
+      "requirements": "Surface cage: minimum age 8, no dive qualification needed. Ocean Floor Cage: PADI Open Water (or equivalent) certification required.",
+      "offer": null,
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving-1024x685.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw-1024x681.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg"
+      ],
+      "bookingLinks": [
+        "https://rodneyfox.rezdy.com/734376/great-white-christmas-2026-expedition-4-nights-5-days"
+      ],
+      "sourceUrl": "https://rodneyfox.com.au/bookings/",
+      "checkNotes": "Only listed as a row in the Tour Dates table; the site has no itinerary page for it, so departure time and meeting point are not stated. Includes, bring list and age rules come from the general FAQ."
+    },
+    {
+      "title": "Great White New Year Expedition (4 Nights/5 Days) 2027",
+      "kind": "liveaboard",
+      "summary": "A four night great white shark trip over New Year, boarding on 31 December. Cage diving runs at the Neptune Islands.",
+      "highlights": [
+        "Boards 31 Dec 2026, returns 4 Jan 2027",
+        "Surface Cage open to guests from age 8"
+      ],
+      "duration": "4 nights/5 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "One departure listed: 31 Dec 2026 to 4 Jan 2027",
+      "departsFrom": "Port Lincoln",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 2995,
+          "currency": "AUD",
+          "note": "'from' price in the Tour Dates table; marine park fees are extra (FAQ)"
+        }
+      ],
+      "priceFrom": 2995,
+      "includes": [
+        "Accommodation and meals",
+        "Scuba tanks and harness, weight belts and shark dives",
+        "Guided experiences and onboard presentations"
+      ],
+      "bring": [
+        "Swimwear and warm clothing",
+        "Own mask and snorkel",
+        "Toiletries, medicines and sunscreen",
+        "Camera and polarised sunglasses for spotting approaching sharks topside",
+        "Dive certification card (divers must show qualification to participate in the ocean floor cage dive)",
+        "Card or cash for on boat purchases"
+      ],
+      "requirements": "Surface cage: minimum age 8, no dive qualification needed. Ocean Floor Cage: PADI Open Water (or equivalent) certification required.",
+      "offer": null,
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving-1024x685.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw-1024x681.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg"
+      ],
+      "bookingLinks": [
+        "https://rodneyfox.rezdy.com/734377/great-white-new-year-expedition-4-nights-5-days-2027"
+      ],
+      "sourceUrl": "https://rodneyfox.com.au/bookings/",
+      "checkNotes": "Only listed as a row in the Tour Dates table; the site has no itinerary page for it, so departure time and meeting point are not stated. Includes, bring list and age rules come from the general FAQ."
+    },
+    {
+      "title": "Pro Photographer Matty Smith Hosted Great White Shark Expedition (5 Nights/6 days) with Jayne Jenkins",
+      "kind": "liveaboard",
+      "summary": "A five night expedition hosted by underwater photographers Matty Smith and Jayne Jenkins. It is listed as fully booked.",
+      "highlights": [
+        "Hosted by Matty Smith with Jayne Jenkins",
+        "One departure listed: 6 Feb to 11 Feb 2027 (Fully Booked)"
+      ],
+      "duration": "5 nights/6 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "One departure listed: 6 Feb 2027 to 11 Feb 2027",
+      "departsFrom": "Port Lincoln",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 3995,
+          "currency": "AUD",
+          "note": "'from' price in the Tour Dates table; marine park fees are extra (FAQ)"
+        }
+      ],
+      "priceFrom": 3995,
+      "includes": [
+        "Accommodation and meals",
+        "Scuba tanks and harness, weight belts and shark dives",
+        "Guided experiences and onboard presentations"
+      ],
+      "bring": [
+        "Swimwear and warm clothing",
+        "Own mask and snorkel",
+        "Toiletries, medicines and sunscreen",
+        "Camera and polarised sunglasses for spotting approaching sharks topside",
+        "Dive certification card (divers must show qualification to participate in the ocean floor cage dive)",
+        "Card or cash for on boat purchases"
+      ],
+      "requirements": "Surface cage: minimum age 8, no dive qualification needed. Ocean Floor Cage: PADI Open Water (or equivalent) certification required.",
+      "offer": null,
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving-1024x685.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw-1024x681.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg"
+      ],
+      "bookingLinks": [
+        "https://rodneyfox.rezdy.com/765728/pro-photographer-matty-smith-hosted-great-white-shark-expedition-5-nights-6-days-with-jayne-jenkins"
+      ],
+      "sourceUrl": "https://rodneyfox.com.au/bookings/",
+      "checkNotes": "Only listed as a row in the Tour Dates table; the site has no itinerary page for it, so departure time and meeting point are not stated. Includes, bring list and age rules come from the general FAQ. Shown as Fully Booked on the Tour Dates page. 'Photographers' is from the homepage testimonials (Matty Smith, Nikon Australia and Aquatica Digital Ambassador; Jayne Jenkins, underwater photographer)."
+    },
+    {
+      "title": "Big Girl Season Opener, April 2027 8-Nights",
+      "kind": "liveaboard",
+      "summary": "An eight night expedition in April 2027, billed as the season opener. The site says giant female great whites are more likely to be seen in late autumn and winter.",
+      "highlights": [
+        "Eight nights on board",
+        "One departure listed: 16 Apr to 24 Apr 2027"
+      ],
+      "duration": "8 nights",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "One departure listed: 16 Apr 2027 to 24 Apr 2027",
+      "departsFrom": "Port Lincoln",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 5495,
+          "currency": "AUD",
+          "note": "'from' price in the Tour Dates table; marine park fees are extra (FAQ)"
+        }
+      ],
+      "priceFrom": 5495,
+      "includes": [
+        "Accommodation and meals",
+        "Scuba tanks and harness, weight belts and shark dives",
+        "Guided experiences and onboard presentations"
+      ],
+      "bring": [
+        "Swimwear and warm clothing",
+        "Own mask and snorkel",
+        "Toiletries, medicines and sunscreen",
+        "Camera and polarised sunglasses for spotting approaching sharks topside",
+        "Dive certification card (divers must show qualification to participate in the ocean floor cage dive)",
+        "Card or cash for on boat purchases"
+      ],
+      "requirements": "Surface cage: minimum age 8, no dive qualification needed. Ocean Floor Cage: PADI Open Water (or equivalent) certification required.",
+      "offer": null,
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving-1024x685.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw-1024x681.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg"
+      ],
+      "bookingLinks": [
+        "https://rodneyfox.rezdy.com/775670/big-girl-season-opener-april-2027-8-nights"
+      ],
+      "sourceUrl": "https://rodneyfox.com.au/bookings/",
+      "checkNotes": "Only listed as a row in the Tour Dates table; the site has no itinerary page for it, so departure time and meeting point are not stated. Includes, bring list and age rules come from the general FAQ. The link between 'Big Girl' and the female sharks is drawn from the Neptune Islands page and the Rodney Fox Promise page, which say giant females come to the islands from about April; the trip itself has no description."
+    },
+    {
+      "title": "Lions, Dragons, Giants & Sharks",
+      "kind": "liveaboard",
+      "summary": "A longer expedition hosted by Andrew Fox. The site's gallery for this tour shows sea lions, leafy sea dragons and giant cuttlefish as well as great white sharks. The FAQ says some extended itineraries target the giant cuttlefish spawning near Whyalla between May and August.",
+      "highlights": [
+        "Hosted by Andrew Fox",
+        "8 or 9 nights",
+        "Departures listed 23 May 2027 and 29 Jun 2027"
+      ],
+      "duration": "8 nights (May 2027) or 9 nights (June/July 2027)",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Departures listed 23 May to 31 May 2027 and 29 Jun to 7 Jul 2027",
+      "departsFrom": "Port Lincoln",
+      "prices": [
+        {
+          "label": "From (May 2027 and June/July 2027 departures)",
+          "amount": 5995,
+          "currency": "AUD",
+          "note": "'from' price in the Tour Dates table; marine park fees are extra (FAQ)"
+        }
+      ],
+      "priceFrom": 5995,
+      "includes": [
+        "Accommodation and meals",
+        "Scuba tanks and harness, weight belts and shark dives",
+        "Guided experiences and onboard presentations"
+      ],
+      "bring": [
+        "Swimwear and warm clothing",
+        "Own mask and snorkel",
+        "Toiletries, medicines and sunscreen",
+        "Camera and polarised sunglasses for spotting approaching sharks topside",
+        "Dive certification card (divers must show qualification to participate in the ocean floor cage dive)",
+        "Card or cash for on boat purchases"
+      ],
+      "requirements": "Surface cage: minimum age 8, no dive qualification needed. Ocean Floor Cage: PADI Open Water (or equivalent) certification required.",
+      "offer": null,
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Leafy-Sea-Dragon.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Cuttlefish.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Meet-The-Giants-Cuttlefish-Courting.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg"
+      ],
+      "bookingLinks": [
+        "https://rodneyfox.rezdy.com/766563/lions-dragons-giants-sharks-may-2027-with-andrew-fox",
+        "https://rodneyfox.rezdy.com/759296/lions-dragons-giants-sharks-june-july-2027-with-host-andrew-fox"
+      ],
+      "sourceUrl": "https://rodneyfox.com.au/bookings/",
+      "checkNotes": "Two dated products in the Tour Dates table: 'Lions, Dragons, Giants & Sharks, MAY 2027 with Andrew Fox' (8 nights, 1 space left when read) and 'Lions, Dragons, Giants & Sharks June /July 2027 with host Andrew Fox' (9 nights, Fully Booked), both from $5995. No itinerary page; the description is drawn from the gallery page /gallery/lions-dragons-giants-and-sharks-tours/ (photo file names: leafy sea dragon, cuttlefish) and the FAQ on cuttlefish. Whether the cuttlefish part is a road trip or by liveaboard is not stated for these dates."
+    },
+    {
+      "title": "Jacques Cousteau Tribute Tour 2027 - 6 Days/5 Nights– Hosted by Mark Tozer",
+      "kind": "liveaboard",
+      "summary": "A Jacques Cousteau tribute expedition hosted by Mark Tozer. It runs once, in June 2027, with great white shark cage diving at the Neptune Islands.",
+      "highlights": [
+        "Hosted by Mark Tozer",
+        "One departure listed: 12 Jun to 17 Jun 2027"
+      ],
+      "duration": "6 Days/5 Nights",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "One departure listed: 12 Jun 2027 to 17 Jun 2027",
+      "departsFrom": "Port Lincoln",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 3995,
+          "currency": "AUD",
+          "note": "'from' price in the Tour Dates table; marine park fees are extra (FAQ)"
+        }
+      ],
+      "priceFrom": 3995,
+      "includes": [
+        "Accommodation and meals",
+        "Scuba tanks and harness, weight belts and shark dives",
+        "Guided experiences and onboard presentations"
+      ],
+      "bring": [
+        "Swimwear and warm clothing",
+        "Own mask and snorkel",
+        "Toiletries, medicines and sunscreen",
+        "Camera and polarised sunglasses for spotting approaching sharks topside",
+        "Dive certification card (divers must show qualification to participate in the ocean floor cage dive)",
+        "Card or cash for on boat purchases"
+      ],
+      "requirements": "Surface cage: minimum age 8, no dive qualification needed. Ocean Floor Cage: PADI Open Water (or equivalent) certification required.",
+      "offer": null,
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving-1024x685.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw-1024x681.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg"
+      ],
+      "bookingLinks": [
+        "https://rodneyfox.rezdy.com/773998/jacques-cousteau-tribute-tour-2027-6-days-5-nights-hosted-by-mark-tozer"
+      ],
+      "sourceUrl": "https://rodneyfox.com.au/bookings/",
+      "checkNotes": "Only listed as a row in the Tour Dates table; the site has no itinerary page for it, so departure time and meeting point are not stated. Includes, bring list and age rules come from the general FAQ. The Nights column shows 4 while the name says 6 Days/5 Nights and the dates are five nights apart."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "The whole boat can be chartered for a group, family or couple, with no minimum numbers and an itinerary built around you. Charters can include shark diving, a sea lion snorkel or dive, island walks and research talks, with menus tailored by the onboard chef. Pricing is by enquiry.",
+      "highlights": [
+        "No minimum numbers",
+        "Flexible itinerary and tailored menus",
+        "Can include sea lion snorkel, Neptune Island walks and shark research talks",
+        "Leafy sea dragons and seasonal giant cuttlefish breeding can be added"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Port Lincoln",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [
+        "Swimwear and warm clothing",
+        "Own mask and snorkel",
+        "Toiletries, medicines and sunscreen",
+        "Camera and polarised sunglasses for spotting approaching sharks topside",
+        "Dive certification card (divers must show qualification to participate in the ocean floor cage dive)",
+        "Card or cash for on boat purchases"
+      ],
+      "requirements": "Surface cage: minimum age 8, no dive qualification needed. Ocean Floor Cage: PADI Open Water (or equivalent) certification required.",
+      "offer": null,
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Vessel-Rodney-Fox-1.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving-1024x685.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://rodneyfox.com.au/tours/private-charters/",
+      "checkNotes": "No prices on the page ('Please contact us for more information and pricing'). Deposits for private group charters are non-refundable (FAQ). Private charters are excluded from the Rodney Fox Promise (Terms 16). The page photo (PrivateCharter-1024x681.jpg) returns 404 on the operator's own server, so vessel and wildlife photos were used instead."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Expedition and tour gift cards",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://rodneyfox.com.au/"
+    },
+    {
+      "text": "Web shop gift vouchers from $50.00 to $3,000.00",
+      "conditions": "Valid on any purchases through the web shop, for 3 years from date of purchase. Sent by email to the recipient.",
+      "validUntil": null,
+      "sourceUrl": "https://rodneyfox.com.au/product/gift-card/"
+    },
+    {
+      "text": "Standby specials: last-minute places on some tours, sent to a standby email list",
+      "conditions": "Sign up to the standby email list",
+      "validUntil": null,
+      "sourceUrl": "https://rodneyfox.com.au/standby/"
+    },
+    {
+      "text": "No Shark Policy: if no sharks are sighted on your first expedition, each guest gets a credit voucher worth half the cabin cost toward a return trip",
+      "conditions": "Return expedition must be booked within 2 years. Based on cabin price, excluding SCUBA hire, marine park fees and wifi. Not available on some special hosted tours or special itineraries unless approved by the office. Non-transferable and not redeemable for cash. Private charters and film crew bookings are excluded.",
+      "validUntil": null,
+      "sourceUrl": "https://rodneyfox.com.au/faq/"
+    },
+    {
+      "text": "The White Shark Lodge, Port Lincoln: three-bedroom house for up to six guests, $106.00 per person per night",
+      "conditions": "4 Tiatuckia Street, Port Lincoln. No smoking, no pets, children welcome. Crew may occasionally use the rear quarters.",
+      "validUntil": null,
+      "sourceUrl": "https://rodneyfox.com.au/white-shark-lodge-port-lincoln/"
+    },
+    {
+      "text": "Secure lock-up vehicle parking in Port Lincoln, $20.00 per day",
+      "conditions": "Vehicles parked at the owner's risk",
+      "validUntil": null,
+      "sourceUrl": "https://rodneyfox.com.au/faq/"
+    }
+  ],
+  "checkNotes": "All dated prices are 'from' prices in the Tour Dates table (/bookings/), read 12 Oct 2026; cabin and diver options (surface vs ocean floor, sole occupancy) are only inside the Rezdy widget, which was not opened. Rezdy links on the site carry a ?date=YYYY-MM-DD parameter per departure; recorded here without it. Marine park fees, scuba and wetsuit hire, alcohol, flights and insurance are not included (FAQ). Payment terms: deposit at booking and balance 60 days before departure; card surcharge applies (Terms). The office address is in Mile End (Adelaide); trips leave from Port Lincoln, with the Marina Hotel as the stated meeting point. Phone shown as +61 (0)8 8363 1788; email expeditions@rodneyfox.com.au is from the FAQ. The museum (foxtozermuseum.com) is a separate land-based venue in Adelaide and was not included. Several 'only in the world' and exclusive-access claims appear on the site (only liveaboard at the Neptune Islands, exclusive shore rights); kept out of standouts except where the ocean floor cage is described factually."
+}

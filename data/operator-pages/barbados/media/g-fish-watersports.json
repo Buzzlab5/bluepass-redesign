@@ -1,0 +1,84 @@
+{
+  "slug": "g-fish-watersports",
+  "logo": "https://static.wixstatic.com/media/4c26fe_75f7e7ada296484082e935c102091846.png",
+  "gallery": [
+    "https://static.wixstatic.com/media/4c26fe_161d2f641dac493cabab647047ddb6b8.jpg",
+    "https://static.wixstatic.com/media/2093ca_2bcb67d677f64f62b7f2f39fa18a9ebe~mv2.jpg",
+    "https://static.wixstatic.com/media/2093ca_d8595a36f29d44ccac4bd30136f67263~mv2.jpg",
+    "https://static.wixstatic.com/media/4c26fe_d63f191b9a784a4c8239f9d2e7e45f83.jpg",
+    "https://static.wixstatic.com/media/2093ca_0312b5a691e240bbb8803512cd9e691f~mv2.jpg",
+    "https://static.wixstatic.com/media/2093ca_ed218d792bec4602acf3fde91f81ee6c~mv2.jpg",
+    "https://static.wixstatic.com/media/2093ca_a099da57bed447a6a812ed1dfbeba698~mv2.jpg",
+    "https://static.wixstatic.com/media/2093ca_a223ff95f6d64d5aa0992c62e68bbe00~mv2.jpg",
+    "https://static.wixstatic.com/media/2093ca_69b0472ad50e4a3ebc38b8ed80639382~mv2.png",
+    "https://static.wixstatic.com/media/2093ca_624c99c88eab4cb0a9177b7f18acc835~mv2.png",
+    "https://static.wixstatic.com/media/2093ca_12ed04b314c94cd3a05bcf4b755680ea~mv2.png",
+    "https://static.wixstatic.com/media/2093ca_c7bfa465ab7f4c30b146cb66b70c2a9b~mv2.jpg",
+    "https://static.wixstatic.com/media/2093ca_04ca16dbd7b44f8bb4ff3d11c21aca10~mv2.png",
+    "https://static.wixstatic.com/media/2093ca_762cab555f3449fb85114500d04ffb94~mv2.png",
+    "https://static.wixstatic.com/media/2093ca_dd35051a3c7c4ffdb7efbe68fe5a2b1b~mv2.png",
+    "https://static.wixstatic.com/media/4c26fe_09cd2171b89b4c5086a4f375cb92c651.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://video.wixstatic.com/video/2093ca_aee12d94490246f088ad0c0b0e04a50b/720p/mp4/file.mp4",
+      "title": "Video from the What Sets Us Apart section (clip 1)",
+      "sourceUrl": "https://www.gfishbarbados.com/"
+    },
+    {
+      "url": "https://video.wixstatic.com/video/2093ca_e288479171584f2e8b809445b96443f7/480p/mp4/file.mp4",
+      "title": "Video from the What Sets Us Apart section (clip 2)",
+      "sourceUrl": "https://www.gfishbarbados.com/"
+    },
+    {
+      "url": "https://video.wixstatic.com/video/2093ca_5d8df4691a1a4509819ea4a98049bcbc/480p/mp4/file.mp4",
+      "title": "Video from the Fully Accessible Diving section (clip 1)",
+      "sourceUrl": "https://www.gfishbarbados.com/"
+    },
+    {
+      "url": "https://video.wixstatic.com/video/2093ca_819cdefcc06041bf84e8e504419d3a5d/480p/mp4/file.mp4",
+      "title": "Video from the Fully Accessible Diving section (clip 2)",
+      "sourceUrl": "https://www.gfishbarbados.com/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Turtle and Shipwreck Snorkel Tour",
+      "images": [
+        "https://static.wixstatic.com/media/2093ca_2bcb67d677f64f62b7f2f39fa18a9ebe~mv2.jpg",
+        "https://static.wixstatic.com/media/4c26fe_161d2f641dac493cabab647047ddb6b8.jpg"
+      ]
+    },
+    {
+      "title": "Discover Scuba Diving (DSD)",
+      "images": [
+        "https://static.wixstatic.com/media/2093ca_d8595a36f29d44ccac4bd30136f67263~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Scuba Diving",
+      "images": [
+        "https://static.wixstatic.com/media/4c26fe_d63f191b9a784a4c8239f9d2e7e45f83.jpg"
+      ]
+    },
+    {
+      "title": "Open Water",
+      "images": [
+        "https://static.wixstatic.com/media/2093ca_0312b5a691e240bbb8803512cd9e691f~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Advanced Open Water",
+      "images": []
+    },
+    {
+      "title": "Rescue Diver",
+      "images": []
+    },
+    {
+      "title": "Fully Accessible Diving",
+      "images": []
+    }
+  ],
+  "notes": "Single-page Wix site with no per-trip pages; trip photos are matched by position in the Tours and Learn to Dive sections. Logo is the business logo declared in the site's own metadata; a second candidate, 2093ca_8cc3d422b0ed4dcba12aeabae40056b2~mv2.png (named 'g fish_edited.png'), sits at the top of the page. The four gallery pages (building-blessed, family-fun, sinking-trident, underwater) load their photos in the browser, so a plain fetch returned none. Left out Wix stock media (11062b_ and a3c153_ background videos, and unprefixed stock images), social icons and review badges. The videos have no captions, so their titles only say where on the page they sit."
+}

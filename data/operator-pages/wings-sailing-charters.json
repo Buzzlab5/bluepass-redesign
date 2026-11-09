@@ -1,0 +1,1278 @@
+{
+  "slug": "wings-sailing-charters",
+  "name": "Wings Sailing Charters",
+  "website": "https://wings.com.au",
+  "rezdyAlias": "wings",
+  "state": "QLD",
+  "town": "Airlie Beach",
+  "category": "Whitsunday sailing charters",
+  "summary": "Wings Sailing Charters runs a six hour sail, snorkel and paddle board day tour and a two hour sunset sail from Coral Sea Marina in Airlie Beach, both aboard the 60ft sailing catamaran SV Wings III with no more than 29 guests. Private charters on the same boat range from a two hour sunset sail on the bay to overnight trips of several days. Mike and Amy Keyte own and run the business, which has operated in the Whitsundays since 2002.",
+  "standouts": [
+    "Family owned and operated by Mike and Amy Keyte, in the Whitsundays since 2002",
+    "Operated for over 20 years as Advanced Eco Tourism operators, as stated on the About page",
+    "Day tour and sunset sail limited to 29 guests on SV Wings III, a 60ft custom built sailing catamaran",
+    "Private Wings mooring at Langford Island on the day tour"
+  ],
+  "contact": {
+    "phone": "+61 418 757 088",
+    "email": "info@wings.com.au",
+    "address": "Coral Sea Marina, Northern End, Meeting Point B, Airlie Beach QLD 4802"
+  },
+  "heroImage": "https://www.wings.com.au/assets/images/Wings_3_back_deck_chill-rs.jpg",
+  "sourceUrls": [
+    "https://www.wings.com.au/",
+    "https://www.wings.com.au/whitsunday-islands-sail-snorkel-and-sup-tour/",
+    "https://www.wings.com.au/airlie-beach-sunset-sail-in-style-cruise/",
+    "https://www.wings.com.au/day-sail-tour-availability/",
+    "https://www.wings.com.au/overnight-private-charters/",
+    "https://www.wings.com.au/2-day-1-night-private-charter/",
+    "https://www.wings.com.au/2-day-2-night-private-charter/",
+    "https://www.wings.com.au/3-day-2-night-private-charter/",
+    "https://www.wings.com.au/3-day-3-night-private-charter/",
+    "https://www.wings.com.au/4-day-3-night-private-charter/",
+    "https://www.wings.com.au/4-day-4-night-private-charter/",
+    "https://www.wings.com.au/5-day-4-night-private-charter/",
+    "https://www.wings.com.au/6-day-5-night-private-charter/",
+    "https://www.wings.com.au/7-day-6-night-private-charter/",
+    "https://www.wings.com.au/8-day-7-night-private-charter/",
+    "https://www.wings.com.au/extended-overnight-charters/",
+    "https://www.wings.com.au/outer-great-barrier-reef-charter/",
+    "https://www.wings.com.au/private-charters/",
+    "https://www.wings.com.au/sail-on-the-bay/",
+    "https://www.wings.com.au/sunset-sail-on-the-bay-2-hrs/",
+    "https://www.wings.com.au/sunset-sail-on-the-bay-3-hours/",
+    "https://www.wings.com.au/spa-sunset-sail-bbq-on-the-bay/",
+    "https://www.wings.com.au/premium-party-on-the-bay-4-hour/",
+    "https://www.wings.com.au/half-day-charter/",
+    "https://www.wings.com.au/full-day-charter/",
+    "https://www.wings.com.au/custom-cruise-ship-charter/",
+    "https://www.wings.com.au/availability/",
+    "https://www.wings.com.au/contact-us/",
+    "https://www.wings.com.au/about-wings-sailing-charters/",
+    "https://www.wings.com.au/wings-III-custom-built-sailing-and-adventure-catamaran/",
+    "https://www.wings.com.au/faqs/",
+    "https://www.wings.com.au/sitemap.xml",
+    "https://www.youtube.com/c/WingsAus/videos"
+  ],
+  "trips": [
+    {
+      "title": "Whitsunday Islands Sail, SUP & Snorkel Tour",
+      "kind": "sail",
+      "summary": "A six hour day on SV Wings III, a 60ft sailing catamaran, around the northern Hook Island area near Hayman Island. Guests snorkel the fringing reefs, try stand up paddle boards or a clear bottom kayak, or stay on board, and morning tea and lunch are included. It runs with no more than 29 guests.",
+      "highlights": [
+        "Snorkelling on fringing reefs near Hook Island and Hayman Island",
+        "Stand up paddle boards and a clear bottom kayak",
+        "Private Wings mooring at Langford Island",
+        "No more than 29 guests"
+      ],
+      "duration": "6 hours",
+      "durationMinutes": 360,
+      "departureTimes": [
+        "09:15"
+      ],
+      "season": "Departs daily",
+      "departsFrom": "Coral Sea Marina, Northern End, Meeting Point B, Airlie Beach",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 240,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child 5 to 15 years",
+          "amount": 210,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Group or family of 4",
+          "amount": 900,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Group or family of 5",
+          "amount": 1125,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 240,
+      "includes": [
+        "Morning tea with sweet and savoury platters",
+        "Tropical buffet lunch with cold meats, salmon, salad and wraps, and a vegetarian option",
+        "Snorkel masks, fins and wetsuits",
+        "Stand up paddle boards and a clear bottom kayak",
+        "Tea, coffee and cold filtered water",
+        "Fridge space, cups and wine flutes for your own drinks"
+      ],
+      "bring": [
+        "Your own pre-chilled drinks (no glass, no red wine); no drinks are sold on board",
+        "Reusable water bottle",
+        "Sunglasses, hat, sunscreen, swimwear and a beach towel",
+        "Jacket or warmer clothes from April to late September",
+        "Sea sickness tablets, taken before boarding"
+      ],
+      "requirements": "Minimum age 5. Guests who cannot swim may not enter the water, and weaker swimmers wear buoyancy aids. Not wheelchair accessible: boarding needs a step across a small gap and two deck steps. The site does not recommend guests over the age of 70.",
+      "offer": null,
+      "images": [
+        "https://www.wings.com.au/assets/images/Langford-Private-mooring.jpg",
+        "https://www.wings.com.au/assets/images/Happy-snorkeler2-rs.jpg",
+        "https://www.wings.com.au/assets/images/SnorkellingWings-rs.jpg",
+        "https://www.wings.com.au/assets/images/Turtle-pax-rs.jpg"
+      ],
+      "bookingLinks": [
+        "https://wings.rezdy.com/499609/a-whitsunday-islands-sail-sup-snorkel-day-tour",
+        "https://wings.rezdy.com/499609/a-whitsunday-islands-sail-sup-snorkel-tour-small-group"
+      ],
+      "sourceUrl": "https://www.wings.com.au/whitsunday-islands-sail-snorkel-and-sup-tour/",
+      "checkNotes": "Adult price, child price and times are on the home page; the tour page shows the adult price and the family prices. Minimum age is 5 in the tour header and the FAQs, but the inclusions list on the tour page says 'Kids welcome 6+'; used 5. The site says a booking fee is added at checkout; the amount is not repeated here. The two Rezdy links share product 499609 (a tracking query string was removed from the second). Meet 8:50am, depart 9:15am, return 3:30pm. The tour does not visit Whitehaven Beach. A snorkel session runs 45 minutes to one hour (FAQs). Weather cancellations on the day are made between 6:30am and 7:30am. The site asks cruise ship guests to check tender times, and a missed tour is not refunded."
+    },
+    {
+      "title": "Airlie Beach Sunset Sail in Style Cruise",
+      "kind": "sail",
+      "summary": "A two hour sunset sail on Airlie Beach Bay aboard SV Wings III, with no more than 29 guests. A welcome drink, antipasto grazing platters and dessert canapés are served, and guests bring their own drinks. There is no swimming on this trip.",
+      "highlights": [
+        "Welcome drink, antipasto platters and dessert canapés",
+        "Bring your own drinks; fridge, ice, cups and wine flutes on board",
+        "Sails the bay towards Pioneer Rocks",
+        "Needs 10 guests to depart, 29 at most"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [
+        "17:00",
+        "16:30"
+      ],
+      "season": "Departs daily; 5:00pm departure from 1 October to 30 April, 4:30pm departure from 1 May to 30 September",
+      "departsFrom": "Coral Sea Marina, Northern End, Meeting Point B, Airlie Beach",
+      "prices": [
+        {
+          "label": "Adult 16+",
+          "amount": 115,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child 5 to 15 years",
+          "amount": 95,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 115,
+      "includes": [
+        "Skipper and host",
+        "Tropical welcome drink on arrival",
+        "Antipasto grazing platters and dessert canapés",
+        "Tea, coffee and cold filtered water",
+        "Fridge space, ice, cups and wine flutes for your own drinks",
+        "Spotify music on board"
+      ],
+      "bring": [
+        "Your own drinks, enough for the two hours (cans, pre-mixed cans, wine and champagne bottles are fine; no other glass)",
+        "Resort casual clothes, barefoot on board (no heels)",
+        "Sunglasses and a hat",
+        "Camera",
+        "Jacket or warmer clothes from April to September"
+      ],
+      "requirements": "Minimum age 5, suitable through to grandparents. No swimming on this trip. Not suitable for wheelchair users.",
+      "offer": null,
+      "images": [
+        "https://www.wings.com.au/assets/images/SunsetCharter13-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter4-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter2-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter5-rs.jpg"
+      ],
+      "bookingLinks": [
+        "https://wings.rezdy.com/675635/airlie-beach-sunset-in-style-cruise",
+        "https://wings.rezdy.com/675635/airlie-beach-sunset-in-style-byo-small-group"
+      ],
+      "sourceUrl": "https://www.wings.com.au/airlie-beach-sunset-sail-in-style-cruise/",
+      "checkNotes": "Summer schedule (1 October to 30 April): meet 4:45pm, depart 5:00pm, return 7:00pm. Winter schedule (1 May to 30 September): meet 4:15pm, depart 4:30pm, return 6:30pm. The tour page shows 'From $115 pp' and says family and group prices are available without giving amounts; the child price of $95 is on the home page only. Needs 10 guests to depart; if Wings cancels for low numbers, guests must pick another cruise (FAQ). Weather cancellations can be notified two hours before. Seafood platters and drinks can be pre-ordered from a separate local supplier. The two Rezdy links share product 675635 (a tracking query string was removed from the second)."
+    },
+    {
+      "title": "2 Hour Exclusive Sunset Sail on Airlie Beach Bay",
+      "kind": "charter",
+      "summary": "A private two hour sunset sail on Airlie Beach Bay for your own group, with the whole of SV Wings III to yourselves. Antipasto platters are prepared on board and guests bring their own drinks. The departure time is flexible and there is no swimming on this charter.",
+      "highlights": [
+        "Whole vessel for your group, 2 to 29 guests",
+        "Antipasto platter prepared on board",
+        "Bring your own drinks; fridge, ice, cups and wine flutes provided",
+        "Departure time can be tailored"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coral Sea Marina, Airlie Beach",
+      "prices": [
+        {
+          "label": "2 to 15 guests",
+          "amount": 2300,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "16 to 29 guests",
+          "amount": 2500,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 2300,
+      "includes": [
+        "Skipper and host",
+        "Two hours sailing Airlie Beach Bay at sunset",
+        "Antipasto cold platter prepared on board",
+        "Spotify music on board for your own playlists",
+        "Fridge space, ice, cups and wine flutes for your own drinks",
+        "Photo package and welcome gift"
+      ],
+      "bring": [
+        "Your own drinks (preferably no glass; wine and spirits are fine), as there is no bar on board",
+        "Sunglasses, hat and sunscreen",
+        "Jacket or warmer clothes from April to September",
+        "Your favourite playlist"
+      ],
+      "requirements": "Whole vessel hire for your group. Children and infants of any age can travel, with fitted life jackets for all ages. No swimming or jacuzzi use on this charter.",
+      "offer": null,
+      "images": [
+        "https://www.wings.com.au/assets/images/SunsetCharter13-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter4-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter2-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter5-rs.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.wings.com.au/sunset-sail-on-the-bay-2-hrs/",
+      "checkNotes": "Sold by enquiry only (Request Booking button on the page, or info@wings.com.au), so there is no booking link. A deposit secures the date and the balance is due four weeks before the charter (FAQs page). A surcharge applies on Australian school holidays, public holidays and long weekends. The page gives a different surcharge rate in two places, so no rate is quoted here. The upper price band reads '15-29 guests' on this page and '16-29 guests' on the Sail on the Bay page; used 16 to 29. Departure time is adapted to the group, season and weather. Seafood platters and drinks can be pre-ordered from separate local suppliers."
+    },
+    {
+      "title": "Private Sunset Yacht Sail on the Bay, 3 Hour Charter",
+      "kind": "charter",
+      "summary": "A private three hour sunset sail on Airlie Beach Bay aboard SV Wings III, with hot and cold grazing platters prepared on board. It suits groups of up to 29 guests, who bring their own drinks. There is no swimming or jacuzzi use on this charter.",
+      "highlights": [
+        "Hot and cold grazing platters prepared on board",
+        "Whole vessel for up to 29 guests",
+        "Bring your own drinks; fridge, ice, cups and flutes provided",
+        "Photos copied to a USB to keep"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coral Sea Marina, Airlie Beach",
+      "prices": [
+        {
+          "label": "2 to 15 guests",
+          "amount": 3300,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "16 to 29 guests",
+          "amount": 3750,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 3300,
+      "includes": [
+        "Skipper and host",
+        "Three hours sailing Airlie Beach Bay",
+        "Hot and cold grazing platters",
+        "Spotify music on board",
+        "Fridge space, one bag of ice, cups and wine and champagne flutes for your own drinks",
+        "Photo memories on USB and a welcome gift"
+      ],
+      "bring": [
+        "Your own drinks (preferably no glass; wine and spirits are fine), as there is no bar on board",
+        "Sunglasses, hat and sunscreen",
+        "Jacket or warmer clothes from April to September",
+        "Your favourite playlist"
+      ],
+      "requirements": "Whole vessel hire for your group. Children and infants of any age can travel, with fitted life jackets for all ages. No swimming or jacuzzi use on this charter.",
+      "offer": null,
+      "images": [
+        "https://www.wings.com.au/assets/images/BBQsail13-rs.jpg",
+        "https://www.wings.com.au/assets/images/BBQsail2-rs.jpg",
+        "https://www.wings.com.au/assets/images/BBQsail1.jpg",
+        "https://www.wings.com.au/assets/images/BBQsail3-rs.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.wings.com.au/sunset-sail-on-the-bay-3-hours/",
+      "checkNotes": "Sold by enquiry only (Request Booking button on the page, or info@wings.com.au), so there is no booking link. A deposit secures the date and the balance is due four weeks before the charter (FAQs page). The page states a surcharge on Australian school holidays, public holidays and long weekends; the rate is not repeated here. Departure time is adapted to the group, season and weather. The site's menu and the Private Charters page also list a separate Spa Sunset Sail BBQ on the Bay; see the operator notes."
+    },
+    {
+      "title": "Premium Class Sail on the Bay, 4 Hour Charter",
+      "kind": "charter",
+      "summary": "A private four hour sail on Airlie Beach Bay aboard SV Wings III with a barbecue meal or platters, the foredeck jacuzzi, and a rear swim enclosure when conditions allow. It can be timed for brunch, lunch, afternoon or sunset, and guests bring their own drinks. There is no snorkelling, paddle boarding or kayaking on this charter.",
+      "highlights": [
+        "Barbecue meal or grazing platters, depending on the time of day",
+        "Foredeck jacuzzi",
+        "Rear in-water swim enclosure, set up at the skipper's discretion",
+        "Brunch, lunch, afternoon or sunset timing"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coral Sea Marina, Airlie Beach",
+      "prices": [
+        {
+          "label": "2 to 15 guests",
+          "amount": 4400,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "16 to 29 guests",
+          "amount": 4800,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 4400,
+      "includes": [
+        "Four hour charter with skipper and host",
+        "Barbecue meal or grazing platters",
+        "Tea and pod coffee",
+        "Use of the foredeck jacuzzi",
+        "Rear in-water swim enclosure (set up at the skipper's discretion; use at night costs extra)",
+        "Spotify music on board",
+        "Fridge space, ice and cold filtered water for your own drinks",
+        "Photo package and welcome gift"
+      ],
+      "bring": [
+        "Your own pre-chilled drinks (soft drinks, juice or alcohol)",
+        "Swimmers, a beach towel and a change of clothes if using the jacuzzi or swim enclosure",
+        "Sunglasses and a hat",
+        "Jacket or warmer clothes from April to October",
+        "Your favourite playlist"
+      ],
+      "requirements": "Whole vessel hire for your group, up to 29 guests. Swimming in the bay depends on conditions and is the skipper's decision, and it will not go ahead if guests are too intoxicated. No snorkel, paddle board or kayak use.",
+      "offer": null,
+      "images": [
+        "https://www.wings.com.au/assets/images/SpaSunset1-rs.jpg",
+        "https://www.wings.com.au/assets/images/SpaSunset2-rs.jpg",
+        "https://www.wings.com.au/assets/images/SpaSunset3-rs.jpg",
+        "https://www.wings.com.au/assets/images/SpaSunset4-rs.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.wings.com.au/premium-party-on-the-bay-4-hour/",
+      "checkNotes": "Sold by enquiry only (Request Booking button on the page, or info@wings.com.au), so there is no booking link. A deposit secures the date and the balance is due four weeks before the charter (FAQs page). A surcharge applies on Australian school holidays, public holidays and long weekends. The page gives a different surcharge rate in two places, so no rate is quoted here. The page says use of the swim enclosure at night has an additional hire cost; no amount is given. The Private Charters page calls this 'Premium 4 hour Party on the Bay' and the Sail on the Bay page calls it 'Premium Sail on the Bay 4 hrs'. The cooked meal is described as hamburgers and a noodle side salad, or platters."
+    },
+    {
+      "title": "Half Day Private Charter",
+      "kind": "charter",
+      "summary": "A private six hour charter of SV Wings III around the northern end of Hook Island near Hayman Island, with snorkelling, stand up paddle boards and kayaks. Lunch and an afternoon platter are included and guests bring their own drinks. Your group chooses the departure and return times.",
+      "highlights": [
+        "Six hours with one or two anchorage stops for in-water activities, weather permitting",
+        "Snorkel, stand up paddle board and kayak equipment included",
+        "Lunch and an afternoon antipasto platter, or morning tea and lunch for an earlier start",
+        "Popular times are 10am to 4pm, 11am to 5pm or 12 noon to 6pm"
+      ],
+      "duration": "6 hours",
+      "durationMinutes": 360,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coral Sea Marina, Northern End, Meeting Point B, Airlie Beach",
+      "prices": [
+        {
+          "label": "Low season, 2 to 15 guests",
+          "amount": 5900,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Low season, 16 to 29 guests",
+          "amount": 6100,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends, 2 to 15 guests",
+          "amount": 6490,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends, 16 to 29 guests",
+          "amount": 6710,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Drinks pick up and delivery to the boat (flat fee)",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Optional; ordered from a local bottle shop"
+        }
+      ],
+      "priceFrom": 5900,
+      "includes": [
+        "Skipper and host",
+        "Six hour charter with one or two anchorage stops",
+        "Freshly prepared lunch of cold meats, salmon, salad and wraps, plus an afternoon antipasto platter (morning tea and lunch if departing early)",
+        "Tea and coffee station",
+        "Snorkel, stand up paddle board and kayak equipment",
+        "Fridge space, ice, cups and wine flutes for your own drinks",
+        "Photo package and welcome gift"
+      ],
+      "bring": [
+        "Your own drinks (no bar on board; preferably no glass)",
+        "Sunglasses, hat, sunscreen, a change of clothes and a beach towel",
+        "Jacket or warmer clothes from April to September",
+        "Your favourite playlist"
+      ],
+      "requirements": "Whole vessel hire for your group, up to 29 guests. Guests who cannot swim may not enter the water for in-water activities.",
+      "offer": null,
+      "images": [
+        "https://www.wings.com.au/assets/images/HalfDayCharter-rs.jpg",
+        "https://www.wings.com.au/assets/images/WingsDayCharter-rs.jpg",
+        "https://www.wings.com.au/assets/images/Kayaking-rs.jpg",
+        "https://www.wings.com.au/assets/images/Aerial_Wings_and_boards_rs.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.wings.com.au/half-day-charter/",
+      "checkNotes": "Sold by enquiry only (Request Booking button on the page, or info@wings.com.au), so there is no booking link. A deposit secures the date and the balance is due four weeks before the charter (FAQs page). A surcharge applies on Australian school holidays, public holidays and long weekends. The page gives a different surcharge rate in two places, so no rate is quoted here. Guest bands conflict: this page and its price table say 2 to 15 and 16 to 29 guests, while the Private Charters page says up to 10 and 11 to 20 guests with additional costs up to 29; used this page. Anchorages named: Cockatoo Point, Langford Spit, Stonehaven Bay, Blue Pearl Bay, Dolphin Point or South Molle Island. Departure times are tailored."
+    },
+    {
+      "title": "Full Day Private Charter",
+      "kind": "charter",
+      "summary": "A private eight hour charter of SV Wings III with two anchorages around the top end of Hook Island near Hayman Island. Morning tea, a back deck barbecue lunch and afternoon platters are included, along with snorkelling, stand up paddle boards, kayaks and the foredeck jacuzzi. Your group sets the departure and return times.",
+      "highlights": [
+        "Eight hours on the water with two anchorages for in-water activities",
+        "Morning tea, back deck barbecue lunch and afternoon grazing platters",
+        "Snorkel, stand up paddle board and kayak equipment, plus the foredeck jacuzzi",
+        "Price includes Great Barrier Reef Marine Park fees, fuel taxes and cleaning"
+      ],
+      "duration": "8 hours",
+      "durationMinutes": 480,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coral Sea Marina, Northern End, Meeting Point B, Airlie Beach",
+      "prices": [
+        {
+          "label": "Low season, 2 to 15 guests",
+          "amount": 8000,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Low season, 16 to 29 guests",
+          "amount": 8400,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends, 2 to 15 guests",
+          "amount": 8800,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends, 16 to 29 guests",
+          "amount": 9240,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Drinks pick up and delivery to the boat (flat fee)",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Optional; ordered from a local bottle shop"
+        }
+      ],
+      "priceFrom": 8000,
+      "includes": [
+        "Skipper with more than 20 years of local knowledge, and a host",
+        "Eight hour charter with two anchorages",
+        "Morning tea, buffet back deck barbecue lunch and afternoon grazing platters",
+        "Snorkel, stand up paddle board and kayak equipment",
+        "Foredeck jacuzzi",
+        "Fridge space, ice, cups and flutes for your own drinks",
+        "Great Barrier Reef Marine Park fees, fuel taxes and cleaning",
+        "Photo package and welcome gift"
+      ],
+      "bring": [
+        "Your own drinks (no bar on board; preferably no glass)",
+        "Sunglasses, hat, sunscreen, a change of clothes and a beach towel",
+        "Jacket or warmer clothes from April to September",
+        "Your favourite playlist"
+      ],
+      "requirements": "Whole vessel hire for your group, up to 29 guests. Babies through to grandparents can travel; an adult must be with children at all times and the crew need children's ages and weights in advance for life jackets.",
+      "offer": null,
+      "images": [
+        "https://www.wings.com.au/assets/images/WingsDayCharter-rs.jpg",
+        "https://www.wings.com.au/assets/images/BeachVibes-rs.jpg",
+        "https://www.wings.com.au/assets/images/DayTrips-rs.jpg",
+        "https://www.wings.com.au/assets/images/Family-on-sundeck-with-kids-rs.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.wings.com.au/full-day-charter/",
+      "checkNotes": "Sold by enquiry only (Request Booking button on the page, or info@wings.com.au), so there is no booking link. A deposit secures the date and the balance is due four weeks before the charter (FAQs page). A surcharge applies on Australian school holidays, public holidays and long weekends. The page gives a different surcharge rate in two places, so no rate is quoted here. Guest bands conflict: the top of the page says 16 to 29 guests, but the low season table row reads '16 - 25 guests' at the same price; the Private Charters page says up to 10 and 11 to 20 guests with additional costs up to 29. Used 2 to 15 and 16 to 29. Anchorages named include Mantaray Bay, Butterfly Bay, Luncheon Bay, Langford Spit, Stonehaven Bay and Bali Hi. Departure times are tailored."
+    },
+    {
+      "title": "Custom Cruise Ship Charter",
+      "kind": "charter",
+      "summary": "A five hour private charter on SV Wings III, planned around cruise ship arrivals at Port of Airlie Marina, for groups rather than single passengers. Choose a sail, snorkel and swim near Langford Island, or a sail, paddle board and island walk near South Molle Island. Morning tea and a tropical lunch are included and guests bring their own drinks.",
+      "highlights": [
+        "Option 1: sail, snorkel and swim at Langford Island (no paddle boards or kayaks)",
+        "Option 2: sail, paddle board and swim or walk at South Molle Island (no snorkelling)",
+        "Meet 9:30am, depart 9:45am, return 2:45pm",
+        "Fully catered and crewed; bring your own drinks"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [
+        "09:45"
+      ],
+      "season": null,
+      "departsFrom": "Coral Sea Marina, Northern End, Meeting Point B, Airlie Beach",
+      "prices": [
+        {
+          "label": "2 to 15 guests",
+          "amount": 5500,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "16 to 25 guests",
+          "amount": 5800,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Each additional guest, up to 29 maximum",
+          "amount": 250,
+          "currency": "AUD",
+          "note": "Per person"
+        },
+        {
+          "label": "Drinks pick up and delivery to the boat (flat fee)",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Optional; ordered from a local bottle shop"
+        }
+      ],
+      "priceFrom": 5500,
+      "includes": [
+        "Skipper and host",
+        "Five hour private charter",
+        "Morning tea with sweet and savoury platters, and a tropical lunch of meats, salad platters and wraps",
+        "Air-conditioned lounge interior",
+        "Spotify music on board",
+        "Fridge space, ice, cups and wine flutes for your own drinks",
+        "Photo package and welcome gift"
+      ],
+      "bring": [
+        "Beachwear, a beach towel, a small day bag and a light jacket",
+        "Sunglasses, hat, sunscreen and a camera",
+        "Your own drinks (no glass where possible); these can be pre-ordered for delivery to the boat",
+        "Jacket or warmer clothes from April to September",
+        "Sea sickness tablets, if needed"
+      ],
+      "requirements": "Whole vessel hire for your group, up to 29 guests. Option 1 has no stand up paddle boards or kayaks; option 2 has no snorkelling.",
+      "offer": null,
+      "images": [
+        "https://www.wings.com.au/assets/images/WingsSUP-rs.jpg",
+        "https://www.wings.com.au/assets/images/Aerial_Wings_and_boards_rs.jpg",
+        "https://www.wings.com.au/assets/images/DJI_0404-rs.jpg",
+        "https://www.wings.com.au/assets/images/Spa-sunbake-.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.wings.com.au/custom-cruise-ship-charter/",
+      "checkNotes": "Sold by enquiry only (Request Booking button on the page, or info@wings.com.au), so there is no booking link. A deposit secures the date and the balance is due four weeks before the charter (FAQs page). Price bands differ on the same page: the two option listings say 2 to 15 guests at $5500 and 16 to 25 guests at $5800, while the price box says 2 to 10 and 11 to 20 guests at the same amounts; used the option listings. A surcharge applies on Australian school holidays and public holidays (rate not repeated). The day tour page says these charters are for group bookings, not single passengers. Guests must check their own ship's tender times."
+    },
+    {
+      "title": "2 Day 1 Night Private Charter",
+      "kind": "liveaboard",
+      "summary": "A private whole-vessel charter on SV Wings III for two days and one night, leaving at 9:30am and returning at 3:00pm the next day. The planned route takes in Whitehaven Beach and the Hill Inlet lookout on the first day and the northern Hook Island area, including Mantaray Bay, on the second, with the skipper adjusting for weather. All meals and in-water equipment are included.",
+      "highlights": [
+        "Whitehaven Beach and the Hill Inlet lookout",
+        "Snorkelling at Mantaray Bay, with stand up paddle boards and clear bottom kayaks",
+        "Underwater blue lights at night",
+        "Whole vessel for your group, up to 14 guests"
+      ],
+      "duration": "2 days, 1 night",
+      "durationMinutes": null,
+      "departureTimes": [
+        "09:30"
+      ],
+      "season": null,
+      "departsFrom": "Coral Sea Marina, Northern End, Meeting Point B, Airlie Beach",
+      "prices": [
+        {
+          "label": "Low season (non holiday), 1 to 5 guests",
+          "amount": 9800,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Low season (non holiday), 6 to 10 guests",
+          "amount": 10800,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Low season (non holiday), 11 to 14 guests",
+          "amount": 12000,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 1 to 5 guests",
+          "amount": 10400,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 6 to 10 guests",
+          "amount": 11880,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 11 to 14 guests",
+          "amount": 13200,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Seafood platter pick up and delivery to the boat (flat fee)",
+          "amount": 150,
+          "currency": "AUD",
+          "note": "Optional; ordered from a local seafood supplier"
+        },
+        {
+          "label": "Drinks pick up and delivery to the boat (flat fee)",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Optional; ordered from a local bottle shop"
+        }
+      ],
+      "priceFrom": 9800,
+      "includes": [
+        "Professional skipper and host",
+        "All in-water activities: snorkel, stand up paddle board, kayak and wetsuits",
+        "Every meal cooked fresh on board, including salads, barbecue dinners and lunches, morning and afternoon teas, sunset platters and desserts",
+        "Air-conditioned vessel with cabins, bed linen and a shower towel",
+        "Bluetooth surround sound and flat screen TVs",
+        "Fridge space, ice, cups and wine flutes for your own drinks",
+        "Marine park fees and cleaning",
+        "Photo package and welcome gift"
+      ],
+      "bring": [
+        "Your own alcohol and drinks (preferably no glass; wine and spirits are fine)",
+        "Sunglasses, hat, sunscreen, clothes for the length of the charter and a beach towel",
+        "Jacket or warmer clothes from April to September",
+        "Sea sickness tablets, if you may need them",
+        "A downloaded playlist, as internet access on board is limited"
+      ],
+      "requirements": "Whole vessel hire only, with no mixed groups. Rates are for 1 to 5, 6 to 10 and 11 to 14 guests (16 on request, per the Private Charters page). Children of all ages can travel, with fitted life jackets from infants. Not wheelchair accessible.",
+      "offer": null,
+      "images": [
+        "https://www.wings.com.au/assets/images/Whitehaven_beach_DJI_0068-rs.jpg",
+        "https://www.wings.com.au/assets/images/DJI_0405-rs.jpg",
+        "https://www.wings.com.au/assets/images/family-rs.jpg",
+        "https://www.wings.com.au/assets/images/GOPR2182-rs.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.wings.com.au/2-day-1-night-private-charter/",
+      "checkNotes": "Sold by enquiry only (Request Booking button on the page, or info@wings.com.au), so there is no booking link. A deposit secures the date and the balance is due four weeks before the charter (FAQs page). Meet 9:00am, depart 9:30am, return 3:00pm the following day. Low season and high season prices are listed by group size. Bed linen, towel, marine park fees and cleaning are stated on the Overnight Private Charters page. The Private Charters page lists this charter with an afternoon departure at 4:30pm, and the Overnight Private Charters page says 'meet greet and retreat at 9:30am'; the charter page says meet 9:00am and depart 9:30am, which is used."
+    },
+    {
+      "title": "2 Night 2 Day Private Charter",
+      "kind": "liveaboard",
+      "summary": "A private whole-vessel charter on SV Wings III for two nights and two days, leaving at 4:30pm and returning at 3:00pm on the final day. The route covers the Whitsunday Islands and Whitehaven Beach, and the skipper chooses anchorages to suit the weather. All meals are cooked on board and in-water equipment is included.",
+      "highlights": [
+        "Whitehaven Beach and the Hill Inlet lookout",
+        "Anchorages chosen by the skipper for the weather",
+        "Whole vessel for your group, up to 14 guests",
+        "All meals and in-water equipment included"
+      ],
+      "duration": "2 nights, 2 days",
+      "durationMinutes": null,
+      "departureTimes": [
+        "16:30"
+      ],
+      "season": null,
+      "departsFrom": "Coral Sea Marina, Northern End, Meeting Point B, Airlie Beach",
+      "prices": [
+        {
+          "label": "Low season (non holiday), 1 to 5 guests",
+          "amount": 12250,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Low season (non holiday), 6 to 10 guests",
+          "amount": 13500,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Low season (non holiday), 11 to 14 guests",
+          "amount": 15000,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 1 to 5 guests",
+          "amount": 13000,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 6 to 10 guests",
+          "amount": 14850,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 11 to 14 guests",
+          "amount": 16500,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Seafood platter pick up and delivery to the boat (flat fee)",
+          "amount": 150,
+          "currency": "AUD",
+          "note": "Optional; ordered from a local seafood supplier"
+        },
+        {
+          "label": "Drinks pick up and delivery to the boat (flat fee)",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Optional; ordered from a local bottle shop"
+        }
+      ],
+      "priceFrom": 12250,
+      "includes": [
+        "Professional skipper and host",
+        "All in-water activities: snorkel, stand up paddle board, kayak and wetsuits",
+        "Every meal cooked fresh on board, including salads, barbecue dinners and lunches, morning and afternoon teas, sunset platters and desserts",
+        "Air-conditioned vessel with cabins, bed linen and a shower towel",
+        "Bluetooth surround sound and flat screen TVs",
+        "Fridge space, ice, cups and wine flutes for your own drinks",
+        "Marine park fees and cleaning",
+        "Photo package and welcome gift"
+      ],
+      "bring": [
+        "Your own alcohol and drinks (preferably no glass; wine and spirits are fine)",
+        "Sunglasses, hat, sunscreen, clothes for the length of the charter and a beach towel",
+        "Jacket or warmer clothes from April to September",
+        "Sea sickness tablets, if you may need them",
+        "A downloaded playlist, as internet access on board is limited"
+      ],
+      "requirements": "Whole vessel hire only, with no mixed groups. Rates are for 1 to 5, 6 to 10 and 11 to 14 guests (16 on request, per the Private Charters page). Children of all ages can travel, with fitted life jackets from infants. Not wheelchair accessible.",
+      "offer": null,
+      "images": [
+        "https://www.wings.com.au/assets/images/Beach_Fun-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wings_3_back_deck_chill-rs.jpg",
+        "https://www.wings.com.au/assets/images/DJI_0397-rs.jpg",
+        "https://www.wings.com.au/assets/images/Girl_Whitehaven_Beach-rs.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.wings.com.au/2-day-2-night-private-charter/",
+      "checkNotes": "Sold by enquiry only (Request Booking button on the page, or info@wings.com.au), so there is no booking link. A deposit secures the date and the balance is due four weeks before the charter (FAQs page). Meet 4:00pm, depart 4:30pm, return 3:00pm on the final day. Low season and high season prices are listed by group size. Bed linen, towel, marine park fees and cleaning are stated on the Overnight Private Charters page. The page links an interactive map of Whitsunday locations hosted on another address; not opened."
+    },
+    {
+      "title": "3 Day 2 Night Private Charter",
+      "kind": "liveaboard",
+      "summary": "A private whole-vessel charter on SV Wings III for three days and two nights, leaving at 10:00am and returning at 3:00pm on the final day. Guests swim, snorkel, paddle board and kayak at sheltered bays and sleep in air-conditioned cabins. Meals are cooked on board and in-water equipment is included.",
+      "highlights": [
+        "Swimming, snorkelling, paddle boarding and kayaking at sheltered bays",
+        "Sleep aboard in air-conditioned cabins",
+        "Whole vessel for your group, up to 14 guests",
+        "All meals and in-water equipment included"
+      ],
+      "duration": "3 days, 2 nights",
+      "durationMinutes": null,
+      "departureTimes": [
+        "10:00"
+      ],
+      "season": null,
+      "departsFrom": "Coral Sea Marina, Northern End, Meeting Point B, Airlie Beach",
+      "prices": [
+        {
+          "label": "Low season (non holiday), 1 to 5 guests",
+          "amount": 14700,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Low season (non holiday), 6 to 10 guests",
+          "amount": 16200,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Low season (non holiday), 11 to 14 guests",
+          "amount": 18000,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 1 to 5 guests",
+          "amount": 15600,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 6 to 10 guests",
+          "amount": 17820,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 11 to 14 guests",
+          "amount": 19800,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Seafood platter pick up and delivery to the boat (flat fee)",
+          "amount": 150,
+          "currency": "AUD",
+          "note": "Optional; ordered from a local seafood supplier"
+        },
+        {
+          "label": "Drinks pick up and delivery to the boat (flat fee)",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Optional; ordered from a local bottle shop"
+        }
+      ],
+      "priceFrom": 14700,
+      "includes": [
+        "Professional skipper and host",
+        "All in-water activities: snorkel, stand up paddle board, kayak and wetsuits",
+        "Every meal cooked fresh on board, including salads, barbecue dinners and lunches, morning and afternoon teas, sunset platters and desserts",
+        "Air-conditioned vessel with cabins, bed linen and a shower towel",
+        "Bluetooth surround sound and flat screen TVs",
+        "Fridge space, ice, cups and wine flutes for your own drinks",
+        "Marine park fees and cleaning",
+        "Photo package and welcome gift"
+      ],
+      "bring": [
+        "Your own alcohol and drinks (preferably no glass; wine and spirits are fine)",
+        "Sunglasses, hat, sunscreen, clothes for the length of the charter and a beach towel",
+        "Jacket or warmer clothes from April to September",
+        "Sea sickness tablets, if you may need them",
+        "A downloaded playlist, as internet access on board is limited"
+      ],
+      "requirements": "Whole vessel hire only, with no mixed groups. Rates are for 1 to 5, 6 to 10 and 11 to 14 guests (16 on request, per the Private Charters page). Children of all ages can travel, with fitted life jackets from infants. Not wheelchair accessible.",
+      "offer": null,
+      "images": [
+        "https://www.wings.com.au/assets/images/3day3night-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wings_spinnaker_rs.jpg",
+        "https://www.wings.com.au/assets/images/DJI_0512-rs.jpg",
+        "https://www.wings.com.au/assets/images/IMG_0318-rs.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.wings.com.au/3-day-2-night-private-charter/",
+      "checkNotes": "Sold by enquiry only (Request Booking button on the page, or info@wings.com.au), so there is no booking link. A deposit secures the date and the balance is due four weeks before the charter (FAQs page). Meet 9:30am, depart 10:00am, return 3:00pm on the final day. The Overnight Private Charters page describes the intro as a 'three-night' adventure while the title and prices are for 2 nights. Low season and high season prices are listed by group size. Bed linen, towel, marine park fees and cleaning are stated on the Overnight Private Charters page. The page also says additional entertainment can be added at extra cost."
+    },
+    {
+      "title": "3 Night 3 Day Private Charter",
+      "kind": "liveaboard",
+      "summary": "A private whole-vessel charter on SV Wings III for three nights and three days, leaving at 4:30pm and returning at 3:00pm on the final day. The page describes snorkelling the reef, Whitehaven Beach and bushwalking on some of the islands. All meals and in-water equipment are included.",
+      "highlights": [
+        "Snorkelling and time on Whitehaven Beach",
+        "Bushwalking on some of the islands",
+        "Whole vessel for your group, up to 14 guests",
+        "All meals and in-water equipment included"
+      ],
+      "duration": "3 nights, 3 days",
+      "durationMinutes": null,
+      "departureTimes": [
+        "16:30"
+      ],
+      "season": null,
+      "departsFrom": "Coral Sea Marina, Northern End, Meeting Point B, Airlie Beach",
+      "prices": [
+        {
+          "label": "Low season (non holiday), 1 to 5 guests",
+          "amount": 17150,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Low season (non holiday), 6 to 10 guests",
+          "amount": 18900,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Low season (non holiday), 11 to 14 guests",
+          "amount": 21000,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 1 to 5 guests",
+          "amount": 18200,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 6 to 10 guests",
+          "amount": 20790,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 11 to 14 guests",
+          "amount": 23100,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Seafood platter pick up and delivery to the boat (flat fee)",
+          "amount": 150,
+          "currency": "AUD",
+          "note": "Optional; ordered from a local seafood supplier"
+        },
+        {
+          "label": "Drinks pick up and delivery to the boat (flat fee)",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Optional; ordered from a local bottle shop"
+        }
+      ],
+      "priceFrom": 17150,
+      "includes": [
+        "Professional skipper and host",
+        "All in-water activities: snorkel, stand up paddle board, kayak and wetsuits",
+        "Every meal cooked fresh on board, including salads, barbecue dinners and lunches, morning and afternoon teas, sunset platters and desserts",
+        "Air-conditioned vessel with cabins, bed linen and a shower towel",
+        "Bluetooth surround sound and flat screen TVs",
+        "Fridge space, ice, cups and wine flutes for your own drinks",
+        "Marine park fees and cleaning",
+        "Photo package and welcome gift"
+      ],
+      "bring": [
+        "Your own alcohol and drinks (preferably no glass; wine and spirits are fine)",
+        "Sunglasses, hat, sunscreen, clothes for the length of the charter and a beach towel",
+        "Jacket or warmer clothes from April to September",
+        "Sea sickness tablets, if you may need them",
+        "A downloaded playlist, as internet access on board is limited"
+      ],
+      "requirements": "Whole vessel hire only, with no mixed groups. Rates are for 1 to 5, 6 to 10 and 11 to 14 guests (16 on request, per the Private Charters page). Children of all ages can travel, with fitted life jackets from infants. Not wheelchair accessible.",
+      "offer": null,
+      "images": [
+        "https://www.wings.com.au/assets/images/SunsetCharter2-rs.jpg",
+        "https://www.wings.com.au/assets/images/Turtle-close-snorkellers-rs.jpg",
+        "https://www.wings.com.au/assets/images/Black-reef-wings-Kayaks-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wings_spinnaker_rs.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.wings.com.au/3-day-3-night-private-charter/",
+      "checkNotes": "Sold by enquiry only (Request Booking button on the page, or info@wings.com.au), so there is no booking link. A deposit secures the date and the balance is due four weeks before the charter (FAQs page). Meet 4:00pm, depart 4:30pm, return 3:00pm on the final day. Low season and high season prices are listed by group size. Bed linen, towel, marine park fees and cleaning are stated on the Overnight Private Charters page. This page offers an Outer Reef upgrade, but the Outer Great Barrier Reef page says the addition is only for charters of 4 days and 3 nights or longer; the amount is not stated."
+    },
+    {
+      "title": "4 Day 3 Night Private Charter",
+      "kind": "liveaboard",
+      "summary": "A private whole-vessel charter on SV Wings III for four days and three nights, leaving at 10:00am and returning at 3:00pm on the final day. The longer trip allows more snorkel stops, beach time and sailing time. All meals and in-water equipment are included.",
+      "highlights": [
+        "More time for snorkel stops, beaches and sailing",
+        "Sleep aboard in air-conditioned cabins",
+        "Whole vessel for your group, up to 14 guests",
+        "All meals and in-water equipment included"
+      ],
+      "duration": "4 days, 3 nights",
+      "durationMinutes": null,
+      "departureTimes": [
+        "10:00"
+      ],
+      "season": null,
+      "departsFrom": "Coral Sea Marina, Northern End, Meeting Point B, Airlie Beach",
+      "prices": [
+        {
+          "label": "Low season (non holiday), 1 to 5 guests",
+          "amount": 19600,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Low season (non holiday), 6 to 10 guests",
+          "amount": 21600,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Low season (non holiday), 11 to 14 guests",
+          "amount": 24000,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 1 to 5 guests",
+          "amount": 20800,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 6 to 10 guests",
+          "amount": 23760,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 11 to 14 guests",
+          "amount": 26400,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Seafood platter pick up and delivery to the boat (flat fee)",
+          "amount": 150,
+          "currency": "AUD",
+          "note": "Optional; ordered from a local seafood supplier"
+        },
+        {
+          "label": "Drinks pick up and delivery to the boat (flat fee)",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Optional; ordered from a local bottle shop"
+        }
+      ],
+      "priceFrom": 19600,
+      "includes": [
+        "Professional skipper and host",
+        "All in-water activities: snorkel, stand up paddle board, kayak and wetsuits",
+        "Every meal cooked fresh on board, including salads, barbecue dinners and lunches, morning and afternoon teas, sunset platters and desserts",
+        "Air-conditioned vessel with cabins, bed linen and a shower towel",
+        "Bluetooth surround sound and flat screen TVs",
+        "Fridge space, ice, cups and wine flutes for your own drinks",
+        "Marine park fees and cleaning",
+        "Photo package and welcome gift"
+      ],
+      "bring": [
+        "Your own alcohol and drinks (preferably no glass; wine and spirits are fine)",
+        "Sunglasses, hat, sunscreen, clothes for the length of the charter and a beach towel",
+        "Jacket or warmer clothes from April to September",
+        "Sea sickness tablets, if you may need them",
+        "A downloaded playlist, as internet access on board is limited"
+      ],
+      "requirements": "Whole vessel hire only, with no mixed groups. Rates are for 1 to 5, 6 to 10 and 11 to 14 guests (16 on request, per the Private Charters page). Children of all ages can travel, with fitted life jackets from infants. Not wheelchair accessible.",
+      "offer": null,
+      "images": [
+        "https://www.wings.com.au/assets/images/DJI_0273-rs.jpg",
+        "https://www.wings.com.au/assets/images/GOPR2342-rs.jpg",
+        "https://www.wings.com.au/assets/images/black_reef_wings_kayak_1-rs.jpg",
+        "https://www.wings.com.au/assets/images/Kids_driving-rs.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.wings.com.au/4-day-3-night-private-charter/",
+      "checkNotes": "Sold by enquiry only (Request Booking button on the page, or info@wings.com.au), so there is no booking link. A deposit secures the date and the balance is due four weeks before the charter (FAQs page). Meet 9:30am, depart 10:00am, return 3:00pm on the final day. Low season and high season prices are listed by group size. Bed linen, towel, marine park fees and cleaning are stated on the Overnight Private Charters page. The Outer Great Barrier Reef addition can be requested for charters of this length (see offers)."
+    },
+    {
+      "title": "4 Night 4 Day Private Charter",
+      "kind": "liveaboard",
+      "summary": "A private whole-vessel charter on SV Wings III for four nights and four days, leaving at 4:30pm and returning at 3:00pm on the final day. The page describes more locations for in-water activities and time at quieter spots. An Outer Great Barrier Reef addition can be requested for charters of this length.",
+      "highlights": [
+        "More locations for in-water activities",
+        "Time at quieter anchorages",
+        "Whole vessel for your group, up to 14 guests",
+        "Outer Great Barrier Reef addition on request"
+      ],
+      "duration": "4 nights, 4 days",
+      "durationMinutes": null,
+      "departureTimes": [
+        "16:30"
+      ],
+      "season": null,
+      "departsFrom": "Coral Sea Marina, Northern End, Meeting Point B, Airlie Beach",
+      "prices": [
+        {
+          "label": "Low season (non holiday), 1 to 5 guests",
+          "amount": 22050,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Low season (non holiday), 6 to 10 guests",
+          "amount": 24300,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Low season (non holiday), 11 to 14 guests",
+          "amount": 27000,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 1 to 5 guests",
+          "amount": 23400,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 6 to 10 guests",
+          "amount": 26730,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 11 to 14 guests",
+          "amount": 29700,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Seafood platter pick up and delivery to the boat (flat fee)",
+          "amount": 150,
+          "currency": "AUD",
+          "note": "Optional; ordered from a local seafood supplier"
+        },
+        {
+          "label": "Drinks pick up and delivery to the boat (flat fee)",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Optional; ordered from a local bottle shop"
+        }
+      ],
+      "priceFrom": 22050,
+      "includes": [
+        "Professional skipper and host",
+        "All in-water activities: snorkel, stand up paddle board, kayak and wetsuits",
+        "Every meal cooked fresh on board, including salads, barbecue dinners and lunches, morning and afternoon teas, sunset platters and desserts",
+        "Air-conditioned vessel with cabins, bed linen and a shower towel",
+        "Bluetooth surround sound and flat screen TVs",
+        "Fridge space, ice, cups and wine flutes for your own drinks",
+        "Marine park fees and cleaning",
+        "Photo package and welcome gift"
+      ],
+      "bring": [
+        "Your own alcohol and drinks (preferably no glass; wine and spirits are fine)",
+        "Sunglasses, hat, sunscreen, clothes for the length of the charter and a beach towel",
+        "Jacket or warmer clothes from April to September",
+        "Sea sickness tablets, if you may need them",
+        "A downloaded playlist, as internet access on board is limited"
+      ],
+      "requirements": "Whole vessel hire only, with no mixed groups. Rates are for 1 to 5, 6 to 10 and 11 to 14 guests (16 on request, per the Private Charters page). Children of all ages can travel, with fitted life jackets from infants. Not wheelchair accessible.",
+      "offer": null,
+      "images": [
+        "https://www.wings.com.au/assets/images/WingsSUP-1-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wings_3___Front_Deck_2-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wings-OuterReef-rs.jpg",
+        "https://www.wings.com.au/assets/images/Familly-Whitehaven-Beach-rs.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.wings.com.au/4-day-4-night-private-charter/",
+      "checkNotes": "Sold by enquiry only (Request Booking button on the page, or info@wings.com.au), so there is no booking link. A deposit secures the date and the balance is due four weeks before the charter (FAQs page). Meet 4:00pm, depart 4:30pm, return 3:00pm on the final day. One low season table row writes the departure as '4.30pm'. Low season and high season prices are listed by group size. Bed linen, towel, marine park fees and cleaning are stated on the Overnight Private Charters page. The Outer Great Barrier Reef addition is priced separately (see offers)."
+    },
+    {
+      "title": "5 Day 4 Night Private Charter",
+      "kind": "liveaboard",
+      "summary": "A private whole-vessel charter on SV Wings III for five days and four nights, leaving at 10:00am and returning at 3:00pm on the final day. The slower pace leaves time at Whitehaven Beach and the Hill Inlet lookout when it is quiet, including a night at South Whitehaven. All meals and in-water equipment are included.",
+      "highlights": [
+        "Whitehaven Beach and the Hill Inlet lookout at quieter times",
+        "A night at South Whitehaven",
+        "Whole vessel for your group, up to 14 guests",
+        "All meals and in-water equipment included"
+      ],
+      "duration": "5 days, 4 nights",
+      "durationMinutes": null,
+      "departureTimes": [
+        "10:00"
+      ],
+      "season": null,
+      "departsFrom": "Coral Sea Marina, Northern End, Meeting Point B, Airlie Beach",
+      "prices": [
+        {
+          "label": "Low season (non holiday), 1 to 5 guests",
+          "amount": 24500,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Low season (non holiday), 6 to 10 guests",
+          "amount": 27000,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Low season (non holiday), 11 to 14 guests",
+          "amount": 30000,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 1 to 5 guests",
+          "amount": 26000,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 6 to 10 guests",
+          "amount": 29700,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Australian holidays, public holidays and long weekends (high season), 11 to 14 guests",
+          "amount": 33000,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Seafood platter pick up and delivery to the boat (flat fee)",
+          "amount": 150,
+          "currency": "AUD",
+          "note": "Optional; ordered from a local seafood supplier"
+        },
+        {
+          "label": "Drinks pick up and delivery to the boat (flat fee)",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Optional; ordered from a local bottle shop"
+        }
+      ],
+      "priceFrom": 24500,
+      "includes": [
+        "Professional skipper and host",
+        "All in-water activities: snorkel, stand up paddle board, kayak and wetsuits",
+        "Every meal cooked fresh on board, including salads, barbecue dinners and lunches, morning and afternoon teas, sunset platters and desserts",
+        "Air-conditioned vessel with cabins, bed linen and a shower towel",
+        "Bluetooth surround sound and flat screen TVs",
+        "Fridge space, ice, cups and wine flutes for your own drinks",
+        "Marine park fees and cleaning",
+        "Photo package and welcome gift"
+      ],
+      "bring": [
+        "Your own alcohol and drinks (preferably no glass; wine and spirits are fine)",
+        "Sunglasses, hat, sunscreen, clothes for the length of the charter and a beach towel",
+        "Jacket or warmer clothes from April to September",
+        "Sea sickness tablets, if you may need them",
+        "A downloaded playlist, as internet access on board is limited"
+      ],
+      "requirements": "Whole vessel hire only, with no mixed groups. Rates are for 1 to 5, 6 to 10 and 11 to 14 guests (16 on request, per the Private Charters page). Children of all ages can travel, with fitted life jackets from infants. Not wheelchair accessible.",
+      "offer": null,
+      "images": [
+        "https://www.wings.com.au/assets/images/BBQsail5-rs.jpg",
+        "https://www.wings.com.au/assets/images/WingsSUP-rs.jpg",
+        "https://www.wings.com.au/assets/images/Turtle-close-snorkellers-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter2-rs.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.wings.com.au/5-day-4-night-private-charter/",
+      "checkNotes": "Sold by enquiry only (Request Booking button on the page, or info@wings.com.au), so there is no booking link. A deposit secures the date and the balance is due four weeks before the charter (FAQs page). Meet 9:30am, depart 10:00am, return 3:00pm on the last day. The Extended Charters page says morning departure 9:30am or afternoon departure 4:30pm; the charter page says 10:00am and the Private Charters page says 9:00am, so the charter page is used. Low season and high season prices are listed by group size. Bed linen, towel, marine park fees and cleaning are stated on the Overnight Private Charters page. The Outer Great Barrier Reef addition can be requested for charters of this length (see offers)."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Outer Great Barrier Reef addition for private charters of four nights or longer",
+      "conditions": "By email request only. The price is set closer to departure once the forecast is known and additional costs apply. The Outer Reef is about 50 nautical miles past the Whitsunday Islands and takes up to four hours to reach.",
+      "validUntil": null,
+      "sourceUrl": "https://www.wings.com.au/outer-great-barrier-reef-charter/"
+    }
+  ],
+  "checkNotes": "Left out as trips: (1) the 6 Day 5 Night, 7 Day 6 Night and 8 Day 7 Night Private Charters. Each has a page, the Extended Charters page marks them 'request availability only', the 7 and 8 day price tables read 'TBC 2026' with no amounts and the 6 day page has no price table. (2) Spa Sunset Sail BBQ on the Bay (3 hours, $2100 for 1 to 9 guests, $2250 for 10 to 19). It is in the site menu, but the Private Charters and Sail on the Bay pages list the 4 hour Premium sail instead, and its wording and sitemap date (January 2023) look older, so it may have been replaced; confirm with the operator. (3) Brunch Sail on the Bay: the menu link redirects to the Sail on the Bay page, which has no brunch trip. (4) The Outer Great Barrier Reef addition is not a separate trip; it is recorded under offers. Not opened (page limit): the Wings I and Wings II fleet pages and the event pages (Family Get Togethers, Birthday Gatherings, Proposals and Romantic Sails, Marry Me on a Catamaran, Hens and Bucks, Couples Elopement, Romantic Getaways, Film and Media Vessel, Specialised Event Charters, Exclusive Charters, Private Cabins). They appear to present the same private charters for events, so no extra trips were made from them; the Private Charters page states event charters suit up to 29 guests on sunset sails, 20 on half and full day charters and 14 on overnight charters. Booking: the day tour and sunset sail are booked online through Rezdy (links recorded, not opened); the day tour availability page embeds a Rezdy calendar for product 499609. Private charters and overnight holidays are enquiry only, with a deposit to secure the date and the balance due four weeks before departure (FAQs). The site says a booking fee is added at checkout for online bookings; the amount is not repeated here. Surcharges for school holidays, public holidays and long weekends are stated on private charter pages with different rates in different places, so none are quoted. Guest-number bands and the number of years in operation also differ between pages; the About page says operating since 2002, which is used. The Awards and Certifications strip in the footer is image-only badges with no text, so no award is claimed. The About page says the business has operated for over 20 years as Advanced Eco Tourism operators. wings.com.au redirects to www.wings.com.au. Phone and email are from the Contact page, which gives the address only as Airlie Beach, QLD 4802; the marina meeting point is from the FAQs. The 'Pre arrival waiver' link goes to a Wherewolf waiver form, not a booking page. Seafood and drink pre-orders go through separate local businesses. The sitemap also lists older pages (day trips, half day small group cruise, Camira Sailing Adventure and ex Port of Airlie tours) that are not linked from the menu; ignored. Reviews on the site were not used."
+}

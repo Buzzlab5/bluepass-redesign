@@ -1,0 +1,341 @@
+{
+  "slug": "tasman-venture",
+  "name": "Tasman Venture",
+  "website": "https://tasmanventure.com.au",
+  "rezdyAlias": "tasmanventure",
+  "state": "QLD",
+  "town": "Hervey Bay",
+  "category": "Whale watching and K'gari tours",
+  "summary": "Humpback whale watching cruises and remote day tours to the western side of K'gari, leaving from the Great Sandy Straits Marina in Hervey Bay. Whale watching runs from July to October, and the K'gari tours run year round, with private charters on request. A family business, run by Lloyd and Robyn Burgess since 1990.",
+  "standouts": [
+    "Advanced Eco Certified by Ecotourism Australia",
+    "Family owned and run since 1990 by Lloyd and Robyn Burgess",
+    "Naturalist guide on every whale watching tour, with many crew certified as EcoGuides",
+    "Whale Warrior Program for children, run with the Australian Marine Conservation Society"
+  ],
+  "contact": {
+    "phone": "+61 7 4124 3222",
+    "email": "info@tasmanventure.com.au",
+    "address": "Great Sandy Straits Marina, Buccaneer Drive, Hervey Bay QLD 4655"
+  },
+  "heroImage": "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_0049e.jpg",
+  "sourceUrls": [
+    "https://tasmanventure.com.au/",
+    "https://tasmanventure.com.au/tours/whale-watching/",
+    "https://tasmanventure.com.au/tours/kgari/",
+    "https://tasmanventure.com.au/tours/whale-watching/half-day-whale-watching-tour/",
+    "https://tasmanventure.com.au/tours/kgari/remote-kgari-experience/",
+    "https://tasmanventure.com.au/tours/whale-watching/remote-kgari-and-whale-experience/",
+    "https://tasmanventure.com.au/tours/private-charters/kgari-adventure/",
+    "https://tasmanventure.com.au/tours/private-charters/",
+    "https://tasmanventure.com.au/tours/which-tour-is-right-for-me/",
+    "https://tasmanventure.com.au/packages/",
+    "https://tasmanventure.com.au/deals/",
+    "https://tasmanventure.com.au/deals/locals-discount/",
+    "https://tasmanventure.com.au/deals/the-captains-special/",
+    "https://tasmanventure.com.au/book/",
+    "https://tasmanventure.com.au/news/swim-whales-west-coast-kgari/",
+    "https://tasmanventure.com.au/about/our-story/",
+    "https://tasmanventure.com.au/about/our-boats/",
+    "https://tasmanventure.com.au/about/eco-tourism/",
+    "https://tasmanventure.com.au/about/whale-warrior-program/",
+    "https://tasmanventure.com.au/about/accessibility-and-inclusivity/",
+    "https://tasmanventure.com.au/about/gallery/",
+    "https://tasmanventure.com.au/contact/",
+    "https://tasmanventure.com.au/legal/terms/",
+    "https://www.youtube.com/user/TasmanVenture"
+  ],
+  "trips": [
+    {
+      "title": "Half-Day Whale Watching Encounter",
+      "kind": "cruise",
+      "summary": "A half-day humpback whale watching cruise from Hervey Bay on a fast catamaran, with a morning and an afternoon departure. Guests watch from the viewing decks or a water-level platform, and a naturalist guide explains what the whales are doing. Two light meal services are included.",
+      "highlights": [
+        "Morning or afternoon departure",
+        "Water-level viewing platform",
+        "Onboard hydrophone and underwater viewing window",
+        "Naturalist guide on board and two light meal services"
+      ],
+      "duration": "Half day: 8:30am to 12:30pm, or 1:30pm to 5:30pm",
+      "durationMinutes": 240,
+      "departureTimes": ["08:30", "13:30"],
+      "season": "11 July to 25 October",
+      "departsFrom": "Great Sandy Straits Marina, Buccaneer Drive, Hervey Bay",
+      "prices": [
+        {
+          "label": "Adult, from",
+          "amount": 155,
+          "currency": "AUD",
+          "note": "Lowest adult fare shown on the tour page. Child, concession and family fares are shown only in the booking widget."
+        },
+        {
+          "label": "Junior Whale Warrior Pack (optional add-on)",
+          "amount": 20,
+          "currency": "AUD",
+          "note": "Children's activity pack, bought when booking or on board. Part of the proceeds goes to the Australian Marine Conservation Society."
+        }
+      ],
+      "priceFrom": 155,
+      "includes": [
+        "Hotel pickup and drop-off at select Hervey Bay accommodation",
+        "Two light meal services: morning or afternoon tea on the way out, then an antipasto style platter on the way back",
+        "Commentary from the crew and a naturalist guide",
+        "Whale Warrior videos and presentations for children, free"
+      ],
+      "bring": [
+        "Sunscreen",
+        "Hat",
+        "Camera",
+        "Water bottle"
+      ],
+      "requirements": null,
+      "offer": {
+        "text": "The Captain's Special: afternoon departures on selected dates, adult 124, child 60, children three and under free",
+        "conditions": "Selected dates between 10 September and 25 October. Does not include bus pick-up.",
+        "validUntil": null
+      },
+      "images": [
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_038a0890-1.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_30-08-2021.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_20-9-2022.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_0049e.jpg"
+      ],
+      "bookingLinks": [
+        "https://tasmanventure.rezdy.com/view/5018?iframe=true",
+        "https://tasmanventure.rezdy.com/view/775845?iframe=true"
+      ],
+      "sourceUrl": "https://tasmanventure.com.au/tours/whale-watching/half-day-whale-watching-tour/",
+      "checkNotes": "Only an adult 'from' price is shown on the tour page; child, concession and family prices sit inside the Rezdy booking widget, which was not opened. The accessibility page lists infants under 3 free and children 4 to 14, while the Captain's Special page says three and under travel free and gives a child price of 60 with no age band. Season dates are shown without a year and the page's structured data still carries 2025 dates, so confirm the current season. The second booking link (product 775845) is the Captain's Special product, found on the Captain's Special page; the first is the standard tour. Duration is worked out from the stated departure and return times, not stated as a length. The site states a sightings guarantee with an open-dated return ticket; not repeated here. FAQ says capacity is limited to about 85 passengers in whale season. The tour page's header photo and two gallery photos are credited to Tourism and Events Queensland and were left out."
+    },
+    {
+      "title": "Full-Day Remote K'gari Experience",
+      "kind": "tour",
+      "summary": "A full-day catamaran tour from Hervey Bay to the western side of K'gari, away from the east coast routes most K'gari tours take. The day includes up to three stops among Wathumba, Awinya and Bowarrady creeks, with kayaking, snorkelling, tube rides and a guided walk up a sand dune. Morning tea, a buffet lunch and afternoon tea are included.",
+      "highlights": [
+        "Up to three stops on the remote western side of K'gari",
+        "Kayaking, snorkelling and tube rides included, all optional",
+        "Guided walk up a sand dune with views over K'gari and Platypus Bay",
+        "Morning tea, buffet lunch and afternoon tea"
+      ],
+      "duration": "Full day: 8:00am to 5:00pm (7:30am to 4:30pm during whale season)",
+      "durationMinutes": 540,
+      "departureTimes": ["08:00"],
+      "season": "Year round",
+      "departsFrom": "Great Sandy Straits Marina, Buccaneer Drive, Hervey Bay",
+      "prices": [
+        {
+          "label": "Adult, from",
+          "amount": 259,
+          "currency": "AUD",
+          "note": "Price on the tour page. The upcoming tour schedule shows from 269 for dates in October 2026. Child, concession and family fares are shown only in the booking widget."
+        }
+      ],
+      "priceFrom": 259,
+      "includes": [
+        "Hotel pickup and drop-off at select Hervey Bay accommodation",
+        "Morning tea, buffet lunch and afternoon tea",
+        "Tube rides, kayaks and snorkelling equipment",
+        "Guided walks",
+        "Commentary from the crew"
+      ],
+      "bring": [
+        "Sunscreen",
+        "Hat",
+        "Swimmers",
+        "Towels",
+        "Camera",
+        "Water bottle"
+      ],
+      "requirements": "All activities are optional. The guided climb up the sand dune at Bowarrady Creek can be strenuous, and most walking is on soft sand. Maximum 35 passengers, which may rise when a larger vessel is substituted.",
+      "offer": null,
+      "images": [
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_0462-edit-long-1.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_wathumba_creek_kayaking_30-07-2017-long.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_0576-1.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_a60i8911-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://tasmanventure.rezdy.com/view/30954?iframe=true"
+      ],
+      "sourceUrl": "https://tasmanventure.com.au/tours/kgari/remote-kgari-experience/",
+      "checkNotes": "Price conflict: the tour page and home page say from 259, the upcoming tour schedule (live availability list) says from 269 for the same tour in October 2026; used the tour page. Departure is 8:00am, or 7:30am during whale season (mid July to late October), per a note on the tour page. Duration is worked out from the stated departure and return times. The route changes daily with tides, and the site says the tour visits up to three of Wathumba, Awinya and Bowarrady creeks. The site says it is the only operator with access to these western-side locations; not repeated here. The tour does not visit Lake McKenzie or the Maheno wreck (FAQ). Child, concession and family prices were not visible outside the booking widget."
+    },
+    {
+      "title": "Full-Day Remote K'gari & Whale Experience",
+      "kind": "tour",
+      "summary": "A full-day tour that combines humpback whale watching in Platypus Bay with stops on the western side of K'gari, from July to October. Kayaking, snorkelling, tube rides and a guided dune walk are included, along with morning tea, a buffet lunch and afternoon tea. Swimming with the whales is offered only when conditions allow, at the skipper's discretion, and is not guaranteed.",
+      "highlights": [
+        "Whale watching and K'gari's western side in one day",
+        "Kayaking, snorkelling and tube rides included, all optional",
+        "Whale swim offered when conditions allow, at the skipper's discretion",
+        "Morning tea, buffet lunch and afternoon tea"
+      ],
+      "duration": "Full day: 7:30am to 4:30pm",
+      "durationMinutes": 540,
+      "departureTimes": ["07:30"],
+      "season": "11 July to 25 October",
+      "departsFrom": "Great Sandy Straits Marina, Buccaneer Drive, Hervey Bay",
+      "prices": [
+        {
+          "label": "Adult, from",
+          "amount": 259,
+          "currency": "AUD",
+          "note": "Lowest adult fare shown on the tour page. Child, concession and family fares are shown only in the booking widget."
+        }
+      ],
+      "priceFrom": 259,
+      "includes": [
+        "Hotel pickup and drop-off at select Hervey Bay accommodation",
+        "Morning tea, buffet lunch and afternoon tea",
+        "Tube rides, kayaks and snorkelling equipment",
+        "Guided walks",
+        "Commentary from the crew",
+        "Whale experiences, including the whale swim when conditions allow"
+      ],
+      "bring": [
+        "Sunscreen",
+        "Hat",
+        "Swimmers",
+        "Towels",
+        "Camera",
+        "Water bottle"
+      ],
+      "requirements": "All activities are optional. The guided climb up the sand dune at Bowarrady Creek can be strenuous, and most walking is on soft sand. Maximum 35 passengers, which may rise when a larger vessel is substituted. The whale swim is not guaranteed; the FAQ says it is best in July and August and much less likely once mother and calf pods arrive in September.",
+      "offer": null,
+      "images": [
+        "https://tasmanventure.com.au/wp-content/uploads/2025/04/tasman-venture-dra-3351.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_whale-immersion-aerial-august-2019.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_remote_helpinghand_18-7-17.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_0576.jpg"
+      ],
+      "bookingLinks": [
+        "https://tasmanventure.rezdy.com/view/175511?iframe=true"
+      ],
+      "sourceUrl": "https://tasmanventure.com.au/tours/whale-watching/remote-kgari-and-whale-experience/",
+      "checkNotes": "WHALE SWIM: the site calls it a whale immersion experience, says it is offered only on this tour, only when conditions permit and at the skipper's discretion, and says in-water encounters follow strict guidelines. It states no permit or licence anywhere on the pages read. Swimming with whales in Queensland is allowed only for licensed operators, so confirm the permit before the swim is published. No age or swimming ability requirement is given. Departure is 7:30am and return 4:30pm. Duration is worked out from those times. The page FAQ repeats a sightings guarantee that belongs to the half-day tour; not repeated here. The page's gallery photo credited to Tegan Book was left out. Child, concession and family prices were not visible outside the booking widget."
+    },
+    {
+      "title": "K'gari Adventure (Private Tour)",
+      "kind": "charter",
+      "summary": "A private half-day tour for a group of up to 10 on a fast amphibious vessel, visiting the western side of K'gari. The route is flexible and can include walking, snorkelling, swimming and stand up paddle boarding through the creeks. A light lunch and drinks are served on board.",
+      "highlights": [
+        "Private group of up to 10 passengers",
+        "Western side of K'gari with Wathumba, Awinya and Bowarrady creeks",
+        "Snorkelling and stand up paddle boarding included",
+        "Light lunch and drinks on board"
+      ],
+      "duration": "Half day: 8:00am to 2:00pm",
+      "durationMinutes": 360,
+      "departureTimes": ["08:00"],
+      "season": "Year round",
+      "departsFrom": "Great Sandy Straits Marina, Buccaneer Drive, Hervey Bay",
+      "prices": [
+        {
+          "label": "Private tour, from",
+          "amount": 1500,
+          "currency": "AUD",
+          "note": "The page does not say whether this is per group or per person; the tour is for a private group of up to 10."
+        }
+      ],
+      "priceFrom": 1500,
+      "includes": [
+        "Light lunch",
+        "Private tour experience for your group",
+        "Guided walks",
+        "Stand up paddle boarding",
+        "Snorkelling",
+        "Commentary from the crew"
+      ],
+      "bring": [
+        "Sunscreen",
+        "Sunglasses",
+        "Hat",
+        "Swimmers",
+        "Towels",
+        "Camera",
+        "Snacks (optional)"
+      ],
+      "requirements": "Maximum 10 passengers. The vessel has no toilets, so stops are included for bathroom facilities.",
+      "offer": null,
+      "images": [
+        "https://tasmanventure.com.au/wp-content/uploads/2025/04/dsf2872-2-min-scaled.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_0576-1.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_a60i9021.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/04/img_2926-1-large.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://tasmanventure.com.au/tours/private-charters/kgari-adventure/",
+      "checkNotes": "Enquiry only: the page offers an Enquire Now form and phone, with no booking link. The from price of 1500 has no unit. The page says lunch is a light lunch, while the tour comparison page says packed lunch. The itinerary says the tour visits three spots, the FAQ says up to three. Duration is worked out from the stated 8:00am and 2:00pm times. The vessel is described as a new amphibious vessel; its name is not given."
+    },
+    {
+      "title": "Private Tours with Tasman Venture",
+      "kind": "charter",
+      "summary": "Fully crewed private charters on a 20 metre catamaran, from a day on K'gari to multi-day trips that can reach the southern Great Barrier Reef. Day trips take larger groups, and overnight trips sleep up to 12 on board. The crew builds the itinerary around the group's destinations, activities and length of stay.",
+      "highlights": [
+        "One day on K'gari, or two or more days with overnight stays on board",
+        "Air-conditioned cabins with 6 double and 6 single beds",
+        "Activities can include walks, snorkelling, kayaking, stand up paddle boarding and tube rides",
+        "Suggested itinerary: three days and two nights between K'gari and Lady Elliot Island"
+      ],
+      "duration": "One day, or multi-day (suggested 2 days 1 night and 3 days 2 nights)",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "All year",
+      "departsFrom": "Great Sandy Straits Marina, Buccaneer Drive, Hervey Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Private tour experience for your group",
+        "Tube rides, kayaks and snorkelling equipment",
+        "Guided walks",
+        "Commentary from the crew"
+      ],
+      "bring": [
+        "Sunscreen",
+        "Sunglasses",
+        "Hat",
+        "Swimmers",
+        "Towels",
+        "Camera",
+        "Water bottle",
+        "Binoculars"
+      ],
+      "requirements": "Day trips up to 35 passengers, overnight trips up to 12. The vessel is licensed and does not allow BYO drinks. The site says all ages and ability levels are catered for, with life jackets and flotation devices for water activities.",
+      "offer": null,
+      "images": [
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_20240801235101_0274_d-1.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_20240801195136_0114_d.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://tasmanventure.com.au/tours/private-charters/",
+      "checkNotes": "Enquiry only: price is shown as POA (price on application), so no price is recorded, and there is no booking link. The page header shows 'Multi Day' with 8:00am and 5:00pm times, which do not fit a multi-day trip, so no times are recorded. Capacity conflict: the itinerary text says day tours take up to 35 passengers and also says the day trip suits groups of up to 40; the site menu says up to 35. Overnight groups are up to 12 (6 double and 6 single beds on Tasman Venture III). Lady Elliot Island and Great Barrier Reef options appear in the enquiry form, and diving and snorkel tours there are arranged with Lady Elliot Island Resort, a separate business; those were not treated as Tasman Venture trips. The page's header banner and two gallery photos are credited to Tourism and Events Queensland and were left out."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Locals discount on the Half-Day Whale Watching Encounter, Full-Day Remote K'gari Experience and Full-Day Remote K'gari & Whale Experience",
+      "conditions": "For residents of the Fraser Coast Council region or the Bundaberg region. Enter code Local15 at checkout. Proof of residence (driver licence, ID or mail) is needed on arrival, otherwise the balance is asked for before departure.",
+      "validUntil": null,
+      "sourceUrl": "https://tasmanventure.com.au/deals/locals-discount/"
+    },
+    {
+      "text": "The Captain's Special: afternoon Half-Day Whale Watching Encounter, adult 124, child 60, children three and under free",
+      "conditions": "Selected dates between 10 September and 25 October. Does not include bus pick-up.",
+      "validUntil": null,
+      "sourceUrl": "https://tasmanventure.com.au/deals/the-captains-special/"
+    },
+    {
+      "text": "Package: Full-Day Remote K'gari & Whale Experience plus Half-Day Whale Watching Encounter, from 364",
+      "conditions": "Two separate day tours with no overnight stay. The site says the saving is up to 60 against buying the two tours separately.",
+      "validUntil": null,
+      "sourceUrl": "https://tasmanventure.com.au/packages/"
+    },
+    {
+      "text": "Concession (student and senior), family, Companion Card and group ticket options",
+      "conditions": "Student and senior fares are chosen as the concession option when booking. Companion Card fares are arranged through the reservations office. Group rates apply to parties of 15 or more.",
+      "validUntil": null,
+      "sourceUrl": "https://tasmanventure.com.au/about/accessibility-and-inclusivity/"
+    }
+  ],
+  "checkNotes": "SCOPE: five trips recorded, all run by Tasman Venture. Three are bookable through the operator's own Rezdy account (tasmanventure.rezdy.com, found on the site's tour and booking pages, not opened). The K'gari Adventure and the private multi-day charters are enquiry only. LEFT OUT: the Packages page also sells combos that pair a Tasman Venture tour with other businesses' tours (Fraser Experience Tours' K'gari Escape, K'gari Explorer Tours, and a Lady Elliot Island day tour with flights); those partner tours are run by other businesses. The Tasman Venture only combo (Remote K'gari & Whale plus Half-Day Whale Watching) is listed above as an offer; its link is https://tasmanventure.rezdy.com/view/315185?iframe=true. The partner combo links are on the packages page. Fishing charters appear only in old YouTube videos and are not described as a current trip on the site. The Our Boats page says 'Coming Soon', so no vessel facts were taken from it; the accessibility page names Tasman Venture III, Pure Dive vessels and amphibious SeaLegs tenders. WHALE SWIM PERMIT: no page states a permit or licence for swimming with whales; the swim is described only as whale immersion on the Remote K'gari & Whale tour. Confirm the Queensland permit before publishing. SIGHTINGS GUARANTEE: the half-day tour and the Captain's Special page state a guaranteed sightings policy with an open-dated return ticket; not repeated. The site also claims it is the only operator with access to the western-side locations; not repeated. CANCELLATION: the home and tour pages say no fee more than 48 hours before departure, a part fee between 24 and 48 hours, and a full fee within 24 hours or for a no-show; the Booking Terms page says a full fee applies within 48 hours. The two do not match. PRICES: only adult 'from' prices are shown on tour pages, and the live upcoming tour schedule shows 269 for the Remote K'gari Experience against 259 on its tour page. The site also states its locals discount and the Junior Whale Warrior Pack's charity share as percentages; those figures are left out of the copy. Ticket age bands: infants under 3 free and children 4 to 14 on the accessibility page, three and under free on the Captain's Special page. CONTACT: the email is hidden by the site's email protection; the address info@tasmanventure.com.au was read from the page's structured data. The site lists a free call number, 1800 620 322, and an international number, +61 (7) 41 243 222; the international number is recorded because it works from anywhere. BADGES: the home page shows award and membership logos (for example Whale Heritage Site, TripAdvisor, Queensland tourism awards) as images without text; only the Ecotourism Australia Advanced certification, which the Eco Tourism page states in words, is used. Facebook and Instagram were not opened. About 24 pages of the site and the linked YouTube channel were read."
+}

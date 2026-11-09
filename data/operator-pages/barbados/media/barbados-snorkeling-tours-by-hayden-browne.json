@@ -1,0 +1,34 @@
+{
+  "slug": "barbados-snorkeling-tours-by-hayden-browne",
+  "logo": "https://barbadossnorkeling.com/wp-content/uploads/2026/05/bst_mobile_2_logo.png",
+  "heroImage": "https://barbadossnorkeling.com/wp-content/uploads/2023/10/20230717_132414-scaled.jpg",
+  "gallery": [
+    "https://barbadossnorkeling.com/wp-content/uploads/2026/03/nYQmHxGw.jpeg",
+    "https://barbadossnorkeling.com/wp-content/uploads/2026/03/aV7spZpA-scaled.jpeg",
+    "https://barbadossnorkeling.com/wp-content/uploads/2026/03/fSATYb9A-scaled.jpeg",
+    "https://barbadossnorkeling.com/wp-content/uploads/2023/10/20230717_132414-scaled.jpg",
+    "https://barbadossnorkeling.com/wp-content/uploads/2025/06/131917079_10157971803113250_3363535755799457097_n-1.jpg",
+    "https://barbadossnorkeling.com/wp-content/uploads/2026/04/20260408_170009-scaled.jpg",
+    "https://barbadossnorkeling.com/wp-content/uploads/2022/04/underheader-e1650422500535.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=0WuMbFt5EJM",
+      "title": "Swimming with humpback whales in Barbados, March 2022",
+      "sourceUrl": "https://barbadossnorkeling.com/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Snorkeling Tour",
+      "images": [
+        "https://barbadossnorkeling.com/wp-content/uploads/2026/03/nYQmHxGw.jpeg",
+        "https://barbadossnorkeling.com/wp-content/uploads/2026/03/aV7spZpA-scaled.jpeg",
+        "https://barbadossnorkeling.com/wp-content/uploads/2026/03/fSATYb9A-scaled.jpeg",
+        "https://barbadossnorkeling.com/wp-content/uploads/2023/10/20230717_132414-scaled.jpg",
+        "https://barbadossnorkeling.com/wp-content/uploads/2025/06/131917079_10157971803113250_3363535755799457097_n-1.jpg"
+      ]
+    }
+  ],
+  "notes": "WordPress site, no bot check. The site has few photos: three banner slides (full-size files used in place of the 800x585 crops), one wide image block, a background photo, a photo of Hayden Browne (20260408_170009, shown as a team member) and a header strip (underheader). The one video is the YouTube link in the site's social icons, from Hayden Browne's own channel; the rest of that channel is gaming streams, so nothing else was taken. Instagram feed not used. The single trip page is the home page, so the hotel pickup and private tour options have no photos of their own."
+}

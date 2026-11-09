@@ -1,0 +1,332 @@
+{
+  "slug": "montague-island-adventures",
+  "name": "Montague Island Adventures",
+  "website": "https://montagueislandadventures.com.au",
+  "rezdyAlias": null,
+  "state": "NSW",
+  "town": "Narooma",
+  "category": "Island and wildlife tours",
+  "summary": "Locally owned boat operator in Narooma on the NSW South Coast, running trips to Barunguba Montague Island. Options include guided island tours with a National Parks and Wildlife Ranger, snorkelling with seals, whale watching from September to November and evening little penguin tours in season. Boats leave from a boat shed at Mill Bay, and the crossing takes about 20 minutes.",
+  "standouts": [
+    "Island tours guided by a National Parks and Wildlife Ranger, including the lighthouse",
+    "Whale watching included on island tours from September to November",
+    "Owned and run by locals who grew up around Barunguba Montague Island",
+    "Leaves from its own boat shed at Mill Bay, Narooma, with seating and a toilet"
+  ],
+  "contact": {
+    "phone": "+61 407 487 702",
+    "email": "book@montagueislandadventures.com.au",
+    "address": "Yellow Boat Shed, Mill Bay, Narooma NSW (departure point); postal address PO Box 518, NAROOMA NSW, 2546"
+  },
+  "heroImage": "https://www.montagueislandadventures.com.au/wp-content/uploads/Montague-Island-waterview.jpg",
+  "sourceUrls": [
+    "https://www.montagueislandadventures.com.au/",
+    "https://www.montagueislandadventures.com.au/montague-island-tours-and-penguin-tours/",
+    "https://www.montagueislandadventures.com.au/montague-island-tour-morning/",
+    "https://www.montagueislandadventures.com.au/montague-island-tour-afternoon/",
+    "https://www.montagueislandadventures.com.au/evening-montague-island-penguin/",
+    "https://www.montagueislandadventures.com.au/narooma-snorkel-with-the-seals-montague-island/",
+    "https://www.montagueislandadventures.com.au/narooma-whale-watching/",
+    "https://www.montagueislandadventures.com.au/book-now/",
+    "https://www.montagueislandadventures.com.au/gift-cards/",
+    "https://www.montagueislandadventures.com.au/about-us/",
+    "https://www.montagueislandadventures.com.au/contact/",
+    "https://www.montagueislandadventures.com.au/terms/",
+    "https://www.montagueislandadventures.com.au/info/",
+    "https://www.montagueislandadventures.com.au/map/",
+    "https://www.montagueislandadventures.com.au/blog/",
+    "https://www.montagueislandadventures.com.au/blog/montague-island-is-currently-closed/",
+    "https://www.montagueislandadventures.com.au/blog/montague-island-tour-running-daily/",
+    "https://www.montagueislandadventures.com.au/blog/the-complete-guide-on-montague-island-penguin-tours/",
+    "https://www.montagueislandadventures.com.au/blog/an-ultimate-guide-to-snorkelling-with-the-seals/",
+    "https://www.montagueislandadventures.com.au/blog/stay-night-montague-island/",
+    "https://www.montagueislandadventures.com.au/sitemap_index.xml",
+    "https://www.montagueislandadventures.com.au/page-sitemap.xml",
+    "https://www.montagueislandadventures.com.au/post-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Morning Montague Tour",
+      "kind": "tour",
+      "summary": "A morning boat trip from Narooma to Barunguba Montague Island, leaving at 8:00am, with a guided tour of the island led by a National Parks and Wildlife Ranger. The tour runs for one and a half hours and includes the lighthouse and a visit to the seal colony. Whale watching is included from September to November, and snorkelling with the seals can be added.",
+      "highlights": [
+        "One and a half hour guided tour of the island with a National Parks and Wildlife Ranger",
+        "Climb the lighthouse",
+        "Visit to the seal colony",
+        "Whale watching included from September to November"
+      ],
+      "duration": "2.5 hours",
+      "durationMinutes": 150,
+      "departureTimes": [
+        "08:00"
+      ],
+      "season": null,
+      "departsFrom": "Yellow Boat Shed, Mill Bay, Narooma",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Guided tour of Barunguba Montague Island with a National Parks and Wildlife Ranger, including the lighthouse",
+        "Visit to the seal colony",
+        "Refreshments: water, soft drink, tea and coffee",
+        "Whale watching during whale watching season, September to November",
+        "National Parks fees, Marine Park permit and boat transfer to the island"
+      ],
+      "bring": [
+        "Comfortable walking shoes",
+        "Snacks",
+        "A jumper or jacket",
+        "Hat, camera and sunscreen"
+      ],
+      "requirements": "Minimum age 5; children under 5 cannot land on the island. Moderate level of fitness, including climbing a ladder at the island jetty. Passengers must be able to get on and off the boat unassisted.",
+      "offer": null,
+      "images": [
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/montague-island.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/montague-island-lighthouse.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/montague-island-seals.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/montague-island-view.jpg"
+      ],
+      "bookingLinks": [
+        "https://montague-island-adventures-charter-fish-narooma.captainbook.io/en/embedded/product/11?wid=1"
+      ],
+      "sourceUrl": "https://www.montagueislandadventures.com.au/montague-island-tour-morning/",
+      "checkNotes": "No price on the site; prices are only inside the booking widget, which was not opened. The morning page has no Book Now button, so the link is the one on the Tours page; the same link (product 11) is used for the afternoon, snorkel and tour plus snorkel trips, so which options it offers is unconfirmed. The morning page says 8:00am and 2.5 hours; the older Booking Information page (/info/, last edited September 2024) says 8:30am, four hours and a two and a half hour island tour. Used the morning page. No operating season is stated for this tour. Departure point is from the Map page and the evening tour page. Departure time is confirmed the night before (Terms)."
+    },
+    {
+      "title": "Afternoon Montague Tour",
+      "kind": "tour",
+      "summary": "An afternoon boat trip from Narooma to Barunguba Montague Island, leaving at 12:30pm. The crossing takes about 20 minutes, with the seal colony visited before landing for a one and a half hour guided tour with National Parks and Wildlife Rangers, including the lighthouse. Guests can do the tour only, snorkel only, or both, and whale watching is included from September to November.",
+      "highlights": [
+        "One and a half hour guided tour of the island with National Parks and Wildlife Rangers",
+        "See the lighthouse and learn its history",
+        "Visit to the seal colony before landing",
+        "Option to snorkel with the seals, or to do the tour only"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [
+        "12:30"
+      ],
+      "season": null,
+      "departsFrom": "Yellow Boat Shed, Mill Bay, Narooma",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Guided tour of Barunguba Montague Island with a National Parks and Wildlife Ranger, including the lighthouse",
+        "Visit to the seal colony",
+        "Refreshments: water, soft drink, tea and coffee",
+        "Whale watching during whale watching season, September to November",
+        "National Parks fees, Marine Park permit and boat transfer to the island"
+      ],
+      "bring": [
+        "Comfortable walking shoes",
+        "Snacks",
+        "A jumper or jacket",
+        "Hat, camera and sunscreen"
+      ],
+      "requirements": "Minimum age 5; children under 5 cannot land on the island. Moderate level of fitness, including climbing a ladder at the island jetty. Passengers must be able to get on and off the boat unassisted. The page lists the child fare as ages 5 to 16.",
+      "offer": null,
+      "images": [
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Montague-Island-waterview.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Montague-Island-Tour-Afternoon.jpg"
+      ],
+      "bookingLinks": [
+        "https://montague-island-adventures-charter-fish-narooma.captainbook.io/en/embedded/product/11?wid=1"
+      ],
+      "sourceUrl": "https://www.montagueislandadventures.com.au/montague-island-tour-afternoon/",
+      "checkNotes": "No price on the site; prices are only inside the booking widget, which was not opened. The afternoon page has no Book Now button, so the link is the one on the Tours page (product 11, shared with the morning, snorkel and tour plus snorkel trips). Total trip length is not stated on the afternoon or Tours pages; the older Booking Information page (/info/) says 12:30pm for a 12:45pm departure and three hours, which conflicts with the morning details on that same page, so duration is left blank. Departure time is confirmed the night before (Terms). No operating season is stated."
+    },
+    {
+      "title": "Evening Penguin Tour",
+      "kind": "tour",
+      "summary": "An evening trip to Barunguba Montague Island to watch little penguins come ashore at dusk. After the boat crossing and a visit to the seal colony, guests join a one hour guided tour that includes the lighthouse, then walk to the viewing platform for the penguins. Departure time follows sunset, and the tour runs in the nesting season.",
+      "highlights": [
+        "Little penguins returning to shore at dusk, seen from a viewing platform",
+        "One hour guided tour of the island including the lighthouse",
+        "Visit to the seal colony",
+        "Whale watching included from September to November"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "September to January (the page also says the tour runs to around the end of February)",
+      "departsFrom": "Yellow Boat Shed, Mill Bay, Narooma",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Guided tour of Barunguba Montague Island with a National Parks and Wildlife Ranger, including the lighthouse",
+        "Visit to the seal colony",
+        "Refreshments: water, soft drink, tea and coffee",
+        "Whale watching during whale watching season, September to November"
+      ],
+      "bring": [
+        "Comfortable walking shoes",
+        "Snacks",
+        "A jumper or jacket",
+        "Hat, camera and sunscreen"
+      ],
+      "requirements": "Minimum age 5; children under 5 cannot land on the island. Moderate level of fitness, including climbing a ladder at the island jetty. Passengers must be able to get on and off the boat unassisted.",
+      "offer": null,
+      "images": [
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Penguin-Tour-Montague-Island.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Baby-Penguin-Montague-Island.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/group.jpg"
+      ],
+      "bookingLinks": [
+        "https://montague-island-adventures-charter-fish-narooma.captainbook.io/en/embedded/product/17?wid=1"
+      ],
+      "sourceUrl": "https://www.montagueislandadventures.com.au/evening-montague-island-penguin/",
+      "checkNotes": "No price on the site; prices are only inside the booking widget, which was not opened. Season conflict: the tour page intro and Tours page say September to January, the same page's note says September to around the end of February, and the Book Here and home pages say September to February; the older /info/ page says September to January, sometimes into February. Departure time depends on sunset and is not stated; the page asks guests to confirm it with the office. The page also says the penguin tours start again in September once penguin numbers reach a certain level and National Parks confirms. Total trip length is not stated (one hour is the guided island tour only). Departure point is from the evening page and the Map page. The page lists the child fare as ages 5 to 16."
+    },
+    {
+      "title": "Barunguba Montague Island Tour and Snorkel with the Seals",
+      "kind": "tour",
+      "summary": "A one and a half hour guided tour of Barunguba Montague Island with a National Parks and Wildlife Ranger, including the lighthouse, followed by snorkelling with seals in a sheltered bay. Wetsuit, fins, mask and snorkel are provided. The whole trip takes 3.5 hours.",
+      "highlights": [
+        "Guided island tour with a National Parks and Wildlife Ranger, including the lighthouse",
+        "Snorkel with seals in a calm, sheltered bay",
+        "Wetsuit (3mm), fins, mask and snorkel provided",
+        "Whale watching included from September to November"
+      ],
+      "duration": "3.5 hours",
+      "durationMinutes": 210,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Yellow Boat Shed, Mill Bay, Narooma",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Guided tour of Barunguba Montague Island with a National Parks and Wildlife Ranger, including climbing the lighthouse",
+        "Visit to the seal colony and snorkelling with the seals",
+        "Fins, mask, snorkel and 3mm wetsuit",
+        "Water, soft drink, tea, coffee and hot chocolate",
+        "Whale watching during whale watching season, September to November",
+        "National Parks fees, Marine Park permit and boat transfer to the island"
+      ],
+      "bring": [
+        "Swimmers",
+        "Towel",
+        "Camera",
+        "Sunscreen",
+        "Jumper"
+      ],
+      "requirements": "Must be able to swim; noodles are available to help young children and weaker swimmers. Children under 5 cannot land on the island. Moderate level of fitness, including climbing a ladder at the island jetty.",
+      "offer": null,
+      "images": [
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/snorkel-photo-new.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/seal-photo-new2.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/narooma-snorkeling.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Seals-Montague-Island-Narooma.jpg"
+      ],
+      "bookingLinks": [
+        "https://montague-island-adventures-charter-fish-narooma.captainbook.io/en/embedded/product/11?wid=1"
+      ],
+      "sourceUrl": "https://www.montagueislandadventures.com.au/narooma-snorkel-with-the-seals-montague-island/",
+      "checkNotes": "No price on the site; prices are only inside the booking widget, which was not opened. The page says duration 3.5 hours; the older /info/ page says 3.5 to 4 hours. Used the snorkel page. The older /info/ page also says wetsuits are collected from Ocean Hut Dive shop, 23 Graham Street, before boarding, but the current snorkel page says wetsuits are provided; this was not repeated, so confirm how wetsuits reach guests. The Tours page says the tour and snorkel can run together with the morning or afternoon tour depending on numbers. This trip has no page of its own; it is described on the Snorkel with the Seals page and the Tours page, and uses the shared product 11 booking link. No operating season is stated."
+    },
+    {
+      "title": "Snorkel with the Seals",
+      "kind": "snorkel",
+      "summary": "A boat trip to Barunguba Montague Island to snorkel with seals in the sheltered bays beside the seal colony. The trip does not include landing on the island. A wetsuit, fins, mask and snorkel are provided, and a guide watches from the boat while guests are in the water.",
+      "highlights": [
+        "Snorkel with seals in calm, sheltered bays",
+        "Wetsuit (3mm), fins, mask and snorkel provided",
+        "Guide watches from the boat; no guide in the water",
+        "Children of any age may join the snorkel trip"
+      ],
+      "duration": "2.5 to 3.5 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Yellow Boat Shed, Mill Bay, Narooma",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Boat transfer to the island and a visit to the seal colony",
+        "3mm wetsuit, fins, mask and snorkel",
+        "Refreshments, with a cold drink after the swim",
+        "National Parks fees and Marine Park permit"
+      ],
+      "bring": [
+        "Swimmers",
+        "Towel",
+        "Camera",
+        "Sunscreen",
+        "Jumper"
+      ],
+      "requirements": "Must be able to swim; noodles are available to help young children and weaker swimmers. Children of any age may snorkel. This trip does not land on the island. Snorkelling time is 40 minutes to 1.5 hours depending on the trip booked.",
+      "offer": null,
+      "images": [
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/narooma-snorkeling.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Seals-Montague-Island-Narooma.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/seal-photo-new2.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/snorkel-photo-new.jpg"
+      ],
+      "bookingLinks": [
+        "https://montague-island-adventures-charter-fish-narooma.captainbook.io/en/embedded/product/11?wid=1"
+      ],
+      "sourceUrl": "https://www.montagueislandadventures.com.au/narooma-snorkel-with-the-seals-montague-island/",
+      "checkNotes": "No price on the site; prices are only inside the booking widget, which was not opened. Both Book Now buttons on the snorkel page (snorkel only, and tour plus snorkel) use the same product 11 link, as do the morning and afternoon tours, so it is not clear how the widget separates them. Duration is 2.5 to 3.5 hours on the snorkel page. Snorkelling time is 40 minutes to 1.5 hours in the FAQ, but 1.5 to 2 hours on the older /info/ page; used the FAQ. The older /info/ page says wetsuits are collected from Ocean Hut Dive shop, 23 Graham Street, before boarding, while the snorkel page says they are provided; confirm with the operator. Refreshments are inferred from the page text about a cold drink on return and the FAQ on what the price includes. Departure time is not stated. No operating season is stated; the home page says seals can be seen all year round."
+    },
+    {
+      "title": "Whale Watching",
+      "kind": "cruise",
+      "summary": "A guided whale watching trip from Narooma during the spring migration, from September to November, with October named as the best month. The whales to look for are humpbacks, and the trip includes a visit to the seal colony, with dolphins possible on the way. Whale watching is also included on the island tours during the season.",
+      "highlights": [
+        "Whale watching season is September to November, best month October",
+        "Led by an experienced guide",
+        "Visit to the seal colony to see seals and pups",
+        "Dolphins and other wildlife may be seen on the way"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "September to November",
+      "departsFrom": "Yellow Boat Shed, Mill Bay, Narooma",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Whale watching tour with an experienced guide",
+        "A visit to the seal colony"
+      ],
+      "bring": [
+        "Camera",
+        "Jacket",
+        "Comfortable clothing"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Whale.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/whale-jumping-montague-island.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/whales-tour-narooma.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/whale-diving.jpg"
+      ],
+      "bookingLinks": [
+        "https://montague-island-adventures-charter-fish-narooma.captainbook.io/en/embedded/product/3?wid=1"
+      ],
+      "sourceUrl": "https://www.montagueislandadventures.com.au/narooma-whale-watching/",
+      "checkNotes": "No price on the site; the page says to see the booking page for prices, which are only inside the booking widget (not opened). Duration and departure times are not stated. Departure point is from the Map page, not this page. The page's FAQ claims a perfect whale sighting rate; not repeated. It also says guests get their next trip free if no whales are seen (September to October); recorded under offers. The page says the season is September to November, while the no-sighting policy mentions September to October only."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers available online or by phone, delivered as an instant download",
+      "conditions": "Valid for 3 years from the date of purchase. Not refundable and not extendable.",
+      "validUntil": null,
+      "sourceUrl": "https://www.montagueislandadventures.com.au/gift-cards/"
+    },
+    {
+      "text": "Whale watching included on all Montague Island tours during whale watching season",
+      "conditions": "September to November",
+      "validUntil": null,
+      "sourceUrl": "https://www.montagueislandadventures.com.au/montague-island-tours-and-penguin-tours/"
+    },
+    {
+      "text": "Next whale watching trip free if no whales are seen",
+      "conditions": "The page says this applies from September to October. No further terms are given.",
+      "validUntil": null,
+      "sourceUrl": "https://www.montagueislandadventures.com.au/narooma-whale-watching/"
+    }
+  ],
+  "checkNotes": "Booking is through Captainbook embedded links on the operator's pages (montague-island-adventures-charter-fish-narooma.captainbook.io), not Rezdy, so rezdyAlias is null. Those pages were not opened. No trip price appears anywhere on the site; every trip has prices [] and priceFrom null. Booking links are as found: product 11 is used for the morning tour, afternoon tour, snorkel and tour plus snorkel; product 17 for the evening penguin tour; product 3 for whale watching. Gift certificate checkout links on the Book Here page end in 16500, 19500 and 10000 with currency=AUD, which may be amounts in cents (AUD 165, 195 and 100), but no page shows them as prices, so none are recorded. FISHING CHARTERS: the menu and a card on the home page link to a separate site, charterfishnarooma.com (Charter Fish Narooma), which is not the operator's own domain for this brief and was not read, so fishing is not listed as a trip. The older /info/ page describes half day and full day reef and game fishing on the boats Playstation and Nitro, with no prices; a person should decide whether to add it. The /info/ page (last edited September 2024) conflicts with the current tour pages on morning time, durations and wetsuit pickup, so the current pages were used. Boats: Nitro II (the larger boat, outside toilet and change room) and Playstation (maximum 8 people), per the About and home pages. Terms page: full payment at booking; trips need minimum numbers and suitable sea conditions; if the operator cancels for weather or low numbers guests are offered a refund, a gift certificate or a new date; 7 days notice is needed to cancel or a full cancellation fee applies; departure time is confirmed the night before; swimmers must be able to swim. The terms also mention a 500 dollar deposit for private bookings, which relates to private charters not described here. Phone is shown on the site as 0407 487 702. The contact page names Benn Boulton; the About page names owners Benn and Jaz. Office hours shown are Monday to Sunday, 9:00am to 6:00pm. A 2020 post saying the island was closed for Covid is out of date and ignored, as is a 2017 cottage stay special. The site makes claims not repeated here: only company leaving from its own boat shed, largest seal colony in NSW, a perfect whale sighting rate, and five star TripAdvisor reviews."
+}

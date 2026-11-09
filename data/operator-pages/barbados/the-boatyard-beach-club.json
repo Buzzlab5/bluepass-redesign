@@ -1,0 +1,143 @@
+{
+  "slug": "the-boatyard-beach-club",
+  "name": "The Boatyard",
+  "website": "https://www.theboatyard.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Carlisle Bay",
+  "category": "Beach club with snorkel tour",
+  "summary": "A beach bar and restaurant on Carlisle Bay, open every day from 9am to 6pm. A day pass covers loungers, the ocean trampoline and other water toys, and a 45 minute boat trip to snorkel over the bay's shipwrecks. There are no reservations: passes are sold on arrival, first come, first served.",
+  "standouts": [
+    "Open 365 days a year, 9:00am to 6:00pm",
+    "45 minute shipwreck and snorkel tour included in the day pass",
+    "Ocean trampoline, iceberg, Free Fall Xtreme, rope swing and dive platform on site",
+    "Transport back to the cruise terminal for cruise passengers and crew (special conditions apply)"
+  ],
+  "contact": {
+    "phone": "+1 246 826 4448",
+    "email": "information@theboatyard.com",
+    "address": "The Boatyard Bar and Restaurant, Bay Street, St. Michael, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://static.wixstatic.com/media/e1e413_9515829d26534f76adbaede52eb256cf~mv2.jpeg",
+  "sourceUrls": [
+    "https://www.theboatyard.com/",
+    "https://www.theboatyard.com/our-packages",
+    "https://www.theboatyard.com/faq",
+    "https://www.theboatyard.com/gallery",
+    "https://www.theboatyard.com/book-online",
+    "https://www.theboatyard.com/sitemap.xml",
+    "https://www.theboatyard.com/pages-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Shipwreck and Snorkel Tour",
+      "kind": "snorkel",
+      "summary": "A 45 minute boat trip from the beach club to snorkel over the shipwrecks in Carlisle Bay. It is included with the day pass, along with loungers, umbrellas, water toys and showers. Sign up on arrival, as places go on a first come, first served basis.",
+      "highlights": [
+        "45 minutes, snorkelling over shipwrecks in Carlisle Bay",
+        "Included in every day pass except the crew rate, where it is US $5 extra",
+        "Day pass credit can be spent at the bar and restaurant",
+        "Non-swimmers can join but must stay on the boat"
+      ],
+      "duration": "45 minutes",
+      "durationMinutes": 45,
+      "departureTimes": [],
+      "season": "Open 365 days a year",
+      "departsFrom": "The Boatyard, Bay Street, Carlisle Bay",
+      "prices": [
+        {
+          "label": "On island non-resident adult, day pass",
+          "amount": 40,
+          "currency": "USD",
+          "note": "Includes all onsite amenities and US $20 redeemable in bar and restaurant credit; guests must be staying on the island"
+        },
+        {
+          "label": "On island non-resident child (4 to 12), day pass",
+          "amount": 25,
+          "currency": "USD",
+          "note": "Includes all onsite amenities and US $15 redeemable in bar and restaurant credit"
+        },
+        {
+          "label": "Cruise ship passenger adult, day pass",
+          "amount": 40,
+          "currency": "USD",
+          "note": "Includes transport back to the cruise terminal, one complimentary drink and all onsite amenities"
+        },
+        {
+          "label": "Cruise ship passenger child (4 to 12), day pass",
+          "amount": 30,
+          "currency": "USD",
+          "note": "Includes transport back to the cruise terminal, one complimentary drink and all onsite amenities"
+        },
+        {
+          "label": "Cruise ship crew member, day pass",
+          "amount": 30,
+          "currency": "USD",
+          "note": "US $25 redeemable in food and drink, transport back to the cruise ship and onsite amenities; valid picture crew ID required; snorkel tour not included"
+        },
+        {
+          "label": "Cruise ship crew member, shipwreck and snorkel tour",
+          "amount": 5,
+          "currency": "USD",
+          "note": "Per person, added to the crew day pass"
+        },
+        {
+          "label": "Barbadian national adult, Summer Special",
+          "amount": 70,
+          "currency": "BBD",
+          "note": "Barbados ID required; includes $40 BBD bar and restaurant credit"
+        },
+        {
+          "label": "Barbadian national child (4 to 12), Summer Special",
+          "amount": 40,
+          "currency": "BBD",
+          "note": "Barbados ID required; includes $25 BBD bar and restaurant credit"
+        },
+        {
+          "label": "Barbadian national adult, from November 1st, 2026",
+          "amount": 80,
+          "currency": "BBD",
+          "note": "Barbados ID required; includes $40 BBD bar and restaurant credit"
+        },
+        {
+          "label": "Barbadian national child (4 to 12), from November 1st, 2026",
+          "amount": 50,
+          "currency": "BBD",
+          "note": "Barbados ID required; includes $30 BBD bar and restaurant credit"
+        }
+      ],
+      "priceFrom": 40,
+      "includes": [
+        "Chairs and umbrellas",
+        "Ocean trampoline, dive platform, iceberg/Free Fall Xtreme and rope swing",
+        "Fresh water showers, restrooms and changing facilities",
+        "Sports TVs and free wifi"
+      ],
+      "bring": [
+        "Photo ID or a copy of your photo ID"
+      ],
+      "requirements": "Children must be at least 42\" tall to join the tour; guests must be able to swim to get off the boat (non-swimmers stay on the boat); under 18s must be with a parent or guardian over 25; 1 adult for every 4 children",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/e1e413_9515829d26534f76adbaede52eb256cf~mv2.jpeg",
+        "https://static.wixstatic.com/media/e1e413_c12ada9bfdf6445694c6d157a39b7ff1~mv2.jpg",
+        "https://static.wixstatic.com/media/e1e413_1c011e738bed4c3e98dab7bd3dcd9da8~mv2.jpg",
+        "https://static.wixstatic.com/media/e1e413_e43dbc7578c746b6a050a53c45f0716df003.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.theboatyard.com/our-packages",
+      "checkNotes": "The tour is not sold on its own: it comes with the beach club day pass (crew pay US $5 extra). No reservations; sign up for the tour on arrival. priceFrom is the on-island visitor adult day pass; the crew rate (US $30) needs a crew ID. Some activities are subject to sea conditions. Cash and Visa or Mastercard accepted."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Barbadian Nationals Summer Special: adults $70 BBD with $40 BBD credit, children (4 to 12) $40 BBD with $25 BBD credit",
+      "conditions": "Barbados photo ID required on entry; new national rates listed from November 1st, 2026",
+      "validUntil": null,
+      "sourceUrl": "https://www.theboatyard.com/our-packages"
+    }
+  ],
+  "checkNotes": "Mainly a beach bar, restaurant and day-pass venue; the marine activity is the 45 minute shipwreck and snorkel tour included in the pass. The site says no reservations are taken (first come, first served). A Wix 'Book Online' page exists at /book-online but is not in the menu or sitemap and showed no services in its page source, so it is not recorded as a booking link. Luggage storage is US $5 per bag. The site also links to sister venues Sharkey's, Mimosas and Tabu, not covered here."
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "turquoise-safaris",
+  "name": "Turquoise Safaris",
+  "website": "https://turquoisesafaris.com.au",
+  "rezdyAlias": "turquoisesafaris",
+  "state": "WA",
+  "town": "Jurien Bay",
+  "category": "Sea lion swim tours",
+  "summary": "Boat tours from Jurien Bay Boat Harbour, about 220 km north of Perth, to snorkel with endangered Australian sea lions in Jurien Bay Marine Park. Guests can swim or stay aboard as observers. The guides are long-time Jurien Bay residents, and the business was founded over 10 years ago.",
+  "standouts": [
+    "2026 Tripadvisor Travellers' Choice Award, as shown on the site",
+    "Accredited operator with the Western Australian Tourism Commission, per the About page",
+    "Founded over 10 years ago, with guides who are long-time Jurien Bay residents",
+    "Vessels are wheelchair accessible for chairs up to 600mm wide"
+  ],
+  "contact": {
+    "phone": "1300 723 274",
+    "email": "info@turquoisesafaris.com.au",
+    "address": "Jurien Bay Boat Harbour, Harbour Drive, Jurien Bay WA 6516"
+  },
+  "heroImage": "https://static.wixstatic.com/media/1e425d_7d42a4a2979f4a2781365fad0b45a8a8~mv2.jpg",
+  "sourceUrls": [
+    "https://www.turquoisesafaris.com.au/",
+    "https://www.turquoisesafaris.com.au/sea-lion-tour",
+    "https://www.turquoisesafaris.com.au/about-us",
+    "https://www.turquoisesafaris.com.au/faq",
+    "https://www.turquoisesafaris.com.au/tcs",
+    "https://www.turquoisesafaris.com.au/book-now",
+    "https://www.turquoisesafaris.com.au/de/sea-lion-tour",
+    "https://www.turquoisesafaris.com.au/sitemap.xml",
+    "https://www.turquoisesafaris.com.au/pages-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Sea Lion Tours",
+      "kind": "swim",
+      "summary": "A boat tour of about 2 hours from Jurien Bay Boat Harbour to the sea lion colonies in Jurien Bay Marine Park, a 15 to 30 minute ride away. Snorkellers can be in the water for up to 45 minutes under DBCA regulations, and observers watch from the boat. Wetsuits, snorkelling gear, buoyancy vests and light refreshments are provided.",
+      "highlights": [
+        "Snorkel with endangered Australian sea lions, or watch from the boat as an observer",
+        "Up to 45 minutes in the water, in line with DBCA regulations",
+        "Custom-fitted wetsuits, snorkelling gear and buoyancy vests provided",
+        "About 15 to 30 minutes by boat to the sea lion colonies in Jurien Bay Marine Park"
+      ],
+      "duration": "approximately 2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [
+        "07:00",
+        "09:30",
+        "07:30"
+      ],
+      "season": "Daily year round, weather permitting. Summer (16 September to 14 May): 7:00am and 9:30am starts. Winter (15 May to 15 September): 7:30am start.",
+      "departsFrom": "Jurien Bay Boat Harbour, Harbour Drive (floating pontoon below the information bay)",
+      "prices": [
+        {
+          "label": "Snorkeller",
+          "amount": 195,
+          "currency": "AUD",
+          "note": "Per person"
+        },
+        {
+          "label": "Child snorkeller (6 to 16 years)",
+          "amount": 170,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child snorkeller (3 to 5 years)",
+          "amount": 170,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Observer (3+ years), non-swimmer",
+          "amount": 130,
+          "currency": "AUD",
+          "note": "Per person. Observers stay on the boat. If a snorkelling spot is free on the day, an observer can upgrade by paying the additional charge on the day"
+        },
+        {
+          "label": "Infant (under 2 years)",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        },
+        {
+          "label": "GoPro camera hire (optional extra)",
+          "amount": 50,
+          "currency": "AUD",
+          "note": "Per camera. Includes an SD card to keep your footage"
+        }
+      ],
+      "priceFrom": 130,
+      "includes": [
+        "Full snorkelling equipment, including custom-fitted wetsuits",
+        "Buoyancy vests",
+        "Light snacks, refreshments and water",
+        "Crew briefing before entering the water",
+        "Mandatory DBCA fees"
+      ],
+      "bring": [
+        "Swimwear and towel (for snorkellers)",
+        "Camera or GoPro",
+        "Hat and sunglasses",
+        "Warm jacket or jumper",
+        "Sunscreen",
+        "Optional: your own wetsuit and snorkelling equipment (the price is the same)"
+      ],
+      "requirements": "Snorkellers must be able to swim: this is an open ocean experience that needs a reasonable level of swimming ability, and strong swimming is recommended. Minimum age to snorkel is 3, and under 18s must be accompanied by a parent or guardian. Participants must be physically and medically fit; seek medical advice if pregnant; not suitable with a back injury. Observers have no set age limit, but children under 3 cannot swim and must be supervised by an adult at all times. Arrive 15 minutes before departure. A minimum of 6 people is needed for a tour to run.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/1e425d_adbf386958b44663b5b17ac02b36d047~mv2.jpg",
+        "https://static.wixstatic.com/media/1e425d_7d42a4a2979f4a2781365fad0b45a8a8~mv2.jpg",
+        "https://static.wixstatic.com/media/1e425d_1ef52fd134ca4139b6e5ac445d7a6245~mv2.jpg",
+        "https://static.wixstatic.com/media/1e425d_6f01f161d74346f7bf952ccac8e9189b~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://turquoisesafaris.rezdy.com/247419/sea-lion-tour-sound-waves"
+      ],
+      "sourceUrl": "https://www.turquoisesafaris.com.au/sea-lion-tour",
+      "checkNotes": "Prices, times and conditions are from the Sea Lion Tours page, with the FAQ and Terms and Conditions for the rest. Mandatory DBCA fees are included in every price. priceFrom is the observer price; the lowest snorkeller price is $170 (child) and the adult snorkeller price is $195. No price is stated for a 2 year old: infants under 2 are free and observers start at 3. Ages conflict: the FAQ says there is no set age limit but children under 3 cannot swim and must be supervised by an adult, while the Terms say every participant must be aged 3 or over. GoPro hire is $50 per camera on the tour page but $50 per person on the FAQ, and the FAQ says only a limited number are available; the tour page figure is used. Departure times: the site shows start and end windows, and the start times are used. Summer (16 September to 14 May) 7:00am and 9:30am; winter (15 May to 15 September) 7:30am. Extra departures may run in peak periods such as school holidays, and the FAQ says up to two tours a day depending on demand. Vessels: the tour page names Mojo, Soundwaves and Nautikat, while the FAQ says the fleet is two fibreglass catamarans (one 10m, one 12m) and that guides wait on Sound Waves or Mojo. Group size from the FAQ: minimum 6 people for a tour to run, maximum 30 across the vessels. Booking: the only per-trip link on the site is the Sound Waves product (Rezdy 247419). Every BOOK NOW button and the menu also link to the Rezdy catalogue 'sea-lion-tours' (catalog 50512), which was not opened and may list other products, such as other vessels or times, so a person should check for further per-trip links. Full payment is taken online when booking and no deposit is required (FAQ). An observer can upgrade to snorkeller on the day if a spot is free, paying the extra on the day (FAQ). Cancellation (Terms): the operator may cancel or alter a tour for tide, wind, weather or unforeseen circumstances and will reschedule or refund at its discretion; a guest who cancels less than 48 hours before departure pays half the ticket price; no-shows are not refunded. Wildlife: the site says sea lion interaction is on the animals' terms and cannot be guaranteed, and that it gives no refunds or guarantees based on sightings or interaction levels. Worth showing travellers. The site also makes ranking and rating claims, which are not repeated here."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers available for all tours",
+      "conditions": "Non-refundable. Only one gift card or voucher can be redeemed per person per booking.",
+      "validUntil": null,
+      "sourceUrl": "https://www.turquoisesafaris.com.au/faq"
+    }
+  ],
+  "checkNotes": "SAME BUSINESS as sea-lion-charters: one ABN, one Rezdy account (turquoisesafaris) and the same sea lion tour on two websites. Keep one page. Single-trip operator: the site sells only the Sea Lion Tours, which is the one trip recorded. The About page mentions offshore fishing charters, but the site has no fishing page, price or booking link, so none is included; the operator's YouTube channel has a 2017 fishing video. No redirect to another business: the address without www redirects to www.turquoisesafaris.com.au, a Wix site, and the name used on the live site is Turquoise Safaris. A /de copy of the pages repeats the English text. The Terms and Conditions name the business as 'Turquoise Safaris and Sea Lion Charters' under ABN 75 937 088 962. They also say the site's content, images and logos are owned by the business and may not be reproduced without written permission, so use of the photos needs the operator's approval. Accreditation claims are not verified: the About page says it is an accredited operator with the Western Australian Tourism Commission, and the footer shows badges labelled QTA Accredited Business, Sustainable Tourism Accredited Business and China Ready Tourism, plus a link to an accessibility report; none of these were opened. The home page shows a 2026 Tripadvisor Travellers' Choice badge, a rating and a review count. Only the award is used (in standouts); the rating, review count and ranking claims are left out. The Rezdy account (turquoisesafaris) is the operator's own and no other business's account was seen; no Rezdy page was opened. Phone is shown on the site as 1300 SAFARIS (1300 723 274). The site had no bot check and every page answered normally."
+}

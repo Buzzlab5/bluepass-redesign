@@ -1,0 +1,47 @@
+{
+  "slug": "barrys-surf-barbados",
+  "logo": "https://www.surfing-barbados.com/wp-content/uploads/2016/05/Surf-Barbados-Logo.png",
+  "gallery": [
+    "https://www.surfing-barbados.com/wp-content/uploads/2018/09/surfing-in-barbados-learn-to-surf.jpg",
+    "https://www.surfing-barbados.com/wp-content/uploads/2016/05/img_2349-1.jpg",
+    "https://www.surfing-barbados.com/wp-content/uploads/2016/05/img_2425.jpg",
+    "https://www.surfing-barbados.com/wp-content/uploads/2020/04/img_3592.jpg",
+    "https://www.surfing-barbados.com/wp-content/uploads/2023/10/matt-surfing2.jpg",
+    "https://www.surfing-barbados.com/wp-content/uploads/2016/05/Surfing-Soup-Bowl-Barbados-57.jpg",
+    "https://www.surfing-barbados.com/wp-content/uploads/2016/05/Surfing-in-Barbados-South-Point-32.jpg",
+    "https://www.surfing-barbados.com/wp-content/uploads/2016/05/Surfing-in-Barbados-South-Point-34.jpg",
+    "https://www.surfing-barbados.com/wp-content/uploads/2016/05/surfing-southpoint-010.jpg",
+    "https://www.surfing-barbados.com/wp-content/uploads/2016/05/IMG_3667.jpg",
+    "https://www.surfing-barbados.com/wp-content/uploads/2016/05/barry-banfieid-surfing-barbados.png",
+    "https://www.surfing-barbados.com/wp-content/uploads/2016/05/christie-surfing-barbados-pic.png",
+    "https://www.surfing-barbados.com/wp-content/uploads/bfi_thumb/91131768_144215513690337_3655062927477571584_n-qcd55fdibm04llo399fxc22tacor495659tsnuzsmk.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=m3WCU7mzRiw",
+      "title": "Surf lessons in Barbados",
+      "sourceUrl": "https://www.surfing-barbados.com/surf-lessons/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Beginner Surf Lessons (Intro To Surfing)",
+      "images": [
+        "https://www.surfing-barbados.com/wp-content/uploads/2018/09/surfing-in-barbados-learn-to-surf.jpg",
+        "https://www.surfing-barbados.com/wp-content/uploads/2016/05/IMG_3667.jpg"
+      ]
+    },
+    {
+      "title": "Barrys Surf School Package (The Gap Package)",
+      "images": []
+    },
+    {
+      "title": "Surfboard Rentals",
+      "images": [
+        "https://www.surfing-barbados.com/wp-content/uploads/bfi_thumb/91131768_144215513690337_3655062927477571584_n-qcd55fdibm04llo399fxc22tacor495659tsnuzsmk.jpg",
+        "https://www.surfing-barbados.com/wp-content/uploads/2020/04/img_3592.jpg"
+      ]
+    }
+  ],
+  "notes": "The surf lessons and rentals pages have only one or two photos each; the surf package page has none. The home page Facebook feed widget links to Facebook, not opened. The Epic Loft apartment photo (2024/11/exterior-day.jpg) is left out as it is accommodation, not surfing. The rental shop photo is only served as a resized bfi_thumb file."
+}

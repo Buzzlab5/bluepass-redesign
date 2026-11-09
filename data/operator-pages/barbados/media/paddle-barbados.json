@@ -1,0 +1,78 @@
+{
+  "slug": "paddle-barbados",
+  "logo": "https://paddlebarbados.com/wp-content/uploads/2021/01/Paddle-Barbados_logo-Retina.png",
+  "gallery": [
+    "https://paddlebarbados.com/wp-content/uploads/2023/10/pebbles-beach-paddle-barbados-sup-1-scaled-e1612735219394.webp",
+    "https://paddlebarbados.com/wp-content/uploads/2021/01/paddle-board-tour-barbados-scaled-1.webp",
+    "https://paddlebarbados.com/wp-content/uploads/2023/10/beach-lesson-rental_homepage.webp",
+    "https://paddlebarbados.com/wp-content/uploads/2023/10/sup-rental-at-your-location_home2.webp",
+    "https://paddlebarbados.com/wp-content/uploads/2023/10/sup-snorkel-rentals_home2.webp",
+    "https://paddlebarbados.com/wp-content/uploads/2023/10/sarah-surf-barbados-slider.webp",
+    "https://paddlebarbados.com/wp-content/uploads/2023/10/paddle-barbados-surfing-at-freights-bay.jpg",
+    "https://paddlebarbados.com/wp-content/uploads/2021/01/sup_beach-lesson-rental-1.jpg",
+    "https://paddlebarbados.com/wp-content/uploads/2021/01/sup_rental-1.jpg",
+    "https://paddlebarbados.com/wp-content/uploads/2021/01/sup_surfing-barbados-1.jpg",
+    "https://paddlebarbados.com/wp-content/uploads/2021/02/about-us_shop-from-above.jpg",
+    "https://paddlebarbados.com/wp-content/uploads/2021/01/about-us-team-1-scaled-e1612108189481.jpg",
+    "https://paddlebarbados.com/wp-content/uploads/2021/02/about-us_jason-sarah-1.jpg",
+    "https://paddlebarbados.com/wp-content/uploads/2021/02/about-us_tremayne.jpg",
+    "https://paddlebarbados.com/wp-content/uploads/2021/02/shop-from-above-1.jpg",
+    "https://paddlebarbados.com/wp-content/uploads/2021/02/kayak-barbados-your-location.jpg"
+  ],
+  "videos": [
+    { "url": "https://www.youtube.com/watch?v=wy6AZk5SHIk", "title": "Learn to surf with Paddle Barbados", "sourceUrl": "https://paddlebarbados.com/surfing-barbados/surf-lessons-in-barbados/" },
+    { "url": "https://www.youtube.com/watch?v=7C6xQM_mOK8", "title": "Sarah and Jason SUP surfing in Barbados", "sourceUrl": "https://www.youtube.com/c/PaddleBarbadosSUP" },
+    { "url": "https://www.youtube.com/watch?v=ukT2XbUk2gM", "title": "SUP surfing on Paddle Barbados equipment", "sourceUrl": "https://www.youtube.com/c/PaddleBarbadosSUP" },
+    { "url": "https://www.youtube.com/watch?v=91e-qXUNkeM", "title": "SUP surfing at Freights Bay", "sourceUrl": "https://www.youtube.com/c/PaddleBarbadosSUP" },
+    { "url": "https://www.youtube.com/watch?v=CZsOxHRIenM", "title": "SUP surfing in Barbados with Sarah Cole", "sourceUrl": "https://www.youtube.com/c/PaddleBarbadosSUP" },
+    { "url": "https://www.youtube.com/watch?v=yqlUi4HjBTg", "title": "Jason Cole SUP surfing at Parlor, Bathsheba", "sourceUrl": "https://www.youtube.com/c/PaddleBarbadosSUP" }
+  ],
+  "trips": [
+    { "title": "SUP Rentals on Pebbles Beach", "images": [
+      "https://paddlebarbados.com/wp-content/uploads/2021/02/sup-rentals_our-location-1-e1612273617972.jpg",
+      "https://paddlebarbados.com/wp-content/uploads/2021/02/SUP-lessons_beach-lesson-1.jpg",
+      "https://paddlebarbados.com/wp-content/uploads/2021/01/sup_beach-lesson-rental-1.jpg",
+      "https://paddlebarbados.com/wp-content/uploads/2023/10/beach-lesson-rental_homepage.webp"
+    ] },
+    { "title": "SUP Rentals at Your Location", "images": [
+      "https://paddlebarbados.com/wp-content/uploads/2021/02/SUP-rentals-header-1.jpg",
+      "https://paddlebarbados.com/wp-content/uploads/2023/10/sup-rental-at-your-location_home2.webp",
+      "https://paddlebarbados.com/wp-content/uploads/2021/01/sup_rental-1.jpg"
+    ] },
+    { "title": "SUP Surf Lesson", "images": [
+      "https://paddlebarbados.com/wp-content/uploads/2021/02/SUP-surf_lesson-beginner-1.jpg",
+      "https://paddlebarbados.com/wp-content/uploads/2021/01/sup_surfing-barbados-1.jpg"
+    ] },
+    { "title": "SUP Surf Coaching", "images": [
+      "https://paddlebarbados.com/wp-content/uploads/2021/02/sup-surf_coaching-1.jpg"
+    ] },
+    { "title": "SUP Surf Board Rentals", "images": [
+      "https://paddlebarbados.com/wp-content/uploads/2021/02/sup-surf-rental_fanatic-freights-bay-e1612401593256.jpg"
+    ] },
+    { "title": "Beach & Water Lesson (Beginner Surf Experience)", "images": [
+      "https://paddlebarbados.com/wp-content/uploads/2021/02/surfboard-rentals-1.jpg",
+      "https://paddlebarbados.com/wp-content/uploads/2023/10/paddle-barbados-surfing-at-freights-bay.jpg"
+    ] },
+    { "title": "Beach Lesson (Intro to Surfing)", "images": [
+      "https://paddlebarbados.com/wp-content/uploads/2025/02/pebbles-surfboard-rentals.webp"
+    ] },
+    { "title": "Surfboard Rental Delivered to You", "images": [
+      "https://paddlebarbados.com/wp-content/uploads/2025/02/surfboard-rentals-barbados-delivery.webp"
+    ] },
+    { "title": "Surfboard Rental at Our Location", "images": [
+      "https://paddlebarbados.com/wp-content/uploads/2025/02/pebbles-surfboard-rentals.webp",
+      "https://paddlebarbados.com/wp-content/uploads/2021/02/surfboard-rentals-1.jpg"
+    ] },
+    { "title": "Snorkel Rentals", "images": [
+      "https://paddlebarbados.com/wp-content/uploads/2021/02/rentals_snorkel-gear-1024.jpg",
+      "https://paddlebarbados.com/wp-content/uploads/2023/10/sup-snorkel-rentals_home2.webp"
+    ] },
+    { "title": "Kayak at Paddle Barbados", "images": [
+      "https://paddlebarbados.com/wp-content/uploads/2021/01/rentals_kayaks-1.jpg"
+    ] },
+    { "title": "Kayak at Your Location", "images": [
+      "https://paddlebarbados.com/wp-content/uploads/2021/02/kayak-barbados-your-location.jpg"
+    ] }
+  ],
+  "notes": "All photos from paddlebarbados.com; full-size WordPress originals checked and load. Videos from the surf lessons page embed and the YouTube channel the site links to (youtube.com/c/PaddleBarbadosSUP), read through its public feed. No bot checks met. Some home page tiles (food, stay, kitesurf) show other businesses' activities and were left out."
+}

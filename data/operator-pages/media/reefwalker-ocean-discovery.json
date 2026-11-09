@@ -1,0 +1,56 @@
+{
+  "slug": "reefwalker-ocean-discovery",
+  "logo": "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/70c42748-0007-4618-bc26-6696f1314a80/Reefwalker+Final+Design+Horizontal+%28Small%29.png",
+  "gallery": [
+    "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1653543258229-I2DBK2Y76884Q99UIK2F/Humpback+wave+%28Large%29.jpg",
+    "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1653543352921-4K3T0Y2SZJT4UYEY4KKY/Whale+5.jpg",
+    "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1653543349879-GN0PBKY9D6ANE0TH300U/Whale+3.jpg",
+    "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/85af4f6e-8a96-4202-aa7f-a507af6cb2dd/Humpback+2+%28Large%29.jpg",
+    "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1656649220922-VVAIMHO4BNXGFC7ZWR9O/Whale+4+%28Large%29.jpg",
+    "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1653543257913-5EEFNNSHX1W87BJUB8MQ/Humpback.jpg",
+    "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1656649647519-FASCYVRPJMKXJSI0HR3X/Kalbarri+Cliffs+%28Large%29.png",
+    "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1656649625908-1T10MSKE4J5WJ8PJ1264/Kalbarri+Cliffs.jpg",
+    "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/4256c9d2-2a2c-4f32-888e-c9edf28cb467/Sunset+Cruise+Full+%28compressed%29.png",
+    "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1653543349600-GR70S3Y36VJ7EJOHQUS9/Sunset+Cruise.jpg",
+    "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1653543332453-HD9HGJKDLL6OC11WZ4AT/Reefwalker+Cruise+%28Large%29.png",
+    "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1653543342175-251TT89UM9T0JQL3JIZZ/Reefwalker+Surfers+%28Large%29.jpg",
+    "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1653543301596-BFJCOQAYOROOL10O7M98/Reefwalker+3.jpg",
+    "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1653543313550-WORXXEZMM1RERLNQAPHI/Reefwalker+dark+%28Large%29.jpg",
+    "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1653543247825-LIQC0MLEYG0UITJ10J39/Family+Friendly.jpg",
+    "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/b598ca4c-9915-4e6c-94c2-4fdf2a96a2dd/Lobster+%28Large%29.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Kalbarri Sunset Coastal Cliff Cruise",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/f2420b63-fd8b-45e9-b40a-6f5b0f789166/Kalbarri+Sunset+copy.jpg",
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/ad4888e8-530e-454c-a770-00ece9870f39/Reefwalker+Cruise+%28Large%29.jpg",
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1656649647519-FASCYVRPJMKXJSI0HR3X/Kalbarri+Cliffs+%28Large%29.png",
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1656649625908-1T10MSKE4J5WJ8PJ1264/Kalbarri+Cliffs.jpg"
+      ]
+    },
+    {
+      "title": "Kalbarri Whale Watching Tour",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/b37edfaa-86a8-4281-8550-af7c0a52c7d4/Humpback+2+%28Large%29.jpg",
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/46f4cd5e-7ce5-4e64-b3e8-eea23f1e09ce/Humpback+2+%28Large%29.png",
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1656649220922-VVAIMHO4BNXGFC7ZWR9O/Whale+4+%28Large%29.jpg",
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1656649737032-6XR5RYU2IS8WVJ0CQLNO/Whale+tail.png"
+      ]
+    },
+    {
+      "title": "Kalbarri Crayfish Catch & Keep Tour",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/b598ca4c-9915-4e6c-94c2-4fdf2a96a2dd/Lobster+%28Large%29.jpg"
+      ]
+    },
+    {
+      "title": "Kalbarri Deep Sea Fishing Charter",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1656649288497-49UDYZHKOQ41ON9AMHS7/GOPR0051_lg.png"
+      ]
+    }
+  ],
+  "notes": "Everything was read on www.reefwalker.com.au (the bare domain does not load over https; it redirects to www). Image sizes were taken from the dimensions the pages declare, nothing was downloaded. Logo: the header logo, 854 by 186 as declared in the page metadata, recorded without the resize parameter so it is the original file; the footer copy is smaller (643 by 140), so it was not used. No heroImage given: the facts file already uses Kalbarri Cliffs (Large).png (1920 by 1080, boat under the cliffs); alternatives are Sunset Cruise Full (compressed).png (1920 by 977, passengers at sunset) and Reefwalker Cruise (Large).png (1916 by 1033, boat at the red cliffs). Videos: none. The site links no YouTube or Vimeo channel and embeds no player. The home page header plays a 17 second background loop hosted by Squarespace (file name 'Header Clip.mp4'), but only an HLS playlist address exists for it (https://video.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/513e7215-ddd8-4711-b55e-fb8721aa4d1f/playlist.m3u8), not an .mp4 URL, so it is not listed. Trips: there are no separate trip pages. Each trip's photos are its card on the tours page and its card on the home page; the whale trip also has the whale pictures from the gallery strip on the tours page. The crayfish and fishing cards each have one photo only. Left out: SustainableTourism-Green.png (a 352 by 111 badge graphic, appears in the footer of every page), the footer logo, and the five Instagram feed pictures on the home page (all named image-asset.jpeg), because their captions credit a photographer handle (@happy.dayz.imagery) on some and they are Instagram posts. Gallery: all 16 come from the site's Gallery page, Our Story page, tours page or home page, and none carries a credit; a person should still glance at Family Friendly.jpg (square, a family of four on a boat) and the other people photos, since their origin could not be confirmed without opening them. Not used because the gallery is capped at 16: Whale tail.jpg (portrait, 2294 by 2450), Couple (Large).jpg (square), Selfie.jpg, Reefwalker Glass Off.jpg, About Photo.jpg, Front on.jpg, Reefwalker 2.jpg, Kalbarri Sun Rise (Large).jpg, Crayfish-Tours-12.jpg. No bot check, captcha or 403 was hit on the site. The site's robots.txt blocks named AI crawlers; pages were read one at a time with the default curl user agent, about 10 requests in all."
+}

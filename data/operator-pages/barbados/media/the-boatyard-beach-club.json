@@ -1,0 +1,38 @@
+{
+  "slug": "the-boatyard-beach-club",
+  "logo": "https://static.wixstatic.com/media/e1e413_3c3746ad9d254f2db004f640f27c6e9e~mv2.png",
+  "gallery": [
+    "https://static.wixstatic.com/media/e1e413_9515829d26534f76adbaede52eb256cf~mv2.jpeg",
+    "https://static.wixstatic.com/media/e1e413_3f6885f59cff4a208ec3d2d70126459d~mv2.jpeg",
+    "https://static.wixstatic.com/media/e1e413_c12ada9bfdf6445694c6d157a39b7ff1~mv2.jpg",
+    "https://static.wixstatic.com/media/e1e413_1c011e738bed4c3e98dab7bd3dcd9da8~mv2.jpg",
+    "https://static.wixstatic.com/media/e1e413_e43dbc7578c746b6a050a53c45f0716df003.jpg",
+    "https://static.wixstatic.com/media/e1e413_8386cfe4ad0a42c7873dcca2011b4d28~mv2.jpg",
+    "https://static.wixstatic.com/media/e1e413_82a9711918bf47bbba6bab904b091239~mv2.jpg",
+    "https://static.wixstatic.com/media/e1e413_97d13480769f44519aa3c1fb4f79f467~mv2.jpeg",
+    "https://static.wixstatic.com/media/e1e413_55aeefeb3c4f46ffb323838b3d25ec06~mv2.jpg",
+    "https://static.wixstatic.com/media/e1e413_eec6d2464c964ab5be273d7dfaf0c1fa~mv2.jpeg",
+    "https://static.wixstatic.com/media/e1e413_13a77b29196548fd8f9ed707bf7d1002~mv2.jpg",
+    "https://static.wixstatic.com/media/e1e413_0fbb3c6b0735427db6bc17a980f8d8e8~mv2.jpg",
+    "https://static.wixstatic.com/media/e1e413_1e11926750e2463a8b55622dfc251741~mv2.jpg",
+    "https://static.wixstatic.com/media/e1e413_5642a9523ce041ba9d61b7cb513b9b03~mv2.jpg",
+    "https://static.wixstatic.com/media/e1e413_92b14d84fa32444f81c1ed1e79f4ae24~mv2.jpg",
+    "https://static.wixstatic.com/media/e1e413_9ce8b16eabbb4edfb95f413fc27385e5~mv2.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Shipwreck and Snorkel Tour",
+      "images": [
+        "https://static.wixstatic.com/media/e1e413_9515829d26534f76adbaede52eb256cf~mv2.jpeg",
+        "https://static.wixstatic.com/media/e1e413_c12ada9bfdf6445694c6d157a39b7ff1~mv2.jpg",
+        "https://static.wixstatic.com/media/e1e413_1c011e738bed4c3e98dab7bd3dcd9da8~mv2.jpg",
+        "https://static.wixstatic.com/media/e1e413_e43dbc7578c746b6a050a53c45f0716df003.jpg",
+        "https://static.wixstatic.com/media/e1e413_8386cfe4ad0a42c7873dcca2011b4d28~mv2.jpg",
+        "https://static.wixstatic.com/media/e1e413_82a9711918bf47bbba6bab904b091239~mv2.jpg",
+        "https://static.wixstatic.com/media/e1e413_a7f3752a0aeb4faaa1d14afb6df6de0d~mv2.png"
+      ]
+    }
+  ],
+  "notes": "No separate tour page; the tour photos are the snorkel boat, snorkeller, turtle and wreck shots from the home and gallery pages. Left out food photos, the beach shop and clothing photos, the logo-on-white JPG and a 3000x523 banner (e1e413_f06197cdc7b84ae49a5803f4fa2d979c~mv2.jpg). The gallery page may load more photos by script than its page source shows. No YouTube, Vimeo or hosted video found."
+}

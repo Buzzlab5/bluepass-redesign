@@ -1,0 +1,83 @@
+{
+  "slug": "kokomo-cruises",
+  "logo": "https://kokomocruises.com.au/wp-content/uploads/2022/05/cropped-kokomo-favicon.png",
+  "heroImage": "https://kokomocruises.com.au/wp-content/uploads/2022/11/DSC_3791-1-scaled.jpg",
+  "gallery": [
+    "https://kokomocruises.com.au/wp-content/uploads/2022/11/DSC_3791-1-scaled.jpg",
+    "https://kokomocruises.com.au/wp-content/uploads/2022/11/DSC_3812-scaled.jpg",
+    "https://kokomocruises.com.au/wp-content/uploads/2022/11/copy-scaled.jpg",
+    "https://kokomocruises.com.au/wp-content/uploads/2025/06/kokomo-07750.jpg",
+    "https://kokomocruises.com.au/wp-content/uploads/2025/05/Whales-Up-Close.jpg",
+    "https://kokomocruises.com.au/wp-content/uploads/2025/05/Kokomo-Whale-SIghting-1.jpg",
+    "https://kokomocruises.com.au/wp-content/uploads/2022/07/DJI_0846.jpg",
+    "https://kokomocruises.com.au/wp-content/uploads/2022/06/DJI_0810.jpg",
+    "https://kokomocruises.com.au/wp-content/uploads/2022/06/DSF2412-copy.jpg",
+    "https://kokomocruises.com.au/wp-content/uploads/2022/06/DJI_0842-copy-scaled.jpg",
+    "https://kokomocruises.com.au/wp-content/uploads/2022/11/DJI_0910-scaled.jpg",
+    "https://kokomocruises.com.au/wp-content/uploads/2023/08/IMG_8175-copy-scaled.jpg",
+    "https://kokomocruises.com.au/wp-content/uploads/2023/08/IMG_2650-copy-scaled.jpg",
+    "https://kokomocruises.com.au/wp-content/uploads/2023/08/IMG_8125-copy-scaled.jpg",
+    "https://kokomocruises.com.au/wp-content/uploads/2023/02/IMG_0725-copy-scaled.jpg",
+    "https://kokomocruises.com.au/wp-content/uploads/2022/12/1-copy.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=32asBGncxiU",
+      "title": "Cruise with Kokomo",
+      "sourceUrl": "https://kokomocruises.com.au/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=C1kstEIpnF0",
+      "title": "Whale watching with Kokomo",
+      "sourceUrl": "https://kokomocruises.com.au/whale-watching/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Whale Watching Cruise",
+      "images": [
+        "https://kokomocruises.com.au/wp-content/uploads/2022/11/DSC_3791-1-scaled.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2022/11/DSC_3812-scaled.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2022/11/copy-scaled.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2022/07/DJI_0846.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2025/06/kokomo-07750.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2025/05/Whales-Up-Close.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2025/05/Kokomo-Whale-SIghting-1.jpg"
+      ]
+    },
+    {
+      "title": "City to Surf Sightseeing Cruise",
+      "images": [
+        "https://kokomocruises.com.au/wp-content/uploads/2026/08/1_copy-copy-2.png",
+        "https://kokomocruises.com.au/wp-content/uploads/2026/08/Your-paragraph-text-5.png",
+        "https://kokomocruises.com.au/wp-content/uploads/2026/08/Your-paragraph-text-6.png",
+        "https://kokomocruises.com.au/wp-content/uploads/2026/08/Your-paragraph-text-9-1.png",
+        "https://kokomocruises.com.au/wp-content/uploads/2026/08/Your-paragraph-text-10.png",
+        "https://kokomocruises.com.au/wp-content/uploads/2026/08/Your-paragraph-text-11.png"
+      ]
+    },
+    {
+      "title": "Private Whale Watching",
+      "images": [
+        "https://kokomocruises.com.au/wp-content/uploads/2025/05/Kokomo-Whale-SIghting-1.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2022/11/Screen-Shot-2022-11-15-at-3.09.25-pm.png"
+      ]
+    },
+    {
+      "title": "Private Charter",
+      "images": [
+        "https://kokomocruises.com.au/wp-content/uploads/2023/08/IMG_8175-copy-scaled.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2023/08/IMG_2650-copy-scaled.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2023/08/IMG_8125-copy-scaled.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2023/02/IMG_0725-copy-scaled.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2023/02/IMG_0664-copy-scaled.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2023/02/IMG_0555-copy-scaled.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2022/07/DSF5698.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2023/02/Screen-Shot-2023-02-20-at-11.12.41-am.png",
+        "https://kokomocruises.com.au/wp-content/uploads/2022/11/Screen-Shot-2022-11-15-at-3.13.16-pm.png",
+        "https://kokomocruises.com.au/wp-content/uploads/2022/11/Screen-Shot-2022-11-15-at-3.09.25-pm.png"
+      ]
+    }
+  ],
+  "notes": "No bot check or captcha was hit; every page answered normally. LOGO: the site header logo (KokomoCruises-LOGO-Landscape-Wht.svg, https://kokomocruises.com.au/wp-content/uploads/2022/04/KokomoCruises-LOGO-Landscape-Wht.svg) is a white version for the dark header and may disappear on a light page, so the logo given is the 512 pixel square mark that the site's own structured data names as its organisation logo (cropped-kokomo-favicon.png); neither file was viewed. HERO: DSC_3791-1-scaled.jpg, the humpback whales close to the boat from the whale watching gallery. VIDEOS: only two YouTube embeds exist (home page and whale watching page); the site links no YouTube or Vimeo channel, only Facebook and Instagram, so none was opened and the titles are plain descriptions from where each video sits, not checked against YouTube. LEFT OUT: (1) the three files named mother-whale-2021-08-29-09-02-55-utc, love-is-a-breaching-humpback-whale-2021-08-29-01-18-16-utc and yacht-at-the-sea-aerial-view-of-luxury-floating-s-2021-08-26-17-00-45-utc, whose naming matches stock library downloads (used as page backgrounds on whale watching, the boat, about us and blog pages); (2) every file named santireef-... (the home page hero santireef-0097-1.jpg, santireef-0127-copy, santireef-09888-copy, santireef-09984-scaled and santireef-00001-scaled), which look like another photographer's or business's files although the site credits nobody, and a person should ask the operator whether they are theirs before adding them (they are the best whale photos on the site); (3) three whale watching gallery files with Facebook-style names (292672470_3220944518193253_..._n.jpg, 300258532_10228725509351845_..._n.jpg, 300586333_10228606410413644_..._n.jpg), which the page calls guest snaps and so may belong to guests; (4) Footer-Awards-Design.png (award logos), Cruise-with-culture.jpg and private-charter.png (home page and blog panel images that were not viewed and may carry text; the first is for a cruise run through another business's booking account), the site logos, KokomoElement graphics and favicons; (5) IMG_9190, IMG_9191 and IMG_9192 PNGs on the charters page, which are small portrait pictures, and IMG_0175-copy.jpg and DSF3680-copy-scaled.jpg (about page backgrounds, one a tall portrait file). NOT VIEWED, so a person should check them: Whales-Up-Close.jpg and Kokomo-Whale-SIghting-1.jpg (blog and social-share images that could carry text), the six City to Surf PNGs (generic names such as Your-paragraph-text-5.png, uploaded August 2026), and the Screen-Shot PNGs on the charters page (named like screenshots, shown on the site as boat layout and lounge pictures); the importer measures and filters these. The Private Whale Watching page has almost no photos of its own, so its list is the page's social image and one boat interior picture. The Private Charter list is the page's gallery, best first. Full-size originals were used where the page links them (-scaled files are the site's own full-size version) and every image URL returned an image on a header-only check; nothing was downloaded."
+}

@@ -1,0 +1,258 @@
+{
+  "slug": "seaduced-luxury-charters",
+  "name": "Seaduced Luxury Charters",
+  "website": "https://www.seaducedbarbados.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Private yacht charters",
+  "summary": "Seaduced runs private charters from its dock at the Shallow Draught in Bridgetown, on three catamarans and three powerboats. Each day is planned around your group: turtle swims, reef and wreck snorkelling, a quiet bay and a meal cooked on board by the chef. Children of any age are welcome.",
+  "standouts": [
+    "Fleet of six boats, from a 62ft Lagoon 620 catamaran to a 37ft powerboat",
+    "Chef prepares food fresh on board",
+    "Children allowed on all charters, no minimum age",
+    "Beach boarding possible from certain West Coast beaches"
+  ],
+  "contact": {
+    "phone": "+1 246 432 8387",
+    "email": "reservations@seaducedbarbados.com",
+    "address": "Shallow Draught, St Michael, Barbados",
+    "whatsapp": "https://wa.me/12462350672"
+  },
+  "heroImage": "https://cdn.prod.website-files.com/65f49e4cf3396f7a3370f755/65f86aafc68d74d52b7700e0_seaduced-boat-2-min.jpg",
+  "sourceUrls": [
+    "https://www.seaducedbarbados.com/",
+    "https://www.seaducedbarbados.com/our-fleet",
+    "https://www.seaducedbarbados.com/charters/seaduced-iii",
+    "https://www.seaducedbarbados.com/charters/seaduced-ii",
+    "https://www.seaducedbarbados.com/charters/seaduced-i",
+    "https://www.seaducedbarbados.com/charters/charlotte",
+    "https://www.seaducedbarbados.com/charters/seas-the-day",
+    "https://www.seaducedbarbados.com/charters/ecstasea",
+    "https://www.seaducedbarbados.com/charters/searenity",
+    "https://www.seaducedbarbados.com/bespoke-charters",
+    "https://www.seaducedbarbados.com/luxury-toys",
+    "https://www.seaducedbarbados.com/book",
+    "https://www.seaducedbarbados.com/contact",
+    "https://www.seaducedbarbados.com/gallery/charlotte"
+  ],
+  "trips": [
+    {
+      "title": "Seaduced III",
+      "kind": "charter",
+      "summary": "A private charter on a 62ft Lagoon 620 catamaran with a flybridge and wide decks, for up to 20 guests. You choose the plan with the captain, from turtle swims and snorkelling to a slow sail along the coast.",
+      "highlights": [
+        "62ft Lagoon 620 catamaran",
+        "Up to 20 guests",
+        "Flybridge and spacious decks",
+        "Cuisine by the chef and premium open bar at a per-person supplement"
+      ],
+      "duration": "4 hour minimum, extra hours available",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Shallow Draught, St Michael (beach collection from certain West Coast beaches)",
+      "prices": [
+        { "label": "Private charter up to 4 hours, per boat, tax inclusive", "amount": 4000, "currency": "USD", "note": "Excludes the per-person supplement for cuisine and open bar" },
+        { "label": "Private charter up to 4 hours, per boat, before VAT and direct tourism levy", "amount": 3555.55, "currency": "USD", "note": null },
+        { "label": "Additional hour, per boat, tax inclusive", "amount": 1000, "currency": "USD", "note": null }
+      ],
+      "priceFrom": null,
+      "includes": ["Towels", "Snorkels", "Masks", "Flippers (permitted in certain locations)", "Paddle boards"],
+      "bring": [],
+      "requirements": "No minimum age, children supervised by an adult of the charter party. No shoes on board.",
+      "offer": null,
+      "images": [
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/6711b00497e3621a53bcee89_seaduced-3-header.jpg",
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/69960e213ce91872322705b4_Seaduced%20III%20(5).jpeg",
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/69960e2147a09292337083b6_Seaduced%20III%20(3).jpeg",
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/69960e21c4745335bf7387b4_Seaduced%20III%20(1).jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.seaducedbarbados.com/charters/seaduced-iii",
+      "checkNotes": "Per-boat prices only, so priceFrom is null. Festive rate surcharge for charters booked 20 December to 6 January. 5 hour minimum for beach collection and drop off. 3 hour charters considered if starting at 4pm or later. Surcharge may apply for Port St Charles or Port Ferdinand boarding. Booking is by enquiry form, WhatsApp, phone or email."
+    },
+    {
+      "title": "Charlotte",
+      "kind": "charter",
+      "summary": "A private charter on an Italian-built Pardo 50 powerboat for up to 12 guests, with a captain and crew. Cruise the coast, snorkel with turtles and stop at a beach bar or restaurant.",
+      "highlights": [
+        "Pardo 50 luxury powerboat",
+        "Up to 12 guests",
+        "Swim platform lowers into the water",
+        "Restaurant and beach club stops can be added"
+      ],
+      "duration": "4 hour minimum, extra hours available",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Shallow Draught, St Michael",
+      "prices": [
+        { "label": "Private charter up to 4 hours, per boat, tax inclusive", "amount": 4000, "currency": "USD", "note": "Excludes the per-person supplement for catering and open bar" },
+        { "label": "Private charter up to 4 hours, per boat, before VAT and direct tourism levy", "amount": 3555.56, "currency": "USD", "note": null },
+        { "label": "Additional hour, per boat, tax inclusive", "amount": 500, "currency": "USD", "note": null }
+      ],
+      "priceFrom": null,
+      "includes": ["Towels", "Snorkels", "Masks", "Flippers (permitted in certain locations)"],
+      "bring": [],
+      "requirements": "No minimum age, children supervised by an adult of the charter party. No shoes on board.",
+      "offer": null,
+      "images": [
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/66057e99356941aabda1189d_seaduced-header-min.jpg",
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/660c306b1f21ae140baa9f45_fleet-seaduced-pardo-50-1-min.jpg",
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/660c3073e263a680a4834321_fleet-seaduced-pardo-50-6-min.jpg",
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/660c30795efed2d3711d7c15_fleet-seaduced-pardo-50-9-min.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.seaducedbarbados.com/charters/charlotte",
+      "checkNotes": "Conflict: the fleet page says \"$900 USD / Hr: 5 Hr Min\", the Charlotte page says $4,000.00 USD for up to 4 hours with a $500.00 USD additional hour and a 4-hour minimum. Used the Charlotte page. Per-boat prices only, so priceFrom is null. Festive rate surcharge for charters booked 20 December to 6 January."
+    },
+    {
+      "title": "Seaduced II",
+      "kind": "charter",
+      "summary": "A private charter on a 62ft Sunreef catamaran with seating for up to 20 in the teak cockpit, sun loungers on the flybridge and en-suite cabins. Swim, paddle board and snorkel from the wide transoms.",
+      "highlights": [
+        "62ft Sunreef catamaran",
+        "Up to 20 guests",
+        "Cabins with en-suite bathrooms",
+        "On-board Wi-Fi and music"
+      ],
+      "duration": "4 hour minimum, extra hours available",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Shallow Draught, St Michael (beach collection from certain West Coast beaches)",
+      "prices": [
+        { "label": "Private charter up to 4 hours, per boat, tax inclusive", "amount": 2800, "currency": "USD", "note": "Excludes the per-person supplement for cuisine and open bar" },
+        { "label": "Private charter up to 4 hours, per boat, before VAT and direct tourism levy", "amount": 2488.88, "currency": "USD", "note": null },
+        { "label": "Additional hour, per boat, tax inclusive", "amount": 700, "currency": "USD", "note": null }
+      ],
+      "priceFrom": null,
+      "includes": ["Towels", "Snorkels", "Masks", "Flippers (permitted in certain locations)", "Paddle boards"],
+      "bring": [],
+      "requirements": "No minimum age, children supervised by an adult of the charter party. No shoes on board.",
+      "offer": null,
+      "images": [
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/69b1979e8e6ee1dce37d01cb_DJI_0919.jpg",
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/69b1979ec4d9e8e2705d1129_BPR09265.jpg",
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/69b1979ea4089b731cbc4980_DJI_0898.jpg",
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/69b1979f03f6e4a6b7adcb81_BPR08797.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.seaducedbarbados.com/charters/seaduced-ii",
+      "checkNotes": "Per-boat prices only, so priceFrom is null. Festive rate surcharge for charters booked 20 December to 6 January. 5 hour minimum for beach collection and drop off. 3 hour charters considered if starting at 4pm or later."
+    },
+    {
+      "title": "Seaduced I",
+      "kind": "charter",
+      "summary": "A private charter on a 49ft catamaran for up to 16 guests, with an open-air cockpit for meals, trampolines to lie on and an aft swim platform. Paddle boards and snorkel gear are on board.",
+      "highlights": [
+        "49ft catamaran",
+        "Up to 16 guests",
+        "Aft swim platform for easy water access",
+        "Wi-Fi and music on board"
+      ],
+      "duration": "4 hour minimum, extra hours available",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Shallow Draught, St Michael (beach collection from certain West Coast beaches)",
+      "prices": [
+        { "label": "Private charter up to 4 hours, per boat, tax inclusive", "amount": 1860, "currency": "USD", "note": "Excludes the per-person supplement for cuisine and open bar" },
+        { "label": "Private charter up to 4 hours, per boat, before VAT and direct tourism levy", "amount": 1653.32, "currency": "USD", "note": null },
+        { "label": "Additional hour, per boat, tax inclusive", "amount": 465, "currency": "USD", "note": null }
+      ],
+      "priceFrom": null,
+      "includes": ["Towels", "Snorkels", "Masks", "Flippers (permitted in certain locations)", "Paddle boards"],
+      "bring": [],
+      "requirements": "No minimum age, children supervised by an adult of the charter party. No shoes on board.",
+      "offer": null,
+      "images": [
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/660c5733e5c8cb6de498c590_seaduced-i-header-2-min.jpg",
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/660c31b685b45d20590c4554_fleet-seaduced-i-1-min.jpg",
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/660c318eaa537601b89ad66f_fleet-seaduced-i-4-min.jpg",
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/69947de23ec5b05dd25ad1fc_SDCD-1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.seaducedbarbados.com/charters/seaduced-i",
+      "checkNotes": "Per-boat prices only, so priceFrom is null. Festive rate surcharge for charters booked 20 December to 6 January. 5 hour minimum for beach collection and drop off. 3 hour charters considered if starting at 4pm or later."
+    },
+    {
+      "title": "Seas the Day",
+      "kind": "charter",
+      "summary": "A private charter on a Pardo 38 power yacht for up to 10 guests, cruising the west coast and its bays. Eat light food on board or stop at a waterfront restaurant.",
+      "highlights": [
+        "Pardo 38 power yacht",
+        "Up to 10 guests",
+        "Light cuisine on board or a waterfront restaurant stop",
+        "West Coast bays"
+      ],
+      "duration": "4 hour minimum, extra hours available",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Shallow Draught, St Michael",
+      "prices": [
+        { "label": "Private charter up to 4 hours, per boat, tax inclusive", "amount": 2000, "currency": "USD", "note": "Excludes the per-person supplement for catering and open bar" },
+        { "label": "Private charter up to 4 hours, per boat, before VAT and direct tourism levy", "amount": 1777.76, "currency": "USD", "note": null },
+        { "label": "Additional hour, per boat, tax inclusive", "amount": 500, "currency": "USD", "note": null }
+      ],
+      "priceFrom": null,
+      "includes": ["Towels", "Snorkels", "Masks", "Flippers (permitted in certain locations)"],
+      "bring": [],
+      "requirements": "No minimum age, children supervised by an adult of the charter party. No shoes on board.",
+      "offer": null,
+      "images": [
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/660c5740a0409d9886ca2f4b_seas-the-day-header-min.jpg",
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/660c36f4c104e2641b3bd909_fleet-pardo-38-1-min.jpg",
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/660c36f4123b99c524931d65_fleet-pardo-38-2-min.jpg",
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/660c3054571848ff8f1c1b12_fleet-pardo-38-3-min.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.seaducedbarbados.com/charters/seas-the-day",
+      "checkNotes": "Per-boat prices only, so priceFrom is null. Festive rate surcharge for charters booked 20 December to 6 January."
+    },
+    {
+      "title": "Ecstasea",
+      "kind": "charter",
+      "summary": "A private charter on a 37ft, 700 horsepower boat for up to 8 guests, with a crew of two. Board at the marina, from a West Coast beach or from your beachfront villa, then snorkel, cruise and stop at a waterfront restaurant.",
+      "highlights": [
+        "37ft boat, up to 8 guests",
+        "Crew of two",
+        "Boarding from the private dock, a West Coast beach or a beachfront villa",
+        "700 horsepower"
+      ],
+      "duration": "4 hours, extra hours available",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Shallow Draught, St Michael, or a West Coast beach",
+      "prices": [
+        { "label": "Private charter up to 4 hours, per boat, tax inclusive", "amount": 1600, "currency": "USD", "note": "Excludes the per-person supplement for catering and open bar" },
+        { "label": "Private charter up to 4 hours, per boat, before VAT and direct tourism levy", "amount": 1422.2, "currency": "USD", "note": null },
+        { "label": "Additional hour, per boat, tax inclusive", "amount": 400, "currency": "USD", "note": null }
+      ],
+      "priceFrom": null,
+      "includes": ["Towels", "Snorkels", "Masks", "Flippers (permitted in certain locations)"],
+      "bring": [],
+      "requirements": "No minimum age, children supervised by an adult of the charter party. Beach boarding needs a high step up and can mean getting wet above the knees, not recommended for guests with mobility challenges, expectant mothers or infants.",
+      "offer": null,
+      "images": [
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/660c3698b5a77aaa618431a1_fleet-serenity-1-min.jpg",
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/660c3096aa537601b89a210f_fleet-serenity-2-min.jpg",
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/660c369846fdbb0b2662531a_fleet-serenity-3-min.jpg",
+        "https://cdn.prod.website-files.com/65fddf608b0f5f4e311c0054/660c3094a045d9d159438015_fleet-serenity-6-min.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.seaducedbarbados.com/charters/ecstasea",
+      "checkNotes": "The Ecstasea page text describes the boat as Searenity (\"Searenity 37\"), and its photos are named fleet-serenity. /charters/searenity now redirects to the fleet page, so this looks like a renamed boat; confirm the name with the operator. 3 hour charters considered if starting and ending at the marina. Per-boat prices only, so priceFrom is null. Festive rate surcharge for charters booked 20 December to 6 January."
+    }
+  ],
+  "offers": [
+    { "text": "Jet ski package added to a yacht charter, from USD $250", "conditions": "Special terms and conditions apply", "validUntil": null, "sourceUrl": "https://www.seaducedbarbados.com/luxury-toys" },
+    { "text": "Electric underwater scooter added to a yacht charter, USD $225", "conditions": "Battery lasts 1 to 2 hours depending on speed setting", "validUntil": null, "sourceUrl": "https://www.seaducedbarbados.com/luxury-toys" },
+    { "text": "Live entertainment and onboard massage can be added to a charter", "conditions": "Special terms and conditions apply, rates vary", "validUntil": null, "sourceUrl": "https://www.seaducedbarbados.com/bespoke-charters" }
+  ],
+  "checkNotes": "Enquiry only: the /book page is a HubSpot enquiry form with no booking widget; reservations then take a deposit by e-payment link or bank transfer. The contact page lists WhatsApp as +1 (246) 432 8387, but every wa.me link on the site goes to +1 246 235 0672; recorded the wa.me link. All prices are per boat, so no trip has a priceFrom. Jet ski packages are sold as a charter add-on (Jet ski tour). FAQ answers on the site still carry leftover placeholder text."
+}

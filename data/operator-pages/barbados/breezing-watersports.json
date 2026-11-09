@@ -1,0 +1,248 @@
+{
+  "slug": "breezing-watersports",
+  "name": "Breezing Watersports",
+  "website": "https://breezingwatersportsbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Holetown",
+  "category": "Snorkel tours and watersports",
+  "summary": "A family business on Holetown Beach led by Wayne Jones, who has worked on the water in Barbados for over 20 years, with his son Immanuel driving the boat. They run two hour snorkel trips on a glass bottom boat with a waterslide, and rent jet skis and clear kayaks from the beach. Bookings are made by WhatsApp or phone.",
+  "standouts": [
+    "Owner Wayne Jones has over 20 years working on the water in Barbados",
+    "6ft by 5ft glass bottom viewing window",
+    "Waterslide and upper deck on the boat",
+    "Clear kayaks for seeing below the surface"
+  ],
+  "contact": {
+    "phone": "+1 246 234 6391",
+    "email": null,
+    "address": "Holetown Beach, between Surfside Restaurant and Zaccios, Holetown, St. James (opposite Massy supermarket, behind the Holetown post office and police station)",
+    "whatsapp": "https://wa.me/12462552837"
+  },
+  "heroImage": "https://breezingwatersportsbarbados.com/wp-content/uploads/2025/12/Header-scaled.jpeg",
+  "sourceUrls": [
+    "https://breezingwatersportsbarbados.com/",
+    "https://breezingwatersportsbarbados.com/tour/breezing-glass-bottom-boat/",
+    "https://breezingwatersportsbarbados.com/tour/jet-ski-rental-holetown-beach-barbados/",
+    "https://breezingwatersportsbarbados.com/tour/kayak-rental-holetown-beach-barbados/",
+    "https://breezingwatersportsbarbados.com/about-us-breezing-watersports-barbados/",
+    "https://breezingwatersportsbarbados.com/getting-to-holewown-beach-barbados/"
+  ],
+  "trips": [
+    {
+      "title": "Snorkeling Tour",
+      "kind": "snorkel",
+      "summary": "A shared two hour snorkel trip on a glass bottom boat with two stops near Holetown. The first stop has sea turtles, tarpon and sometimes stingrays, and the second is a shipwreck surrounded by reef fish, with a short coastal cruise after if time allows. Suited to families and first time snorkelers.",
+      "highlights": [
+        "Two snorkel stops: turtles and tarpon, then a shipwreck and reef",
+        "6ft by 5ft glass bottom window",
+        "Waterslide and upper deck",
+        "Rum punch, soft drinks and water included"
+      ],
+      "duration": "2 Hour Tour",
+      "durationMinutes": 120,
+      "departureTimes": [
+        "10:20",
+        "12:20"
+      ],
+      "season": "Daily",
+      "departsFrom": "Holetown Beach, between Surfside and Zaccios",
+      "prices": [
+        {
+          "label": "Shared trip, per person",
+          "amount": 60,
+          "currency": "USD",
+          "note": "Up to 35 persons total"
+        },
+        {
+          "label": "Locals Special",
+          "amount": null,
+          "currency": "USD",
+          "note": "Barbados residents only, Barbados ID card required, pricing available on request"
+        }
+      ],
+      "priceFrom": 60,
+      "includes": [
+        "Snorkel masks",
+        "Life jackets",
+        "Glass bottom viewing",
+        "Waterslide and upper deck",
+        "Complimentary rum punch, Coke, Sprite and water",
+        "Limited hotel pickup (St. James)"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2017/07/IMG_20180603_144939_464.jpg",
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2017/07/IMG_20180603_163848_395.jpg",
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2019/01/boat.jpeg",
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2017/07/IMG_20180610_153755_003.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://breezingwatersportsbarbados.com/tour/breezing-glass-bottom-boat/",
+      "checkNotes": "Booking by WhatsApp or phone only. Price card says '2 Hour Tour'; the highlights section says '1½ to 2-hour'. Tours run daily 10:20 AM to 12:20 PM and 12:20 PM to 2:20 PM; other times on request. Hotel pickup is limited to select hotels near Holetown Beach, requested on WhatsApp. The page also links three chat.whatsapp.com group invites for 'Concierge & Partner Bookings'."
+    },
+    {
+      "title": "Private Charter",
+      "kind": "charter",
+      "summary": "The glass bottom boat snorkel trip for your own group, with the same two snorkel stops, waterslide and drinks. Charged per hour with a two hour minimum, for up to eight people.",
+      "highlights": [
+        "Private boat, up to 8 persons included",
+        "Minimum of 2 hours",
+        "Two snorkel stops",
+        "Glass bottom boat and waterslide"
+      ],
+      "duration": "2-hour minimum",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown Beach, between Surfside and Zaccios",
+      "prices": [
+        {
+          "label": "Private charter, per hour (whole boat)",
+          "amount": 300,
+          "currency": "USD",
+          "note": "2-hour minimum; up to 8 persons included; additional guests cost extra"
+        },
+        {
+          "label": "Locals Special",
+          "amount": null,
+          "currency": "USD",
+          "note": "Barbados residents only, Barbados ID card required, BYO drinks on private trips, pricing available on request"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "All snorkel gear",
+        "Glass bottom viewing",
+        "Waterslide and upper deck",
+        "Complimentary drinks",
+        "Limited hotel pickup"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2019/01/boat.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://breezingwatersportsbarbados.com/tour/breezing-glass-bottom-boat/",
+      "checkNotes": "Per-boat price, not per person, so priceFrom left null. Cost of additional guests over 8 not stated. Booking by WhatsApp or phone only."
+    },
+    {
+      "title": "Jet Ski Rental",
+      "kind": "other",
+      "summary": "A guided 30 minute jet ski ride along the coast near Holetown, with a safety briefing and life jackets. Each jet ski takes a driver and a passenger at no extra cost, and longer rides can be arranged.",
+      "highlights": [
+        "Daily from 9:00 AM",
+        "Seats up to 2 people, no extra cost for a passenger",
+        "Safety briefing and life jackets",
+        "Delivery to beaches near Holetown on request"
+      ],
+      "duration": "30 Minutes",
+      "durationMinutes": 30,
+      "departureTimes": [],
+      "season": "Daily",
+      "departsFrom": "Holetown Beach, between Surfside and Zaccios",
+      "prices": [
+        {
+          "label": "Jet Ski Ride, 30 minutes, per jet ski",
+          "amount": 100,
+          "currency": "USD",
+          "note": "Seats up to 2 people"
+        },
+        {
+          "label": "2 Jet Ski Rides, 30 minutes, for 2 jet skis",
+          "amount": 180,
+          "currency": "USD",
+          "note": "Seats up to 2 people per jet ski"
+        },
+        {
+          "label": "Locals Special, 15 minutes",
+          "amount": null,
+          "currency": "USD",
+          "note": "Pricing available on request"
+        }
+      ],
+      "priceFrom": 100,
+      "includes": [
+        "Life jackets",
+        "Safety briefing",
+        "Guided instructions"
+      ],
+      "bring": [],
+      "requirements": "Driver must be 16 years or older; passenger no age limit",
+      "offer": null,
+      "images": [
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2026/01/LyJWAaYA.jpeg",
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2026/01/20260311_095232.jpg",
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2026/01/20230618_133126-1-scaled-1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://breezingwatersportsbarbados.com/tour/jet-ski-rental-holetown-beach-barbados/",
+      "checkNotes": "Jet ski tour. Rides start from 9:00 AM daily rather than at set times. Prices are per jet ski, not per person. Booking by WhatsApp or phone only."
+    },
+    {
+      "title": "Clear Kayak Rental",
+      "kind": "kayak",
+      "summary": "Double seat clear kayaks for two people, launched from Holetown Beach, so you can see fish and coral below as you paddle close to shore. A short safety and paddling briefing is given first, and life jackets are included.",
+      "highlights": [
+        "Double-seat clear kayak for 2 persons",
+        "30 minute or 1 hour sessions",
+        "Safety briefing and life jackets",
+        "Suitable for all ages"
+      ],
+      "duration": "30 Minutes or 1 Hour",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown Beach",
+      "prices": [
+        {
+          "label": "30 Minutes, per kayak",
+          "amount": 25,
+          "currency": "USD",
+          "note": "Double-seat clear kayak (2 persons)"
+        },
+        {
+          "label": "1 Hour, per kayak",
+          "amount": 40,
+          "currency": "USD",
+          "note": "Double-seat clear kayak (2 persons)"
+        },
+        {
+          "label": "Locals Special",
+          "amount": null,
+          "currency": "USD",
+          "note": "Barbados residents only, Barbados ID required, pricing available on request"
+        }
+      ],
+      "priceFrom": 25,
+      "includes": [
+        "Life jackets",
+        "Basic paddling instructions",
+        "Safety briefing"
+      ],
+      "bring": [],
+      "requirements": "Suitable for all ages; children must be accompanied by an adult at all times",
+      "offer": null,
+      "images": [
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2026/01/WhatsApp-Image-2024-06-19-at-20.12.45_2724f214-1024x682-1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://breezingwatersportsbarbados.com/tour/kayak-rental-holetown-beach-barbados/",
+      "checkNotes": "Prices are per kayak, not per person. The kayak page repeats the jet ski line 'Jet ski rides run daily starting from 9:00 AM' and '30 minutes' in its intro, which looks copied from the jet ski page, so no start time recorded. Page calls it a 'guided kayaking experience' and also a rental. Booking by WhatsApp or phone only."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Locals Special: special rates for Barbados residents on snorkel trips, jet skis and kayaks",
+      "conditions": "Barbados residents only, Barbados ID required, pricing available on request",
+      "validUntil": null,
+      "sourceUrl": "https://breezingwatersportsbarbados.com/tour/breezing-glass-bottom-boat/"
+    }
+  ],
+  "checkNotes": "Trading: site has photos uploaded in 2026 (one file dated 20260311). Bookings 'handled primarily via WhatsApp'; the call button number (+1 246 234-6391) and the WhatsApp link number (wa.me/12462552837) are different. No email on the site. The about page spells the co-owner both 'Immanual' and 'Immanuel'; summary uses Immanuel. The home page testimonials could not be checked. The home page card for kayaks uses a stock photo (iStock)."
+}

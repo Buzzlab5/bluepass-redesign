@@ -1,0 +1,25 @@
+{
+  "slug": "salty-safaris",
+  "logo": "https://salty-safaris.com.au/wp-content/uploads/2026/09/Salty-Safaris-Logo-Bue-on-white.jpg",
+  "gallery": [
+    "https://whaleswimsafaris.com/wp-content/uploads/2026/09/Swim-with-Whales-2-1.jpg",
+    "https://whaleswimsafaris.com/wp-content/uploads/2026/09/Whale-swim-safaris-swim-with-whales-hervey-bay-2048x1042.png",
+    "https://whaleswimsafaris.com/wp-content/uploads/2026/09/swim-with-whales-hervey-bay-2.jpg",
+    "https://whaleswimsafaris.com/wp-content/uploads/2026/09/whale-swim-safaris-hervey-bay-scaled-1.jpeg",
+    "https://whaleswimsafaris.com/wp-content/uploads/2026/09/thomasin-whale-swim-safaris.jpeg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Whale Swim Safari",
+      "images": [
+        "https://whaleswimsafaris.com/wp-content/uploads/2026/09/Swim-with-Whales-2-1.jpg",
+        "https://whaleswimsafaris.com/wp-content/uploads/2026/09/Whale-swim-safaris-swim-with-whales-hervey-bay-2048x1042.png",
+        "https://whaleswimsafaris.com/wp-content/uploads/2026/09/swim-with-whales-hervey-bay-2.jpg",
+        "https://whaleswimsafaris.com/wp-content/uploads/2026/09/whale-swim-safaris-hervey-bay-scaled-1.jpeg",
+        "https://whaleswimsafaris.com/wp-content/uploads/2026/09/thomasin-whale-swim-safaris.jpeg"
+      ]
+    }
+  ],
+  "notes": "Only five distinct photos exist on the site (all hosted on whaleswimsafaris.com, the rebranded domain of this operator, which salty-safaris.com.au links to and shares its images with), so the gallery and the single trip use the same five. Images were NOT downloaded or viewed (HEAD requests only, to confirm each URL loads), so nobody has checked whether any carries printed text or a logo, or whether any belongs to someone else; the page shows no photo credits and no stock-library file names. Please look at them before publishing. The first photo (Swim-with-Whales-2-1.jpg, alt text 'Swim with Whales') is the wide shot at the foot of the home page; the second is the home page's hero cover image (2048 pixel wide copy of Whale-swim-safaris-swim-with-whales-hervey-bay, a PNG; the original and the '-scaled' PNG also load but are 6.7 and 5.8 MB), which is also the facts file heroImage. The two portrait photos and the 4:3 photo (file name thomasin-whale-swim-safaris, which appears to show one of the owners) are from the home and Why Hervey Bay pages. No heroImage is given here because the home page hero is already in the facts file and no better wide photo was found. The logo is the only logo on the site and it is a JPG on a white background (the site's own 1536 pixel copy also loads), not the SVG, PNG or WebP the schema prefers. Videos: none embedded on any page. The site's footer links youtube.com/saltysafaris, which returns a 404. One attempt at youtube.com/@saltysafaris loaded a channel that describes itself as a surf school in Dee Why, Sydney, so it is a different business: it was discarded and nothing was taken from it. No captcha or bot check was met on either site. Left out: the form spinner icon, resized thumbnails and the logo variants."
+}

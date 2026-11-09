@@ -1,0 +1,76 @@
+{
+  "slug": "dread-or-dead-surf-shop-and-surf-school",
+  "logo": "https://dreadordead.com/wp-content/uploads/2022/10/logo-big-dread.png",
+  "heroImage": "https://dreadordead.com/wp-content/uploads/2022/08/surftours1.jpg",
+  "gallery": [
+    "https://dreadordead.com/wp-content/uploads/2022/08/gal3.jpg",
+    "https://dreadordead.com/wp-content/uploads/2022/08/gal5.jpg",
+    "https://dreadordead.com/wp-content/uploads/2022/08/gal7.jpg",
+    "https://dreadordead.com/wp-content/uploads/2022/08/gal8.jpg",
+    "https://dreadordead.com/wp-content/uploads/2022/08/gal10.jpg",
+    "https://dreadordead.com/wp-content/uploads/2022/08/gal11.jpg",
+    "https://dreadordead.com/wp-content/uploads/2022/08/gal12.jpg",
+    "https://dreadordead.com/wp-content/uploads/2022/08/gal20.jpg",
+    "https://dreadordead.com/wp-content/uploads/2022/08/gal21.jpg",
+    "https://dreadordead.com/wp-content/uploads/2022/08/gal22.jpg",
+    "https://dreadordead.com/wp-content/uploads/2022/08/gal23.jpg",
+    "https://dreadordead.com/wp-content/uploads/2022/08/gal24.jpg",
+    "https://dreadordead.com/wp-content/uploads/2026/08/thumbnail-30.jpeg",
+    "https://dreadordead.com/wp-content/uploads/2026/05/thumbnail-29.jpeg",
+    "https://dreadordead.com/wp-content/uploads/2026/05/thumbnail-53.jpeg",
+    "https://dreadordead.com/wp-content/uploads/2022/08/dreadordeadbanner8.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Beginner Surf Lessons",
+      "images": [
+        "https://dreadordead.com/wp-content/uploads/2022/08/surf-schooldod.jpg",
+        "https://dreadordead.com/wp-content/uploads/2026/08/thumbnail-30.jpeg",
+        "https://dreadordead.com/wp-content/uploads/2026/05/thumbnail-53.jpeg",
+        "https://dreadordead.com/wp-content/uploads/2026/05/thumbnail-29.jpeg",
+        "https://dreadordead.com/wp-content/uploads/2026/05/thumbnail-21.jpeg",
+        "https://dreadordead.com/wp-content/uploads/2026/01/thumbnail-47.jpeg",
+        "https://dreadordead.com/wp-content/uploads/2025/11/thumbnail-79.jpeg",
+        "https://dreadordead.com/wp-content/uploads/2025/11/thumbnail-46.jpeg",
+        "https://dreadordead.com/wp-content/uploads/2022/08/gal5.jpg",
+        "https://dreadordead.com/wp-content/uploads/2022/08/dread-surf-school-final-replace.jpg"
+      ]
+    },
+    {
+      "title": "Private/Beginner/Intermediate Surf Lesson",
+      "images": [
+        "https://dreadordead.com/wp-content/uploads/2022/08/gal20.jpg",
+        "https://dreadordead.com/wp-content/uploads/2022/08/gal3.jpg",
+        "https://dreadordead.com/wp-content/uploads/2025/11/thumbnail-29.jpeg"
+      ]
+    },
+    {
+      "title": "Private/Advanced Surf Lessons",
+      "images": [
+        "https://dreadordead.com/wp-content/uploads/2022/08/gal21.jpg",
+        "https://dreadordead.com/wp-content/uploads/2022/08/gal22.jpg",
+        "https://dreadordead.com/wp-content/uploads/2025/11/thumbnail-24.jpeg"
+      ]
+    },
+    {
+      "title": "Surf Tours",
+      "images": [
+        "https://dreadordead.com/wp-content/uploads/2022/08/surftours1.jpg",
+        "https://dreadordead.com/wp-content/uploads/2022/08/surf-tours-page.jpg",
+        "https://dreadordead.com/wp-content/uploads/2022/08/surf-tours-up-800x600-1.jpg",
+        "https://dreadordead.com/wp-content/uploads/2022/08/TRIP-2.jpg"
+      ]
+    },
+    {
+      "title": "SUP Lessons and Tours",
+      "images": [
+        "https://dreadordead.com/wp-content/uploads/2022/08/standupppaddle-1.jpg",
+        "https://dreadordead.com/wp-content/uploads/2022/08/standupppaddle-2.jpg",
+        "https://dreadordead.com/wp-content/uploads/2022/08/standupppaddle-3.jpg",
+        "https://dreadordead.com/wp-content/uploads/2025/11/thumbnail-5.jpeg"
+      ]
+    }
+  ],
+  "notes": "WordPress site. Gallery originals taken from the Elementor thumbnails on the home page (gal*.jpg, all load). Recent photos (2025 and 2026) come from the operator's own blog posts, found through the site's media listing. No YouTube or Vimeo videos found on the pages read. Site-wide banner dreadordeadbanner8.jpg may carry text."
+}

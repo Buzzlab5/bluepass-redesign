@@ -1,0 +1,26 @@
+{
+  "slug": "charles-water-sports",
+  "logo": "https://watersportsbb.com/images/logo/logo_white.png",
+  "heroImage": "https://watersportsbb.com/images/main_bg.jpeg",
+  "gallery": [
+    "https://watersportsbb.com/images/gallery/1.jpg",
+    "https://watersportsbb.com/images/gallery/2.jpg",
+    "https://watersportsbb.com/images/gallery/3.jpg",
+    "https://watersportsbb.com/images/gallery/4.jpg",
+    "https://watersportsbb.com/images/gallery/5.jpg",
+    "https://watersportsbb.com/images/gallery/6.jpg",
+    "https://watersportsbb.com/images/gallery/7.jpg",
+    "https://watersportsbb.com/images/gallery/8.jpg",
+    "https://watersportsbb.com/images/gallery/9.jpg",
+    "https://watersportsbb.com/images/gallery/10.jpg",
+    "https://watersportsbb.com/images/gallery/11.jpg",
+    "https://watersportsbb.com/images/gallery/12.jpg",
+    "https://watersportsbb.com/images/gallery/13.jpg",
+    "https://watersportsbb.com/images/gallery/14.jpg",
+    "https://watersportsbb.com/images/gallery/15.jpg",
+    "https://watersportsbb.com/images/gallery/16.jpg"
+  ],
+  "videos": [],
+  "trips": [],
+  "notes": "Plain single page site, no bot check. The gallery slideshow has 30 photos (https://watersportsbb.com/images/gallery/1.jpg to 30.jpg); the first 16 are listed, and 17.jpg to 30.jpg follow the same pattern. Hero is the home section background set in css/custom.css (main_bg.jpeg). Logo is the white header logo; its alt text says 'Smart Media' (the web developer), so check it shows the operator's name. There is also a photo of Charles Pilgrim at https://watersportsbb.com/images/cp.png. Trips are only lines on the price list with no pages or photos of their own, so no trip photos. No videos on the site; two live Dover Beach webcams are linked on iwcpinc.com (not the operator's site, not used)."
+}

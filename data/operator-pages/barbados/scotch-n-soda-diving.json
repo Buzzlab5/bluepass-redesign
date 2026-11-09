@@ -1,0 +1,302 @@
+{
+  "slug": "scotch-n-soda-diving",
+  "name": "Scotch 'N' Soda Diving",
+  "website": "https://www.scotchnsodadiving.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Worthing",
+  "category": "Scuba diving and snorkelling",
+  "summary": "A family-run dive business on the south coast, working from Crystal Waters Beach Bar in Worthing since 1979. They take certified and first-time divers to reefs and wrecks such as Carlisle Bay Marine Park and the SS Stavronikita, and run snorkel trips, lionfish hunting dives and private charters. Payment is in cash on the day.",
+  "standouts": [
+    "Family owned and in operation since 1979",
+    "Describes itself as the oldest operating dive business in Barbados",
+    "Lionfish hunting dives to help remove an invasive species from the reefs",
+    "Private charters for up to 15 guests"
+  ],
+  "contact": {
+    "phone": "+1 246 236 1043",
+    "email": "Scotchnsodadiving@gmail.com",
+    "address": "Crystal Waters Beach Bar, Worthing, Christ Church, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/1b6932db-6a87-4b0f-ae18-49a62bd33022/Untitled.png",
+  "sourceUrls": [
+    "https://www.scotchnsodadiving.com/",
+    "https://www.scotchnsodadiving.com/services",
+    "https://www.scotchnsodadiving.com/snorkeling-trips",
+    "https://www.scotchnsodadiving.com/lionfish-hunting",
+    "https://www.scotchnsodadiving.com/private-charter",
+    "https://www.scotchnsodadiving.com/sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Certified Divers",
+      "kind": "dive",
+      "summary": "Boat dives for certified divers at south and west coast sites, from Carlisle Bay Marine Park to the wreck of the SS Stavronikita. Divers need to have dived within the last 12 months. Multi-dive packages bring the price per tank down.",
+      "highlights": [
+        "Open to Open Water, Advanced Open Water or any diver certified by a reputable agency",
+        "Dive sites include Carlisle Bay Marine Park, The Muff, Castle Bank, Mount Charlie and the SS Stavronikita",
+        "Packages from 1 to 10 tanks, priced in USD",
+        "Cash only, paid on the day of the dive"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Certified diver, 1 tank",
+          "amount": 75,
+          "currency": "USD",
+          "note": "Cash only, paid on the day of the dive"
+        },
+        {
+          "label": "Certified diver, 1 tank",
+          "amount": 150,
+          "currency": "BBD",
+          "note": "Cash only, paid on the day of the dive"
+        },
+        {
+          "label": "Dive package, 2 tanks",
+          "amount": 150,
+          "currency": "USD",
+          "note": "Certified divers only; packages cannot be shared by multiple divers"
+        },
+        {
+          "label": "Dive package, 3 tanks",
+          "amount": 225,
+          "currency": "USD",
+          "note": "Certified divers only; packages cannot be shared by multiple divers"
+        },
+        {
+          "label": "Dive package, 4 tanks",
+          "amount": 290,
+          "currency": "USD",
+          "note": "Certified divers only; packages cannot be shared by multiple divers"
+        },
+        {
+          "label": "Dive package, 5 tanks",
+          "amount": 340,
+          "currency": "USD",
+          "note": "Certified divers only; packages cannot be shared by multiple divers"
+        },
+        {
+          "label": "Dive package, 6 tanks",
+          "amount": 400,
+          "currency": "USD",
+          "note": "Certified divers only; packages cannot be shared by multiple divers"
+        },
+        {
+          "label": "Dive package, 7 tanks",
+          "amount": 465,
+          "currency": "USD",
+          "note": "Certified divers only; packages cannot be shared by multiple divers"
+        },
+        {
+          "label": "Dive package, 8 tanks",
+          "amount": 520,
+          "currency": "USD",
+          "note": "Certified divers only; packages cannot be shared by multiple divers"
+        },
+        {
+          "label": "Dive package, 9 tanks",
+          "amount": 585,
+          "currency": "USD",
+          "note": "Certified divers only; packages cannot be shared by multiple divers"
+        },
+        {
+          "label": "Dive package, 10 tanks",
+          "amount": 650,
+          "currency": "USD",
+          "note": "Anything above 10 dives is at the same rate as the 10 dive package"
+        }
+      ],
+      "priceFrom": 75,
+      "includes": [],
+      "bring": [],
+      "requirements": "Certified divers only; must have dived within the last 12 months",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/9253dfe9-4758-4355-a19d-53b64517bd28/Screenshot+2023-10-21+165958.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/14eda963-34b3-4354-9786-8009eca27f22/Screenshot+2023-10-21+172011.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/b40df642-10c0-43b9-8dda-adb0274e8367/Screenshot+2023-10-21+173231.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/3fbaf37b-48e5-44f4-91df-d1c861d3b1a8/Screenshot+2023-10-21+171811.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.scotchnsodadiving.com/services",
+      "checkNotes": "Package prices (2 to 10 tanks) are read from an image on the services page, not page text; the image shows 1 tank at $75 USD, matching the text price. Booking is by enquiry form, WhatsApp or phone; the form says submitting does not confirm a booking."
+    },
+    {
+      "title": "Non-Certified Divers",
+      "kind": "dive",
+      "summary": "A Discover Scuba Diving session for people who have never dived. It starts with basic skills training in calm conditions, then a supervised dive with a professional. All the gear is included.",
+      "highlights": [
+        "Basic training as a first step into diving",
+        "Close supervision by a professional",
+        "All gear included",
+        "Cash only, paid on the day of the dive"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Discover Scuba Diving, per person",
+          "amount": 100,
+          "currency": "USD",
+          "note": "Cash only, paid on the day of the dive"
+        },
+        {
+          "label": "Discover Scuba Diving, per person",
+          "amount": 200,
+          "currency": "BBD",
+          "note": "Cash only, paid on the day of the dive"
+        }
+      ],
+      "priceFrom": 100,
+      "includes": [
+        "Basic training",
+        "All gear required"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/c043853f-a1e4-4a1c-a02e-8838b6a25ae0/Screenshot+2023-10-21+165456.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/0bb3b5fc-639f-4b29-a118-74711b67874f/Screenshot+2023-10-21+165350.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.scotchnsodadiving.com/services",
+      "checkNotes": "Booking is by enquiry form, WhatsApp or phone."
+    },
+    {
+      "title": "Snorkeling Trips",
+      "kind": "snorkel",
+      "summary": "A morning snorkel trip that meets at 9am on the beach, with a wade out to the boat and a 30 minute ride along the south coast to Carlisle Bay Marine Park. Guests snorkel over shipwrecks among turtles and tropical fish. Gear and drinking water are provided.",
+      "highlights": [
+        "30 minute boat ride down the south coast to Carlisle Bay Marine Park",
+        "Snorkelling over shipwrecks, with turtles and tropical fish",
+        "Bags kept dry on the wade out to the boat",
+        "Cash only, paid on the day of the trip"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [
+        "09:00"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per snorkeler",
+          "amount": 40,
+          "currency": "USD",
+          "note": "Cash only, paid on the day of the trip"
+        },
+        {
+          "label": "Per snorkeler",
+          "amount": 80,
+          "currency": "BBD",
+          "note": "Cash only, paid on the day of the trip"
+        }
+      ],
+      "priceFrom": 40,
+      "includes": [
+        "Mask and snorkel",
+        "Fins (if requested/available)",
+        "Drinking water on board"
+      ],
+      "bring": [],
+      "requirements": "Minimum of 4 snorkelers on the day; guests wade out in waist-high water to the boat",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/a1fc04ba-eac5-4d20-af86-7c2cd0f16099/Screenshot+2023-10-21+170530.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/818bb73f-2980-482a-9d56-3f6c8a491606/Screenshot+2023-10-21+164528.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.scotchnsodadiving.com/snorkeling-trips",
+      "checkNotes": "Meeting point given only as 'the beach where our boat is moored'; the business address is Crystal Waters Beach Bar, Worthing, so departsFrom left null. Trip length not stated. Booking is by enquiry form, WhatsApp or phone."
+    },
+    {
+      "title": "Lionfish Hunting",
+      "kind": "dive",
+      "summary": "A dive for certified divers that targets lionfish, an invasive species with no natural predators on Caribbean reefs. Divers get a polespear and a safety briefing on handling the fish, and the crew can clean larger catches for divers to take home.",
+      "highlights": [
+        "Helps remove an invasive species from local reefs",
+        "Polespear and all scuba equipment provided",
+        "Safety briefing for first-time lionfish hunters",
+        "Crew will process larger fish for you to take home"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per diver",
+          "amount": 75,
+          "currency": "USD",
+          "note": "Cash only, paid on the day of the dive"
+        },
+        {
+          "label": "Per diver",
+          "amount": 150,
+          "currency": "BBD",
+          "note": "Cash only, paid on the day of the dive"
+        }
+      ],
+      "priceFrom": 75,
+      "includes": [
+        "All scuba equipment",
+        "Polespear",
+        "Crew member carrying a lionfish keeper for the catch",
+        "Safety briefing"
+      ],
+      "bring": [],
+      "requirements": "Certified divers only",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/57edfdbe-5456-46f5-9e19-2a0e0a8dc5cd/Screenshot+2023-10-21+171834.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/4471d1a1-cb66-4614-b3d9-12af3dfcb754/Screenshot+2023-10-21+165514.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/bf6afd0d-aa58-4969-87cf-11b511a9a723/Screenshot+2023-10-21+171507.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.scotchnsodadiving.com/lionfish-hunting",
+      "checkNotes": "Booking is by enquiry form, WhatsApp or phone."
+    },
+    {
+      "title": "Private Charter",
+      "kind": "charter",
+      "summary": "Half-day and full-day private charters planned around the group, whether that is snorkelling, scuba diving, swimming or time on the water with friends. The boat takes up to 15 guests.",
+      "highlights": [
+        "Half day and full day charters on request",
+        "Snorkel, dive, swim or relax, tailored to the group",
+        "Maximum 15 guests"
+      ],
+      "duration": "Half day or full day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/abc01e64-e6ac-4ef5-b333-74ef2ea9f26c/Screenshot+2023-10-21+171753.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.scotchnsodadiving.com/private-charter",
+      "checkNotes": "No price shown; quoted on request through the enquiry form."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "No online booking: every page has an enquiry form that does not confirm a booking, and the site lists +1(246) 236-1043 for WhatsApp or calls but gives no wa.me link. Prices are shown in both USD and BBD and are cash only on the day. Site looks current: the dive package price image is named with a March 2026 date."
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "spirit-of-hervey-bay",
+  "name": "Spirit of Hervey Bay",
+  "website": "https://spiritofherveybay.com",
+  "rezdyAlias": null,
+  "state": "QLD",
+  "town": null,
+  "category": null,
+  "summary": null,
+  "standouts": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "address": null
+  },
+  "heroImage": null,
+  "sourceUrls": [],
+  "trips": [],
+  "offers": [],
+  "checkNotes": "BLOCKED, nothing read from the operator's site. The first and only request, https://spiritofherveybay.com/ with curl's default user agent, returned HTTP 202 with the header 'sg-captcha: challenge' and a redirect to /.well-known/sgcaptcha/ (a SiteGround captcha). Per the rules, no further pages were requested and no workaround was tried, so there are no trips, prices, booking links, contact details, town, category or summary. State (QLD) and name come from the Bluepass list, not the site. The list describes the business as large-vessel whale watching with underwater viewing rooms; that is unverified and was not used as a fact. The site needs a person to open it in a normal browser and read the trips, or the operator needs to be asked to allow the request. rezdyAlias is null because no booking links were seen."
+}

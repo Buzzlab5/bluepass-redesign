@@ -1,0 +1,31 @@
+{
+  "slug": "rise-up-surf-retreats",
+  "name": "Rise Up Surf Retreats",
+  "website": "https://www.riseupsurf.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": null,
+  "category": "Surf and yoga retreats",
+  "summary": "Rise Up Surf Retreats runs week-long, all-inclusive surf and yoga retreats, currently in Nicaragua and Costa Rica. Its Barbados retreat, at a seven bedroom villa on the Platinum Coast, still has a page on the site but no dates, and it is not on the booking page.",
+  "standouts": [],
+  "contact": {
+    "phone": "+505 7755 4256",
+    "email": "hello@riseupsurf.com",
+    "address": null,
+    "whatsapp": "https://api.whatsapp.com/send/?phone=50577554256&text=Hello%2C+I+would+like+to+ask+about...&type=phone_number&app_absent=0"
+  },
+  "heroImage": null,
+  "sourceUrls": [
+    "https://www.riseupsurf.com/",
+    "https://www.riseupsurf.com/sitemap_index.xml",
+    "https://www.riseupsurf.com/surf-yoga-retreats-sitemap.xml",
+    "https://www.riseupsurf.com/page-sitemap.xml",
+    "https://www.riseupsurf.com/surf-yoga-retreats/barbados/",
+    "https://www.riseupsurf.com/book/",
+    "https://www.riseupsurf.com/all-retreats/"
+  ],
+  "trips": [],
+  "offers": [],
+  "checkNotes": "Looks closed: the Barbados retreat appears to be no longer offered, though the company itself is trading (journal posts dated October 2026, retreats booked into 2027 in Nicaragua and Costa Rica). Evidence: the site menu lists only Costa Rica, Nicaragua and a speciality retreat; the home page and booking page describe retreats in Central America only; the booking page (https://www.riseupsurf.com/book/) lists dates for every other retreat and none for Barbados; the Barbados page's Availability block shows 'BarBados 2026' with no dates. The Barbados page is still live and reachable from /all-retreats/. For a fact-checker, that page says: founder Phil was born in Barbados; villa on the Platinum Coast with 7 en-suite bedrooms, pool and private access to Sandy Lane beach; maximum 8 guests; 2:1 guest to coach ratio; 6 days of surf coaching and video analysis or theory; all surf equipment except rash guards; four meals daily; round-trip airport transport at set times; daily yoga, breath work and mobility; two ice baths a week; catamaran cruise, beach horse riding and sunset glass bottom boat trip; retreats run Saturday to Saturday; Double Room $4750, all prices per person in USD. The site's catamaran description mentions swimming with sea turtles (not feeding). Booking on the site goes through a WeTravel widget for the other retreats. The phone number is a Nicaraguan (+505) number. No media file written, per the brief for closed listings."
+}

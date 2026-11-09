@@ -1,0 +1,491 @@
+{
+  "slug": "salt-sea-scuba",
+  "name": "Salt & Sea Scuba",
+  "website": "https://saltandseascubabarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Holetown",
+  "category": "Scuba, snorkel and charters",
+  "summary": "A small PADI dive shop at Mango Bay Hotel, steps from Holetown Beach, run by owner and PADI Master Scuba Diver Trainer Karina. They take no more than five divers at a time on their boat Thalassa, and also run snorkel trips, private charters and kids' holiday camps. Trip times are set around each booking.",
+  "standouts": [
+    "Describes itself as the first female-owned dive shop on the island",
+    "No more than five divers per session",
+    "Owner is a PADI Master Scuba Diver Trainer",
+    "Based at Mango Bay Hotel on Holetown Beach"
+  ],
+  "contact": {
+    "phone": "+1 246 844 2244",
+    "email": "info@saltandseascubabarbados.com",
+    "address": "Mango Bay Hotel, Holetown, Saint James, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://img1.wsimg.com/isteam/ip/a67ee093-657d-4152-888e-de2849199458/IMG_6886_VSCO.JPG",
+  "sourceUrls": [
+    "https://saltandseascubabarbados.com/",
+    "https://saltandseascubabarbados.com/diving-1",
+    "https://saltandseascubabarbados.com/courses-1",
+    "https://saltandseascubabarbados.com/cruising-1",
+    "https://saltandseascubabarbados.com/snorkeling-1",
+    "https://saltandseascubabarbados.com/camps-1",
+    "https://saltandseascubabarbados.com/contact-1",
+    "https://saltandseascubabarbados.com/faqs-1"
+  ],
+  "trips": [
+    {
+      "title": "Dives & Dive Packages",
+      "kind": "dive",
+      "summary": "Guided boat dives off the west coast for certified divers, sold as a single dive or packages of two to ten. Groups are kept to five divers, each led by a dive professional with a computer.",
+      "highlights": [
+        "No more than 5 divers at a time",
+        "Packages from 2 to 10 dives",
+        "Every dive led by a dive professional with a computer",
+        "Dive computer rental available"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Mango Bay Hotel, Holetown",
+      "prices": [
+        { "label": "Single Tank Dive", "amount": 100, "currency": "USD", "note": null },
+        { "label": "Two Dive Package", "amount": 185, "currency": "USD", "note": null },
+        { "label": "Three Dive Package", "amount": 260, "currency": "USD", "note": null },
+        { "label": "Four Dive Package", "amount": 330, "currency": "USD", "note": null },
+        { "label": "Five Dive Package", "amount": 385, "currency": "USD", "note": null },
+        { "label": "Six Dive Package", "amount": 445, "currency": "USD", "note": null },
+        { "label": "Eight Dive Package", "amount": 580, "currency": "USD", "note": null },
+        { "label": "Ten Dive Package", "amount": 700, "currency": "USD", "note": null },
+        { "label": "Dive computer rental", "amount": 10, "currency": "USD", "note": "Per day, first come first served" }
+      ],
+      "priceFrom": 100,
+      "includes": [],
+      "bring": [],
+      "requirements": "Certified divers only; proof of certification required. PADI diver medical form for all divers, with a doctor's clearance if you answer yes to any condition.",
+      "offer": null,
+      "images": [
+        "https://img1.wsimg.com/isteam/ip/a67ee093-657d-4152-888e-de2849199458/blob-b2a1ba3.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://saltandseascubabarbados.com/diving-1",
+      "checkNotes": "Book by email or WhatsApp; payment on arrival. Excursion times are set per booking. Dive computer rental is from the FAQ page."
+    },
+    {
+      "title": "Night Dive",
+      "kind": "dive",
+      "summary": "A guided night dive for certified divers. It needs at least four divers and is booked separately from the dive packages.",
+      "highlights": ["Minimum of 4 divers", "Not part of dive packages"],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Mango Bay Hotel, Holetown",
+      "prices": [
+        { "label": "Night Dive", "amount": 135, "currency": "USD", "note": "Minimum of 4 divers required" }
+      ],
+      "priceFrom": 135,
+      "includes": [],
+      "bring": [],
+      "requirements": "Certified divers only; minimum of 4 divers",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://saltandseascubabarbados.com/diving-1",
+      "checkNotes": null
+    },
+    {
+      "title": "Discover Scuba Dive",
+      "kind": "dive",
+      "summary": "A first try at scuba for beginners. You learn the basics and practise in shallow water, then take a short boat ride to dive among sunken shipwrecks and reef fish. It is not a certification, but it can count toward Open Water.",
+      "highlights": [
+        "Practice in shallow water first",
+        "One open water dive on shipwrecks",
+        "Can count toward PADI Open Water"
+      ],
+      "duration": "2-3 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Mango Bay Hotel, Holetown",
+      "prices": [
+        { "label": "Discover Scuba Dive", "amount": 155, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 155,
+      "includes": ["Equipment rental", "Lesson", "1 open water dive"],
+      "bring": [],
+      "requirements": "Minimum age 10",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://saltandseascubabarbados.com/courses-1",
+      "checkNotes": null
+    },
+    {
+      "title": "Bubblemaker",
+      "kind": "course",
+      "summary": "A first scuba experience for children aged 8 and up, with a PADI professional. Kids breathe underwater and explore shallow water no deeper than 2 metres.",
+      "highlights": [
+        "Ages 8 and up",
+        "One dive to a maximum of 2 metres / 6 feet",
+        "Led by a PADI Pro"
+      ],
+      "duration": "1-2 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Mango Bay Hotel, Holetown",
+      "prices": [
+        { "label": "Bubblemaker", "amount": 90, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 90,
+      "includes": ["Equipment rental", "Lesson", "1 dive up to 2 meters / 6 feet"],
+      "bring": [],
+      "requirements": "Minimum age 8",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://saltandseascubabarbados.com/courses-1",
+      "checkNotes": null
+    },
+    {
+      "title": "Open Water Diver",
+      "kind": "course",
+      "summary": "The first PADI certification, taught by a PADI instructor over about three days. The theory is done by eLearning, then confined water training and four open water dives. You finish certified to dive to 18 metres.",
+      "highlights": [
+        "About 3 days",
+        "Four open water training dives",
+        "Certifies you to 18 metres / 60 feet",
+        "eLearning materials included"
+      ],
+      "duration": "approx. 3 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Mango Bay Hotel, Holetown",
+      "prices": [
+        { "label": "Open Water Diver", "amount": 615, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 615,
+      "includes": [
+        "e-learning course materials (required)",
+        "Equipment rental",
+        "All confined training dives",
+        "4 open water training dives"
+      ],
+      "bring": [],
+      "requirements": "Minimum age 10",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://saltandseascubabarbados.com/courses-1",
+      "checkNotes": null
+    },
+    {
+      "title": "Open Water Referral",
+      "kind": "course",
+      "summary": "For students who have done their theory and pool training with another PADI dive centre at home. You finish the four open water training dives over two days in Barbados.",
+      "highlights": [
+        "2 days",
+        "Four open water training dives",
+        "Theory and pool work done with a PADI centre at home within the past 12 months"
+      ],
+      "duration": "2 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Mango Bay Hotel, Holetown",
+      "prices": [
+        { "label": "Open Water Referral", "amount": 400, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 400,
+      "includes": ["Equipment rental", "4 open water training dives"],
+      "bring": [],
+      "requirements": "Minimum age 10; dive theory and confined water training completed with another PADI dive center within the past 12 months",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://saltandseascubabarbados.com/courses-1",
+      "checkNotes": "Currency not stated, shown as $ ($400.00). Every other price on the page is marked USD."
+    },
+    {
+      "title": "Advanced Open Water Diver",
+      "kind": "course",
+      "summary": "Five dives that build on Open Water: navigation, a deep dive and three specialty dives you choose. It runs over two to three days.",
+      "highlights": [
+        "5 open water dives",
+        "Navigation and deep dive, plus three of your choice",
+        "2 to 3 days"
+      ],
+      "duration": "2-3 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Mango Bay Hotel, Holetown",
+      "prices": [
+        { "label": "Advanced Open Water Diver", "amount": 550, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 550,
+      "includes": [
+        "e-learning course materials (required)",
+        "Equipment rental",
+        "5 open water dives"
+      ],
+      "bring": [],
+      "requirements": "Minimum age 12",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://saltandseascubabarbados.com/courses-1",
+      "checkNotes": null
+    },
+    {
+      "title": "Rescue Diver",
+      "kind": "course",
+      "summary": "Rescue exercises and scenarios that teach you to spot and handle problems before they grow, and to help other divers. Two days in the water plus a day of Emergency First Response, which you can skip if you already hold a valid PADI-approved CPR and first aid card.",
+      "highlights": [
+        "2 days of in-water training",
+        "1 day Emergency First Response certification",
+        "Lower price if you already hold EFR or equivalent"
+      ],
+      "duration": "2-3 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Mango Bay Hotel, Holetown",
+      "prices": [
+        { "label": "Inclusive of Emergency First Response (EFR) certification", "amount": 745, "currency": "USD", "note": null },
+        { "label": "Non-inclusive of EFR certification", "amount": 580, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 580,
+      "includes": [
+        "e-learning course material (required)",
+        "2 days of in-water training",
+        "1 day Emergency First Response certification"
+      ],
+      "bring": [],
+      "requirements": "Minimum age 12",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://saltandseascubabarbados.com/courses-1",
+      "checkNotes": null
+    },
+    {
+      "title": "Emergency First Response",
+      "kind": "course",
+      "summary": "A one-day first aid and CPR course for lay rescuers, on its own or as part of Rescue Diver.",
+      "highlights": ["1 day", "eLearning plus in-person instruction"],
+      "duration": "1 day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Mango Bay Hotel, Holetown",
+      "prices": [
+        { "label": "Emergency First Response", "amount": 165, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 165,
+      "includes": ["e-learning materials", "In-person instruction"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://saltandseascubabarbados.com/courses-1",
+      "checkNotes": null
+    },
+    {
+      "title": "ReActivate",
+      "kind": "course",
+      "summary": "A refresher for certified divers who have not dived for more than two years. It combines eLearning, a confined water lesson and one open water dive.",
+      "highlights": [
+        "For divers out of the water for 2 years or more",
+        "Confined water lesson",
+        "1 open water dive"
+      ],
+      "duration": "2-3 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Mango Bay Hotel, Holetown",
+      "prices": [
+        { "label": "ReActivate", "amount": 210, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 210,
+      "includes": [
+        "e-learning materials",
+        "Equipment rental",
+        "Confined water lesson",
+        "1 open water dive"
+      ],
+      "bring": [],
+      "requirements": "Minimum age 10",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://saltandseascubabarbados.com/courses-1",
+      "checkNotes": null
+    },
+    {
+      "title": "PADI Specialty Courses",
+      "kind": "course",
+      "summary": "PADI specialties for certified divers: Deep, Wreck, Night, Drift, Boat, Peak Performance Buoyancy and Dive Against Debris. Each includes eLearning materials, equipment rental and its open water dives.",
+      "highlights": [
+        "Deep Diver and Wreck Diver: 2 days, 4 dives",
+        "Night Diver: 2 to 3 evenings, 3 dives",
+        "Dive Against Debris: remove and record marine debris",
+        "eLearning and equipment rental included"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Mango Bay Hotel, Holetown",
+      "prices": [
+        { "label": "Deep Diver", "amount": 450, "currency": "USD", "note": "Min. age 15; prerequisite Adventure Diver; 2 days; 4 open water dives" },
+        { "label": "Wreck Diver", "amount": 450, "currency": "USD", "note": "Min. age 15; prerequisite Adventure Diver; 2 days; 4 open water dives" },
+        { "label": "Night Diver", "amount": 400, "currency": "USD", "note": "Min. age 12; prerequisite Open Water Diver; 2 to 3 evenings; 3 open water dives" },
+        { "label": "Drift Diver", "amount": 300, "currency": "USD", "note": "Min. age 12; prerequisite Open Water Diver; 1 day; 2 open water dives" },
+        { "label": "Boat Diver", "amount": 300, "currency": "USD", "note": "Min. age 10; prerequisite Open Water Diver; 1 day; 2 open water dives" },
+        { "label": "Peak Performance Buoyancy", "amount": 275, "currency": "USD", "note": "Min. age 10; prerequisite Open Water Diver; half day; 2 open water dives" },
+        { "label": "Dive Against Debris", "amount": 250, "currency": "USD", "note": "Min. age 10; prerequisite Open Water Diver; 1 day; 1 open water dive" }
+      ],
+      "priceFrom": 250,
+      "includes": ["e-learning materials", "Equipment rental", "Open water dives for the course"],
+      "bring": [],
+      "requirements": "Open Water Diver or Adventure Diver, depending on the course",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://saltandseascubabarbados.com/courses-1",
+      "checkNotes": "Grouped under the page's PADI Specialty Courses heading; each course has its own price, age and prerequisite in the notes."
+    },
+    {
+      "title": "1 Hour Snorkel",
+      "kind": "snorkel",
+      "summary": "An easy one-hour snorkel in calm west coast water. You snorkel the shallow sunken wrecks near Folkestone, then stop again to swim where turtles, rays and tarpons are often seen.",
+      "highlights": [
+        "Shallow wrecks near Folkestone",
+        "Second stop with turtles, rays and tarpons",
+        "10 to 15 minute boat ride"
+      ],
+      "duration": "1 hour (+10-15 mins boat ride)",
+      "durationMinutes": 60,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Mango Bay Hotel, Holetown",
+      "prices": [
+        { "label": "1 Hour Snorkel", "amount": 50, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 50,
+      "includes": ["Snorkel gear", "Light refreshment"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://img1.wsimg.com/isteam/ip/a67ee093-657d-4152-888e-de2849199458/blob-4886271.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://saltandseascubabarbados.com/snorkeling-1",
+      "checkNotes": "The site notes that wildlife sightings are not guaranteed and sites depend on the weather."
+    },
+    {
+      "title": "Cruise & Snorkel",
+      "kind": "snorkel",
+      "summary": "A longer trip that mixes snorkelling with time cruising the coast. You can snorkel the Folkestone wrecks and swim with turtles and rays, then cruise north up the west coast, or head south to Carlisle Bay and its six shipwrecks.",
+      "highlights": [
+        "Choice of Folkestone and a west coast cruise, or Carlisle Bay",
+        "Carlisle Bay has 6 shipwrecks",
+        "Optional dive, Discover Scuba, graze boxes or alcohol"
+      ],
+      "duration": "2 hours, 45 minutes",
+      "durationMinutes": 165,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Mango Bay Hotel, Holetown",
+      "prices": [
+        { "label": "Cruise & Snorkel", "amount": 145, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 145,
+      "includes": ["Snorkel gear", "Light refreshments"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://img1.wsimg.com/isteam/ip/a67ee093-657d-4152-888e-de2849199458/blob-4886271.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://saltandseascubabarbados.com/snorkeling-1",
+      "checkNotes": "Snorkel site and cruise direction depend on the weather on the day. The page does not say whether the price is per person."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "Your own trip on the boat Thalassa along the west coast, with snorkel and beach stops and light snacks included. You can add a certified dive or Discover Scuba, alcohol, or charcuterie graze boxes ordered 48 hours ahead.",
+      "highlights": [
+        "Minimum of 2 hours",
+        "Snorkel and beach stops",
+        "Add a dive or Discover Scuba",
+        "Graze boxes with 48 hours notice"
+      ],
+      "duration": "Minimum of 2 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Mango Bay Hotel, Holetown",
+      "prices": [
+        { "label": "Private charter, per hour", "amount": 235, "currency": "USD", "note": "Minimum of 2 hours" },
+        { "label": "Classic Charcuterie box (add-on)", "amount": 50, "currency": "USD", "note": "Per box, serves 1-2 people" },
+        { "label": "Classic Vegetarian box (add-on)", "amount": 50, "currency": "USD", "note": "Per box, serves 1-2 people" },
+        { "label": "Crudités Box (add-on)", "amount": 40, "currency": "USD", "note": "Per box, serves 1-2 people" },
+        { "label": "The Sandwich Box (add-on)", "amount": 38, "currency": "USD", "note": "Serves 1" }
+      ],
+      "priceFrom": 235,
+      "includes": [
+        "Snorkel gear",
+        "Snorkel and/or beach stops",
+        "Snacks and light refreshments"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://saltandseascubabarbados.com/cruising-1",
+      "checkNotes": "The charter price is per hour for the boat, not per person. Graze boxes are made by Mezza Barbados (FAQ page)."
+    },
+    {
+      "title": "Holiday Camps",
+      "kind": "other",
+      "summary": "Week-long holiday day camps for children aged 8 to 14, run from Mango Bay Hotel. Activities include snorkelling, an introduction to scuba and freediving, STEM activities, ocean conservation and a Friday beach picnic.",
+      "highlights": [
+        "Ages 8 to 14, must be able to swim",
+        "9 am to 2 pm",
+        "Snorkeling, intro to scuba and intro to freediving",
+        "Snacks and water provided; picnic lunch on Fridays"
+      ],
+      "duration": "One week, 9 a.m - 2:00 p.m",
+      "durationMinutes": null,
+      "departureTimes": ["09:00"],
+      "season": null,
+      "departsFrom": "Mango Bay Hotel, St. James",
+      "prices": [
+        { "label": "Per child, per week", "amount": 450, "currency": "BBD", "note": "Sibling discount for siblings enrolled in the same week" }
+      ],
+      "priceFrom": 450,
+      "includes": ["Snacks and water through the day", "Picnic lunch on Fridays"],
+      "bring": ["Packed lunch or lunch money (except Fridays)"],
+      "requirements": "Ages 8 to 14; kids must be able to swim; a parent or guardian must come on the first day to pay in full and sign up",
+      "offer": {
+        "text": "Sibling discount",
+        "conditions": "For siblings enrolled in the same week",
+        "validUntil": null
+      },
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://saltandseascubabarbados.com/camps-1",
+      "checkNotes": "The Dates section on the page is empty, so no camp dates are known. Payment by cash, cheque or bank transfer, in full on the first day, non-refundable. The page states the sibling discount as a percentage; left out here. Aimed at local families more than visitors."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Enquiry only: the site asks guests to book by email or WhatsApp (no wa.me link shown, so the WhatsApp number is not confirmed; the listed phone is +1 246 844 2244). Payment on arrival, cash (US or Barbados currency) or card. Cancellations within 72 hours are non-refundable. Opening hours: Monday closed, Tuesday 10 am to 4 pm, Wednesday to Saturday 9 am to 3 pm, Sunday by appointment; closed 18 September to 3 October for maintenance and on some holidays. Excursion times are set per booking, so no fixed departure times. The home page hero and most course images are GoDaddy stock photos, so the hero here is the operator's own boat photo. Copyright 2026, trading."
+}

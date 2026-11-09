@@ -1,0 +1,233 @@
+{
+  "slug": "sea-sydney-harbour",
+  "logo": "https://seasydneyharbour.com.au/assets/images/SSH-logo.png",
+  "gallery": [
+    "https://seasydneyharbour.com.au/assets/images/gallery/fleetwingII/fleetwing1.jpg",
+    "https://seasydneyharbour.com.au/assets/images/gallery/heaven/heaven1.jpg",
+    "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee11.jpg",
+    "https://seasydneyharbour.com.au/assets/images/gallery/enigmax/enigmax1a.jpg",
+    "https://seasydneyharbour.com.au/assets/images/gallery/seawind1000/seawind10001.jpg",
+    "https://seasydneyharbour.com.au/assets/images/gallery/seawind1160/seawind11601.jpg",
+    "https://seasydneyharbour.com.au/assets/images/gallery/sunsetcruise/SunsetSparkle1.jpeg",
+    "https://seasydneyharbour.com.au/assets/images/gallery/golden-glow/GoldenGlow2.jpeg",
+    "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid17.jpg",
+    "https://seasydneyharbour.com.au/assets/images/gallery/nye/nye9.jpg",
+    "https://seasydneyharbour.com.au/assets/images/gallery/dogs-on-deck/DogsonDeck1.jpeg",
+    "https://seasydneyharbour.com.au/assets/images/gallery/birthdays/birthday9.jpg",
+    "https://seasydneyharbour.com.au/assets/images/gallery/weddings/wedding3.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=5E5np4MK1XI",
+      "title": "Fleetwing II vessel video",
+      "sourceUrl": "https://seasydneyharbour.com.au/fleetwing-ii.html"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8Kdoa0K2qLI",
+      "title": "Kirralee vessel video",
+      "sourceUrl": "https://seasydneyharbour.com.au/kirralee.html"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wLiliMLQiCY",
+      "title": "Sunset & Sparkle cruise reel",
+      "sourceUrl": "https://seasydneyharbour.com.au/sunset-sparkle.html"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bFfSr-6CswU",
+      "title": "Golden Glow sunset cruise reel",
+      "sourceUrl": "https://seasydneyharbour.com.au/golden-glow.html"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=B0_x8X6EaaE",
+      "title": "Dogs on Deck cruise reel",
+      "sourceUrl": "https://seasydneyharbour.com.au/dogs-on-deck.html"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zVxs2atgsCA",
+      "title": "Nevaeh vessel video",
+      "sourceUrl": "https://www.youtube.com/channel/UC38KnE47hbDbMQfjsOGSxew/videos"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Sunset & Sparkle Harbour Cruise",
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/sunsetcruise/SunsetSparkle1.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/sunsetcruise/SunsetSparkle2.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/sunsetcruise/SunsetSparkle3.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/sunsetcruise/SunsetSparkle4.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/sunsetcruise/SunsetSparkle5.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/sunsetcruise/SunsetSparkle6.jpeg"
+      ]
+    },
+    {
+      "title": "Golden Glow Sunset Harbour Cruise",
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/golden-glow/GoldenGlow2.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/golden-glow/GoldenGlow1.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/golden-glow/GoldenGlow3.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/golden-glow/GoldenGlow4.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/golden-glow/GoldenGlow6.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/golden-glow/GoldenGlow5.jpeg"
+      ]
+    },
+    {
+      "title": "Harbour Highlights & Aussie Bites Catamaran Cruise",
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/harbour-highlights/harbourhighlights1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee11.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/harbour-highlights/harbourhighlights5.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/harbour-highlights/harbourhighlights2.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/nevaeh/nevaeh15.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/harbour-highlights/harbourhighlights6.jpg"
+      ]
+    },
+    {
+      "title": "Dogs on Deck Harbour Cruise",
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/dogs-on-deck/DogsonDeck1.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee11.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/dogs-on-deck/DogsonDeck3.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/dogs-on-deck/DogsonDeck2.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/dogs-on-deck/DogsonDeck5.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/dogs-on-deck/DogsonDeck4.jpeg"
+      ]
+    },
+    {
+      "title": "Harbour Romance for Two",
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/harbourromance/romance1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee11.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/harbourromance/romance3.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/harbourromance/romance7.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/harbourromance/romance8.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/harbourromance/romance6.jpg"
+      ]
+    },
+    {
+      "title": "BYO Vivid Sydney Cruise",
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid15.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee11.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid5.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee10.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid7.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee14.jpg"
+      ]
+    },
+    {
+      "title": "Intimate Vivid Sydney Cruise on Heaven",
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid9.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/heaven/heaven1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid14.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/heaven/heaven3.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid16.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/heaven/heaven2.jpg"
+      ]
+    },
+    {
+      "title": "Intimate Vivid Sydney Cruise on Fleetwing II",
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid17.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/fleetwingII/fleetwing1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid18.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/fleetwingII/fleetwing2.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid19.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/fleetwingII/fleetwing4.jpg"
+      ]
+    },
+    {
+      "title": "New Year's Eve Cruise on Kirralee",
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/nye/nye11.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee11.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/nye/nye12.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee10.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/nye/nye8.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee14.jpg"
+      ]
+    },
+    {
+      "title": "New Year's Eve Cruise on Heaven",
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/nye/nye10.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/heaven/heaven1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/nye/nye9.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/heaven/heaven3.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/nye/nye8.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/heaven/heaven5.jpg"
+      ]
+    },
+    {
+      "title": "New Year's Eve Cruise on Fleetwing II",
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/nye/nye9.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/fleetwingII/fleetwing1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/nye/nye10.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/fleetwingII/fleetwing4.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/nye/nye8.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/fleetwingII/fleetwing2.jpg"
+      ]
+    },
+    {
+      "title": "Private Charters",
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/fleetwingII/fleetwing1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/birthdays/birthday9.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/hens/hens17.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/activities/dj1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/catering/catering.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/heaven/heaven1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee11.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/enigmax/enigmax1a.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/seawind1000/seawind10001.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/seawind1160/seawind11601.jpg"
+      ]
+    },
+    {
+      "title": "Private Vivid Sydney Cruise",
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid12.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid7.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid10.jpg"
+      ]
+    },
+    {
+      "title": "Harbour Transfers & Sightseeing",
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/heaven/heaven1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee13.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/fleetwingII/fleetwing1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee11.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/fleetwingII/fleetwing4.jpg"
+      ]
+    },
+    {
+      "title": "Hen's Package",
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/hens/hens17.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/hens/hens10.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/hens/hens14.jpg"
+      ]
+    },
+    {
+      "title": "Buck's Package",
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/bucks/bucks16.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/bucks/bucks10.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/bucks/bucks13.jpg"
+      ]
+    },
+    {
+      "title": "Christmas Package",
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/christmas/christmas11.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/christmas/christmas7.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/christmas/christmas6.jpg"
+      ]
+    }
+  ],
+  "notes": "Logo is SSH-logo.png from the About page, the larger of two logo files; the header logo (assets/images/logo.png, a small file set as a CSS background) is not recorded. No heroImage given: the facts file hero is the first home page carousel banner (banner34a.jpg), chosen by position only. Images were not downloaded or opened, so none were judged by eye; every URL was checked with a header request and serves an image, and every file sits in the operator's own assets/images folder with no stock or third-party credit in its name. Gallery leads with the three home page carousel banners, then one lead photo per vessel and one from each main cruise type. Each trip page carries up to six photos in two carousels, and many are vessel photos shared between trips (kirralee11, heaven1, fleetwing1 and others), so some URLs repeat across trips. The Private Charters photos come from the private charters page cards (fleetwing1, birthday9, hens17, dj1, catering) plus the lead photo of each vessel page. A folder named 'nevaeh' holds photos on the vessels page and the Harbour Highlights page, and the YouTube channel has a 'NEVAEH' vessel video from several years ago; it may be the vessel now called Heaven, but the site does not say so. Videos are the operator's own: the Fleetwing II and Kirralee videos linked from their vessel pages (both also on the YouTube channel the footer links to), three short reels linked from the Sunset & Sparkle, Golden Glow and Dogs on Deck pages, and the Nevaeh video from the channel. The channel lists only three videos. Left out: the awards graphic (Award-logos11.jpg), the TripAdvisor widget logo, the gift voucher graphic, the Captain Frank portrait (about/captain1.jpg), the catering menu photos, most extra-activity photos, and photos for the three trips that are not running (Twilight Treasures, Champagne & Cheeseboards, Valentine's Day). No bot check or captcha was met on the site or on YouTube.",
+  "heroImage": null
+}

@@ -1,0 +1,217 @@
+{
+  "slug": "dread-or-dead-surf-shop-and-surf-school",
+  "name": "Dread or Dead Surf School",
+  "website": "https://dreadordead.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Hastings",
+  "category": "Surf school and shop",
+  "summary": "A family-run surf shop and school on Hastings Main Road, teaching surfing in Barbados since 1995. Instructors take you to the break that suits the day's waves and your level, from Brandons and Dover to Freights Bay. The shop also runs guided surf tours, stand up paddle sessions in Carlisle Bay and rents out more than 200 boards.",
+  "standouts": [
+    "Surf school and shop established in 1995",
+    "Group lessons capped at 4 students per instructor",
+    "Over 200 rental surfboards, with delivery to any home or hotel on the island",
+    "In-house surfboard and SUP repair shop"
+  ],
+  "contact": {
+    "phone": "+1 246 826 6672 or +1 246 228 4785",
+    "email": "dreadordeadsurf@yahoo.com",
+    "address": "Dread or Dead Shop, Hastings Main Road, Christ Church, Barbados",
+    "whatsapp": "https://wa.me/12468266672"
+  },
+  "heroImage": "https://dreadordead.com/wp-content/uploads/2022/08/surftours1.jpg",
+  "sourceUrls": [
+    "https://dreadordead.com/",
+    "https://dreadordead.com/surf-school-in-barbados/",
+    "https://dreadordead.com/surf-tours/",
+    "https://dreadordead.com/stand-up-paddle/",
+    "https://dreadordead.com/surfboard-rentals/",
+    "https://dreadordead.com/surfboard-sup-repairs/",
+    "https://dreadordead.com/surf-accommodation/",
+    "https://dreadordead.com/other-services/",
+    "https://dreadordead.com/contact/",
+    "https://dreadordead.com/private-surf-lessons-in-barbados/",
+    "https://dreadordead.com/learn-to-surf-barbados/",
+    "https://dreadordead.com/longboard-surfing-barbados/",
+    "https://dreadordead.com/wp-json/wp/v2/posts",
+    "https://dreadordead.com/wp-json/wp/v2/pages",
+    "https://dreadordead.com/wp-json/wp/v2/media"
+  ],
+  "trips": [
+    {
+      "title": "Beginner Surf Lessons",
+      "kind": "course",
+      "summary": "A two hour group lesson for first timers or anyone returning after a break. It starts with ten to fifteen minutes on the beach covering the pop up, etiquette and safety, then the rest is in the water. The instructor picks the spot on the day to suit conditions, from Brandons, Dover, Pebbles, Sandy Beach or Freights Bay.",
+      "highlights": [
+        "Small groups, no more than 4 students per instructor",
+        "Spot chosen on the day: Brandons, Dover, Pebbles, Sandy Beach or Freights Bay",
+        "Surfboard included; rashguards and reef boots on request",
+        "Two lessons daily, at 10 am and 2 pm"
+      ],
+      "duration": "2 hrs",
+      "durationMinutes": 120,
+      "departureTimes": ["10:00", "14:00"],
+      "season": null,
+      "departsFrom": "Dread or Dead surf shop, Hastings Main Road, Christ Church",
+      "prices": [
+        { "label": "Per person, meet at the surf shop", "amount": 75, "currency": "USD", "note": null },
+        { "label": "Per person, with pick up and drop off", "amount": 100, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 75,
+      "includes": ["Surfboard", "Rashguards and reef boots on request"],
+      "bring": ["Beach towels", "Water bottle", "Sunblock"],
+      "requirements": null,
+      "offer": {
+        "text": "Summer special: group 2 hr lessons with surfboard $60 USD",
+        "conditions": "Posted on the operator's blog on 17 May 2026",
+        "validUntil": null
+      },
+      "images": [
+        "https://dreadordead.com/wp-content/uploads/2022/08/surf-schooldod.jpg",
+        "https://dreadordead.com/wp-content/uploads/2026/08/thumbnail-30.jpeg",
+        "https://dreadordead.com/wp-content/uploads/2026/05/thumbnail-53.jpeg",
+        "https://dreadordead.com/wp-content/uploads/2022/08/gal5.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://dreadordead.com/surf-school-in-barbados/",
+      "checkNotes": "Price conflict: the surf school page and home page say $75 USD per person (meet at the shop), an older blog post says $60 usd, and May 2026 blog posts advertise $60 USD as a summer special. Used the surf school page. A January 2026 post also lists a 7am start. Booked by WhatsApp, phone or email; please book a day or two in advance."
+    },
+    {
+      "title": "Private/Beginner/Intermediate Surf Lesson",
+      "kind": "course",
+      "summary": "A one to one lesson for beginners, returning surfers or intermediates who want to move up a level. The instructor collects you, picks the best spot for the day and works on catching your own waves, reading the ocean, technique, turns and cutbacks. You choose a board from the shop's range or the instructor picks one for you.",
+      "highlights": [
+        "One to one with a local qualified instructor",
+        "Pick up and drop off included",
+        "Spots include Brandons, Dover, Pebbles, Sandy Beach, Soupbowl, Batsrock, Sandylane, Maycocks, Freights bay, south point and Parlours",
+        "Choose your own board from the shop's range"
+      ],
+      "duration": "2hrs",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pick up from your accommodation",
+      "prices": [
+        { "label": "Per person", "amount": 150, "currency": "USD", "note": "Pick up and drop off included" }
+      ],
+      "priceFrom": 150,
+      "includes": ["Pick up and drop off", "Surfboard of your choice"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://dreadordead.com/wp-content/uploads/2022/08/gal20.jpg",
+        "https://dreadordead.com/wp-content/uploads/2022/08/gal3.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://dreadordead.com/",
+      "checkNotes": "Price also given on the surf school page ($150 USD per person, pick up and drop off included). Booked by WhatsApp, phone or email."
+    },
+    {
+      "title": "Private/Advanced Surf Lessons",
+      "kind": "course",
+      "summary": "A private session for experienced surfers with the shop's pro, who paddles out with you and corrects habits holding back your surfing. You are driven to and from your hotel, and the spot is chosen on the day, often Brandons, Soupbowl or the west coast when it is breaking.",
+      "highlights": [
+        "Paddle out with the shop's pro surfer",
+        "Transport to and from your hotel",
+        "Spots include Brandons, Soupbowl and the west coast when it is breaking",
+        "Choose a board from the shop's range"
+      ],
+      "duration": "2-3 hrs long depending on your stamina",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pick up from your hotel",
+      "prices": [
+        { "label": "Private advanced lesson", "amount": 200, "currency": "USD", "note": "The page does not say whether this is per person" }
+      ],
+      "priceFrom": 200,
+      "includes": ["Transport to and from your hotel", "Surfboard of your choice"],
+      "bring": [],
+      "requirements": "For advanced surfers",
+      "offer": null,
+      "images": [
+        "https://dreadordead.com/wp-content/uploads/2022/08/gal21.jpg",
+        "https://dreadordead.com/wp-content/uploads/2022/08/gal22.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://dreadordead.com/",
+      "checkNotes": "Price basis not stated ('Cost is $200 USD'). Booked by WhatsApp, phone or email."
+    },
+    {
+      "title": "Surf Tours",
+      "kind": "tour",
+      "summary": "Guided surf days around Barbados with local guides who know which spots work in which conditions. Tours are built around the waves you are comfortable with, and transport is included. Half day and full day options, or a custom tour on request.",
+      "highlights": [
+        "Guides trained in First Aid and CPR",
+        "Help choosing a board",
+        "All transport, pick up and drop off included",
+        "Custom tours on request"
+      ],
+      "duration": "half day 4 hrs or full day 6 hrs",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pick up from your accommodation",
+      "prices": [
+        { "label": "Half day 4 hrs, per person", "amount": 150, "currency": "USD", "note": "Shown as '$150 usd per person/$200 usd per person, half day 4 hrs'" },
+        { "label": "Half day 4 hrs, per person", "amount": 200, "currency": "USD", "note": "Shown as '$150 usd per person/$200 usd per person, half day 4 hrs'" },
+        { "label": "Full day 6 hrs, per person", "amount": 250, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 150,
+      "includes": ["All transport, pick up and drop off"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://dreadordead.com/wp-content/uploads/2022/08/surftours1.jpg",
+        "https://dreadordead.com/wp-content/uploads/2022/08/surf-tours-page.jpg",
+        "https://dreadordead.com/wp-content/uploads/2022/08/surf-tours-up-800x600-1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://dreadordead.com/surf-tours/",
+      "checkNotes": "The half day price is written as '$150 usd per person/$200 usd per person' without saying what separates the two. Booked by WhatsApp, phone or email."
+    },
+    {
+      "title": "SUP Lessons and Tours",
+      "kind": "tour",
+      "summary": "Stand up paddle lessons for first timers and surf technique for more advanced paddlers. The shop's favourite tour crosses Carlisle Bay, with its sandy beach, flat water and mostly light winds.",
+      "highlights": [
+        "Carlisle Bay tour on flat water with mostly light winds",
+        "Lessons for first timers",
+        "Surf technique for more advanced paddle boarders",
+        "SUP rentals and sales"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Carlisle Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://dreadordead.com/wp-content/uploads/2022/08/standupppaddle-1.jpg",
+        "https://dreadordead.com/wp-content/uploads/2022/08/standupppaddle-2.jpg",
+        "https://dreadordead.com/wp-content/uploads/2022/08/standupppaddle-3.jpg",
+        "https://dreadordead.com/wp-content/uploads/2025/11/thumbnail-5.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://dreadordead.com/stand-up-paddle/",
+      "checkNotes": "No prices or durations for SUP on the site. Our list says the SUP side also trades as Barbados Stand Up Paddle / SUP In Barbados. Booked by WhatsApp, phone or email."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Summer special: group 2 hr surf lessons with surfboard $60 USD",
+      "conditions": "Posted as 'our summer special' on 17 May 2026; a 19 May 2026 post gives the same $60 USD price for daily 10 am and 2 pm lessons at Dover beach",
+      "validUntil": null,
+      "sourceUrl": "https://dreadordead.com/surf-school-barbados-2026-2/"
+    }
+  ],
+  "checkNotes": "Enquiry only: bookings by WhatsApp, phone, email or the quote form; no online booking. The site's WhatsApp button is malformed (api.whatsapp.com/send?phone=https://wa.me/12468266672); recorded the wa.me number. Trading: blog posts run to September 2026. Surfboard rentals start at BDS $50.00 (US $25.00) a day, with long term discounts on request (not listed as a trip). The site mentions 3 and 5 day surf camps but gives no details. Roslyn Cottage and Roslyn Apartment on the shop compound are let to surfers (price on request). Also trades as Surf In Barbados (surf) and SUP In Barbados (SUP)."
+}

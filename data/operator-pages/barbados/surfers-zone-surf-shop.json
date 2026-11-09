@@ -1,0 +1,25 @@
+{
+  "slug": "surfers-zone-surf-shop",
+  "name": "Surfers Zone Surf Shop",
+  "website": "https://surferszone.wixsite.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": null,
+  "category": null,
+  "summary": null,
+  "standouts": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "address": null,
+    "whatsapp": null
+  },
+  "heroImage": null,
+  "sourceUrls": [
+    "https://surferszone.wixsite.com/"
+  ],
+  "trips": [],
+  "offers": [],
+  "checkNotes": "Website not found: https://surferszone.wixsite.com/ returns a Wix '404 Error: Page Not Found' page (checked 19 Oct 2026). A Wix free site lives at a path under the user subdomain, and the listed URL has no path; 15 likely paths (for example /surferszone, /rastasurf, /mysite, /my-site, /surfcamp) also returned 404. DNS resolves through Wix's wildcard, so the subdomain itself proves nothing. Web searches for 'surferszone' and 'Surfers Zone' Barbados found no other site for the business. Nothing could be read from an operator website, so no facts, trips or contact details are recorded; the list's email, phone and Walronds address are unverified. This does not by itself show the business has closed (the list says camps are sold through BookSurfCamps). Needs the correct website URL from the operator before a page can be built."
+}

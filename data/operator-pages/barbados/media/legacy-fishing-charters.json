@@ -1,0 +1,30 @@
+{
+  "slug": "legacy-fishing-charters",
+  "logo": "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/legacy-fishing-barbados-logo-transparent.png",
+  "gallery": [
+    "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-401-1-scaled.jpg",
+    "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-397-1-scaled.jpg",
+    "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-468-1.jpeg",
+    "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-467.jpeg",
+    "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-465-1.jpeg",
+    "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-463-1.jpeg",
+    "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-461.jpeg",
+    "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-456-1.jpg",
+    "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-452-1.jpg",
+    "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-450-1.jpg",
+    "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-448-1.jpg",
+    "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-445-1.jpg",
+    "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-434-1.jpeg",
+    "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-421-1.jpg",
+    "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-416.jpg",
+    "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-515.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    { "title": "4 Hour Fishing Charter", "images": ["https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-392.jpg"] },
+    { "title": "6 Hour Fishing Trip", "images": ["https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-456-1.jpg"] },
+    { "title": "8 Hour Fishing Trip", "images": ["https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-169.jpg"] },
+    { "title": "Tournament Fishing Charters", "images": [] }
+  ],
+  "notes": "All trips are on one Trips page with one photo per trip; the Tournament block uses a generic theme image (destination-usa.jpg) that was left out. More photos on the Photos page not listed in the gallery: 429-1, 430-1, 419, 395, 392, 358, 344, 191, 207, 221 (same uploads folder, all load). Theme backgrounds from 2022 (search-background, call-experts-bg, footer-tagline-bg) left out. Captain portrait at /wp-content/uploads/2025/05/captain-jono-jones-2b.jpg. No videos found."
+}

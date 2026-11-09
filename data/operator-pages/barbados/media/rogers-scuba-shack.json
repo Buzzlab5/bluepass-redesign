@@ -1,0 +1,112 @@
+{
+  "slug": "rogers-scuba-shack",
+  "logo": "https://rogersscuba.com/wp-content/uploads/2018/06/cropped-cropped-rogers-scuba-shack-1.png",
+  "gallery": [
+    "https://rogersscuba.com/wp-content/uploads/2024/12/Phoenix.jpg",
+    "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_1763-1.jpg",
+    "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_1543.jpg",
+    "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_0261.jpg",
+    "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_0816.jpg",
+    "https://rogersscuba.com/wp-content/uploads/2024/11/Phoenix-1.jpg",
+    "https://rogersscuba.com/wp-content/uploads/2024/11/Boat-life-1.jpg",
+    "https://rogersscuba.com/wp-content/uploads/2024/11/Melissa.jpg",
+    "https://rogersscuba.com/wp-content/uploads/2024/11/Melissa-1.jpg",
+    "https://rogersscuba.com/wp-content/uploads/2016/09/Melissa4.jpg",
+    "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_1567.jpg",
+    "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_0528.jpg",
+    "https://rogersscuba.com/wp-content/uploads/2015/12/IMG_0034-copy.jpg",
+    "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_1028.jpg",
+    "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_1267.jpg",
+    "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_0526.jpg"
+  ],
+  "videos": [
+    { "url": "https://www.youtube.com/watch?v=0FRYOq9_cLU", "title": "Discover Scuba Diving at Roger's Scuba Shack", "sourceUrl": "https://rogersscuba.com/discover-scuba-diving/" },
+    { "url": "https://www.youtube.com/watch?v=U_uBMcVn73o", "title": "Scuba diving in Barbados with Roger's Scuba Shack", "sourceUrl": "https://rogersscuba.com/open-water-diver/" }
+  ],
+  "trips": [
+    {
+      "title": "Two Tank Dive",
+      "images": [
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_1543.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_0261.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2024/11/Phoenix-1.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2024/11/Boat-life-1.jpg"
+      ]
+    },
+    {
+      "title": "One Tank Dive",
+      "images": [
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_1543.jpg"
+      ]
+    },
+    {
+      "title": "Night Dive",
+      "images": [
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_0261.jpg"
+      ]
+    },
+    {
+      "title": "Snorkel Trips",
+      "images": [
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_0816.jpg"
+      ]
+    },
+    {
+      "title": "Discover Scuba Diving",
+      "images": [
+        "https://rogersscuba.com/wp-content/uploads/2018/06/Photo-12-14-16-2-04-25-PM.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2018/06/IMG_1455.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2018/06/Photo-3-15-17-8-59-59-AM.png"
+      ]
+    },
+    {
+      "title": "PADI Open Water Course",
+      "images": [
+        "https://rogersscuba.com/wp-content/uploads/2015/11/newdivers.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2017/12/Photo-1-1-13-1-21-26-AM.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_1468.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2018/06/Photo-2-24-17-3-55-23-PM.png"
+      ]
+    },
+    {
+      "title": "PADI Advanced Open Water",
+      "images": [
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_0130.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_1466.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2011/12/Image63.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2018/06/Photo-1-9-13-2-39-59-AM.jpg"
+      ]
+    },
+    {
+      "title": "Rescue Diver",
+      "images": [
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_0076.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2018/06/Stone-fish-1.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2018/06/Photo-1-19-17-1-02-09-PM.png"
+      ]
+    },
+    {
+      "title": "Master Scuba Diver",
+      "images": [
+        "https://rogersscuba.com/wp-content/uploads/2015/11/newdivers.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2017/12/Photo-1-1-13-1-21-26-AM.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_1468.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2018/06/Photo-2-24-17-3-55-23-PM.png"
+      ]
+    },
+    {
+      "title": "Divemaster",
+      "images": [
+        "https://rogersscuba.com/wp-content/uploads/2018/06/Photo-1-9-13-3-51-54-AM.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_1469.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_1482.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2018/06/IMG_1455.jpg"
+      ]
+    },
+    {
+      "title": "Courses Offered",
+      "images": []
+    }
+  ],
+  "notes": "Both YouTube videos are embedded on the operator's own course pages and show diving with Roger's Scuba Shack, but they were posted by other channels (Certified Island Boy and RWB_TV), not by the operator; drop them if only operator-owned uploads are wanted. Dive rates, one tank, night dive and snorkel trips have no pages of their own, so their images are from the home and boats pages. Left out PADI course banners (OPEN-WATER.png, PADI_eLearning_web.jpg, aow_468x44_4.jpg, msd.jpg, PADI-Scuba-Review.jpg), team portraits, a star graphic and a WhatsApp image on the team section. The logo is the site icon from the header (cropped-cropped-rogers-scuba-shack-1.png). Instagram link not opened."
+}

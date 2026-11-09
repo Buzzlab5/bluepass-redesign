@@ -1,0 +1,258 @@
+{
+  "slug": "freycinet-adventures",
+  "name": "Freycinet Adventures",
+  "website": "https://freycinetadventures.com.au",
+  "rezdyAlias": "freycinetadventures",
+  "state": "TAS",
+  "town": "Coles Bay",
+  "category": "Sea kayaking and walks",
+  "summary": "Guided sea kayak tours in double kayaks around Coles Bay and Freycinet National Park, with all gear and warm jackets supplied. Choices include a 3 hour paddle below the Hazards, a sunrise paddle with breakfast at Honeymoon Bay, an oyster tasting paddle in Moulting Lagoon, and a guided walk to the Wineglass Bay Lookout. Beginners are welcome, and children can join most paddles from age 7.",
+  "standouts": [
+    "Kayak tours run year round from Coles Bay",
+    "Small groups of 2 to 16 guests",
+    "Double sea kayaks, warm jackets and dry bags provided",
+    "Listed #4 must-do experience in Australia on the Nine Network's Things to Try Before you Die (as stated on the site)"
+  ],
+  "contact": {
+    "phone": "+61 3 6257 0500",
+    "email": "info@freycinetadventures.com.au",
+    "address": "2 Freycinet Drive, Coles Bay TAS 7215"
+  },
+  "heroImage": "https://static.wixstatic.com/media/a0b6bf_784955f4b032476789079641c392b790~mv2.jpg",
+  "sourceUrls": [
+    "https://www.freycinetadventures.com.au",
+    "https://www.freycinetadventures.com.au/freycinet-tours",
+    "https://www.freycinetadventures.com.au/sunrise-breakfast-tour",
+    "https://www.freycinetadventures.com.au/oyster-tasting",
+    "https://www.freycinetadventures.com.au/copy-of-freycinet-tours",
+    "https://www.freycinetadventures.com.au/faq",
+    "https://www.freycinetadventures.com.au/local-info",
+    "https://www.freycinetadventures.com.au/coles-bay-accommodation",
+    "https://www.freycinetadventures.com.au/beyond-freycinet",
+    "https://www.freycinetadventures.com.au/freycinet-national-park",
+    "https://www.freycinetadventures.com.au/freycinet-history",
+    "https://www.freycinetadventures.com.au/things-to-see-and-do-in-tassie",
+    "https://freycinetadventures.com.au/sitemap.xml",
+    "https://www.freycinetadventures.com.au/pages-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "The Freycinet Paddle",
+      "kind": "kayak",
+      "summary": "A 3 hour guided sea kayak tour along the Freycinet coastline, below the pink granite Hazards and over clear water. Halfway through, the group stops on a quiet beach for fresh coffee and a snack. Morning and twilight sessions follow the same route, and the twilight one finishes at sunset.",
+      "highlights": [
+        "Paddle under the Hazards in Freycinet National Park",
+        "Beach stop for freshly brewed coffee and a snack",
+        "Morning or twilight session, same route",
+        "Small groups, beginners welcome"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": "Year round, with seasonal departure times",
+      "departsFrom": "Muirs Beach, Coles Bay (free public parking and toilets)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 155,
+          "currency": "AUD",
+          "note": "Surcharges apply to bookings on Saturdays, Sundays and public holidays (amounts on the tour page T&Cs)."
+        },
+        {
+          "label": "Child 15 years and under",
+          "amount": 125,
+          "currency": "AUD",
+          "note": "Surcharges apply to bookings on Saturdays, Sundays and public holidays (amounts on the tour page T&Cs)."
+        }
+      ],
+      "priceFrom": 155,
+      "includes": [
+        "All kayaking equipment (double sea kayaks)",
+        "Warm jackets",
+        "Safety briefing",
+        "Coffee and a snack on a beach stop",
+        "Dry bags for cameras and phones"
+      ],
+      "bring": [
+        "Hat or sunglasses",
+        "Drinking water",
+        "Comfortable clothing",
+        "Flip flops or bare feet (footwear will get wet)"
+      ],
+      "requirements": "Children from 7 years; under 16s must be with an accompanying adult. Must be able to swim. Kayaks suit people up to 195cm and about 120kg (cockpit seats about 45cm across). Basic fitness for about 2 hours of paddling.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/a0b6bf_e65b2e85796a433c8e35a758ccaa9e66~mv2.jpg",
+        "https://static.wixstatic.com/media/a0b6bf_784955f4b032476789079641c392b790~mv2.jpg",
+        "https://static.wixstatic.com/media/a0b6bf_e1fbac17511445099ca91c93fc022098~mv2.png"
+      ],
+      "bookingLinks": [
+        "https://freycinetadventures.rezdy.com/"
+      ],
+      "sourceUrl": "https://www.freycinetadventures.com.au/freycinet-tours",
+      "checkNotes": "Departure times are not stated ('seasonal departure times'). The page mentions a twilight session but no separate price, so it is treated as the same product. Adult pricing applies from 16 years. Online bookings close 3 hours before departure; free changes or cancellation up to 24 hours ahead. The only booking link is the general Rezdy storefront. The page repeats a TV listing ('#4 must-do experience in Australia on the Nine Network's Things to Try Before you Die')."
+    },
+    {
+      "title": "Sunrise Breakfast Paddle",
+      "kind": "kayak",
+      "summary": "A 2.5 hour guided paddle at sunrise, when the water around Coles Bay is often at its calmest. The group stops at Honeymoon Bay for a continental breakfast with coffee or tea. Stingrays and sea eagles are common, and dolphins, whales or fur seals are seen on occasion.",
+      "highlights": [
+        "Sunrise over the Hazards",
+        "Continental breakfast and coffee or tea at Honeymoon Bay",
+        "Often the calmest water of the day",
+        "Wildlife such as stingrays and white-bellied sea eagles"
+      ],
+      "duration": "2.5 hours",
+      "durationMinutes": 150,
+      "departureTimes": [
+        "07:00"
+      ],
+      "season": "Daily, with start times from 7am depending on the time of year",
+      "departsFrom": "Coles Bay",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 145,
+          "currency": "AUD",
+          "note": "Surcharges apply to bookings on Saturdays, Sundays and public holidays (amounts on the tour page T&Cs)."
+        },
+        {
+          "label": "Child 15 years and under",
+          "amount": 115,
+          "currency": "AUD",
+          "note": "Surcharges apply to bookings on Saturdays, Sundays and public holidays (amounts on the tour page T&Cs)."
+        }
+      ],
+      "priceFrom": 145,
+      "includes": [
+        "Double sea kayaks and paddling equipment",
+        "Warm jackets",
+        "Continental breakfast and coffee/tea at Honeymoon Bay",
+        "Dry bags for cameras and phones"
+      ],
+      "bring": [
+        "Hat or sunglasses",
+        "Drinking water",
+        "Comfortable clothing",
+        "Flip flops or bare feet (footwear will get wet)"
+      ],
+      "requirements": "Children from 7 years; under 16s must be with an accompanying adult. Must be able to swim. Kayaks suit people up to 195cm and about 120kg (cockpit seats about 45cm across). Basic fitness for about 2 hours of paddling.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/a0b6bf_706198441a1b4767ac581e11a215d72a~mv2.jpg",
+        "https://static.wixstatic.com/media/a0b6bf_0d6afa2b7a2f43fc84d11dc8722d20c6~mv2.png"
+      ],
+      "bookingLinks": [
+        "https://freycinetadventures.rezdy.com/"
+      ],
+      "sourceUrl": "https://www.freycinetadventures.com.au/sunrise-breakfast-tour",
+      "checkNotes": "Departure time stated as 'Daily departures from 7am (depending on the time of year)'; 07:00 recorded as the earliest stated. Exact meeting point not stated on the page; the local info page says all tours start and finish in Coles Bay. Online bookings close 12 hours before departure. The homepage calls it 'Sunrise Breakfast Tour'."
+    },
+    {
+      "title": "Oyster Tasting Paddle",
+      "kind": "kayak",
+      "summary": "A 3 hour paddle down the Swan River estuary in the Moulting Lagoon wetland, past oyster farms and plenty of birdlife. The guide explains how the oysters are grown and harvested, then the group lands at MelShell Oyster Shack to taste half a dozen. It covers about 6km of paddling, so a moderate level of fitness is needed.",
+      "highlights": [
+        "Half a dozen oysters and a soft drink at MelShell Oyster Shack",
+        "Paddle through the Moulting Lagoon wetland and bird sanctuary",
+        "Pass working oyster farms with the guide",
+        "About 6km of paddling in total"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [
+        "13:00"
+      ],
+      "season": "Monday to Friday over the summer time",
+      "departsFrom": "Point Meredith (about 15 minutes' drive from Coles Bay)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 165,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child under 15 years",
+          "amount": 135,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 165,
+      "includes": [
+        "Stable double sea kayaks",
+        "All paddling equipment",
+        "Experienced guides",
+        "1/2 dozen oyster tasting",
+        "A soft drink"
+      ],
+      "bring": [
+        "Hat or sunglasses",
+        "Drinking water"
+      ],
+      "requirements": "Children aged 12 years and over; under 16s must be with an accompanying adult. No experience needed; moderate fitness required (about 2 hours of paddling).",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/a0b6bf_746dd77bbcac4c2eb74ccc261a22c760~mv2.jpg",
+        "https://static.wixstatic.com/media/a0b6bf_4fb34dbe1619406998b9712ac51a41d8~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://freycinetadventures.rezdy.com/"
+      ],
+      "sourceUrl": "https://www.freycinetadventures.com.au/oyster-tasting",
+      "checkNotes": "This page is in the sitemap but not linked from the menu or homepage, so it may not be on sale at present; confirm before publishing. Child price is labelled 'under 15 years' here but '15 years and under' on the other tours. Includes a 30 to 40 minute lunch break at MelShell Oyster Shack; only the oysters and soft drink are listed as included. No surcharge terms are shown on this page."
+    },
+    {
+      "title": "Wineglass Bay walking tour",
+      "kind": "tour",
+      "summary": "A guided walk of about 3km return to the Wineglass Bay Lookout with a local guide. The guide covers the park's history, geology and Aboriginal and cultural heritage. Return transfers from Freycinet Lodge and a light snack are included.",
+      "highlights": [
+        "Wineglass Bay Lookout",
+        "Local guide on history, geology and Aboriginal heritage",
+        "Return transfer from Freycinet Lodge to the Wineglass Bay carpark",
+        "About 3km with 160m elevation gain"
+      ],
+      "duration": "Approximately 2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [
+        "10:00"
+      ],
+      "season": "Daily in peak season; on demand in the cooler months",
+      "departsFrom": "Freycinet Lodge reception",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 65,
+          "currency": "AUD",
+          "note": "Surcharges apply to bookings on Saturdays, Sundays and public holidays (amounts on the tour page T&Cs)."
+        },
+        {
+          "label": "Child (aged 7-15yo)",
+          "amount": 45,
+          "currency": "AUD",
+          "note": "Surcharges apply to bookings on Saturdays, Sundays and public holidays (amounts on the tour page T&Cs)."
+        }
+      ],
+      "priceFrom": 65,
+      "includes": [
+        "A local guide",
+        "A small snack",
+        "Transfer to and from Freycinet Lodge to Wineglass Bay carpark"
+      ],
+      "bring": [
+        "Valid National Parks Pass (not included)"
+      ],
+      "requirements": "Moderate fitness: about 3km on a gravel path with steps and uphill sections, average elevation gain 160m. Minimum of 4 guests for the tour to run.",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://freycinetadventures.rezdy.com/"
+      ],
+      "sourceUrl": "https://www.freycinetadventures.com.au/copy-of-freycinet-tours",
+      "checkNotes": "Page heading is 'Walking tours'; the homepage calls it 'Wineglass Bay walking tour'. The page URL is /copy-of-freycinet-tours. Land-based walk, not a water trip. Online bookings close 3 hours before; free changes or cancellation up to 24 hours ahead. In low season, enquire by email if no dates show online. Image file names suggest Freycinet Lodge photography; confirm usage rights. Photos on the walking tour page are Freycinet Lodge files by name, so they were left out until the operator confirms they may be used."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "No gift vouchers, specials or packages found on the site. Every Book Now button goes to the general Rezdy storefront (freycinetadventures.rezdy.com), not to product pages. Image URLs are the original Wix media files behind the resized versions the site displays. The homepage calls the kayak tour 'award-winning' without naming the award. Weekend and public holiday surcharges apply to the Freycinet Paddle, Sunrise Breakfast Paddle and walking tour; the exact amounts are percentages on each page and were left out of copy. Phone shown on site as 0362570500. The site is on Wix and the copyright line reads 2025."
+}

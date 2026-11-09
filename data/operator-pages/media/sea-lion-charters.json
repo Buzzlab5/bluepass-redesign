@@ -1,0 +1,36 @@
+{
+  "slug": "sea-lion-charters",
+  "logo": "https://static.wixstatic.com/media/bebe0a_f906368c634449198c273f0f942da02e~mv2.png",
+  "gallery": [
+    "https://static.wixstatic.com/media/bebe0a_c75fe919950b469c9d3e91d264b33587~mv2.jpg",
+    "https://static.wixstatic.com/media/bebe0a_a6b2b6cffc244d13ab9c234aa3ffe98b~mv2.jpg",
+    "https://static.wixstatic.com/media/bebe0a_b24a0985b6eb47f6ba3281580f8930c3~mv2.jpg",
+    "https://static.wixstatic.com/media/bebe0a_6447ed7dfd514c3c8e4dedf5c1f6eba1~mv2.jpg",
+    "https://static.wixstatic.com/media/bebe0a_1260b23b88244662b7ee85674ddb71de~mv2.jpg",
+    "https://static.wixstatic.com/media/bebe0a_cdb8472576004378a6caa2375f49b40c~mv2.jpg",
+    "https://static.wixstatic.com/media/bebe0a_d6032781356e4fff87701aba3329ee56~mv2.jpg",
+    "https://static.wixstatic.com/media/bebe0a_5d17a7e3bf4d4bb0abb7dff7b72c7026~mv2.jpg",
+    "https://static.wixstatic.com/media/bebe0a_4ecf5dc25ad24948b2b3bae267f82644~mv2.jpg",
+    "https://static.wixstatic.com/media/bebe0a_184f8ade70424fa59eb2a77446652d53~mv2.jpg",
+    "https://static.wixstatic.com/media/bebe0a_27d4e93e14a545a9a5e71787df6c0248~mv2.jpg",
+    "https://static.wixstatic.com/media/bebe0a_4fa2ec15887242cc9056fcedcf530c3e~mv2.jpg",
+    "https://static.wixstatic.com/media/bebe0a_eb804708d98d421b8c2ff263e4f6a9dc~mv2.jpg",
+    "https://static.wixstatic.com/media/bebe0a_4f63e6fc73a140f883e1887e682fb655~mv2.jpg",
+    "https://static.wixstatic.com/media/bebe0a_3524ab4ff6e24f3cbe87589bfec27640~mv2.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Sea Lion Tours",
+      "images": [
+        "https://static.wixstatic.com/media/bebe0a_a6b2b6cffc244d13ab9c234aa3ffe98b~mv2.jpg",
+        "https://static.wixstatic.com/media/bebe0a_1260b23b88244662b7ee85674ddb71de~mv2.jpg",
+        "https://static.wixstatic.com/media/bebe0a_cdb8472576004378a6caa2375f49b40c~mv2.jpg",
+        "https://static.wixstatic.com/media/bebe0a_d6032781356e4fff87701aba3329ee56~mv2.jpg",
+        "https://static.wixstatic.com/media/bebe0a_5d17a7e3bf4d4bb0abb7dff7b72c7026~mv2.jpg",
+        "https://static.wixstatic.com/media/bebe0a_3524ab4ff6e24f3cbe87589bfec27640~mv2.jpg"
+      ]
+    }
+  ],
+  "notes": "I could not view the pictures, only read the page source and image headers, so nothing here was judged by eye. All image addresses are the original uploads on the site's Wix image host (no resize suffix); each returned a normal image response to a headers-only check. Logo: the header logo (file name SL-LOGO-SM.png), the largest version the site serves. No heroImage given: the Home page hero background (c75fe919, about 3000 by 2000) is already the facts file's heroImage, and I found nothing I could confirm as better. Gallery order: Home page photos, then the Tours and About page photos, then the five photos in the Sea lion facts page picture strip (colony, DJI_0005 drone shot, DSC2344, and two named WA_018_TURQUOISE_SAFARIS), then last the strip image 3524ab4f, which the site repeats as a decorative background band on every page and may be a background rather than a photo, so the importer or a person should check it. The page header image a6b2b6cf (about 5464 by 3640) is the header background on Tours, About, FAQ, Facts and Gallery. About page portrait photo 4ecf5dc2 is tall (965 by 2048). The Sea Lion Tours trip has one page, the Tours page, and its photos are listed with the page header image first. The site has one tour, offered on two boats, so there is one trip entry. Left out: the header logo repeated in the menu, and three badge graphics from the footer (QTAB shield, Accreditation, sustainable). Videos: none recorded. The Home and About pages each have a site-hosted video player, but the video file address is not in the page source (four requests for the site's Wix page-data files returned a 400 error and I did not pursue them), the Gallery page is only an Instagram feed widget, and the site links to no YouTube or Vimeo channel. Rights: the site's Terms and Conditions (6.4 and 6.5) say its images are owned by the operator and may not be reused without written permission, so get the operator's agreement; two photos are named for Turquoise Safaris, the operator's parent business, and no photo is credited to anyone else. No captcha, bot check or block was met."
+}

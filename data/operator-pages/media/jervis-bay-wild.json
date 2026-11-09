@@ -1,0 +1,180 @@
+{
+  "slug": "jervis-bay-wild",
+  "logo": "https://www.jervisbaywild.com.au/brand/jervis-bay-wild-logo.svg",
+  "gallery": [
+    "https://www.jervisbaywild.com.au/images/Whale1.webp",
+    "https://www.jervisbaywild.com.au/images/Whales-Jumping-Jervis-Bay.webp",
+    "https://www.jervisbaywild.com.au/images/jervis-bay-whales-2.webp",
+    "https://www.jervisbaywild.com.au/images/dolphin-jervis-bay-2-scaled.webp",
+    "https://www.jervisbaywild.com.au/images/dolpins-jervis-bay-scaled.webp",
+    "https://www.jervisbaywild.com.au/images/dolphin-jervis-bay-3-scaled.webp",
+    "https://www.jervisbaywild.com.au/images/boom-netting-guests-in-net.webp",
+    "https://www.jervisbaywild.com.au/images/swim-with-whales-jervis-bay-wide-v2.webp",
+    "https://www.jervisbaywild.com.au/images/discover-under-sail.webp",
+    "https://www.jervisbaywild.com.au/images/discover-charter-catering.webp",
+    "https://www.jervisbaywild.com.au/images/jervis-bay-aerial.webp",
+    "https://www.jervisbaywild.com.au/images/JervisBayWild-jervisBayPassage-Honeymoon-Bay.webp",
+    "https://www.jervisbaywild.com.au/images/JBW-Drone-22-.webp",
+    "https://www.jervisbaywild.com.au/images/JervisBayWild-Sensational-6923-scaled.webp",
+    "https://www.jervisbaywild.com.au/images/jervis-bay-kayak-tour.webp",
+    "https://www.jervisbaywild.com.au/images/9.webp"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=oHnHT33XJ_4",
+      "title": "Jervis Bay Wild showcase video 2024",
+      "sourceUrl": "https://www.jervisbaywild.com.au/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5QY97AHr-Q4",
+      "title": "Guided kayak tour",
+      "sourceUrl": "https://www.youtube.com/@jervisbaywild8049/videos"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Y9S4cuFdDGA",
+      "title": "Kayaking through the mangroves",
+      "sourceUrl": "https://www.youtube.com/@jervisbaywild8049/videos"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Hy2x0LDbXPE",
+      "title": "South Coast Passage, October long weekend",
+      "sourceUrl": "https://www.youtube.com/@jervisbaywild8049/videos"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MRm3SzmcSiY",
+      "title": "A mother and her calf",
+      "sourceUrl": "https://www.youtube.com/@jervisbaywild8049/videos"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PCAp_5X6U2M",
+      "title": "Young humpback whale calf breaching",
+      "sourceUrl": "https://www.youtube.com/@jervisbaywild8049/videos"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Whale Cruise",
+      "images": [
+        "https://www.jervisbaywild.com.au/images/jervis-bay-whales-2.webp",
+        "https://www.jervisbaywild.com.au/images/Whales-Jumping-Jervis-Bay.webp",
+        "https://www.jervisbaywild.com.au/images/Whale1.webp"
+      ]
+    },
+    {
+      "title": "Dolphin Cruise",
+      "images": [
+        "https://www.jervisbaywild.com.au/images/dolpins-jervis-bay-scaled.webp",
+        "https://www.jervisbaywild.com.au/images/dolphin-jervis-bay-3-scaled.webp",
+        "https://www.jervisbaywild.com.au/images/boom-netting-guests-in-net.webp",
+        "https://www.jervisbaywild.com.au/images/dolphin-jervis-bay-2-scaled.webp"
+      ]
+    },
+    {
+      "title": "Swim with Whales",
+      "images": [
+        "https://www.jervisbaywild.com.au/images/swim-with-whales-jervis-bay-hero-v2.webp",
+        "https://www.jervisbaywild.com.au/images/swim-with-whales-jervis-bay-wide-v2.webp"
+      ]
+    },
+    {
+      "title": "Swim with Dolphins",
+      "images": [
+        "https://www.jervisbaywild.com.au/images/dolphin-jervis-bay-3-scaled.webp",
+        "https://www.jervisbaywild.com.au/images/dolpins-jervis-bay-scaled.webp"
+      ]
+    },
+    {
+      "title": "Jervis Bay Passage",
+      "images": [
+        "https://www.jervisbaywild.com.au/images/JervisBayPassage.webp",
+        "https://www.jervisbaywild.com.au/images/jervis-bay-passage-cruise-scaled.webp",
+        "https://www.jervisbaywild.com.au/images/JervisBayWild-jervisBayPassage-Honeymoon-Bay.webp",
+        "https://www.jervisbaywild.com.au/images/Jervis-Bay-Wild-Jervis-Bay-Passage-Cruise-10.webp"
+      ]
+    },
+    {
+      "title": "South Coast Passage",
+      "images": [
+        "https://www.jervisbaywild.com.au/images/9.webp",
+        "https://www.jervisbaywild.com.au/images/8.webp",
+        "https://www.jervisbaywild.com.au/images/JervisBayWild-dolphins-Sensational-John-Mortimer-DSC_4916.webp",
+        "https://www.jervisbaywild.com.au/images/south-coast-passage-boat-thumb.webp"
+      ]
+    },
+    {
+      "title": "Sunset River Cruise",
+      "images": [
+        "https://www.jervisbaywild.com.au/images/jervis-bay-sundowner-cruise.webp",
+        "https://www.jervisbaywild.com.au/images/sundowner-cruise.webp",
+        "https://www.jervisbaywild.com.au/images/Pontoon-Shoot-Drone.webp"
+      ]
+    },
+    {
+      "title": "Sundowners Bay Cruise",
+      "images": [
+        "https://www.jervisbaywild.com.au/images/jervis-bay-sunset-1.webp",
+        "https://www.jervisbaywild.com.au/images/cheese-plate.webp",
+        "https://www.jervisbaywild.com.au/images/prawns-oysters.webp",
+        "https://www.jervisbaywild.com.au/images/jervis-bay-sunset-cruise.webp"
+      ]
+    },
+    {
+      "title": "Stargazing Sea and Sky Cruise",
+      "images": [
+        "https://www.jervisbaywild.com.au/images/stargazing-cruise-night-sky.webp"
+      ]
+    },
+    {
+      "title": "New Year’s Eve Fireworks Cruise",
+      "images": [
+        "https://www.jervisbaywild.com.au/images/jervis-bay-wild-vessel-dusk.webp",
+        "https://www.jervisbaywild.com.au/images/huskisson-wharf-evening.webp"
+      ]
+    },
+    {
+      "title": "Guided Kayak Tour",
+      "images": [
+        "https://www.jervisbaywild.com.au/images/jervis-bay-kayak-tour.webp",
+        "https://www.jervisbaywild.com.au/images/JBW-Guided-Kayaking.webp",
+        "https://www.jervisbaywild.com.au/images/JBW-kayak-hire.webp"
+      ]
+    },
+    {
+      "title": "Kayak & SUP Hire",
+      "images": [
+        "https://www.jervisbaywild.com.au/images/jervis-bay-kayak-tour.webp"
+      ]
+    },
+    {
+      "title": "E-Bike Hire",
+      "images": [
+        "https://www.jervisbaywild.com.au/images/JBW-ebike-hire.webp"
+      ]
+    },
+    {
+      "title": "Push Bike Hire",
+      "images": [
+        "https://www.jervisbaywild.com.au/images/huskisson-push-bike-hire.webp"
+      ]
+    },
+    {
+      "title": "Luxury Private Charters",
+      "images": [
+        "https://www.jervisbaywild.com.au/images/discover-swim-stop.webp",
+        "https://www.jervisbaywild.com.au/images/discover-under-sail.webp",
+        "https://www.jervisbaywild.com.au/images/discover-charter-catering.webp",
+        "https://www.jervisbaywild.com.au/images/discover.webp"
+      ]
+    },
+    {
+      "title": "Private Tours",
+      "images": [
+        "https://www.jervisbaywild.com.au/images/Jervis-Bay-Wild_Private-Wedding-Tours.webp",
+        "https://www.jervisbaywild.com.au/images/JervisBayWild-jervisBayPassage-Honeymoon-Bay.webp",
+        "https://www.jervisbaywild.com.au/images/JBW-Drone-22-.webp",
+        "https://www.jervisbaywild.com.au/images/discover.webp"
+      ]
+    }
+  ],
+  "notes": "Logo is the site header logo (SVG); a white version, jervis-bay-wild-logo-reversed.svg, also exists. No heroImage given: the home page hero (Whales-Jumping-Jervis-Bay.webp, preloaded as the main image) is already in the facts file and no better wide photo was found. The site serves full-size originals at /images/NAME.webp and resized copies at /images/thumbs/NAME-w900.webp; the originals were used (each returned an image on a header-only check) and nothing was downloaded. Gallery leads with the wildlife photos on the home page, then charter, aerial and kayak photos. Videos: the first is embedded on the home page; the rest are from the YouTube channel the site footer links to (youtube.com/@jervisbaywild8049), chosen by title only because nothing was played. Channel videos that belong to other businesses (Huskisson Pontoons, Jervis Bay Weekender, The Cottage Erowal Bay, Heart of Husky) were left out. Because the site has few photos per trip page, most trips have two to four images; hire pages have one. Left out: the two Milky Way and fireworks card photos on the Stargazing and New Year's Eve pages (generic, could not be confirmed as the operator's own), partner and sister-brand logos, Google review avatars, and the Shellharbour Wild cultural cruise thumbnail (a different business). Worth a person's look: the Swim with Whales and Swim with Dolphins photos (newer pages, long captions), Pontoon-Shoot-Drone.webp on the Sunset River Cruise (the Huskisson Pontoons business is linked separately), and a South Coast Passage file whose name includes a person's name (JervisBayWild-dolphins-Sensational-John-Mortimer-DSC_4916.webp; no visible credit was found). No captcha, bot check or block was hit on the operator's site or on the YouTube channel page."
+}

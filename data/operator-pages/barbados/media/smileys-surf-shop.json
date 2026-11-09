@@ -1,0 +1,20 @@
+{
+  "slug": "smileys-surf-shop",
+  "logo": null,
+  "gallery": [
+    "https://smileyssurfshop.com/gallery/IMG_20240524_103000.jpg",
+    "https://smileyssurfshop.com/gallery/download.png"
+  ],
+  "videos": [
+    {
+      "url": "https://smileyssurfshop.com/gallery/smileyssurfshop-ts1669958092.mp4",
+      "title": "Smiley's Surf Shop home page video",
+      "sourceUrl": "https://smileyssurfshop.com/"
+    }
+  ],
+  "trips": [
+    { "title": "Surf Lessons", "images": [] },
+    { "title": "Surf guide hire", "images": [] }
+  ],
+  "notes": "Small site with very few photos: one photo and one small PNG (about 5 KB, content unknown, may be a graphic rather than a photo) near the contact block, plus a self-hosted background video on the home page. No logo image: the header is text and the favicon link returns 404. The Accommodation page has two cropped images of the rental apartment, left out. Shop product photos left out. No YouTube or Vimeo links."
+}

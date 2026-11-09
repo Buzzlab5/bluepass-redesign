@@ -1,0 +1,163 @@
+{
+  "slug": "bodies-school-of-surf",
+  "name": "Bodie's School of Surf",
+  "website": "https://www.barbadossos.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Oistins",
+  "category": "Surf and windsurf school",
+  "summary": "A small, mobile surf and windsurf school on the south coast of Barbados, run by local waterman Bodie. Surf lessons are mostly private and usually held at Freights Bay, with transport from a meeting point in Oistins. Windsurfing lessons run in Oistins Bay with instructor Rusty, and payment is cash only.",
+  "standouts": [
+    "Lead instructor Bodie is RYA (Royal Yachting Association) certified",
+    "Bodie has been surfing and windsurfing for over 35 years",
+    "Windsurf instructors Bodie and Rusty have over 50 years of combined experience",
+    "Mobile school that picks the beach to suit the conditions"
+  ],
+  "contact": {
+    "phone": "+1 246-256-0191",
+    "email": "barbadossos@gmail.com",
+    "address": null,
+    "whatsapp": null
+  },
+  "heroImage": "https://www.barbadossos.com/uploads/1/2/6/7/12674244/background-images/399150601.jpg",
+  "sourceUrls": [
+    "https://www.barbadossos.com/",
+    "https://www.barbadossos.com/surfing.html",
+    "https://www.barbadossos.com/windsurfing.html",
+    "https://www.barbadossos.com/stand-up-paddling-sup.html",
+    "https://www.barbadossos.com/kitesurfing.html",
+    "https://www.barbadossos.com/wing-surf-barbados.html",
+    "https://www.barbadossos.com/about-sos.html",
+    "https://www.barbadossos.com/meet-the-instructors.html",
+    "https://www.barbadossos.com/contact-bodie.html",
+    "https://www.barbadossos.com/read-reviews.html",
+    "https://www.barbadossos.com/gallery.html"
+  ],
+  "trips": [
+    {
+      "title": "Surfing Lessons",
+      "kind": "course",
+      "summary": "Two-hour surf lessons, mostly private, for individuals, couples, families and small groups, with an open group option. The school is mobile and picks the spot to suit the conditions, usually Freights Bay on the south coast, where waves are long and gentle. Most lessons are taught by Bodie himself.",
+      "highlights": [
+        "Private or open group lessons, beginner and intermediate",
+        "Usually held at Freights Bay",
+        "Transport to the beach from Surfers Cafe in Oistins, or pickup from nearby hotels",
+        "Kids lessons and surfing birthday parties on request"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Surfers Cafe, Oistins (meeting point); lessons usually at Freights Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Transport to and from the beach from the Surfers Cafe meeting point in Oistins, or collection from hotels and guest houses in the Oistins area",
+        "Rash vest",
+        "Safety check of the surf conditions",
+        "Beach lesson on paddling, standing and water safety",
+        "Help paddling out and catching waves",
+        "Feedback after every wave",
+        "Fresh water to shower off",
+        "Access to a safe for valuables",
+        "Photos with your instructor"
+      ],
+      "bring": [
+        "Sunblock, factor 30 or more, applied at least 30 mins before going in the water",
+        "Towel",
+        "Cash, cards not accepted"
+      ],
+      "requirements": "Book at least 24 hours in advance",
+      "offer": null,
+      "images": [
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/surfing-lessons-barbados_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/beginner-surf-lessons-barbados_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/beginner-surf-lessons-in-barbados_orig.png",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/4-year-old-surfer-barbados_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/barbados-school-of-surf-1_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/barbados-surf-school-1-bodie_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/barbados-surf-school-1_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/barbados-surfing-lessons_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/bodie-school-of-surf-1_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/bodie-school-of-surf-2_orig.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.barbadossos.com/surfing.html",
+      "checkNotes": "No prices on the site; rates by email or WhatsApp. Booked by phone, WhatsApp (+1 246 256 0191) or email. Cash only. If Bodie is unavailable, Andre teaches."
+    },
+    {
+      "title": "Windsurfing Lessons",
+      "kind": "course",
+      "summary": "Windsurfing lessons on a quiet beach in Oistins Bay, using light, stable beginner boards and sails. Each lesson starts with gear, safety and a beach session, then about 90 minutes on the water with the instructor beside you. Advanced coaching is offered one on one.",
+      "highlights": [
+        "Beginner boards and sails built to be stable and light",
+        "Average 90 mins of water time with your instructor",
+        "Advanced coaching in gybing, waterstarting, jumping, freestyle and wave sailing, private only",
+        "Taught by Rusty and Bodie"
+      ],
+      "duration": "Average 90 mins of water time, after an introduction and beach lesson",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Quiet beach in Oistins Bay; school located in Maxwell",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Introduction to gear, safety and conditions",
+        "Beach lesson",
+        "Water lesson with your instructor",
+        "Outdoor fresh water shower and secure changing area",
+        "Beach umbrella for anyone watching, if required"
+      ],
+      "bring": [
+        "Sunblock, factor 30 or more, applied at least 30 mins before going in the water",
+        "Towel",
+        "Cash, cards not accepted"
+      ],
+      "requirements": "Book at least 24 hours in advance",
+      "offer": null,
+      "images": [
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/barbados-windsurfing-lessons_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/6854308_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/4913760_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/5371262_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/rusty-demonstrating-proper_1_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/8647967_orig.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.barbadossos.com/windsurfing.html",
+      "checkNotes": "No prices on the site; email for rates and bookings. Contacts: Bodie (+1 246)-256-0191, Rusty (+1 246)-261-8529. Cash only. Lessons may be moved or postponed if conditions are unsuitable. Total lesson length not stated, so durationMinutes left null."
+    },
+    {
+      "title": "Windsurfing Rentals",
+      "kind": "other",
+      "summary": "Windsurf equipment rental for intermediate and advanced windsurfers, with a briefing on the area, conditions and safety. Rentals are generally unsupervised.",
+      "highlights": [
+        "For intermediate and advanced windsurfers",
+        "Briefing on the area, conditions and safety",
+        "Rusty oversees all windsurf rentals"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Oistins Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Windsurf equipment",
+        "Briefing on the area, conditions and safety"
+      ],
+      "bring": [],
+      "requirements": "Intermediate or advanced windsurfers. Breakage or damage due to negligence is charged for",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.barbadossos.com/windsurfing.html",
+      "checkNotes": "No prices; enquiries by email. Departure point inferred from the windsurf school location in Oistins Bay on the same page."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "No prices anywhere on the site; every booking is by phone, WhatsApp, email or the contact form, at least 24 hours ahead, and lessons are cash only. WhatsApp is offered on +1 246 256 0191 but the site shows no wa.me link. SUP, kitesurfing and wing surfing pages say the school connects you with other instructors rather than teaching these itself, so they are not built as trips (kitesurfing is held at Long Beach or Silver Rock). The site also lists holiday accommodation (New Haven Apt, East View Cottage, Cotton House 2), not built. No dated content; newest upload found is dated 2023-10-03 and the site covers wing surfing, so treated as trading as our list says. The site says Bodie is the only RYA certified instructor actively teaching in Barbados; standout softened to RYA certified."
+}

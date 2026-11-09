@@ -1,0 +1,251 @@
+{
+  "slug": "bluefin-fishing-barbados",
+  "name": "Bluefin Fishing Barbados",
+  "website": "https://www.bluefinfishingbarbados.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Small boat fishing charters",
+  "summary": "A small fishing charter run by Captain Rob Garrett from the Careenage in Bridgetown, on two 27 foot boats, Wicked Tuna and Fish On. Trips are private and limited to four anglers, aimed at families and young anglers, with hands-on help from the captain. Some trips add a swim with turtles and a snorkel over the Carlisle Bay wrecks.",
+  "standouts": [
+    "Captain Rob Garrett has over 30 years of experience in Barbados waters",
+    "Private trips, limited to 4 people fishing",
+    "Hands-on instruction, especially for young anglers",
+    "States it is fully licensed and insured"
+  ],
+  "contact": {
+    "phone": "+1 246-253-1267",
+    "email": "bluefinbarbados@gmail.com",
+    "address": "Worthing Beach, Christ Church; trips leave from the Careenage, Bridgetown",
+    "whatsapp": null
+  },
+  "heroImage": "https://static.wixstatic.com/media/a694d9_1e1bfa2e3fad43adb6d483c7e5551a5a~mv2_d_4128_3096_s_4_2.jpg",
+  "sourceUrls": [
+    "https://www.bluefinfishingbarbados.com/",
+    "https://www.bluefinfishingbarbados.com/about-us",
+    "https://www.bluefinfishingbarbados.com/our-boats",
+    "https://www.bluefinfishingbarbados.com/rates",
+    "https://www.bluefinfishingbarbados.com/rates-1",
+    "https://www.bluefinfishingbarbados.com/captain-rob",
+    "https://www.bluefinfishingbarbados.com/contact",
+    "https://www.bluefinfishingbarbados.com/copy-of-5-hour-fish-and-swim-charter",
+    "https://www.bluefinfishingbarbados.com/4-hour-fishing-charter",
+    "https://www.bluefinfishingbarbados.com/5-hour-charter",
+    "https://www.bluefinfishingbarbados.com/6-hour-fishing-charter",
+    "https://www.bluefinfishingbarbados.com/8-hour-fishing-charter"
+  ],
+  "trips": [
+    {
+      "title": "3-hour Fishing Special",
+      "kind": "charter",
+      "summary": "A short private trip for families and individuals who want to be back early. It fishes close to the inshore reefs for barracuda, bonito and snapper.",
+      "highlights": [
+        "Inshore reef fishing",
+        "Back in time for the rest of the day",
+        "Good for families"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "The Careenage, Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter",
+          "amount": 350,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/a694d9_37e9287a8d654b50aa2fa6a2f5a6e721~mv2_d_1600_1200_s_2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.bluefinfishingbarbados.com/copy-of-5-hour-fish-and-swim-charter",
+      "checkNotes": "Booked by email (bluefinbarbados@gmail.com), the contact form, or phone and WhatsApp; the Contact and Book button opens an email. Price is for the private charter, not per person. Home page shows $350 USD; the trip page shows $350. Inclusions and group size not stated on this page."
+    },
+    {
+      "title": "4-Hour Fishing Charter",
+      "kind": "charter",
+      "summary": "A private four hour trip from the Careenage, trolling with live bait or lures along the inner and outer reefs of the south and west coasts. Lines go in 10 to 15 minutes out, and you can mix in snorkelling over shipwrecks and swimming with turtles.",
+      "highlights": [
+        "Fishing starts 10 to 15 minutes from the dock",
+        "Trolling with live bait or lures",
+        "Inner and outer reefs, south and west coasts",
+        "Can add snorkelling and a turtle swim"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "The Careenage, Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter",
+          "amount": 400,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Fishing equipment",
+        "Drinks"
+      ],
+      "bring": [
+        "Snacks",
+        "Sun lotion",
+        "Hat",
+        "Sunglasses"
+      ],
+      "requirements": "Limited to 4 people on fishing charters",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.bluefinfishingbarbados.com/4-hour-fishing-charter",
+      "checkNotes": "Booked by email (bluefinbarbados@gmail.com), the contact form, or phone and WhatsApp; the Contact and Book button opens an email. Price is for the private charter, not per person."
+    },
+    {
+      "title": "5-hour Fish and Swim Special",
+      "kind": "charter",
+      "summary": "An early start from Bridgetown for fishing along the west or south coast, aiming for wahoo, barracuda, mahi mahi and bonito. Afterwards the boat heads to Carlisle Bay for a swim with turtles and a snorkel over the wrecks. The operator recommends it for families with young anglers.",
+      "highlights": [
+        "Fishing within 15 minutes of leaving",
+        "Swim with turtles and snorkel the Carlisle Bay wrecks",
+        "Fishing and snorkel gear provided",
+        "Good for families with young anglers"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "The Careenage, Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter",
+          "amount": 450,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Fishing equipment",
+        "Snorkel equipment"
+      ],
+      "bring": [
+        "Snacks",
+        "Sun lotion",
+        "Hat",
+        "Sunglasses"
+      ],
+      "requirements": "Maximum 4 adults, or up to 6 if 3 are young anglers",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/a694d9_37e9287a8d654b50aa2fa6a2f5a6e721~mv2_d_1600_1200_s_2.jpeg",
+        "https://static.wixstatic.com/media/a694d9_d256e188e7ef44a7a41c23034e2f2cfe~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.bluefinfishingbarbados.com/5-hour-charter",
+      "checkNotes": "Booked by email (bluefinbarbados@gmail.com), the contact form, or phone and WhatsApp; the Contact and Book button opens an email. Price is for the private charter, not per person. Drinks are not mentioned on this trip page, unlike the other charters."
+    },
+    {
+      "title": "6-Hour Fishing Charter",
+      "kind": "charter",
+      "summary": "A private six hour trip for more time fishing, trolling with live bait or lures on the inner and outer reefs of the south and west coasts. You can mix in snorkelling over shipwrecks and a swim with turtles.",
+      "highlights": [
+        "Fishing starts 10 to 15 minutes from the dock",
+        "Trolling with live bait or lures",
+        "Can add snorkelling and a turtle swim"
+      ],
+      "duration": "6 hours",
+      "durationMinutes": 360,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "The Careenage, Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter",
+          "amount": 500,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Fishing equipment",
+        "Drinks"
+      ],
+      "bring": [
+        "Snacks",
+        "Sun lotion",
+        "Hat",
+        "Sunglasses"
+      ],
+      "requirements": "Limited to 4 people on fishing charters",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.bluefinfishingbarbados.com/6-hour-fishing-charter",
+      "checkNotes": "Booked by email (bluefinbarbados@gmail.com), the contact form, or phone and WhatsApp; the Contact and Book button opens an email. Price is for the private charter, not per person."
+    },
+    {
+      "title": "8 Hour-Fishing Charter",
+      "kind": "charter",
+      "summary": "A full day for keen anglers, heading out to the captain's favourite fishing grounds and trolling with live bait or lures. It can be shaped around you, with snorkelling over shipwrecks and swimming with turtles if you like.",
+      "highlights": [
+        "Full day on the water",
+        "Trolling with live bait or lures",
+        "Trip can be customised",
+        "Can add snorkelling and a turtle swim"
+      ],
+      "duration": "8 hours",
+      "durationMinutes": 480,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "The Careenage, Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter",
+          "amount": 700,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Fishing equipment",
+        "Drinks"
+      ],
+      "bring": [
+        "Snacks",
+        "Sun lotion",
+        "Hat",
+        "Sunglasses"
+      ],
+      "requirements": "Limited to 4 people on fishing charters",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/a694d9_2feeeadf50ca4c1ebaa10787d48c5b1b~mv2_d_2592_1944_s_2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.bluefinfishingbarbados.com/8-hour-fishing-charter",
+      "checkNotes": "Booked by email (bluefinbarbados@gmail.com), the contact form, or phone and WhatsApp; the Contact and Book button opens an email. Price is for the private charter, not per person."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Special fishing charters for just one person can be arranged",
+      "conditions": "Contact the operator",
+      "validUntil": null,
+      "sourceUrl": "https://www.bluefinfishingbarbados.com/rates"
+    }
+  ],
+  "checkNotes": "No online booking found: the Booking page and every trip button point to email, and the site's sitemap lists no Wix Bookings service pages. Contact page says 'Tel or Whatsapp' for 246-253-1267 but shows no WhatsApp link; the rates page also gives 246-2531259. Site pages were last modified on 4 May 2024 per the sitemap, and no 2025 or 2026 dates appear; the batch list marks the operator active. Home page also mentions scenic personalised boat tours of the west coast, with no price or detail. Address line combines the contact page wording: located at Worthing Beach, departures from the Careenage. Rates page says the 4, 6 and 8 hour charters include a trip to the turtles; turtle feeding is not advertised."
+}

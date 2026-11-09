@@ -1,0 +1,145 @@
+{
+  "slug": "endless-kiteboarding",
+  "name": "Endless Kiteboarding",
+  "website": "https://endlesskiteboarding.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Silver Sands",
+  "category": "Kitesurfing school",
+  "summary": "A kitesurfing school at Silver Rock on the south coast, where steady cross shore trade winds make for a safe place to learn. Owner and senior instructor Roland Boyce has taught with the IKO since 2004, and the school also teaches surfing and windsurfing. Kites, boards, wing foils and other gear are for hire.",
+  "standouts": [
+    "All instructors IKO qualified",
+    "Senior instructor Roland Boyce, an IKO instructor since 2004 and a BKSA instructor",
+    "A minute's walk from the Silver Rock Hotel on the south coast",
+    "Rents Slingshot kites and boards, wing foils, windsurf, surf and SUP boards"
+  ],
+  "contact": {
+    "phone": "+1 (246) 251-7190 or +1 (246) 546-1843",
+    "email": "info@endlesskiteboarding.com",
+    "address": "Silver Rock, Christ Church, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://endlesskiteboarding.com/wp-content/uploads/2017/01/IMG_3949.jpg",
+  "sourceUrls": [
+    "https://endlesskiteboarding.com/",
+    "https://endlesskiteboarding.com/index.php/lessons/",
+    "https://endlesskiteboarding.com/index.php/surfing-lessons/",
+    "https://endlesskiteboarding.com/index.php/windsurfing-lessons/",
+    "https://endlesskiteboarding.com/index.php/equipment-rental/",
+    "https://endlesskiteboarding.com/index.php/about-us/",
+    "https://endlesskiteboarding.com/index.php/contact-us/",
+    "https://endlesskiteboarding.com/index.php/how-to-pay/",
+    "https://endlesskiteboarding.com/index.php/the-shop/",
+    "https://endlesskiteboarding.com/index.php/accommodation/",
+    "https://endlesskiteboarding.com/index.php/weather/",
+    "https://endlesskiteboarding.com/wp-json/wp/v2/pages"
+  ],
+  "trips": [
+    {
+      "title": "Kitesurfing lessons",
+      "kind": "course",
+      "summary": "Kitesurfing lessons with IKO qualified instructors on Silver Sands, taught as a group of two to four or one to one. The school paces each lesson to the student, and most people need six to ten hours to learn to ride on their own. Lessons use the Slingshot school range of kites and boards.",
+      "highlights": [
+        "All instructors IKO qualified",
+        "Group lessons for 2 to 4 people, or private one-on-one",
+        "Normally 6 to 10 hours of lessons to kiteboard independently",
+        "Taught on the latest Slingshot school range"
+      ],
+      "duration": "2, 6 or 10 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Silver Rock, Christ Church",
+      "prices": [
+        { "label": "Group, 2 hours, per person", "amount": 150, "currency": "USD", "note": "Per person in a group of 2-4 persons" },
+        { "label": "Group, 6 hours, per person", "amount": 430, "currency": "USD", "note": "Per person in a group of 2-4 persons" },
+        { "label": "Group, 10 hours, per person", "amount": 630, "currency": "USD", "note": "Per person in a group of 2-4 persons" },
+        { "label": "Private, per hour", "amount": 95, "currency": "USD", "note": "Per person" },
+        { "label": "Private, 2 hours", "amount": 190, "currency": "USD", "note": "Per person" },
+        { "label": "Private, 6 hours", "amount": 540, "currency": "USD", "note": "Per person" },
+        { "label": "Private, 10 hours", "amount": 800, "currency": "USD", "note": "Per person" }
+      ],
+      "priceFrom": 150,
+      "includes": [],
+      "bring": [],
+      "requirements": "Learning is physically demanding; speak to an instructor about what to expect",
+      "offer": null,
+      "images": [
+        "https://endlesskiteboarding.com/wp-content/uploads/2017/01/IMG_3950.jpg",
+        "https://endlesskiteboarding.com/wp-content/uploads/2017/01/SAM_1686.jpg",
+        "https://endlesskiteboarding.com/wp-content/uploads/2017/01/IMG_3949.jpg",
+        "https://endlesskiteboarding.com/wp-content/uploads/2017/01/IMG_3967.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://endlesskiteboarding.com/index.php/lessons/",
+      "checkNotes": "Prices stated in U.S. Dollars and inclusive of VAT. The weather page gives reliable wind from Nov/Dec through to July, but no lesson season is stated. Booked by phone, WhatsApp text or call (+1 246 251-7190) or email; card payment at the shop only."
+    },
+    {
+      "title": "Surfing lessons",
+      "kind": "course",
+      "summary": "Surf lessons for beginners, taught one to one or in small groups, with gear included in the private rate. The school uses Prolimit longboards, which make small waves easier to catch.",
+      "highlights": [
+        "Private lessons include gear",
+        "Group lessons for 2 to 4 people",
+        "Prolimit longboards for small waves"
+      ],
+      "duration": "2 hours or 6 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Private, 2 hours, per person", "amount": 80, "currency": "USD", "note": "Including gear" },
+        { "label": "Private, 6 hours, per person", "amount": 360, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 80,
+      "includes": ["Gear (private lessons)"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://endlesskiteboarding.com/wp-content/uploads/2017/01/SAM_1724-e1485875593310.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://endlesskiteboarding.com/index.php/surfing-lessons/",
+      "checkNotes": "Currency not stated on this page, shown as $; the kitesurf and rental pages say all prices are in US dollars. Group surf prices are not given ('Contact us at +1 246 420-3253'). Surf spot not stated. Page last changed January 2019."
+    },
+    {
+      "title": "Windsurfing lessons",
+      "kind": "course",
+      "summary": "Windsurfing lessons for complete beginners and for anyone wanting a refresher, covering control, tacks and how to sail and stay upwind. Both teaching areas are on flat water on the south coast.",
+      "highlights": [
+        "From complete beginner to refresher course",
+        "Covers control, various types of tacks and sailing upwind",
+        "Two flat water teaching areas on the south coast",
+        "Group lessons for 2 to 4 beginners, or private"
+      ],
+      "duration": "2, 4 or 6 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "South coast, Barbados",
+      "prices": [
+        { "label": "Group, 2 hours, per person", "amount": 80, "currency": "USD", "note": "Per person in a group of 2-4 persons (beginners)" },
+        { "label": "Private, per hour", "amount": 60, "currency": "USD", "note": "Per person" },
+        { "label": "Private, 2 hours", "amount": 120, "currency": "USD", "note": "Per person" },
+        { "label": "Private, 4 hours", "amount": 240, "currency": "USD", "note": "Per person" },
+        { "label": "Private, 6 hours", "amount": 360, "currency": "USD", "note": "Per person" }
+      ],
+      "priceFrom": 80,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://endlesskiteboarding.com/wp-content/uploads/2017/01/PC180008.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://endlesskiteboarding.com/index.php/windsurfing-lessons/",
+      "checkNotes": "Page last changed December 2017; prices may be out of date. The flat water teaching areas are described on the equipment rental page. Booked by phone, WhatsApp or email."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Enquiry only: no online booking; contact by phone, WhatsApp text or call on +1 (246) 251-7190, or the email form. Credit cards accepted at the shop, not online. No wa.me link on the site. A third number, +1 246 420-3253, appears on the surfing page. Equipment rental rates are listed in USD (kite and board combo from $75 USD for 3 hrs, wing foil from $75 USD for 3 hrs, surfboard 25.00 a day, SUP 30.00 for 2 hrs, windsurf from 30.00 an hour; credit card security deposit needed); not listed as trips. Trading: rental page updated November 2025, lessons page May 2024. The site also points to Ocean Bliss Barbados accommodation at Silver Sands."
+}

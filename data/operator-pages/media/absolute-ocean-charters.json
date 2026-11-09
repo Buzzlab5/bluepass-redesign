@@ -1,0 +1,168 @@
+{
+  "slug": "absolute-ocean-charters",
+  "logo": "https://www.absoluteoceancharters.com.au/wp-content/uploads/2023/09/Absolute-Ocean-Charters-Logo.png",
+  "heroImage": "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Absolute-Ocean-Charters-whale-watching.jpg",
+  "gallery": [
+    "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/AOC-Massive-Humpback-Whale-Breach-Cropped.jpg",
+    "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/whale-jumping-from-the-ocean-scaled.jpg",
+    "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Humpback-Whale-Spy-Hopping.jpg",
+    "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Snub-Fin-dolphin-swimming-in-Broome.jpg",
+    "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Sunset-Dolphin-Cruise-Snub-Fin.jpg",
+    "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/guests-aboard-absolute-ocean-charters-at-dusk.jpg",
+    "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Friends-enjoying-wine-at-sunset-on-absolute-ocean-charters.jpg",
+    "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Broome-Sunset-Cruise.jpg",
+    "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/People-watching-a-Broome-sunset-on-Absolute-Ocean-Charters.jpg",
+    "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Contessa-C.jpg",
+    "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Outside-view-of-the-boat.jpg",
+    "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Fishing-in-Broome-on-Absolute-Ocean-Charters.jpg",
+    "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Man-fishing-on-absolute-ocean-charters.jpg",
+    "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Barramundi-fishing-Broome.jpg",
+    "https://www.absoluteoceancharters.com.au/wp-content/uploads/2025/06/JayBee-scaled.jpg",
+    "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/absolute-ocean-charters-skipper.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://vimeo.com/935334072/82d744ec4d",
+      "title": "Home page header video",
+      "sourceUrl": "https://www.absoluteoceancharters.com.au/"
+    },
+    {
+      "url": "https://vimeo.com/935333851/0191b41527",
+      "title": "Whale watching page header video",
+      "sourceUrl": "https://www.absoluteoceancharters.com.au/whale-watching-cruises/"
+    },
+    {
+      "url": "https://vimeo.com/935333949/ebbaa6500e",
+      "title": "Reef fishing page header video",
+      "sourceUrl": "https://www.absoluteoceancharters.com.au/broome-fishing-charters/"
+    },
+    {
+      "url": "https://vimeo.com/941848307",
+      "title": "About page header video",
+      "sourceUrl": "https://www.absoluteoceancharters.com.au/about/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Sunset Whale Watching",
+      "images": [
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/AOC-Massive-Humpback-Whale-Breach-Cropped.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Whale-watching-cruises.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Humpback-Spy-Hopping-scaled-1.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Whale-Watching-Broome.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Whale-breaching.png",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/whales.png",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Kids-on-the-boat-AbsoluteOceanCharters.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Sitting-down-on-the-Boat.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Contessa-C.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Driving-the-boat.jpg"
+      ]
+    },
+    {
+      "title": "Afternoon Whale Watching",
+      "images": [
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/AOC-Massive-Humpback-Whale-Breach-Cropped.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Whale-watching-cruises.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Humpback-Spy-Hopping-scaled-1.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Whale-Watching-Broome.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Whale-breaching.png",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/whales.png",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Kids-on-the-boat-AbsoluteOceanCharters.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Sitting-down-on-the-Boat.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Contessa-C.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Driving-the-boat.jpg"
+      ]
+    },
+    {
+      "title": "Sunset Snubfin Dolphin Cruise",
+      "images": [
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Sunset-Dolphin-Cruise-Snub-Fin.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Snubfin-Dolphin-Eco-Tours.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/snubfin-dolphin-crop.jpeg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Sunset-Dolphin-Cruises.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Broome-Sunset-Cruise.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Children-looking-at-sunset-on-cruise-in-Broome.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Mother-and-Daughter.png",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Baby-Snubbie.png",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Eating-on-the-Boat.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Crew-Member-Talking.jpg"
+      ]
+    },
+    {
+      "title": "Full Day Reef Fishing",
+      "images": [
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Broome-Reef-Fishing-Hero.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Photo-with-a-fish.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/IMG-20210723-WA0000.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/IMG-20210729-WA0000.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/IMG-20210714-WA0007.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/IMG-20210722-WA0004.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Broome_DSF8849-e1629344858435.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Boy-creek-fishing-in-Broome.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Contessa-C.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Driving-the-boat.jpg"
+      ]
+    },
+    {
+      "title": "Half Day Reef Fishing",
+      "images": [
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Broome-Reef-Fishing-Hero.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Photo-with-a-fish.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/IMG-20210723-WA0000.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/IMG-20210729-WA0000.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/IMG-20210714-WA0007.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/IMG-20210722-WA0004.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Broome_DSF8849-e1629344858435.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Boy-creek-fishing-in-Broome.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Contessa-C.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Driving-the-boat.jpg"
+      ]
+    },
+    {
+      "title": "Creek & Estuary Fishing Charters",
+      "images": [
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Barramundi-fishing-Broome.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Boy-creek-fishing-in-Broome.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Fishing-off-the-side-of-the-boat-in-a-creek-in-Broome.jpg"
+      ]
+    },
+    {
+      "title": "Overnight Fishing Charters",
+      "images": [
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Broome-Overnight-Fishing-Charter.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Woman-holding-fish-caught-on-overnight-fishing-charter-Broome.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Fishing-charter-in-Broome.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Overnight-Fishing-Charter-with-AOC.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Photo-with-a-fish.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/IMG-20210723-WA0000.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/IMG-20210729-WA0000.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Contessa-C.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Driving-the-boat.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Outside-view-of-the-boat.jpg"
+      ]
+    },
+    {
+      "title": "Rowley Shoals Fishing and Snorkelling Trip",
+      "images": [
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Scuba-Diving-Broome-Dive-Charter.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/04/Broome-Dive-Charters-Boat-AOC.jpg"
+      ]
+    },
+    {
+      "title": "Exclusive Charters & Cruises",
+      "images": [
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Man-and-woman-fishing-on-private-charter-in-Broome-cropped.jpg"
+      ]
+    },
+    {
+      "title": "Exclusive Tailored Charters",
+      "images": [
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Exclusive-Tailored-Experience-Cropped.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Exclusive-Tailored-Experience-scaled.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Humpback-Whale-Spy-Hopping.jpg",
+        "https://www.absoluteoceancharters.com.au/wp-content/uploads/2024/05/Taking-a-photo-aboard-Absolute-Ocean-Charters.jpg"
+      ]
+    }
+  ],
+  "notes": "No bot check was met; pages were read with curl's default user agent, and a few page stylesheets were read to find the header background photos (video fallback images). Image files were not downloaded, only checked with header requests; all listed URLs answered 200 as images. Photos were chosen from file names and page position, not by looking at them, so the importer's own measuring should decide on shape and size. Logo is the full-size header logo (765 by 486). The square logo mark AOC_logo_mark.png is also on the site. heroImage is the home page header video's fallback photo (Absolute-Ocean-Charters-whale-watching.jpg); its content was not seen, so compare it with AOC-Massive-Humpback-Whale-Breach-Cropped.jpg and Sunset-Dolphin-Cruise-Snub-Fin.jpg. Left out: banners, badges and award graphics (Eco-Certified, Quality-Tourism, COVID-Clean, 2021 and 2022 award finalist and Travellers Choice images, QTAB lockup, MarineReady, SustainableTourism, Eco_Certified_Green_Travel_Leader), the site thumbnail graphic, the 'Fallback' image on the booking pages, all files named 'Collage' (composites on the sunset, fishing, creek, exclusive, tailored and bus tour pages), the bus tour photos (land-only), and 8506290-scaled-1.jpg on the About page (numeric file name typical of stock libraries). Some trip pages also show a PNG photo or two (Whale-breaching.png, whales.png, Mother-and-Daughter.png, Baby-Snubbie.png), which are kept for the importer to measure. Doubtful authorship: Broome_DSF8849-e1629344858435.jpg and the IMG-2021xxxx-WA photos on the fishing pages are uncredited and look like camera or phone files; no credit to another business or photographer appears anywhere on the site. Whale watching trips share one photo set because the Sunset and Afternoon cruises share one page; the two reef fishing trips likewise share the fishing page photos. Creek, overnight, Rowley Shoals, exclusive and tailored pages have few photos of their own; the overnight trip also uses the fishing page's boat and catch photos that appear on its page. Videos: four Vimeo videos are used as page header background loops (Elementor background video) and were found in the page code with their private share hashes, so they are recorded in that form; they were not opened and their content is unknown. A fifth, on the home page behind the bus town tour section, was left out as land-only. The site links no YouTube channel and no Vimeo channel, and its Facebook and Instagram links were not used."
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "rise-eboard-rentals",
+  "logo": "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/5816972a-8c29-4410-b4a2-168430abc6a2/rise-logo-v2.png",
+  "gallery": [
+    "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/36dc54ea-eba5-4825-8c48-ad01a2c89bdf/PHOTO-2024-01-31-20-41-42.jpg",
+    "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/3a8980e9-60bc-4db8-bdb8-1e2f88135ba8/hobbieHat.jpg",
+    "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/ff02ed96-2b57-4091-8611-f7435c6b580f/beach-rentals.jpg",
+    "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/5c97865b-8d3f-4a9d-84ed-aec080fae980/bg-beach-picture.jpg",
+    "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/61e0129b-164e-444e-a2dd-7c2f56369843/rise-board-rentals-live-cam-01.jpg",
+    "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/fb05c3c1-23db-42a2-b83a-852c95da0f61/electric-surf-board-2.png",
+    "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/2d23beea-4077-46bc-970b-16b4935e0ea2/efoil3.png",
+    "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/67f13716-896b-42c4-a9ba-d5ed788593ac/Paddle-Board-with-Boost-Fin.png"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Electric Surfing",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/fb05c3c1-23db-42a2-b83a-852c95da0f61/electric-surf-board-2.png"
+      ]
+    },
+    {
+      "title": "eFoil",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/2d23beea-4077-46bc-970b-16b4935e0ea2/efoil3.png"
+      ]
+    },
+    {
+      "title": "Paddle Board with Boost Fin",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/67f13716-896b-42c4-a9ba-d5ed788593ac/Paddle-Board-with-Boost-Fin.png"
+      ]
+    },
+    {
+      "title": "Single or Double Kayak",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/3e48108b-d8da-4bf8-aade-4180546260d8/kayaking.png"
+      ]
+    },
+    {
+      "title": "Kayak Tours",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/36dc54ea-eba5-4825-8c48-ad01a2c89bdf/PHOTO-2024-01-31-20-41-42.jpg"
+      ]
+    },
+    {
+      "title": "Wing Foil",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/c6adfbab-b7ce-4178-afef-3ba92015dbf4/wingfoil.png"
+      ]
+    },
+    {
+      "title": "Fly Board",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/7412a394-736f-4c1d-a308-e93f02ac3a67/Flyboard.png"
+      ]
+    },
+    {
+      "title": "Jetovator",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/29b3f01a-fc80-422c-9ada-911d9b17af24/jetovator.png"
+      ]
+    },
+    {
+      "title": "Tarzan Boat",
+      "images": []
+    },
+    {
+      "title": "JetSki",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/4b99e469-681f-4155-9a6f-90882ee35683/image-asset.png"
+      ]
+    },
+    {
+      "title": "Seabob",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/efabac32-662c-4a9d-afc9-5890e323fb59/image-asset.png"
+      ]
+    },
+    {
+      "title": "Wake Boarding / Water Sking / Hydrofoil",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/34959068-f828-48ae-9733-bbe99d9cb1f7/9-wakeboarding.png"
+      ]
+    },
+    {
+      "title": "Hobie Cat",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/3a8980e9-60bc-4db8-bdb8-1e2f88135ba8/hobbieHat.jpg"
+      ]
+    },
+    {
+      "title": "Sunfish",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/24d92821-dcc6-4e29-89b4-fab1321e8e19/image-asset.png"
+      ]
+    },
+    {
+      "title": "Glass Bottom Boat",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/b90c3d58-afed-48a6-bbb1-edf85993d101/11-glass-bottom-boat.png"
+      ]
+    },
+    {
+      "title": "Scuba Lessons",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/689e9bd4-4ce8-450f-8d3d-e1720c75cfc3/image-asset.png"
+      ]
+    }
+  ],
+  "notes": "Squarespace site; image URLs are the original CDN files (served as WebP). Most activity tiles are PNG graphics that may carry text, so the importer may drop them. The fishing and luxury power boat tile images belong to links to other businesses and were left out; the beach chairs image was left out as it is not a water activity. The YouTube channel the site links to (Rise Eboard Rentals) has no public videos in its feed. Acuity booking pages not read. No bot checks met."
+}

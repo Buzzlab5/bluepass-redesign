@@ -1,0 +1,230 @@
+{
+  "slug": "adelaide-scuba",
+  "logo": "https://adelaidescuba.com.au/wp-content/uploads/2022/11/adelaide-scuba-logo-white.png",
+  "heroImage": "https://adelaidescuba.com.au/wp-content/uploads/2024/07/LJH_2505-12-scaled.jpg",
+  "gallery": [
+    "https://adelaidescuba.com.au/wp-content/uploads/2024/07/LJH_2505-12-scaled.jpg",
+    "https://adelaidescuba.com.au/wp-content/uploads/2022/10/LJH_5062-1-scaled.jpg",
+    "https://adelaidescuba.com.au/wp-content/uploads/2023/12/LJH_0092-scaled-e1702531974102.jpg",
+    "https://adelaidescuba.com.au/wp-content/uploads/2023/06/LJH_6756-scaled.jpg",
+    "https://adelaidescuba.com.au/wp-content/uploads/2023/12/LJH_0100-scaled.jpg",
+    "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7454-scaled.jpg",
+    "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_1707-scaled.jpg",
+    "https://adelaidescuba.com.au/wp-content/uploads/2022/10/LJH_4691-scaled.jpg",
+    "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg",
+    "https://adelaidescuba.com.au/wp-content/uploads/2022/10/LJH_2033-1.jpg",
+    "https://adelaidescuba.com.au/wp-content/uploads/2025/10/LJH_9097-scaled.jpg",
+    "https://adelaidescuba.com.au/wp-content/uploads/2025/10/dji_fly_20250718_131252_0294_1752810111977_photo-scaled.jpg",
+    "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+    "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+    "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_4435-scaled.jpg",
+    "https://adelaidescuba.com.au/wp-content/uploads/2024/06/LJH_5653-scaled.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=qgcX0y1Nzhs",
+      "title": "Adelaide Scuba home page video",
+      "sourceUrl": "https://adelaidescuba.com.au/"
+    },
+    {
+      "url": "https://adelaidescuba.com.au/wp-content/uploads/2022/11/Adelaide-Scuba-Shop-Promo-1080.mp4",
+      "title": "Adelaide Scuba shop promo",
+      "sourceUrl": "https://adelaidescuba.com.au/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Ck0fhPwOde4",
+      "title": "Boat diving from Glenelg",
+      "sourceUrl": "https://adelaidescuba.com.au/boat-diving/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BkzJrRnWL70",
+      "title": "Ex-HMAS Hobart dive, video one",
+      "sourceUrl": "https://adelaidescuba.com.au/ex-hmas-hobart/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LTaPpzsGhGg",
+      "title": "Ex-HMAS Hobart dive, video two",
+      "sourceUrl": "https://adelaidescuba.com.au/ex-hmas-hobart/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IEpSIkMzAv0",
+      "title": "About Adelaide Scuba",
+      "sourceUrl": "https://adelaidescuba.com.au/about-us/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Boat Diving",
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2024/07/LJH_2505-12-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/12/LJH_0100-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/12/LJH_0092-scaled-e1702531974102.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_4435-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/IMG-20250311-WA0002-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Diving the Ex-HMAS Hobart",
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/12/LJH_0092-scaled-e1702531974102.jpg"
+      ]
+    },
+    {
+      "title": "Private Boat Charters",
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2024/07/LJH_2505-12-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Open Water Diver",
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2024/09/FB_IMG_1724285521385.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/06/IMG-20221203-WA0001.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2022/10/LJH_2033-1.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7454-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/12/LJH_0100-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/dji_fly_20250718_131252_0294_1752810111977_photo-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/IMG-20250311-WA0002-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Junior Open Water Diver",
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/06/IMG_1243.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2024/09/FB_IMG_1724285521385.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/06/IMG-20221203-WA0001.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2022/10/LJH_2033-1.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7454-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/12/LJH_0100-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/dji_fly_20250718_131252_0294_1752810111977_photo-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Advanced Open Water Diver",
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/06/LJH_6756-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2024/09/FB_IMG_1724285521385.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/06/IMG-20221203-WA0001.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2022/10/LJH_2033-1.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7454-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/12/LJH_0100-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/dji_fly_20250718_131252_0294_1752810111977_photo-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Rescue Diver",
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2022/10/LJH_4691-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2024/09/FB_IMG_1724285521385.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/06/IMG-20221203-WA0001.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2022/10/LJH_2033-1.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7454-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/12/LJH_0100-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/dji_fly_20250718_131252_0294_1752810111977_photo-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Enriched Air Nitrox Diver",
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2022/10/nitrox-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2024/09/FB_IMG_1724285521385.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/06/IMG-20221203-WA0001.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2022/10/LJH_2033-1.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7454-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/12/LJH_0100-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/dji_fly_20250718_131252_0294_1752810111977_photo-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Wreck Diver",
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2022/10/wreck-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2024/09/FB_IMG_1724285521385.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/06/IMG-20221203-WA0001.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2022/10/LJH_2033-1.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7454-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/12/LJH_0100-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/dji_fly_20250718_131252_0294_1752810111977_photo-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Deep Diver",
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2022/10/LJH_5436-1-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2024/09/FB_IMG_1724285521385.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/06/IMG-20221203-WA0001.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2022/10/LJH_2033-1.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7454-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/12/LJH_0100-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/dji_fly_20250718_131252_0294_1752810111977_photo-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Drysuit Diver",
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2024/09/FB_IMG_1724285521385.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/06/IMG-20221203-WA0001.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2022/10/LJH_2033-1.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7454-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/12/LJH_0100-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/dji_fly_20250718_131252_0294_1752810111977_photo-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/IMG-20250311-WA0002-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Sidemount Diver",
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/06/skoober.jpeg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2024/09/FB_IMG_1724285521385.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/06/IMG-20221203-WA0001.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2022/10/LJH_2033-1.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7454-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/12/LJH_0100-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/dji_fly_20250718_131252_0294_1752810111977_photo-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Navigation Specialty Diver",
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2024/09/FB_IMG_1724285521385.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/06/IMG-20221203-WA0001.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2022/10/LJH_2033-1.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7454-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/12/LJH_0100-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/dji_fly_20250718_131252_0294_1752810111977_photo-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/IMG-20250311-WA0002-scaled.jpg"
+      ]
+    }
+  ],
+  "notes": "Logo is the site header logo (white on a transparent background, 700 pixels wide, the only logo file the site serves); it will not show on a white background. The footer wordmark (Wordmark-Red-scaled.png) is a PADI logo, so it was left out. Hero is the dive boats with divers on the water, taken from the Services & Facilities page (alt text 'Dive boats Abracadabra and Reef Knot, filled with scuba divers on the calm ocean'); the home page's own main photo is LJH_5062-1-scaled.jpg (also first in the facts file and second in the gallery) if a person prefers that one. Gallery is the LJH-numbered photos, drone and phone photos from the home, course, about and Services & Facilities pages, plus the shop front. Videos: no YouTube or Vimeo channel is linked from the site, so these are the five YouTube embeds found on its pages plus one video file the site hosts (the home page background video, about 19 MB); titles describe where each sits, because the video titles were not opened. Every course page shows the same gallery of 14 learn-to-dive photos, so most course trips share the same photos after their own lead image (cut to 10); Navigation Specialty has no photo of its own (its lead image is a banner with text), and Open Water has the gallery only. Boat Diving, the Ex-HMAS Hobart and Private Boat Charters have few photos of their own: the Hobart page has one photo plus a graphic with text, and the boat photos on Boat Diving are taken from the shared header, the Dive Calendar page and the Services & Facilities page. Left out: banners and graphics with text printed on them (Nav-Website-Banner, AOW-Banner, DSD-Website-Banner, Deep-Website-Banner, EANX-Website-Banner, Rescue-Website-Banner, Wreck-Website-Banner, Sidemount-Website-Banner, Banner-image-site, Lets-dive-the-hobart), the cut-out and fade graphics (Reefy-Cut-Out, Boat-Fade, fish icons, Compilation, all-about, home-img PNG files), the team portraits on the About page, and the retail and gas room photos. Also left out, because they are site-build images of unknown origin that a person could not check from the page: the diving-sa-img, course-img, about-img, adelaide-img and home-img JPG files (they show South Australian scenes and wildlife that may not be the operator's own). Several files are named FB_IMG or IMG-...-WA (saved from phones or messaging); the site credits no one else, but a person should confirm they are the operator's own. Two non-LJH photos used only as course lead images (wreck-scaled.jpg, nitrox-scaled.jpg) are 2022 site-build files; confirm they are the operator's own. No bot check or captcha was hit on adelaidescuba.com.au; 24 pages were read and no image was downloaded."
+}

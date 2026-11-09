@@ -1,0 +1,387 @@
+{
+  "slug": "the-big-duck-boat-tours",
+  "name": "The Big Duck Boat Tours",
+  "website": "https://thebigduck.com.au",
+  "rezdyAlias": "thebigduck",
+  "state": "SA",
+  "town": "Victor Harbor",
+  "category": "Wildlife boat tours",
+  "summary": "Wildlife tours in rigid inflatable boats from the Granite Island Causeway at Victor Harbor and from St Vincent Marina at Wirrina Cove, on the Fleurieu Peninsula. Tours visit seal and sea lion colonies on the islands and coast of the Encounter Marine Park, with dolphins and, from June to September, whales. Private charters are available on both boats.",
+  "standouts": [
+    "Advanced ecotourism certified",
+    "Gold in the Ecotourism category at the 2023 and 2024 South Australian Tourism Awards",
+    "Licensed whale watching vessel that keeps 300 metres from whales",
+    "Supports monthly Dolphin Watch surveys and runs its own sea lion monitoring program"
+  ],
+  "contact": {
+    "phone": "+61 8 8555 2203",
+    "email": "bookings@thebigduck.com.au",
+    "address": "Main Wharf, Goolwa, South Australia (reservations office, open 7 days)"
+  },
+  "heroImage": "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1699330788175-RZLN8DDKF2LROMRIFO6N/The+Big+Duck+Boat+Tour.jpg",
+  "sourceUrls": [
+    "https://www.thebigduck.com.au/",
+    "https://www.thebigduck.com.au/seal-island-tour",
+    "https://www.thebigduck.com.au/southern-ocean-adventure",
+    "https://www.thebigduck.com.au/victor-harbor-whale-watching",
+    "https://www.thebigduck.com.au/sea-wirrina",
+    "https://www.thebigduck.com.au/charters",
+    "https://www.thebigduck.com.au/faq",
+    "https://www.thebigduck.com.au/access",
+    "https://www.thebigduck.com.au/booking-terms",
+    "https://www.thebigduck.com.au/contact",
+    "https://www.thebigduck.com.au/gift-vouchers",
+    "https://www.thebigduck.com.au/bookyourcruisehere",
+    "https://www.thebigduck.com.au/our-environment",
+    "https://www.thebigduck.com.au/the-boat",
+    "https://www.thebigduck.com.au/gallery",
+    "https://www.thebigduck.com.au/whalewatchinglog",
+    "https://www.thebigduck.com.au/birdfluh5n1",
+    "https://www.thebigduck.com.au/travel-updates",
+    "https://www.thebigduck.com.au/regionalinfo",
+    "https://www.thebigduck.com.au/sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Seal Island Tour",
+      "kind": "tour",
+      "summary": "A 45 minute boat tour from the Granite Island Causeway at Victor Harbor. The boat passes Granite Island and its rock formations, then continues to Seal Island, home to fur seals, sea lions and seabirds. The crew talks about the history of the area, and routes change with the weather and where the wildlife is.",
+      "highlights": [
+        "Passes Granite Island and its rock formations",
+        "Seal Island, home to fur seals, sea lions and seabirds",
+        "Local history from the crew",
+        "Family ticket available"
+      ],
+      "duration": "45 minutes",
+      "durationMinutes": 45,
+      "departureTimes": [
+        "12:45"
+      ],
+      "season": "Year round (Tuesday, Thursday, Saturday and Sunday, plus extra departure days through winter and school holidays)",
+      "departsFrom": "Granite Island Causeway, Victor Harbor (boat landing about 300m along the causeway)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 55,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (2-15 years)",
+          "amount": 35,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2 adults + 2 children)",
+          "amount": 155,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 55,
+      "includes": [
+        "Waterproof jackets provided on board",
+        "Toilet on board",
+        "Sun protection on the vessel",
+        "Commentary from the skipper and crew"
+      ],
+      "bring": [
+        "Warm clothing: it is often about 10 degrees cooler on the ocean than on land, even in summer",
+        "Camera or binoculars if you like (salt spray can reach the boat)",
+        "Eat and drink before or after the tour, as the ride can be bumpy and take on spray",
+        "If you are prone to sea sickness, a ginger tablet or travel-sickness medication at least 1 hour before"
+      ],
+      "requirements": "Minimum age 2 years; children 2 to 15 must be accompanied by at least one adult. Not suitable for pregnant women. The front 5 rows have seat belts and the most motion; passengers there must be able to sit with their feet firmly on the floor, and there is a height restriction of 1500mm for the forward section. Not wheelchair accessible; passengers need to manage steps to board. No pets except registered guide dogs. Every passenger signs a digital waiver before boarding (a parent or guardian signs for under 18s).",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/a1e3b127-79f4-49f8-a421-e0e85c44c349/fur+seal.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1455589619859-ADTXWIROYM7SU37T20AA/P3310393.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1455167960121-1DRXVN8A50KJR0ZFNCN1/67_expanded_gallery3.jpg"
+      ],
+      "bookingLinks": [
+        "https://thebigduck.rezdy.com/222354/seal-island-tour-victor-harbor"
+      ],
+      "sourceUrl": "https://www.thebigduck.com.au/seal-island-tour",
+      "checkNotes": "Tour page says prices are valid to 31 March 2027 and the tour departs 12:45pm (usually). Operating days are Tuesday, Thursday, Saturday and Sunday, plus extra days in winter and school holidays. Age, height, pregnancy, access, waiver and what-to-bring details come from the FAQ, Accessibility and Booking Terms pages, which cover both Victor Harbor tours. Booking terms say a minimum of 2 passengers per tour and 6 passengers in a day are needed for tours to run. The page also says wildlife sightings are not guaranteed; not repeated here. The tour page banner photo (seal-2870893_1920.jpg) has a stock-style file name and was not used."
+    },
+    {
+      "title": "Southern Ocean Adventure",
+      "kind": "tour",
+      "summary": "A 90 minute tour from Victor Harbor past Granite Island and Seal Rock to West Island, where seals, sea lions and seabirds gather. The route continues along the cliffs at Kings Beach and Waitpinga before returning to the Granite Island Causeway. From June to September the same tour also looks for whales.",
+      "highlights": [
+        "Route passes Granite Island, Seal Rock and West Island",
+        "Fur seals, sea lions and seabirds on the islands",
+        "Cliffs at Kings Beach and Waitpinga",
+        "Whale watching on the same tour from June to September"
+      ],
+      "duration": "90 minutes",
+      "durationMinutes": 90,
+      "departureTimes": [
+        "10:45"
+      ],
+      "season": "Year round (Tuesday, Thursday, Saturday and Sunday, plus extra departure days through winter and school holidays)",
+      "departsFrom": "Granite Island Causeway, Victor Harbor (boat landing about 300m along the causeway)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 85,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (2-15 years)",
+          "amount": 65,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2 adults + 2 children)",
+          "amount": 265,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 85,
+      "includes": [
+        "Waterproof jackets provided on board",
+        "Toilet on board",
+        "Sun protection on the vessel",
+        "Commentary from the skipper and crew"
+      ],
+      "bring": [
+        "Warm clothing: it is often about 10 degrees cooler on the ocean than on land, even in summer",
+        "Camera or binoculars if you like (salt spray can reach the boat)",
+        "Eat and drink before or after the tour, as the ride can be bumpy and take on spray",
+        "If you are prone to sea sickness, a ginger tablet or travel-sickness medication at least 1 hour before"
+      ],
+      "requirements": "Minimum age 2 years; children 2 to 15 must be accompanied by at least one adult. Not suitable for pregnant women. The front 5 rows have seat belts and the most motion; passengers there must be able to sit with their feet firmly on the floor, and there is a height restriction of 1500mm for the forward section. Not wheelchair accessible; passengers need to manage steps to board. No pets except registered guide dogs. Every passenger signs a digital waiver before boarding (a parent or guardian signs for under 18s).",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/f181a020-ef34-410e-98a2-2c580cb36ebb/The+Big+Duck+Boat+Tour.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1455161184313-QAGUNB103DU86AID33WF/dolphins+from+Big+Duck.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1455590808054-R1RGRFH0HYFT3UAKEGAL/67_expanded_gallery3.jpg"
+      ],
+      "bookingLinks": [
+        "https://thebigduck.rezdy.com/222371/southern-ocean-adventure-victor-harbor"
+      ],
+      "sourceUrl": "https://www.thebigduck.com.au/southern-ocean-adventure",
+      "checkNotes": "Tour page says prices are valid to 31 March 2027. It departs 10:45am (usually), with an additional 2pm session when busy; only 10:45 is listed as a departure time. Operating days are Tuesday, Thursday, Saturday and Sunday, plus extra days in winter and school holidays. The page prints the family ticket as (2A-2C) and the child price as $65.00. The same Rezdy product is used for the Winter Whale Watching tour. The page adds that the whale season runs June to September, that whale sightings cannot be guaranteed, and that the route depends on weather; the whale season wording is not repeated as a promise. Age, height, pregnancy, access, waiver and what-to-bring details come from the FAQ, Accessibility and Booking Terms pages."
+    },
+    {
+      "title": "Winter Whale Watching",
+      "kind": "tour",
+      "summary": "A June to September version of the 90 minute Southern Ocean Adventure that looks for southern right and humpback whales around Encounter Bay. The vessel is a licensed whale watching vessel and stays at least 300 metres from whales. When whales are not in the area, the tour runs as a wildlife tour of dolphins, seals, sea lions and birds.",
+      "highlights": [
+        "Southern right whale breeding area in Encounter Bay",
+        "Licensed whale watching vessel, 300 metre minimum approach distance",
+        "Heads east towards Port Elliot and Bashams Beach when whales are present",
+        "Runs as a wildlife tour when whales are not present"
+      ],
+      "duration": "90 minutes",
+      "durationMinutes": 90,
+      "departureTimes": [
+        "10:45"
+      ],
+      "season": "June to September (winter whale season, dependent on whales)",
+      "departsFrom": "Granite Island Causeway, Victor Harbor (boat landing about 300m along the causeway)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 85,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (2-15 years)",
+          "amount": 65,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2 adults + 2 children)",
+          "amount": 265,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 85,
+      "includes": [
+        "Waterproof jackets provided on board",
+        "Toilet on board",
+        "Sun protection on the vessel",
+        "Commentary from the skipper and crew"
+      ],
+      "bring": [
+        "Warm clothing and extra layers in winter",
+        "Camera with a zoom lens (the site recommends this for whale photos)",
+        "Eat and drink before or after the tour, as the ride can be bumpy and take on spray",
+        "If you are prone to sea sickness, a ginger tablet or travel-sickness medication at least 1 hour before"
+      ],
+      "requirements": "Minimum age 2 years; children 2 to 15 must be accompanied by at least one adult. Not suitable for pregnant women. The front 5 rows have seat belts and the most motion; passengers there must be able to sit with their feet firmly on the floor, and there is a height restriction of 1500mm for the forward section. Not wheelchair accessible; passengers need to manage steps to board. No pets except registered guide dogs. Every passenger signs a digital waiver before boarding (a parent or guardian signs for under 18s).",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1492751078580-931GXWCZMR2AOAVGCS8S/whale+2.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1492751227936-M9JRBGGUFYFDCWHUNM9W/P3310393.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1523486645953-XPCL1HEEEC0H9YD6DA0Z/Big+Duck+Southern+Right+Whale+Tail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1492750405045-RAKPN4CPQNU7LM7GKSAA/Big+Duck+Southern+Right+Whale+Breach.jpg"
+      ],
+      "bookingLinks": [
+        "https://thebigduck.rezdy.com/222371/southern-ocean-adventure-victor-harbor"
+      ],
+      "sourceUrl": "https://www.thebigduck.com.au/victor-harbor-whale-watching",
+      "checkNotes": "Out of season at the time of reading (mid October 2026): the Whale Log post of 17 September 2026 calls it the unofficial end of the 2026 whale season, so the next season starts June 2027. The page lists the same prices, 10:45am departure (plus 2pm when busy) and Rezdy product as the Southern Ocean Adventure. The page shows no validity date; the other Victor Harbor tour pages say prices are valid to 31 March 2027, so 2027 season prices should be confirmed. The page says whale numbers vary a lot from year to year and sightings cannot be guaranteed, and the FAQ describes July and August as the most reliable months and gives past whale counts; none of that is repeated here. Photos taken from the whale page slideshow were kept only where the file name suggests the operator's own boat or photo; many other slideshow photos carry other people's names or look like Facebook downloads and were left out."
+    },
+    {
+      "title": "Sea Wirrina Tour",
+      "kind": "tour",
+      "summary": "A 75 minute tour from St Vincent Marina at Wirrina Cove along the Fleurieu Peninsula coast, past Second Valley and Rapid Bay. It visits a fur seal colony, and guests look out for white-bellied sea eagles overhead. The coastline is more sheltered than at Victor Harbor, so there is no minimum age and the tour suits the whole family.",
+      "highlights": [
+        "Coastline past Second Valley and Rapid Bay",
+        "Fur seal colony",
+        "Look out for white-bellied sea eagles overhead",
+        "No age restrictions; suitable for pregnant women"
+      ],
+      "duration": "75 minutes",
+      "durationMinutes": 75,
+      "departureTimes": [
+        "12:00"
+      ],
+      "season": "October to April (Wednesday, Saturday and Sunday)",
+      "departsFrom": "St Vincent Marina, Wirrina Cove (down the ramp to the right of the boat ramp; parking in the marina car park behind the marina office)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 75,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (0-15 years)",
+          "amount": 50,
+          "currency": "AUD",
+          "note": "Age range as printed on the tour page"
+        },
+        {
+          "label": "Family (2 adults + 2 children)",
+          "amount": 215,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0-2 years)",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free of charge, Sea Wirrina tours only, as stated on the FAQ and Accessibility pages"
+        }
+      ],
+      "priceFrom": 75,
+      "includes": [
+        "Waterproof jackets provided on board",
+        "Toilet on board",
+        "Sun protection on the vessel",
+        "Commentary from the skipper and crew"
+      ],
+      "bring": [
+        "Warm clothing: it is often about 10 degrees cooler on the ocean than on land",
+        "Camera or binoculars if you like (salt spray can reach the boat)"
+      ],
+      "requirements": "No age restrictions and no pregnancy restriction on this tour. Not wheelchair accessible: boarding is by floating pontoon and passengers need to manage steps. No pets except registered guide dogs. Every passenger signs a digital waiver before boarding (a parent or guardian signs for under 18s).",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/0060b22d-4a50-492c-b92a-490d0f9385d8/Sea-Wirrina-Fleurieu-Peninsula-SA-20220204-52.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1718253123914-DMR6GZOYUP0SGGO0E89I/Sea-Wirrina-Fleurieu-Peninsula-SA-20220204-0258.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1718253389794-ZVMZRDPIWDRWQQ7PI51C/Sea-Wirrina-Fleurieu-Peninsula-SA-20220204-130.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1718253422215-69HLA1Z453Y3AOAMLC8F/Sea-Wirrina-Fleurieu-Peninsula-SA-20220204-132.jpg"
+      ],
+      "bookingLinks": [
+        "https://thebigduck.rezdy.com/450286/sea-wirrina-tour-wirrina-cove"
+      ],
+      "sourceUrl": "https://www.thebigduck.com.au/sea-wirrina",
+      "checkNotes": "Seasonal tour, October to April, so running now. Tour page says it departs 12pm (usually), with an additional 1:45pm session when busy, and that prices are valid to 31 March 2027. Child and infant ages conflict between pages: the tour page prices Child as 0-15 years at $50; the FAQ and Accessibility page say Child is 2-15 and infants 0-2 are free; Booking Terms say Infant 0-2 and Child 3-15. The free infant line is from the FAQ. Photos: the Sea-Wirrina-Fleurieu-Peninsula-SA-20220204 series appears on the operator's pages with no credit shown, but the file naming looks like a commissioned shoot; confirm they are the operator's. The two photos on the tour page banner and body (Rapid Bay FP - Ben Goode, Fleurieu Peninsula FP - Jem Cresswell) carry photographer names and were left out."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "Two Naiad rigid inflatable boats can be chartered by groups at a flat rate: Pungari at Victor Harbor and Kondoli at Wirrina Cove. Each carries up to 40 passengers and the price is the same for any number of people. Charters are run for school and education groups, research groups, coach tours and private events.",
+      "highlights": [
+        "Pungari at Victor Harbor and Kondoli at Wirrina Cove",
+        "Flat rate for up to 40 passengers",
+        "90 minute charters on any day of the week",
+        "Schools, citizen science, coach groups and special events"
+      ],
+      "duration": "45 to 90 minutes",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Victor Harbor: Granite Island Causeway (about 300m along). Wirrina Cove: St Vincent Marina.",
+      "prices": [
+        {
+          "label": "Victor Harbor charter on Pungari, 45 minutes",
+          "amount": 1000,
+          "currency": "AUD",
+          "note": "Flat rate, up to 40 passengers"
+        },
+        {
+          "label": "Victor Harbor charter on Pungari, 60 minutes",
+          "amount": 1300,
+          "currency": "AUD",
+          "note": "Flat rate, up to 40 passengers"
+        },
+        {
+          "label": "Victor Harbor charter on Pungari, 90 minutes",
+          "amount": 1600,
+          "currency": "AUD",
+          "note": "Flat rate, up to 40 passengers"
+        },
+        {
+          "label": "Wirrina Cove charter on Kondoli, 60 minutes",
+          "amount": 1300,
+          "currency": "AUD",
+          "note": "Flat rate, up to 40 passengers"
+        },
+        {
+          "label": "Wirrina Cove charter on Kondoli, 75 minutes",
+          "amount": 1400,
+          "currency": "AUD",
+          "note": "Flat rate, up to 40 passengers"
+        },
+        {
+          "label": "Wirrina Cove charter on Kondoli, 90 minutes",
+          "amount": 1600,
+          "currency": "AUD",
+          "note": "Flat rate, up to 40 passengers"
+        }
+      ],
+      "priceFrom": 1000,
+      "includes": [
+        "Exclusive hire at a flat rate for any number of passengers up to 40"
+      ],
+      "bring": [],
+      "requirements": "Maximum 40 passengers on each vessel. Subject to availability and the public tour schedule.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/c177b64b-c7c8-4086-96c1-c7c9bc1388c1/Sea-Wirrina-Fleurieu-Peninsula-SA-20220204-186.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1455590808054-R1RGRFH0HYFT3UAKEGAL/67_expanded_gallery3.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.thebigduck.com.au/charters",
+      "checkNotes": "Enquiry only: the charter page has an enquiry form, and the FAQ gives bookings@thebigduck.com.au and phone (08) 8555 2203. No booking link. Shorter charters are offered on days with public tours or days with several charter departures; 90 minute charters at Victor Harbor and 75 minute charters at Wirrina Cove are offered any day, still subject to availability. Prices are flat rates as printed on the page; no validity date is shown. The charter page banner and card photos (Wright Is, Encounter Bay FP - Isaac Forman, Serio) carry a photographer name and were left out."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers",
+      "conditions": "Bought through the voucher form on the Buy Vouchers page and redeemed through the booking system's redeem page",
+      "validUntil": null,
+      "sourceUrl": "https://www.thebigduck.com.au/gift-vouchers"
+    },
+    {
+      "text": "Special discounted rate for Companion Card holders and their guests on regular tours",
+      "conditions": "Companion Card is not used with online bookings. Book through the reservations office on (08) 8555 2203",
+      "validUntil": null,
+      "sourceUrl": "https://www.thebigduck.com.au/faq"
+    }
+  ],
+  "checkNotes": "Notices on the site: (1) The Whale Log post of 17 September 2026 calls it the unofficial end of the 2026 whale season, so Winter Whale Watching is out of season as of mid October 2026; the other tours are described as running year round (Victor Harbor) or October to April (Sea Wirrina). (2) A bird flu page and a FAQ entry say tours are operating as normal. (3) A Harmful Algal Bloom page says the ocean tours have not been impacted; it refers to events from 2025 and may be out of date. Booking: every trip with a link uses a per-trip Rezdy link found on the operator's own page (shop alias thebigduck). Private Charters are sold by enquiry only. Not treated as trips: the 'Tour Menu' link on the Contact page (thebigduck.rezdy.com/catalog/180455/tour-menu), the BOOK NOW and Tour Calendar menu links (thebigduck.rezdy.com and /productsCalendar/180455), and the Book Now page (/bookyourcruisehere), which embeds the whole booking shop in a frame. Gift vouchers are sold through an embedded Rezdy gift card catalog on the Buy Vouchers page (thebigduck.rezdy.com/catalog/190584/gift-cards). No Rezdy page was opened. Spirit of the Coorong (spiritofthecoorong.com.au) is a sister brand run by the same director with Coorong National Park tours; it is a separate site and was not included. Earlier Murray Mouth tours appear only in old YouTube video titles and are not described on the site. Prices on the Victor Harbor and Sea Wirrina tour pages are stated as valid to 31 March 2027. Cancellation terms (Booking Terms): no refund if cancelled less than 24 hours before departure or for late arrivals; full refund or credit if cancelled more than 24 hours before; an alternate date or full refund if the operator cancels (for example weather). The Environment page says an optional $5 donation to Dolphin Watch and an optional $2 carbon offset contribution are offered during online booking; they are not on the tour pages and were not entered as price options. Contact: the Contact page shows phone (08) 8555 2203, bookings@thebigduck.com.au and an office on the Main Wharf in Goolwa. The page's hidden site data lists a different phone (0405125312) and a Victor Harbor Tramway address; those are not shown to visitors and were not used. The site makes strong claims that were not repeated: carbon negative and climate positive, a full offset of operational emissions, past whale counts, and wildlife sighting language. The 2023 and 2024 award wording is from the Environment page text; award badges on the home page also show a 2025 Gold Ecotourism award and a Hall of Fame logo, which the page text does not explain, so they were not used."
+}

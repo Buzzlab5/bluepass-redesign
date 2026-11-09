@@ -1,0 +1,278 @@
+{
+  "slug": "wings-sailing-charters",
+  "logo": "https://www.wings.com.au/assets/images/wings-logo-small.png",
+  "gallery": [
+    "https://www.wings.com.au/assets/images/Wings_3_back_deck_chill-rs.jpg",
+    "https://www.wings.com.au/assets/images/DJI_0049-rs.jpg",
+    "https://www.wings.com.au/assets/images/George_and_snorkellers-rs.jpg",
+    "https://www.wings.com.au/assets/images/Turtle-close-snorkellers-rs.jpg",
+    "https://www.wings.com.au/assets/images/Wings_adventures_54-rs.jpg",
+    "https://www.wings.com.au/assets/images/swim-enclosure-rs.jpg",
+    "https://www.wings.com.au/assets/images/kayak-island-whitsundays-rs.jpg",
+    "https://www.wings.com.au/assets/images/wings-sunset24-rs.jpg",
+    "https://www.wings.com.au/assets/images/WingsSUP-1-rs.jpg",
+    "https://www.wings.com.au/assets/images/Back-deck-toys-rs.jpg",
+    "https://www.wings.com.au/assets/images/DSC02138-rs.jpg",
+    "https://www.wings.com.au/assets/images/Wings-home-sunset.jpg",
+    "https://www.wings.com.au/assets/images/Wings-home-sail.jpg",
+    "https://www.wings.com.au/assets/images/Wings-home-fun.jpg",
+    "https://www.wings.com.au/assets/images/Wings-III-Sunset-new.jpg",
+    "https://www.wings.com.au/assets/images/Jacuzzi-cheers.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=QOVHGLK5dJ4",
+      "title": "Whitsunday Islands sail, SUP and snorkel tour",
+      "sourceUrl": "https://www.wings.com.au/whitsunday-islands-sail-snorkel-and-sup-tour/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NNX62cYoTaw",
+      "title": "Whitsunday Islands sail, SUP and snorkel day tour",
+      "sourceUrl": "https://www.youtube.com/c/WingsAus/videos"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=npR3RAJ1Tqk",
+      "title": "Sunset cruise from Airlie Beach",
+      "sourceUrl": "https://www.wings.com.au/airlie-beach-sunset-sail-in-style-cruise/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aFzR8yQ4lag",
+      "title": "Two hour sunset cruise",
+      "sourceUrl": "https://www.youtube.com/c/WingsAus/videos"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jaI7Si3kfJA",
+      "title": "Whitsunday sailing holidays",
+      "sourceUrl": "https://www.youtube.com/c/WingsAus/videos"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Whitsunday Islands Sail, SUP & Snorkel Tour",
+      "images": [
+        "https://www.wings.com.au/assets/images/Langford-Private-mooring.jpg",
+        "https://www.wings.com.au/assets/images/Happy-snorkeler2-rs.jpg",
+        "https://www.wings.com.au/assets/images/SnorkellingWings-rs.jpg",
+        "https://www.wings.com.au/assets/images/Turtle-pax-rs.jpg",
+        "https://www.wings.com.au/assets/images/BeachVibes-rs.jpg",
+        "https://www.wings.com.au/assets/images/Family-on-sundeck-with-kids-copy.jpg",
+        "https://www.wings.com.au/assets/images/Langford-Island.jpeg",
+        "https://www.wings.com.au/assets/images/Turtle-close-snorkellers-rs.jpg",
+        "https://www.wings.com.au/assets/images/WIngs-III-backdeck-rs.jpg",
+        "https://www.wings.com.au/assets/images/TurtleSnorkelling-rs.jpg"
+      ]
+    },
+    {
+      "title": "Airlie Beach Sunset Sail in Style Cruise",
+      "images": [
+        "https://www.wings.com.au/assets/images/SunsetCharter13-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter4-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter2-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter5-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter1-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter8-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter10-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter9-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter6-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter7-rs.jpg"
+      ]
+    },
+    {
+      "title": "2 Hour Exclusive Sunset Sail on Airlie Beach Bay",
+      "images": [
+        "https://www.wings.com.au/assets/images/SunsetCharter13-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter4-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter2-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter5-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter1-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter8-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter10-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter9-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter6-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter7-rs.jpg",
+        "https://www.wings.com.au/assets/images/BBQsail9-rs.jpg"
+      ]
+    },
+    {
+      "title": "Private Sunset Yacht Sail on the Bay, 3 Hour Charter",
+      "images": [
+        "https://www.wings.com.au/assets/images/BBQsail13-rs.jpg",
+        "https://www.wings.com.au/assets/images/BBQsail2-rs.jpg",
+        "https://www.wings.com.au/assets/images/BBQsail1.jpg",
+        "https://www.wings.com.au/assets/images/BBQsail3-rs.jpg",
+        "https://www.wings.com.au/assets/images/BBQsail4-rs.jpg",
+        "https://www.wings.com.au/assets/images/BBQsail5-rs.jpg",
+        "https://www.wings.com.au/assets/images/BBQsail6-rs.jpg",
+        "https://www.wings.com.au/assets/images/BBQsail7-rs.jpg",
+        "https://www.wings.com.au/assets/images/BBQsail8-rs.jpg",
+        "https://www.wings.com.au/assets/images/BBQsail9-rs.jpg"
+      ]
+    },
+    {
+      "title": "Premium Class Sail on the Bay, 4 Hour Charter",
+      "images": [
+        "https://www.wings.com.au/assets/images/SpaSunset1-rs.jpg",
+        "https://www.wings.com.au/assets/images/SpaSunset2-rs.jpg",
+        "https://www.wings.com.au/assets/images/SpaSunset3-rs.jpg",
+        "https://www.wings.com.au/assets/images/SpaSunset4-rs.jpg",
+        "https://www.wings.com.au/assets/images/SpaSunset5-rs.jpg",
+        "https://www.wings.com.au/assets/images/SpaSunset6-rs.jpg",
+        "https://www.wings.com.au/assets/images/SpaSunset7-rs.jpg",
+        "https://www.wings.com.au/assets/images/SpaSunset8-rs.jpg",
+        "https://www.wings.com.au/assets/images/SpaSunset9-rs.jpg",
+        "https://www.wings.com.au/assets/images/SpaSunset11-rs.jpg"
+      ]
+    },
+    {
+      "title": "Half Day Private Charter",
+      "images": [
+        "https://www.wings.com.au/assets/images/HalfDayCharter-rs.jpg",
+        "https://www.wings.com.au/assets/images/WingsDayCharter-rs.jpg",
+        "https://www.wings.com.au/assets/images/Kayaking-rs.jpg",
+        "https://www.wings.com.au/assets/images/Aerial_Wings_and_boards_rs.jpg",
+        "https://www.wings.com.au/assets/images/WingsSUP-rs.jpg",
+        "https://www.wings.com.au/assets/images/George_and_snorkellers-rs.jpg",
+        "https://www.wings.com.au/assets/images/Turtle-rs.jpg",
+        "https://www.wings.com.au/assets/images/boat-jump-rs.jpg",
+        "https://www.wings.com.au/assets/images/Interior_boat_decorated_rs.jpg",
+        "https://www.wings.com.au/assets/images/SpaSunset2-rs.jpg"
+      ]
+    },
+    {
+      "title": "Full Day Private Charter",
+      "images": [
+        "https://www.wings.com.au/assets/images/WingsDayCharter-rs.jpg",
+        "https://www.wings.com.au/assets/images/BeachVibes-rs.jpg",
+        "https://www.wings.com.au/assets/images/DayTrips-rs.jpg",
+        "https://www.wings.com.au/assets/images/Family-on-sundeck-with-kids-rs.jpg",
+        "https://www.wings.com.au/assets/images/George_and_snorkellers-rs.jpg",
+        "https://www.wings.com.au/assets/images/Georgeandtender-rs.jpg",
+        "https://www.wings.com.au/assets/images/Kayaking-rs.jpg",
+        "https://www.wings.com.au/assets/images/WIngs-III-backdeck-rs.jpg",
+        "https://www.wings.com.au/assets/images/TurtleSnorkelling-rs.jpg",
+        "https://www.wings.com.au/assets/images/WingsDayTrips-rs.jpg"
+      ]
+    },
+    {
+      "title": "Custom Cruise Ship Charter",
+      "images": [
+        "https://www.wings.com.au/assets/images/WingsSUP-rs.jpg",
+        "https://www.wings.com.au/assets/images/Aerial_Wings_and_boards_rs.jpg",
+        "https://www.wings.com.au/assets/images/DJI_0404-rs.jpg",
+        "https://www.wings.com.au/assets/images/Spa-sunbake-.jpg",
+        "https://www.wings.com.au/assets/images/SUP_girls-rs.jpg",
+        "https://www.wings.com.au/assets/images/Snorkeltender-copy.jpg",
+        "https://www.wings.com.au/assets/images/KayakingFamily-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wings-3-Stonehaven-kayaks-2.jpg",
+        "https://www.wings.com.au/assets/images/Wings-III-close-up-saili-rs2.jpg",
+        "https://www.wings.com.au/assets/images/Langford-Private-mooring.jpg"
+      ]
+    },
+    {
+      "title": "2 Day 1 Night Private Charter",
+      "images": [
+        "https://www.wings.com.au/assets/images/Whitehaven_beach_DJI_0068-rs.jpg",
+        "https://www.wings.com.au/assets/images/DJI_0405-rs.jpg",
+        "https://www.wings.com.au/assets/images/family-rs.jpg",
+        "https://www.wings.com.au/assets/images/GOPR2182-rs.jpg",
+        "https://www.wings.com.au/assets/images/Kid_Whitehaven_Beach-rs.jpg",
+        "https://www.wings.com.au/assets/images/Port_side_W3-rs.jpg",
+        "https://www.wings.com.au/assets/images/Sunset_Wings_Whitehaven-rs.jpg",
+        "https://www.wings.com.au/assets/images/Tender_Mantaray_Bay-rs.jpg",
+        "https://www.wings.com.au/assets/images/Turtle-close-snorkellers-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wings_spinnaker_rs.jpg"
+      ]
+    },
+    {
+      "title": "2 Night 2 Day Private Charter",
+      "images": [
+        "https://www.wings.com.au/assets/images/Beach_Fun-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wings_3_back_deck_chill-rs.jpg",
+        "https://www.wings.com.au/assets/images/DJI_0397-rs.jpg",
+        "https://www.wings.com.au/assets/images/Girl_Whitehaven_Beach-rs.jpg",
+        "https://www.wings.com.au/assets/images/Familly-Whitehaven-Beach-rs.jpg",
+        "https://www.wings.com.au/assets/images/GOPR2182-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wings3_South_Whitehaven_Toys_backdeck-rs.jpg",
+        "https://www.wings.com.au/assets/images/Kayaking-rs.jpg",
+        "https://www.wings.com.au/assets/images/kids_playing_inside-rs.jpg",
+        "https://www.wings.com.au/assets/images/Kids_snorkeling-rs.jpg"
+      ]
+    },
+    {
+      "title": "3 Day 2 Night Private Charter",
+      "images": [
+        "https://www.wings.com.au/assets/images/3day3night-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wings_spinnaker_rs.jpg",
+        "https://www.wings.com.au/assets/images/DJI_0512-rs.jpg",
+        "https://www.wings.com.au/assets/images/IMG_0318-rs.jpg",
+        "https://www.wings.com.au/assets/images/KayakingFamily-rs.jpg",
+        "https://www.wings.com.au/assets/images/Port_side_W3-rs.jpg",
+        "https://www.wings.com.au/assets/images/SpaSunset11-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wings_3_back_deck_chill-rs.jpg",
+        "https://www.wings.com.au/assets/images/SUP_girls-rs.jpg",
+        "https://www.wings.com.au/assets/images/Tender_Mantaray_Bay-rs.jpg"
+      ]
+    },
+    {
+      "title": "3 Night 3 Day Private Charter",
+      "images": [
+        "https://www.wings.com.au/assets/images/SunsetCharter2-rs.jpg",
+        "https://www.wings.com.au/assets/images/Turtle-close-snorkellers-rs.jpg",
+        "https://www.wings.com.au/assets/images/Black-reef-wings-Kayaks-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wings_spinnaker_rs.jpg",
+        "https://www.wings.com.au/assets/images/DJI_0394-rs.jpg",
+        "https://www.wings.com.au/assets/images/Familly-Whitehaven-Beach-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wings_3_back_deck_chill-rs.jpg",
+        "https://www.wings.com.au/assets/images/Galley_kitchen_area_w3-rs.jpg",
+        "https://www.wings.com.au/assets/images/George_pax_snorkel-rs.jpg",
+        "https://www.wings.com.au/assets/images/KayakingFamily-rs.jpg"
+      ]
+    },
+    {
+      "title": "4 Day 3 Night Private Charter",
+      "images": [
+        "https://www.wings.com.au/assets/images/DJI_0273-rs.jpg",
+        "https://www.wings.com.au/assets/images/GOPR2342-rs.jpg",
+        "https://www.wings.com.au/assets/images/black_reef_wings_kayak_1-rs.jpg",
+        "https://www.wings.com.au/assets/images/Kids_driving-rs.jpg",
+        "https://www.wings.com.au/assets/images/Chalkies-Paddle-Kayak-rs.jpg",
+        "https://www.wings.com.au/assets/images/Girl_Whitehaven_Beach-rs.jpg",
+        "https://www.wings.com.au/assets/images/KayakingFamily-rs.jpg",
+        "https://www.wings.com.au/assets/images/Turtle-pax-rs.jpg",
+        "https://www.wings.com.au/assets/images/Tender_Mantaray_Bay-rs.jpg",
+        "https://www.wings.com.au/assets/images/Sunset_Wings_Whitehaven-rs.jpg"
+      ]
+    },
+    {
+      "title": "4 Night 4 Day Private Charter",
+      "images": [
+        "https://www.wings.com.au/assets/images/WingsSUP-1-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wings_3___Front_Deck_2-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wings-OuterReef-rs.jpg",
+        "https://www.wings.com.au/assets/images/Familly-Whitehaven-Beach-rs.jpg",
+        "https://www.wings.com.au/assets/images/Black-reef-wings-Kayaks-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wings-3-Stonehaven-rs.jpg",
+        "https://www.wings.com.au/assets/images/Chalkies-Paddle-Kayak-rs.jpg",
+        "https://www.wings.com.au/assets/images/Turtle-pax-rs.jpg",
+        "https://www.wings.com.au/assets/images/Whitsundays-Wings-sunset-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wingscrew-rs.jpg"
+      ]
+    },
+    {
+      "title": "5 Day 4 Night Private Charter",
+      "images": [
+        "https://www.wings.com.au/assets/images/BBQsail5-rs.jpg",
+        "https://www.wings.com.au/assets/images/WingsSUP-rs.jpg",
+        "https://www.wings.com.au/assets/images/Turtle-close-snorkellers-rs.jpg",
+        "https://www.wings.com.au/assets/images/SunsetCharter2-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wings_3_back_deck_chill-rs.jpg",
+        "https://www.wings.com.au/assets/images/Kayak-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wings3_South_Whitehaven_Toys_backdeck-rs.jpg",
+        "https://www.wings.com.au/assets/images/SpaSunset5-rs.jpg",
+        "https://www.wings.com.au/assets/images/IMG_0318-rs.jpg",
+        "https://www.wings.com.au/assets/images/Wings_3_Chill_front_deck-rs.jpg"
+      ]
+    }
+  ],
+  "notes": "Logo is the header logo, wings-logo-small.png; it is the only logo file the site serves (guessed larger names returned not found). No heroImage given: the facts file uses the home page's lead carousel photo (Wings_3_back_deck_chill-rs.jpg), and the aerial DJI_0049-rs.jpg is the alternative to compare. Left out: the home page video poster home-page-banner.jpg (a banner), files named BG (page header backgrounds, for example 2day1nightBG.jpg), maps and diagrams (Half-Day-Full-Day-Map-rs.jpg, Outer-Reef-Map-rs.jpg, wings-tile-diagram.jpg, the vessel diagram), the OuterReef-facts.jpg graphic, menu icon thumbnails, customer review portraits, the Awards and Certifications badges and the Whitsundays Heart of the Great Barrier Reef logo (another body's mark), the Coral Sea Marina fade image on the cruise ship charter page (looks like the marina's own picture), and GALTA-2.jpg on the older Spa Sunset page (source unclear). Gallery leads with the home page carousel and tiles, then two photos from the Wings III vessel page. Videos: QOVHGLK5dJ4 and npR3RAJ1Tqk are embedded on the day tour and sunset pages; the others come from the YouTube channel the site footer links to (youtube.com/c/WingsAus). Channel videos are two to five years old and some of that channel's uploads show the earlier boats Wings I or Wings II, so a person should confirm each shows Wings III before use. Trip photo lists use each trip's own page, best first, skipping the items above; the private charter pages reuse some photos across pages. The photos themselves were not viewed, so a person should check that the photos match the trips (for example the half day page also carries a Whitehaven Beach photo, which that trip does not visit). About 33 pages were read. The site answered normally and no bot check was hit."
+}

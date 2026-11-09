@@ -1,0 +1,118 @@
+{
+  "slug": "australian-kayaking-adventures",
+  "logo": "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/08/AKALogo.svg",
+  "heroImage": "https://www.australiankayakingadventures.com.au/wp-content/uploads/2025/10/IMG_7071-scaled.jpg",
+  "gallery": [
+    "https://www.australiankayakingadventures.com.au/wp-content/uploads/2025/10/IMG_7071-scaled.jpg",
+    "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Image-Kayakers-Ocean.jpg",
+    "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Kayakers.jpg",
+    "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Image-Kayakers.jpg",
+    "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Image-Kayaker-Steve.jpg",
+    "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/sunset-couple.jpg",
+    "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/unnamed-1.jpg",
+    "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/08/img_0235-1000x800-1.jpg",
+    "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/6.jpg",
+    "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/SUP.jpg",
+    "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/13.jpg",
+    "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/11.jpg",
+    "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/14.jpg",
+    "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/17.jpg",
+    "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/10.jpg",
+    "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/12.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=wG8VoUC1bFE",
+      "title": "Australian Kayaking Adventures tour video",
+      "sourceUrl": "https://www.australiankayakingadventures.com.au/"
+    },
+    {
+      "url": "https://www.australiankayakingadventures.com.au/wp-content/uploads/2025/10/AusKayakAdv-SUPs.mp4",
+      "title": "Stand-up paddle board tour on the Nerang River",
+      "sourceUrl": "https://www.australiankayakingadventures.com.au/kayak-and-snorkel-tours/stand-up-paddle-board-tour/"
+    },
+    {
+      "url": "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Website-BG-Small.mp4",
+      "title": "Kayaking on the Gold Coast, home page loop",
+      "sourceUrl": "https://www.australiankayakingadventures.com.au/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Morning Dolphin Kayaking & Snorkeling Tour",
+      "images": [
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Image-Kayakers-Ocean.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Image-Kayakers.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Kayaker.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-People-Walking-on-Beach.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Woman-Swimming.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Women-Learning-to-Kayak-02.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Women-Learning-to-Kayak.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Kayakers-Couple.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Kayakers-Smiling.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Kayakers-Along-Beach.jpg"
+      ]
+    },
+    {
+      "title": "Broadwater Dolphin Kayaking & Snorkeling Tour",
+      "images": [
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Image-Kayakers-Ocean.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Kayaker.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Woman-Swimming.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Women-Learning-to-Kayak-02.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Women-Learning-to-Kayak.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Kayakers-Couple.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Kayakers-Smiling.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Kayakers-Along-Beach.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Man-having-snack.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Kayakers-02.jpg"
+      ]
+    },
+    {
+      "title": "Surfers Paradise Sunset Kayak Adventure",
+      "images": [
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/6.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/1.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/2.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/3.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/4.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/5.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/08/img_0235-1000x800-1.jpg"
+      ]
+    },
+    {
+      "title": "Stand-Up Paddle Board Tour",
+      "images": [
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2025/10/IMG_7071-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Team Building Events",
+      "images": [
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/13.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/11.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/14.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/17.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/10.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/12.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/faq2.jpg"
+      ]
+    },
+    {
+      "title": "Kayak & Stand Up Paddleboard Hire",
+      "images": [
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/SUP.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/sup-page.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Kayaker.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-People-Walking-on-Beach.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Women-Learning-to-Kayak-02.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Women-Learning-to-Kayak.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Kayakers-Couple.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Kayakers-Smiling.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Kayakers-Along-Beach.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Man-having-snack.jpg"
+      ]
+    }
+  ],
+  "notes": "Logo is AKALogo.svg, the header logo (595 x 254). heroImage is IMG_7071-scaled.jpg (2560 x 1920), the newest and largest photo on the site, used for the stand-up paddle board tour and as that tour's video poster. No images were downloaded, so no photo was looked at; choices rest on file names, where each file sits on the pages, and the pixel sizes the site's public media list reports, so a person should glance at the hero and the first gallery photos. Most other photos are small or square (the 2021 kayaking set is 400 x 400; the 2020 tour set is 800 x 800), and the 2021 Ocean, Kayakers and Kayaker-Steve files are 1220 x 1390 portrait crops, so there is little true wide landscape material. Left out as banners or graphics: sunset-banner.jpg, SUP-banner.jpg, teambuilding-banner.jpg and teambuilding-banner-2.jpg (all page banners), AKAHeader.jpg and ExampleHeader.jpg (header backgrounds), SocialImage.jpg (social share graphic), AKA-Blue.png, AKA-Yellow.png and AKA-Reversed.png (colour graphics), AKALogoSq.jpg and the AKA-Icon SVG files (logo marks), favicon files, and the 2020 numbered PNGs (400 and 800 square icons or graphics). Left out because they sit on no page that was read: two GoPro photos uploaded in July 2026 (GPTempDownload62 and GPTempDownload97, 2560 x 1920) and library files named team-image, unnamed, homepage_ (a careers page background only) and dolphin-and-kayakers.jpeg (1124 x 1124, may be worth a person's look). The 79-aGRfMl8xMA mp4 files used as the About, Location, Reviews and Blog page background look like the website theme's demo footage, so they are not listed. Hire trip photos leave out AKA-Woman-Swimming because its name suggests a snorkelling shot, which hire does not include. Videos: the YouTube video on the home page (wG8VoUC1bFE) is the site's own play button, but the site links to no YouTube channel, so it was not opened and its content and ownership are unconfirmed. AusKayakAdv-SUPs.mp4 (28 seconds, 1280 x 720) is on the paddle board tour page. AKA-Website-BG-Small.mp4 (15 seconds, 4K, 12 MB) is the home page background loop, uploaded with the 2021 photo set; content unconfirmed. The site's only social links are Facebook and Instagram, which were not read. No bot check or captcha was met. Numbered files 1.jpg to 6.jpg are on the sunset tour page and 10.jpg to 17.jpg on the team building and careers pages; 7.jpg, 8.jpg, 9.jpg, 15.jpg and 16.jpg are in the library but on no page read."
+}

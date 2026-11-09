@@ -1,0 +1,126 @@
+{
+  "slug": "west-side-scuba-centre",
+  "logo": "https://divewestsidescuba.com/wp-content/uploads/2023/11/a21693a2-1879-4d96-bc7f-76c6fb2ab977-edited.png",
+  "gallery": [
+    "https://divewestsidescuba.com/wp-content/uploads/2024/03/IMG_0546.jpg",
+    "https://divewestsidescuba.com/wp-content/uploads/2023/11/cropped-4b164773-91f9-4841-9ae8-f169566cb33d.jpeg",
+    "https://divewestsidescuba.com/wp-content/uploads/2023/06/3becf3e1-daaa-423d-953b-6054fe97400f.jpg",
+    "https://divewestsidescuba.com/wp-content/uploads/2023/06/a09215d6-8e99-4e7d-8ee4-ff0b7f51e19f.jpg",
+    "https://divewestsidescuba.com/wp-content/uploads/2023/06/9e83bcbd-fbd4-4c2c-a54d-caca1ce3a5a1.jpg",
+    "https://divewestsidescuba.com/wp-content/uploads/2024/03/67b854b2-7cb8-4c5f-97e8-bd5663ad8864.jpg",
+    "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_5003.jpeg",
+    "https://divewestsidescuba.com/wp-content/uploads/2024/03/img_0925.jpg",
+    "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_5056_edited-2.jpg",
+    "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_4857.jpeg",
+    "https://divewestsidescuba.com/wp-content/uploads/2023/11/67afe470-c7f1-4446-9f8e-4cc9b36d08dc.jpeg",
+    "https://divewestsidescuba.com/wp-content/uploads/2023/11/peter-sea-horse-edited.jpg",
+    "https://divewestsidescuba.com/wp-content/uploads/2023/12/img_4979_edited-edited-1.jpeg",
+    "https://divewestsidescuba.com/wp-content/uploads/2023/12/img_4779-edited.jpeg",
+    "https://divewestsidescuba.com/wp-content/uploads/2023/12/img_20220905_174945_560-edited.jpg",
+    "https://divewestsidescuba.com/wp-content/uploads/2024/03/422902_10150584864360983_76059380982_9548362_1532539101_n.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Two Tank Morning Dive",
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_4662.jpeg",
+        "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_4945.jpeg",
+        "https://divewestsidescuba.com/wp-content/uploads/2023/08/img_4670-1.jpeg",
+        "https://divewestsidescuba.com/wp-content/uploads/2023/08/img_4796.jpeg",
+        "https://divewestsidescuba.com/wp-content/uploads/2023/08/website-background.jpg",
+        "https://divewestsidescuba.com/wp-content/uploads/2023/08/website-background-2.jpg"
+      ]
+    },
+    {
+      "title": "One Tank Afternoon Dive",
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_4945.jpeg",
+        "https://divewestsidescuba.com/wp-content/uploads/2023/12/img_5056_edited-2-edited-1.jpg",
+        "https://divewestsidescuba.com/wp-content/uploads/2023/08/img_4670-1.jpeg",
+        "https://divewestsidescuba.com/wp-content/uploads/2023/08/img_4796.jpeg"
+      ]
+    },
+    {
+      "title": "Multi-day Dive Packages",
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_4662.jpeg"
+      ]
+    },
+    {
+      "title": "Night Dive",
+      "images": []
+    },
+    {
+      "title": "Private Dive Leader",
+      "images": []
+    },
+    {
+      "title": "Private Dive Charter",
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2024/03/422902_10150584864360983_76059380982_9548362_1532539101_n.jpg"
+      ]
+    },
+    {
+      "title": "Discover Scuba Diving",
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_4724.jpeg"
+      ]
+    },
+    {
+      "title": "Bubblemaker (8y to 9y)",
+      "images": []
+    },
+    {
+      "title": "Refresher",
+      "images": []
+    },
+    {
+      "title": "Open Water Diver",
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_4724.jpeg"
+      ]
+    },
+    {
+      "title": "Advanced Open Water Diver",
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/08/img_20220224_071054_716.jpg"
+      ]
+    },
+    {
+      "title": "Diver Specialties",
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/08/gopr0297_1480712421576_high.jpg"
+      ]
+    },
+    {
+      "title": "Emergency First Responder CPR and First Aid",
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/10/efr-website-pic.jpg"
+      ]
+    },
+    {
+      "title": "Rescue Diver",
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_5214_edited.jpg"
+      ]
+    },
+    {
+      "title": "Master Scuba Diver",
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_5003.jpeg"
+      ]
+    },
+    {
+      "title": "Dive Master",
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_4875_edited.jpeg"
+      ]
+    },
+    {
+      "title": "Snorkel Trip (with guide)",
+      "images": []
+    }
+  ],
+  "notes": "No videos embedded on the site and no YouTube or Vimeo channel linked. Left out a stock photo on the dive sites page (pexels-photo-1646311.jpeg), a fish identification card, partner logos and event posters. The Discover Scuba page linked from the menu returns not found. Logo is the small header logo (original upload 749 by 1331). More dive site photos on the dive sites page: 2023/12/img_4785_edited-edited.jpeg, img_4790_edited-edited.jpeg, 2b487581-c667-4c8d-aee4-61c88343d23b_edited-edited.jpeg, 29d59814-1e5b-4150-8605-f2b5aebaa08b-edited.jpg, 7e8e2783-024c-4485-836a-972b74fb911a-edited.jpg."
+}

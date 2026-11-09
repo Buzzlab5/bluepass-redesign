@@ -1,0 +1,240 @@
+{
+  "slug": "kings-ningaloo-reef-tours",
+  "name": "Kings Ningaloo Reef Tours",
+  "website": "https://kingsningalooreeftours.com.au",
+  "rezdyAlias": "kingsningalooreeftours",
+  "state": "WA",
+  "town": "Exmouth",
+  "category": "Whale shark swim tours",
+  "summary": "Full day whale shark swims run from Exmouth between April and July, followed by a whale shark and humpback whale eco tour from August to September. Guests travel on the Magellan, a 20 metre vessel, with a spotter plane overhead, marine biologists on board and guides in the water. The business also offers private charters of the vessel.",
+  "standouts": [
+    "Eco Certified by Ecotourism Australia, with Green Travel Leader status",
+    "Among the select few licensed to offer in-water humpback whale encounters in Western Australia",
+    "Whale shark tours take 20 swimmers and 3 observers, with only 10 people in the water with a whale shark at a time",
+    "Whale shark tours on Ningaloo Reef for over 30 years"
+  ],
+  "contact": {
+    "phone": "+61 8 9949 1764",
+    "email": "info@kingsningalooreeftours.com.au",
+    "address": "Ningaloo Caravan and Holiday Resort, 1112 Murat Road, Exmouth WA 6707"
+  },
+  "heroImage": "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/02/KINGS-NINGALOO-REEF-TOURS-9.webp",
+  "sourceUrls": [
+    "https://www.kingsningalooreeftours.com.au/",
+    "https://www.kingsningalooreeftours.com.au/tours/whale-shark-swim/",
+    "https://www.kingsningalooreeftours.com.au/tours/eco-sealife-tour/",
+    "https://www.kingsningalooreeftours.com.au/humpback-whale-swim/",
+    "https://www.kingsningalooreeftours.com.au/tours/exclusive-charters/",
+    "https://www.kingsningalooreeftours.com.au/tours/tour-inclusions/",
+    "https://www.kingsningalooreeftours.com.au/tours/passenger-information/",
+    "https://www.kingsningalooreeftours.com.au/tours/other-activities/",
+    "https://www.kingsningalooreeftours.com.au/faq/",
+    "https://www.kingsningalooreeftours.com.au/our-boat/",
+    "https://www.kingsningalooreeftours.com.au/our-story/",
+    "https://www.kingsningalooreeftours.com.au/our-crew/",
+    "https://www.kingsningalooreeftours.com.au/eco-tourism/",
+    "https://www.kingsningalooreeftours.com.au/whale-shark-research/",
+    "https://www.kingsningalooreeftours.com.au/ningaloo-reef/",
+    "https://www.kingsningalooreeftours.com.au/ningaloo-reef/marine-calendar/",
+    "https://www.kingsningalooreeftours.com.au/ningaloo-reef/things-to-do-in-exmouth/",
+    "https://www.kingsningalooreeftours.com.au/tour-photos/",
+    "https://www.kingsningalooreeftours.com.au/terms-conditions/",
+    "https://www.kingsningalooreeftours.com.au/contact-us/",
+    "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/02/Kings-Ningaloo-A4-brochure-2025.pdf"
+  ],
+  "trips": [
+    {
+      "title": "Whale Shark Swim",
+      "kind": "swim",
+      "summary": "A full day on the Ningaloo Reef swimming with whale sharks from the Magellan, a 20 metre vessel. The day starts with a pick-up from Exmouth accommodation and a drive to the Tantabiddi Boat Ramp, then a reef snorkel while a spotter plane looks for whale sharks. Lunch is served on board, and tours usually finish between 2:30 PM and 4:30 PM.",
+      "highlights": [
+        "Spotter plane used to find whale sharks",
+        "20 swimmers and 3 observers a day, in two groups of 10 with one group in the water at a time",
+        "In-water guide and photographer join each group",
+        "Reef snorkel included, and a manta ray swim if manta rays are found"
+      ],
+      "duration": "Full day, usually back between 2:30 PM and 4:30 PM",
+      "durationMinutes": null,
+      "departureTimes": [
+        "07:30"
+      ],
+      "season": "April to July",
+      "departsFrom": "Tantabiddi Boat Ramp, with a bus pick-up from Exmouth hotels and caravan parks by 7:30 AM",
+      "prices": [
+        {
+          "label": "Swimmer",
+          "amount": 625,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2+2), children 3-16 yrs",
+          "amount": 2400,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Observer (non-swimmer)",
+          "amount": 330,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant 2 yrs and under",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        }
+      ],
+      "priceFrom": 625,
+      "includes": [
+        "Air-conditioned bus transfers from Exmouth hotels and caravan parks",
+        "Spotter plane assistance",
+        "Snorkel gear, including full length wetsuits, stinger suits, rash vests, pool noodles and swim vests; full-face masks, standard masks and prescription lenses available",
+        "Morning tea, buffet lunch, afternoon tea and snacks, with dietary needs catered for if you say so at booking",
+        "Professional photo package, above and below the water (valued at $80 on the site)",
+        "1 to 2 reef snorkels, conditions permitting",
+        "Marine biologist briefings and snorkel tuition",
+        "Department of Biodiversity, Conservation and Attractions fees and taxes",
+        "A manta ray swim at no extra charge if manta rays are found",
+        "Gift pack and certificate"
+      ],
+      "bring": [
+        "Swimwear",
+        "Towel and hat",
+        "Sunscreen",
+        "Sunglasses",
+        "Camera (a photographer is on board)",
+        "Change of clothes, and a jacket in cooler weather",
+        "Seasickness medication if you need it (the crew cannot give out medication on board)",
+        "You may bring your own alcoholic drink for the trip back to the boat ramp"
+      ],
+      "requirements": "Being comfortable swimming in the ocean is expected, and pool noodles and swim vests are available on board. All passengers must wear fins in the water. Guests must be able to move from the boat ramp into a tender and onto the vessel, shuffle along the back deck and support their own weight when leaving the water onto the marlin board. Wheelchair access can be arranged by calling the office. Children 3 to 16 years qualify for the family price, and infants 2 and under are free. No minimum age is stated. Dogs other than assistance dogs are not allowed.",
+      "offer": null,
+      "images": [
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/02/WHALE-SHARK-SWIM-KINGS-NINGALOO-REEF-TOURS-5.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/KINGS-NINGALOO-REEF-TOURS-29-2.webp"
+      ],
+      "bookingLinks": [
+        "https://kingsningalooreeftours.rezdy.com/"
+      ],
+      "sourceUrl": "https://www.kingsningalooreeftours.com.au/tours/whale-shark-swim/",
+      "checkNotes": "Prices are from the tour page. The 2025 brochure PDF on the site shows older prices (swimmer $575, observer $300, family $2200) and says booking and processing fees may apply; the website does not mention fees. priceFrom uses the swimmer price; the observer price is lower. The booking link is the shop front https://kingsningalooreeftours.rezdy.com/ (the page's Book Your Tour Now button), not a link to this trip; the site gives no per-trip booking URL. Season: the tour page and home page say April to July, the FAQ says March/April to July. The site also offers a repeat-tour sighting guarantee for April to June and quotes a success rate for April to July; neither is repeated here. The home page shows a weekly whale shark sighting count; not used. Pick-up is 7:30 AM from Exmouth accommodation; campers in Cape Range National Park meet at Tantabiddi Boat Ramp at 8am (FAQ). The page says tours usually return between 2:30 PM and 4:30 PM; the brochure says about 3 to 4pm. A liability waiver must be accepted before boarding (Terms page). Payment terms are on the FAQ and Terms pages: a deposit of one quarter for bookings made more than 7 days ahead, balance due a week before, full payment inside 7 days. Both tours are seasonal and this was read in October 2026, so confirm current season dates and prices before publishing."
+    },
+    {
+      "title": "Whale Shark & Humpback Whale Eco Sealife Tour",
+      "kind": "swim",
+      "summary": "A seasonal full day tour for August and September, when humpback whales are passing Ningaloo and whale shark sightings become less frequent. A spotter plane searches for humpback whales, whale sharks, manta rays and other marine life, and the day includes one or two reef snorkels. Humpback swims run in small groups when the crew judge conditions are safe, and guests who prefer to stay dry can watch from the deck.",
+      "highlights": [
+        "Humpback whale in-water swims in groups of up to 7, when the crew judge it safe",
+        "Spotter plane searches for humpback whales, whale sharks, manta rays and other marine life",
+        "1 to 2 reef snorkels included",
+        "Marine biologists on board, and the deck of the Magellan for watching humpbacks"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "August to September",
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Swimmer",
+          "amount": 550,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2+2), children 3-16 yrs",
+          "amount": 2000,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Observer (non-swimmer)",
+          "amount": 300,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant 2 yrs and under",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        }
+      ],
+      "priceFrom": 550,
+      "includes": [
+        "Air-conditioned bus transfers from Exmouth hotels and caravan parks",
+        "Spotter plane assistance",
+        "Snorkel gear, including full length wetsuits, stinger suits, rash vests, pool noodles and swim vests; full-face masks, standard masks and prescription lenses available",
+        "Morning tea, buffet lunch, afternoon tea and snacks, with dietary needs catered for if you say so at booking",
+        "Professional photo package, above and below the water (valued at $80 on the site)",
+        "1 to 2 reef snorkels, conditions permitting",
+        "Marine biologist briefings and snorkel tuition",
+        "Department of Biodiversity, Conservation and Attractions fees and taxes",
+        "A manta ray swim at no extra charge if manta rays are found"
+      ],
+      "bring": [
+        "Swimwear",
+        "Towel and hat",
+        "Sunscreen",
+        "Sunglasses",
+        "Camera (a photographer is on board)",
+        "Change of clothes, and a jacket in cooler weather",
+        "Seasickness medication if you need it (the crew cannot give out medication on board)"
+      ],
+      "requirements": "Humpback whale swims need confident swimming and snorkelling in open ocean: guests must be able to swim 100 metres unaided in open ocean conditions, and the crew decide whether someone can take part. All passengers must wear fins in the water. Wheelchair access can be arranged by calling the office. Children 3 to 16 years qualify for the family price, and infants 2 and under are free. No minimum age is stated.",
+      "offer": null,
+      "images": [
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/02/HUMPBACK-WHALE-SWIM-KINGS-NINGALOO-REEF-TOURS-18.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/HUMPBACK-WHALE-SWIM-KINGS-NINGALOO-REEF-TOURS-9.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/02/ECO-SEALIFE-TOURS-KINGS-NINGALOO-REEF-TOURS.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/HUMPBACK-WHALE-SWIM-KINGS-NINGALOO-REEF-TOURS-15.webp"
+      ],
+      "bookingLinks": [
+        "https://kingsningalooreeftours.rezdy.com/"
+      ],
+      "sourceUrl": "https://www.kingsningalooreeftours.com.au/tours/eco-sealife-tour/",
+      "checkNotes": "Prices are from the tour page. The 2025 brochure PDF shows older prices (swimmer $450, observer $300, family $1720) and says booking and processing fees may apply. priceFrom uses the swimmer price; the observer price is lower. The booking link is the shop front https://kingsningalooreeftours.rezdy.com/ (the page's Book Your Tour Now button), not a link to this trip. The name differs across the site: this page says 'Whale Shark & Humpback Whale Eco Sealife Tour', the home page says 'Humpback Whale Eco Sea Life Tour', the menu says 'Eco Sealife Tour'. The older address /tours/humpback-whale-swim/ (redirects to /humpback-whale-swim/) carries the same text with one extra photo. Swimming ability conflicts: this page says 100 metres unaided in open ocean, the FAQ says a minimum of 50 metres; used this page. The FAQ says humpback swims take up to 21 swimmers in 3 groups of 7. The page says no partial refunds or repeat trips if a preferred encounter does not happen. Departure time, duration and meeting point are not stated on this page (the whale shark page gives a 7:30 AM pick-up and Tantabiddi Boat Ramp); departsFrom and departureTimes are left empty, and inclusions such as transfers come from the What's Included and FAQ pages. The site says no specific encounter is guaranteed and the brochure quotes a humpback success rate; not repeated here. Seasonal tour, read in October 2026: confirm current dates and prices before publishing."
+    },
+    {
+      "title": "Exclusive Charters",
+      "kind": "charter",
+      "summary": "Private hire of the 20 metre Magellan for a group, with the day planned around what the group wants. The day can be built around swimming with whale sharks, humpback whales or manta rays, or around reef snorkels at your own pace, and a later start can be arranged. Charters run only on days when no public tour is booked.",
+      "highlights": [
+        "Private use of the vessel for your group",
+        "Itinerary planned with the crew, including a later start",
+        "Same inclusions as the public tours",
+        "April to September, subject to availability"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "April to September, subject to availability",
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Professional crew, including guides and marine biologists",
+        "Snorkelling equipment, wetsuits and safety gear",
+        "Meals and refreshments tailored to dietary needs",
+        "Commentary on Ningaloo Reef's marine life",
+        "Personal snorkel tuition for all skill levels"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/EXCLUSIVE-CHARTERS-KINGS-NINGALOO-REEF-TOURS-9.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/02/EXCLUSIVE-CHARTERS-KINGS-NINGALOO-REEF-TOURS-12.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/EXCLUSIVE-CHARTERS-KINGS-NINGALOO-REEF-TOURS-10.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/EXCLUSIVE-CHARTERS-KINGS-NINGALOO-REEF-TOURS-11.webp"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.kingsningalooreeftours.com.au/tours/exclusive-charters/",
+      "checkNotes": "Enquiry only: the page asks guests to contact the office for pricing and availability (phone +61 8 9949 1764 or info@kingsningalooreeftours.com.au). No price is shown on the site (the 2025 brochure says price on application) and there is no booking link, so prices is empty. The page says the vessel operates in Exmouth from April to September; the home page card says 'On Demand'. Duration, departure point and group size are not stated. The page offers swims with whale sharks, humpback whales or manta rays without saying they depend on season and what is found; the two public tour pages say no specific encounter is guaranteed."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "No bot check, captcha or block was met; pages were fetched one at a time with curl's default user agent. Booking: the only Rezdy link on the site is the operator's own shop front https://kingsningalooreeftours.rezdy.com/ (home page hero and body, menu Book Now, and the Book Your Tour Now buttons on the two public tour pages), so rezdyAlias is kingsningalooreeftours. There are no per-trip Rezdy product links; the two public tours carry the shop front link as their booking link. No Rezdy page was opened. The Other Activities page links to two other businesses' Rezdy shops (capricornseakayaking, diveningaloo) with Kings as agent; those are not Kings trips and were not used. Left out as not run by Kings: Exmouth Adventure Co (sea kayak, snorkel, stand up paddleboard and surf lessons) and Dive Ningaloo (diving, including Navy Pier), both on Other Activities, and the third-party suggestions on Things to do in Exmouth. Trades as Ningaloo Echo Tours Pty Ltd, ABN 96 142 373 939, licences L002014WS and L002015HW. The site also shows a mobile number, +61 4 57 932 217. Claims on the site not repeated here: the sighting guarantee, quoted success rates, the weekly sighting count on the home page and superlatives about the vessel and crew. The 2025 brochure PDF carries older prices than the website and says booking and processing fees may apply; the website prices were used. Payment and cancellation terms (deposit for bookings more than 7 days ahead, credit vouchers valid for 3 years, refund tiers for direct bookings) are on the Terms and FAQ pages and were not captured as offers. Gift vouchers are not mentioned. The brochure credits its cover photo to Brooke Pyke Photography; see the media notes. The Marine Calendar page is images only and was not read as text."
+}

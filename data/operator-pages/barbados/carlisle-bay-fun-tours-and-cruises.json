@@ -1,0 +1,99 @@
+{
+  "slug": "carlisle-bay-fun-tours-and-cruises",
+  "name": "Carlisle Bay Fun Tours and Cruises",
+  "website": "https://www.cbfuntours.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Carlisle Bay",
+  "category": "Glass bottom boat tours",
+  "summary": "A glass bottom boat operator in Carlisle Bay, St. Michael. The main trip is a 75 minute tour to swim with sea turtles and snorkel over the bay's shipwrecks, and the boat can be chartered for up to three hours with three swim stops and a beach stop. Bookings are requested through a form on the website and confirmed by the team.",
+  "standouts": [
+    "Glass bottom boat",
+    "Snorkel with sea turtles and over shipwrecks in Carlisle Bay",
+    "Lifejackets, snorkel equipment and light refreshments provided"
+  ],
+  "contact": {
+    "phone": "+1 246 250 9648 / +1 246 282 7812",
+    "email": "info@cbfuntours.com",
+    "address": "Carlisle Bay, St. Michael",
+    "whatsapp": null
+  },
+  "heroImage": "https://static.wixstatic.com/media/019a1f_8d6ac70b72184cc6a1a334424bb89a15~mv2.jpg",
+  "sourceUrls": [
+    "https://www.cbfuntours.com/",
+    "https://www.cbfuntours.com/charters-1",
+    "https://www.cbfuntours.com/about",
+    "https://www.cbfuntours.com/gallery",
+    "https://www.cbfuntours.com/hotel-deals",
+    "https://www.cbfuntours.com/contact-10"
+  ],
+  "trips": [
+    {
+      "title": "Fun Tour",
+      "kind": "snorkel",
+      "summary": "A 75 minute glass bottom boat trip in Carlisle Bay to swim with sea turtles and snorkel over the shipwrecks. Lifejackets, snorkel equipment and light refreshments are provided.",
+      "highlights": [
+        "Swim with sea turtles",
+        "Snorkel over the shipwrecks",
+        "Glass bottom boat",
+        "Light refreshments"
+      ],
+      "duration": "1 Hour 15 MINS",
+      "durationMinutes": 75,
+      "departureTimes": ["09:00", "11:00", "13:00", "15:00"],
+      "season": null,
+      "departsFrom": "Carlisle Bay, St. Michael",
+      "prices": [
+        { "label": "Adult", "amount": 55, "currency": "USD", "note": "$55.00 USD per Adult" },
+        { "label": "Child", "amount": 25, "currency": "USD", "note": "$25.00 USD per Child" }
+      ],
+      "priceFrom": 55,
+      "includes": ["Lifejackets", "Snorkel equipment", "Light refreshments"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/019a1f_8d6ac70b72184cc6a1a334424bb89a15~mv2.jpg",
+        "https://static.wixstatic.com/media/019a1f_c90ff41f5d0d469fa5d9495c6e7c2758~mv2.jpg",
+        "https://static.wixstatic.com/media/019a1f_99a36f4ed6ca43b9a3eb7d1792fc5d54~mv2.jpg"
+      ],
+      "bookingLinks": ["https://www.cbfuntours.com/contact-10"],
+      "sourceUrl": "https://www.cbfuntours.com/charters-1",
+      "checkNotes": "Site names it 'Fun Tour!'. Departure times are the time choices on the booking request form (9:00 am, 11:00 am, 1:00 pm, 3:00 pm), not stated on the tour card. Booking is a request form; 'a member of our team will confirm your Booking'. No online payment seen. Child age range not stated."
+    },
+    {
+      "title": "Chartered Tour",
+      "kind": "charter",
+      "summary": "A private glass bottom boat charter of up to three hours, with swimming and snorkelling at three different spots and a beach stop. Suited to family days and company outings.",
+      "highlights": [
+        "Up to 3 hours",
+        "Swim and snorkel at three locations",
+        "Beach stop",
+        "Glass bottom boat"
+      ],
+      "duration": "3 Hours",
+      "durationMinutes": 180,
+      "departureTimes": ["09:00", "11:00", "13:00", "15:00"],
+      "season": null,
+      "departsFrom": "Carlisle Bay, St. Michael",
+      "prices": [
+        { "label": "Private charter, per hour (whole boat)", "amount": 400, "currency": "USD", "note": "$400.00 USD per Hour" }
+      ],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/019a1f_8d6ac70b72184cc6a1a334424bb89a15~mv2.jpg",
+        "https://static.wixstatic.com/media/019a1f_c90ff41f5d0d469fa5d9495c6e7c2758~mv2.jpg"
+      ],
+      "bookingLinks": ["https://www.cbfuntours.com/contact-10"],
+      "sourceUrl": "https://www.cbfuntours.com/charters-1",
+      "checkNotes": "Tour card spells it 'Charted Tour'; the booking form says 'Chartered Tour!'. Card says '3 Hours' and 'up to 3-hour'; minimum hours and group size not stated. Per-boat hourly price, so priceFrom left null. Departure times are the booking form's time choices."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Trading: footer reads '© 2024' and no 2025 or 2026 prices or dates appear; the list marks it active and the booking request form is live. A page not in the menu (/hotel-deals) offers hotels a '1 hour & 15 mins' chartered glass bottom boat tour with no price, and names crew 'Captain John' and 'Captain Sarah' in text that reads like a website template; neither used. Images from Wix's stock library on the home and hotel deals pages were left out. Two phone numbers are given; both kept in contact.phone."
+}

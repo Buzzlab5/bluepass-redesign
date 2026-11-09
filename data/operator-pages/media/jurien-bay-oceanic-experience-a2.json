@@ -1,0 +1,89 @@
+{
+  "slug": "jurien-bay-oceanic-experience-a2",
+  "logo": "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/a93350b7-cc5e-43e4-96b2-c29f6a0f3bdc/Jurien+Bay_Logo+Text_Mono_White.png",
+  "heroImage": "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/de59d8e3-e5c3-45fa-b348-699b120986c4/swimmer-sea-lion-jurien-bay-marine-park.jpg",
+  "gallery": [
+    "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/de59d8e3-e5c3-45fa-b348-699b120986c4/swimmer-sea-lion-jurien-bay-marine-park.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/1760b88c-be04-4de9-87fd-48c2645affa4/australian-sea-lion.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/b2d90dc2-4781-404d-b25d-b3e53ae2e01f/australian-sea-lion-tour.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/f5c181fd-67e7-4a23-b18d-8d58ab3c4337/australian-sea-lion-spring-jurien-bay.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/7c3b7938-e082-4ca5-b84f-f60001cdfccc/swim-with-sea-lions.JPG",
+    "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/b8b40869-8086-4e61-b818-cc7c8ca90c12/jurien-bay-marine-park.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/7d24c70b-0b57-4661-80c5-67b9b32219e5/Jurien-bay-marine-park-aeriel.JPG",
+    "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/e9080479-6b8e-43b0-8c07-957eba7ec6be/jurien-bay-boat-tours.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/d376afe0-de5b-4a41-b371-96a88de196dc/jurien-bay-marine-park.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/b1e33b5a-8bc6-44b8-bf7d-2bc08e10b929/jurien-bay-oceanic-experience-vessel.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/409f670f-d820-44f9-87d4-05f3bdf6afe6/jurien-bay-oceanic-experience.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/82225fcc-d603-4a4e-8e3c-dda5fb4d8394/winter-sea-lion-tour-jurien-bay.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/309bea6d-71d3-4a20-b7e6-72d2bbac5e9b/summer-sea-lion-tour-jurien-bay.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/a7497def-bbe0-4951-b4a0-ea0a742419d4/western-rock-lobster-jurien-bay-reef.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/ff73b759-aadd-4547-90eb-2d382f302d8d/lobster-tour-jurien-bay.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/6c91e2b4-f887-4313-917d-3f4f0dd1d8f8/jurien-bay-marine-park.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=emDUYQl0asU",
+      "title": "Sea lion tour footage (background video on the tour pages)",
+      "sourceUrl": "https://jurienbayoceanic.com.au/sea-lion-tours"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Sea Lion Tour",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/7c3b7938-e082-4ca5-b84f-f60001cdfccc/swim-with-sea-lions.JPG",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/b2d90dc2-4781-404d-b25d-b3e53ae2e01f/australian-sea-lion-tour.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/752ac393-9b15-4d48-b6a9-04f59632ff6c/australian-sea-lion-tour.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/5dfe9796-b972-4646-bfa4-6c3ef8797ef2/sea-lion-tour-hero-optimized.webp",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/c482fe78-e074-454a-8ae6-ba70f51b2b1a/jurien-bay-oceanic-experience.PNG",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/f7fb0c1e-ca05-41f2-9d8e-681e5e9b77f1/jurien-bay-tours.PNG",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/931a20e5-9b41-474f-aaef-91744b4eaf8c/jurien-bay-oceanic-experience.PNG",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/1f741222-43c5-422d-ae92-b332ca12e53f/jurien-bay-marine-park-experience.PNG",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/b774ef69-05a8-487e-a908-be71722a74ed/jurien-bay-oceanic-experience.PNG",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/c27ceb9c-bf37-4de3-a11a-016c6f2b77d6/jurien-bay-oceanic-experience.PNG"
+      ]
+    },
+    {
+      "title": "Jurien Bay Reef Snorkel Tour",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/9f4a5e8c-a555-4ac0-ae51-35bee34dd78b/Snorkel+Image+6.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/9df550c2-2dc2-4fe0-9c17-343be3e7b5c9/Snorkel+image+3.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/bb3b2a91-649f-42bc-860b-fe8440d8d4e6/dji_fly_20230105_130110_141_1672894881225_photo_optimized.JPG"
+      ]
+    },
+    {
+      "title": "Marine Park Experience",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/cf3894ae-b088-4a5f-916c-281ce1e5023a/sea+lion+and+snorkeller.png",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/f1a70796-6da4-49c9-a26b-be8cbdf01bef/australian-sea-lions-jurien.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/6057d505-b531-4a7f-93a4-3ec473be5625/jurien-bay-oceanic-experience.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/6c91e2b4-f887-4313-917d-3f4f0dd1d8f8/jurien-bay-marine-park.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/b5a5088f-e1dd-4647-bcf2-0af234665640/marine-park-snorkelling-jurien-bay.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/91fbb70c-e634-4c33-94f2-74289fda227f/Boullanger.png",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/77078939-409d-4b9c-b001-341f94505ba9/snorkelling.png",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/e61f6121-8a60-4d23-b1c9-9caf33815c0a/Coral.png"
+      ]
+    },
+    {
+      "title": "Rock Lobster Catch & Keep Tour",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/1da0f05a-b516-472e-af9c-838caa1a1d1e/dsc07706.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/fb6ae965-0474-4f09-b5b1-009075a9e901/Rock-Lobster-Tour.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/32c2a397-8a26-4670-aa5b-13f75026c397/lobster-tour-jurienbay.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/7fe8c98a-1bec-4729-b497-a7f3df385a2e/lobster-tour-western-australia.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/cb0f4254-52fa-4794-9db6-270a8e16052c/cc0ce899-b816-4b26-bae5-84d566f9a959.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/8f99431a-8e52-4cf2-9b4d-9753b15221da/DJI_20260209080851_0069_D.PNG"
+      ]
+    },
+    {
+      "title": "Jurien Bay Sunset Cruise",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/e925b1d1-58ca-4ce9-89aa-a6023af3c1e7/Photo+31-7-2026%2C+2+59+51+pm.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/3541510c-aab0-430d-a4cc-2196707db7e5/Photo+31-7-2026%2C+2+59+51+pm.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/8d3a0965-dfa7-4bc2-bf8e-f8f6d991dabc/Photo+19-5-2022%2C+10+17+44+pm+%281%29.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/43cfd492-02a3-41c5-8d11-a8c486f88b02/IMG_4359.jpg"
+      ]
+    }
+  ],
+  "notes": "Source: the operator's own Squarespace site, 23 pages read one at a time with curl's default user agent; no bot check, captcha or 403 was met, and no image was downloaded (three key image URLs were checked with a header request only). LOGO: the header logo (Jurien Bay_Logo Text_Mono_White.png) is a white-on-transparent mono mark, so it needs a dark background; the footer 'Full' logo is also white mono (https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/0d705e44-fd0e-4036-8507-1128bd0ee93f/Jurien+Bay_Logo+Full_Mono_White.png). The CDN URL is given without the ?format=1500w suffix, so it serves the original. HERO and GALLERY: hero is the swimmer-with-sea-lion photo (4000x2256) from the Best Time to Swim with Sea Lions guide. The site's own homepage and tour-page hero (MaiRoper_photos_JurienBayOceanic_Oct25-28.jpg, 5324x3549) was left out because its file name carries a photographer's name and the site does not say whose it is; a person could confirm it is the operator's and swap it in. Also left out: 'MUA-JurienBay JS Print' photos (provenance unclear), the '2025_TA_Media_Wall' director and general manager portraits, crew headshots, the TERC stage badges, Dream Collective WA and 2025 Generic Logo finalist badges, the small ChatGPT Image files (AI-generated graphics), icons, the footer and page background images, the historic crayfishing photos on the lobster page (archival, source not stated), and the 'Harbour', 'Boullanger Island' and 'Oceanic coffee' images on the Explore page (large PNGs and graphics that look like section art). The Instagram feed images on every page (image-asset.jpeg files, with captions from the operator's feed) were left out because they are an embedded social feed rather than the operator's own page photos. No banner or text-on-image graphics are in the hero or gallery. TRIPS: images are the photos on each trip's own page, best first. The Sea Lion Tour list includes the page hero (sea-lion-tour-hero-optimized.webp) and several portrait PNG guest photos. The Marine Park Experience list ends with three large PNG section backgrounds (Boullanger.png, snorkelling.png, Coral.png) that could not be judged by eye, and the Rock Lobster list ends with DJI_20260209080851_0069_D.PNG (a drone image that is probably a section background). The Sunset Cruise list has two uploads of the same 31 July 2026 photo. VIDEOS: the only video link on the site is a YouTube background video (youtu.be/emDUYQl0asU, played at half speed behind the page headers); its title and owner were not checked because the site links no YouTube channel, so confirm it is the operator's own. The homepage hero is a Squarespace-hosted video with no direct file URL, so it is not listed. The site links Facebook and Instagram only, which were not opened."
+}

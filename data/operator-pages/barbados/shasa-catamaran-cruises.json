@@ -1,0 +1,288 @@
+{
+  "slug": "shasa-catamaran-cruises",
+  "name": "Shasa Catamaran Cruises",
+  "website": "https://www.shasacatamarancruises.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Holetown",
+  "category": "Small-group catamaran cruises",
+  "summary": "Shasa Catamaran Cruises sails Shasa II, a 38ft catamaran, along the west coast from Holetown beach. Groups are small, up to 10 guests, with snorkel, lunch and sunset trips or a private charter. Expect turtle swims, reef and shipwreck snorkelling, and drinks on board with a Bajan crew.",
+  "standouts": [
+    "Founded by Jason O'Neal, a former competitive sailor",
+    "38ft catamaran for groups of up to 10",
+    "Boarding from the beach at Holetown",
+    "Drinks, snorkels and masks included on standard trips"
+  ],
+  "contact": {
+    "phone": "+1 246 243 4670",
+    "email": "shasacatamarancruises@gmail.com",
+    "address": "Holetown Beach, Holetown, Saint James, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://static.wixstatic.com/media/a7b826_a3f75ec533ad4baeb42c856c2cc2af1b~mv2.jpg",
+  "sourceUrls": [
+    "https://www.shasacatamarancruises.com/",
+    "https://www.shasacatamarancruises.com/snorkel-cruise",
+    "https://www.shasacatamarancruises.com/lunch-cruise",
+    "https://www.shasacatamarancruises.com/sunset-cruise",
+    "https://www.shasacatamarancruises.com/privater-charter",
+    "https://www.shasacatamarancruises.com/services",
+    "https://www.shasacatamarancruises.com/about-us",
+    "https://www.shasacatamarancruises.com/faq",
+    "https://www.shasacatamarancruises.com/cancellation-policy",
+    "https://www.shasacatamarancruises.com/news-updates",
+    "https://www.shasacatamarancruises.com/sitemap.xml",
+    "https://www.shasacatamarancruises.com/pages-sitemap.xml",
+    "https://www.shasacatamarancruises.com/book-online"
+  ],
+  "trips": [
+    {
+      "title": "Snorkel Cruise",
+      "kind": "snorkel",
+      "summary": "A three hour sail up the west coast to snorkel coral reefs and swim alongside sea turtles. The captain picks the route each day for the best turtle sightings and calm water.",
+      "highlights": [
+        "Swim with green sea turtles",
+        "Snorkel coral reefs and shipwrecks",
+        "Drinks, snorkels and masks included",
+        "Small group, up to 10 guests"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown beach, west coast",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 85,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Adult",
+          "amount": 170,
+          "currency": "BBD",
+          "note": "Shown as $170 BDS"
+        },
+        {
+          "label": "Child",
+          "amount": 50,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child",
+          "amount": 100,
+          "currency": "BBD",
+          "note": "Shown as $100 BDS"
+        }
+      ],
+      "priceFrom": 85,
+      "includes": [
+        "Boat and skipper",
+        "A full range of drinks",
+        "Snorkels and masks",
+        "Life jackets and safety gear"
+      ],
+      "bring": [
+        "Towels",
+        "Sunscreen",
+        "Sunglasses",
+        "Camera",
+        "A method of payment",
+        "Seasickness medication if you are prone to it"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/a7b826_9d651444ead04b4d86599f289968c879~mv2.jpg",
+        "https://static.wixstatic.com/media/aac731_06cfed8bc7804c5d951c858d84fbc875~mv2.jpg",
+        "https://static.wixstatic.com/media/a7b826_eb33190bd99b48058973a1f31cd786f6~mv2.jpg",
+        "https://static.wixstatic.com/media/a7b826_cf222b4e5dcb44c8951f006f186470b1~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.shasacatamarancruises.com/snorkel-cruise",
+      "checkNotes": "Child age range not stated. Includes and bring lists come from the FAQ page, which covers all standard charters. Booking by phone, email or WhatsApp."
+    },
+    {
+      "title": "Lunch Cruise",
+      "kind": "cruise",
+      "summary": "A five hour cruise on the west coast with a lunch made from local produce, cold drinks and time to swim and snorkel in quiet water.",
+      "highlights": [
+        "Lunch made with local produce",
+        "Cold drinks on board",
+        "Time to swim and snorkel",
+        "Small group, up to 10 guests"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown beach, west coast",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 110,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Adult",
+          "amount": 220,
+          "currency": "BBD",
+          "note": "Shown as $220 BDS"
+        },
+        {
+          "label": "Child",
+          "amount": 90,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child",
+          "amount": 180,
+          "currency": "BBD",
+          "note": "Shown as $180 BDS"
+        }
+      ],
+      "priceFrom": 110,
+      "includes": [
+        "Lunch",
+        "Cold drinks",
+        "Snorkels and masks",
+        "Life jackets and safety gear"
+      ],
+      "bring": [
+        "Towels",
+        "Sunscreen",
+        "Sunglasses",
+        "Camera",
+        "A method of payment",
+        "Seasickness medication if you are prone to it"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/a7b826_a3f75ec533ad4baeb42c856c2cc2af1b~mv2.jpg",
+        "https://static.wixstatic.com/media/a7b826_790a42dc16ce430eba8e64bab3c357c7~mv2.jpg",
+        "https://static.wixstatic.com/media/aac731_cf6e05ca19e248b4a85d09dead73f755~mv2.jpg",
+        "https://static.wixstatic.com/media/a7b826_093c6e38efff4b0b94b6237557b422df~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.shasacatamarancruises.com/lunch-cruise",
+      "checkNotes": "Child age range not stated. Snorkelling and swimming on this trip are taken from the page photos and the FAQ, which says there is always time to snorkel and swim. Booking by phone, email or WhatsApp."
+    },
+    {
+      "title": "Sunset Cruise",
+      "kind": "cruise",
+      "summary": "A three hour evening sail along the west coast as the sun goes down, with a drink in hand on deck.",
+      "highlights": [
+        "Evening sail on the west coast",
+        "Drinks on board",
+        "Small group, up to 10 guests"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown beach, west coast",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 70,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Adult",
+          "amount": 140,
+          "currency": "BBD",
+          "note": "Shown as 140 BD"
+        },
+        {
+          "label": "Child",
+          "amount": 50,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child",
+          "amount": 100,
+          "currency": "BBD",
+          "note": "Shown as 100 BD"
+        }
+      ],
+      "priceFrom": 70,
+      "includes": [
+        "Boat and skipper",
+        "A full range of drinks",
+        "Life jackets and safety gear"
+      ],
+      "bring": [
+        "Towels",
+        "Sunscreen",
+        "Sunglasses",
+        "Camera",
+        "A method of payment",
+        "Seasickness medication if you are prone to it"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/aac731_fc009eda9fc3433d9d5b20f17aeccb5a~mv2.jpg",
+        "https://static.wixstatic.com/media/a7b826_8606b7fa16d34a2794b3fbef0d9f47bd~mv2.jpg",
+        "https://static.wixstatic.com/media/a7b826_1028c83196544db2a66f6fc994e46fc2~mv2.png",
+        "https://static.wixstatic.com/media/aac731_a046f5e7bebd4093b52e09642e169645~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.shasacatamarancruises.com/sunset-cruise",
+      "checkNotes": "Barbados dollar prices are written as BD on this page (BDS on the others); recorded as BBD. Departure time not stated. Child age range not stated. Booking by phone, email or WhatsApp."
+    },
+    {
+      "title": "Private Charter",
+      "kind": "charter",
+      "summary": "Shasa II to yourselves for a group of up to 10, with the route and timing set around you. Snorkel with sea turtles, explore reefs, swim in quiet bays or relax on deck. Suited to birthdays, anniversaries, couples and families.",
+      "highlights": [
+        "38ft sailing catamaran, up to 10 guests",
+        "Route, snorkel stops and timing tailored to the group",
+        "Pick-up from a chosen beach or dock on request",
+        "Optional on-board photographer (extra fee)"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown beach, or a location of your choice by arrangement",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Boat and skipper",
+        "Refreshing drinks",
+        "Snorkels and masks",
+        "Life jackets and safety gear"
+      ],
+      "bring": [
+        "Towels",
+        "Sunscreen",
+        "Sunglasses",
+        "Camera",
+        "A method of payment",
+        "Seasickness medication if you are prone to it"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/a7b826_6e47196ddb9841f3a074a651b57cdd90~mv2.jpg",
+        "https://static.wixstatic.com/media/aac731_6e58c4c5b5854de0ba3f9bd15cafccb2~mv2.jpg",
+        "https://static.wixstatic.com/media/aac731_5aaf1b34a8a848d49c3ea3ae0855f564~mv2.jpg",
+        "https://static.wixstatic.com/media/a7b826_dbd847ef831147899c0bf9c1afbd0bdd~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.shasacatamarancruises.com/privater-charter",
+      "checkNotes": "Page says \"Contact us for prices.\" Duration not stated. Custom pick-up and dock pickup are from the FAQ."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Enquiry only. The Book Now buttons open a pop-up, and the FAQ says \"We prefer to talk to you\" and asks guests to call or email. The Wix Bookings app is installed on the site but no booking page is published (/book-online returns 404). The site shows \"WhatsApp us on +1 (246) 243 4670\" with no wa.me link, so contact.whatsapp is null. Cancellation charges apply within 48 hours and on the day, and to any cancellation between 20 December and 10 January (see the cancellation policy page). The news page mentions a new route to lesser-known spots without naming it. Footer copyright 2025, blog posts November 2025, sitemap updated May 2026."
+}

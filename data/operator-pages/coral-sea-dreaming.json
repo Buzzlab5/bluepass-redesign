@@ -1,0 +1,186 @@
+{
+  "slug": "coral-sea-dreaming",
+  "name": "Coral Sea Dreaming",
+  "website": "https://coralseadreaming.com.au",
+  "rezdyAlias": "coralseadreamingdiveandsail27",
+  "state": "QLD",
+  "town": "Cairns",
+  "category": "Overnight reef liveaboard",
+  "summary": "Coral Sea Dreaming takes small groups from Cairns to the outer Great Barrier Reef for two days and one night on a 52ft sailing boat. There are no more than 12 guests, with two dive instructors and a skipper on board, and every dive is guided. Guests can snorkel, try a first dive or dive as certified divers.",
+  "standouts": [
+    "Maximum 12 guests, with a crew of 2 dive instructors and a skipper",
+    "All dives are guided by dive instructors",
+    "Access to over 25 moorings on 9 reef systems, including Three Sisters, The Whale and Michaelmas Cay",
+    "52ft (15.85m) steel sailing boat with air-conditioned cabins and hot showers"
+  ],
+  "contact": {
+    "phone": "+61 4 74 727 777",
+    "email": "admin@coralseadreaming.com.au",
+    "address": "Berth 3, A Finger, Marlin Marina, 1 Spence St Cairns, QLD 4870 Australia"
+  },
+  "heroImage": "https://static.wixstatic.com/media/dee41f_e797aed1117d42d8abc09e4837b0cadc~mv2.jpg",
+  "sourceUrls": [
+    "https://coralseadreaming.com.au",
+    "https://www.coralseadreaming.com.au/pages-sitemap.xml",
+    "https://www.coralseadreaming.com.au/2d-1n-itinerary",
+    "https://www.coralseadreaming.com.au/prices",
+    "https://www.coralseadreaming.com.au/certified-diving",
+    "https://www.coralseadreaming.com.au/introductory-diving",
+    "https://www.coralseadreaming.com.au/snorkelling",
+    "https://www.coralseadreaming.com.au/private-charter",
+    "https://www.coralseadreaming.com.au/contact-us",
+    "https://www.coralseadreaming.com.au/coral-sea-dreaming-boat",
+    "https://www.coralseadreaming.com.au/our-story",
+    "https://www.coralseadreaming.com.au/locations",
+    "https://www.coralseadreaming.com.au/cancellation-policy",
+    "https://www.coralseadreaming.com.au/medical-forms",
+    "https://www.coralseadreaming.com.au/photo-gallery",
+    "https://www.coralseadreaming.com.au/timeless-reef"
+  ],
+  "trips": [
+    {
+      "title": "2 days, 1 night tour",
+      "kind": "liveaboard",
+      "summary": "An overnight trip from Cairns to the outer reef, with a night on board and time in the water on both days. Choose a snorkelling, intro diving or certified diving ticket, and a private cabin or a bed in a shared cabin. Meals are cooked on board and the boat sails whenever the weather allows.",
+      "highlights": [
+        "Maximum 12 guests, 2 dive instructors and a skipper",
+        "Certified diving ticket includes 4 to 5 day dives and a night dive, all guided",
+        "Reef sites change with the weather, chosen from over 25 moorings",
+        "Private cabins with double beds or single bunks in a shared cabin, all air-conditioned"
+      ],
+      "duration": "2 days, 1 night",
+      "durationMinutes": null,
+      "departureTimes": ["08:00"],
+      "season": null,
+      "departsFrom": "Berth 3, A Finger, Marlin Marina, 1 Spence St, Cairns",
+      "prices": [
+        { "label": "Snorkelling, private cabin (double bed for 2 people)", "amount": 719, "currency": "AUD", "note": "Per person. Private cabin prices are based on double occupancy; single occupancy surcharge equal to the base ticket price." },
+        { "label": "Snorkelling, shared cabin (single bed)", "amount": 669, "currency": "AUD", "note": "Per person" },
+        { "label": "Certified diving, private cabin (double bed for 2 people)", "amount": 1069, "currency": "AUD", "note": "Per person. For certified divers only." },
+        { "label": "Certified diving, shared cabin (single bed)", "amount": 1019, "currency": "AUD", "note": "Per person. For certified divers only. The homepage shows AU$ 1009 for this ticket; the prices page shows AU$ 1019." },
+        { "label": "Intro diving, private cabin (double bed for 2 people)", "amount": 839, "currency": "AUD", "note": "Per person. Includes 1 intro dive." },
+        { "label": "Intro diving, shared cabin (single bed)", "amount": 789, "currency": "AUD", "note": "Per person. Includes 1 intro dive." },
+        { "label": "Optional extra: 1 certified dive (on top of snorkelling ticket)", "amount": 80, "currency": "AUD", "note": null },
+        { "label": "Optional extra: 1 introductory dive", "amount": 120, "currency": "AUD", "note": null },
+        { "label": "Optional extra: refresher skill-set", "amount": 40, "currency": "AUD", "note": "Per person, from the certified diving page" },
+        { "label": "Optional extra: camera hire, 1 day", "amount": 80, "currency": "AUD", "note": null },
+        { "label": "Optional extra: camera hire, 2 days", "amount": 120, "currency": "AUD", "note": null },
+        { "label": "Marine Park Levy (charged on board)", "amount": 20, "currency": "AUD", "note": "Au$ 10 per person per day, Au$20 for two days, payable on board via eftpos or cash" }
+      ],
+      "priceFrom": 669,
+      "includes": [
+        "Air-conditioned overnight accommodation",
+        "Breakfast, lunch and dinner freshly prepared onboard",
+        "Water, coffee, tea and snacks throughout the day",
+        "Bath towel and hot shower",
+        "Stinger suit or wetsuit",
+        "Snorkelling gear",
+        "Certified diving ticket: diving gear (including dive computer and torch on night dives), 4-5 day dives and a night dive, dive guide",
+        "Intro diving ticket: diving gear (including dive computer), 1 intro dive (day or night), dive guide"
+      ],
+      "bring": [
+        "Sunglasses, hat and sunscreen",
+        "Swimwear and beach towel (bath towel is provided)",
+        "Warm clothes for colder months May-September",
+        "Small overnight bag",
+        "Certification card and log book for certified divers",
+        "Cash or card for onboard extras"
+      ],
+      "requirements": "Not suitable for children under 1, people over 80 or people with reduced mobility. Suited to those who can swim, dive or wish to try diving. All guests complete a liability release and medical form; intro divers also complete a try scuba form and may need a doctor's certificate. Intro dives are limited to 12m depth.",
+      "offer": {
+        "text": "Free five-minute trial breathing from a scuba cylinder at 2 m depth at the line, to find out if scuba diving is for you",
+        "conditions": "Ask the crew on board; they explain the conditions",
+        "validUntil": null
+      },
+      "images": [
+        "https://static.wixstatic.com/media/dee41f_1fc1faacac3b42ae87c7d1955877bfe1~mv2.jpg",
+        "https://static.wixstatic.com/media/dee41f_15247f6fa77042f882047005eb327007~mv2.jpg",
+        "https://static.wixstatic.com/media/dee41f_b87ded7c94974abd90de78cd0870eb72~mv2.jpg",
+        "https://static.wixstatic.com/media/dee41f_12fbe32e1608460ea748c9477065a2fd~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://coralseadreamingdiveandsail27.rezdy.com/catalog/486462/2-days-1-night-tour",
+        "https://coralseadreamingdiveandsail27.rezdy.com/690388/private-cabin",
+        "https://coralseadreamingdiveandsail27.rezdy.com/690380/bunk-style-bed"
+      ],
+      "sourceUrl": "https://www.coralseadreaming.com.au/2d-1n-itinerary",
+      "checkNotes": "Departs Tue, Thu and Sat at 8am (boarding 7.45am) and returns the next day around 4pm; durationMinutes left null because the return time is approximate. Season not stated. Ticket prices taken from the prices page (https://www.coralseadreaming.com.au/prices); the homepage shows AU$ 1009 for the certified diving shared cabin, the prices page AU$ 1019. Optional extras (dives, camera hire, refresher, levy) are listed as prices so nothing is lost; they are not part of priceFrom. The Advanced Open Water Course is entered as its own trip."
+    },
+    {
+      "title": "Private charter",
+      "kind": "charter",
+      "summary": "Hire the whole boat for 2 to 5 days for up to 12 people, with your own skipper and two dive instructors. The itinerary is planned with you around the reefs you want to visit and the weather. Diving is charged per person per day on top of the day rate.",
+      "highlights": [
+        "2 to 5 days, up to 12 people",
+        "Longer trips possible for groups of up to 7",
+        "Diving courses can be arranged during the trip, on request",
+        "No fishing, the boat is not licensed as a fishing charter"
+      ],
+      "duration": "2 to 5 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Marlin Marina, Cairns",
+      "prices": [
+        { "label": "Day rate, up to 12 people", "amount": 3849, "currency": "AUD", "note": "Per day for the boat" },
+        { "label": "Unlimited diving, per person per day", "amount": 139, "currency": "AUD", "note": null }
+      ],
+      "priceFrom": 3849,
+      "includes": [
+        "Dedicated crew (skipper and 2 dive instructors)",
+        "Food",
+        "Bath towels",
+        "Fuel",
+        "Diving and snorkeling gear"
+      ],
+      "bring": [],
+      "requirements": "Up to 12 people including children (legal limit for the boat)",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/dee41f_41cfe4e47a10465ca51ea3676511a2eb~mv2.jpg",
+        "https://static.wixstatic.com/media/dee41f_1fc1faacac3b42ae87c7d1955877bfe1~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.coralseadreaming.com.au/private-charter",
+      "checkNotes": "Prices are on the prices page, not the charter page. priceFrom is the day rate for the whole boat, not a per-person price. Booked by contacting the operator; no online booking link. Departure point not stated on the charter page; assumed the same marina as the scheduled tour, please confirm. A one-day trip is described as possible but not recommended."
+    },
+    {
+      "title": "Advanced Open Water Course",
+      "kind": "course",
+      "summary": "Open Water divers can upgrade to Advanced Open Water during the overnight reef trip. The course uses five adventure dives on the reef, including a deep dive, navigation dive and night dive. PADI or SSI certification is offered.",
+      "highlights": [
+        "5 adventure dives: Deep, Navigation, Night, Fish ID and Boat dive",
+        "PADI or SSI",
+        "Training materials and certification included",
+        "Can be arranged in advance or decided and paid on board"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Berth 3, A Finger, Marlin Marina, 1 Spence St, Cairns",
+      "prices": [
+        { "label": "Advanced Open Water Course", "amount": 550, "currency": "AUD", "note": "Incl. 5 adventure dives, all training materials and certification" }
+      ],
+      "priceFrom": 550,
+      "includes": [
+        "5 adventure dives",
+        "All training materials",
+        "Certification"
+      ],
+      "bring": [
+        "Certification card and log book"
+      ],
+      "requirements": "Open Water Diver certification",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/dee41f_57954eb399c948e6a9bbace1f309334d~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.coralseadreaming.com.au/certified-diving",
+      "checkNotes": "Listed under Optional extras on the prices page, so it appears to be an add-on to a 2 days, 1 night ticket rather than a stand-alone trip; the site does not say which ticket is needed. Arranged by email (admin@coralseadreaming.com.au) or phone; the certified diving page prints the phone as +61 4747 7777, which looks like a typo of +61 4 74 727 777. The page says it depends on numbers and conditions."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "No gift vouchers, specials or packages found on the site. Ticket price conflict: certified diving shared cabin is AU$ 1009 on the homepage and AU$ 1019 on the prices page. Cancellation terms are on the cancellation-policy page and were not copied because they are stated as percentages. Footer copyright reads 2022, but the sitemap was updated 2026-06-04."
+}

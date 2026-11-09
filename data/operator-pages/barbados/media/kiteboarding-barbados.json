@@ -1,0 +1,62 @@
+{
+  "slug": "kiteboarding-barbados",
+  "logo": "https://www.kiteboardingbarbados.com/wp-content/uploads/2018/10/Website-Logo.png",
+  "gallery": [
+    "https://www.kiteboardingbarbados.com/wp-content/uploads/2018/10/JYKO0814.jpg",
+    "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/Lesson-Page-Pic-11-9-18.jpg",
+    "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/AHMV8031.jpg",
+    "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/AZVS3206.jpg",
+    "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/CIGN4383.jpg",
+    "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/DJFT8133.jpg",
+    "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/DRGE9349.jpg",
+    "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/EAQJ4986.jpg",
+    "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/GWRK8055.jpg",
+    "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/NEUK9748.jpg",
+    "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/SAZK8857.jpg",
+    "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/WAAW5453.jpg",
+    "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/WIRO4892.jpg",
+    "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/IMG_2298.jpg",
+    "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/IMG_2347.jpg",
+    "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/UXQC0039.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Kiteboarding Lessons",
+      "images": [
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2018/10/IMG_1711.jpg"
+      ]
+    },
+    {
+      "title": "Surf Board Classes",
+      "images": [
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2018/11/RVQJ8042.jpg",
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2018/11/RXYJ6319.jpg",
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/CXRJ3184.jpg",
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/IMG_2362.jpg",
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/IMG_2379.jpg"
+      ]
+    },
+    {
+      "title": "Surf Board Rental",
+      "images": [
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2018/11/RVQJ8042.jpg",
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2018/11/RXYJ6319.jpg",
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/CXRJ3184.jpg",
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/IMG_2362.jpg",
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/IMG_2379.jpg"
+      ]
+    },
+    {
+      "title": "SUP Rental",
+      "images": [
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2018/11/RVQJ8042.jpg",
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2018/11/RXYJ6319.jpg",
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/CXRJ3184.jpg",
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/IMG_2362.jpg",
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/IMG_2379.jpg"
+      ]
+    }
+  ],
+  "notes": "The kiteboarding lessons page has no photo of its own; its only photo, IMG_1711.jpg, is a section background used across the site. The surf classes, surfboard rental and SUP rental share one page, so they share its photos. Left out: kitesurfing-3273780_960_720.jpg on the home page (Pixabay stock file name) and theme demo banners under uploads/sites/31/2016. Also in the gallery but left out to stay within 16: CXRJ3184.jpg, IMG_2333.jpg, IMG_2362.jpg, IMG_2363.jpg and Website-Pic-Boards-Resized.jpg (2019/01). A larger square icon logo exists at https://www.kiteboardingbarbados.com/wp-content/uploads/2018/10/KBBlogo.png; the header uses Website-Logo.png. No videos found. Facebook and Instagram not opened."
+}

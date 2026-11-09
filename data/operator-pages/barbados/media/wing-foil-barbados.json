@@ -1,0 +1,38 @@
+{
+  "slug": "wing-foil-barbados",
+  "logo": null,
+  "gallery": [
+    "https://static.wixstatic.com/media/c7d2ac_1068069bbfb24e7fb7028ff365e4acf9~mv2.jpeg",
+    "https://static.wixstatic.com/media/c7d2ac_b746d849b86f408581770d0579db976a~mv2.jpeg",
+    "https://static.wixstatic.com/media/c7d2ac_da59a0af053f468d8a095c41f6292518~mv2.jpeg",
+    "https://static.wixstatic.com/media/c7d2ac_00807223daf346238ad105289c858f31~mv2.jpeg",
+    "https://static.wixstatic.com/media/c7d2ac_dade2e6fcbc5462a9f16b18ac35bf0f0~mv2.jpg",
+    "https://static.wixstatic.com/media/c7d2ac_60c2d9d94aab4642850617a7e6a81909~mv2.png"
+  ],
+  "videos": [
+    {
+      "url": "https://video.wixstatic.com/video/c7d2ac_da5e1502dd714e42a1861e2030a6e365/480p/mp4/file.mp4",
+      "title": "Wing foiling clip from the home page",
+      "sourceUrl": "https://www.wingfoilbarbados.com/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Private Lesson",
+      "images": [
+        "https://static.wixstatic.com/media/c7d2ac_b746d849b86f408581770d0579db976a~mv2.jpeg",
+        "https://static.wixstatic.com/media/c7d2ac_00807223daf346238ad105289c858f31~mv2.jpeg",
+        "https://static.wixstatic.com/media/c7d2ac_da59a0af053f468d8a095c41f6292518~mv2.jpeg"
+      ]
+    },
+    {
+      "title": "Group Lesson",
+      "images": [
+        "https://static.wixstatic.com/media/c7d2ac_b746d849b86f408581770d0579db976a~mv2.jpeg",
+        "https://static.wixstatic.com/media/c7d2ac_da59a0af053f468d8a095c41f6292518~mv2.jpeg",
+        "https://static.wixstatic.com/media/c7d2ac_00807223daf346238ad105289c858f31~mv2.jpeg"
+      ]
+    }
+  ],
+  "notes": "Wix site with few photos: one wide home page photo, three course photos (April 2025), an instructor photo and an edited PNG on the Video Clinic page. No header logo image (the header is text); the site icon is a JPG at https://static.wixstatic.com/media/c7d2ac_d9573cdc78914cb5a10d146cdcc0cd4e~mv2.jpg, not used as the logo. The home page background video is a short self-hosted Wix clip (848x480, also at 360p). A 2017 screenshot on the instructor page left out. No YouTube or Vimeo links; social link is Instagram only."
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "montague-island-adventures",
+  "logo": "https://www.montagueislandadventures.com.au/wp-content/uploads/MIAlogo-SMALL.png",
+  "heroImage": "https://www.montagueislandadventures.com.au/wp-content/uploads/Montague-Island-waterview.jpg",
+  "gallery": [
+    "https://www.montagueislandadventures.com.au/wp-content/uploads/Montague-Island-waterview.jpg",
+    "https://www.montagueislandadventures.com.au/wp-content/uploads/montague-island.jpg",
+    "https://www.montagueislandadventures.com.au/wp-content/uploads/montague-island-view.jpg",
+    "https://www.montagueislandadventures.com.au/wp-content/uploads/montague-island-lighthouse.jpg",
+    "https://www.montagueislandadventures.com.au/wp-content/uploads/montague-island-seals.jpg",
+    "https://www.montagueislandadventures.com.au/wp-content/uploads/Seals-Montague-Island-Narooma.jpg",
+    "https://www.montagueislandadventures.com.au/wp-content/uploads/seal-photo-new2.jpg",
+    "https://www.montagueislandadventures.com.au/wp-content/uploads/snorkel-photo-new.jpg",
+    "https://www.montagueislandadventures.com.au/wp-content/uploads/narooma-snorkeling.jpg",
+    "https://www.montagueislandadventures.com.au/wp-content/uploads/Dolphins-Montague-Island-Tour.jpg",
+    "https://www.montagueislandadventures.com.au/wp-content/uploads/whale-jumping-montague-island.jpg",
+    "https://www.montagueislandadventures.com.au/wp-content/uploads/whales-tour-narooma.jpg",
+    "https://www.montagueislandadventures.com.au/wp-content/uploads/Penguin-Tour-Montague-Island.jpg",
+    "https://www.montagueislandadventures.com.au/wp-content/uploads/Baby-Penguin-Montague-Island.jpg",
+    "https://www.montagueislandadventures.com.au/wp-content/uploads/group.jpg",
+    "https://www.montagueislandadventures.com.au/wp-content/uploads/Montague-Island-Tour-Afternoon.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.montagueislandadventures.com.au/wp-content/uploads/time-lapse-of-montague-island-online-video-cuttercom_rDDy3EoO.mp4",
+      "title": "Time-lapse of Montague Island",
+      "sourceUrl": "https://www.montagueislandadventures.com.au/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Morning Montague Tour",
+      "images": [
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/montague-island.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/montague-island-lighthouse.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/montague-island-seals.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/montague-island-view.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/LitehausBLUBAR.jpg"
+      ]
+    },
+    {
+      "title": "Afternoon Montague Tour",
+      "images": [
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Montague-Island-waterview.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Montague-Island-Tour-Afternoon.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/IslandBLUBAR.jpg"
+      ]
+    },
+    {
+      "title": "Evening Penguin Tour",
+      "images": [
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Penguin-Tour-Montague-Island.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Baby-Penguin-Montague-Island.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/group.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Montague-Island-Penguin.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/PenguinBLUBAR-1.jpg"
+      ]
+    },
+    {
+      "title": "Barunguba Montague Island Tour and Snorkel with the Seals",
+      "images": [
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/snorkel-photo-new.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/seal-photo-new2.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/narooma-snorkeling.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Seals-Montague-Island-Narooma.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Montague-Island-Snorkel-Seals.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/SnorkelBLUBAR2.jpg"
+      ]
+    },
+    {
+      "title": "Snorkel with the Seals",
+      "images": [
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/narooma-snorkeling.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Seals-Montague-Island-Narooma.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/seal-photo-new2.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/snorkel-photo-new.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Seal.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Dolphins-Montague-Island-Tour.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/IMG_3408.jpeg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Montague-Island-Snorkel-Seals.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/HomeSnorkelBLUBAR2.jpg"
+      ]
+    },
+    {
+      "title": "Whale Watching",
+      "images": [
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Whale.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/whale-jumping-montague-island.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/whales-tour-narooma.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/whale-diving.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/whale-narooma.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/Whales-Narooma.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/whale-swimming-montague-island.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/whale-watching-Narooma-Tours.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/narooma-whale-tour.jpg",
+        "https://www.montagueislandadventures.com.au/wp-content/uploads/HomeWhaleBLUBAR2.jpg"
+      ]
+    }
+  ],
+  "notes": "Logo is MIAlogo-SMALL.png, the largest version the site serves (300 by 343). Images were not opened or downloaded, only checked to load, so hero and gallery choices rest on file names, alt text and where each photo sits on the page; a person should look at them. LEFT OUT FOR OWNERSHIP: six photos with Eurobodalla Tourism in the file name (Eurobodalla-Tourism-Montague-Trip-pics-8, 27, 39, 42, 63 and 67, in /wp-content/uploads/). They are the site's page banners and the guest photos on the Tours, Snorkel and Whale pages, but the name suggests a tourism body made them, so they were excluded; a person should confirm whether the operator holds the rights and, if so, they would be the best hero and guest photos. Also left out: montague-island-accommodation.jpg (island cottages, run by National Parks), MIA-AD.jpg and CFN-AD.jpg (brochure graphics), boatshedAD3.jpg (looks like advertising artwork), Map.jpeg (directions), the fishing photos (man-with-fish-narooma, snapper-narooma, narooma-coolers-layout, fishing-charter-boatBLUBAR, nitro2BLUBAR, HomeFishingBLUBAR) which belong to the separate fishing business, and the Facebook icon. The photos with BLUBAR in the name (LitehausBLUBAR, IslandBLUBAR, SnorkelBLUBAR2, PenguinBLUBAR-1, HomeSnorkelBLUBAR2, HomeWhaleBLUBAR2) are wide card banners from the Tours and home pages; kept at the end of each trip for the importer to judge. Montague-Island-Penguin.jpg appears as decoration on the Tours, Snorkel and Whale pages, so it is attached to the evening penguin trip only. Wildlife photos (whales, seals, dolphins, penguins) carry no credit and no stock-site file names, but their origin cannot be confirmed from the site. heroImage is Montague-Island-waterview.jpg, the afternoon tour page's main image, because the site's current hero photos are the Eurobodalla Tourism ones. Videos: the only video is a self-hosted time-lapse mp4 that plays muted behind the home page (uploaded February 2021). The site links no YouTube or Vimeo channel, only Facebook, which was not opened. The Afternoon Montague Tour page and the Tour plus Snorkel trip have only one or two photos of their own. No bot check or captcha was hit; the site answered normally."
+}

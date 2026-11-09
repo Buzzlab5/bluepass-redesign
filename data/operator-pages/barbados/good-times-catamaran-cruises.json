@@ -1,0 +1,321 @@
+{
+  "slug": "good-times-catamaran-cruises",
+  "name": "Good Times Catamaran Cruises",
+  "website": "https://www.goodtimesbarbados.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": null,
+  "category": "Catamaran cruises and water sports",
+  "summary": "Founded in 2004 by Antje and Kenneth Jones, Good Times runs two French-built catamarans on the west coast. The shared lunch cruise takes around 20 guests to swim with turtles and snorkel a shipwreck, and both boats can be chartered privately for sunsets and celebrations. A speedboat covers water skiing, fishing and other water sports.",
+  "standouts": [
+    "Founded in July 2004 by Antje and Kenneth Jones",
+    "Two Fountaine Pajot catamarans: Good Times (Venezia 42, up to 16 guests) and Good Times Too (Saba 50, up to 25 guests)",
+    "Catamarans fitted with solar panels for battery recharging and fuel-efficient diesel engines",
+    "Lunch cruise with around 20 guests"
+  ],
+  "contact": {
+    "phone": "+1 246 422 1900",
+    "phoneAlt": "+1 246 823 4900",
+    "email": "info@goodtimesbarbados.com",
+    "address": "27, Upper Mount Standfast, St. James, Barbados W.I.",
+    "hours": "Monday to Friday, 8 AM to 8 PM"
+  },
+  "heroImage": "https://www.goodtimesbarbados.com/wp-content/uploads/good-times-catamaran-and-good-times-too.jpg",
+  "sourceUrls": [
+    "https://www.goodtimesbarbados.com/",
+    "https://www.goodtimesbarbados.com/lunch-snorkel-cruise/",
+    "https://www.goodtimesbarbados.com/private-charter/",
+    "https://www.goodtimesbarbados.com/sunset-cruise/",
+    "https://www.goodtimesbarbados.com/special-events/",
+    "https://www.goodtimesbarbados.com/water-sport/",
+    "https://www.goodtimesbarbados.com/about-us/",
+    "https://www.goodtimesbarbados.com/contact-us/"
+  ],
+  "trips": [
+    {
+      "title": "Lunch Snorkel Cruise",
+      "kind": "cruise",
+      "summary": "A five hour day cruise along the west coast with around 20 guests. You swim with sea turtles, snorkel over a shipwreck, then anchor in a bay for a home-cooked lunch with drinks. Hotel transport and snorkel gear are included.",
+      "highlights": [
+        "Swim with sea turtles or stingrays",
+        "Snorkel over a shipwreck",
+        "Home-cooked lunch at anchor in a bay",
+        "Around 20 guests"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": ["09:30"],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Adult", "amount": 140, "currency": "USD", "note": null },
+        { "label": "Children 12 years and younger", "amount": 90, "currency": "USD", "note": null },
+        { "label": "Toddlers under 4 years", "amount": 0, "currency": "USD", "note": "Free" }
+      ],
+      "priceFrom": 140,
+      "includes": [
+        "Home-cooked lunch",
+        "Banks beer, Cuba Libre, wines and non alcoholic beverages",
+        "Snorkel gear",
+        "Transportation from hotels islandwide (not private accommodation)"
+      ],
+      "bring": [
+        "Sunscreen",
+        "Hat",
+        "Sunglasses",
+        "Towel",
+        "Camera"
+      ],
+      "requirements": "No minimum age; children must be supervised by their accompanying adults. No snorkelling experience needed.",
+      "offer": null,
+      "images": [
+        "https://www.goodtimesbarbados.com/wp-content/uploads/2023/12/lunch-snorkel-cruise-scaled.jpg",
+        "https://www.goodtimesbarbados.com/wp-content/uploads/good-times-snorkeling-cruise-turtle.jpg",
+        "https://www.goodtimesbarbados.com/wp-content/uploads/lunch-snorkel-cruise-buffet.jpg",
+        "https://www.goodtimesbarbados.com/wp-content/uploads/turtle_and_fish_1_20190203_2050992060.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.goodtimesbarbados.com/lunch-snorkel-cruise/",
+      "checkNotes": "Booked by phone (+1 246 422 1900) or email (info@goodtimesbarbados.com); the 'Make a Reservation' buttons open an email. Card details taken as a guarantee, payment on the day in cash, Visa or Mastercard. Start time given as 'typically starting at 9:30 AM, please check with us'. Departure point not stated."
+    },
+    {
+      "title": "Private Charter",
+      "kind": "charter",
+      "summary": "Charter either catamaran for your own group, for at least three hours. You board from the beach at your west coast hotel and choose the route, with menus from a Caribbean buffet to an onboard barbecue or lobster. Transport, snorkel gear and safety equipment come with the boat.",
+      "highlights": [
+        "Minimum charter 3 hours",
+        "Board from the beach at your west coast hotel",
+        "Caribbean buffet, onboard BBQ or lobster feast",
+        "Good Times up to 16 guests, Good Times Too up to 25"
+      ],
+      "duration": "Minimum 3 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "From the beach at your West Coast hotel",
+      "prices": [
+        { "label": "\"Good Times\" charter (whole boat)", "amount": 300, "currency": "USD", "note": "Per hour" },
+        { "label": "\"Good Times Too\" charter (whole boat)", "amount": 425, "currency": "USD", "note": "Per hour" },
+        { "label": "Full Premium Bar", "amount": 20, "currency": "USD", "note": "Per person, optional" },
+        { "label": "Caribbean Lunch Buffet", "amount": 30, "currency": "USD", "note": "Per person, optional" }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Transportation",
+        "Round-trip transfers",
+        "Snorkel gear",
+        "Safety equipment"
+      ],
+      "bring": [
+        "Sunscreen",
+        "Hat",
+        "Sunglasses",
+        "Towel",
+        "Camera"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.goodtimesbarbados.com/wp-content/uploads/good-times-too-35kl-snorkeling-tour.jpg",
+        "https://www.goodtimesbarbados.com/wp-content/uploads/goodtimestoo-cruises_6_20170513_1261963408-topaz-faceai-sharpen.jpg",
+        "https://www.goodtimesbarbados.com/wp-content/uploads/goodtimestoo-cruises_1_20161217_1745036584-topaz-faceai-sharpen.jpg",
+        "https://www.goodtimesbarbados.com/wp-content/uploads/2023/12/hero-home.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.goodtimesbarbados.com/private-charter/",
+      "checkNotes": "Enquiry by phone or email only. Charter rates are per boat per hour, so priceFrom is left null; bar and buffet are per person extras."
+    },
+    {
+      "title": "Sunset Cruise",
+      "kind": "charter",
+      "summary": "A private early evening charter on either catamaran, for at least three hours and back on the beach by 6.30pm. Canapés can be arranged for three hour bookings and a dinner buffet for four hours or more, with the bar as an optional extra.",
+      "highlights": [
+        "Private, minimum 3 hours",
+        "Back by 6.30pm",
+        "Canapés on request for 3 hour bookings",
+        "Dinner buffet for bookings of 4 hours or more"
+      ],
+      "duration": "Minimum 3 hours, ending no later than 6:30 PM",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "From the beach at your West Coast hotel",
+      "prices": [
+        { "label": "\"Good Times\" charter (whole boat)", "amount": 300, "currency": "USD", "note": "Per hour" },
+        { "label": "\"Good Times Too\" charter (whole boat)", "amount": 425, "currency": "USD", "note": "Per hour" },
+        { "label": "Full Premium Bar", "amount": 20, "currency": "USD", "note": "Per person, optional" },
+        { "label": "Caribbean Dinner Buffet", "amount": 30, "currency": "USD", "note": "Per person, bookings of 4 hours or more" }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Charter of your chosen catamaran",
+        "Transportation to and from the vessel",
+        "Snorkeling and safety equipment",
+        "Crew"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.goodtimesbarbados.com/wp-content/uploads/2023/12/sunset-cruise.jpg",
+        "https://www.goodtimesbarbados.com/wp-content/uploads/sunset_cruises.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.goodtimesbarbados.com/sunset-cruise/",
+      "checkNotes": "Private only; the home page calls it 'Private Sunset Cruise'. Enquiry by phone or email. Food and drinks are not in the charter price. Rates are per boat per hour, so priceFrom is left null."
+    },
+    {
+      "title": "Special Events",
+      "kind": "charter",
+      "summary": "Private charters set up for weddings, birthdays, anniversaries and other gatherings of up to 25 guests. Menus and drinks are planned around the event, and pickup from the beach at a west coast hotel or villa is included.",
+      "highlights": [
+        "Weddings, birthdays and anniversaries at sea",
+        "Up to 25 guests",
+        "Minimum 3 hours",
+        "Food and drink packages built for the event"
+      ],
+      "duration": "Minimum 3 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Beach pickup from hotel or villa on the west coast",
+      "prices": [
+        { "label": "\"Good Times\" charter (whole boat)", "amount": 300, "currency": "USD", "note": "Per hour" },
+        { "label": "\"Good Times Too\" charter (whole boat)", "amount": 425, "currency": "USD", "note": "Per hour" },
+        { "label": "Full Premium Bar", "amount": 20, "currency": "USD", "note": "Per person, per the Special Events FAQ" }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Charter of the catamaran",
+        "Transportation to and from the vessel or beach pickup from the west coast",
+        "Snorkel and safety gear",
+        "Crew"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.goodtimesbarbados.com/wp-content/uploads/2023/12/special-occasions.jpg",
+        "https://www.goodtimesbarbados.com/wp-content/uploads/special-event-birthday-party.jpg",
+        "https://www.goodtimesbarbados.com/wp-content/uploads/2023/12/special-occasions-1.jpg",
+        "https://www.goodtimesbarbados.com/wp-content/uploads/2023/12/catamaran-from-front.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.goodtimesbarbados.com/special-events/",
+      "checkNotes": "Enquiry by phone or email. Dining priced to the menu chosen. Rates are per boat per hour, so priceFrom is left null."
+    },
+    {
+      "title": "Speed boat",
+      "kind": "other",
+      "summary": "Time on the water behind the Boston Whaler speedboat Firefly, with banana rides, water skiing, wakeboarding and donut rides. Equipment and safety gear are provided.",
+      "highlights": [
+        "Boston Whaler speedboat Firefly",
+        "Banana rides, water skiing, wakeboarding and donuts",
+        "Private, for all skill levels"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All necessary equipment and safety gear"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.goodtimesbarbados.com/wp-content/uploads/watersport_01-topaz-enhance-2x-faceai-scaled.jpg",
+        "https://www.goodtimesbarbados.com/wp-content/uploads/Adventure_cruises_07a-topaz-enhance-2x-faceai-sharpen.jpg",
+        "https://www.goodtimesbarbados.com/wp-content/uploads/water-sports-scaled.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.goodtimesbarbados.com/water-sport/",
+      "checkNotes": "Prices: 'Please call us for prices.' Enquiry by phone or email only."
+    },
+    {
+      "title": "Water Skiing",
+      "kind": "other",
+      "summary": "Water skiing behind the operator's speedboat, for beginners and experienced skiers. Equipment and safety gear are provided.",
+      "highlights": [
+        "Beginner and experienced levels",
+        "Speedboat Firefly"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All necessary equipment and safety gear"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.goodtimesbarbados.com/wp-content/uploads/water-sports-scaled.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.goodtimesbarbados.com/water-sport/",
+      "checkNotes": "Water Skiing Prices: 'Please call us for prices.' Enquiry by phone or email only. Listed as its own price line on the Water Sport page."
+    },
+    {
+      "title": "Fishing",
+      "kind": "charter",
+      "summary": "Private fishing trips with the operator's captain. Prices are given on request.",
+      "highlights": [
+        "Private fishing excursions",
+        "Experienced captain"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.goodtimesbarbados.com/wp-content/uploads/kingfish-petric_02-topaz-enhance-2x-faceai-scaled.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.goodtimesbarbados.com/water-sport/",
+      "checkNotes": "Fishing Prices: 'Please call us for prices.' Enquiry by phone or email only. The page says all vessels can be rented for fishing excursions."
+    },
+    {
+      "title": "Scuba diving",
+      "kind": "dive",
+      "summary": "Private dives at Barbados dive sites with the operator's PADI Dive Master. Details and prices are given on request.",
+      "highlights": [
+        "Led by a PADI Dive Master"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.goodtimesbarbados.com/water-sport/",
+      "checkNotes": "Diving is mentioned on the home page ('Dive into Barbados's best sites with our PADI Dive Master') and on the Water Sport page, but it has no price line, duration or certification details. Title is ours, not the operator's. Confirm it is still offered."
+    }
+  ],
+  "offers": [
+    { "text": "Special offers for repeat bookings or day charters available", "conditions": null, "validUntil": null, "sourceUrl": "https://www.goodtimesbarbados.com/water-sport/" }
+  ],
+  "checkNotes": "Trading company is Ken Watersports Inc. The header gives +1 246 422 1900; the Contact page gives +1 246 8234900; both recorded. No WhatsApp link and no online booking: 'Book now' and 'Make a Reservation' open an email to info@goodtimesbarbados.com. Cancellation: full refund with at least 48 hours notice, late cancellations or no-shows pay a fee. Departure point for the shared lunch cruise is not stated; charters board from the beach at west coast hotels, so town is left null. Still trading: a February 2024 testimonial and recent Google reviews are shown on the site. The site links to Facebook, Instagram and TripAdvisor (not opened)."
+}

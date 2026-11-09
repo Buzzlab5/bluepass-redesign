@@ -1,0 +1,1084 @@
+{
+  "slug": "imagine-cruises",
+  "name": "Imagine Cruises",
+  "website": "https://imaginecruises.com.au",
+  "rezdyAlias": "imaginecruises52",
+  "state": "NSW",
+  "town": "Nelson Bay",
+  "category": "Whale & dolphin cruises",
+  "summary": "An eco cruise company sailing from D'Albora Marina in Nelson Bay on Imagine, a 16 metre sailing catamaran first launched in Port Stephens in 1995. Trips follow the seasons in the Port Stephens Great Lakes Marine Park, with humpback whales from May to November and dolphin, snorkel and sunset cruises in the warmer months. Private charters run all year.",
+  "standouts": [
+    "Advanced Ecotourism certified with Ecotourism Australia, ECO certified since 2001",
+    "Recognised in Ecotourism Australia's Hall of Fame in 2020",
+    "Contributes $1 to the Marine Parks Association for every Dolphin Watch or Marine Discovery passenger",
+    "Takes part in the Port Stephens Dolphin Census"
+  ],
+  "contact": {
+    "phone": "+61 2 4984 9000",
+    "email": "info@imaginecruises.com.au",
+    "address": "Shop 7, The Cascade Walk, 6 Stockton Street, Nelson Bay NSW 2315"
+  },
+  "heroImage": "https://imaginecruises.com.au/wp-content/uploads/2015/11/Home-2000-x-1263.jpg",
+  "sourceUrls": [
+    "https://imaginecruises.com.au/",
+    "https://imaginecruises.com.au/wp-sitemap.xml",
+    "https://imaginecruises.com.au/wp-sitemap-posts-page-1.xml",
+    "https://imaginecruises.com.au/wp-sitemap-posts-avada_portfolio-1.xml",
+    "https://imaginecruises.com.au/portfolio-items/whales/",
+    "https://imaginecruises.com.au/portfolio-items/dolphins/",
+    "https://imaginecruises.com.au/portfolio-items/snorkelling/",
+    "https://imaginecruises.com.au/portfolio-items/charters/",
+    "https://www.imaginecruises.com.au/wp-content/uploads/2026/10/A-Imagine-Charter-Information-Pack-CURRENT-September-2026.pdf",
+    "https://imaginecruises.com.au/portfolio-items/speciality-cruises/",
+    "https://imaginecruises.com.au/portfolio-items/gift-vouchers/",
+    "https://imaginecruises.com.au/portfolio-items/gift-vouchers-2/",
+    "https://imaginecruises.com.au/portfolio-items/whats-on/",
+    "https://imaginecruises.com.au/portfolio-items/nye-cruise/",
+    "https://imaginecruises.com.au/portfolio-items/about/",
+    "https://imaginecruises.com.au/contact/",
+    "https://imaginecruises.com.au/faq/",
+    "https://imaginecruises.com.au/terms/",
+    "https://imaginecruises.com.au/eco-tourism/"
+  ],
+  "trips": [
+    {
+      "title": "3hr Whale + Dolphin Watch Cruise",
+      "kind": "cruise",
+      "summary": "A 3 hour cruise offshore into the Port Stephens Great Lakes Marine Park to find humpback whales on their annual migration. The boat also visits the fur seals at Cabbage Tree Island and looks out for dolphins and seabirds. Imagine takes a maximum of 47 passengers and sails with the whales when conditions allow.",
+      "highlights": [
+        "Visit to the fur seals at Cabbage Tree Island",
+        "Maximum of 47 passengers, 360 degree viewing",
+        "Sails with the whales when weather permits",
+        "Licensed Mermaid Bar and fully enclosed downstairs cabin"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": "May to early November",
+      "departsFrom": "Dock C, D'Albora Marina, Teramby Road, Nelson Bay",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 89,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (4-14 years)",
+          "amount": 42,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2 adult + 2 children)",
+          "amount": 225,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "1 adult + 2 children",
+          "amount": 148,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Concession (student, pension, senior)",
+          "amount": 84,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0-3 years)",
+          "amount": 10.5,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 89,
+      "includes": [
+        "Informative commentary from the crew",
+        "Complimentary tea and coffee"
+      ],
+      "bring": [
+        "Warm layer",
+        "Sunscreen",
+        "Hat",
+        "Sunglasses"
+      ],
+      "requirements": "Subject to suitable weather, sea conditions and minimum passenger numbers. Ask a pharmacist about seasickness medication if prone to motion sickness.",
+      "offer": {
+        "text": "Whale sightings guaranteed from 1 June to 1 November or enjoy a free return cruise",
+        "conditions": "Free return is not transferable between guests and vessels. The FAQ says return within 12 months; the Terms say return vouchers are valid 18 months from issue.",
+        "validUntil": null
+      },
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2023/11/Whale-1071-x-965.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2015/11/Whales-2-2000-x-861.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2021/04/whales-imagine-600-x-399.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2023/05/Whale-14-390-x-244.jpg"
+      ],
+      "bookingLinks": [
+        "https://imaginecruises52.rezdy.com/324261/3-hour-whale-watch-cruise"
+      ],
+      "sourceUrl": "https://imaginecruises.com.au/portfolio-items/whales/",
+      "checkNotes": "Departure times are not stated on the site. Season shown as \"May – Early November\" on this page and \"WHALES: MAY – NOV\" on the homepage; the guarantee covers 1 June to 1 November only. Infant age is 0-3 years here but 0-4 years on the dolphin and snorkel pages."
+    },
+    {
+      "title": "1.5hr Dolphin Watch Cruise + Sail",
+      "kind": "cruise",
+      "summary": "A 90 minute sailing cruise on the bay to spend time with some of the roughly 100 bottlenose dolphins that live in Port Stephens. You can sit in the dry bow-net, ride the boom-net in your swimmers or stand at the end of the bowsprit. The sails go up when conditions permit.",
+      "highlights": [
+        "About 100 resident bottlenose dolphins in Port Stephens",
+        "Dry bow-net and boom-net rides",
+        "Sailing when conditions permit",
+        "Children of all ages accepted"
+      ],
+      "duration": "1.5hr",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": "November to end of April",
+      "departsFrom": "D'Albora Marina, Nelson Bay",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 50,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (4-14 years)",
+          "amount": 30,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0-4 years)",
+          "amount": 10,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2 adult + 2 children)",
+          "amount": 148,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (1 adult + 2 children)",
+          "amount": 97,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Concession (student, pension)",
+          "amount": 46,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 50,
+      "includes": [
+        "Friendly and knowledgeable crew"
+      ],
+      "bring": [
+        "Swimmers for a ride in the boom net"
+      ],
+      "requirements": "Subject to sea conditions. Minimum numbers apply.",
+      "offer": {
+        "text": "Dolphins guaranteed: free return trip for no sightings",
+        "conditions": "Free return is not transferable between guests and vessels.",
+        "validUntil": null
+      },
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2023/11/Dolphins-1071-x-965.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2018/01/Dolphins-2-2000-x-861.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2015/11/Dolphin-3-390-x-244.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2015/11/Dolphin-2-390-x-244-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://imaginecruises52.rezdy.com/324273/dolphin-watch-sailing-cruise"
+      ],
+      "sourceUrl": "https://imaginecruises.com.au/portfolio-items/dolphins/",
+      "checkNotes": "Departure times are not stated. Season: \"Departs daily from November – End of April\" on this page, \"DOLPHINS: NOV – APRIL\" on the homepage, and \"early November – late May\" on an older gift voucher page. Used this page."
+    },
+    {
+      "title": "Wild Dolphin Swim & Watch: 4hr Dolphin Adventure",
+      "kind": "swim",
+      "summary": "An early morning trip offshore to snorkel with wild oceanic dolphins while holding a rope strung between the bows of the catamaran. Six swimmers go in at a time and the dolphins choose whether to come close. Gear, breakfast and an edited video of your swim are included, and non-swimmers can join as observers.",
+      "highlights": [
+        "Described on the site as the only permitted wild dolphin swim in New South Wales",
+        "Six swimmers at a time on a towed line between the bows",
+        "Wetsuit, mask, snorkel, harness and continental breakfast included",
+        "Edited video of your swim sent afterwards"
+      ],
+      "duration": "4hr",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "06:15"
+      ],
+      "season": "November to May",
+      "departsFrom": "D'Albora Marina, Nelson Bay",
+      "prices": [
+        {
+          "label": "Wild Dolphin Swim & Watch",
+          "amount": 359,
+          "currency": "AUD",
+          "note": "Per person, ages 7-70 years"
+        },
+        {
+          "label": "Wild Dolphin Swim & Watch Observer",
+          "amount": 109,
+          "currency": "AUD",
+          "note": "Per person"
+        }
+      ],
+      "priceFrom": 359,
+      "includes": [
+        "All gear (wetsuit, mask, snorkel, safety harness)",
+        "4 hour cruise",
+        "Educational commentary",
+        "Tea and coffee (instant)",
+        "Continental breakfast",
+        "Complimentary above-water photos",
+        "Customised video of your swim"
+      ],
+      "bring": [
+        "Swimwear",
+        "Towel",
+        "Warm jacket"
+      ],
+      "requirements": "Swimmers aged 7-70 years. Subject to sea conditions and minimum numbers.",
+      "offer": null,
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2021/10/dsa.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2018/01/Home-2-2000-x-1263.jpg"
+      ],
+      "bookingLinks": [
+        "https://imaginecruises52.rezdy.com/546550/wild-dolphin-swim-watch"
+      ],
+      "sourceUrl": "https://imaginecruises.com.au/portfolio-items/dolphins/",
+      "checkNotes": "Runs 6.15am to 11.00am on Fridays, Saturdays and Sundays, with extra cruises in NSW school holidays; that is longer than the stated \"4hr\". Season here is November to May, which differs from the Dolphin Watch season. Photos are uploaded to the Dolphin Swim Australia Facebook page, so this trip may be run with or by Dolphin Swim Australia; confirm who operates it. The \"only permitted wild dolphin swim in New South Wales\" claim needs checking before use."
+    },
+    {
+      "title": "3.5hr Marine Discovery Cruise",
+      "kind": "snorkel",
+      "summary": "A 3.5 hour cruise that stops with the bay's bottlenose dolphins, then anchors in the shelter of Cabbage Tree or Fingal Island for a guided snorkel. Fish, sea urchins, soft corals and rays are among the marine life you may see. The boat sails home and there is a hot shower on board.",
+      "highlights": [
+        "Snorkel at Cabbage Tree or Fingal Island",
+        "Qualified dive-master and snorkel guide",
+        "Snorkel, fins and mask hire included",
+        "Hot shower on the way back"
+      ],
+      "duration": "3.5hr",
+      "durationMinutes": 210,
+      "departureTimes": [],
+      "season": "Late November to late March",
+      "departsFrom": "D'Albora Marina, Nelson Bay",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 100,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (4-14 years)",
+          "amount": 61,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0-4 years)",
+          "amount": 15.5,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2 adult + 2 children)",
+          "amount": 255,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (1 adult + 2 children)",
+          "amount": 155,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Concession (student, pension)",
+          "amount": 94,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 100,
+      "includes": [
+        "Qualified dive-master and snorkel guide",
+        "Hire of snorkel, fins and mask",
+        "Complimentary tea, coffee and water",
+        "Sailing when conditions permit",
+        "Hot shower on the journey back"
+      ],
+      "bring": [
+        "Reef-friendly sunscreen",
+        "Refillable water bottle"
+      ],
+      "requirements": "Must be a competent swimmer to snorkel. Basic swim competency required for anyone entering the water.",
+      "offer": null,
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2023/11/Snorkel-1071-x-965.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2015/11/Snorkelling-2-2000-x-861.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2015/11/Snorkel-3-390-x-244.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2015/11/Snorkel-4-390-x-244.jpg"
+      ],
+      "bookingLinks": [
+        "https://imaginecruises52.rezdy.com/324286/marine-discovery"
+      ],
+      "sourceUrl": "https://imaginecruises.com.au/portfolio-items/snorkelling/",
+      "checkNotes": "Departure times not stated. Season is \"late November until late March\" on this page and \"SNORKEL: DEC – MAR\" on the homepage. Snack food is available to buy."
+    },
+    {
+      "title": "Sunset Dinner Cruise",
+      "kind": "cruise",
+      "summary": "A 3 hour evening sail inside the bay with a 3-course BBQ dinner cooked on board from local produce. The boat anchors in a sheltered cove for dinner, served in the cabin or on the covered foredeck, and dessert comes out on the sail home. Dolphins are often about.",
+      "highlights": [
+        "Set 3-course BBQ menu, vegan or vegetarian option available",
+        "Boom net and dry bow-net",
+        "Fully licensed bar",
+        "Runs December to March"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [
+        "18:00"
+      ],
+      "season": "December to March",
+      "departsFrom": "D'Albora Marina, Nelson Bay",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 105,
+          "currency": "AUD",
+          "note": "Shown as \"Adults from $105\""
+        },
+        {
+          "label": "Child (4-14 years)",
+          "amount": 68,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Concession (student, pension)",
+          "amount": 98,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant",
+          "amount": 15,
+          "currency": "AUD",
+          "note": "No meal"
+        }
+      ],
+      "priceFrom": 105,
+      "includes": [
+        "3-course BBQ dinner (seafood, steak or chicken; vegetarian or vegan option)",
+        "Child meal for children 14 and under",
+        "Complimentary tea and coffee"
+      ],
+      "bring": [],
+      "requirements": "Boarding at 5:30pm. Tell the office about food allergies; the kitchen cannot guarantee allergen-free meals.",
+      "offer": null,
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2015/11/Sunset-Cruise-1-800-x-534.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2021/06/Specialty-1-2000-x-1263.jpg"
+      ],
+      "bookingLinks": [
+        "https://imaginecruises52.rezdy.com/364522/sunset-bbq-dinner-cruise"
+      ],
+      "sourceUrl": "https://imaginecruises.com.au/portfolio-items/speciality-cruises/",
+      "checkNotes": "Page title is \"Sunset Dinner Cruises\" and the product label is \"3hr Dinner Cruise\". Boarding 5:30pm for a 6pm departure returning 8:30pm, which is 2.5 hours, while the page also says 3 hour cruise. Adult price is a \"from\" price."
+    },
+    {
+      "title": "Sunset Sizzle",
+      "kind": "cruise",
+      "summary": "A 2 hour sunset sail around the bay while the crew cook a sausage or burger sizzle. Bring swimmers for a ride in the net or relax in the dry bow-net. Dolphins are often seen but not guaranteed.",
+      "highlights": [
+        "2 hour sunset sail",
+        "Sausage or burger sizzle cooked on board",
+        "Fully licensed bar",
+        "Complimentary tea and coffee"
+      ],
+      "duration": "2h",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "D'Albora Marina, Nelson Bay",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 59,
+          "currency": "AUD",
+          "note": "$59 p/p"
+        }
+      ],
+      "priceFrom": 59,
+      "includes": [
+        "Sausage or burger sizzle",
+        "Complimentary tea and coffee"
+      ],
+      "bring": [
+        "Swimmers (optional, for the net)"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2025/12/Sunset-Sizzle.jpg"
+      ],
+      "bookingLinks": [
+        "https://imaginecruises52.rezdy.com/734807/sunset-sizzle"
+      ],
+      "sourceUrl": "https://imaginecruises.com.au/portfolio-items/speciality-cruises/",
+      "checkNotes": "No season or departure time stated."
+    },
+    {
+      "title": "Valentine's Day Sunset Dinner Cruise",
+      "kind": "cruise",
+      "summary": "A one-night sunset sail on 14 February for couples, with limited guest numbers. The evening includes a gourmet entree, a BBQ dinner and a chocolate dessert, with romantic music on board. Drinks are from the Mermaid Bar at pub prices.",
+      "highlights": [
+        "14 February only",
+        "Gourmet entree, BBQ dinner and chocolate dessert",
+        "Limited guest numbers",
+        "Fully licensed bar"
+      ],
+      "duration": "3h",
+      "durationMinutes": 180,
+      "departureTimes": [
+        "17:30"
+      ],
+      "season": "14 February",
+      "departsFrom": "D'Albora Marina, Nelson Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Gourmet entree",
+        "BBQ dinner",
+        "Tea",
+        "Surprise chocolate dessert",
+        "Romantic music",
+        "Complimentary tea and coffee"
+      ],
+      "bring": [],
+      "requirements": "Call the office about food preferences or allergies at booking; changes cannot be made once aboard.",
+      "offer": null,
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2025/02/Valentines-2-800-x-534.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2025/02/Valentines-1-800-x-534.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://imaginecruises.com.au/portfolio-items/speciality-cruises/",
+      "checkNotes": "No price and no booking link on the page. Times shown as \"14th of February 5:30-8:30\"; departure recorded as 17:30 but boarding is 15 minutes before departure, so confirm. Year not stated."
+    },
+    {
+      "title": "Pelagic Bird Watching Tours",
+      "kind": "cruise",
+      "summary": "An offshore trip to the continental shelf, where the boat drifts in deep water and uses berley to draw in seabirds. Experienced guides lead the day, and dolphins and whales are sometimes seen on the way out. It suits keen birdwatchers and photographers.",
+      "highlights": [
+        "Travels out to the continental shelf",
+        "Led by experienced guides",
+        "Maximum of 47 passengers",
+        "Fully enclosed downstairs cabin and licensed bar"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Thursday 19th November 2026",
+      "departsFrom": "D'Albora Marina, Nelson Bay",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 195,
+          "currency": "AUD",
+          "note": "$195 p/p"
+        }
+      ],
+      "priceFrom": 195,
+      "includes": [
+        "Complimentary tea and coffee"
+      ],
+      "bring": [],
+      "requirements": "Subject to sea conditions and minimum numbers. Ask a pharmacist about seasickness medication if prone to motion sickness.",
+      "offer": null,
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2025/02/Pelagic-4-800-x-534.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2025/02/Pelagic-5-800-x-534.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2025/02/Pelagic-2-800-x-534.jpg"
+      ],
+      "bookingLinks": [
+        "https://imaginecruises52.rezdy.com/661728/pelagic-birdwatching-imagine-cruise"
+      ],
+      "sourceUrl": "https://imaginecruises.com.au/portfolio-items/speciality-cruises/",
+      "checkNotes": "Single dated departure (Thursday 19 November 2026). Duration and departure time not stated."
+    },
+    {
+      "title": "Celebration of Life Ceremony at Sea",
+      "kind": "charter",
+      "summary": "A private cruise on the calm waters of Nelson Bay for a memorial service or a scattering of ashes. The crew tailor the ceremony to the family's wishes, with celebrant services or catering available. Up to 60 passengers can attend.",
+      "highlights": [
+        "Memorial service or scattering of ashes",
+        "Maximum of 60 passengers",
+        "Sail with the dolphins if weather permits",
+        "Enclosed downstairs cabin and licensed bar"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "D'Albora Marina, Nelson Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Complimentary tea and coffee"
+      ],
+      "bring": [],
+      "requirements": "All ages welcome.",
+      "offer": null,
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2025/02/Ceremony-2-800-x-534.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2025/02/Ceremony-1-800-x-534.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://imaginecruises.com.au/portfolio-items/speciality-cruises/",
+      "checkNotes": "Priced on the Private Charter schedule and then tailored; enquiry by phone or email only."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "Imagine can be hired for birthdays, weddings, office parties, school excursions and other events, by day or evening and all year round. Hire is charged per hour with a 2 hour minimum, and catering, snorkel guides and entertainment can be added. The boat has a licensed bar, a downstairs cabin and a covered foredeck.",
+      "highlights": [
+        "Day or evening charters, all year round",
+        "Per hour hire, minimum 2 hours",
+        "Catering menus from finger food to grazing tables",
+        "Private whale, dolphin and snorkel cruises available"
+      ],
+      "duration": "Minimum 2 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "All year round",
+      "departsFrom": "Dock C, D'Albora Marina, Teramby Road, Nelson Bay (pick up from Soldiers Point Marina for an extra fee)",
+      "prices": [
+        {
+          "label": "Jan, School holidays and public holidays, before 11am and after 5.30pm",
+          "amount": 1000,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours (January shows school holiday pricing only)"
+        },
+        {
+          "label": "Jan, School holidays and public holidays, 11am to 5.30pm",
+          "amount": 1340,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours (January shows school holiday pricing only)"
+        },
+        {
+          "label": "Feb, Weekdays, before 11am and after 5.30pm",
+          "amount": 500,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Feb, Weekdays, 11am to 5.30pm",
+          "amount": 785,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Feb, Weekends/Friday, before 11am and after 5.30pm",
+          "amount": 725,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Feb, Weekends/Friday, 11am to 5.30pm",
+          "amount": 945,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Mar, Weekdays, before 11am and after 5.30pm",
+          "amount": 450,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Mar, Weekdays, 11am to 5.30pm",
+          "amount": 785,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Mar, Weekends/Friday, before 11am and after 5.30pm",
+          "amount": 725,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Mar, Weekends/Friday, 11am to 5.30pm",
+          "amount": 835,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Mar, School holidays and public holidays, before 11am and after 5.30pm",
+          "amount": 840,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Mar, School holidays and public holidays, 11am to 5.30pm",
+          "amount": 1340,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Apr, Weekdays, before 11am and after 5.30pm",
+          "amount": 450,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Apr, Weekdays, 11am to 5.30pm",
+          "amount": 785,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Apr, Weekends/Friday, before 11am and after 5.30pm",
+          "amount": 625,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Apr, Weekends/Friday, 11am to 5.30pm",
+          "amount": 835,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Apr, School holidays and public holidays, before 11am and after 5.30pm",
+          "amount": 840,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Apr, School holidays and public holidays, 11am to 5.30pm",
+          "amount": 1340,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "May, Weekdays, before 11am and after 5.30pm",
+          "amount": 450,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "May, Weekdays, 11am to 5.30pm",
+          "amount": 725,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "May, Weekends/Friday, before 11am and after 5.30pm",
+          "amount": 550,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "May, Weekends/Friday, 11am to 5.30pm",
+          "amount": 835,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Jun, Weekdays, before 11am and after 5.30pm",
+          "amount": 400,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Jun, Weekdays, 11am to 5.30pm",
+          "amount": 785,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Jun, Weekends/Friday, before 11am and after 5.30pm",
+          "amount": 450,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Jun, Weekends/Friday, 11am to 5.30pm",
+          "amount": 835,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Jun, School holidays and public holidays, before 11am and after 5.30pm",
+          "amount": 675,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Jun, School holidays and public holidays, 11am to 5.30pm",
+          "amount": 1225,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Jul, Weekdays, before 11am and after 5.30pm",
+          "amount": 400,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Jul, Weekdays, 11am to 5.30pm",
+          "amount": 785,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Jul, Weekends/Friday, before 11am and after 5.30pm",
+          "amount": 450,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Jul, Weekends/Friday, 11am to 5.30pm",
+          "amount": 835,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Jul, School holidays and public holidays, before 11am and after 5.30pm",
+          "amount": 675,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Jul, School holidays and public holidays, 11am to 5.30pm",
+          "amount": 1225,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Aug, Weekdays, before 11am and after 5.30pm",
+          "amount": 400,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Aug, Weekdays, 11am to 5.30pm",
+          "amount": 785,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Aug, Weekends/Friday, before 11am and after 5.30pm",
+          "amount": 450,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Aug, Weekends/Friday, 11am to 5.30pm",
+          "amount": 785,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Sep, Weekdays, before 11am and after 5.30pm",
+          "amount": 500,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Sep, Weekdays, 11am to 5.30pm",
+          "amount": 785,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Sep, Weekends/Friday, before 11am and after 5.30pm",
+          "amount": 550,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Sep, Weekends/Friday, 11am to 5.30pm",
+          "amount": 835,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Sep, School holidays and public holidays, before 11am and after 5.30pm",
+          "amount": 785,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Sep, School holidays and public holidays, 11am to 5.30pm",
+          "amount": 1225,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Oct, Weekdays, before 11am and after 5.30pm",
+          "amount": 500,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Oct, Weekdays, 11am to 5.30pm",
+          "amount": 725,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Oct, Weekends/Friday, before 11am and after 5.30pm",
+          "amount": 550,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Oct, Weekends/Friday, 11am to 5.30pm",
+          "amount": 835,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Oct, School holidays and public holidays, before 11am and after 5.30pm",
+          "amount": 785,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Oct, School holidays and public holidays, 11am to 5.30pm",
+          "amount": 1225,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Nov, Weekdays, before 11am and after 5.30pm",
+          "amount": 625,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Nov, Weekdays, 11am to 5.30pm",
+          "amount": 725,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Nov, Weekends/Friday, before 11am and after 5.30pm",
+          "amount": 725,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Nov, Weekends/Friday, 11am to 5.30pm",
+          "amount": 835,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Dec, Weekdays, before 11am and after 5.30pm",
+          "amount": 725,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Dec, Weekdays, 11am to 5.30pm",
+          "amount": 1000,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Dec, Weekends/Friday, before 11am and after 5.30pm",
+          "amount": 785,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Dec, Weekends/Friday, 11am to 5.30pm",
+          "amount": 1000,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Dec, School holidays and public holidays, before 11am and after 5.30pm",
+          "amount": 1000,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Dec, School holidays and public holidays, 11am to 5.30pm",
+          "amount": 1340,
+          "currency": "AUD",
+          "note": "Per hour hire, minimum 2 hours"
+        },
+        {
+          "label": "Pick up and drop off from Soldiers Point Marina",
+          "amount": 390,
+          "currency": "AUD",
+          "note": "Additional fee"
+        },
+        {
+          "label": "Surcharge for 25 passengers and over",
+          "amount": 150,
+          "currency": "AUD",
+          "note": "Due to additional crew"
+        },
+        {
+          "label": "Gourmet finger food, 4 choices",
+          "amount": 55,
+          "currency": "AUD",
+          "note": "Per person, minimum 10"
+        },
+        {
+          "label": "Gourmet finger food, 5 choices",
+          "amount": 65,
+          "currency": "AUD",
+          "note": "Per person, minimum 10"
+        },
+        {
+          "label": "Imagine Feasting Experience, adult",
+          "amount": 70,
+          "currency": "AUD",
+          "note": "Per adult"
+        },
+        {
+          "label": "Imagine Feasting Experience, child (4-14 years)",
+          "amount": 50,
+          "currency": "AUD",
+          "note": "Per child"
+        },
+        {
+          "label": "Grazing table, adult",
+          "amount": 25,
+          "currency": "AUD",
+          "note": "Per adult"
+        },
+        {
+          "label": "Grazing table, child (4-14 years)",
+          "amount": 17.5,
+          "currency": "AUD",
+          "note": "Per child"
+        },
+        {
+          "label": "Fruit plate",
+          "amount": 90,
+          "currency": "AUD",
+          "note": "Each"
+        },
+        {
+          "label": "Party Pack / Gourmet Street Food",
+          "amount": 25,
+          "currency": "AUD",
+          "note": "Per person"
+        },
+        {
+          "label": "Wraps or sandwich platter",
+          "amount": 25,
+          "currency": "AUD",
+          "note": "Per person, gluten free +$5 pp"
+        },
+        {
+          "label": "1 snorkel guide (up to 16 in water)",
+          "amount": 150,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "2 snorkel guides (17 to 32 in water)",
+          "amount": 250,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "3 snorkel guides",
+          "amount": 350,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 400,
+      "includes": [
+        "Imagine Cruises crew",
+        "Fully stocked licensed bar (pay as you go or bar tab)",
+        "Bluetooth sound system",
+        "Downstairs cabin and covered foredeck",
+        "Restrooms"
+      ],
+      "bring": [],
+      "requirements": "Minimum numbers apply. No high heels, no BYO alcohol, and no balloons, glitter or confetti on board.",
+      "offer": null,
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2019/02/charter-4-800-x-292.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2018/01/Dinner-2000-x-861.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2019/02/charter-1-800-x-292.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://imaginecruises.com.au/portfolio-items/charters/",
+      "checkNotes": "Hourly rates and catering prices come from the Charter Information Pack PDF (September 2026) linked on the charters page; the web page itself shows no prices. priceFrom is the lowest hourly rate ($400, weekdays in June, July and August outside 11am to 5.30pm), not a per-person price. Capacity conflict: the web page says up to 60 guests, the pack says 45 to 55 inshore and up to 45 offshore. The pack also lists two different sets of rescheduling fees and gives the deposit as a percentage. Booking is by quote form or phone."
+    },
+    {
+      "title": "Educational Adventure Excursions",
+      "kind": "other",
+      "summary": "Cruising classroom programs for student groups of all ages in Port Stephens. Trips can include snorkelling for marine biology, dolphin or whale watching, and talks from Frank Future and other marine specialists on board. Each program is built around the school's curriculum.",
+      "highlights": [
+        "Marine biology snorkelling, dolphin or whale watching",
+        "Talks from Frank Future and other marine specialists",
+        "Tailored to curriculum and year level",
+        "Booked by enquiry"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "D'Albora Marina, Nelson Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://imaginecruises.com.au/portfolio-items/speciality-cruises/",
+      "checkNotes": "Enquiry form only, no price. No photo clearly tied to this program."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers: Marine Discovery, Dolphin Watch + Sailing Cruise, and 3 Hour Whale Watch Cruise",
+      "conditions": "Valid for 3 years from date of purchase. Non-refundable and only valid on Imagine Cruises. Tours are seasonal. Cruise-specific vouchers are valid only for that cruise; dollar-amount vouchers can be used on any cruise until expiry. Booking links: https://imaginecruises52.rezdy.com/341935/marine-discovery-gift-voucher, https://imaginecruises52.rezdy.com/341937/dolphin-watch-sailing-cruise-gift-voucher, https://imaginecruises52.rezdy.com/327737/3-hour-whale-watch-cruise-gift-voucher",
+      "validUntil": null,
+      "sourceUrl": "https://imaginecruises.com.au/portfolio-items/gift-vouchers/"
+    },
+    {
+      "text": "Wild Dolphin Swim & Watch Gift Certificate available",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://imaginecruises.com.au/portfolio-items/dolphins/"
+    },
+    {
+      "text": "Companion Card holders: discounted ticket for the accompanying carer",
+      "conditions": "Book the companion online as a child fare and quote the name and Companion Card number in special requirements. Card must be shown on boarding.",
+      "validUntil": null,
+      "sourceUrl": "https://imaginecruises.com.au/faq/"
+    }
+  ],
+  "checkNotes": "Cruises leave from Dock C, D'Albora Marinas, Teramby Road, Nelson Bay; the address recorded is the booking office. The site's Book Now goes to an embedded Rezdy calendar (productsCalendar/330592), not opened. Departure times for the main whale, dolphin and snorkel cruises are not on the site. Pages not used as trips: an older gift voucher page (/portfolio-items/gift-vouchers-2/, last updated 2019, not in the menu) lists Envision cruises (90 Minute Whale Watch Express, Broughton Island Swim, Eco Adventure) that appear nowhere else and look discontinued; and a New Year's Eve 2024 cruise page (still linked from the charters page) that is out of date. Conflicts: launch year 1995 (About, Sustainability) vs \"in operation since 1996\" (charter pack); vessel 16 metre / 53ft (About) vs 54ft (charters page); stairs to board 5 (accessibility section) vs 6 (FAQ, Terms); family ticket child ages 2-14 (FAQ) vs 4-14 (Terms); Green Travel Leaders count 150 (dolphins page) vs 104 (About). The Companion Card and credit card surcharge terms are given as percentages on the FAQ, so the amounts are left out here."
+}

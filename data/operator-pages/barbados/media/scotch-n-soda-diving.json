@@ -1,0 +1,77 @@
+{
+  "slug": "scotch-n-soda-diving",
+  "logo": "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/f020692a-712e-42bf-867d-26bcfc6ba5cf/logo+vector+white.png",
+  "gallery": [
+    "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/1b6932db-6a87-4b0f-ae18-49a62bd33022/Untitled.png",
+    "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/d77e2a61-5291-4a4f-82d8-83fa260736f4/Screenshot+2023-10-21+171753.png",
+    "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/d7887d69-24a0-43b0-a752-c874d8b4c418/069A6804.JPG",
+    "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/ecfb0734-4539-4a70-b0eb-093d205faf5a/Screenshot+2023-10-21+165426.png",
+    "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/88b16103-830b-4f29-8f2c-9d4d8659c67f/Screenshot+2023-10-21+170926.png",
+    "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/1ba114cc-dc4f-4817-a07f-f1cb8f2459a6/Screenshot+2023-10-21+165411.png",
+    "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/da38556d-c24e-4f72-9524-027160f0c384/Screenshot+2023-10-21+171552.png",
+    "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/707ea3d5-bbb1-475d-a645-48a4b0179066/Screenshot+2023-10-21+170638.png",
+    "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/8e966b84-bdbc-4f9f-99f7-46a01de6d896/Screenshot+2023-10-21+171834.png",
+    "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/42e1df72-367e-43e9-8830-e80463fe81a5/Screenshot+2023-10-21+171128.png",
+    "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/91f598d0-b118-49a9-b1ae-cf4312a387c0/Screenshot+2023-10-21+170416.png",
+    "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/89753e21-c89e-4a59-8deb-dc18439e8bfa/Screenshot+2023-10-21+172207.png",
+    "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/e960968c-9960-43bd-bb5b-6e81c5ad550f/Screenshot+2023-10-21+172138.png",
+    "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/54137773-43a4-48f8-a14a-add73d5761d1/Screenshot+2023-10-21+170701.png",
+    "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/6c7d5b9a-0153-4949-8d82-5498d4575c42/Screenshot+2023-10-21+171539.png",
+    "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/62d8e3e4-b8c0-4120-80a2-12ff2c354c69/Screenshot+2023-10-21+171350.png"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Certified Divers",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/9253dfe9-4758-4355-a19d-53b64517bd28/Screenshot+2023-10-21+165958.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/c043853f-a1e4-4a1c-a02e-8838b6a25ae0/Screenshot+2023-10-21+165456.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/14eda963-34b3-4354-9786-8009eca27f22/Screenshot+2023-10-21+172011.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/0bb3b5fc-639f-4b29-a118-74711b67874f/Screenshot+2023-10-21+165350.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/91f598d0-b118-49a9-b1ae-cf4312a387c0/Screenshot+2023-10-21+170416.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/b40df642-10c0-43b9-8dda-adb0274e8367/Screenshot+2023-10-21+173231.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/3fbaf37b-48e5-44f4-91df-d1c861d3b1a8/Screenshot+2023-10-21+171811.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/89753e21-c89e-4a59-8deb-dc18439e8bfa/Screenshot+2023-10-21+172207.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/e960968c-9960-43bd-bb5b-6e81c5ad550f/Screenshot+2023-10-21+172138.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/54137773-43a4-48f8-a14a-add73d5761d1/Screenshot+2023-10-21+170701.png"
+      ]
+    },
+    {
+      "title": "Non-Certified Divers",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/c043853f-a1e4-4a1c-a02e-8838b6a25ae0/Screenshot+2023-10-21+165456.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/0bb3b5fc-639f-4b29-a118-74711b67874f/Screenshot+2023-10-21+165350.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/9253dfe9-4758-4355-a19d-53b64517bd28/Screenshot+2023-10-21+165958.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/14eda963-34b3-4354-9786-8009eca27f22/Screenshot+2023-10-21+172011.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/91f598d0-b118-49a9-b1ae-cf4312a387c0/Screenshot+2023-10-21+170416.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/b40df642-10c0-43b9-8dda-adb0274e8367/Screenshot+2023-10-21+173231.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/3fbaf37b-48e5-44f4-91df-d1c861d3b1a8/Screenshot+2023-10-21+171811.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/89753e21-c89e-4a59-8deb-dc18439e8bfa/Screenshot+2023-10-21+172207.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/e960968c-9960-43bd-bb5b-6e81c5ad550f/Screenshot+2023-10-21+172138.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/54137773-43a4-48f8-a14a-add73d5761d1/Screenshot+2023-10-21+170701.png"
+      ]
+    },
+    {
+      "title": "Snorkeling Trips",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/a1fc04ba-eac5-4d20-af86-7c2cd0f16099/Screenshot+2023-10-21+170530.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/818bb73f-2980-482a-9d56-3f6c8a491606/Screenshot+2023-10-21+164528.png"
+      ]
+    },
+    {
+      "title": "Lionfish Hunting",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/57edfdbe-5456-46f5-9e19-2a0e0a8dc5cd/Screenshot+2023-10-21+171834.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/4471d1a1-cb66-4614-b3d9-12af3dfcb754/Screenshot+2023-10-21+165514.png",
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/bf6afd0d-aa58-4969-87cf-11b511a9a723/Screenshot+2023-10-21+171507.png"
+      ]
+    },
+    {
+      "title": "Private Charter",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/69b217071294dc21c595e820/abc01e64-e6ac-4ef5-b333-74ef2ea9f26c/Screenshot+2023-10-21+171753.png"
+      ]
+    }
+  ],
+  "notes": "Logo is the white header version (white on transparent). Many site photos are named 'Screenshot 2023-10-21', which look like stills taken from the operator's own underwater footage; the importer should check their quality. Left out: the dive package price table image, a Barbados flag graphic, the Facebook and Instagram icons and a round sticker version of the logo. No YouTube, Vimeo or hosted video found. No heroImage given: the facts file already uses the widest turtle and snorkeller photo."
+}

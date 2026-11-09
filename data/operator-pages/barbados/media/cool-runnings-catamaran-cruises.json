@@ -1,0 +1,50 @@
+{
+  "slug": "cool-runnings-catamaran-cruises",
+  "logo": "https://www.coolrunningsbarbados.com/img/logo1.png",
+  "heroImage": "https://www.coolrunningsbarbados.com/img/coolslide_01.jpg",
+  "gallery": [
+    "https://www.coolrunningsbarbados.com/img/coolslide_01.jpg",
+    "https://www.coolrunningsbarbados.com/img/coolslide_02.jpg",
+    "https://www.coolrunningsbarbados.com/img/coolslide_03.jpg",
+    "https://www.coolrunningsbarbados.com/img/coolslide_04.jpg",
+    "https://www.coolrunningsbarbados.com/img/coolslide_05.jpg",
+    "https://www.coolrunningsbarbados.com/img/gallery/cool_1.jpg",
+    "https://www.coolrunningsbarbados.com/img/gallery/cool_2.jpg",
+    "https://www.coolrunningsbarbados.com/img/gallery/cool_3.jpg",
+    "https://www.coolrunningsbarbados.com/img/gallery/cool_4.jpg",
+    "https://www.coolrunningsbarbados.com/img/gallery/cool_5.jpg",
+    "https://www.coolrunningsbarbados.com/img/gallery/cool_6.jpg",
+    "https://www.coolrunningsbarbados.com/img/gallery/cool_7.jpg",
+    "https://www.coolrunningsbarbados.com/img/gallery/cool_8.jpg",
+    "https://www.coolrunningsbarbados.com/img/gallery/cool_9.jpg",
+    "https://www.coolrunningsbarbados.com/img/gallery/cool_10.jpg",
+    "https://www.coolrunningsbarbados.com/img/bg_about.jpg"
+  ],
+  "videos": [
+    { "url": "https://www.coolrunningsbarbados.com/media/CoolRunningsCatamaranPromotionalVideo.mp4", "title": "Cool Runnings catamaran promotional video", "sourceUrl": "https://www.coolrunningsbarbados.com/cruise_video.html" }
+  ],
+  "trips": [
+    {
+      "title": "Daily Snorkel Lunch Cruise",
+      "images": [
+        "https://www.coolrunningsbarbados.com/img/bg_lunch.jpg",
+        "https://www.coolrunningsbarbados.com/img/Layer15.png"
+      ]
+    },
+    {
+      "title": "Sunset Snorkel Dinner Cruise",
+      "images": [
+        "https://www.coolrunningsbarbados.com/img/bg_sunset.jpg",
+        "https://www.coolrunningsbarbados.com/img/Layer16.png"
+      ]
+    },
+    {
+      "title": "Private Cruises",
+      "images": [
+        "https://www.coolrunningsbarbados.com/img/bg_private.jpg",
+        "https://www.coolrunningsbarbados.com/img/Layer17.jpg"
+      ]
+    }
+  ],
+  "notes": "Older AngularJS site; trip pages have no inline photos, so each trip's photo is its page background (from css/main.css) plus its home page tile. The gallery page holds 20 photos (cool_1 to cool_20); the first 10 are listed, cool_11 to cool_20 are also available in the same folder. Background images (bg_*.jpg) may carry overlays or be cropped; the importer will judge. No YouTube or Vimeo channel linked; the video is a self-hosted mp4."
+}

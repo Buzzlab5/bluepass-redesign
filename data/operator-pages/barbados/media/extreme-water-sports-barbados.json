@@ -1,0 +1,38 @@
+{
+  "slug": "extreme-water-sports-barbados",
+  "logo": "https://static.wixstatic.com/media/97f197_574f070acec348dabed2aaf112322047~mv2.png",
+  "gallery": [
+    "https://static.wixstatic.com/media/97f197_e89e21439e54454aae48eb9301970287~mv2.jpg",
+    "https://static.wixstatic.com/media/97f197_e3c8050425e04344bb7beece4878e1f4~mv2.jpeg",
+    "https://static.wixstatic.com/media/97f197_864501353f9e42b094063a00e5d14b73~mv2.jpg",
+    "https://static.wixstatic.com/media/97f197_883149cc67194ce0a8fb8010a5916749~mv2.jpg",
+    "https://static.wixstatic.com/media/97f197_326a146cbcca4846b38089cf2ac0b6e0~mv2.jpg",
+    "https://static.wixstatic.com/media/97f197_ec54c26b31024366af2454a7235b1474~mv2.jpg",
+    "https://static.wixstatic.com/media/97f197_db70ae3c63a24349822933bdde476c13~mv2.jpeg",
+    "https://static.wixstatic.com/media/97f197_84e20523929145988b3790f9367fbb1c~mv2.jpeg",
+    "https://static.wixstatic.com/media/97f197_f9af40d3e39e4b39b1daf920ab39304c~mv2.png",
+    "https://static.wixstatic.com/media/97f197_dc3662edaf1c40afa382fd64664105a3~mv2.png",
+    "https://static.wixstatic.com/media/97f197_d62861b0fd2f494fa6b1d194bd3af606~mv2.jpg",
+    "https://static.wixstatic.com/media/97f197_6756b09ded4a4cc6b5e156ded13ebd36~mv2.jpg",
+    "https://static.wixstatic.com/media/97f197_1429bdaaa63e4c1cb85cec17597bb9c3~mv2.jpg",
+    "https://static.wixstatic.com/media/97f197_c0ecaf7c64ae4d3a859114eba2ae865f~mv2.jpg",
+    "https://static.wixstatic.com/media/97f197_925238e6f1fb4e369a321efb4761d5c9~mv2.jpg",
+    "https://static.wixstatic.com/media/97f197_d1c8cefed06c47e996eeabe233e4e166~mv2.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    { "title": "Leisure Cruise (Per Hour)", "images": ["https://static.wixstatic.com/media/97f197_e89e21439e54454aae48eb9301970287~mv2.jpg"] },
+    { "title": "Snorkel Trips on Twin Engine Vessel (Per Hour)", "images": ["https://static.wixstatic.com/media/97f197_049c3d310cea41b59feee24483410bad~mv2.png"] },
+    { "title": "Snorkel Trips on Single Engine Vessel (Per Hour)", "images": ["https://static.wixstatic.com/media/7469db_44ee6f447aad468b98c965c83ed9163d~mv2.jpeg"] },
+    { "title": "Big Mable (Per Person/ Per 15 Min.)", "images": ["https://static.wixstatic.com/media/7469db_73cc192783be4c859b3f981d1fa0558f~mv2.jpeg"] },
+    { "title": "Air Head (Per Person/Per 15 Minutes)", "images": ["https://static.wixstatic.com/media/7469db_f4017ea7252445d39e9248ec81cd7ca9~mv2.jpg"] },
+    { "title": "Tubing (Per Person/Per 15 Minutes)", "images": ["https://static.wixstatic.com/media/7469db_0ecbd75eec3a400ab0e805ff28cdaf0f~mv2.jpeg"] },
+    { "title": "Water Skiing (Per Person/Per 15 Minutes)", "images": ["https://static.wixstatic.com/media/7469db_6de9ad98e17f42ce924b36529ccd4c6e~mv2.jpg"] },
+    { "title": "Wakeboarding (Per Person/Per 15 Minutes)", "images": ["https://static.wixstatic.com/media/7469db_64599acf4b4a41b19eaff71f2422748e~mv2.jpg"] },
+    { "title": "Jetski (Per Jet Ski/Per 30 Minutes)", "images": ["https://static.wixstatic.com/media/97f197_87b3d48bbd8740d3b661c803174c838b~mv2.jpg"] },
+    { "title": "Power Hour (Inflatable Toys- 1 Hour)", "images": ["https://static.wixstatic.com/media/97f197_864501353f9e42b094063a00e5d14b73~mv2.jpg"] },
+    { "title": "Water Taxi Services", "images": ["https://static.wixstatic.com/media/7469db_09f7f439b1154021bc8dc0deeb504155~mv2.jpg"] },
+    { "title": "Kayaking", "images": ["https://static.wixstatic.com/media/7469db_cb01e7e2a00b4c2abea306773aa68cc6~mv2.jpg"] }
+  ],
+  "notes": "Wix site, no bot check. Image URLs are the Wix originals (no /v1/fill transform). Gallery keeps to files uploaded under the site owner's Wix account (97f197_). Left out: the gallery page's nine 8ff218_ photos and the activity photos starting 7469db_ from the gallery list because they were uploaded under a different Wix account and several are small (194x259, 275x183), so they may be web or stock images; they stay on their trips for the importer to judge. Also left out: a Wix stock sky image (11062b_) on the home page, and the partner photo on the Partners page (Sungold House, another business). The Activities page has a Wix video player labelled 'Your Video Title', but its source loads by script and is not in the page HTML, so no video was recorded. Logo is a 665x375 PNG; a 1472x832 PNG (97f197_138610adfa65418e94b2403ef64b1f0e~mv2.png) is used as the site icon and may be a larger logo version."
+}

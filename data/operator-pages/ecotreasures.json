@@ -1,0 +1,614 @@
+{
+  "slug": "ecotreasures",
+  "name": "Ecotreasures",
+  "website": "https://ecotreasures.com.au",
+  "rezdyAlias": "ecotreasures",
+  "state": "NSW",
+  "town": "Manly",
+  "category": "Snorkel and eco tours",
+  "summary": "Guided snorkel tours at Shelly Beach in Manly's Cabbage Tree Bay Aquatic Reserve, run as small groups or private bookings by local eco guides. They also offer a Manly walking tour, private day tours around Sydney and the Blue Mountains, and programs for schools and groups. Wetsuits and snorkel gear are provided on the snorkel tours.",
+  "standouts": [
+    "Advanced Ecotourism certified by Ecotourism Australia for eligible eco-tour programs",
+    "Green Travel Leader recognition from Ecotourism Australia in 2021",
+    "Group snorkel tours limited to a maximum of 8 guests",
+    "More than 15 years running snorkel, eco tour and education programs in Sydney"
+  ],
+  "contact": {
+    "phone": "+61 433 088 951",
+    "email": "info@ecotreasures.com.au",
+    "address": "Shelly Beach, Manly NSW 2095"
+  },
+  "heroImage": "https://cdn.ecotreasures.com.au/wp-content/uploads/2025/07/Ecotreasures-Sydney-snorkel-tour-shelly-beach-manly.jpg",
+  "sourceUrls": [
+    "https://www.ecotreasures.com.au/",
+    "https://www.ecotreasures.com.au/sitemap/",
+    "https://www.ecotreasures.com.au/tours/",
+    "https://www.ecotreasures.com.au/tours/page/2/",
+    "https://www.ecotreasures.com.au/tours/manly-snorkeling-tour/",
+    "https://www.ecotreasures.com.au/tours/private-manly-snorkel-tour/",
+    "https://www.ecotreasures.com.au/tours/manly-sea-stories-walking-tour/",
+    "https://www.ecotreasures.com.au/tours/sydney-private-touring/",
+    "https://www.ecotreasures.com.au/tours/blue-mountains-private-eco-tour-small-group/",
+    "https://www.ecotreasures.com.au/tours/private-paddle-boarding-sydney/",
+    "https://www.ecotreasures.com.au/tours/kids-birthday-parties-sydney/",
+    "https://www.ecotreasures.com.au/tours/manly-coastal-whale-walking-tours/",
+    "https://www.ecotreasures.com.au/tours/high-school-outdoor-educational-programs/",
+    "https://www.ecotreasures.com.au/tours/topic-earths-natural-systems-coastal-ecosystems-energy-flow/",
+    "https://www.ecotreasures.com.au/tours/incursions-sydney/",
+    "https://www.ecotreasures.com.au/tours/duke-of-ed-exploration-adventurous-journey/",
+    "https://www.ecotreasures.com.au/tours/duke-of-ed-adventurous-journeys/",
+    "https://www.ecotreasures.com.au/tours/team-wellness-in-sydney-snorkel-tours-wellness-walks/",
+    "https://www.ecotreasures.com.au/location/cabbage-tree-bay-aquatic-reserve-manly/",
+    "https://www.ecotreasures.com.au/about-us-snorkel-tours-in-sydney/",
+    "https://www.ecotreasures.com.au/contact/",
+    "https://www.ecotreasures.com.au/customer-support-and-frequently-asked-questions/",
+    "https://www.ecotreasures.com.au/terms-conditions/",
+    "https://www.ecotreasures.com.au/accessibility-information-ecotreasures/",
+    "https://www.ecotreasures.com.au/ecotreasures-tour-photos-2026/"
+  ],
+  "trips": [
+    {
+      "title": "Manly Snorkel Tour at Shelly Beach, Sydney",
+      "kind": "snorkel",
+      "summary": "A small-group guided snorkel in the Cabbage Tree Bay Aquatic Reserve at Shelly Beach, with no more than 8 guests per group. It starts with a 30-minute eco walk on the headland, then about an hour in the water with a local guide. Wetsuit, mask, snorkel and fins are provided, and guests need to swim 150 metres unassisted.",
+      "highlights": [
+        "Maximum 8 guests per group",
+        "30-minute eco walk on the Shelly Beach headland before the snorkel",
+        "One hour guided snorkel in a no-take aquatic reserve",
+        "Free underwater tour photos"
+      ],
+      "duration": "Allow up to 2.5 hours",
+      "durationMinutes": 150,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Shelly Beach, Manly, in front of Boat House Cafe on the sand next to the trees",
+      "prices": [
+        {
+          "label": "Flexi Ticket, per person",
+          "amount": 125,
+          "currency": "AUD",
+          "note": "24-hour cancellation policy"
+        },
+        {
+          "label": "Saver Ticket, per person",
+          "amount": 109,
+          "currency": "AUD",
+          "note": "No refunds; $30 fee for date changes"
+        }
+      ],
+      "priceFrom": 109,
+      "includes": [
+        "1 hour guided snorkel in Cabbage Tree Bay Aquatic Reserve",
+        "30-minute eco interpretive walk on the Shelly Beach headland",
+        "Snorkel equipment: mask, fins, foam noodle and wetsuit",
+        "Waterproof marine ID charts for use in the water",
+        "Fish ID charts and maps for the walk",
+        "Binoculars for the headland walk",
+        "Free underwater tour photos",
+        "Secure storage for small personal items in the guides' van"
+      ],
+      "bring": [
+        "Comfortable walking shoes for the headland walk",
+        "Flip-flops or sandals for the beach",
+        "Hat and sunscreen",
+        "Swimwear and towel",
+        "Refillable water bottle",
+        "One small backpack only, no large luggage"
+      ],
+      "requirements": "Minimum age 8. Must swim 150 metres freestyle unassisted, float and tread water, and pass a swim test at the start of the tour. Children aged 8 to 14 need 1 adult for every 2 children. Pregnant guests are not permitted (insurance restrictions).",
+      "offer": null,
+      "images": [
+        "https://cdn.ecotreasures.com.au/wp-content/uploads/2025/06/1001694-2-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://ecotreasures.rezdy.com/33997/manly-snorkeling-tour-explore-cabbage-tree-bay-s-vibrant-marine-life",
+        "https://ecotreasures.rezdy.com/33997/group-manly-snorkeling-tour-explore-cabbage-tree-bay-s-vibrant-marine-life"
+      ],
+      "sourceUrl": "https://www.ecotreasures.com.au/tours/manly-snorkeling-tour/",
+      "checkNotes": "Prices are the two per-person tickets on the tour page; no child or family price is shown (the terms mention a child rate for ages 4 to 14 with no amount). Departure times are not on the page (booking calendar only) and no season is stated; the tour photos page lists tours in every month from April to September 2026. Child rule differs: this page says ages 8 to 14 need 1 adult for every 2 children, the terms say ages 8 to 12 need an accompanying adult. Needs at least 2 guests, otherwise it may be cancelled and guests offered an upgrade to the 1 on 1 private tour. The two Rezdy links (tour page and home page) share product 33997 with different slugs. The site claims this is the only Manly snorkel operator with Advanced Ecotourism certification; not repeated here."
+    },
+    {
+      "title": "Private Manly Snorkel Tour at Shelly Beach, Sydney",
+      "kind": "snorkel",
+      "summary": "A private guided snorkel at Shelly Beach in the Cabbage Tree Bay Aquatic Reserve for 2 to 8 guests, with timing and pace set around the group. It includes a short coastal eco walk, wetsuits and snorkel gear, and up to one hour in the water. Guests who cannot swim 150 metres can take part in a life jacket.",
+      "highlights": [
+        "Private bookings for 2 to 8 guests",
+        "Flexible timing and personalised pace",
+        "Up to one hour in the water",
+        "Complimentary underwater photos where conditions allow"
+      ],
+      "duration": "Approximately 2.5 hours, including up to one hour in the water",
+      "durationMinutes": 150,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Shelly Beach, Manly, in front of Boat House Cafe on the sand next to the palm trees",
+      "prices": [
+        {
+          "label": "Private group, from",
+          "amount": 420,
+          "currency": "AUD",
+          "note": "Shown as 'From $420 per private group' for 2 to 8 guests"
+        }
+      ],
+      "priceFrom": 420,
+      "includes": [
+        "Dedicated local eco guide",
+        "Wetsuit, mask, snorkel and fins",
+        "Safety briefing and in-water guidance",
+        "Marine-life and coastal ecology interpretation",
+        "Short coastal eco walk around Shelly Beach",
+        "Complimentary underwater photos, where conditions allow",
+        "Marine ID resources"
+      ],
+      "bring": [
+        "Swimwear and a towel",
+        "Water",
+        "Sunscreen",
+        "Warm clothes for after the tour",
+        "Any personal medication"
+      ],
+      "requirements": "Minimum age 8. Guests are expected to swim 150 metres freestyle unassisted, float and tread water, and complete a swim assessment; the page FAQ says guests who cannot swim that far can still take part in a life jacket. Pregnant guests cannot join the snorkel (insurance).",
+      "offer": null,
+      "images": [
+        "https://cdn.ecotreasures.com.au/wp-content/uploads/2025/06/1001686-2-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://ecotreasures.rezdy.com/40811/private-manly-snorkeling-experience-explore-cabbage-tree-bay"
+      ],
+      "sourceUrl": "https://www.ecotreasures.com.au/tours/private-manly-snorkel-tour/",
+      "checkNotes": "Only a 'From $420 per private group' price is shown; the full price table is in the booking system. The booking button reads 'Request Your Private Snorkel Tour'. Duration here is approximately 2.5 hours; the accessibility page says up to 2 hours for private tours. The page says all participants must swim 150 metres, but its FAQ lets non-swimmers take part in a life jacket; the support FAQ says the same."
+    },
+    {
+      "title": "Manly Sea Stories Walking Tour: Sharks, Wildlife & Ocean Safety",
+      "kind": "tour",
+      "summary": "A 90-minute easy walking tour from Manly Wharf to Manly Beach and Fairy Bower, led by a local eco and water-safety guide. The guide explains beach flags, rip currents, sharks and marine wildlife, and Manly's surfing and lifesaving history. It finishes with a barista-made coffee and a lamington. The tour is on land, so no swimming is needed.",
+      "highlights": [
+        "Maximum 15 guests",
+        "Easy-paced 90-minute walk, no swimming",
+        "Beach flags, rip currents and shark ecology explained",
+        "Coffee and a lamington at the finish"
+      ],
+      "duration": "90 minutes",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Manly Wharf (finishes near Manly Beach and Fairy Bower)",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 80,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 80,
+      "includes": [
+        "90-minute guided Manly walking tour",
+        "Local eco and water-safety guide",
+        "One regular barista-made coffee or available alternative",
+        "One classic Australian lamington"
+      ],
+      "bring": [
+        "Comfortable walking shoes",
+        "Hat and sunscreen",
+        "Refillable water bottle",
+        "Sunglasses",
+        "Weather-appropriate clothing",
+        "Swimwear and towel if you want a swim at Fairy Bower rockpool afterwards"
+      ],
+      "requirements": "Easy walking level; guests should be comfortable walking and standing for about 90 minutes. Children must stay with and be supervised by a responsible adult.",
+      "offer": null,
+      "images": [
+        "https://cdn.ecotreasures.com.au/wp-content/uploads/2025/06/1001702-2-scaled-e1752977855833.jpg"
+      ],
+      "bookingLinks": [
+        "https://ecotreasures.rezdy.com/calendarWidget/785036?iframe=true"
+      ],
+      "sourceUrl": "https://www.ecotreasures.com.au/tours/manly-sea-stories-walking-tour/",
+      "checkNotes": "The only booking link on the page is the embedded Rezdy calendar widget (product 785036); no product page link was found. Departure times are not stated. The page is a land-based tour: it is not a swimming lesson or accredited water-safety course, and the optional Fairy Bower swim is independent and unsupervised. One sentence on the page ends with a stray citation marker; not copied."
+    },
+    {
+      "title": "Private Tours in Sydney for International Visitors",
+      "kind": "tour",
+      "summary": "Private tailored days in Sydney for couples, families, cruise guests and small groups, planned around the group's time and interests. Options range from harbour sights and beaches to bushwalks, wildlife, food stops and snorkelling, plus day trips to the Blue Mountains, Hunter Valley, Southern Highlands or Central Coast. Guests send a date, group size and pickup location and receive a proposal.",
+      "highlights": [
+        "Pickup from a hotel, accommodation or cruise terminal can be discussed",
+        "Itinerary built around your group",
+        "Can include snorkelling, kayaking or surfing where suitable",
+        "Day trips beyond Sydney available"
+      ],
+      "duration": "Designed around your available time and preferred pace",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Hotel, accommodation or an agreed Sydney location, subject to itinerary and vehicle availability",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Private guide services",
+        "Planned sightseeing route and local interpretation",
+        "Pickup and transport, where included in your confirmed itinerary",
+        "Entry or activity fees, where stated",
+        "Snorkelling, surfing, kayaking or other equipment, where stated"
+      ],
+      "bring": [
+        "Comfortable walking shoes",
+        "Weather-appropriate clothing",
+        "Sun protection",
+        "Drinking water",
+        "Any personal medication",
+        "Swimwear and towel only if the itinerary includes a water activity"
+      ],
+      "requirements": "Water activities depend on participant ability, weather, ocean conditions, guide assessment and equipment availability.",
+      "offer": null,
+      "images": [
+        "https://cdn.ecotreasures.com.au/wp-content/uploads/2026/08/DJI_0013-scaled-e1787872910204.jpg"
+      ],
+      "bookingLinks": [
+        "https://ecotreasures.rezdy.com/catalog/623462/private-day-tours"
+      ],
+      "sourceUrl": "https://www.ecotreasures.com.au/tours/sydney-private-touring/",
+      "checkNotes": "Enquiry based, with no prices on the page. The booking link is a Rezdy catalog page (catalog 623462), not a single product. The inclusions are listed as 'potential inclusions' and are confirmed in each proposal. Group size is not limited on the page. The page has stray text ('Tell Us What You'd Like to Do???', 'Primary button: Request My Private Sydney Tour')."
+    },
+    {
+      "title": "Blue Mountains Private Eco Tour",
+      "kind": "tour",
+      "summary": "A private small-group day trip from Sydney to Blue Mountains National Park with a local eco-certified guide. The sample day covers lookouts such as Echo Point and the Three Sisters, guided bushwalks and waterfalls, with return transport from the Sydney CBD. The itinerary is adjusted to the group's interests and fitness.",
+      "highlights": [
+        "Return transport from Sydney CBD",
+        "Guided bushwalks to lookouts, waterfalls and rainforest",
+        "National park day-use fees included",
+        "Extras such as Featherdale Wildlife Park, Scenic World or a wine tasting can be added at set costs"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Sydney CBD accommodation pick-up",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Private eco-certified guide for your group",
+        "Return transport from Sydney CBD",
+        "NPWS day use fees for Blue Mountains National Park",
+        "Guided bush walks tailored to your abilities",
+        "Wildlife and nature interpretation",
+        "Morning tea and refreshments",
+        "National parks information and maps",
+        "Flexible pick-up and drop-off times"
+      ],
+      "bring": [
+        "Comfortable walking shoes and weather-appropriate clothing",
+        "Refillable water bottle",
+        "Sun protection (hat, sunscreen, sunglasses)",
+        "Camera"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://cdn.ecotreasures.com.au/wp-content/uploads/2023/08/Blue-mountains-private-day-tour-grand-canyon-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://ecotreasures.rezdy.com/580442/blue-mountains-private-eco-tour-small-group-nature-adventure-from-sydney"
+      ],
+      "sourceUrl": "https://www.ecotreasures.com.au/tours/blue-mountains-private-eco-tour-small-group/",
+      "checkNotes": "No price on the page; guests email for a quote. Duration is not stated. The sample itinerary has pick-up between 7:30am and 9:30am (the guest chooses the start time) and a return to Sydney by about 5:30pm. Lunch is at the guests' own expense or by arrangement. The page also calls the tour Climate Action Certified; not repeated here."
+    },
+    {
+      "title": "1 on 1 Private Snorkel Tour",
+      "kind": "snorkel",
+      "summary": "A one-on-one private snorkel tour at Shelly Beach in Manly, listed as an easy explorer tour. The group snorkel page suggests it for guests who are not confident swimmers, and as an upgrade if a group tour is cancelled for low numbers.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Shelly Beach, Manly",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://ecotreasures.rezdy.com/718618/one-on-one-easy-explorer-snorkel-tour-shelly-beach-manly"
+      ],
+      "sourceUrl": "https://www.ecotreasures.com.au/tours/manly-snorkeling-tour/",
+      "checkNotes": "Described only in two sentences of the group snorkel tour page and a menu link to a Rezdy page, which was not opened, so duration, price, inclusions and requirements are unknown. The operator's own site has no page for this tour. The title is the menu label."
+    },
+    {
+      "title": "Manly Paddle Boarding (SUP) Lessons and Tours",
+      "kind": "other",
+      "summary": "Private stand up paddle board lessons and tours from Manly Wharf, taught by an ASI Level 2 instructor. Each session is a 60-minute lesson and tour with board, paddle and leash provided, and is tailored to the guest's skill level. Private tour dates must be confirmed with the office before booking.",
+      "highlights": [
+        "60-minute private lesson and tour",
+        "ASI Level 2 paddle board instructor",
+        "Board, paddle and leash provided",
+        "Suits beginners and experienced paddlers"
+      ],
+      "duration": "60 minutes",
+      "durationMinutes": 60,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Manly Wharf",
+      "prices": [
+        {
+          "label": "Individual lesson",
+          "amount": 120,
+          "currency": "AUD",
+          "note": "Shown as the low end of a range"
+        },
+        {
+          "label": "Group of eight",
+          "amount": 500,
+          "currency": "AUD",
+          "note": "Shown as the high end of a range"
+        }
+      ],
+      "priceFrom": 120,
+      "includes": [
+        "60-minute lesson and tour",
+        "Epoxy paddle board, paddle and leash",
+        "ASI Level 2 paddle board instructor",
+        "Pre-lesson safety briefing and equipment overview",
+        "Risk assessment training"
+      ],
+      "bring": [
+        "Swimwear",
+        "Water bottle",
+        "Towel"
+      ],
+      "requirements": "Suits beginners to experienced paddlers; no minimum age is stated.",
+      "offer": null,
+      "images": [
+        "https://cdn.ecotreasures.com.au/wp-content/uploads/2016/10/GPTempDownload-3-scaled.jpg",
+        "https://cdn.ecotreasures.com.au/wp-content/uploads/2015/05/GOPR7913.jpg"
+      ],
+      "bookingLinks": [
+        "https://ecotreasures.rezdy.com/62685/sydney-s-northern-beaches-paddle-boarding-lesson-and-tours"
+      ],
+      "sourceUrl": "https://www.ecotreasures.com.au/tours/private-paddle-boarding-sydney/",
+      "checkNotes": "The page says 'Costs range from $120 for an individual to $500 for a group of eight', so the two amounts are the ends of a range, not separate tickets. The page gives the location as Manly Wharf in one place and The Basin Campground in another. The Tours list says the camping service and paddling at the Basin Campground are no longer operated, and the terms say Basin campground credits expired in April 2024, so confirm this tour still runs. Phone 0415 121 648 appears on this page. Page images load from a demo subdomain (demo.ecotreasures.com.au); the live image host is used here."
+    },
+    {
+      "title": "Kids Birthday Parties Sydney",
+      "kind": "other",
+      "summary": "Outdoor birthday parties for children with a snorkel safari, ocean rock platform exploration or a bush and coastal whale walk, tailored to the group's swimming ability. Parties include a custom PDF invitation, a birthday gift for the child and complimentary photos. Quotes are given per group, with a minimum 2 hour charge.",
+      "highlights": [
+        "Snorkel Safari party from age 8 at Shelly Beach",
+        "Ocean rock platform exploration from age 8",
+        "Bush and coastal whale walk from age 6",
+        "Custom PDF invitation, birthday gift and photos included"
+      ],
+      "duration": "Minimum 2 hour charge",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Shelly Beach, Manly (snorkel parties); a variety of Sydney coastal beaches for the other options",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Custom PDF invitation to pass on to other parents",
+        "Birthday gift from Ecotreasures for your child",
+        "Complimentary photos from the party",
+        "Logistic planning support from staff"
+      ],
+      "bring": [],
+      "requirements": "Snorkel Safari and rock platform parties from age 8; bush and coastal whale walk from age 6.",
+      "offer": null,
+      "images": [
+        "https://cdn.ecotreasures.com.au/wp-content/uploads/2015/05/KidsBdayParties_EcoTreasures-2-e1439520492209.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.ecotreasures.com.au/tours/kids-birthday-parties-sydney/",
+      "checkNotes": "Pricing is 'Quotes available per group'; no amounts. Bookings by email or phone 0415121648; the email is written 'info@ecotreasures' on the page (incomplete), so info@ecotreasures.com.au from the Contact page is assumed. The photo probably shows children, so a person should check it before use."
+    },
+    {
+      "title": "Manly Coastal Eco Walk",
+      "kind": "tour",
+      "summary": "A guided coastal walk around Manly designed for school and student groups, with a group beach clean-up, wildlife spotting and marine ecosystem discussion. Students record the debris they collect for a national marine debris database. Walks run 2 to 4 hours, with shorter options available.",
+      "highlights": [
+        "Beach clean-up with gloves and equipment provided",
+        "Binoculars for wildlife spotting, and whales in migration season",
+        "Debris data recorded for a national marine debris database",
+        "2 to 4 hour walk, shorter options available"
+      ],
+      "duration": "2 to 4 hours (shorter options available)",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Manly Wharf or Manly Beach",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Gloves and equipment for rubbish removal",
+        "Binoculars for wildlife spotting",
+        "National Park entry fees",
+        "Access to water refill stations"
+      ],
+      "bring": [
+        "Hat",
+        "Refillable water bottle",
+        "Walking shoes",
+        "Sun-smart clothing"
+      ],
+      "requirements": "Groups of 6 to 15 students; multiple groups are possible for large requests.",
+      "offer": null,
+      "images": [
+        "https://cdn.ecotreasures.com.au/wp-content/uploads/2015/05/ManlyCoastalWalk_EcoTreasures-1-e1439515068728.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.ecotreasures.com.au/tours/manly-coastal-whale-walking-tours/",
+      "checkNotes": "Enquiry only: no price and no booking link on the page. It is written for school groups, although it is also tagged for families and birthdays. Transport by Manly ferry, bus or a school-arranged bus (quotes available). The certification line on the page mentions 'your snorkeling adventure', which looks like pasted text, and calls the business Climate Action Certified; neither is repeated."
+    },
+    {
+      "title": "School Field Studies & Geography Excursions in Sydney",
+      "kind": "course",
+      "summary": "Tailored coastal and marine field studies for school groups across Manly, Long Reef, Mona Vale, Collaroy and Narrabeen. Programs support Geography, Marine Studies, Science, Outdoor Education and PDHPE, in formats from land-based fieldwork to eligible guided snorkelling. Ecotreasures prepares a tailored quote with planning documents for the school.",
+      "highlights": [
+        "Land-based fieldwork, incursions or guided snorkelling",
+        "Sites include Cabbage Tree Bay, Long Reef, Mona Vale and Collaroy-Narrabeen",
+        "Risk-assessment and public-liability insurance documents available",
+        "Bus-charter coordination may be available"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Manly, Long Reef, Mona Vale, Collaroy and Narrabeen, plus selected Northern Beaches and Eastern Beaches sites",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Tailored quote",
+        "Risk-assessment documents",
+        "Insurance documentation",
+        "Pre-excursion planning and curriculum discussion"
+      ],
+      "bring": [],
+      "requirements": "Land-based programs do not require swimming. Snorkelling or other in-water activities need the confirmed swimming and participation requirements to be met.",
+      "offer": null,
+      "images": [
+        "https://cdn.ecotreasures.com.au/wp-content/uploads/2016/06/Coral-health-manly-snorkel-program-scaled-e1782953047520.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.ecotreasures.com.au/tours/high-school-outdoor-educational-programs/",
+      "checkNotes": "Enquiry only: no prices and no booking link. Duration and group size depend on the quote. A teacher testimonial on the page is not repeated. This overlaps with the Marine Field Study page, which is the snorkel-based school program at Cabbage Tree Bay."
+    },
+    {
+      "title": "Manly’s Cabbage Tree Bay Aquatic Reserve Marine Field Study",
+      "kind": "course",
+      "summary": "A syllabus field trip for school groups at Cabbage Tree Bay Aquatic Reserve, built around guided snorkelling with local marine experts. Programs are written for Stage 6 Marine Studies, Stage 6 Geography and Stage 5 elective Geography, and can add a coastal walk and beach clean-up. Durations range from 1.5 hours to a full day.",
+      "highlights": [
+        "Snorkelling, fieldwork and data collection",
+        "Programs for Stage 6 Marine Studies, Stage 6 Geography and Stage 5 elective Geography",
+        "Can combine with a coastal walk and beach clean-up",
+        "1.5 hours to a full day"
+      ],
+      "duration": "1.5 hours to a full day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Manly Beach, Cabbage Tree Bay Aquatic Reserve, Shelly Beach and headland",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All snorkelling equipment and wetsuits"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.ecotreasures.com.au/tours/topic-earths-natural-systems-coastal-ecosystems-energy-flow/",
+      "checkNotes": "Enquiry by email to info@ecotreasures.com.au only: no prices and no booking link. The page has no photo of its own. It overlaps with the School Field Studies page."
+    },
+    {
+      "title": "Incursions - Dive In to the Big Blue!",
+      "kind": "course",
+      "summary": "A 30-minute interactive ocean lesson delivered at the school for Stage 1 to 3 Geography, led by Ecotreasures marine educators with a mascot called Kelpy. Sessions run back to back so several classes can take part in one visit, and no bus is needed. The content is based on Cabbage Tree Bay and the Great Southern Reef.",
+      "highlights": [
+        "Delivered at your school, no buses needed",
+        "30 minutes per class, with multiple sessions in a day",
+        "Stages 1 to 3, with Geography and Science links",
+        "Slides, mascot, props and a question and answer session"
+      ],
+      "duration": "30 minutes per class (multiple sessions per day)",
+      "durationMinutes": 30,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "At your school",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All resources provided"
+      ],
+      "bring": [],
+      "requirements": "Stages 1, 2 and 3.",
+      "offer": null,
+      "images": [
+        "https://cdn.ecotreasures.com.au/wp-content/uploads/2025/08/Ecotreasures-primary-incursions-Sydney-Geogrpahy-lesson-e1787697552956.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.ecotreasures.com.au/tours/incursions-sydney/",
+      "checkNotes": "Enquiry only: no price and no booking link. The page ends with a 'Contact Ecotreasures' prompt that has no details under it. Two school testimonials are not repeated. The title uses a hyphen where the page uses a dash."
+    },
+    {
+      "title": "Duke of Ed Nature Quest",
+      "kind": "other",
+      "summary": "A private-group Duke of Edinburgh's Award Adventurous Journey based at Narrabeen Lakeside on Sydney's Northern Beaches, with lakeside camping, wildlife and habitat surveys and community volunteering. Bronze runs 1 night, Silver 2 nights and Gold 4 nights. Ecotreasures says it is a registered activity provider with the Duke of Ed in Australia.",
+      "highlights": [
+        "Bronze 1 night, Silver 2 nights, Gold 4 nights",
+        "Private groups only, minimum 6 people",
+        "Wildlife and habitat surveys and community volunteering",
+        "Camping fees and a 30-minute Zoom planning session included"
+      ],
+      "duration": "Bronze: 1 night / 2 days. Silver: 2 nights / 3 days. Gold: 4 nights / 5 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Narrabeen Lakeside, Sydney's Northern Beaches (basecamp)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "30-minute pre-trip planning session via Zoom",
+        "Marking of Duke of Ed report",
+        "Liaison with the school awards leader for trip approval and safety documents",
+        "Expert Ecotreasures guides",
+        "All activities and program facilitation",
+        "Camping fees"
+      ],
+      "bring": [
+        "Camping equipment (not included)",
+        "Food and water (not included)",
+        "Overnight chaperone (not included)"
+      ],
+      "requirements": "Private group bookings only, minimum 6 people; 7 participants per activity.",
+      "offer": null,
+      "images": [
+        "https://cdn.ecotreasures.com.au/wp-content/uploads/2018/09/Narrabeen-Nature-Quest-Duke-of-Ed-Exploration-scaled.jpg",
+        "https://cdn.ecotreasures.com.au/wp-content/uploads/2015/07/IMG_4474-e1525396261810.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.ecotreasures.com.au/tours/duke-of-ed-exploration-adventurous-journey/",
+      "checkNotes": "Cost is 'a per hour per person fee' with no amount shown, and there is no booking link; the page says to email to join the waitlist. Possible conflict: the Tours list says the camping service and paddling at the Basin Campground are no longer operated and the terms say Basin campground credits expired in April 2024, yet this page gives directions to The Basin as well as a Narrabeen Lakeside basecamp. Confirm the program still runs. The parent page Duke of Ed Adventurous Journeys lists this Exploration program and an Expedition program marked 'coming soon'; its photo (IMG_4474) is added here."
+    },
+    {
+      "title": "Corporate Team Wellness",
+      "kind": "other",
+      "summary": "Outdoor team wellness and team-building programs around Sydney's Northern Beaches and Harbour, from guided nature walks and mindfulness sessions to snorkel days at Cabbage Tree Bay. Options include half-day and full-day retreats, beach games and customised workshops such as yoga on the sand. Programs are arranged by contacting Ecotreasures.",
+      "highlights": [
+        "Guided nature walks and mindfulness sessions",
+        "Snorkel adventures at Cabbage Tree Bay Aquatic Reserve",
+        "Half-day or full-day outdoor retreats",
+        "Customised workshops, from yoga on the sand to guided meditation"
+      ],
+      "duration": "Half-day or full-day programs",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://cdn.ecotreasures.com.au/wp-content/uploads/2026/08/DJI_0032-scaled-e1787872977575.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.ecotreasures.com.au/tours/team-wellness-in-sydney-snorkel-tours-wellness-walks/",
+      "checkNotes": "Enquiry only: no price, meeting point or booking link on the page. The home page calls these corporate Blue Retreats."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift certificates for the Manly snorkel tour and paddle boarding lessons",
+      "conditions": "The terms say gift certificates cannot be refunded. Validity period is not stated on the pages read.",
+      "validUntil": null,
+      "sourceUrl": "https://www.ecotreasures.com.au/tours/manly-snorkeling-tour/"
+    }
+  ],
+  "checkNotes": "Prices appear on only four pages: the group snorkel tour (Flexi and Saver tickets), the private snorkel tour (from $420 per group), the walking tour ($80) and paddle boarding ($120 to $500); the other trips are enquiry based or priced in the Rezdy booking system, which was not opened. Five trips (Hiking Tour Blue Mountains, Ku-ring-gai & Nth Beaches, Bondi and Eastern Beaches Eco Tour, Sydney Family Snorkelling Eco Tour, 1 on 1 Private Snorkel Tour) exist only as menu links to Rezdy pages, so their summaries are minimal and a person may prefer to drop or retitle them. Photo credit: the site footer reads 'Built by Ecotreasures 2025 - Images@DNSW', which may mean some photos belong to Destination NSW; files named 220606_NECI_Eco-Treasures_* (the home page story photo, the founder photo and the corporate wellness list photo) look like one professional shoot and were left out, and a person should confirm which photos the operator may reuse. Phone: the site shows 0433088951 (called the snorkel tour guide phone on the Contact page and listed on the About page) and 0415121648 (kids parties and paddle boarding); the first is used here. Leftover content: the camping service at the Basin Campground is no longer operated (Tours list), the Cabbage Tree Bay marine identification page returned a standard 404, the Tour Photos page links guests' GoPro videos (not used), and some pages still link to a demo subdomain (demo.ecotreasures.com.au). The site makes absolute claims (only Manly snorkel operator with Advanced certification, one of five Advanced certified Sydney operators, a share of eco-accredited tours); none are repeated. Rezdy links have the operator's analytics tracking parameters removed. The shop link (Square) was not opened. No bot check or captcha was met. Left off the page: 4 trips that appear only as menu links into Rezdy, with nothing about them on the website itself: Hiking Tour Blue Mountains (https://ecotreasures.rezdy.com/719429/private-blue-mountains-grand-canyon-adventure-ultimate-hiking-tour); Ku-ring-gai & Nth Beaches (https://ecotreasures.rezdy.com/722911/northern-beaches-ku-ring-gai-national-park-day-tour-private); Bondi and Eastern Beaches Eco Tour (https://ecotreasures.rezdy.com/761416/sydney-private-bondi-beach-gordon-s-bay-snorkel-tour); Sydney Family Snorkelling Eco Tour (https://ecotreasures.rezdy.com/718611/sydney-family-snorkelling-eco-tour). Add them once the operator describes them."
+}

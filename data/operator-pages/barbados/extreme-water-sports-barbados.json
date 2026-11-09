@@ -1,0 +1,453 @@
+{
+  "slug": "extreme-water-sports-barbados",
+  "name": "Extreme Water Sports",
+  "website": "https://www.doitonwater.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": null,
+  "category": "Watersports and boat trips",
+  "summary": "A Barbados watersports team with jet skis, towed inflatables, water skiing, wakeboarding and kayaks, plus private boat trips priced by the hour. Snorkel trips go out to swim with turtles and see a shipwreck, and leisure cruises follow the coast with drinks on board. Longer outings of 1, 2, 4 or 8 hours can be set up, including trips for cruise ship passengers.",
+  "standouts": [
+    "Jet skis and boats available 7 days a week, 365 days a year",
+    "Outings of 1, 2, 4 or 8 hours, from Bridgetown to Speightstown",
+    "Snorkel trips on twin engine and single engine boats",
+    "Works with local hotels, restaurants and private villas"
+  ],
+  "contact": {
+    "phone": "+1 246 245 2029",
+    "email": "funonwater246@gmail.com",
+    "address": null,
+    "whatsapp": "https://wa.me/+12462452029"
+  },
+  "heroImage": "https://static.wixstatic.com/media/97f197_e89e21439e54454aae48eb9301970287~mv2.jpg",
+  "sourceUrls": [
+    "https://www.doitonwater.com/",
+    "https://www.doitonwater.com/copy-of-rentals-tours",
+    "https://www.doitonwater.com/activities",
+    "https://www.doitonwater.com/book-now",
+    "https://www.doitonwater.com/gallery",
+    "https://www.doitonwater.com/partners",
+    "https://www.doitonwater.com/about",
+    "https://www.doitonwater.com/sitemap.xml",
+    "https://www.doitonwater.com/booking-services-sitemap.xml",
+    "https://www.doitonwater.com/pages-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Leisure Cruise (Per Hour)",
+      "kind": "charter",
+      "summary": "A relaxed private cruise along the Barbados coast on a twin engine boat, booked by the hour. Drinks on board are included.",
+      "highlights": [
+        "Twin engine vessel",
+        "Cruises along the coastline",
+        "Complimentary drinks on board",
+        "Priced by the hour"
+      ],
+      "duration": "Per hour",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Boat, per hour",
+          "amount": 300,
+          "currency": "USD",
+          "note": "Starting at $300 USD/Hour"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Complimentary drinks on board"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/97f197_e89e21439e54454aae48eb9301970287~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.doitonwater.com/activities",
+      "checkNotes": "Price is per hour for the boat, not per person, so priceFrom is null. See the operator-level note on the Book Now page. Booking link removed: the site's /book-now widget only lists two unedited Wix template services, so this trip is by WhatsApp or enquiry."
+    },
+    {
+      "title": "Snorkel Trips on Twin Engine Vessel (Per Hour)",
+      "kind": "snorkel",
+      "summary": "A snorkel trip on a twin engine boat to swim with turtles, look over the reef and visit a shipwreck. It is booked by the hour, with drinks on board.",
+      "highlights": [
+        "Swim with turtles",
+        "Visit a shipwreck",
+        "Twin engine vessel",
+        "Complimentary drinks on board"
+      ],
+      "duration": "Per hour",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Boat, per hour",
+          "amount": 300,
+          "currency": "USD",
+          "note": "Starting at $300 USD/Hour"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Complimentary drinks on board"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/97f197_049c3d310cea41b59feee24483410bad~mv2.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.doitonwater.com/activities",
+      "checkNotes": "Price is per hour for the boat, not per person, so priceFrom is null. The description is cut off on the site (ends 'Complimentary drinks on boar'). Booking link removed: the site's /book-now widget only lists two unedited Wix template services, so this trip is by WhatsApp or enquiry."
+    },
+    {
+      "title": "Snorkel Trips on Single Engine Vessel (Per Hour)",
+      "kind": "snorkel",
+      "summary": "A snorkel trip on a single engine boat to swim with sea turtles and explore a historic shipwreck. It is booked by the hour, with drinks on board.",
+      "highlights": [
+        "Swim with sea turtles",
+        "Historic shipwreck",
+        "Single engine vessel",
+        "Complimentary drinks on board"
+      ],
+      "duration": "Per hour",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Boat, per hour",
+          "amount": 250,
+          "currency": "USD",
+          "note": "Starting at $250 USD/Hour"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Complimentary drinks on board"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/7469db_44ee6f447aad468b98c965c83ed9163d~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.doitonwater.com/activities",
+      "checkNotes": "Price is per hour for the boat, not per person, so priceFrom is null. Booking link removed: the site's /book-now widget only lists two unedited Wix template services, so this trip is by WhatsApp or enquiry."
+    },
+    {
+      "title": "Big Mable (Per Person/ Per 15 Min.)",
+      "kind": "other",
+      "summary": "A large towed inflatable that seats several riders and is pulled across the water behind a boat. It suits families and groups.",
+      "highlights": [
+        "Towed inflatable for several riders",
+        "Suits families and groups",
+        "Priced per person for 15 minutes"
+      ],
+      "duration": "15 minutes",
+      "durationMinutes": 15,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person, 15 minutes",
+          "amount": 30,
+          "currency": "USD",
+          "note": "$30 USD/Person/Per 15 Minutes."
+        }
+      ],
+      "priceFrom": 30,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/7469db_73cc192783be4c859b3f981d1fa0558f~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.doitonwater.com/activities",
+      "checkNotes": "Booking link removed: the site's /book-now widget only lists two unedited Wix template services, so this trip is by WhatsApp or enquiry."
+    },
+    {
+      "title": "Air Head (Per Person/Per 15 Minutes)",
+      "kind": "other",
+      "summary": "An inflatable towable ride pulled over the waves behind a boat. It suits friends and families.",
+      "highlights": [
+        "Inflatable towable ride",
+        "Priced per person for 15 minutes"
+      ],
+      "duration": "15 minutes",
+      "durationMinutes": 15,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person, 15 minutes",
+          "amount": 30,
+          "currency": "USD",
+          "note": "$30 USD/Person/Per 15 Minutes"
+        }
+      ],
+      "priceFrom": 30,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/7469db_f4017ea7252445d39e9248ec81cd7ca9~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.doitonwater.com/activities",
+      "checkNotes": "Booking link removed: the site's /book-now widget only lists two unedited Wix template services, so this trip is by WhatsApp or enquiry."
+    },
+    {
+      "title": "Tubing (Per Person/Per 15 Minutes)",
+      "kind": "other",
+      "summary": "Riders sit on an inflatable tube and are towed across the water behind a boat. It suits friends and families.",
+      "highlights": [
+        "Towed inflatable tube",
+        "Priced per person for 15 minutes"
+      ],
+      "duration": "15 minutes",
+      "durationMinutes": 15,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person, 15 minutes",
+          "amount": 30,
+          "currency": "USD",
+          "note": "Shown as $30 USD?Person/Per 15 Minutes"
+        }
+      ],
+      "priceFrom": 30,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/7469db_0ecbd75eec3a400ab0e805ff28cdaf0f~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.doitonwater.com/activities",
+      "checkNotes": "The price line on the site has a typo ('USD?Person'); read as per person. Booking link removed: the site's /book-now widget only lists two unedited Wix template services, so this trip is by WhatsApp or enquiry."
+    },
+    {
+      "title": "Water Skiing (Per Person/Per 15 Minutes)",
+      "kind": "other",
+      "summary": "Water skiing behind the boat for beginners and experienced skiers. The team provides the gear and guidance.",
+      "highlights": [
+        "For beginners and experienced skiers",
+        "Gear and guidance from the team",
+        "Priced per person for 15 minutes"
+      ],
+      "duration": "15 minutes",
+      "durationMinutes": 15,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person, 15 minutes",
+          "amount": 60,
+          "currency": "USD",
+          "note": "$60 USD/Person/Per 15 Minutes"
+        }
+      ],
+      "priceFrom": 60,
+      "includes": [
+        "Gear",
+        "Guidance from the team"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/7469db_6de9ad98e17f42ce924b36529ccd4c6e~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.doitonwater.com/activities",
+      "checkNotes": "Booking link removed: the site's /book-now widget only lists two unedited Wix template services, so this trip is by WhatsApp or enquiry."
+    },
+    {
+      "title": "Wakeboarding (Per Person/Per 15 Minutes)",
+      "kind": "other",
+      "summary": "Wakeboarding behind the boat, open to beginners and experienced riders. The team runs each session.",
+      "highlights": [
+        "For beginners and experienced riders",
+        "Priced per person for 15 minutes"
+      ],
+      "duration": "15 minutes",
+      "durationMinutes": 15,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person, 15 minutes",
+          "amount": 60,
+          "currency": "USD",
+          "note": "$60 USD/Person/Per 15 Minutes"
+        }
+      ],
+      "priceFrom": 60,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/7469db_64599acf4b4a41b19eaff71f2422748e~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.doitonwater.com/activities",
+      "checkNotes": "Booking link removed: the site's /book-now widget only lists two unedited Wix template services, so this trip is by WhatsApp or enquiry."
+    },
+    {
+      "title": "Jetski (Per Jet Ski/Per 30 Minutes)",
+      "kind": "other",
+      "summary": "Jet ski rides along the coast, priced per ski for 30 minutes. First-time and experienced riders are both welcome, with guides on hand.",
+      "highlights": [
+        "Priced per jet ski for 30 minutes",
+        "First-timers welcome",
+        "Guides on hand"
+      ],
+      "duration": "30 minutes",
+      "durationMinutes": 30,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per jet ski, 30 minutes",
+          "amount": 125,
+          "currency": "USD",
+          "note": "$125 USD/Per Jet Ski/Per 30 Minutes"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/97f197_87b3d48bbd8740d3b661c803174c838b~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.doitonwater.com/activities",
+      "checkNotes": "Jet ski tour. Price is per jet ski, not per person, so priceFrom is null. Booking link removed: the site's /book-now widget only lists two unedited Wix template services, so this trip is by WhatsApp or enquiry."
+    },
+    {
+      "title": "Power Hour (Inflatable Toys- 1 Hour)",
+      "kind": "other",
+      "summary": "One hour on the water switching between water skiing, wakeboarding, tubing, Big Mable and Airhead rides. It is priced for the hour rather than per person.",
+      "highlights": [
+        "Water skiing and wakeboarding",
+        "Tubing, Big Mable and Airhead rides",
+        "One hour session"
+      ],
+      "duration": "1 hour",
+      "durationMinutes": 60,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per hour",
+          "amount": 400,
+          "currency": "USD",
+          "note": "$400 USD/Hour"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Water skiing",
+        "Wakeboarding",
+        "Tubing",
+        "Big Mable and Airhead rides"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/97f197_864501353f9e42b094063a00e5d14b73~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.doitonwater.com/activities",
+      "checkNotes": "Price is per hour for the session, not per person, so priceFrom is null. The site does not say how many people the hour covers. Booking link removed: the site's /book-now widget only lists two unedited Wix template services, so this trip is by WhatsApp or enquiry."
+    },
+    {
+      "title": "Water Taxi Services",
+      "kind": "other",
+      "summary": "Boat transfers between beaches and coastal spots around Barbados, for visitors and locals. Arranged by message rather than booked online.",
+      "highlights": [
+        "Beach to beach transfers",
+        "Arranged by WhatsApp"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/7469db_09f7f439b1154021bc8dc0deeb504155~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.doitonwater.com/activities",
+      "checkNotes": "No price shown. The button reads Contact Us and opens WhatsApp (+1 246 245 2029). The site mentions 'exploring nearby islands'; not confirmed what routes run."
+    },
+    {
+      "title": "Kayaking",
+      "kind": "kayak",
+      "summary": "Kayak outings along the Barbados coast for all skill levels, from a quiet paddle to a workout on the sea.",
+      "highlights": [
+        "All skill levels",
+        "Paddle along the coastline"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/7469db_cb01e7e2a00b4c2abea306773aa68cc6~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.doitonwater.com/activities",
+      "checkNotes": "No price or duration shown on the site. Booking link removed: the site's /book-now widget only lists two unedited Wix template services, so this trip is by WhatsApp or enquiry."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Custom plans: combined activities, group bookings and special events, arranged by WhatsApp",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://www.doitonwater.com/activities"
+    }
+  ],
+  "checkNotes": "Booking route: every Book Now button goes to https://www.doitonwater.com/book-now, a Wix Bookings widget that loads by script, so its contents could not be read. The site's own booking-services sitemap and its /about page list only two Wix template services ('Operational Consulting' and 'Project Management', 1 hr), so the widget may not actually sell these activities; check it in a browser. WhatsApp (+1 246 245 2029 and +1 246 822 7010) is the other route. Location: the site names no town or address; the footer Google Maps link points to 'The Beach Shack' (pin 13.2496, -59.6437), and the batch list gives St Peter, so town and departsFrom are left null. The email funonwater246@gmail.com comes from the site's Wix business settings in the page source, not from visible text. Prices are shown in USD on the activities page, while the Wix booking settings list the payment currency as BBD. Several activity photos (file names starting 7469db_) and gallery photos (8ff218_) were uploaded under a different Wix account than the site owner's files and some are small (under 300 px), so they may not be the operator's own photos. The site was last updated 25 July 2025 per its sitemap."
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "reel-deep",
+  "logo": "https://reeldeepboat.com/wp-content/uploads/2025/01/FINAL-LOGO-193x115-1.png",
+  "gallery": [
+    "https://reeldeepboat.com/wp-content/uploads/2025/02/webpghome.jpg",
+    "https://reeldeepboat.com/wp-content/uploads/2025/02/guestsswim.jpg",
+    "https://reeldeepboat.com/wp-content/uploads/2025/02/wreck.jpg",
+    "https://reeldeepboat.com/wp-content/uploads/2025/02/turtle.jpg",
+    "https://reeldeepboat.com/wp-content/uploads/2025/02/kids.jpg",
+    "https://reeldeepboat.com/wp-content/uploads/2025/02/fish3.jpg",
+    "https://reeldeepboat.com/wp-content/uploads/2025/02/dolphin.jpg",
+    "https://reeldeepboat.com/wp-content/uploads/2025/02/guests.jpg",
+    "https://reeldeepboat.com/wp-content/uploads/2025/02/fish4.jpg",
+    "https://reeldeepboat.com/wp-content/uploads/2025/02/fishtexas.jpg",
+    "https://reeldeepboat.com/wp-content/uploads/2025/02/fish.jpg",
+    "https://reeldeepboat.com/wp-content/uploads/2025/02/starfish.jpg",
+    "https://reeldeepboat.com/wp-content/uploads/2025/02/kidsfish.jpg",
+    "https://reeldeepboat.com/wp-content/uploads/2025/02/snorklin.jpg",
+    "https://reeldeepboat.com/wp-content/uploads/2025/01/01-2.jpg",
+    "https://reeldeepboat.com/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-21-at-12.59.08_956f8b54.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=f0IcYwAyw9E",
+      "title": "Snorkelling in Barbados, seeing the shipwreck",
+      "sourceUrl": "https://www.youtube.com/@reeldeepboat9483/videos"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-0KQH2cbhME",
+      "title": "Reel Deep fishing trip",
+      "sourceUrl": "https://www.youtube.com/@reeldeepboat9483/videos"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cpbemKZPkTo",
+      "title": "Reel Deep shipwreck snorkel",
+      "sourceUrl": "https://www.youtube.com/@reeldeepboat9483/videos"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Wj4UOejLRRA",
+      "title": "Guests underwater on a Reel Deep trip",
+      "sourceUrl": "https://www.youtube.com/@reeldeepboat9483/videos"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jcdawWe33Uc",
+      "title": "A first catch",
+      "sourceUrl": "https://www.youtube.com/@reeldeepboat9483/videos"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0M9Vp7O7RHk",
+      "title": "Kids fishing on board",
+      "sourceUrl": "https://www.youtube.com/@reeldeepboat9483/videos"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Half-Day Fishing Charter",
+      "images": [
+        "https://reeldeepboat.com/wp-content/uploads/2025/01/Untitled-design-23.png",
+        "https://reeldeepboat.com/wp-content/uploads/2025/02/fish3.jpg",
+        "https://reeldeepboat.com/wp-content/uploads/2025/02/kidsfish.jpg"
+      ]
+    },
+    {
+      "title": "Full-Day Fishing Charter",
+      "images": [
+        "https://reeldeepboat.com/wp-content/uploads/2025/01/Untitled-design-23.png",
+        "https://reeldeepboat.com/wp-content/uploads/2025/02/fish4.jpg",
+        "https://reeldeepboat.com/wp-content/uploads/2025/02/fishtexas.jpg"
+      ]
+    },
+    {
+      "title": "Custom Fishing Experience",
+      "images": [
+        "https://reeldeepboat.com/wp-content/uploads/2025/01/Untitled-design-23.png",
+        "https://reeldeepboat.com/wp-content/uploads/2025/02/fish.jpg"
+      ]
+    },
+    {
+      "title": "Half-Day Private Cruise",
+      "images": [
+        "https://reeldeepboat.com/wp-content/uploads/2025/01/Untitled-design-24.png",
+        "https://reeldeepboat.com/wp-content/uploads/2025/02/guestsswim.jpg",
+        "https://reeldeepboat.com/wp-content/uploads/2025/02/wreck.jpg"
+      ]
+    },
+    {
+      "title": "Full-Day Private Cruise",
+      "images": [
+        "https://reeldeepboat.com/wp-content/uploads/2025/01/Untitled-design-24.png",
+        "https://reeldeepboat.com/wp-content/uploads/2025/02/guests.jpg"
+      ]
+    },
+    {
+      "title": "Custom Tours",
+      "images": [
+        "https://reeldeepboat.com/wp-content/uploads/2025/01/Untitled-design-24.png"
+      ]
+    }
+  ],
+  "notes": "WordPress and Elementor site. The trips have no pages of their own; each service block on /services/ shows one image (Untitled-design-23.png beside fishing, Untitled-design-24.png beside private tours), and the extra trip photos are matched from the gallery by file name only, so check them. The logo is only served at 193x115 (no larger original found). Home page gallery thumbnails 01-1.jpg to 08.jpg were also seen (originals at /wp-content/uploads/2025/01/, 550px wide) and are left for the importer to judge. Videos come from the YouTube channel the site links to (@reeldeepboat9483); all are six to eight years old. Family-named guest clips and testimonials on the channel are left out."
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "ningaloo-whaleshark-swim-ningaloo-whaleshark",
+  "logo": "https://www.ningaloowhalesharks.com/wp-content/themes/shark/assets/images/logo.png",
+  "gallery": [
+    "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/P1144105-1-e1705998054656.jpg",
+    "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/P1122103-1-e1705998073607.jpg",
+    "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/P1100368-1-e1705998121646.jpg",
+    "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/P1160101-e1705998142196.jpg",
+    "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/P1077875-e1705998159597.jpg",
+    "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/DSC03858-1-e1705998179642.jpg",
+    "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/DSC03826.jpg",
+    "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/DSC05406-1.jpg",
+    "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/Seazone-our-boat-e1705998102686.jpg",
+    "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/DSC03870-e1627556286488.jpg",
+    "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/P1122316-e1625547407647.jpg",
+    "https://www.ningaloowhalesharks.com/wp-content/uploads/2024/02/Guests-sitting-on-marlin-board.jpg",
+    "https://www.ningaloowhalesharks.com/wp-content/uploads/2024/01/Spotter-Plane.jpg",
+    "https://www.ningaloowhalesharks.com/wp-content/uploads/2025/11/DSC04161.jpg",
+    "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/12/DSC08192-copy.jpg",
+    "https://www.ningaloowhalesharks.com/wp-content/uploads/2022/10/DSC00982.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=eKNGhEvEDi0",
+      "title": "Swimming with whale sharks, plus guest reactions",
+      "sourceUrl": "https://www.ningaloowhalesharks.com/whale-shark-tours/whale-shark-tour-exmouth/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HJoq2lym1OM",
+      "title": "Swimming with humpback whales at Ningaloo Reef",
+      "sourceUrl": "https://www.ningaloowhalesharks.com/humpbackwhale-tours/humpback-whale-wonder-tour/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=T_RzLBz4BxA",
+      "title": "Behind the scenes on the whale shark tour",
+      "sourceUrl": "https://www.ningaloowhalesharks.com/whale-shark-tours/tour-overview-itinerary/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8s4y9lQA-DE",
+      "title": "What it is like to join the Humpback Whale Wonder Tour",
+      "sourceUrl": "https://www.ningaloowhalesharks.com/humpbackwhale-tours/tour-overview-itinerary/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=y7a7aGoIJ88",
+      "title": "Snorkelling the coral gardens of the Ningaloo Reef",
+      "sourceUrl": "https://www.ningaloowhalesharks.com/video-gallery/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-KfzvIMqFVA",
+      "title": "How the spotter plane works",
+      "sourceUrl": "https://www.ningaloowhalesharks.com/our-boat-bus-plane-shop/our-spotter-plane/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Whale Shark Swim Wonder Tour",
+      "images": [
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2024/04/whale-shark-swimming.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/P1144105-1-e1705998054656.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/P1122103-1-e1705998073607.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/P1100368-1-e1705998121646.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/P1160101-e1705998142196.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/P1077875-e1705998159597.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/DSC03858-1-e1705998179642.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/DSC03826.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/DSC05406-1.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/Seazone-our-boat-e1705998102686.jpg"
+      ]
+    },
+    {
+      "title": "Humpback Whale Wonder Tour",
+      "images": [
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2024/01/DSC03345-1.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2024/01/DSC02955.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2024/01/DSC03238.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2023/12/DSC04554-1.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2023/12/DSC03852-1.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2024/01/DSC06918-1.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2024/01/DSC6375-1.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2024/04/humpback-whale-swimming.jpg"
+      ]
+    },
+    {
+      "title": "Ningaloo Ecotour",
+      "images": []
+    }
+  ],
+  "notes": "Logo is the header logo (logo.png, served as a PNG; logo_small.png is the mobile version). No heroImage given: the home page background is a video file hosted on Vimeo's external player, not a photo, so the facts file uses the first photo of the site's own photo carousel instead. The two humpback tour page header photos (DSC03345-1.jpg and DSC02955.jpg, both about 1676 by 843) could be wider alternatives, but nothing was downloaded, so pixel content was not inspected and a person should look at them and at the whole set. The nine-photo carousel (P1144105 to DSC05406-1) appears on every page of the site, so it is general site photography: it leads the gallery and is also attached to the Whale Shark Swim Wonder Tour because it sits on that tour's own page, but it is not trip specific. Whale Shark Swim Wonder Tour also has whale-shark-swimming.jpg from its best time page. Humpback Whale Wonder Tour photos are the header and body photos on the humpback tour pages (overview, suitability, best time, essential information) plus humpback-whale-swimming.jpg from the whale shark best time page. Ningaloo Ecotour has no photos of its own: its page has only a page banner (5a09cf01ffecb7adafa8510db54432eb.jpg, about 1670 by 500), left out. Left out as banners or graphics: banner-01.jpg, banner-04.jpg, inner_page_banner_about_us.jpg, header-06 to header-10.jpg (page header graphics), 2024-best.jpg (a photo archive album cover that may carry text), the NPS score graphic, the awards and accreditation badges, the Tripadvisor widgets, the Six Year Gap Year logo and the home page tour tiles (163 pixel thumbnails). Not used: Manta-Ray.jpg (best time page, no trip of its own), the Navy Pier, Muiron Islands and Lighthouse Bay dive photos (those dive trips run with another provider), and a few small or lower priority files (DSC03346-1.jpg, Tour-guide-with-group-in-water.jpg, Seazone-boat-with-guest.jpg, Guests-standing-on-bow.jpg, plane1.jpg). Gallery photos DSC04161, DSC08192-copy and DSC00982 are photo archive album covers. Videos are embedded on the operator's own pages and the titles are shortened from the embed titles; YouTube itself was not opened. Not listed because of the six video limit: cgWTj0V5ldI (welcome on board), PCf6NHs4Ejc (the boat) and NjPa-M7YKnY (scuba dive the Ningaloo Reef). The video gallery also has youtube.com/watch?v=7xOWmbvDvy0 as a bare link with no title, so it was not listed. No bot check or captcha was met; the site gave an occasional 520 error on a first request that worked on retry."
+}

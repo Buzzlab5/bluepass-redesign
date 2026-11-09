@@ -1,0 +1,43 @@
+{
+  "slug": "paradise-surf-school",
+  "logo": "https://static.wixstatic.com/media/2a8d7c_57760a5893b74584a34154be27ffb1a5~mv2.png",
+  "gallery": [
+    "https://static.wixstatic.com/media/2a8d7c_4e11e2dfe8944323bd53971388f86dac~mv2.jpg",
+    "https://static.wixstatic.com/media/2a8d7c_e8973183854641a1abe9c02df5afc573~mv2_d_5184_3456_s_4_2.jpg",
+    "https://static.wixstatic.com/media/2a8d7c_e6e5b15f5aec4ac3879f4e5cb030b64c~mv2.jpg",
+    "https://static.wixstatic.com/media/2a8d7c_c31c26f5a3884a24905da1165a43cb5a~mv2.jpg",
+    "https://static.wixstatic.com/media/2a8d7c_de3e429e9ff0492a9e82ba1ae7f4b274~mv2_d_3680_2760_s_4_2.jpg",
+    "https://static.wixstatic.com/media/2a8d7c_77d66807cdd848bb97ca8b60a00e3e59~mv2_d_3680_2760_s_4_2.jpg",
+    "https://static.wixstatic.com/media/2a8d7c_50af3975ed3c47658e551bd33a9b2349~mv2_d_5184_3456_s_4_2.jpg",
+    "https://static.wixstatic.com/media/2a8d7c_d77119ef7f6b49078cad0daffda4702d~mv2.jpg"
+  ],
+  "videos": [
+    { "url": "https://www.youtube.com/watch?v=woRlawM5n6k", "title": "Surfing in Barbados", "sourceUrl": "https://www.surflessonsbarbados.com/" }
+  ],
+  "trips": [
+    { "title": "Beginner/Intermediate Surf Lesson", "images": [
+      "https://static.wixstatic.com/media/2a8d7c_4e11e2dfe8944323bd53971388f86dac~mv2.jpg",
+      "https://static.wixstatic.com/media/2a8d7c_e6e5b15f5aec4ac3879f4e5cb030b64c~mv2.jpg"
+    ] },
+    { "title": "Private Surf Lesson", "images": [
+      "https://static.wixstatic.com/media/2a8d7c_e8973183854641a1abe9c02df5afc573~mv2_d_5184_3456_s_4_2.jpg"
+    ] },
+    { "title": "Surf Tours", "images": [
+      "https://static.wixstatic.com/media/2a8d7c_c31c26f5a3884a24905da1165a43cb5a~mv2.jpg"
+    ] },
+    { "title": "Paddleboard & Turtle Tour", "images": [
+      "https://static.wixstatic.com/media/2a8d7c_de3e429e9ff0492a9e82ba1ae7f4b274~mv2_d_3680_2760_s_4_2.jpg",
+      "https://static.wixstatic.com/media/2a8d7c_50af3975ed3c47658e551bd33a9b2349~mv2_d_5184_3456_s_4_2.jpg"
+    ] },
+    { "title": "Paddleboard Beginner Lesson", "images": [
+      "https://static.wixstatic.com/media/2a8d7c_77d66807cdd848bb97ca8b60a00e3e59~mv2_d_3680_2760_s_4_2.jpg"
+    ] },
+    { "title": "Paddleboard Rentals", "images": [
+      "https://static.wixstatic.com/media/2a8d7c_50af3975ed3c47658e551bd33a9b2349~mv2_d_5184_3456_s_4_2.jpg"
+    ] },
+    { "title": "Surfboard Rentals", "images": [
+      "https://static.wixstatic.com/media/2a8d7c_d77119ef7f6b49078cad0daffda4702d~mv2.jpg"
+    ] }
+  ],
+  "notes": "Wix site; photo URLs are the full-size static.wixstatic.com originals, checked and loading. The surfboard rentals page shows maker product shots (Lost and NSP boards) and the home page has a large image from another Wix account (a3c153_ prefix); both left out. Paddleboard page photos are page backgrounds, so which photo belongs to which paddleboard product is a best guess from page order. One YouTube video embedded on the home page; no YouTube channel linked. FareHarbor pages not opened. No bot checks met."
+}

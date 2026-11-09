@@ -1,0 +1,53 @@
+{
+  "slug": "east-coast-cruises",
+  "logo": "https://www.mariaislandcruises.com.au/themes/pwj/images/pwj-homepage-logo-yellow.png",
+  "gallery": [
+    "https://www.mariaislandcruises.com.au/files/4317/9042/5358/Ile_des_Phoques.jpg",
+    "https://www.mariaislandcruises.com.au/files/3817/9042/5378/Inside_Cave_Copy_2.jpg",
+    "https://www.mariaislandcruises.com.au/files/7717/9042/5346/Entering_Cave_Copy_2.jpg",
+    "https://www.mariaislandcruises.com.au/files/9417/9042/5327/At_Bow.jpg",
+    "https://www.mariaislandcruises.com.au/files/5317/9042/5369/Inside_Cave_2.jpg",
+    "https://www.mariaislandcruises.com.au/files/3817/9042/5390/Maria_Coast_2_Copy_2.jpg",
+    "https://www.mariaislandcruises.com.au/files/5117/9042/5411/Seals.jpeg",
+    "https://www.mariaislandcruises.com.au/files/2517/9042/5401/People_in_Cave_Copy_2.jpg",
+    "https://www.mariaislandcruises.com.au/files/7417/9042/5441/Dolphins_Jumping.jpeg",
+    "https://www.mariaislandcruises.com.au/files/3417/9042/5421/Wombats_Copy_2.jpg",
+    "https://www.mariaislandcruises.com.au/files/1217/9042/1125/maria_island_boat_in_front.jpg",
+    "https://www.mariaislandcruises.com.au/files/8217/9042/5431/Page_2.jpg",
+    "https://www.mariaislandcruises.com.au/files/2617/9041/8282/header-maria-island-cruises-cave.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Cruise + Walk from Triabunna",
+      "images": [
+        "https://www.mariaislandcruises.com.au/files/4317/9042/5358/Ile_des_Phoques.jpg",
+        "https://www.mariaislandcruises.com.au/files/3817/9042/5378/Inside_Cave_Copy_2.jpg",
+        "https://www.mariaislandcruises.com.au/files/7717/9042/5346/Entering_Cave_Copy_2.jpg",
+        "https://www.mariaislandcruises.com.au/files/9417/9042/5327/At_Bow.jpg",
+        "https://www.mariaislandcruises.com.au/files/5317/9042/5369/Inside_Cave_2.jpg",
+        "https://www.mariaislandcruises.com.au/files/5117/9042/5411/Seals.jpeg",
+        "https://www.mariaislandcruises.com.au/files/3817/9042/5390/Maria_Coast_2_Copy_2.jpg",
+        "https://www.mariaislandcruises.com.au/files/2517/9042/5401/People_in_Cave_Copy_2.jpg",
+        "https://www.mariaislandcruises.com.au/files/7417/9042/5441/Dolphins_Jumping.jpeg",
+        "https://www.mariaislandcruises.com.au/files/1217/9042/1125/maria_island_boat_in_front.jpg"
+      ]
+    },
+    {
+      "title": "Full Day Tour from Hobart",
+      "images": [
+        "https://www.mariaislandcruises.com.au/files/1217/9042/1125/maria_island_boat_in_front.jpg",
+        "https://www.mariaislandcruises.com.au/files/5117/9042/5411/Seals.jpeg",
+        "https://www.mariaislandcruises.com.au/files/3817/9042/5390/Maria_Coast_2_Copy_2.jpg",
+        "https://www.mariaislandcruises.com.au/files/3417/9042/5421/Wombats_Copy_2.jpg",
+        "https://www.mariaislandcruises.com.au/files/4317/9042/5358/Ile_des_Phoques.jpg",
+        "https://www.mariaislandcruises.com.au/files/7717/9042/5346/Entering_Cave_Copy_2.jpg",
+        "https://www.mariaislandcruises.com.au/files/9417/9042/5327/At_Bow.jpg",
+        "https://www.mariaislandcruises.com.au/files/2517/9042/5401/People_in_Cave_Copy_2.jpg",
+        "https://www.mariaislandcruises.com.au/files/7417/9042/5441/Dolphins_Jumping.jpeg",
+        "https://www.mariaislandcruises.com.au/files/3817/9042/5378/Inside_Cave_Copy_2.jpg"
+      ]
+    }
+  ],
+  "notes": "The listed site eastcoastcruises.com.au redirects every path to www.mariaislandcruises.com.au (Maria Island Cruises, run by Pennicott Wilderness Journeys); all files were read from there. The site is a single page with no bot check, captcha or block. No images were downloaded, only the status and size of each file was checked, so photo content is judged from the page's own carousel and file names. Logo: the only logo on the site is the yellow Pennicott Wilderness Journeys logo from the header (a small 4 KB PNG, yellow so it may not show on a light background); there is no separate Maria Island Cruises logo and no larger version. heroImage left out: the facts file already uses the page's own header photo, header-maria-island-cruises-cave.jpg, which is also at the end of the gallery. Gallery: the eleven photos in the page's own carousel, the boat photo beside the intro text, and the header photo. Page_2.jpg is in the carousel but its file name says nothing about its content; it is a photo-sized JPEG (about 836 KB) like the others, but a person should look at it. Trip photos: both trips are tabs on the same page with no photos of their own, so each trip lists the page's photos, in a different order. Left out: Artboard_14x.png (the cruise route map graphic), the cover-*.jpg cards for the other Pennicott journeys including cover-maria-island-cruises.jpg (cards, not trip photos), maria-content-carousel-background-3.jpg (page background), boat-graphic.png and the social icons. No photo credits are shown on the page, so all are taken as the operator's own. Videos: none on the site; the footer links only to Facebook and Instagram, which are not read, and there is no YouTube or Vimeo link."
+}

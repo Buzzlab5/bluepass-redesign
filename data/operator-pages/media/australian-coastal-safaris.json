@@ -1,0 +1,76 @@
+{
+  "slug": "australian-coastal-safaris",
+  "logo": "https://australiancoastalsafaris.com.au/wp-content/uploads/2019/03/Australian-Coastal-Safaris-Logo-Stacked-72dpi.png",
+  "gallery": [
+    "https://australiancoastalsafaris.com.au/wp-content/uploads/2018/12/australian_coastal_safaris_MG_1114.webp",
+    "https://australiancoastalsafaris.com.au/wp-content/uploads/2019/03/Australian-Coastal-Safaris-Coffin-Bay-Oysters-Ocean-and-Nature-Tour-2495.webp",
+    "https://australiancoastalsafaris.com.au/wp-content/uploads/2019/03/Australian-Coastal-Safaris-Hunt-and-Gather-Experience-18042.webp",
+    "https://australiancoastalsafaris.com.au/wp-content/uploads/2019/03/australian-coastal-safaris-port-lincoln-coffin-bay-highlights-8036.webp",
+    "https://australiancoastalsafaris.com.au/wp-content/uploads/2019/03/Australian-Coastal-Safaris-Coffin-Bay-Oysters-Ocean-And-Nature-Tour-9119.webp",
+    "https://australiancoastalsafaris.com.au/wp-content/uploads/2019/03/Australian-Coastal-Safaris-Nature-and-Wildlife-Tours-0862.webp",
+    "https://australiancoastalsafaris.com.au/wp-content/uploads/2019/03/Australian-Coastal-Safaris-Exceptional-Port-Lincoln-Seafood-and-Wildlife-Tour-3589.webp",
+    "https://australiancoastalsafaris.com.au/wp-content/uploads/2019/03/Australian-Coastal-Safaris-Exceptional-Port-Lincoln-Seafood-and-Wildlife-Tour-3480.webp",
+    "https://australiancoastalsafaris.com.au/wp-content/uploads/2018/12/australian_coastal_safaris_MG_1657.webp",
+    "https://australiancoastalsafaris.com.au/wp-content/uploads/2018/12/australian_coastal_safaris_MG_1717.webp",
+    "https://australiancoastalsafaris.com.au/wp-content/uploads/2018/12/australian_coastal_safaris_MG_2515.webp",
+    "https://australiancoastalsafaris.com.au/wp-content/uploads/2019/03/Australian-Coastal-Safaris-Tailor-Made-Tours-2116-1.webp",
+    "https://australiancoastalsafaris.com.au/wp-content/uploads/2019/03/Australian-Coastal-Safaris-Getting-to-Port-Lincoln-7945.webp",
+    "https://australiancoastalsafaris.com.au/wp-content/uploads/2019/03/Australian-Coastal-Safaris-Birdwatching-on-the-Southern-EP-5A7619.webp",
+    "https://australiancoastalsafaris.com.au/wp-content/uploads/2019/03/Australian-Coastal-Safaris-Our-Tours-Outback-to-Ocean-Photography-Workshop-7659.webp",
+    "https://australiancoastalsafaris.com.au/wp-content/uploads/2022/09/20211212-DJI_0772.webp"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=87rH3NXPbjo",
+      "title": "A day out with Australian Coastal Safaris",
+      "sourceUrl": "https://australiancoastalsafaris.com.au/about/gallery/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=U1oa6Vz5VOo",
+      "title": "Australian Coastal Safaris, our story",
+      "sourceUrl": "https://australiancoastalsafaris.com.au/about/gallery/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_VA5LFewxa4",
+      "title": "Seafood, wildlife, coastal, nature and adventure",
+      "sourceUrl": "https://australiancoastalsafaris.com.au/about/gallery/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=i26ljZN-MgU",
+      "title": "Summer in Port Lincoln",
+      "sourceUrl": "https://australiancoastalsafaris.com.au/about/gallery/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yglv0NqQ2O4",
+      "title": "This is the Eyre Peninsula, South Australia",
+      "sourceUrl": "https://australiancoastalsafaris.com.au/about/gallery/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WrDOZTxdKPE",
+      "title": "Eyre Peninsula, the Wild Side",
+      "sourceUrl": "https://australiancoastalsafaris.com.au/about/gallery/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Hunt and Gather Seafood Experience",
+      "images": [
+        "https://australiancoastalsafaris.com.au/wp-content/uploads/2025/08/AustralianCoastalSafaris1221-43.webp",
+        "https://australiancoastalsafaris.com.au/wp-content/uploads/2019/03/Australian-Coastal-Safaris-Hunt-and-Gather-Experience-18042.webp",
+        "https://australiancoastalsafaris.com.au/wp-content/uploads/2019/03/Australian-Coastal-Safaris-Hunt-and-Gather-Experience-1956.jpg",
+        "https://australiancoastalsafaris.com.au/wp-content/uploads/2019/03/Australian-Coastal-Safaris-Hunt-and-Gather-Experience-1717.jpg",
+        "https://australiancoastalsafaris.com.au/wp-content/uploads/2025/08/AustralianCoastalSafaris1221-576.jpg",
+        "https://australiancoastalsafaris.com.au/wp-content/uploads/2019/03/Australian-Coastal-Safaris-Hunt-and-Gather-Experience.jpg"
+      ]
+    },
+    {
+      "title": "Coffin Bay Wild Coast & Seafood Experience",
+      "images": [
+        "https://australiancoastalsafaris.com.au/wp-content/uploads/2022/07/IMG_3832-min-scaled.webp",
+        "https://australiancoastalsafaris.com.au/wp-content/uploads/2025/08/DF358E37-B82A-4631-BBDE-FCE50F48635B.webp",
+        "https://australiancoastalsafaris.com.au/wp-content/uploads/2025/11/tuna-2.jpeg"
+      ]
+    }
+  ],
+  "notes": "No bot check, captcha or block was hit on this site. Logo: the Stacked PNG that the site's own page markup gives as the organisation logo; the header logo (Australian-Coastal-Safaris-Logo-Wide-Reverse.svg in /2018/12/) is a reverse (light on dark) version, so it was not chosen. heroImage left out: the facts file already uses the Hunt and Gather page banner, and no photo was viewed, so no better one could be judged. Gallery is general photos from the home, tours, about, gallery and tour pages that carry the operator's own name or a plain camera file name; none were opened or downloaded, and every URL was checked to load. Videos: the site's gallery page embeds twelve YouTube videos; these six are on the Australian Coastal Safaris YouTube channel that the site's page markup links (youtube.com/channel/UCue3GtTWd2SAZmUqaG7kLnA), read through its public feed. Not used: two gallery videos that are not on that channel (Tourism Australia Philausophy campaign clip and Tourism Champion), and videos about Nick Baker, whales, events, the team and electric bikes, which are also on the channel if more are wanted. LEFT OUT of photos: files named RM_Williams_Australia_In_Style_... (the site's newest photos, used as page banners; they look like a campaign shoot by another business and the site gives no credit, so confirm with the operator before use), files named SERIO-..., PETERTEAKLE_..., RobertLang_..., Tacoma_Mikaela_Frick_Photography-... and Yarnbala_Coffin_Bay_Robert-Lang_... (named photographers or other businesses), a stock photo from Unsplash on the tailor-made page, the shark cage dive photos (calypso-star-... files and Shark-... files; one credited to Calypso Star Charters), the sea lion, dolphin, whale and fishing charter photos (those trips are run by outside operators and are not listed), the Tourism Australia Philausophy still (155298-34), team portraits, the social share image FB-home-australian-coastal-safaris-eyre-peninsula.jpg (a graphic with the logo printed on it), the gift voucher graphics, and the badge and logo images for Australian Wildlife Journeys, the Eyre Peninsula Wild Side lockup, Sustainable Tourism and TripAdvisor. Photo counts per trip are low because most photos on those two trip pages are the RM Williams and named-photographer files."
+}

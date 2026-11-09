@@ -1,0 +1,151 @@
+{
+  "slug": "harbour-lights-beach-club",
+  "name": "Harbour Lights",
+  "website": "https://harbourlightsbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Carlisle Bay",
+  "category": "Beach club snorkel tours",
+  "summary": "Harbour Lights is a beach club on Carlisle Bay with loungers, umbrellas, a bar and grill, showers and changing rooms. Its tour boat, Koopa Troopa, runs short snorkel trips from the beach to a shipwreck in Carlisle Bay Marine Park and to see hawksbill and green turtles. Snorkel tours can be booked alone or with a lounger and lunch.",
+  "standouts": [
+    "Snorkel tours leave from the beach on Carlisle Bay",
+    "Four possible wreck sites, chosen to suit the swimmers",
+    "Life vest, snorkel and mask included",
+    "Showers, changing rooms and free WiFi at the beach club"
+  ],
+  "contact": {
+    "phone": "+1 246 436 7225",
+    "email": "contactus@harbourlightsbarbados.com",
+    "address": "Marine Villa, Bay Street, St Michael, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://harbourlightsbarbados.com/sites/default/files/header-images/turtle_tours_01.jpg",
+  "sourceUrls": [
+    "https://harbourlightsbarbados.com/",
+    "https://harbourlightsbarbados.com/turtle-shipwreck-snorkel-tours",
+    "https://harbourlightsbarbados.com/_noindex/book-now/turtle-shipwreck-tour",
+    "https://harbourlightsbarbados.com/beach-day-packages",
+    "https://harbourlightsbarbados.com/faqs",
+    "https://harbourlightsbarbados.com/day"
+  ],
+  "trips": [
+    {
+      "title": "Sea Turtle + Shipwreck Snorkel Tour",
+      "kind": "snorkel",
+      "summary": "A short guided snorkel by boat from the Harbour Lights beach to one of the wrecks in Carlisle Bay Marine Park, then on to see hawksbill and green turtles. The wreck is chosen to suit how confident the group is in the water, and you are brought back to the beach afterwards.",
+      "highlights": [
+        "Tours at 10:30am, 11:30am and 12:30pm; other times on request",
+        "One of four wrecks: Berwyn, C-Trek, Bajan Queen or Eillon",
+        "Hawksbill and green turtles",
+        "Life vest, snorkel and mask included"
+      ],
+      "duration": "Approx. 45 minutes (45 to 60 minutes on the tour page)",
+      "durationMinutes": 45,
+      "departureTimes": ["10:30", "11:30", "12:30"],
+      "season": null,
+      "departsFrom": "Harbour Lights beach, Carlisle Bay (Marine Villa, Bay Street, St Michael)",
+      "prices": [
+        { "label": "Per person", "amount": 25, "currency": "USD", "note": "Price at checkout and on the tour card; the description text says $35USD per person" }
+      ],
+      "priceFrom": 25,
+      "includes": ["Approx. 45 minute turtle and shipwreck snorkel tour", "Life vest", "Snorkel and mask"],
+      "bring": ["Camera"],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://harbourlightsbarbados.com/sites/default/files/header-images/turtle_tours_01.jpg",
+        "https://harbourlightsbarbados.com/sites/default/files/images/turtle_tours_descrip_img_01.png",
+        "https://harbourlightsbarbados.com/sites/default/files/images/turtle_tours_descrip_img_02.png"
+      ],
+      "bookingLinks": ["https://harbourlightsbarbados.com/_noindex/book-now/turtle-shipwreck-tour"],
+      "sourceUrl": "https://harbourlightsbarbados.com/turtle-shipwreck-snorkel-tours",
+      "checkNotes": "Price conflict: the tour card and the checkout page show $25.00 USD per person, but the description on the same pages (and on /day) says 'for just $35USD per person'; used $25. The booking page says prices change for visits from 2 November 2026. Duration is 'Approx. 45 Minute' on the booking page and '45-60 minutes' on the tour page. The FAQ lists a USD 12.50 per person beach club cover charge; it is not clear whether a tour-only ticket also needs it. No turtle feeding advertised."
+    },
+    {
+      "title": "Beach Lounger + Sea Turtle and Shipwreck Snorkel Combo",
+      "kind": "snorkel",
+      "summary": "A day on the Harbour Lights beach with your own lounger and a shared umbrella, plus the guided snorkel tour to the wrecks and turtles of Carlisle Bay. Front-row and second-row loungers can be guaranteed for a higher price.",
+      "highlights": [
+        "Personal lounger and shared umbrella for the day",
+        "Guided snorkel tour of the shipwrecks and turtles",
+        "Snorkel tour times run from 10:30am to 1:30pm",
+        "Guaranteed front-row or second-row seating available"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Harbour Lights beach, Carlisle Bay (Marine Villa, Bay Street, St Michael)",
+      "prices": [
+        { "label": "Combo with open seating, per person", "amount": 37.5, "currency": "USD", "note": null },
+        { "label": "Combo with 2nd row seating, per person", "amount": 43.5, "currency": "USD", "note": null },
+        { "label": "Combo with front row seating, per person", "amount": 50, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 37.5,
+      "includes": ["Beach lounger", "Shared umbrella", "Sea turtle and shipwreck snorkel tour", "Life vest, snorkel and mask"],
+      "bring": ["Sunblock", "Swimsuit", "Beach towel", "Camera"],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://harbourlightsbarbados.com/sites/default/files/blstsse_1.jpg",
+        "https://harbourlightsbarbados.com/sites/default/files/blstsse_2.jpg",
+        "https://harbourlightsbarbados.com/sites/default/files/blstsse_3.jpg",
+        "https://harbourlightsbarbados.com/sites/default/files/blstsse_4.jpg"
+      ],
+      "bookingLinks": ["https://harbourlightsbarbados.com/beach-day-packages"],
+      "sourceUrl": "https://harbourlightsbarbados.com/beach-day-packages",
+      "checkNotes": "Booked through the widget on the beach day packages page. Prices depend on visit date and change from 2 November 2026. Snorkel gear inclusion and the 'bring' list come from the tour page and the FAQ."
+    },
+    {
+      "title": "A Perfect Day on Carlisle Bay",
+      "kind": "snorkel",
+      "summary": "An all-in-one beach day: lounger and shared umbrella, the turtle and shipwreck snorkel tour, and lunch from the Harbour Lights grill.",
+      "highlights": [
+        "Snorkel tour to the shipwrecks and turtles",
+        "Lunch included",
+        "Lounger and shared umbrella",
+        "Snorkel tour times run from 10:30am to 1:30pm"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Harbour Lights beach, Carlisle Bay (Marine Villa, Bay Street, St Michael)",
+      "prices": [
+        { "label": "Perfect Day with open seating, per person", "amount": 54.5, "currency": "USD", "note": null },
+        { "label": "Perfect Day with 2nd row seating, per person", "amount": 60, "currency": "USD", "note": null },
+        { "label": "Perfect Day with front row seating, per person", "amount": 67, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 54.5,
+      "includes": ["Shipwreck and turtle snorkel tour", "Lunch", "Lounger", "Shared umbrella"],
+      "bring": ["Sunblock", "Swimsuit", "Beach towel", "Camera"],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://harbourlightsbarbados.com/sites/default/files/pdocb_1_0_0.jpg",
+        "https://harbourlightsbarbados.com/sites/default/files/blstsse_2_0_0.jpg",
+        "https://harbourlightsbarbados.com/sites/default/files/pdocb_2_0_0.jpg",
+        "https://harbourlightsbarbados.com/sites/default/files/pdocb_4_0_0.jpg"
+      ],
+      "bookingLinks": ["https://harbourlightsbarbados.com/beach-day-packages"],
+      "sourceUrl": "https://harbourlightsbarbados.com/beach-day-packages",
+      "checkNotes": "Booked through the widget on the beach day packages page. Prices depend on visit date and change from 2 November 2026. Lunch menu not specified."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Beach Lounger and Umbrella Experience: beach day pass with a personal lounger and shared umbrella, from USD 12.50 per person (front row USD 25, 2nd row USD 18); the snorkel tour can be added for USD 25",
+      "conditions": "Prices depend on visit date and change from 2 November 2026",
+      "validUntil": null,
+      "sourceUrl": "https://harbourlightsbarbados.com/beach-day-packages"
+    },
+    {
+      "text": "Sun, Sea & Take Off: last-day package with cruise port pick-up, secure luggage storage, lounger, shared umbrella, towel and airport transfer, from USD 102 per person; the snorkel tour can be added for USD 25",
+      "conditions": "Cruise port pick-up 8:30am to 11:30am; airport departures 11am to 5pm",
+      "validUntil": null,
+      "sourceUrl": "https://harbourlightsbarbados.com/beach-day-packages"
+    }
+  ],
+  "checkNotes": "Harbour Lights is mainly a beach club, dinner show (Wednesday and Thursday) and Friday nightclub; only the snorkel tour and the beach packages that include it are recorded as trips, and the dinner show and nightclub are left out as non-marine. Booking is online through the operator's own checkout (Drupal Ubercart pages with HubSpot forms). The site states all prices are in USD and gives $1 USD = $1.98 BBD. Marketplace listings (TripAdvisor) linked from the site were not used. The beach club page mentions cruise passengers can take a taxi from the port for about USD 5."
+}

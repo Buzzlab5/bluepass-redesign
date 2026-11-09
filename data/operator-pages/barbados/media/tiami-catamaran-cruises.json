@@ -1,0 +1,66 @@
+{
+  "slug": "tiami-catamaran-cruises",
+  "logo": "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/09/TIAMI-LOGO-CMYK-copy.png",
+  "gallery": [
+    "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/10/DJI_0826-scaled-1.jpg",
+    "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/08/Tiami_overhead_Carlisle_Bay.jpg",
+    "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/09/Turtle-012.jpg",
+    "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/09/Wreck-001.jpg",
+    "https://tiamicatamaransbarbados.com/wp-content/uploads/2025/02/DJI_20241125160055_0027_D-scaled.jpg",
+    "https://tiamicatamaransbarbados.com/wp-content/uploads/2025/02/DJI_20241125160243_0035_D-scaled.jpg",
+    "https://tiamicatamaransbarbados.com/wp-content/uploads/2025/02/DJI_20241125160351_0041_D-scaled.jpg",
+    "https://tiamicatamaransbarbados.com/wp-content/uploads/2025/02/DSC00104-scaled.jpg",
+    "https://tiamicatamaransbarbados.com/wp-content/uploads/2025/02/DSC00141-scaled.jpg",
+    "https://tiamicatamaransbarbados.com/wp-content/uploads/2025/02/DSC00164-Edit-1-scaled.jpg",
+    "https://tiamicatamaransbarbados.com/wp-content/uploads/2025/02/DSC00298-1-scaled.jpg",
+    "https://tiamicatamaransbarbados.com/wp-content/uploads/2025/02/DSC00518-scaled.jpg",
+    "https://tiamicatamaransbarbados.com/wp-content/uploads/2025/02/DSC00727-scaled.jpg",
+    "https://tiamicatamaransbarbados.com/wp-content/uploads/2024/03/Pan-Shots-1.jpeg",
+    "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/09/GOPR0704-scaled-1.jpg",
+    "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/10/DJI_0890-scaled-1.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/10/tiami-new-vid.mp4",
+      "title": "Tiami catamaran cruise film",
+      "sourceUrl": "https://tiamicatamaransbarbados.com/the-gallery/"
+    },
+    {
+      "url": "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/09/Compressed-Video.mp4",
+      "title": "Tiami cruise clip",
+      "sourceUrl": "https://tiamicatamaransbarbados.com/the-gallery/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "5 Star Lunch Cruise",
+      "images": [
+        "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/10/DJI_0843-scaled-1.jpg",
+        "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/09/File1597-2-scaled-1.jpg"
+      ]
+    },
+    {
+      "title": "Tiami at Sunset",
+      "images": [
+        "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/09/DJI_0763-1-scaled-1.jpg",
+        "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/09/P1112866-scaled-1.jpg"
+      ]
+    },
+    {
+      "title": "Pan on the Sea",
+      "images": [
+        "https://tiamicatamaransbarbados.com/wp-content/uploads/2025/02/DSC00955-Edit-scaled.jpg",
+        "https://tiamicatamaransbarbados.com/wp-content/uploads/2025/02/DSC00418-1-scaled.jpg",
+        "https://tiamicatamaransbarbados.com/wp-content/uploads/2024/03/Pan-Shots-1.jpeg"
+      ]
+    },
+    {
+      "title": "Private Charters",
+      "images": [
+        "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/10/DJI_0860-scaled-1.jpg",
+        "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/10/DJI_0826-copy.jpg"
+      ]
+    }
+  ],
+  "notes": "WordPress site, no bot checks. Each trip page has one photo; the second photo per trip is the one on its home page card, and Pan-Shots-1 is from the gallery page. The gallery page has about 50 photos (many more from 2020 and 2021 than listed here), and two self-hosted videos, both checked to load. Left out decorative PNG graphics (cc.png, output-onlinepngtools files) and a screenshot. Peek booking pages were not opened."
+}

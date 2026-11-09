@@ -1,0 +1,86 @@
+{
+  "slug": "deaction-surf-shop",
+  "logo": null,
+  "heroImage": "https://www.briantalma.pro/wp-content/uploads/2016/07/SLIDER_1.jpg",
+  "gallery": [
+    "https://www.briantalma.pro/wp-content/uploads/2016/07/SLIDER_1.jpg",
+    "https://www.briantalma.pro/wp-content/uploads/2016/07/SLIDER_2.jpg",
+    "https://www.briantalma.pro/wp-content/uploads/2015/03/deAction_World.jpg",
+    "https://www.briantalma.pro/wp-content/uploads/2015/03/deAction_World3.jpg",
+    "https://www.briantalma.pro/wp-content/uploads/2015/03/deAction_World4.jpg",
+    "https://www.briantalma.pro/wp-content/uploads/2013/07/Shop-1.jpg",
+    "https://www.briantalma.pro/wp-content/uploads/2013/07/Shop-3.jpg",
+    "https://www.briantalma.pro/wp-content/uploads/2013/07/Shop-4.jpg",
+    "https://www.briantalma.pro/wp-content/uploads/2013/07/SUP.jpg",
+    "https://www.briantalma.pro/wp-content/uploads/2013/07/Kite.jpg",
+    "https://www.briantalma.pro/wp-content/uploads/2013/07/Wind-4.jpg",
+    "https://www.briantalma.pro/wp-content/uploads/2013/07/LMS-1.jpg",
+    "https://www.briantalma.pro/wp-content/uploads/2013/09/Last_Man_Standing201210050024-temp-0011.jpg",
+    "https://www.briantalma.pro/wp-content/uploads/2013/09/12-30-pm-Parlour008.jpg",
+    "https://www.briantalma.pro/wp-content/uploads/2013/07/Brian-making-art-for-the-telephone-poles-at-deAction-Beach-Shop.jpg"
+  ],
+  "videos": [
+    { "url": "https://www.youtube.com/watch?v=1x5oHdo-9aU", "title": "Welcome to the deAction beach", "sourceUrl": "http://www.youtube.com/user/BrianTalmaPro" },
+    { "url": "https://www.youtube.com/watch?v=gcTAHlP0tsg", "title": "A story about a beach man", "sourceUrl": "http://www.youtube.com/user/BrianTalmaPro" }
+  ],
+  "trips": [
+    {
+      "title": "SUP Safari",
+      "images": [
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/SUP_1-1.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/SUP_2.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/SUP-2.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/SUP-1.jpg"
+      ]
+    },
+    {
+      "title": "Beginner Stand Up Paddling Lesson",
+      "images": [
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/SUP_1-1.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/SUP_2.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/SUP-2.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/SUP-1.jpg"
+      ]
+    },
+    {
+      "title": "Beginner Surf Lesson",
+      "images": [
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/SURFING_1.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/Surf-1.jpg"
+      ]
+    },
+    {
+      "title": "\"Riding\" package",
+      "images": [
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/SURFING_1.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/Surf-1.jpg"
+      ]
+    },
+    {
+      "title": "\"Surfer\" package",
+      "images": [
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/SURFING_1.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/Surf-1.jpg"
+      ]
+    },
+    {
+      "title": "Kitesurfing Starter package",
+      "images": [
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/KITESURFING_1.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/KITESURFING_2.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/KITESURFING_3.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/Kite-2.jpg"
+      ]
+    },
+    {
+      "title": "Beginner Windsurfing Lessons",
+      "images": [
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/WINDSURFING_1.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/Wind-4.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/Wind-1.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/Wind-2.jpg"
+      ]
+    }
+  ],
+  "notes": "No logo image on the site (the header brand is text). Photos date from 2013 to 2016. Videos are from the YouTube channel BrianTalmaPro linked in the site menu (two videos, 2013 and 2016). The /video/ page returns 404. Gallery includes event photos (Last Waterman Standing) and shop photos."
+}

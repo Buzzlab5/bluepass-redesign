@@ -1,0 +1,184 @@
+{
+  "slug": "lucky-penny-fishing-charters",
+  "name": "Lucky Penny Fishing Charters",
+  "website": "https://www.barbadosfishingcharters.net/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Sport fishing charters",
+  "summary": "Lucky Penny Fishing Charters runs inshore and offshore fishing trips from Shallow Draught in Bridgetown. Skipper and owner Danny and a local crew fish aboard a 32-foot Luhrs that takes up to six guests. Trips run from four hours of light tackle to a full day offshore, and are booked by phone or email.",
+  "standouts": [
+    "32-foot Luhrs with twin 370 HP Yanmar engines, cruising at up to 24 knots",
+    "Air-conditioned cabin, flybridge and a fighting chair",
+    "Local crew who grew up fishing these waters",
+    "All trips are fully inclusive"
+  ],
+  "contact": {
+    "phone": "+1 246 261 5475",
+    "email": "luckypennyfishing@gmail.com",
+    "address": "Shallow Draught, Bridgetown, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://static.wixstatic.com/media/e6c5d9_41e873d03da44c7d870081cb2caf494c~mv2.jpeg",
+  "sourceUrls": [
+    "https://www.barbadosfishingcharters.net/",
+    "https://www.barbadosfishingcharters.net/about",
+    "https://www.barbadosfishingcharters.net/book-now",
+    "https://www.barbadosfishingcharters.net/gallery",
+    "https://www.barbadosfishingcharters.net/contact"
+  ],
+  "trips": [
+    {
+      "title": "Four Hour Light Tackle Trip",
+      "kind": "charter",
+      "summary": "A four-hour light tackle fishing trip from Bridgetown. The captain tailors the trip to the group, and it suits beginners and families bringing children fishing for the first time.",
+      "highlights": [
+        "Light tackle fishing",
+        "Suits beginners and families with children",
+        "Up to six guests",
+        "All-inclusive"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Shallow Draught, Bridgetown",
+      "prices": [
+        { "label": "Four hour trip", "amount": 750, "currency": "USD", "note": "Shown as US$750.00; not stated whether per boat or per person" }
+      ],
+      "priceFrom": 750,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/e6c5d9_c07acbc62f36493ca0efe1e89a431e54~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.barbadosfishingcharters.net/",
+      "checkNotes": "Price is shown without saying whether it covers the boat or each person; the about page says the boat takes up to six guests. Booked by phone or email only. Site says trips are all-inclusive but does not list what is included."
+    },
+    {
+      "title": "Five Hour Wahoo/Offshore",
+      "kind": "charter",
+      "summary": "A five-hour trip trolling around the island and offshore for wahoo. It leaves from Shallow Draught in Bridgetown on the crew's 32-foot Luhrs.",
+      "highlights": [
+        "Island trolling for wahoo",
+        "Offshore fishing",
+        "Up to six guests",
+        "All-inclusive"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Shallow Draught, Bridgetown",
+      "prices": [
+        { "label": "Five hour trip", "amount": 900, "currency": "USD", "note": "Shown as US$900.00; not stated whether per boat or per person" }
+      ],
+      "priceFrom": 900,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/e6c5d9_1c4e4f7a20f64af489786e09c0b9a458~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.barbadosfishingcharters.net/",
+      "checkNotes": "Price is shown without saying whether it covers the boat or each person; the about page says the boat takes up to six guests. Booked by phone or email only."
+    },
+    {
+      "title": "Six Hour Marlin Off Shore",
+      "kind": "charter",
+      "summary": "A six-hour deep-sea trip offshore for marlin and other big game. The boat carries outriggers, downriggers, a live bait well and a fighting chair.",
+      "highlights": [
+        "Deep-sea fishing for marlin",
+        "Other targets include sailfish, tuna, mahi-mahi and swordfish",
+        "Fighting chair on board",
+        "Up to six guests"
+      ],
+      "duration": "6 hours",
+      "durationMinutes": 360,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Shallow Draught, Bridgetown",
+      "prices": [
+        { "label": "Six hour trip", "amount": 1100, "currency": "USD", "note": "Shown as US$1100.00; not stated whether per boat or per person" }
+      ],
+      "priceFrom": 1100,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/e6c5d9_a4dd47c914fd43fcb3a742fc7d1d06b7~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.barbadosfishingcharters.net/",
+      "checkNotes": "Price is shown without saying whether it covers the boat or each person; the about page says the boat takes up to six guests. Target species taken from the about page's deep-sea description. Booked by phone or email only."
+    },
+    {
+      "title": "Eight Hour Marlin Offshore",
+      "kind": "charter",
+      "summary": "An eight-hour offshore day for marlin and other big game fish. The air-conditioned cabin gives guests a cool place to rest between strikes.",
+      "highlights": [
+        "Deep-sea fishing for marlin",
+        "Other targets include sailfish, tuna, mahi-mahi and swordfish",
+        "Air-conditioned cabin",
+        "Up to six guests"
+      ],
+      "duration": "8 hours",
+      "durationMinutes": 480,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Shallow Draught, Bridgetown",
+      "prices": [
+        { "label": "Eight hour trip", "amount": 1500, "currency": "USD", "note": "Shown as US$1500.00; not stated whether per boat or per person" }
+      ],
+      "priceFrom": 1500,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/e6c5d9_138256be49c04aedb9f7be9af282cd45~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.barbadosfishingcharters.net/",
+      "checkNotes": "Price is shown without saying whether it covers the boat or each person; the about page says the boat takes up to six guests. Target species taken from the about page's deep-sea description. Booked by phone or email only."
+    },
+    {
+      "title": "Tournaments One Day Charters",
+      "kind": "charter",
+      "summary": "A one-day charter for fishing tournaments, aboard the 32-foot Luhrs from Bridgetown. Details are arranged with the skipper by phone or email.",
+      "highlights": [
+        "One-day tournament charter",
+        "32-foot Luhrs with fighting chair",
+        "Up to six guests"
+      ],
+      "duration": "One day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Shallow Draught, Bridgetown",
+      "prices": [
+        { "label": "One day charter", "amount": 2200, "currency": "USD", "note": "Shown as US$2200.00" }
+      ],
+      "priceFrom": 2200,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/e6c5d9_24199afd56b24d6088e935ea5550863b~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.barbadosfishingcharters.net/",
+      "checkNotes": "Home page lists this as 'TOURNAMENTS / ONE DAY CHARTERS' with no hours or tournament dates given. Booked by phone or email only."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Small Wix site with no booking widget; all trips are booked by phone or email. The 'MORE INFO' buttons all lead to the about page, which describes the boat but gives no per-trip detail. The about page also mentions night fishing for bonito along the West Coast and horse-eye jack in the harbour, but no price or trip is listed for it, so it is not built as a trip. Footer reads 2023; status given as active."
+}

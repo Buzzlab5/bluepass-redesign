@@ -1,0 +1,29 @@
+{
+  "slug": "ocean-adventures-phillip-island",
+  "logo": "https://oceanadventures.co/wp-content/uploads/2018/11/OA-brand-header-footer.png",
+  "gallery": [
+    "https://oceanadventures.co/wp-content/uploads/2024/12/homepage1.jpg",
+    "https://oceanadventures.co/wp-content/uploads/2023/09/oceanadventures2.jpg",
+    "https://oceanadventures.co/wp-content/uploads/2023/09/capewooli.jpg",
+    "https://oceanadventures.co/wp-content/uploads/2023/09/Oceanadventuresclose.jpg",
+    "https://oceanadventures.co/wp-content/uploads/2022/04/N8ilYJQQ-copy.jpg",
+    "https://oceanadventures.co/wp-content/uploads/2023/09/Oceanadventures.jpg",
+    "https://oceanadventures.co/wp-content/uploads/2023/09/customersoceanadventures2.jpg",
+    "https://oceanadventures.co/wp-content/uploads/2023/09/118887-56-scaled.jpg",
+    "https://oceanadventures.co/wp-content/uploads/2023/09/118986-56-scaled.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Thundercat Boat Tour",
+      "images": [
+        "https://oceanadventures.co/wp-content/uploads/2024/12/homepage1.jpg",
+        "https://oceanadventures.co/wp-content/uploads/2023/09/oceanadventures2.jpg",
+        "https://oceanadventures.co/wp-content/uploads/2023/09/capewooli.jpg",
+        "https://oceanadventures.co/wp-content/uploads/2023/09/Oceanadventuresclose.jpg",
+        "https://oceanadventures.co/wp-content/uploads/2023/09/118887-56-scaled.jpg"
+      ]
+    }
+  ],
+  "notes": "No bot check, captcha or block was met; the site answered normally throughout. Images were not downloaded or viewed, so nothing was judged by eye; each URL was only checked to resolve (headers only), and sizes come from the pages' own width and height attributes. Logo: OA-brand-header-footer.png is the site's default header and mobile logo (562 by 206); the other header logo is https://oceanadventures.co/wp-content/uploads/2018/11/OA-header.png (533 by 283, used for the light, dark and sticky headers). No heroImage given: the facts file uses homepage1.jpg (the site's own home page section background, Dec 2024); it was not viewed, so a person should check it, and no better wide photo could be identified without looking. The Thundercat has no page of its own, so its photos are the home page section photo plus the photos on the Thundercat blog post (September school holidays) and the Jet Boat Rides page. Videos: none. The site has no YouTube or Vimeo embed or link and no video file; the home page has a 'video' heading over an empty section, and the footer links only to Facebook and Instagram, which were not opened. Left out because the file name credits a shoot with another party and the site gives no credit line either way: Adrenaline-x-Ocean-Adventures-62-of-64-scaled.jpg (home page hero background), Adrenaline-x-Ocean-Adventures-43-of-64-1-scaled.jpg (unlisted /phillip-island-copy/ page) and Adrenaline-x-Ocean-Adventures-37-of-64-scaled.jpg (contact page hero background), all under /wp-content/uploads/2022/04/. A person can add these back if the operator confirms the photos are theirs. Left out as likely graphics or backgrounds, which I could not confirm without viewing them: 2022/04/Untitled-design-10.png (background of the visible Thundercat section) and Untitled-design-11.png (design exports), 2022/04/BG-contact-hero-New.png (small contact background), 2022/04/Resized-Ocean-Adventures-1.jpg (title bar background on About, Our Boats, Our Story, Phillip Island and FAQ pages), the voucher graphics voucher.png and gift-voucher-blue.png, and the favicon. Left out because they appear only in sections hidden from visitors: 2022/10/waverider-scaled-e1665637664978.jpg (Waverider section) and 2022/04/SS-dive-copy-1.jpeg (dive section). Left out as off topic or old: the two festival photos tidal.jpg and tidal1.jpg (a seafood festival stall, possibly showing other people's businesses) and the photos on the October 2021 COVID page (2018/12/ss-2.jpg, 2019/08/Photo-from-61-433-137-3207.jpg and 2019/08/Photo-from-61-433-137-32014.jpg), which are years old and may show earlier boats. Oceanadventuresclose-1.jpg is the same file as Oceanadventuresclose.jpg (same size) and was listed once. Two portrait photos are included: 118887-56-scaled.jpg (the image on the Jet Boat Rides page and the share image of the Phillip Island page) and 118986-56-scaled.jpg (the share image of the Our Story page), both 1707 by 2560."
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "tranquility-cruises",
+  "logo": "https://static.wixstatic.com/media/8878ea_7e5054c60ea6482a97804db40e6b2f29~mv2_d_3941_1957_s_2.gif",
+  "heroImage": "https://static.wixstatic.com/media/8878ea_bf2167f4a76142a38d81ffe0a289b396~mv2_d_4000_3000_s_4_2.jpg",
+  "gallery": [
+    "https://static.wixstatic.com/media/8878ea_321c168677784ff3b852b8dd81c8bdca~mv2.jpeg",
+    "https://static.wixstatic.com/media/8878ea_88768920f6824295b4020a5cbc4e23cc~mv2.jpeg",
+    "https://static.wixstatic.com/media/8878ea_8e663082736a492faee7e5c80c59ed4f~mv2.jpeg",
+    "https://static.wixstatic.com/media/8878ea_bf2167f4a76142a38d81ffe0a289b396~mv2_d_4000_3000_s_4_2.jpg",
+    "https://static.wixstatic.com/media/8878ea_a7e7ab59169e484f82a0c2b723a0d112~mv2_d_4000_3000_s_4_2.jpg",
+    "https://static.wixstatic.com/media/8878ea_b3f642551a104ebc8ec7bdf91e7e0827~mv2.jpeg",
+    "https://static.wixstatic.com/media/8878ea_2e8d10f2f537472a85b8b4f5347a3e21~mv2.jpeg",
+    "https://static.wixstatic.com/media/8878ea_987a27faee194395ba8d4b71b0bf599a~mv2.jpeg",
+    "https://static.wixstatic.com/media/8878ea_438830d7c1d745ab802d2c22c8635601~mv2.jpeg",
+    "https://static.wixstatic.com/media/8878ea_d6ea715a7847405186564d84d8f6468c~mv2.jpeg",
+    "https://static.wixstatic.com/media/8878ea_9a849a537f744971a2257b9fc462db88~mv2.jpeg",
+    "https://static.wixstatic.com/media/8878ea_9da12e7e71204aa8a0360c4d0a74ecac~mv2.jpeg",
+    "https://static.wixstatic.com/media/8878ea_1e8521e5a5e2452f9779b94fc33a285e~mv2.jpeg",
+    "https://static.wixstatic.com/media/8878ea_dc8ae5931f1f43e3be9cde57d0373256~mv2.jpeg",
+    "https://static.wixstatic.com/media/8878ea_88f21113a0c64016973165666fd3b58c~mv2.jpeg"
+  ],
+  "videos": [
+    {
+      "url": "https://video.wixstatic.com/video/8878ea_c2f556932bee41bf9236017a0dbac318/480p/mp4/file.mp4",
+      "title": "Tranquility Cruises snorkel trip",
+      "sourceUrl": "https://www.tranquilitycruises.com/copy-of-snorkel-cruises"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Turtle & Shipwreck Adventure",
+      "images": [
+        "https://static.wixstatic.com/media/8878ea_88768920f6824295b4020a5cbc4e23cc~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_8e663082736a492faee7e5c80c59ed4f~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_b3f642551a104ebc8ec7bdf91e7e0827~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_59be850457f546be913e70e2ca4fb384~mv2.png"
+      ]
+    },
+    {
+      "title": "Ultimate Snorkel & Beach Day",
+      "images": [
+        "https://static.wixstatic.com/media/8878ea_88768920f6824295b4020a5cbc4e23cc~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_8e663082736a492faee7e5c80c59ed4f~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_b3f642551a104ebc8ec7bdf91e7e0827~mv2.jpeg"
+      ]
+    },
+    {
+      "title": "Cruise Passenger Snorkel & Beach Day",
+      "images": [
+        "https://static.wixstatic.com/media/8878ea_88768920f6824295b4020a5cbc4e23cc~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_8e663082736a492faee7e5c80c59ed4f~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_b3f642551a104ebc8ec7bdf91e7e0827~mv2.jpeg"
+      ]
+    },
+    {
+      "title": "Cruise Passenger Turtle & Shipwreck",
+      "images": [
+        "https://static.wixstatic.com/media/8878ea_88768920f6824295b4020a5cbc4e23cc~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_8e663082736a492faee7e5c80c59ed4f~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_b3f642551a104ebc8ec7bdf91e7e0827~mv2.jpeg"
+      ]
+    },
+    {
+      "title": "Surf & Turf",
+      "images": [
+        "https://static.wixstatic.com/media/8878ea_88768920f6824295b4020a5cbc4e23cc~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_8e663082736a492faee7e5c80c59ed4f~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_b3f642551a104ebc8ec7bdf91e7e0827~mv2.jpeg"
+      ]
+    },
+    {
+      "title": "Explore & Discover",
+      "images": [
+        "https://static.wixstatic.com/media/8878ea_88768920f6824295b4020a5cbc4e23cc~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_8e663082736a492faee7e5c80c59ed4f~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_b3f642551a104ebc8ec7bdf91e7e0827~mv2.jpeg"
+      ]
+    },
+    {
+      "title": "Cave & Snorkel Tour",
+      "images": [
+        "https://static.wixstatic.com/media/8878ea_88768920f6824295b4020a5cbc4e23cc~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_8e663082736a492faee7e5c80c59ed4f~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_b3f642551a104ebc8ec7bdf91e7e0827~mv2.jpeg"
+      ]
+    },
+    {
+      "title": "Sunset Cruise",
+      "images": []
+    },
+    {
+      "title": "Private Charters",
+      "images": [
+        "https://static.wixstatic.com/media/8878ea_321c168677784ff3b852b8dd81c8bdca~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_9da12e7e71204aa8a0360c4d0a74ecac~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_1e8521e5a5e2452f9779b94fc33a285e~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_438830d7c1d745ab802d2c22c8635601~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_d6ea715a7847405186564d84d8f6468c~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_9a849a537f744971a2257b9fc462db88~mv2.jpeg"
+      ]
+    },
+    {
+      "title": "Three Hour Private Group Charter",
+      "images": [
+        "https://static.wixstatic.com/media/8878ea_dc8ae5931f1f43e3be9cde57d0373256~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_a7e7ab59169e484f82a0c2b723a0d112~mv2_d_4000_3000_s_4_2.jpg",
+        "https://static.wixstatic.com/media/8878ea_b3f642551a104ebc8ec7bdf91e7e0827~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_88768920f6824295b4020a5cbc4e23cc~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_8e663082736a492faee7e5c80c59ed4f~mv2.jpeg"
+      ]
+    },
+    {
+      "title": "West Coast Cruise",
+      "images": [
+        "https://static.wixstatic.com/media/8878ea_9da12e7e71204aa8a0360c4d0a74ecac~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_321c168677784ff3b852b8dd81c8bdca~mv2.jpeg",
+        "https://static.wixstatic.com/media/8878ea_bf2167f4a76142a38d81ffe0a289b396~mv2_d_4000_3000_s_4_2.jpg",
+        "https://static.wixstatic.com/media/8878ea_d6ea715a7847405186564d84d8f6468c~mv2.jpeg"
+      ]
+    }
+  ],
+  "notes": "Logo is only served as a GIF (3941x1957), no PNG or SVG found. The tour pages in the menu all share the same three gallery photos. The home page shows four Wix Video channel videos ('Turtle & Shipwreck Adventure', 'Family Review', 'The Aquaman aka The Stingray Whisperer', 'Review'), but their direct mp4 files return 403 without a token, so only the one directly hosted mp4 (title not given on the site) is recorded. The Turtle & Shipwreck Adventure page image list includes a screenshot of the walking route from the port (a map, not a photo). Left out: a turtle photo named turtleblueviator.jpg (possibly from another business), the sister company's logo, a wave graphic, route and distance map screenshots and the 2022 summer special flyer."
+}

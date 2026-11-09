@@ -1,0 +1,364 @@
+{
+  "slug": "all-sea-charters",
+  "name": "All Sea Charters",
+  "website": "https://whalewatchingcharters.com.au",
+  "rezdyAlias": "whalewatchingcharters",
+  "state": "WA",
+  "town": "Busselton",
+  "category": "Whale watching tours",
+  "summary": "Family-owned whale watching cruises from Augusta, Busselton and Dunsborough on Western Australia's south west coast, run on Whale Song, a 17 metre catamaran built for whale watching. Augusta tours run in the early part of the whale season and Busselton and Dunsborough tours in the later part. The operator also hires Whale Song for private charters and runs a summer snorkelling trip to Carnac Island from Fremantle.",
+  "standouts": [
+    "Family owned and operated, running charters in the south west since 2001",
+    "Whale Song is a 17 metre aluminium catamaran built for whale watching, with tours limited to 47 guests",
+    "Tripadvisor Travellers' Choice Awards winner 2024",
+    "Wheelchair accessible on the Busselton tour, with a boarding ramp and a viewing area on the main deck"
+  ],
+  "contact": {
+    "phone": "+61 417 794 008",
+    "email": "allseacharters@gmail.com",
+    "address": "Busselton, Western Australia"
+  },
+  "heroImage": "https://www.whalewatchingcharters.com.au/wp-content/uploads/2024/05/whale-watching-augusta-whale-song-all-sea-charters.jpg",
+  "sourceUrls": [
+    "https://www.whalewatchingcharters.com.au/",
+    "https://www.whalewatchingcharters.com.au/book-now/",
+    "https://www.whalewatchingcharters.com.au/whale-watching-augusta-tour/",
+    "https://www.whalewatchingcharters.com.au/busselton-whale-watching-tour/",
+    "https://www.whalewatchingcharters.com.au/dunsborough-whale-watching-tour/",
+    "https://www.whalewatchingcharters.com.au/swim-with-dolphins/",
+    "https://www.whalewatchingcharters.com.au/whale-watching-margaret-river/",
+    "https://www.whalewatchingcharters.com.au/busselton-charter-boat/",
+    "https://www.whalewatchingcharters.com.au/snorkelling-in-perth/",
+    "https://www.whalewatchingcharters.com.au/perth-eco-tours-and-activities/",
+    "https://www.whalewatchingcharters.com.au/recreational-skippers-ticket-rst/",
+    "https://www.whalewatchingcharters.com.au/whale-watching-gift-voucher/",
+    "https://www.whalewatchingcharters.com.au/about-us/",
+    "https://www.whalewatchingcharters.com.au/about-us/our-whale-watching-boats/",
+    "https://www.whalewatchingcharters.com.au/about-us/meet-the-all-sea-charters-crew/",
+    "https://www.whalewatchingcharters.com.au/booking-policies/",
+    "https://www.whalewatchingcharters.com.au/get-in-touch/",
+    "https://www.whalewatchingcharters.com.au/south-west-whale-watching-tours/",
+    "https://www.whalewatchingcharters.com.au/page-sitemap.xml",
+    "https://www.youtube.com/channel/UCY1tgshkbXu6WzDzgSKytkg"
+  ],
+  "trips": [
+    {
+      "title": "Augusta Whale Watching",
+      "kind": "cruise",
+      "summary": "A whale watching cruise of about two hours from Augusta Boat Harbour on Whale Song, a 17 metre catamaran built for whale watching. The crew look for Southern Right and Humpback whales migrating past Flinders Bay and talk guests through what they see. Augusta runs in the early part of the season, from May to late August.",
+      "highlights": [
+        "Departs twice daily, at 10:00 and 13:30",
+        "Whale Song has two outside viewing decks, a climate-controlled cabin and onboard toilets",
+        "Southern Right and Humpback whales on their migration",
+        "Infants aged 0 to 2 travel free"
+      ],
+      "duration": "Approximately 2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [
+        "10:00",
+        "13:30"
+      ],
+      "season": "May to late August, daily departures",
+      "departsFrom": "Boat Harbour, Leeuwin Road, Augusta",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 95,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (3 to 17 years)",
+          "amount": 55,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2 adults and 2 children)",
+          "amount": 275,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0 to 2 years)",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        }
+      ],
+      "priceFrom": 95,
+      "includes": [
+        "Commentary from the crew on whale behaviour and local marine life",
+        "Anti-nausea bracelets available on board"
+      ],
+      "bring": [
+        "Layered clothing and a windbreaker or waterproof jacket",
+        "Sturdy, non-slip closed shoes",
+        "Hat, sunglasses and sunscreen",
+        "Binoculars and a camera with a zoom lens",
+        "Water and snacks",
+        "Anti-nausea medication if you are prone to seasickness (bracelets are available on board)"
+      ],
+      "requirements": "Suitable for the whole family. No minimum age stated; infants 0 to 2 are free.",
+      "offer": {
+        "text": "Discount on lunch or dinner at Colour Patch Café Bar and Restaurant or Augusta Hotel Restaurant after your tour",
+        "conditions": "Show your booking confirmation. The discount amount is stated on the tour page.",
+        "validUntil": null
+      },
+      "images": [
+        "https://www.whalewatchingcharters.com.au/wp-content/uploads/2024/05/whale-watching-augusta-whale-song-all-sea-charters.jpg",
+        "https://www.whalewatchingcharters.com.au/wp-content/uploads/2024/05/whale-watching-augusta-mother-and-calf-all-sea-charters.jpg",
+        "https://www.whalewatchingcharters.com.au/wp-content/uploads/2024/05/whale-watching-augusta-on-board-whale-song-all-sea-charters.jpg",
+        "https://www.whalewatchingcharters.com.au/wp-content/uploads/2024/06/whale-watching-augusta-whale-breach-all-sea-charters.jpg"
+      ],
+      "bookingLinks": [
+        "https://whalewatchingcharters.rezdy.com/185534/augusta-whale-watching",
+        "https://www.whalewatchingcharters.com.au/whale-watching-augusta-tour/"
+      ],
+      "sourceUrl": "https://www.whalewatchingcharters.com.au/whale-watching-augusta-tour/",
+      "checkNotes": "Duration conflicts: the tour text, FAQ and 'Tour Details' say approximately 2 hours, the 'Trip Details' box at the foot of the page says approximately 2.5 hours; used 2 hours. Season conflicts: 'May to late August' in most places, 'May to mid-August' under 'Tour Details'; used May to late August. Child age is written as '3 to 17 years' and 'up to 17 years'; the infant price (0 to 2 years, free) is in the opening price line. The page says bookings for the 2026 season are open; check current availability before publishing. Booking: the page embeds the Rezdy product 185534 (and its calendar widget) in frames; the product link is recorded without the embed parameter and the page that carries the widget is listed second. A sighting guarantee ('come back for free') is stated on the page and is not repeated here, and the page also claims a perfect safety record. Partner dining discount amount is on the page and is left out of the copy."
+    },
+    {
+      "title": "Busselton Whale Watching",
+      "kind": "cruise",
+      "summary": "A whale watching cruise of about two and a half to three hours from Port Geographe Marina into Geographe Bay on Whale Song. Humpback and Southern Right whales are the main species, and Blue whales can also be seen. Whale Song has a boarding ramp and a wheelchair viewing area on this tour, and it runs from mid August to November.",
+      "highlights": [
+        "Departs twice daily, at 9:45 and 13:30",
+        "Wheelchair accessible, with a boarding ramp and a dedicated viewing area on the main deck",
+        "Humpback and Southern Right whales, and sometimes Blue whales",
+        "Infants aged 0 to 2 travel free"
+      ],
+      "duration": "Approximately 2.5 to 3 hours",
+      "durationMinutes": null,
+      "departureTimes": [
+        "09:45",
+        "13:30"
+      ],
+      "season": "Mid August to November, daily departures",
+      "departsFrom": "Port Geographe Marina, Busselton",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 100,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (3 to 17 years)",
+          "amount": 65,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2 adults and 2 children up to 17)",
+          "amount": 295,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0 to 2 years)",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        }
+      ],
+      "priceFrom": 100,
+      "includes": [
+        "Commentary from the crew on whale behaviour and local marine life",
+        "Anti-nausea wristbands and refreshments on board (as stated on the tour page)"
+      ],
+      "bring": [
+        "Layered clothing and a windbreaker or waterproof jacket",
+        "Sturdy, non-slip closed shoes",
+        "Hat, sunglasses and sunscreen",
+        "Binoculars and a camera with a zoom lens",
+        "Water and snacks",
+        "Anti-nausea medication if you are prone to seasickness (bracelets are available on board)"
+      ],
+      "requirements": "Suitable for the whole family. Wheelchair access is stated for the Busselton tour only; the operator asks wheelchair users to contact them in advance.",
+      "offer": {
+        "text": "Discount at Busselton Pavilion or Tonic By The Bay",
+        "conditions": "Terms and conditions apply. The discount amount is stated on the tour page.",
+        "validUntil": null
+      },
+      "images": [
+        "https://www.whalewatchingcharters.com.au/wp-content/uploads/2024/09/whale-breeches-with-spray-of-water.jpg",
+        "https://www.whalewatchingcharters.com.au/wp-content/uploads/2024/05/whale-watching-augusta-whale-song-all-sea-charters.jpg",
+        "https://www.whalewatchingcharters.com.au/wp-content/uploads/2024/05/whale-watching-augusta-mother-and-calf-all-sea-charters.jpg",
+        "https://www.whalewatchingcharters.com.au/wp-content/uploads/2024/06/whale-watching-augusta-whale-breach-all-sea-charters.jpg"
+      ],
+      "bookingLinks": [
+        "https://whalewatchingcharters.rezdy.com/185561/busselton-whale-watching",
+        "https://www.whalewatchingcharters.com.au/busselton-whale-watching-tour/"
+      ],
+      "sourceUrl": "https://www.whalewatchingcharters.com.au/busselton-whale-watching-tour/",
+      "checkNotes": "Duration: '2.5 to 3 hours' in the text and FAQ, 'approximately 2.5 hours' in the Trip Details box; the FAQ packing answer also says 'about two hours'. Season: 'mid August to November' in the intro and tour details, 'September to November' in the FAQ; used the tour details wording. Family price $295 is from the Trip Details box and the pricing line also gives adults $100, children $65 and infants free. The boats page and this page both say wheelchair access applies to this tour only. Booking: the page embeds the Rezdy product 185561 and a calendar widget in frames; the product link is recorded without the embed parameter and the page that carries the widget is listed second. A sighting guarantee ('come back for free') is stated and is not repeated here, and the page also claims a perfect safety record. The page says bookings for the 2026 season are open."
+    },
+    {
+      "title": "Dunsborough Whale Watching",
+      "kind": "cruise",
+      "summary": "A whale watching cruise of about two and a half to three hours in Geographe Bay, leaving from Geographe Bay Road in Dunsborough. Guests are taken from shore out to Whale Song by the tender Whale Tail. Humpback and Southern Right whales are the main species, and Blue whales can also be seen.",
+      "highlights": [
+        "Guests are taken from shore to Whale Song by the tender Whale Tail",
+        "Humpback and Southern Right whales, and sometimes Blue whales, in Geographe Bay",
+        "Whale Song has two outside viewing decks and a climate-controlled cabin",
+        "Infants aged 0 to 2 travel free"
+      ],
+      "duration": "Approximately 2.5 to 3 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Mid August to early December, daily departures",
+      "departsFrom": "Geographe Bay Road, Dunsborough",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 100,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (3 to 17 years)",
+          "amount": 65,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2 adults and 2 children)",
+          "amount": 295,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0 to 2 years)",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        }
+      ],
+      "priceFrom": 100,
+      "includes": [
+        "Commentary from the crew on whale behaviour and local marine life",
+        "Anti-nausea wristbands and refreshments on board (as stated on the tour page)"
+      ],
+      "bring": [
+        "Layered clothing and a windbreaker or waterproof jacket",
+        "Sturdy, non-slip closed shoes",
+        "Hat, sunglasses and sunscreen",
+        "Binoculars and a camera with a zoom lens",
+        "Water and snacks",
+        "Anti-nausea medication if you are prone to seasickness (bracelets are available on board)"
+      ],
+      "requirements": "Suitable for the whole family. Wheelchair access is stated for the Busselton tour only.",
+      "offer": {
+        "text": "Discount at Busselton Pavilion or Tonic By The Bay",
+        "conditions": "Terms and conditions apply. The discount amount is stated on the tour page.",
+        "validUntil": null
+      },
+      "images": [
+        "https://www.whalewatchingcharters.com.au/wp-content/uploads/2024/09/whale-breeches-with-spray-of-water.jpg",
+        "https://www.whalewatchingcharters.com.au/wp-content/uploads/2024/05/whale-watching-augusta-whale-song-all-sea-charters.jpg",
+        "https://www.whalewatchingcharters.com.au/wp-content/uploads/2024/05/whale-watching-augusta-mother-and-calf-all-sea-charters.jpg",
+        "https://www.whalewatchingcharters.com.au/wp-content/uploads/2024/06/whale-watching-augusta-whale-breach-all-sea-charters.jpg"
+      ],
+      "bookingLinks": [
+        "https://whalewatchingcharters.rezdy.com/248663/dunsborough-whale-watching",
+        "https://www.whalewatchingcharters.com.au/dunsborough-whale-watching-tour/"
+      ],
+      "sourceUrl": "https://www.whalewatchingcharters.com.au/dunsborough-whale-watching-tour/",
+      "checkNotes": "Departure times are not stated on the page. The departure place is given only as 'Geographe Bay Rd, Dunsborough' (a map link, no jetty name or street number); a person should confirm the exact meeting point. The tender Whale Tail is described on the boats page (about-us/our-whale-watching-boats), not on this page. Season conflicts: 'mid August to early December' in the tour details, 'mid-August to November' in the intro, 'September to early November' in the body text; used the tour details wording. Family price is written '2 adults + 2 children' here and '2 adults + 2 children up to 17' on the Busselton page. The page offers the same partner discount as Busselton (amount on the page, left out of the copy). Booking: the page embeds the Rezdy product 248663 and a calendar widget in frames; the product link is recorded without the embed parameter and the page that carries the widget is listed second. A sighting guarantee ('come back for free') is stated and is not repeated here. The page says bookings for the 2026 season are open."
+    },
+    {
+      "title": "Boat Charters",
+      "kind": "charter",
+      "summary": "Private hire of Whale Song from Busselton, Dunsborough and Bunbury for corporate events, family gatherings and celebrations. The boat carries up to 47 passengers in unprotected waters and up to 75 in protected waters, with a full kitchen, a bar area, a BBQ and a sound system. Guests can use the operator's catering partners or bring their own food and drinks.",
+      "highlights": [
+        "Two levels with full walk-around decks",
+        "Up to 47 passengers in unprotected waters, up to 75 in protected waters",
+        "Float mat and water toys on board",
+        "Two restrooms, one wheelchair accessible"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Busselton, Dunsborough and Bunbury",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Air-conditioned saloon and wheelhouse",
+        "Full kitchen facilities",
+        "Bar area with commercial fridges",
+        "Custom sound system",
+        "BBQ",
+        "Float mat and assorted water toys"
+      ],
+      "bring": [
+        "Your own food and drinks, or choose one of the operator's catering partners"
+      ],
+      "requirements": "Capacity 47 passengers in unprotected waters and up to 75 in protected waters.",
+      "offer": null,
+      "images": [
+        "https://www.whalewatchingcharters.com.au/wp-content/uploads/2024/10/All-Sea-Charters-Boat-Charter-Private-Function.jpg",
+        "https://www.whalewatchingcharters.com.au/wp-content/uploads/2024/11/All-Sea-Charters-view-of-whale-song-boat-from-above.jpg",
+        "https://www.whalewatchingcharters.com.au/wp-content/uploads/2024/11/all-sea-charters-boat-charter-group-tour.jpg",
+        "https://www.whalewatchingcharters.com.au/wp-content/uploads/2024/11/all-sea-charters-boat-charter-celebrating.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.whalewatchingcharters.com.au/busselton-charter-boat/",
+      "checkNotes": "Enquiry only: the page asks guests to phone, email or use the contact form, and shows no price, duration, departure time or booking link. The page invites bookings for the 2026/2027 season. Port list is Busselton, Dunsborough and Bunbury here; the Margaret River page mentions year-round charter options and the old Perth eco tours page (last changed 2020) describes Swan River and Rottnest charters on a different boat, Tradewinds III, which are not included. The boats page says Whale Song moves to Perth for summer snorkelling tours and private charters, so confirm where it is based in each season. The meta description mentions two boats; only Whale Song is described on the page."
+    },
+    {
+      "title": "4 Hour Adventure Tour",
+      "kind": "snorkel",
+      "summary": "A four hour boat trip from Fremantle to Carnac Island, where Australian sea lions and bottlenose dolphins live, with swimming and snorkelling around the island. It runs in summer and leaves at 8:30am from Sardine Jetty.",
+      "highlights": [
+        "Carnac Island, home to Australian sea lions, bottlenose dolphins and seabirds",
+        "Swimming and snorkelling in the waters around the island",
+        "Departs 8:30am from Sardine Jetty, Fremantle"
+      ],
+      "duration": "Approximately 4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": "January and April",
+      "departsFrom": "Sardine Jetty, Fremantle",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.whalewatchingcharters.com.au/wp-content/uploads/2020/06/6605-copy-1.jpg",
+        "https://www.whalewatchingcharters.com.au/wp-content/uploads/elementor/thumbs/IMG_1201-scaled-pb42pecrkt1o5fxupzwg0j3ngk2r649lujhxbw04o0.jpg"
+      ],
+      "bookingLinks": [
+        "https://whalewatchingcharters.rezdy.com/355260/4-hour-adventure-tour"
+      ],
+      "sourceUrl": "https://www.whalewatchingcharters.com.au/snorkelling-in-perth/",
+      "checkNotes": "This is the least current trip. The snorkelling page's search description still reads 'tours start Jan 4 - Mar 31 2020', and the old Perth eco tours page (last changed 2020) names a different departure point (Fremantle Fishing Boat Harbour). The page text says the boat is Tradewinds III while the newer boats page says Whale Song moves to Perth for summer snorkelling tours. Details come from the home page block (when 'January and April', depart 8:30am, where 'Fremantle, Sardine Jetty', duration approximately 4 hours); the wording 'January and April' probably means January to April but is copied as written. No price, inclusions or age rules are on the site; they sit in the Rezdy booking system, which was not opened. The booking policy still has a section for snorkel adventure tours (refund or reschedule more than 7 days out, nothing within 7 days). The search description mentions a BBQ and a visitor review mentions lunch; neither is stated on the page itself so no inclusions are recorded. Confirm with the operator that the trip is running this season. The page's own photo is a muted looping video file (see media notes)."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Whale watching gift vouchers in Adult, Child and Family versions (Family covers 2 adults and 2 children up to 17)",
+      "conditions": "For whale watching tours departing Augusta, Busselton or Dunsborough between May and December. Voucher prices are not shown on the gift voucher page.",
+      "validUntil": null,
+      "sourceUrl": "https://www.whalewatchingcharters.com.au/whale-watching-gift-voucher/"
+    },
+    {
+      "text": "Discount on lunch or dinner at Colour Patch Café Bar and Restaurant or Augusta Hotel Restaurant after an Augusta tour",
+      "conditions": "Show your booking confirmation. The discount amount is stated on the tour page.",
+      "validUntil": null,
+      "sourceUrl": "https://www.whalewatchingcharters.com.au/whale-watching-augusta-tour/"
+    },
+    {
+      "text": "Discount at Busselton Pavilion or Tonic By The Bay with a Busselton or Dunsborough tour",
+      "conditions": "Terms and conditions apply. The discount amount is stated on the tour pages.",
+      "validUntil": null,
+      "sourceUrl": "https://www.whalewatchingcharters.com.au/busselton-whale-watching-tour/"
+    }
+  ],
+  "checkNotes": "The site answered normally throughout; no captcha or bot check was met. Whale watching, charters and the snorkel trip are the operator's own; the Rezdy account (whalewatchingcharters) is the operator's own and no rezdy.com or fareharbor.com page was opened. Each whale tour page embeds its own Rezdy product in a frame, and /book-now/ embeds the whole Rezdy tour catalog (catalog 155360), which was not opened, so any product that exists only in Rezdy is not captured. Phone is shown on the site as 0417 794 008. The email address is displayed through the site's email protection and was decoded from it; the footer gives only 'Busselton, Western Australia' as an address. Town is set to Busselton as the base; tours also leave from Augusta and Dunsborough. Left out as not the operator's own sea trips: (1) Swim with Dolphins and Dolphin Eco Cruise in Koombana Bay, Bunbury, which the swim-with-dolphins page says are offered by the Dolphin Discovery Centre and sold through a FareHarbor affiliate link (https://fareharbor.com/embeds/book/dolphindiscoverycentre/?ref=asn&asn=allseacharters-affiliate-aud&asn-ref=asn&full-items=yes), recorded here and not opened; its photos look like that business's and were left out of the media file. (2) Recreational Skippers Ticket (RST) training and assessing, $325 including government fees and boat hire, with assessing at Port Geographe Marina; a licence course rather than a sea trip, a person may want to add it as a course. (3) The old Perth eco tours page (last changed 2020) lists Carnac Island, Rottnest Island and Swan River cruises, private charters and corporate events on Tradewinds III and points to a sister site (perthswancruise.com.au) which was not read. (4) The whale-watching-margaret-river page repeats the three whale tours and adds nothing separate. (5) Educational tours for schools and groups are mentioned on the about and crew pages with no details. Gift vouchers are sold through Rezdy (catalog 583643; Adult product 317582, Child 659110, Family 659107) and are listed under offers. Prices are Australian dollars (the site shows only '$'). Home page says 'Tours starting from $65', which matches no current price (lowest child fare is $55, lowest adult fare is $95). The south-west-whale-watching-tours page still carries 2025 season wording and older vessel details (a second boat called Santosha, 52 ft, up to 23 passengers) that the current boats page does not mention. Booking policy (booking-policies page): for whale tours, full refund or reschedule more than 7 days out, a cancellation charge between 7 days and 48 hours, nothing within 48 hours, and the operator may change departure place or time slightly. Sighting guarantees ('see whales or go again for free'), a perfect safety record and Tripadvisor ranking claims appear throughout and are not repeated as fact; the Dolphin Discovery Centre page also states sighting and in-water success rates. Today's date is mid October 2026: Augusta (May to August) is out of season, and Busselton and Dunsborough are in season."
+}

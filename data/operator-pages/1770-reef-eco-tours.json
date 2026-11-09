@@ -1,0 +1,21 @@
+{
+  "slug": "1770-reef-eco-tours",
+  "name": "1770 Reef Eco Tours",
+  "website": "https://1770reef.com.au",
+  "rezdyAlias": null,
+  "state": "QLD",
+  "town": null,
+  "category": null,
+  "summary": null,
+  "standouts": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "address": null
+  },
+  "heroImage": null,
+  "sourceUrls": [],
+  "trips": [],
+  "offers": [],
+  "checkNotes": "BLOCKED, no facts collected. The first and only request, to https://1770reef.com.au/, returned HTTP 403 with a Cloudflare 'Just a moment...' browser check page (challenge-platform script, noindex). The site resolved normally, so this is not a DNS problem. Per the research rules no further request was made to this site: no retry, no other pages, no sitemap or robots file, no caches or archives. The one request was a plain curl call with a custom research user agent string (not a browser string). Nothing on this file was read from the operator's site, so trips, prices, times, contact details, photos and the Rezdy alias are all empty or null. Our list describes the operator as an all-inclusive Lady Musgrave lagoon reef snorkel day tour, but that is unverified and has not been copied into any field. A person needs to read the site in a normal browser, or get the details from the operator directly, before this page can be prepared."
+}

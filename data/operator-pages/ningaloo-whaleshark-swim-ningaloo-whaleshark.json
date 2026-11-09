@@ -1,0 +1,377 @@
+{
+  "slug": "ningaloo-whaleshark-swim-ningaloo-whaleshark",
+  "name": "Ningaloo Whaleshark Swim",
+  "website": "https://www.ningaloowhalesharks.com",
+  "rezdyAlias": "ningaloowhalesharks",
+  "state": "WA",
+  "town": "Exmouth",
+  "category": "Whale shark swim tours",
+  "summary": "Ningaloo Whaleshark Swim runs full day whale shark swims out of Exmouth, a humpback whale swim tour from August, and a lower priced ecotour from mid September. Guests are picked up from Exmouth accommodation and taken by bus to Tantabiddi boat ramp to board the vessel Seazone. The company flies its own spotter plane to help find the animals.",
+  "standouts": [
+    "Owns and flies its own spotter plane, a Cessna 182, for its tours",
+    "EcoStar and Sustainable Tourism accreditations through the Australian Tourism Industry Council",
+    "Passenger to crew ratio stated as less than 3 to 1",
+    "Tour vessel Seazone is a 19 metre Conquest boat"
+  ],
+  "contact": {
+    "phone": "+61 497 005 692",
+    "email": "info@ningaloowhalesharks.com",
+    "address": "Shop 4, 1 Kennedy Street, Exmouth WA 6707"
+  },
+  "heroImage": "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/P1144105-1-e1705998054656.jpg",
+  "sourceUrls": [
+    "https://www.ningaloowhalesharks.com/",
+    "https://www.ningaloowhalesharks.com/whale-shark-tour-price/",
+    "https://www.ningaloowhalesharks.com/humpback-whale-tour-prices/",
+    "https://www.ningaloowhalesharks.com/ningaloo-ecotour-prices/",
+    "https://www.ningaloowhalesharks.com/book-online/",
+    "https://www.ningaloowhalesharks.com/whale-shark-tours/whale-shark-tour-exmouth/",
+    "https://www.ningaloowhalesharks.com/whale-shark-tours/tour-overview-itinerary/",
+    "https://www.ningaloowhalesharks.com/whale-shark-tours/whale-shark-tour-essential-info/",
+    "https://www.ningaloowhalesharks.com/whale-shark-tours/is-whale-shark-tour-right-for-me/",
+    "https://www.ningaloowhalesharks.com/whale-shark-tours/best-time-to-swim-with-whale-sharks-ningaloo/",
+    "https://www.ningaloowhalesharks.com/whale-shark-tours/scuba-diving-on-whale-shark-tour/",
+    "https://www.ningaloowhalesharks.com/whale-shark-tours/whale-shark-tour-guarantee/",
+    "https://www.ningaloowhalesharks.com/humpbackwhale-tours/humpback-whale-wonder-tour/",
+    "https://www.ningaloowhalesharks.com/humpbackwhale-tours/tour-overview-itinerary/",
+    "https://www.ningaloowhalesharks.com/humpbackwhale-tours/humpback-whale-wonder-tour-right-for-me/",
+    "https://www.ningaloowhalesharks.com/humpbackwhale-tours/best-time-swim-humpback-whales/",
+    "https://www.ningaloowhalesharks.com/humpbackwhale-tours/essential-tour-info/",
+    "https://www.ningaloowhalesharks.com/exmouth-diving/",
+    "https://www.ningaloowhalesharks.com/exmouth-diving/tryscuba/",
+    "https://www.ningaloowhalesharks.com/exmouth-diving/refresher-dive/",
+    "https://www.ningaloowhalesharks.com/exmouth-diving/navy-pier/",
+    "https://www.ningaloowhalesharks.com/exmouth-diving/muiron-islands/",
+    "https://www.ningaloowhalesharks.com/exmouth-diving/lighthouse-bay-ningaloo-reef/",
+    "https://www.ningaloowhalesharks.com/gift-vouchers/",
+    "https://www.ningaloowhalesharks.com/gift-vouchers/book-online/",
+    "https://www.ningaloowhalesharks.com/faq/",
+    "https://www.ningaloowhalesharks.com/contact-us/",
+    "https://www.ningaloowhalesharks.com/about-ningaloo-whaleshark-swim/",
+    "https://www.ningaloowhalesharks.com/our-boat-bus-plane-shop/our-boat/",
+    "https://www.ningaloowhalesharks.com/our-boat-bus-plane-shop/our-spotter-plane/",
+    "https://www.ningaloowhalesharks.com/video-gallery/",
+    "https://www.ningaloowhalesharks.com/gallery/",
+    "https://www.ningaloowhalesharks.com/tour-photos/",
+    "https://www.ningaloowhalesharks.com/photo-archive/",
+    "https://www.ningaloowhalesharks.com/whale-watchers-welcome",
+    "https://www.ningaloowhalesharks.com/hire-the-boat"
+  ],
+  "trips": [
+    {
+      "title": "Whale Shark Swim Wonder Tour",
+      "kind": "swim",
+      "summary": "A full day boat trip from Exmouth to swim with whale sharks on the Ningaloo Reef. Guests are collected from their accommodation by bus, board the vessel Seazone at Tantabiddi boat ramp, and snorkel the reef before and after the search for a whale shark. The company flies its own spotter plane, and each swim group has an in-water guide.",
+      "highlights": [
+        "Own spotter plane flown for the company's tours",
+        "Free pickup and drop off from Exmouth accommodation",
+        "Two reef snorkels, with morning tea, lunch and afternoon tea",
+        "Optional scuba dive in the lagoon after the swim: certified fun dive, Try SCUBA or refresher"
+      ],
+      "duration": "Full day, around 7.00am to 4.30pm",
+      "durationMinutes": null,
+      "departureTimes": [
+        "07:00"
+      ],
+      "season": "March 15 to mid or late October",
+      "departsFrom": "Tantabiddi boat ramp, Exmouth (free bus pickup from Exmouth accommodation from 7:00am)",
+      "prices": [
+        {
+          "label": "Peak season, Adult",
+          "amount": 690,
+          "currency": "AUD",
+          "note": "WA April and July school holidays (April 10th to 25th and July 3rd to 25th)"
+        },
+        {
+          "label": "Peak season, Senior",
+          "amount": 670,
+          "currency": "AUD",
+          "note": "WA April and July school holidays (April 10th to 25th and July 3rd to 25th)"
+        },
+        {
+          "label": "Peak season, Child 6-16 years",
+          "amount": 650,
+          "currency": "AUD",
+          "note": "WA April and July school holidays (April 10th to 25th and July 3rd to 25th)"
+        },
+        {
+          "label": "Main season, Adult",
+          "amount": 660,
+          "currency": "AUD",
+          "note": "March 27th to August 31st, excluding the April and July school holidays"
+        },
+        {
+          "label": "Main season, Senior",
+          "amount": 640,
+          "currency": "AUD",
+          "note": "March 27th to August 31st, excluding the April and July school holidays"
+        },
+        {
+          "label": "Main season, Child 6-16 years",
+          "amount": 620,
+          "currency": "AUD",
+          "note": "March 27th to August 31st, excluding the April and July school holidays"
+        },
+        {
+          "label": "Shoulder season, Adult",
+          "amount": 630,
+          "currency": "AUD",
+          "note": "March 15th to March 26th and September 1st to October 15th"
+        },
+        {
+          "label": "Shoulder season, Senior",
+          "amount": 615,
+          "currency": "AUD",
+          "note": "March 15th to March 26th and September 1st to October 15th"
+        },
+        {
+          "label": "Shoulder season, Child 6-16 years",
+          "amount": 600,
+          "currency": "AUD",
+          "note": "March 15th to March 26th and September 1st to October 15th"
+        },
+        {
+          "label": "Observer accompanying a swimmer",
+          "amount": 290,
+          "currency": "AUD",
+          "note": "Observer ticket, does not swim"
+        },
+        {
+          "label": "Observer not accompanying a swimmer",
+          "amount": 350,
+          "currency": "AUD",
+          "note": "Observer ticket, does not swim"
+        },
+        {
+          "label": "Child observer under 6",
+          "amount": 50,
+          "currency": "AUD",
+          "note": "Observer ticket, does not swim"
+        },
+        {
+          "label": "Family (2 adults, 2 children)",
+          "amount": 2260,
+          "currency": "AUD",
+          "note": "Season not stated on the price page"
+        },
+        {
+          "label": "Tour photos package, per person",
+          "amount": 50,
+          "currency": "AUD",
+          "note": "Optional extra. Includes all photos and a priority photo of you next to the whale shark"
+        }
+      ],
+      "priceFrom": 630,
+      "includes": [
+        "Full day boat trip with free pickup and drop off in an air-conditioned bus from every major accommodation in Exmouth town and central pickup points",
+        "Own spotter plane to look for whale sharks and whales",
+        "In-water support from the crew, with an in-water guide for each swim group",
+        "Snorkel gear (masks, snorkels, fins and suits) and flotation devices",
+        "Two snorkels on the Ningaloo Reef, and a chance to swim with manta rays",
+        "Whale and dolphin watching in season",
+        "One free photo from the tour, or buy the photo package from the onboard photographer",
+        "Morning tea, lunch and afternoon tea, with tea, coffee, cordial and water, and a glass of champagne or beer to finish",
+        "All government fees, taxes and charges",
+        "Free snorkel gear hire during your stay in Exmouth"
+      ],
+      "bring": [
+        "Swimwear, a towel, sun protection (hat, sunglasses, shirt) and something to cover up if it is cooler",
+        "Wallet or credit card if you want to upgrade to a dive or buy the photo package",
+        "Seasickness tablets from a pharmacy if you think you may need them",
+        "Optional: your own camera (no flash or selfie sticks; large camera set-ups can create drag in the water)"
+      ],
+      "requirements": "Swimmers must be able to swim independently in the open ocean. Children 6 to 16 book as child swimmers; children under 6 are usually not permitted to swim unless a parent can vouch they are confident in the open ocean. Children under 12 must be directly supervised by a parent or guardian at all times. The licence allows 20 swimmers a day. Every guest signs a waiver to enter the water. The vessel and bus are not wheelchair accessible (a small boat transfers guests to the vessel), so contact the company before booking. Scuba add-on: certified divers need proof of certification and a dive in the last 12 months.",
+      "offer": null,
+      "images": [
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2024/04/whale-shark-swimming.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/P1144105-1-e1705998054656.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/P1122103-1-e1705998073607.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2021/05/P1100368-1-e1705998121646.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.ningaloowhalesharks.com/book-online/"
+      ],
+      "sourceUrl": "https://www.ningaloowhalesharks.com/whale-shark-tours/whale-shark-tour-exmouth/",
+      "checkNotes": "Prices from the Whale Shark Tour Price page, shown with a $ sign and no currency code; AUD assumed. The peak season dates carry no year, and the family price has no season stated. Senior price is for guests not working full time or holding a senior's card (suitability page). The photo package ($50 per person) is from the essential information page. Season end date differs between pages: mid October, mid to late October, October 31, while the price page's shoulder season ends October 15. Times: bus pickups start 7:00am, the vessel leaves Tantabiddi about 8:30am, the itinerary has the boat back at Tantabiddi at 2:30pm and guests in town from 3 to 5pm, and the price page says around 4.30pm; the site says times vary and the tour is not 10 hours long, so no duration in minutes is given. The humpback page names two booking products ('Whale shark Swim + Wonder Tour | March - July' and 'Whale shark (then Whale!) Wonder Tour | August - September'), so the widget may hold more than one product for this trip; not opened. Scuba add-ons (certified fun dive, Try SCUBA, refresher) are added as an Extra in the booking widget or arranged on board and have no price on the site; maximum depth is given as 5 to 7 metres, 6 metres and 7 metres on different pages. A deposit option and a card surcharge are described on the essential information page. Sold through the Rezdy catalog widget embedded on the book-online page (section anchor #whale-shark-tours); no per-trip link, widget not opened. The site makes sighting claims and guarantees (a high sighting rate, more sightings than other operators from a 13 year study, a partial refund or free return if no whale shark is seen, seasickness and good swim guarantees); none are repeated here."
+    },
+    {
+      "title": "Humpback Whale Wonder Tour",
+      "kind": "swim",
+      "summary": "A full day boat trip from Exmouth to attempt an in-water swim with humpback whales, run from August 1 each year. The spotter plane stays up for the whole tour, and the pilot and skipper check each pod before a group is put in the water. Swimmers need to be confident open-ocean snorkellers, and whale watcher tickets let others watch from the deck and join the reef snorkels.",
+      "highlights": [
+        "Own spotter plane in the air for the whole tour",
+        "Pods are checked for undersized calves before any swim, and the whales choose whether to interact",
+        "Swimmers swim to the whales from the boat, often 200 metres or more",
+        "Whale watcher tickets for guests who stay on deck, with reef snorkels included"
+      ],
+      "duration": "Full day, around 7.00am to 4.30pm",
+      "durationMinutes": null,
+      "departureTimes": [
+        "07:00"
+      ],
+      "season": "August 1 to at least September 30",
+      "departsFrom": "Tantabiddi boat ramp, Exmouth (free bus pickup from Exmouth accommodation from 7:00am)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 600,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child 6-16 years",
+          "amount": 550,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2 adults, 2 children)",
+          "amount": 2000,
+          "currency": "AUD",
+          "note": "Limited availability. Marked with an asterisk on the price page"
+        },
+        {
+          "label": "Observer accompanying a swimmer",
+          "amount": 250,
+          "currency": "AUD",
+          "note": "Observer ticket, does not swim. Marked with an asterisk on the price page"
+        },
+        {
+          "label": "Whale watcher only",
+          "amount": 300,
+          "currency": "AUD",
+          "note": "Observer ticket, does not swim. Marked with an asterisk on the price page"
+        },
+        {
+          "label": "Child observer under 6",
+          "amount": 50,
+          "currency": "AUD",
+          "note": "Observer ticket, does not swim. Marked with an asterisk on the price page"
+        }
+      ],
+      "priceFrom": 600,
+      "includes": [
+        "Full day boat trip with free pickup and drop off in an air-conditioned bus from every major accommodation in Exmouth town and central pickup points",
+        "Own spotter plane to look for whale sharks and whales",
+        "In-water support from the crew, with an in-water guide for each swim group",
+        "Snorkel gear (masks, snorkels, fins and suits) and flotation devices",
+        "Two snorkels on the Ningaloo Reef, and a chance to swim with manta rays",
+        "Whale and dolphin watching in season",
+        "One free photo from the tour, or buy the photo package from the onboard photographer",
+        "Morning tea, lunch and afternoon tea, with tea, coffee, cordial and water, and a glass of champagne or beer to finish",
+        "All government fees, taxes and charges"
+      ],
+      "bring": [
+        "Swimwear, a towel, sun protection (hat, sunglasses, shirt) and something to cover up if it is cooler",
+        "Wallet or credit card if you want to upgrade to a dive or buy the photo package",
+        "Seasickness tablets from a pharmacy if you think you may need them",
+        "Optional: your own camera (no flash or selfie sticks; large camera set-ups can create drag in the water)"
+      ],
+      "requirements": "Swimmers must be good snorkellers, able to swim 200 metres in the open ocean in mask, fins, snorkel and wetsuit without help, and to follow guide directions straight away. Children aged 6 to 16 pay the child price, but children under 13 are not usually permitted to swim unless a parent can vouch they are confident, independent snorkellers. The crew may ask a swimmer to sit out if they cannot keep up with the group. Every guest signs a waiver to enter the water. Whale watchers and observers do not need to swim to the whales.",
+      "offer": null,
+      "images": [
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2024/01/DSC03345-1.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2024/01/DSC02955.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2024/01/DSC03238.jpg",
+        "https://www.ningaloowhalesharks.com/wp-content/uploads/2023/12/DSC04554-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.ningaloowhalesharks.com/book-online/"
+      ],
+      "sourceUrl": "https://www.ningaloowhalesharks.com/humpbackwhale-tours/humpback-whale-wonder-tour/",
+      "checkNotes": "Prices from the Humpback Whale Tour Prices page, shown with a $ sign and no currency code; AUD assumed. The asterisks on the family, observer, whale watcher only and child observer prices are not explained on the page. The page heading says 'Whales Season' with no dates; the best time page says tours commence August 1 and continue until at least September 30, and the page names the product 'Whale shark (then Whale!) Wonder Tour | August - September'. Times and inclusions are the same day plan as the whale shark tour (bus pickup from 7:00am, vessel leaves Tantabiddi about 8:30am); no duration in minutes given. The site says it offers no sighting guarantee for this tour and that whales choose whether to interact; not repeated as a promise. The suitability page says discounts are available for booking both tours but gives no amount. Whale watching is also linked from the home page as 'Whale Watching Tours', which redirects to the humpback suitability page, so it is captured here as the whale watcher only price option. Sold through the Rezdy catalog widget embedded on the book-online page (section anchor #humpback-whale); no per-trip link, widget not opened."
+    },
+    {
+      "title": "Ningaloo Ecotour",
+      "kind": "tour",
+      "summary": "A lower priced full day boat trip from mid September to October 31, with reef snorkels and the chance to swim with a whale shark, humpback whale or manta ray. A swim with a whale shark or humpback whale is added for $50, and is charged only if you actually get in the water with one.",
+      "highlights": [
+        "Runs mid September to October 31 only",
+        "Whale shark or humpback whale swim added for $50, only charged if you swim",
+        "Multiple snorkels on the Ningaloo Reef",
+        "Free pickup and drop off from select accommodation"
+      ],
+      "duration": "Full day, around 7.00am to 4.30pm",
+      "durationMinutes": null,
+      "departureTimes": [
+        "07:00"
+      ],
+      "season": "Mid September to October 31",
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 465,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Senior",
+          "amount": 440,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child",
+          "amount": 415,
+          "currency": "AUD",
+          "note": "Age range not stated on the page"
+        },
+        {
+          "label": "Child observer",
+          "amount": 40,
+          "currency": "AUD",
+          "note": "Observer ticket, does not swim"
+        },
+        {
+          "label": "Upgrade to swim with a whale shark or humpback whale, add-on",
+          "amount": 50,
+          "currency": "AUD",
+          "note": "Charged only if you actually enter the water to swim with one"
+        }
+      ],
+      "priceFrom": 465,
+      "includes": [
+        "Own spotter plane",
+        "Free pickup and drop off from select accommodation",
+        "In-water support",
+        "Multiple snorkels on the Ningaloo Reef",
+        "Food served throughout (dietary needs catered for if advised at booking)",
+        "Briefings on whale sharks, the Ningaloo and its marine life",
+        "Sunscreen and sea sickness aids (not medication)",
+        "Snorkel gear, stinger suits and wetsuits",
+        "Choice of the best photo of your day from the onboard photographer"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://www.ningaloowhalesharks.com/book-online/"
+      ],
+      "sourceUrl": "https://www.ningaloowhalesharks.com/ningaloo-ecotour-prices/",
+      "checkNotes": "Described only on the Ningaloo Ecotour Prices page (no dedicated tour page); the inclusions list is the same list shown on the other price pages. Price page does not say AUD or give a child age range, and the season has no year. Departure point and start time are not stated for this tour; the 7:00am start and Full day wording come from the shared inclusions list on this page ('Full day boat-trip from around 7.00am ~ 4.30pm'), and the departure point is left blank. Check that the ecotour is a separate product from the whale shark tour, and what it actually covers, before publishing. Sold through the Rezdy catalog widget embedded on the book-online page (section anchor #ecotours); no per-trip link, widget not opened. The page has no photos of its own (only a page banner, left out)."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers for the whale shark swim, the humpback whale wonder tour, or a voucher for an amount you choose",
+      "conditions": "Valid for the current ticket price and redeemable for three years. All vouchers include a printable PDF gift certificate.",
+      "validUntil": null,
+      "sourceUrl": "https://www.ningaloowhalesharks.com/gift-vouchers/"
+    },
+    {
+      "text": "Discounts for booking both the whale shark tour and the humpback whale tour",
+      "conditions": "No amount or conditions stated on the page",
+      "validUntil": null,
+      "sourceUrl": "https://www.ningaloowhalesharks.com/humpbackwhale-tours/humpback-whale-wonder-tour-right-for-me/"
+    },
+    {
+      "text": "Free snorkel gear hire during your stay in Exmouth",
+      "conditions": "Listed as a tour inclusion for guests on a tour",
+      "validUntil": null,
+      "sourceUrl": "https://www.ningaloowhalesharks.com/whale-shark-tours/tour-overview-itinerary/"
+    }
+  ],
+  "checkNotes": "Name: the live site uses 'Ningaloo Whaleshark Swim' (page titles also use 'Whale Sharks Exmouth'); our list has '(Ningaloo Whalesharks)'. The site does not redirect to another business's domain. Booking: one Rezdy catalog widget is embedded on the book-online page (iframe from ningaloowhalesharks.rezdy.com, catalog 23602), reached from every tour page's 'Book Online Now' button with section anchors #whale-shark-tours, #humpback-whale and #ecotours, so each trip lists that page as its booking link; rezdy.com was not opened, so widget prices, times and products were not checked. A second widget for gift vouchers is on the gift-vouchers book-online page (catalog 513734). Left out as not trips the company runs and describes: the Navy Pier, Muiron Islands and Lighthouse Bay dive trips (the pages say the company helps organise them with another provider; the Navy Pier page notes a Defence surcharge of $50 per person); 'Hire the Whole Boat' (the home page link /hire-the-boat returns a 404, so there are no details or prices); the scuba dive extras on the whale shark tour (certified fun dive, Try SCUBA, refresher), which are add-ons without prices on the site and are mentioned in the whale shark trip. 'Whale Watching Tours' on the home page redirects to the humpback suitability page, so whale watching is covered as a price option on the humpback tour. Contact: phone is the mobile shown across the site. The email info@ningaloowhalesharks.com was read from the contact page, where the site hides it with Cloudflare email protection; the essential information pages also give info@experiencewonder.com.au for urgent after-hours enquiries, and the dive page shows a second phone number (9949 4777). The office at Shop 4, 1 Kennedy Street is open seven days a week from 9am to 5:30pm. Prices on every page show a $ sign with no currency code, so AUD is assumed. Terms and conditions and the cancellation policy were not read. The site makes sighting claims and guarantees (sighting rates, a 13 year study, no sighting refund, good swim and seasickness guarantees); none are repeated as fact in the page copy. Fetching: the site answered with an occasional 520 error on a first request that worked on retry; no captcha or bot check was met. About 40 pages read, so some minor pages (Our Bus, Our Shop, trip planner, awards, safety pages, testimonials) were not."
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "prestige-catamaran",
+  "name": "Prestige Catamaran",
+  "website": "https://www.prestigecatamaran.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Catamaran charters",
+  "summary": "Prestige Catamaran sails a 75 foot Fountaine Pajot Tahiti 75S catamaran and has run tours in Martinique, St. Lucia and Barbados. Its website lists a Bridgetown contact address but shows no Barbados tours at present.",
+  "standouts": [
+    "Tahiti 75S catamaran, 75 feet long, built by Fountaine Pajot"
+  ],
+  "contact": {
+    "phone": "+1 246 832 1786",
+    "email": "reservations@prestigecatamaran.com",
+    "address": "Shallow Draught, Bridgetown, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": null,
+  "sourceUrls": [
+    "https://www.prestigecatamaran.com/",
+    "https://www.prestigecatamaran.com/tours/barbados/",
+    "https://www.prestigecatamaran.com/shop/",
+    "https://www.prestigecatamaran.com/sitemap/",
+    "https://www.prestigecatamaran.com/rentals-2/",
+    "https://www.prestigecatamaran.com/contact-us/",
+    "https://www.prestigecatamaran.com/about-us/",
+    "https://www.prestigecatamaran.com/our-boat/",
+    "https://www.prestigecatamaran.com/tours/specialevents/",
+    "https://www.prestigecatamaran.com/cuisine-menus/",
+    "https://www.prestigecatamaran.com/cancellation-policy/",
+    "https://www.prestigecatamaran.com/events/",
+    "https://www.prestigecatamaran.com/events/list/?tribe_event_display=past"
+  ],
+  "trips": [],
+  "offers": [],
+  "checkNotes": "Looks closed: the Barbados tours page (last modified 24 Dec 2021) lists no tours; the shop says No products were found; the events calendar shows nothing for October 2026 and its most recent past event is 11 Sep 2022 (earlier events are Martinique and St. Lucia trips from Dec 2018); the Events page says no special event is scheduled; the newest page change anywhere is the menus page on 20 Nov 2023 and no image upload on the pages read is newer than April 2021; the site's SSL certificate expired on 11 Jul 2025 (pages were read over HTTPS without certificate checking). The footer copyright reads 2026, which is likely automatic. Still on the site: a Rentals page with a Basic 4 Hour charter package (captain and deckhands, premium sound system, fully stocked bar, lunch menu by Chef Creig, no price, island not stated) taken by inquiry form, and a contact page giving Shallow Draught, Bridgetown, Barbados, phone and WhatsApp +1 246-832-1786, and email info@www.prestigecatamaran.com, which looks malformed (the cancellation policy uses reservations@prestigecatamaran.com). The batch lists the alias Barbados Prestige Tours with email info@barbadosprestigetours.com and an address at Newton Plantation, Christ Church; that domain may be the current Barbados business but it is not the given website and was not opened."
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "lucky-penny-fishing-charters",
+  "logo": null,
+  "gallery": [
+    "https://static.wixstatic.com/media/e6c5d9_41e873d03da44c7d870081cb2caf494c~mv2.jpeg",
+    "https://static.wixstatic.com/media/e6c5d9_e00ca3a4bcea4c2ca59c9d56d9d1cf06~mv2.jpg",
+    "https://static.wixstatic.com/media/e6c5d9_fc0daf0ebb5140c585d56f4777991eab~mv2.jpg",
+    "https://static.wixstatic.com/media/e6c5d9_97dfcc95ce03465e8479ad8de4b3311e~mv2.jpg",
+    "https://static.wixstatic.com/media/e6c5d9_d98fc0938bfb46bc90fcd591ced724a5~mv2.jpg",
+    "https://static.wixstatic.com/media/e6c5d9_eaefeedd9690437bb70bea1359752ce0~mv2.jpg",
+    "https://static.wixstatic.com/media/e6c5d9_b49e0bf5e6194100b508014f5455487a~mv2.jpg",
+    "https://static.wixstatic.com/media/e6c5d9_ea4b29ea717240058315e2af10ec2735~mv2.jpg",
+    "https://static.wixstatic.com/media/e6c5d9_8afd44381e79406da405b841b94df3dd~mv2.jpg",
+    "https://static.wixstatic.com/media/e6c5d9_706255cc3844457d82a8ecb2d912c54b~mv2.jpeg",
+    "https://static.wixstatic.com/media/e6c5d9_1c0551213357432e9d8b9f4f0ae68770~mv2.jpeg",
+    "https://static.wixstatic.com/media/e6c5d9_5118695f691646bea05ab0213ffed269~mv2.jpeg",
+    "https://static.wixstatic.com/media/e6c5d9_d608defe3ef242ebbea335d66f4d9af6~mv2.jpeg",
+    "https://static.wixstatic.com/media/e6c5d9_9176ed9691f245b7bfda856b377f0703~mv2.jpeg",
+    "https://static.wixstatic.com/media/e6c5d9_f5ddcd4061e94cc887d21eb0aa51aad8~mv2.jpg",
+    "https://static.wixstatic.com/media/e6c5d9_be1634cebd314d9f8e048bed347d0170~mv2.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://video.wixstatic.com/video/e6c5d9_46c2b623663c4ed39586d2569ff41854/1080p/mp4/file.mp4",
+      "title": "Lucky Penny background video",
+      "sourceUrl": "https://www.barbadosfishingcharters.net/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Four Hour Light Tackle Trip",
+      "images": ["https://static.wixstatic.com/media/e6c5d9_c07acbc62f36493ca0efe1e89a431e54~mv2.jpeg"]
+    },
+    {
+      "title": "Five Hour Wahoo/Offshore",
+      "images": ["https://static.wixstatic.com/media/e6c5d9_1c4e4f7a20f64af489786e09c0b9a458~mv2.jpeg"]
+    },
+    {
+      "title": "Six Hour Marlin Off Shore",
+      "images": ["https://static.wixstatic.com/media/e6c5d9_a4dd47c914fd43fcb3a742fc7d1d06b7~mv2.jpeg"]
+    },
+    {
+      "title": "Eight Hour Marlin Offshore",
+      "images": ["https://static.wixstatic.com/media/e6c5d9_138256be49c04aedb9f7be9af282cd45~mv2.jpeg"]
+    },
+    {
+      "title": "Tournaments One Day Charters",
+      "images": ["https://static.wixstatic.com/media/e6c5d9_24199afd56b24d6088e935ea5550863b~mv2.jpeg"]
+    }
+  ],
+  "notes": "Wix site. The header logo is text, not an image, so logo is null. No YouTube or Vimeo links on the site (the footer social icons point to Wix's own accounts). The only video is the home page background clip, a portrait 608x1080 file hosted on Wix. Trips have no pages of their own; each trip image is the one shown beside it on the home page. The four 035244_ PNGs on every page are the phone, email and social icons and are left out."
+}

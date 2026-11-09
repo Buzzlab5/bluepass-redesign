@@ -1,0 +1,165 @@
+{
+  "slug": "clear-kayaks-barbados",
+  "name": "Clear Kayaks Barbados",
+  "website": "https://www.clearkayaksbarbados.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Carlisle Bay",
+  "category": "Clear kayak tours",
+  "summary": "Guided paddles and rentals in clear-hulled kayaks, so you can see the reef and wrecks under you as you go. Tours leave from Harbour Lights on Carlisle Bay and from Holetown on the west coast, and each ends with a rum punch on the beach.",
+  "standouts": [
+    "Completely clear 'glass bottom' kayaks",
+    "Guided tours over three shipwrecks in Carlisle Bay and the coral reefs of Folkestone Marine Park",
+    "Rentals at Carlisle Bay and west coast spots including Batts Rock, Paynes Bay, Holetown, Gibbs and Six Mens Bay",
+    "Complimentary rum punch on the beach after each tour"
+  ],
+  "contact": {
+    "phone": "+1 246 238 8470",
+    "email": "clearkayaksbarbados@gmail.com",
+    "address": "Carlisle Bay, St. Michael, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://static.wixstatic.com/media/ac253a_a4761cf8da994d35ac4fb8a78f680a94~mv2.jpg",
+  "sourceUrls": [
+    "https://www.clearkayaksbarbados.com/",
+    "https://www.clearkayaksbarbados.com/tours",
+    "https://www.clearkayaksbarbados.com/service-page/carlisle-bay-shipwreck-tour-1",
+    "https://www.clearkayaksbarbados.com/service-page/folkestone-marine-park-coral-reef-tour",
+    "https://www.clearkayaksbarbados.com/service-page/private-sunset-tour",
+    "https://www.clearkayaksbarbados.com/rentals",
+    "https://www.clearkayaksbarbados.com/sales",
+    "https://www.clearkayaksbarbados.com/gallery",
+    "https://www.clearkayaksbarbados.com/contact-6"
+  ],
+  "trips": [
+    {
+      "title": "Carlisle Bay Shipwreck Tour",
+      "kind": "kayak",
+      "summary": "A guided paddle from Harbour Lights across Carlisle Bay in a clear kayak. You stop first where green and hawksbill turtles are often seen, then cross three shipwrecks lying close to shore while the guide tells how each one sank. The tour ends back on the beach with a rum punch.",
+      "highlights": [
+        "Starts at Harbour Lights, Carlisle Bay",
+        "Area where green sea turtles and hawksbill turtles are regularly spotted",
+        "Three shipwrecks sunk close to shore, with their history",
+        "Complimentary rum punch on the beach"
+      ],
+      "duration": "1 hr 15 min",
+      "durationMinutes": 75,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Harbour Lights, Carlisle Bay, Bridgetown, Barbados",
+      "prices": [
+        { "label": "Tour", "amount": 55, "currency": "USD", "note": "Shown as 55 US dollars; the page does not say whether this is per person" }
+      ],
+      "priceFrom": 55,
+      "includes": ["Complimentary rum punch on the beach"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/ac253a_a1804432982e4e85ad06600b12682fb8~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_6d2550f7636a44e6976e7e916e251c9c~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_8fd426e1c6a84631b87b7b756f186f7c~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_75530701f796435699178a62a49fa514~mv2.jpg"
+      ],
+      "bookingLinks": ["https://www.clearkayaksbarbados.com/booking-calendar/carlisle-bay-shipwreck-tour-1"],
+      "sourceUrl": "https://www.clearkayaksbarbados.com/service-page/carlisle-bay-shipwreck-tour-1",
+      "checkNotes": "Price basis (per person or per booking) not stated. Cancellation policy on the page: contact at least 24 hours before the booking to avoid charges. Departure times only appear inside the Wix booking calendar."
+    },
+    {
+      "title": "Folkestone Marine Park Coral Reef Tour",
+      "kind": "kayak",
+      "summary": "A west coast paddle in a clear kayak over the coral reefs of Folkestone Marine Park, a protected marine reserve. The tour also passes a small shipwreck before heading back to the beach for a rum punch.",
+      "highlights": [
+        "Paddles over coral reefs in Folkestone Marine Park, a protected marine reserve",
+        "Visits a small shipwreck on the west coast",
+        "Complimentary rum punch on the beach"
+      ],
+      "duration": "Duration Varies",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Calma Beach Club, Holetown Beach, First Street, Holetown, Barbados",
+      "prices": [
+        { "label": "Tour", "amount": 55, "currency": "USD", "note": "Shown as 55 US dollars; the page does not say whether this is per person" }
+      ],
+      "priceFrom": 55,
+      "includes": ["Complimentary rum punch on the beach"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/ac253a_a4761cf8da994d35ac4fb8a78f680a94~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_e9cc71aa95884a45a5cfca64e0b60d6d~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_6f328f2c2cf843ec9b0148acb773331b~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_b2683170a4454891b930a20429fe07e9~mv2.jpg"
+      ],
+      "bookingLinks": ["https://www.clearkayaksbarbados.com/booking-calendar/folkestone-marine-park-coral-reef-tour"],
+      "sourceUrl": "https://www.clearkayaksbarbados.com/service-page/folkestone-marine-park-coral-reef-tour",
+      "checkNotes": "Price basis (per person or per booking) not stated. The description says the tour sets off from Surfside beach; the contact block on the same page gives Calma Beach Club, Holetown Beach, First Street, Holetown, which was used for departsFrom."
+    },
+    {
+      "title": "Private Sunset Tour",
+      "kind": "kayak",
+      "summary": "An evening paddle in a clear kayak along the Carlisle Bay coast as the sun sets. It leaves from Harbour Lights on Bay Street and finishes on the beach with a rum punch.",
+      "highlights": [
+        "Evening paddle at sunset in Carlisle Bay",
+        "Leaves from Harbour Lights, Bay Street",
+        "Complimentary rum punch on the beach"
+      ],
+      "duration": "1 hr 15 min",
+      "durationMinutes": 75,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Harbour Lights Barbados, Bay Street, Bridgetown, Barbados",
+      "prices": [
+        { "label": "Tour", "amount": 55, "currency": "USD", "note": "Shown as 55 US dollars; the page does not say whether this is per person" }
+      ],
+      "priceFrom": 55,
+      "includes": ["Complimentary rum punch on the beach"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/ac253a_ff683baee6c94a02ac6edb7c370c2c15~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_3e496e174b384235b6262d22a4f4a039~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_a5afc5644c90494db0febb6c9d10119f~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_07bf5e48adc348daa26db15b477624c7~mv2.jpg"
+      ],
+      "bookingLinks": ["https://www.clearkayaksbarbados.com/booking-calendar/private-sunset-tour"],
+      "sourceUrl": "https://www.clearkayaksbarbados.com/service-page/private-sunset-tour",
+      "checkNotes": "Titled 'Private' but priced at the same 55 US dollars as the group tours, with no statement of whether that is per person or per private group. Check before showing as a private charter."
+    },
+    {
+      "title": "Double Kayak Rental",
+      "kind": "kayak",
+      "summary": "Rent a clear double kayak for an hour, two hours or a full day and paddle on your own. Rentals run from Carlisle Bay and several west coast beaches, and kayaks can be dropped off and collected at locations around the island.",
+      "highlights": [
+        "Up to 1 hour, up to 2 hours or a full day",
+        "Available at Carlisle Bay and west coast spots including Batts Rock, Paynes Bay, Holetown, Gibbs and Six Mens Bay",
+        "Kayaks can be dropped off and picked up at various locations"
+      ],
+      "duration": "up to 1 hr, up to 2 hrs or 1 day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Carlisle Bay, or west coast locations including Batts Rock, Paynes Bay, Holetown, Gibbs and Six Mens Bay",
+      "prices": [
+        { "label": "Double kayak, up to 1 hr", "amount": 40, "currency": "USD", "note": "Per double kayak" },
+        { "label": "Double kayak, up to 2 hrs", "amount": 60, "currency": "USD", "note": "Per double kayak" },
+        { "label": "Double kayak, 1 day", "amount": 130, "currency": "USD", "note": "Per double kayak" }
+      ],
+      "priceFrom": 40,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": ["https://static.wixstatic.com/media/ac253a_6269dfdda2e34db5925ad83af30c1df4~mv2.png"],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.clearkayaksbarbados.com/rentals",
+      "checkNotes": "Booked by phone (+1 246 238 8470) or the contact form. Prices are per double kayak, not per person."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Footer still reads (c) 2019, but the Wix booking services were updated in October 2025, so the business looks to be trading. The site also sells clear double kayaks (US$1499, can be shipped worldwide), not included as a trip. No WhatsApp link on the site."
+}

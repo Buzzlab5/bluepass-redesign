@@ -1,0 +1,245 @@
+{
+  "slug": "el-tigre-cruises",
+  "name": "El Tigre Cruises Ltd",
+  "website": "https://eltigrecruises.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Catamaran cruises",
+  "summary": "El Tigre runs two sailing catamarans, El Tigre and El Tigre II, along the west coast from Bridgetown. Each cruise stops twice to snorkel, once with sea turtles and once over shipwrecks, and drinks and snorkel gear come with every trip. The boats are licensed for 50 but carry no more than 36 guests.",
+  "standouts": [
+    "Two sailing catamarans, 60 feet long and 24 feet wide",
+    "Licensed for 50 passengers, cruises limited to 36",
+    "Transport to and from the dock for south and west coast locations",
+    "Children welcome, no age limit"
+  ],
+  "contact": {
+    "phone": "+1 246 417 7245",
+    "tollFree": "1 (866) 365-9488",
+    "email": null,
+    "address": "Cavans Lane, Bridgetown, St. Michael, Barbados W.I."
+  },
+  "heroImage": "https://eltigrecruises.com/images/Slide1_BG.jpg",
+  "sourceUrls": [
+    "https://eltigrecruises.com/",
+    "https://eltigrecruises.com/pages/Cruises.php",
+    "https://eltigrecruises.com/pages/Prices.php",
+    "https://eltigrecruises.com/pages/Reservations.php",
+    "https://eltigrecruises.com/pages/FAQ.php",
+    "https://eltigrecruises.com/pages/ContactUs.php",
+    "https://eltigrecruises.com/pages/TermsAndConditions.php",
+    "https://eltigrecruises.com/pages/PrivateGetQuote.php"
+  ],
+  "trips": [
+    {
+      "title": "5-Hour Turtle & Shipwreck with Lunch",
+      "kind": "cruise",
+      "summary": "A five hour sail along the west coast with two snorkel stops, one with sea turtles and one over shipwrecks full of tropical fish. A third stop is for lunch on board and a swim, with time to swim to the beach, before sailing back to Bridgetown.",
+      "highlights": [
+        "Two 45 minute snorkel stops, turtles and shipwrecks",
+        "Lunch on board at a third stop",
+        "Option to swim to the beach",
+        "Limited to 36 passengers"
+      ],
+      "duration": "5 Hours",
+      "durationMinutes": 300,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Bridgetown",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 110,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Adult",
+          "amount": 220,
+          "currency": "BBD",
+          "note": "Same price shown in Barbados dollars"
+        },
+        {
+          "label": "Children under 12 years",
+          "amount": 60,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Children under 12 years",
+          "amount": 120,
+          "currency": "BBD",
+          "note": "Same price shown in Barbados dollars"
+        }
+      ],
+      "priceFrom": 110,
+      "includes": [
+        "Transportation to and from our dock (for south and west coast locations)",
+        "Breakfast beverages and special coconut bread",
+        "Snorkeling and safety gear",
+        "Unlimited drinks",
+        "Lunch on board",
+        "Lots of shade"
+      ],
+      "bring": [],
+      "requirements": "Children allowed, no age limit",
+      "offer": null,
+      "images": [
+        "https://eltigrecruises.com/images/LunchOnETIIUnderRoof.jpg",
+        "https://eltigrecruises.com/images/Reservation/TurtlePic.jpg"
+      ],
+      "bookingLinks": [
+        "https://eltigrecruises.rezdy.com/26221/5-hour-turtle-shipwreck-with-lunch"
+      ],
+      "sourceUrl": "https://eltigrecruises.com/pages/Cruises.php",
+      "checkNotes": "Departure time for this cruise is not stated on the site. Departure point given only as Bridgetown ('cruise back to Bridgetown'); the dock is not named. Title taken from the Reservations page; the Cruises page shows it as a heading image."
+    },
+    {
+      "title": "3 Hour Turtle, Shipwreck Snorkel & Sail",
+      "kind": "cruise",
+      "summary": "A shorter morning sail along the west coast, leaving the dock at 10:00 and back at 13:00. You swim and snorkel with sea turtles and then over shipwrecks with tropical fish. The operator suggests it for families with small children.",
+      "highlights": [
+        "Leaves 10:00, back 13:00",
+        "Snorkel with turtles and over shipwrecks",
+        "Suited to families with small children",
+        "Limited to 36 passengers"
+      ],
+      "duration": "3 Hours",
+      "durationMinutes": 180,
+      "departureTimes": [
+        "10:00"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 85,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Adult",
+          "amount": 170,
+          "currency": "BBD",
+          "note": "Same price shown in Barbados dollars"
+        },
+        {
+          "label": "Children under 12 years",
+          "amount": 50,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Children under 12 years",
+          "amount": 100,
+          "currency": "BBD",
+          "note": "Same price shown in Barbados dollars"
+        }
+      ],
+      "priceFrom": 85,
+      "includes": [
+        "Transportation to and from our dock (for south and west coast locations)",
+        "Breakfast beverages and special coconut bread",
+        "Snorkeling and safety gear",
+        "Unlimited drinks",
+        "Lots of shade"
+      ],
+      "bring": [],
+      "requirements": "Children allowed, no age limit",
+      "offer": null,
+      "images": [
+        "https://eltigrecruises.com/images/TurtleCruisePic1.jpg",
+        "https://eltigrecruises.com/images/Reservation/ShipwreckPic.jpg"
+      ],
+      "bookingLinks": [
+        "https://eltigrecruises.rezdy.com/26286/3-hour-turtle-shipwreck-snorkel-sail"
+      ],
+      "sourceUrl": "https://eltigrecruises.com/pages/Cruises.php",
+      "checkNotes": "Departure point given only as 'the dock'. The sunset cruise departs from Bridgetown and the 5-hour cruise sails back to Bridgetown, so this is likely the same dock, but the site does not say so for this cruise."
+    },
+    {
+      "title": "Sunset Turtle & Shipwreck Snorkel",
+      "kind": "cruise",
+      "summary": "An evening sail from Bridgetown at 15:30 with snorkel stops over the shipwrecks and with sea turtles. The crew serve canapés and Prosecco as the boat sails the coast through sunset. It runs on Tuesdays and Thursdays and takes up to 18 guests.",
+      "highlights": [
+        "Departs Bridgetown 15:30",
+        "Runs on Tuesdays and Thursdays",
+        "Prosecco and canapés on board",
+        "Limited to 18 passengers"
+      ],
+      "duration": "3 Hours",
+      "durationMinutes": 180,
+      "departureTimes": [
+        "15:30"
+      ],
+      "season": null,
+      "departsFrom": "Bridgetown",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 100,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Adult",
+          "amount": 200,
+          "currency": "BBD",
+          "note": "Same price shown in Barbados dollars"
+        }
+      ],
+      "priceFrom": 100,
+      "includes": [
+        "Transportation to and from our dock (for south and west coast locations)",
+        "Prosecco and canapés",
+        "Snorkeling and safety gear",
+        "Unlimited drinks",
+        "Lots of shade"
+      ],
+      "bring": [],
+      "requirements": "Children allowed, no age limit",
+      "offer": null,
+      "images": [
+        "https://eltigrecruises.com/images/GirlsOnETIIRoof.jpg",
+        "https://eltigrecruises.com/images/Reservation/DSCF0762_1.jpg"
+      ],
+      "bookingLinks": [
+        "https://eltigrecruises.rezdy.com/26335/sunset-turtle-shipwreck-snorkel"
+      ],
+      "sourceUrl": "https://eltigrecruises.com/pages/Cruises.php",
+      "checkNotes": "No child price shown for this cruise. The Cruises page says Prosecco, the Reservations page says sparkling wine. Operates Tuesdays and Thursdays only, per the Cruises page."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "Charter one of the catamarans for your own group, for a birthday, wedding, anniversary or company event. Charters run for at least three hours and are planned with the crew.",
+      "highlights": [
+        "Whole catamaran for your group",
+        "Minimum 3 hours",
+        "Corporate events, birthdays, weddings and anniversaries"
+      ],
+      "duration": "Minimum 3 Hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://eltigrecruises.com/images/BeachPickUpElTigreII.jpg",
+        "https://eltigrecruises.com/images/Reservation/ElTigreII.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://eltigrecruises.com/pages/Cruises.php",
+      "checkNotes": "Contact us for pricing. Enquiry only, through the Private Charter Inquiry form at https://eltigrecruises.com/pages/PrivateGetQuote.php. Departure point not stated for charters."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "No email address is published; the site uses contact and enquiry forms. The home and FAQ footers give #28 Prior Park Terrace, St. James, while the Contact Us page gives Cavans Lane, Bridgetown, St. Michael; used the Contact Us page. The FAQ says a deposit is required to book and is refundable with more than 48 hours notice, less a non-refundable handling fee. Prices shown in both US$ and BBD$; both recorded. Still trading: Rezdy booking links live on the site and copyright runs to 2025. The site's Terms and Conditions prohibit automated data gathering; only 8 pages were read, one at a time. The site also links to TripAdvisor and Facebook (not opened)."
+}

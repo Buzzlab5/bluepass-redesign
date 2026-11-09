@@ -1,0 +1,27 @@
+{
+  "slug": "dreams-catamaran-cruises",
+  "logo": "https://dreamscatamaranbarbados.com/uploads/logo-6a8914e635059.png",
+  "gallery": [
+    "https://dreamscatamaranbarbados.com/images/g3.jpg",
+    "https://dreamscatamaranbarbados.com/images/g2.jpg",
+    "https://dreamscatamaranbarbados.com/images/g9.jpg",
+    "https://dreamscatamaranbarbados.com/uploads/cms/6a890043e7e19.jpg",
+    "https://dreamscatamaranbarbados.com/images/g7.jpg",
+    "https://dreamscatamaranbarbados.com/images/g13.jpg",
+    "https://dreamscatamaranbarbados.com/images/g4.jpg",
+    "https://dreamscatamaranbarbados.com/images/g1.jpg",
+    "https://dreamscatamaranbarbados.com/uploads/cms/6a89078b5ae22.jpg",
+    "https://dreamscatamaranbarbados.com/uploads/cms/6a89135e876a2.png",
+    "https://dreamscatamaranbarbados.com/uploads/cms/6a890043e7e3a.jpg",
+    "https://dreamscatamaranbarbados.com/uploads/cms/6a89081d1d5a5.jpg",
+    "https://dreamscatamaranbarbados.com/uploads/cms/6a8908e7c709d.webp",
+    "https://dreamscatamaranbarbados.com/images/carlisle-bay.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    { "title": "The Lunch Cruise", "images": ["https://dreamscatamaranbarbados.com/uploads/cruises/6a890d06bde5e.jpg"] },
+    { "title": "Sunset Cruise", "images": ["https://dreamscatamaranbarbados.com/uploads/cruises/6a890d62f0565.jpg"] },
+    { "title": "Private Charters", "images": ["https://dreamscatamaranbarbados.com/uploads/cruises/6a8910f021df2.png"] }
+  ],
+  "notes": "No videos found on the site. Each trip page has a single photo. Two images referenced in the pages (/images/large.jpg and /images/tours-and-events.jpg) return 404 and were left out. No bot checks met."
+}

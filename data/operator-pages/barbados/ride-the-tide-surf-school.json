@@ -1,0 +1,219 @@
+{
+  "slug": "ride-the-tide-surf-school",
+  "name": "Ride The Tide Surf School",
+  "website": "https://ridethetidebarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Freights Bay",
+  "category": "Surf school and board rental",
+  "summary": "Ride The Tide is a surf school and board rental shop across the road from Freights Bay on the south coast, where the waves are gentle and the bottom is sandy. It started in 2012 as a mobile school run from a van and now has its own shop with showers, changing rooms and lockers. Coaches are in the water with you, with no more than four surfers each.",
+  "standouts": [
+    "Founded in 2012",
+    "Surf shop directly opposite Freights Bay, with changing rooms, freshwater showers and lockers",
+    "No more than four surfers per coach",
+    "Rental boards from NSP, BIC, Walden and Takayama"
+  ],
+  "contact": {
+    "phone": "+1 246 234 2361",
+    "email": "info@ridethetidebarbados.com",
+    "address": "Enterprise Coast Road, Enterprise, Christ Church, BB17133, Barbados",
+    "whatsapp": "https://wa.me/12462342361"
+  },
+  "heroImage": "https://ridethetidebarbados.com/sites/default/files/images/barbados-surf-school%20(1)(1).jpg",
+  "sourceUrls": [
+    "https://ridethetidebarbados.com/",
+    "https://ridethetidebarbados.com/book-now",
+    "https://ridethetidebarbados.com/book-now/group-surf-lessons",
+    "https://ridethetidebarbados.com/book-now/1-2-1-surf-lessons",
+    "https://ridethetidebarbados.com/book-now/private-2-surfers",
+    "https://ridethetidebarbados.com/book-now/private-group-surfing",
+    "https://ridethetidebarbados.com/book-now/surfboard-rental",
+    "https://ridethetidebarbados.com/about-ride-the-tide-surf-school",
+    "https://ridethetidebarbados.com/contact-us"
+  ],
+  "trips": [
+    {
+      "title": "Group Surf Lessons",
+      "kind": "course",
+      "summary": "A small group surf lesson at Freights Bay for beginners and early intermediates, with up to four surfers per coach. It opens with a short beach brief, then coaches stay in the water with you to help pick and catch waves.",
+      "highlights": [
+        "Up to 4 surfers per coach",
+        "Three lessons every day in the winter season, November to Easter",
+        "Coaches in the water with you",
+        "Shower, changing room and kit locker at the shop"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": ["07:00", "09:30", "13:45"],
+      "season": null,
+      "departsFrom": "Ride The Tide surf shop, Freights Bay",
+      "prices": [
+        { "label": "Group surf lesson", "amount": 168, "currency": "BBD", "note": null },
+        { "label": "Group surf lesson (US dollar price shown)", "amount": 84, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 168,
+      "includes": ["Surfboard", "Rash-guard (loan)", "Beach brief and coaching", "Surf coaches in the water with you", "Fresh shower", "Changing room and bathroom", "Secure kit locker"],
+      "bring": ["Sunblock", "A towel", "Boardshorts or bathing suit", "Rash-guard if you have your own", "Reef booties (not essential)"],
+      "requirements": "Must be able to swim and be confident in the sea; non-swimmers must learn to swim first. Minimum age 16 for the open group lesson; under 16s join a private lesson.",
+      "offer": null,
+      "images": [
+        "https://ridethetidebarbados.com/sites/default/files/product-images/frame-05-07-2018-13-43-01.jpeg",
+        "https://ridethetidebarbados.com/sites/default/files/product-images/img_0146.jpg",
+        "https://ridethetidebarbados.com/sites/default/files/product-images/img_4657_21.jpg"
+      ],
+      "bookingLinks": [
+        "https://ridethetidebarbados.com/book-now/choose-your-date?oid=1"
+      ],
+      "sourceUrl": "https://ridethetidebarbados.com/book-now/group-surf-lessons",
+      "checkNotes": "Duration worked out from the stated session times (0700-0900, 0930-1130, 1345-1545), which are given for the winter season (Nov-Easter); summer times not stated. Price shown as $168.00 BBD ($84.00 US); the page does not say per person, though the lesson offer refers to lesson spaces. priceFrom is the BBD figure. Surfboard inclusion is from the About page FAQ."
+    },
+    {
+      "title": "Private 2 surfers",
+      "kind": "course",
+      "summary": "A private surf lesson for two people with one instructor, suited to couples, friends or a parent and child. It follows the same format as the group lesson at Freights Bay, with in-water coaching on catching and riding waves.",
+      "highlights": [
+        "Two surfers and one instructor",
+        "Suits couples, friends or parent and child",
+        "Open to under 16s"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Ride The Tide surf shop, Freights Bay",
+      "prices": [
+        { "label": "Private lesson for 2 surfers", "amount": 458, "currency": "BBD", "note": null },
+        { "label": "Private lesson for 2 surfers (US dollar price shown)", "amount": 229, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 458,
+      "includes": ["Rash-guard (loan)", "Beach brief and coaching", "Surf coach in the water with you", "Fresh shower", "Changing room and bathroom", "Secure kit locker", "Free RTT sticker"],
+      "bring": ["Sunblock", "A towel", "Boardshorts or bathing suit", "Rash-guard if you have your own", "Reef booties (not essential)"],
+      "requirements": "Must be able to swim and be confident in the sea; non-swimmers must learn to swim first. Surfers under 12 always need a personal 1-2-1 coach.",
+      "offer": null,
+      "images": [
+        "https://ridethetidebarbados.com/sites/default/files/product-images/surf-class.jpg"
+      ],
+      "bookingLinks": [
+        "https://ridethetidebarbados.com/book-now/choose-your-date?oid=66"
+      ],
+      "sourceUrl": "https://ridethetidebarbados.com/book-now/private-2-surfers",
+      "checkNotes": "Duration not stated on this page. Price is for the private session for two; priceFrom is the BBD figure."
+    },
+    {
+      "title": "1-2-1 Surf Lessons",
+      "kind": "course",
+      "summary": "One surfer and one coach, with feedback after every wave. Aimed at improving surfers who want to work on turns and wave selection, though beginners can book it too.",
+      "highlights": [
+        "Your coach's full attention",
+        "Feedback after every wave you ride",
+        "Suits intermediates working on turns",
+        "Required for surfers under 12"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Ride The Tide surf shop, Freights Bay",
+      "prices": [
+        { "label": "1-2-1 surf lesson", "amount": 318, "currency": "BBD", "note": null },
+        { "label": "1-2-1 surf lesson (US dollar price shown)", "amount": 159, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 318,
+      "includes": ["Rash-guard (loan)", "Beach brief and coaching", "Surf coach in the water with you", "Fresh shower", "Changing room and bathroom", "Secure kit locker", "Free RTT sticker"],
+      "bring": ["Sunblock", "A towel", "Boardshorts or bathing suit", "Rash-guard if you have your own", "Reef booties (not essential)"],
+      "requirements": "Must be able to swim and be confident in the sea; non-swimmers must learn to swim first.",
+      "offer": null,
+      "images": [
+        "https://ridethetidebarbados.com/sites/default/files/product-images/14632989_10154760134939175_4272427231404256358_n.jpeg",
+        "https://ridethetidebarbados.com/sites/default/files/product-images/img_6306.jpeg",
+        "https://ridethetidebarbados.com/sites/default/files/product-images/img_0943-min.jpeg"
+      ],
+      "bookingLinks": [
+        "https://ridethetidebarbados.com/book-now/choose-your-date?oid=2"
+      ],
+      "sourceUrl": "https://ridethetidebarbados.com/book-now/1-2-1-surf-lessons",
+      "checkNotes": "Duration not stated on this page. priceFrom is the BBD figure."
+    },
+    {
+      "title": "Private Group Surfing",
+      "kind": "course",
+      "summary": "A private two hour lesson for your own group of up to four surfers with one coach. It suits families and friends who want to surf together without joining strangers.",
+      "highlights": [
+        "1 surf coach, up to 4 surfers",
+        "2 hour lesson",
+        "Just your own family or friends"
+      ],
+      "duration": "2hr",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Ride The Tide surf shop, Freights Bay",
+      "prices": [
+        { "label": "Private group, up to 4 surfers", "amount": 638, "currency": "BBD", "note": null },
+        { "label": "Private group, up to 4 surfers (US dollar price shown)", "amount": 319, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 638,
+      "includes": ["Rash-guard (loan)", "Beach brief and coaching", "Surf coaches in the water with you", "Changing room and bathroom", "Secure kit locker", "Free RTT sticker"],
+      "bring": ["Sunblock", "A towel", "Boardshorts or bathing suit", "Rash-guard if you have your own", "Reef booties (not essential)", "Personal water bottle for refills"],
+      "requirements": "Must be able to swim and be confident in the sea; non-swimmers must learn to swim first. Parents of surfers under 12 should say if extra coaches are needed.",
+      "offer": null,
+      "images": [
+        "https://ridethetidebarbados.com/sites/default/files/product-images/frame-15-01-2019-11-02-16.jpeg",
+        "https://ridethetidebarbados.com/sites/default/files/product-images/95666e99-3dc7-4f8b-8b1d-dfc0774db65d.jpg",
+        "https://ridethetidebarbados.com/sites/default/files/product-images/f9084fd0-59e9-44b2-b085-87245ec83727.jpg"
+      ],
+      "bookingLinks": [
+        "https://ridethetidebarbados.com/book-now/choose-your-date?oid=3"
+      ],
+      "sourceUrl": "https://ridethetidebarbados.com/book-now/private-group-surfing",
+      "checkNotes": "Price is for the whole group of up to 4. priceFrom is the BBD figure."
+    },
+    {
+      "title": "Surfboard Rental",
+      "kind": "other",
+      "summary": "Longboards, mid-lengths, shortboards and bodyboards to rent by the hour, day or week, collected and returned at the shop opposite Freights Bay. The range runs from soft beginner boards to performance longboards by Walden and Takayama.",
+      "highlights": [
+        "Rent by 1 hour, 2 hours, day or week",
+        "Collect and return at the Freights Bay shop",
+        "Boards from NSP, BIC, Walden, Takayama and Softech",
+        "Day rental runs during shop hours, 8:30am to 4:00pm"
+      ],
+      "duration": "1 hour, 2 hours, daily or weekly",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Ride The Tide surf shop, Freights Bay",
+      "prices": [
+        { "label": "1 hour, from", "amount": 15, "currency": "USD", "note": null },
+        { "label": "2 hours, from", "amount": 20, "currency": "USD", "note": null },
+        { "label": "Daily, from", "amount": 25, "currency": "USD", "note": null },
+        { "label": "Weekly, from", "amount": 150, "currency": "USD", "note": null },
+        { "label": "BIC and SIC longboards and BIC 76, per day", "amount": 50, "currency": "BBD", "note": "$25 US/day" },
+        { "label": "Most NSP, BIC Big Boy, Takayama In The Pink and foamie boards, per day", "amount": 60, "currency": "BBD", "note": "$30 US/day" },
+        { "label": "Walden boards, per day", "amount": 70, "currency": "BBD", "note": "$35 US/day" },
+        { "label": "Takayama Beach Break and DT-2, per day", "amount": 90, "currency": "BBD", "note": "$45 US/day" },
+        { "label": "Softech Mystic bodyboard, per day", "amount": 30, "currency": "BBD", "note": "$15 US/day" }
+      ],
+      "priceFrom": 15,
+      "includes": [],
+      "bring": [],
+      "requirements": "Paid in full at the start; rental agreement; refundable damage deposit of $100 USD cash or credit card",
+      "offer": { "text": "Buy 7 days, pay for 6", "conditions": "In-store only", "validUntil": null },
+      "images": [
+        "https://ridethetidebarbados.com/sites/default/files/slideshow-images/tropical_surf_shack_and_board_racks.jpg",
+        "https://ridethetidebarbados.com/sites/default/files/homepage-block-images/surfboard-rental-min.jpeg"
+      ],
+      "bookingLinks": [
+        "https://ridethetidebarbados.com/book-now/surfboard-rental"
+      ],
+      "sourceUrl": "https://ridethetidebarbados.com/book-now/surfboard-rental",
+      "checkNotes": "Each board has its own date picker on the rental page (choose-your-date?bid=...), so the page itself is recorded as the booking link. The home page says boards from $10 USD for 1 hour and a $5 USD per hour rack on selected boards; the rental page says 1 hour from $15 USD. Used the rental page. Monthly rates on request, in-store only."
+    }
+  ],
+  "offers": [
+    { "text": "Discount when you book 2 or more surf lesson spaces at once", "conditions": "Off the total price of the lesson; the site states the discount as a percentage", "validUntil": null, "sourceUrl": "https://ridethetidebarbados.com/" },
+    { "text": "Surfboard rental: buy 7 days, pay for 6", "conditions": "In-store only", "validUntil": null, "sourceUrl": "https://ridethetidebarbados.com/book-now/surfboard-rental" }
+  ],
+  "checkNotes": "Prices are shown in Barbados dollars with a US dollar figure beside them; both recorded. Lessons and rentals book through the school's own cart and date picker (built by Caribbean New Media). The About page says most lessons run at Freights Bay and that in summer they move to other breaks when the swell is right; the school's YouTube channel shows summer lessons at Drill Hall. Shop hours 08:30 to 16:00. The contact page form has a captcha (not a block on reading the site). A holiday rental cottage on the site was left out as it is not a marine trip. Cancellation: 72 hours notice for a full refund."
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "el-tigre-cruises",
+  "logo": "https://eltigrecruises.com/images/footer/footer_Logo.png",
+  "gallery": [
+    "https://eltigrecruises.com/images/Slide1_BG.jpg",
+    "https://eltigrecruises.com/images/Slide2_BG.jpg",
+    "https://eltigrecruises.com/images/Slide3_BG.jpg",
+    "https://eltigrecruises.com/images/PhotoGallery/SailingGallery/Sailing-1.jpg",
+    "https://eltigrecruises.com/images/PhotoGallery/SailingGallery/Sailing-2.jpg",
+    "https://eltigrecruises.com/images/PhotoGallery/SailingGallery/Sailing-3.jpg",
+    "https://eltigrecruises.com/images/PhotoGallery/SailingGallery/Sailing-4.jpg",
+    "https://eltigrecruises.com/images/PhotoGallery/SailingGallery/Sailing-5.jpg",
+    "https://eltigrecruises.com/images/PhotoGallery/OnBoard/OnBoard-1.jpg",
+    "https://eltigrecruises.com/images/PhotoGallery/OnBoard/OnBoard-2.jpg",
+    "https://eltigrecruises.com/images/PhotoGallery/OnBoard/OnBoard-3.jpg",
+    "https://eltigrecruises.com/images/PhotoGallery/Photo_Gallery_Reef.jpg",
+    "https://eltigrecruises.com/images/PhotoGallery/TurtleGallery/Turtle-Picture.jpg",
+    "https://eltigrecruises.com/images/PhotoGallery/TurtleGallery/Turtle-Picture-2.jpg",
+    "https://eltigrecruises.com/images/PhotoGallery/TurtleGallery/Turtle-Picture-3.jpg",
+    "https://eltigrecruises.com/images/PhotoGallery/TurtleGallery/Turtle-Picture-4.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    { "title": "5-Hour Turtle & Shipwreck with Lunch", "images": ["https://eltigrecruises.com/images/LunchOnETIIUnderRoof.jpg", "https://eltigrecruises.com/images/Reservation/TurtlePic.jpg"] },
+    { "title": "3 Hour Turtle, Shipwreck Snorkel & Sail", "images": ["https://eltigrecruises.com/images/TurtleCruisePic1.jpg", "https://eltigrecruises.com/images/Reservation/ShipwreckPic.jpg"] },
+    { "title": "Sunset Turtle & Shipwreck Snorkel", "images": ["https://eltigrecruises.com/images/GirlsOnETIIRoof.jpg", "https://eltigrecruises.com/images/Reservation/DSCF0762_1.jpg"] },
+    { "title": "Private Charters", "images": ["https://eltigrecruises.com/images/BeachPickUpElTigreII.jpg", "https://eltigrecruises.com/images/Reservation/ElTigreII.jpg"] }
+  ],
+  "notes": "No videos found on the site. The logo is the footer logo (171 by 80 pixels), the largest version the site serves; there is no header logo image. Turtle-Picture-5.jpg and the remaining gallery files exist but the gallery is capped at 16. Trip photos are matched by their position on the Cruises and Reservations pages. No bot checks met."
+}

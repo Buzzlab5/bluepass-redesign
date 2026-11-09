@@ -1,0 +1,154 @@
+{
+  "slug": "calabaza-sailing-cruises",
+  "name": "Calabaza Sailing Cruises",
+  "website": "https://www.sailcalabaza.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Catamaran sail and snorkel",
+  "summary": "A small catamaran crew sailing the west coast of Barbados with no more than 14 guests on shared cruises. Day and afternoon trips include hotel, villa or port pick-up, two snorkel stops with turtles and a reef or shipwreck, food and an open bar. The boat can also be booked as a private charter.",
+  "standouts": [
+    "No more than 14 guests on shared cruises",
+    "Pick-up from your hotel, villa or port, with taxi transport between Oistins and Speightstown",
+    "Two snorkel stops on each shared cruise, with turtles and a reef or shipwreck",
+    "Book by phone or email and pay when you board"
+  ],
+  "contact": {
+    "phone": "+1 246 826 4048",
+    "email": "sailcalabaza@gmail.com",
+    "address": "Bridgetown, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://static.wixstatic.com/media/e6c5d9_341b96b22c934def8d207147af065b2c~mv2_d_3194_2395_s_2.jpg",
+  "sourceUrls": [
+    "https://www.sailcalabaza.com/",
+    "https://www.sailcalabaza.com/about",
+    "https://www.sailcalabaza.com/book-a-cruise",
+    "https://www.sailcalabaza.com/contact",
+    "https://www.sailcalabaza.com/gallery",
+    "https://www.sailcalabaza.com/videos",
+    "https://www.sailcalabaza.com/copy-of-meet-the-team",
+    "https://www.sailcalabaza.com/cool-things-to-do",
+    "https://www.sailcalabaza.com/sitemap.xml",
+    "https://www.sailcalabaza.com/pages-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Lunch Cruise",
+      "kind": "sail",
+      "summary": "A morning to early afternoon sail with a small group of no more than 14. The crew collects you from your hotel, villa or port, serves a light breakfast, a buffet lunch and dessert, and makes two snorkel stops where you can swim with turtles and see a reef or a shipwreck. Snorkel gear is provided and the crew helps beginners.",
+      "highlights": [
+        "Max 14 guests",
+        "Two snorkel stops: turtles, and a reef or shipwreck",
+        "Light breakfast, buffet lunch and dessert",
+        "Premium open bar all day"
+      ],
+      "duration": "9:00 am to 2:00 pm",
+      "durationMinutes": 300,
+      "departureTimes": ["09:00"],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Adult", "amount": 150, "currency": "USD", "note": "per adult, government tax included" },
+        { "label": "Child (ages 4 to 12)", "amount": 120, "currency": "USD", "note": "per child, government tax included" }
+      ],
+      "priceFrom": 150,
+      "includes": [
+        "Taxi transport between Oistins and Speightstown",
+        "Pick-up from your hotel, villa or port",
+        "Light breakfast and snacks",
+        "Buffet lunch (Bajan lunch) and dessert",
+        "Premium open bar, including rum punch",
+        "Snorkel gear and flotation devices",
+        "Government tax"
+      ],
+      "bring": ["Swimsuit", "Towel", "Sunscreen"],
+      "requirements": "Children must be 4 years and older on shared cruises",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/e6c5d9_5716cd23c5cf468089efb468daecdfde~mv2.jpg",
+        "https://static.wixstatic.com/media/e6c5d9_f8ee6999ae024851baed49ac59d4293b~mv2.jpg"
+      ],
+      "bookingLinks": ["https://fareharbor.com/embeds/book/sailcalabaza/items/?flow=4877&full-items=yes"],
+      "sourceUrl": "https://www.sailcalabaza.com/about",
+      "checkNotes": "Home page calls this trip 'Luxury Sail, Snorkel & Lunch Experience'; the about page names it 'Lunch Cruise'. The site says turtle sightings are likely but not guaranteed. Times may include the pick-up, the site does not say. Departure dock is not named on the site. A card surcharge applies (rate on the about page). The FareHarbor link is one flow for all shared cruises, not a per-trip link."
+    },
+    {
+      "title": "Afternoon Cruise",
+      "kind": "sail",
+      "summary": "An afternoon sail along the coast with no more than 14 guests, ending around sunset. You are collected from your hotel, villa or port, and the trip includes canapes and snacks, an open bar and two snorkel stops with turtles and a reef or shipwreck. Snorkel gear and flotation devices are provided.",
+      "highlights": [
+        "Max 14 guests",
+        "Two snorkel stops: turtles, and a reef or shipwreck",
+        "Canapes, light bites and snacks",
+        "Premium open bar throughout the sail"
+      ],
+      "duration": "2:30 pm to 6:30 pm",
+      "durationMinutes": 240,
+      "departureTimes": ["14:30"],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Adult", "amount": 130, "currency": "USD", "note": "per adult, government tax included" },
+        { "label": "Child (ages 4 to 12)", "amount": 110, "currency": "USD", "note": "per child, government tax included" }
+      ],
+      "priceFrom": 130,
+      "includes": [
+        "Taxi transport between Oistins and Speightstown",
+        "Pick-up from your hotel, villa or port",
+        "Light bites, snacks and canapes",
+        "Premium open bar",
+        "Snorkel gear and flotation devices",
+        "Government tax"
+      ],
+      "bring": ["Swimsuit", "Towel", "Sunscreen"],
+      "requirements": "Children must be 4 years and older on shared cruises",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/e6c5d9_b9a2c9c122e7456fbd696c7dc156e9b8~mv2.jpg",
+        "https://static.wixstatic.com/media/e6c5d9_f5bf3774fcf143a596d2df9be1518012~mv2.jpg"
+      ],
+      "bookingLinks": ["https://fareharbor.com/embeds/book/sailcalabaza/items/?flow=4877&full-items=yes"],
+      "sourceUrl": "https://www.sailcalabaza.com/about",
+      "checkNotes": "Home page calls this trip 'Golden Hour Sunset'; the about page names it 'Afternoon Cruise'. The site says turtle sightings are likely but not guaranteed. Departure dock is not named on the site. A card surcharge applies (rate on the about page). The FareHarbor link is one flow for all shared cruises, not a per-trip link."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "The catamaran and crew for your group alone, for up to 18 guests. You choose the pace and the plan, from a relaxed sail or turtle snorkelling to a celebration or a full day out. Food, drinks and snorkel gear are arranged to suit the group.",
+      "highlights": [
+        "Max 18 guests",
+        "Itinerary set by your group",
+        "Suits families, weddings, birthdays and proposals",
+        "Children under 4 allowed on private charters only, subject to availability"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Exclusive use of the catamaran and crew",
+        "Food and drinks tailored to the group",
+        "Snorkel gear"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/e6c5d9_2ddaf7930e564d10be1ee5dab7d2ce8e~mv2.jpg",
+        "https://static.wixstatic.com/media/e6c5d9_017c66bcab4040809e0719ea3b8d8022~mv2.jpg",
+        "https://static.wixstatic.com/media/e6c5d9_dcc1be7d8264475cb6b4af1e4e8be5c5~mv2.jpg",
+        "https://static.wixstatic.com/media/e6c5d9_936a41286f414004bbc7f8c29a25619a~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.sailcalabaza.com/about",
+      "checkNotes": "Site says 'Bookings available direct only' and 'Rates vary depending on your preferences and itinerary'; no price shown. Enquire by phone or email."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Shared cruises can be booked online through FareHarbor (immediate payment, booking fees apply) or by phone or email with payment on embarkation (card details needed to hold the booking). Footer still reads (c) 2022, but the sitemap was updated 2026-05-06 and current prices are shown. No WhatsApp link on the site."
+}

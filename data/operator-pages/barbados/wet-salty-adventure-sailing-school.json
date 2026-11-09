@@ -1,0 +1,669 @@
+{
+  "slug": "wet-salty-adventure-sailing-school",
+  "name": "Wet & Salty Adventure Sailing School",
+  "website": "https://www.wetandsaltysailing.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Sailing school and day sails",
+  "summary": "Wet & Salty is a sailing school at Shallow Draught Marina in Bridgetown. It teaches American Sailing Association courses as day classes or liveaboard trips, and American Boating powerboat courses. It also runs skippered private day sails on a J/24, a Jeanneau 32i, a Prout Snowgoose 37 catamaran and a Dart 16 beach catamaran.",
+  "standouts": [
+    "Teaches ASA 101, 103, 104, 110 and 114 courses",
+    "Lead instructor Captain Peter Hoad has over 40 years of sailing experience",
+    "Avoids single-use plastics and sails rather than motors whenever possible",
+    "Runs Blue Pathways, a sponsored sailing programme for young Barbadians aged 16 to 25"
+  ],
+  "contact": {
+    "phone": "+1 246 231 8297",
+    "email": "info@wetandsaltysailing.com",
+    "address": "Wet & Salty Adventure Sailing School, Shallow Draught Marina, Bridgetown",
+    "whatsapp": "https://wa.me/12462318297"
+  },
+  "heroImage": "https://static.wixstatic.com/media/cbe278_a6cd6fa7c1c24bd8abd4e3dfa6bbd6e9~mv2.jpg",
+  "sourceUrls": [
+    "https://www.wetandsaltysailing.com/",
+    "https://www.wetandsaltysailing.com/asa-day-courses",
+    "https://www.wetandsaltysailing.com/asa-liveaboard-courses",
+    "https://www.wetandsaltysailing.com/americanboating",
+    "https://www.wetandsaltysailing.com/boatrentalsandkipperedcharters",
+    "https://www.wetandsaltysailing.com/book-asa-sailing-day-courses",
+    "https://www.wetandsaltysailing.com/book-asa-liveaboard-sailing-courses",
+    "https://www.wetandsaltysailing.com/book-private-charters-day-sails",
+    "https://www.wetandsaltysailing.com/copy-of-book-asa-sailing-day-courses",
+    "https://www.wetandsaltysailing.com/our-fleet",
+    "https://www.wetandsaltysailing.com/about-us",
+    "https://www.wetandsaltysailing.com/news",
+    "https://www.wetandsaltysailing.com/sailing-club",
+    "https://www.wetandsaltysailing.com/bluepathways"
+  ],
+  "trips": [
+    {
+      "title": "ASA 101 Basic Keelboat Sailing",
+      "kind": "course",
+      "summary": "A three-day beginner course on a J/24 keelboat covering sailing terms, sail handling and safety. You sail by day and sleep at your hotel or home. Pass the exam and you earn the ASA 101 certification.",
+      "highlights": [
+        "3 days, 8am to 2pm",
+        "Taught on a J/24 keelboat",
+        "No sailing experience needed",
+        "ASA 101 certification on passing"
+      ],
+      "duration": "3 days",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:00"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 850,
+          "currency": "USD",
+          "note": "Instructor gratuity not included"
+        },
+        {
+          "label": "Private class, up to 4 people",
+          "amount": 2550,
+          "currency": "USD",
+          "note": "Instructor gratuity not included"
+        }
+      ],
+      "priceFrom": 850,
+      "includes": [
+        "Full-day, instructor-led sailing on a certified training vessel",
+        "All course materials and required ASA exams",
+        "Snacks and beverages onboard",
+        "Certification upon passing your exam"
+      ],
+      "bring": [],
+      "requirements": "No sailing experience needed, but pre-study of the Sailing Made Easy textbook is required.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/cbe278_df293eb31f864d6ba66d8c985ecfef7e~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.wetandsaltysailing.com/book-asa-sailing-day-courses"
+      ],
+      "sourceUrl": "https://www.wetandsaltysailing.com/asa-day-courses",
+      "checkNotes": "Currency not stated, shown as $. Charter prices elsewhere on the site are in USD. Meeting point not stated for courses; the school's address is Shallow Draught Marina, Bridgetown. Booking page content loads by script and could not be read."
+    },
+    {
+      "title": "ASA 103 Coastal Cruising",
+      "kind": "course",
+      "summary": "A three-day course on a Jeanneau 32 covering coastal navigation, anchoring, docking and reading the weather. It builds on ASA 101 and prepares you for longer coastal passages.",
+      "highlights": [
+        "3 days, 8am to 2pm",
+        "Taught on a Jeanneau 32",
+        "Navigation, anchoring, docking and weather",
+        "ASA 103 certification on passing"
+      ],
+      "duration": "3 days",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:00"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 1100,
+          "currency": "USD",
+          "note": "Instructor gratuity not included"
+        },
+        {
+          "label": "Private class, up to 4 people",
+          "amount": 3300,
+          "currency": "USD",
+          "note": "Instructor gratuity not included"
+        }
+      ],
+      "priceFrom": 1100,
+      "includes": [
+        "Full-day, instructor-led sailing on a certified training vessel",
+        "All course materials and required ASA exams",
+        "Snacks and beverages onboard",
+        "Certification upon passing your exam"
+      ],
+      "bring": [],
+      "requirements": "ASA 101 certification and review of the Coastal Cruising Made Easy textbook.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/cbe278_4c3856f29d6e4b67bde5f39c0435994c~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.wetandsaltysailing.com/book-asa-sailing-day-courses"
+      ],
+      "sourceUrl": "https://www.wetandsaltysailing.com/asa-day-courses",
+      "checkNotes": "Currency not stated, shown as $. Meeting point not stated for courses; the school's address is Shallow Draught Marina, Bridgetown."
+    },
+    {
+      "title": "ASA 110 Small Boat Sailing",
+      "kind": "course",
+      "summary": "A three-day course on small centreboard boats or beach catamarans such as the GP14 or Dart 16. It focuses on quick, responsive boat handling and suits beginners as well as sailors with some experience.",
+      "highlights": [
+        "3 days",
+        "GP14 or Dart 16",
+        "No prerequisites",
+        "ASA 110 certification on passing"
+      ],
+      "duration": "3 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 750,
+          "currency": "USD",
+          "note": "Instructor gratuity not included"
+        }
+      ],
+      "priceFrom": 750,
+      "includes": [
+        "Full-day, instructor-led sailing on a certified training vessel",
+        "All course materials and required ASA exams",
+        "Snacks and beverages onboard",
+        "Certification upon passing your exam"
+      ],
+      "bring": [],
+      "requirements": "None; suitable for beginners and those with some sailing experience.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/62489d_55e6ebe245f54854a4ff7173de0eb98f~mv2.jpeg"
+      ],
+      "bookingLinks": [
+        "https://www.wetandsaltysailing.com/book-asa-sailing-day-courses"
+      ],
+      "sourceUrl": "https://www.wetandsaltysailing.com/asa-day-courses",
+      "checkNotes": "Currency not stated, shown as $. Daily hours not stated for this course. The Dart 16 beach catamaran experience starts at the Barbados Cruising Club; the course page does not say where this course meets."
+    },
+    {
+      "title": "ASA 114 Catamaran Cruising",
+      "kind": "course",
+      "summary": "A private three-day course in handling a cruising catamaran, its systems and safety procedures. It runs on an Aventura 37 in high season and a Prout Snowgoose 37 the rest of the year.",
+      "highlights": [
+        "3 days, 8am to 2pm",
+        "Private class for up to 4 people",
+        "Aventura 37 (December to March) or Prout Snowgoose 37",
+        "ASA 114 certification on passing"
+      ],
+      "duration": "3 days",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:00"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private day sailing class, up to 4 people",
+          "amount": 3300,
+          "currency": "USD",
+          "note": "Instructor gratuity not included"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Full-day, instructor-led sailing on a certified training vessel",
+        "All course materials and required ASA exams",
+        "Snacks and beverages onboard",
+        "Certification upon passing your exam"
+      ],
+      "bring": [],
+      "requirements": "ASA 103 and 104 certifications and review of the Catamaran Cruising Made Easy textbook.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/62489d_5418a0dfe377432d82b33769c55f9b0e~mv2.jpeg"
+      ],
+      "bookingLinks": [
+        "https://www.wetandsaltysailing.com/book-asa-sailing-day-courses"
+      ],
+      "sourceUrl": "https://www.wetandsaltysailing.com/asa-day-courses",
+      "checkNotes": "Currency not stated, shown as $. Price is per private class, so priceFrom is null. Meeting point not stated; the Prout Snowgoose 37 day sail meets at Port St Charles Marina."
+    },
+    {
+      "title": "Beginner to Skipper",
+      "kind": "liveaboard",
+      "summary": "A nine-day liveaboard course on a Jeanneau Sun Odyssey 32i that takes complete beginners through ASA 101, 103 and 104. You practise tacking, reefing, man overboard drills, anchoring and skippering, with night anchoring and a last evening in Oistins.",
+      "highlights": [
+        "9 days living aboard",
+        "ASA 101, 103 and 104 certifications",
+        "Jeanneau Sun Odyssey 32i",
+        "No prior sailing experience required"
+      ],
+      "duration": "9 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Onboard instruction",
+        "Accommodation",
+        "Meals (except 3 dinners)",
+        "Course materials",
+        "Exam fees"
+      ],
+      "bring": [],
+      "requirements": "No prior sailing experience required, but pre-reading of the ASA textbooks is a must.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/cbe278_badd049d326848ed86fa5884eeda8143~mv2.jpeg"
+      ],
+      "bookingLinks": [
+        "https://www.wetandsaltysailing.com/book-asa-liveaboard-sailing-courses"
+      ],
+      "sourceUrl": "https://www.wetandsaltysailing.com/asa-liveaboard-courses",
+      "checkNotes": "No price on the course page; the booking page content loads by script and could not be read. Instructor gratuity not included."
+    },
+    {
+      "title": "Learn to Cruise",
+      "kind": "liveaboard",
+      "summary": "A six-day, five-night liveaboard course on a Jeanneau Sun Odyssey 32i for ASA 101 graduates. You learn docking, anchoring, reefing, coastal navigation and passage planning, taking turns as skipper and mate.",
+      "highlights": [
+        "6 days, 5 nights living aboard",
+        "ASA 103 and 104 certifications",
+        "Jeanneau Sun Odyssey 32i",
+        "Skipper and mate rotations"
+      ],
+      "duration": "6 days / 5 nights",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Onboard instruction",
+        "Accommodation",
+        "Provisioning (except 2 dinners)",
+        "Exam fees"
+      ],
+      "bring": [],
+      "requirements": "For graduates of ASA 101.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/cbe278_0cea90ef49fc46a88d16ec5c3b8e40d8~mv2.jpeg"
+      ],
+      "bookingLinks": [
+        "https://www.wetandsaltysailing.com/book-asa-liveaboard-sailing-courses"
+      ],
+      "sourceUrl": "https://www.wetandsaltysailing.com/asa-liveaboard-courses",
+      "checkNotes": "No price on the course page; the booking page content loads by script and could not be read. Instructor gratuity not included."
+    },
+    {
+      "title": "Catamaran Learn to Cruise",
+      "kind": "liveaboard",
+      "summary": "A seven-day, six-night liveaboard course on an Aventura 37 cruising catamaran for ASA 101 graduates. You learn to dock and handle a twin-engine catamaran, anchor, navigate and plan passages, and leave with three ASA certifications.",
+      "highlights": [
+        "7 days, 6 nights living aboard",
+        "ASA 103, 104 and 114 certifications",
+        "Aventura 37 catamaran",
+        "Skipper and mate rotations"
+      ],
+      "duration": "7 days / 6 nights",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Onboard instruction",
+        "Accommodation",
+        "Provisioning (except 2 dinners)",
+        "Exam fees"
+      ],
+      "bring": [],
+      "requirements": "For graduates of ASA 101.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/cbe278_0cea90ef49fc46a88d16ec5c3b8e40d8~mv2.jpeg"
+      ],
+      "bookingLinks": [
+        "https://www.wetandsaltysailing.com/book-asa-liveaboard-sailing-courses"
+      ],
+      "sourceUrl": "https://www.wetandsaltysailing.com/asa-liveaboard-courses",
+      "checkNotes": "No price on the course page; the booking page content loads by script and could not be read. The day course page says the Aventura 37 is chartered for high season (December to March); the liveaboard page gives no dates. Instructor gratuity not included."
+    },
+    {
+      "title": "Sailing Vacation & Mile building Experience",
+      "kind": "liveaboard",
+      "summary": "Six days and five nights on a Jeanneau Sun Odyssey 32i to log over 100 nautical miles with hands-on skippering, passage planning, night sailing and watchkeeping. There is no formal certification, but you leave with a signed mile logbook.",
+      "highlights": [
+        "6 days, 5 nights living aboard",
+        "100+ nautical miles logged",
+        "Night sailing and watchkeeping",
+        "Signed mile logbook"
+      ],
+      "duration": "6 days / 5 nights",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Signed mile logbook (100+ NM)"
+      ],
+      "bring": [],
+      "requirements": "Aimed at recent ASA 101, 103 or 104 graduates.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/cbe278_b9ff0d45f88b4685adafc267cde42edb~mv2.jpeg",
+        "https://static.wixstatic.com/media/cbe278_11b14da2bc1f441ba653b2a1a25f8e9f~mv2.jpeg",
+        "https://static.wixstatic.com/media/cbe278_be71946a07424bfdad75b54d7ad3edde~mv2.jpeg"
+      ],
+      "bookingLinks": [
+        "https://www.wetandsaltysailing.com/book-asa-liveaboard-sailing-courses"
+      ],
+      "sourceUrl": "https://www.wetandsaltysailing.com/asa-liveaboard-courses",
+      "checkNotes": "No price on the page. The page does not list what is included beyond the logbook; the general liveaboard includes list (instruction, accommodation, meals except 2 to 3 onshore dinners) may apply."
+    },
+    {
+      "title": "AB 101 Beginner Powerboating",
+      "kind": "course",
+      "summary": "A two-day American Boating course on a 12-foot centre console Highfield dinghy covering boat handling, docking, navigation and safety. It needs no boating experience and leads to the AB 101 certification.",
+      "highlights": [
+        "2 days, 8am to 2pm",
+        "12-foot Highfield centre console dinghy",
+        "No boating experience needed",
+        "AB 101 certification on passing"
+      ],
+      "duration": "2 days",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:00"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 650,
+          "currency": "USD",
+          "note": "Instructor gratuity not included"
+        }
+      ],
+      "priceFrom": 650,
+      "includes": [
+        "Full-day instructor-led training on a powerboat",
+        "American Boating certification upon passing the required assessments"
+      ],
+      "bring": [],
+      "requirements": "No boating experience needed, but pre-study of the Powerboating Made Easy textbook is required.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/62489d_d79c6cfb8df4414d8e95c06dcab4f789~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.wetandsaltysailing.com/copy-of-book-asa-sailing-day-courses"
+      ],
+      "sourceUrl": "https://www.wetandsaltysailing.com/americanboating",
+      "checkNotes": "Currency not stated, shown as $. Meeting point not stated."
+    },
+    {
+      "title": "AB 103 Intermediate Powerboating",
+      "kind": "course",
+      "summary": "A three-day private course for cruising on powerboats of 30 to 45 feet, covering boat systems, close-quarters handling, weather and emergencies. It runs on request as a day course or a liveaboard course.",
+      "highlights": [
+        "3 days, private, on request",
+        "Powerboats of 30 to 45 feet",
+        "Day course or liveaboard",
+        "AB 103 certification"
+      ],
+      "duration": "3 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "AB 101 certification and review of the Advanced Powerboating textbook.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/62489d_be9b035bd422416f865bce223d5fcb51~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.wetandsaltysailing.com/americanboating",
+      "checkNotes": "Price and availability by email to info@wetandsaltysailing.com."
+    },
+    {
+      "title": "AB 104 Advanced Powerboating",
+      "kind": "course",
+      "summary": "A three-day private course for skippering a 30 to 45 foot powerboat on multi-day trips in moderate to heavy conditions, covering provisioning, advanced navigation, multiple-anchor mooring and emergencies.",
+      "highlights": [
+        "3 days, private, on request",
+        "Multi-day cruising and coastal navigation",
+        "Day course or liveaboard",
+        "AB 104 certification"
+      ],
+      "duration": "3 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "AB 101 and AB 103 certification and review of the Advanced Powerboating textbook.",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.wetandsaltysailing.com/americanboating",
+      "checkNotes": "Price and availability by email to info@wetandsaltysailing.com."
+    },
+    {
+      "title": "Day Sail on a J/24",
+      "kind": "sail",
+      "summary": "A private half-day sail on a J/24 racing keelboat with an ASA instructor as skipper. It is fast and hands-on, so you help trim, steer and move around the boat.",
+      "highlights": [
+        "Private, up to 4 guests",
+        "8am to 12 noon or 1pm to 5pm",
+        "Hands-on performance sailing",
+        "Snorkelling gear and soft drinks included"
+      ],
+      "duration": "8am to 12noon or 1pm to 5pm",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "08:00",
+        "13:00"
+      ],
+      "season": null,
+      "departsFrom": "Shallow Draught Marina",
+      "prices": [
+        {
+          "label": "Private charter, up to 4 guests",
+          "amount": 450,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Certified ASA instructor (skipper)",
+        "Water, ice and non-alcoholic beverages",
+        "Safety gear and basic sailing instruction",
+        "Snorkelling gear"
+      ],
+      "bring": [
+        "Refillable water bottle",
+        "Sunscreen",
+        "Towel",
+        "Light lunch or snacks (unless lunch is pre-arranged)",
+        "Swimsuit and sun shirt"
+      ],
+      "requirements": "Agility required.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/62489d_19bf324ee57244f98e6810e81a1ed614~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.wetandsaltysailing.com/book-private-charters-day-sails"
+      ],
+      "sourceUrl": "https://www.wetandsaltysailing.com/boatrentalsandkipperedcharters",
+      "checkNotes": "Price is per private charter, so priceFrom is null. Lunch can be added at extra cost. The weather FAQ says the departure point may change with sea conditions."
+    },
+    {
+      "title": "Day Sail on Jeanneau 32i",
+      "kind": "sail",
+      "summary": "A private half-day sail on a Jeanneau 32i cruising yacht along the west coast, skippered by an ASA instructor. You can learn the basics at the helm or simply cruise, swim and snorkel.",
+      "highlights": [
+        "Private, up to 6 guests",
+        "8am to 12 noon or 1pm to 5pm",
+        "Spacious cruising yacht, suits families",
+        "Snorkelling gear and soft drinks included"
+      ],
+      "duration": "8am to 12 noon or 1pm to 5pm",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "08:00",
+        "13:00"
+      ],
+      "season": null,
+      "departsFrom": "Shallow Draught Marina",
+      "prices": [
+        {
+          "label": "Private charter, up to 6 guests",
+          "amount": 550,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Certified ASA instructor (skipper)",
+        "Water, ice and non-alcoholic beverages",
+        "Safety gear and basic sailing instruction",
+        "Snorkelling gear"
+      ],
+      "bring": [
+        "Refillable water bottle",
+        "Sunscreen",
+        "Towel",
+        "Light lunch or snacks (unless lunch is pre-arranged)",
+        "Swimsuit and sun shirt"
+      ],
+      "requirements": "No experience required.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/62489d_dc663ccca8404feb877f3029404b4d97~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.wetandsaltysailing.com/book-private-charters-day-sails"
+      ],
+      "sourceUrl": "https://www.wetandsaltysailing.com/boatrentalsandkipperedcharters",
+      "checkNotes": "Price is per private charter, so priceFrom is null. Lunch can be added at extra cost."
+    },
+    {
+      "title": "Day Sail on a Cruising Catamaran",
+      "kind": "sail",
+      "summary": "A private six-hour sail on the Prout Snowgoose 37 catamaran from Port St Charles, with time to lounge on the netting, swim with turtles and snorkel. It suits groups and celebrations.",
+      "highlights": [
+        "Private, up to 8 guests",
+        "10am to 4pm",
+        "Prout Snowgoose 37 catamaran",
+        "Swimming with turtles and snorkelling"
+      ],
+      "duration": "10am to 4pm",
+      "durationMinutes": 360,
+      "departureTimes": [
+        "10:00"
+      ],
+      "season": null,
+      "departsFrom": "Port St Charles Marina",
+      "prices": [
+        {
+          "label": "Private charter, up to 8 guests",
+          "amount": 740,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Certified ASA instructor (skipper)",
+        "Water, ice and non-alcoholic beverages",
+        "Safety gear and basic sailing instruction",
+        "Snorkelling gear"
+      ],
+      "bring": [
+        "Refillable water bottle",
+        "Sunscreen",
+        "Towel",
+        "Light lunch or snacks (unless lunch is pre-arranged)",
+        "Swimsuit and sun shirt"
+      ],
+      "requirements": "No experience required.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/cbe278_426b54a7f0814e51a49ff9424cc5c7d4~mv2.jpeg"
+      ],
+      "bookingLinks": [
+        "https://www.wetandsaltysailing.com/book-private-charters-day-sails"
+      ],
+      "sourceUrl": "https://www.wetandsaltysailing.com/boatrentalsandkipperedcharters",
+      "checkNotes": "Price is per private charter, so priceFrom is null. A Wet & Salty representative meets guests at Port St Charles Marina. Lunch can be added at extra cost."
+    },
+    {
+      "title": "Beach catamaran sailing experience",
+      "kind": "sail",
+      "summary": "A two-hour, hands-on sail on a Dart 16 beach catamaran in Carlisle Bay, starting from the Barbados Cruising Club beach. It is quick and lively, for up to two guests with an instructor.",
+      "highlights": [
+        "2 hours in Carlisle Bay",
+        "Dart 16 beach catamaran",
+        "Up to 2 guests",
+        "Hands-on, athletic sailing"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Barbados Cruising Club beach",
+      "prices": [
+        {
+          "label": "Private, up to 2 guests",
+          "amount": 380,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Certified ASA instructor (skipper)",
+        "Safety gear and basic sailing instruction"
+      ],
+      "bring": [
+        "Sunscreen",
+        "Towel",
+        "Swimsuit and sun shirt"
+      ],
+      "requirements": "Agility required.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/cbe278_56c7004a38c445f7b69862bc6cbd826c~mv2.jpeg"
+      ],
+      "bookingLinks": [
+        "https://www.wetandsaltysailing.com/book-private-charters-day-sails"
+      ],
+      "sourceUrl": "https://www.wetandsaltysailing.com/boatrentalsandkipperedcharters",
+      "checkNotes": "Price is for the session (up to 2 guests), so priceFrom is null. The general charter includes list also names water, drinks and snorkelling gear; unclear whether those apply on a two-hour beach cat sail."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Wet & Salty Sailing Club: weekly sailing sessions on Saturday mornings and Sunday afternoons for BBD $500 per month, with J/24 private charters for members at BBD $250",
+      "conditions": "Minimum commitment of 3 months; membership can be paused for up to 2 months once a year. Advance booking required, limited crew spots per session. Based at Shallow Draught.",
+      "validUntil": null,
+      "sourceUrl": "https://www.wetandsaltysailing.com/sailing-club"
+    }
+  ],
+  "checkNotes": "Booking is through four Book pages on the site (day courses, liveaboard courses, American Boating, private charters). Their booking content loads by script and could not be read, so it is not confirmed whether payment is taken online; WhatsApp, phone and email are also offered. Course prices show only $ (recorded as USD); charter prices say USD; Sailing Club prices say BBD. Liveaboard course prices are not shown on any page read. The News page had no readable text. Trading: copyright 2025, photos dated October 2025 on the charters page, and new Sailing Club and Blue Pathways pages. The operator list says it is also sold on Viator and TripAdvisor; not recorded."
+}

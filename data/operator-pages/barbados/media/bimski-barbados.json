@@ -1,0 +1,58 @@
+{
+  "slug": "bimski-barbados",
+  "logo": "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/bimski-logo-1-e4RNynaKsLDEctRJ.jpg",
+  "gallery": [
+    "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/7513-iU6uoTsFWiKzaoZB.jpg",
+    "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/7755-FpQf0IMpp5e9XCv6.jpg",
+    "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/8505-ubSZEKuDsz5H86sZ.jpg",
+    "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/img-20260804-wa0008-2-dxaGk4kzbn5VnjEK.jpg",
+    "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/bbs5-OAsvJVEdoZHHi2tY.jpg",
+    "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/screenshot_20260810_110902-yJ1lsUxv5G3h3iLi.jpg",
+    "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/screenshot_20260805_133236_gallery-1-NItdrPVNOmDEBs0u.jpg",
+    "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/screenshot_20260616_100139_instagram-G2Vmjk2fsvezbYSz.jpg",
+    "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/screenshot_20260805_133045_instagram-1-AfpdWBy76sGugczE.jpg",
+    "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/screenshot_20260623_233907_instagram-FP50HPkKQLyrRt6w.jpg",
+    "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/screenshot_20260216_190242_instagram-mdre3JaCdRPgh8a4.jpg",
+    "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/ay6iyu-oXkHdcGK9NTANrB1.png"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "30 Minute Ride",
+      "images": [
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/7513-iU6uoTsFWiKzaoZB.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/7755-FpQf0IMpp5e9XCv6.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/8505-ubSZEKuDsz5H86sZ.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/img-20260804-wa0008-2-dxaGk4kzbn5VnjEK.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/bbs5-OAsvJVEdoZHHi2tY.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/screenshot_20260810_110902-yJ1lsUxv5G3h3iLi.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/screenshot_20260805_133236_gallery-1-NItdrPVNOmDEBs0u.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/screenshot_20260616_100139_instagram-G2Vmjk2fsvezbYSz.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/screenshot_20260805_133045_instagram-1-AfpdWBy76sGugczE.jpg"
+      ]
+    },
+    {
+      "title": "60 Minute Ride",
+      "images": [
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/7513-iU6uoTsFWiKzaoZB.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/bbs5-OAsvJVEdoZHHi2tY.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/7755-FpQf0IMpp5e9XCv6.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/8505-ubSZEKuDsz5H86sZ.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/img-20260804-wa0008-2-dxaGk4kzbn5VnjEK.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/screenshot_20260810_110902-yJ1lsUxv5G3h3iLi.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/screenshot_20260805_133236_gallery-1-NItdrPVNOmDEBs0u.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/screenshot_20260616_100139_instagram-G2Vmjk2fsvezbYSz.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/screenshot_20260805_133045_instagram-1-AfpdWBy76sGugczE.jpg"
+      ]
+    },
+    {
+      "title": "Couples Ride",
+      "images": [
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/screenshot_20260623_233907_instagram-FP50HPkKQLyrRt6w.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/screenshot_20260216_190242_instagram-mdre3JaCdRPgh8a4.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/ay6iyu-oXkHdcGK9NTANrB1.png"
+      ]
+    }
+  ],
+  "notes": "Hostinger site with two pages (home and /cruise); both read without any bot check. Logo is a 1024px JPG, the only version served. Several photos are screenshots of the operator's Instagram posts hosted on its own site; the importer should judge them. The cruise page also uses three Unsplash stock photos, left out. ay6iyu PNG on the cruise page is a wide 1551x672 graphic of unknown content. No videos found."
+}

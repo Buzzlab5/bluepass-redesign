@@ -1,0 +1,138 @@
+{
+  "slug": "juniors-surf-school",
+  "name": "Junior's Surf School",
+  "website": "https://juniorssurfschool.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Freights Bay",
+  "category": "Surf lessons",
+  "summary": "Junior's Surf School is run by Junior, a Barbadian surf coach who has taught surfing for over twenty years. Lessons run at Freights Bay on the south coast, in small groups, one to one, or as coaching for advanced surfers. The board is included in the rate.",
+  "standouts": [
+    "Junior has taught surfing in Barbados for over twenty years",
+    "Group lessons of three to five people",
+    "Board included in the lesson rate",
+    "Lessons for beginners through to advanced surfers"
+  ],
+  "contact": {
+    "phone": "+1 246 256 7030",
+    "email": "juniorssurfschool@gmail.com",
+    "address": null,
+    "whatsapp": "https://wa.me/12462567030"
+  },
+  "heroImage": "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/4d03a596-7267-420b-8104-c68290072464/Junior_surfing.jpg",
+  "sourceUrls": [
+    "https://juniorssurfschool.com/",
+    "https://juniorssurfschool.com/pricing",
+    "https://juniorssurfschool.com/about-junior",
+    "https://juniorssurfschool.com/schedulelesson",
+    "https://juniorssurfschool.com/contact",
+    "https://juniorssurfschool.com/surfblog",
+    "https://juniorssurfschool.com/surfblog/surflessonbarbados"
+  ],
+  "trips": [
+    {
+      "title": "Group Lessons",
+      "kind": "course",
+      "summary": "A two hour surf lesson for three to five people, suited to beginners and intermediate surfers. The group goes over the basics first, then Junior watches each person surf and adjusts his coaching to them. Larger parties and families can be split across extra instructors.",
+      "highlights": [
+        "Three to five people per group",
+        "Two hour surf lesson",
+        "Board matched to your level and size",
+        "Extra instructors for big parties or families"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Freights Bay",
+      "prices": [
+        { "label": "Per person", "amount": 75, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 75,
+      "includes": ["Surfboard"],
+      "bring": [],
+      "requirements": "Beginners to intermediate surfers",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/21cacda8-1c9f-4ee3-8507-bacae98e041e/Junior_class1.png",
+        "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/71f249bf-1b64-4dba-b1a9-0d88cdf70a52/Junior_class3.png",
+        "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/4d03a596-7267-420b-8104-c68290072464/Junior_surfing.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://juniorssurfschool.com/pricing",
+      "checkNotes": "Enquiry only: lessons are requested through the form on https://juniorssurfschool.com/schedulelesson, WhatsApp or email; no online checkout. Home page says there are daily morning and afternoon sessions, with exact times set by the swell and tides, so no departure times recorded. Pricing page says you meet at a designated location; the site's journal places the school at Freights Bay. Pricing page has no photos of its own; images are from the schedule lesson page."
+    },
+    {
+      "title": "Private Lessons",
+      "kind": "course",
+      "summary": "A two hour private lesson for one to three people, with Junior coaching each person to their own level and goals. Open to beginner, intermediate and advanced surfers.",
+      "highlights": [
+        "One-on-one coaching with Junior",
+        "Lesson shaped around your skills and goals",
+        "Two hours of private coaching",
+        "Three people maximum"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Freights Bay",
+      "prices": [
+        { "label": "Private lesson, 1 to 3 people", "amount": 300, "currency": "USD", "note": "Price per lesson for up to 3 people, not per person" }
+      ],
+      "priceFrom": null,
+      "includes": ["Surfboard"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://juniorssurfschool.com/pricing",
+      "checkNotes": "Enquiry only, through the schedule lesson form, WhatsApp or email. Price is for the lesson (1 to 3 people), so priceFrom left null. Board inclusion is stated on the home page for all lessons. Meeting place taken from the site's journal (Freights Bay)."
+    },
+    {
+      "title": "Advanced Lessons",
+      "kind": "course",
+      "summary": "One-on-one coaching for surfers who want to refine their surfing, booked by the hour with a two hour minimum. You agree your goals and plan the sessions with Junior in advance.",
+      "highlights": [
+        "Coaching built around your goals",
+        "Surf plan agreed with Junior in advance",
+        "Two hour minimum",
+        "One-on-one time with Junior"
+      ],
+      "duration": "Booked by the hour, two hour minimum",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Per hour", "amount": 125, "currency": "USD", "note": "Two hour minimum" }
+      ],
+      "priceFrom": 125,
+      "includes": [],
+      "bring": [],
+      "requirements": "For surfers looking to fine-tune their surfing or take it to the next level",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://juniorssurfschool.com/pricing",
+      "checkNotes": "Enquiry only, through the schedule lesson form, WhatsApp or email. Page says you can explore the best of Barbados surfing, so the spot may vary; departure point left null. priceFrom is the hourly rate."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Surf Packages: lessons are $65 each when you buy 2 or more two hour lessons",
+      "conditions": "Two or more lessons; each lesson after the first is $10 less",
+      "validUntil": null,
+      "sourceUrl": "https://juniorssurfschool.com/pricing"
+    },
+    {
+      "text": "Weekly surf camp packages",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://juniorssurfschool.com/"
+    }
+  ],
+  "checkNotes": "No street address on the site; the journal (posts from 2023 and 2024) places the school at Freights Bay. The site's WhatsApp button links to https://wa.link/3l1u5p, which opens a chat with +1 246 256 7030; recorded here as a wa.me link. Surf package line shows $65 with no currency; other prices on the page are in USD. No price shown for the weekly surf camp packages. Four photos on the home page are Unsplash stock and were left out. Latest journal post dated 7/12/24."
+}

@@ -1,0 +1,198 @@
+{
+  "slug": "experience-coffin-bay",
+  "name": "Experience Coffin Bay",
+  "website": "https://experiencecoffinbay.com.au",
+  "rezdyAlias": "coffinbayoysters",
+  "state": "SA",
+  "town": "Coffin Bay",
+  "category": "Oyster farm boat tours",
+  "summary": "Boat tours of the Coffin Bay oyster farms from the Coffin Bay Yacht Club, run by Chris and Linda Hank, who grew oysters from 1996 before starting boat tours. The three hour Farm & Bay Tour includes an optional wade through an oyster farm in supplied waders, and dolphins and seals are often seen along the way, though not guaranteed. A shorter tour, private hire and coach group bookings are also offered.",
+  "standouts": [
+    "Run by oyster growers Chris and Linda Hank, who grew oysters from 1996 before starting boat tours",
+    "Quoted on the site as the number 1 thing to do in Coffin Bay on Trip Advisor",
+    "Winner, SA Life Magazine Absolute Best, SA Tourism Experience Award (as stated on the site)",
+    "2026 Hello SA Top Tour Guide (as stated on the site)"
+  ],
+  "contact": {
+    "phone": "+61 428 261 806",
+    "email": "visit@experiencecoffinbay.com.au",
+    "address": "Coffin Bay Yacht Club, 146 Esplanade, Coffin Bay SA 5607 (Berth 5)"
+  },
+  "heroImage": "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/32bad3a2-a86e-4467-9285-40d87ec32246/ExperienceCoffinBay141221-436.jpg",
+  "sourceUrls": [
+    "https://experiencecoffinbay.com.au/",
+    "https://experiencecoffinbay.com.au/sitemap.xml",
+    "https://experiencecoffinbay.com.au/farm-tours",
+    "https://experiencecoffinbay.com.au/book-now",
+    "https://experiencecoffinbay.com.au/private-tours",
+    "https://experiencecoffinbay.com.au/coach-groups",
+    "https://experiencecoffinbay.com.au/faqs",
+    "https://experiencecoffinbay.com.au/tour-calendar",
+    "https://experiencecoffinbay.com.au/cancellation-policy",
+    "https://experiencecoffinbay.com.au/contact",
+    "https://experiencecoffinbay.com.au/about-us",
+    "https://experiencecoffinbay.com.au/resources",
+    "https://experiencecoffinbay.com.au/resources/about",
+    "https://experiencecoffinbay.com.au/resources/2020/7/10/new-tour-boat",
+    "https://experiencecoffinbay.com.au/resources/2018/6/1/tasting-australia-video",
+    "https://experiencecoffinbay.com.au/vouchers",
+    "https://experiencecoffinbay.com.au/vouchers-1",
+    "https://experiencecoffinbay.com.au/vouchers-2",
+    "https://experiencecoffinbay.com.au/logos"
+  ],
+  "trips": [
+    {
+      "title": "Farm & Bay Tour",
+      "kind": "tour",
+      "summary": "A three hour boat tour from the Coffin Bay Yacht Club to a prime growing oyster farm, past secluded islands, beaches and the Coffin Bay National Park coastline. At the farm, guests can wade through the oyster beds in supplied waders or stay on the boat, and one dozen freshly shucked oysters are included. Dolphins and seals are often seen, though not guaranteed.",
+      "highlights": [
+        "Optional wading through an oyster farm in supplied waders",
+        "One dozen freshly shucked oysters included",
+        "Brothers Island, a known sea lion and seal spot, is explored on this tour",
+        "Local beer, wine and Coffin Bay gin to buy on board"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coffin Bay Yacht Club Floating Marina, Berth 5, Coffin Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "One dozen freshly shucked oysters per paying passenger, served natural with fresh lemon",
+        "Waders supplied for the wading experience",
+        "Wasabi and Tabasco sauce to have with the oysters"
+      ],
+      "bring": [
+        "Hat, sunglasses, sunscreen and a warm jacket in case the wind comes up",
+        "Comfortable footwear",
+        "A towel for after wading",
+        "In warmer months, bathers or shorts you are happy to get wet; wetsuit boots or water shoes if not wearing waders"
+      ],
+      "requirements": "Check in 20 minutes before departure. At least 4 paying passengers are needed for the tour to run. Waders are sized by shoe size, with a small number of children's sizes; very large builds may not fit and can wear their own bathers. No dogs. Wheelchair boarding is from a floating pontoon with 800mm wide doors; the toilet is not wheelchair accessible. Booking age bands: adults 17 to 59, seniors 60 and over with a seniors card, students 17 and over with student identification, children 2 to 16. Cards are checked at check in. Children under 2 are welcome with a parent, subject to numbers, and the business asks to be told when booking.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/7e640b2a-673a-46be-ade7-347ecd871a28/20211214-DJI_0312.jpg",
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/f550be47-a2c6-4bb6-8a54-9a2e54c2c574/20211214-DJI_0609.jpg",
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/2e3a424d-6ff3-4669-8dbf-67fcf6f23ae8/20211214-DJI_0621.jpg",
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/27586453-6b5e-4ce1-87a1-c837e0a8b23b/RB1-3.jpg"
+      ],
+      "bookingLinks": [
+        "https://experiencecoffinbay.com.au/book-now"
+      ],
+      "sourceUrl": "https://experiencecoffinbay.com.au/farm-tours",
+      "checkNotes": "No prices or departure times appear on the site's pages. They sit only inside the booking widget embedded on the Book Now, Farm Tours and Tour Calendar pages, which loads from Rezdy and was not opened, so prices is empty. The site has no per-trip booking link, so the Book Now page, where the widget is embedded, is recorded. The distance differs between pages: Farm Tours says cruise 18km to an oyster farm, Book Now says 16km to a sandy bottom farm at the entrance of the Coffin Bay waterway; no distance is used in the copy. The Brothers Island detail is from the home page only. Book Now shows a 'Premium Oyster Season' heading with no dates, so season is null. The FAQ says a 'no oysters' option can be chosen on the Book Now page. Weather and tides can mean a shorter tour runs instead (cancellation policy). The cancellation policy also sets deposit and cancellation fee terms, not repeated here. Squarespace page photos named 'Experience-Coffin-Bay-Farm+Bay-Tour-NEW.jpg' were left out as they look like designed tour cards."
+    },
+    {
+      "title": "Short & Sweet Tour",
+      "kind": "tour",
+      "summary": "A 1.5 hour boat tour from the Coffin Bay Yacht Club to an oyster farm just outside Coffin Bay township. A veteran oyster farmer hosts, sharing how premium Coffin Bay oysters are produced, teaching guests to shuck, and visiting the first oyster farm in Coffin Bay. Six freshly shucked oysters are included.",
+      "highlights": [
+        "Hosted by a veteran oyster farmer",
+        "Learn how to shuck oysters",
+        "Visits the first oyster farm in Coffin Bay",
+        "Six freshly shucked oysters included; no wading on this tour"
+      ],
+      "duration": "1.5 hours",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coffin Bay Yacht Club Floating Marina, Berth 5, Coffin Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Six freshly shucked oysters per paying passenger, served natural with fresh lemon",
+        "Wasabi and Tabasco sauce to have with the oysters"
+      ],
+      "bring": [
+        "Hat, sunglasses, sunscreen and a warm jacket in case the wind comes up",
+        "Comfortable footwear"
+      ],
+      "requirements": "Check in 20 minutes before departure. At least 4 paying passengers are needed for the tour to run. Wading is not available on this tour. No dogs. Wheelchair boarding is from a floating pontoon with 800mm wide doors; the toilet is not wheelchair accessible. Booking age bands: adults 17 to 59, seniors 60 and over with a seniors card, students 17 and over with student identification, children 2 to 16. Cards are checked at check in. Children under 2 are welcome with a parent, subject to numbers, and the business asks to be told when booking.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/376bba61-040d-4d55-b07c-0ce45d828c07/ExperienceCoffinBay141221-110.jpg",
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/71f91ff1-c5aa-472e-8255-b441ef32bfe8/ECB7.jpg",
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/32bad3a2-a86e-4467-9285-40d87ec32246/ExperienceCoffinBay141221-436.jpg"
+      ],
+      "bookingLinks": [
+        "https://experiencecoffinbay.com.au/book-now"
+      ],
+      "sourceUrl": "https://experiencecoffinbay.com.au/farm-tours",
+      "checkNotes": "No prices or departure times appear on the site's pages; they sit only inside the Rezdy booking widget embedded on the Book Now, Farm Tours and Tour Calendar pages, which was not opened, so prices is empty. The site has no per-trip booking link, so the Book Now page, where the widget is embedded, is recorded. The FAQ says the wading experience is not offered on this tour, and that a 'no oysters' option can be chosen on the Book Now page. Photo 'Experience-Coffin-Bay-Short+Sweet-Tour-NEW.jpg' was left out as it looks like a designed tour card, so this trip has few photos."
+    },
+    {
+      "title": "Private Tours",
+      "kind": "charter",
+      "summary": "Private hire of the tour boat for functions, corporate events, parties and special occasions, for up to 30 people. The boat is fully enclosed with bistro style seating, a toilet and a bar. Bookings are made by enquiry.",
+      "highlights": [
+        "Up to 30 people",
+        "Fully enclosed boat with bistro style seating",
+        "Toilet and bar on board",
+        "Suited to functions, corporate events and parties"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coffin Bay Yacht Club Floating Marina, Berth 5, Coffin Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "Maximum 30 passengers",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/376bba61-040d-4d55-b07c-0ce45d828c07/ExperienceCoffinBay141221-110.jpg",
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/498818a0-b740-4ea5-a886-7ab07e77090b/20211214-DJI_0179.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://experiencecoffinbay.com.au/private-tours",
+      "checkNotes": "Sold by enquiry form only, so no booking link. The page says private tour information and costs are at the bottom of the Oyster Farm Tours page; that area is the embedded Rezdy booking widget, which was not opened, so no private tour price or bookable private product is recorded. Duration, times and itinerary are not stated. The cancellation policy has separate terms for agent private bookings and says a deposit is required for a private charter."
+    },
+    {
+      "title": "Coach Group Bookings",
+      "kind": "charter",
+      "summary": "Coach groups of up to 36 people can book the tour boat, which is fully enclosed with bistro style seating, toilet and bar facilities. The site says it can run in any weather. Bookings are made by enquiry.",
+      "highlights": [
+        "Up to 36 people",
+        "Fully enclosed boat that can operate in any weather",
+        "Bistro style seating",
+        "Toilet and bar facilities on board"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coffin Bay Yacht Club Floating Marina, Berth 5, Coffin Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "Maximum 36 people",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/cb95c5ae-70b5-429c-b480-be06e3e6eaa0/ExperienceCoffinBay141221-7.jpg",
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/d2445c2c-7d2f-47be-bfbf-b1d26553a4ac/ExperienceCoffinBay141221-97.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://experiencecoffinbay.com.au/coach-groups",
+      "checkNotes": "Sold by enquiry form only, so no booking link. The page does not say which tour or how long the booking runs, and gives no price, duration or times; it describes the boat and group size only. Kept as a trip because it is a group booking of the operator's own boat, but a person may prefer to fold it into Private Tours."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://experiencecoffinbay.com.au/vouchers-2"
+    },
+    {
+      "text": "Companion Card accepted: a discount applies for a companion accompanying a paying passenger",
+      "conditions": "Booked by phone on 0428 261 806 or by email to visit@experiencecoffinbay.com.au; the card is checked at check in",
+      "validUntil": null,
+      "sourceUrl": "https://experiencecoffinbay.com.au/faqs"
+    }
+  ],
+  "checkNotes": "REZDY ACCOUNT TO CONFIRM: rezdyAlias is coffinbayoysters, taken from the Rezdy booking widget embedded on the operator's own home, Book Now, Farm Tours, Tour Calendar and Gift Vouchers pages (catalog 160062 for tours, 443261 for gift vouchers). The account name differs from the business name, and the FAQ says the operator has leased its oyster farm to another farmer and points oyster buyers to coffinbayoysterfarm.com.au. Please confirm the account belongs to Experience Coffin Bay and not to the farm business before using it. No Rezdy page was opened. No prices or departure times are on any page of the site; they appear only inside the widget, so every trip has prices empty. No per-trip booking links exist; the two ticketed tours point to the Book Now page that embeds the widget. Gift vouchers are sold in the widget on the Gift Vouchers page (the /vouchers, /vouchers-1 and /vouchers-2 pages differ; /vouchers-2 is the one in the menu). The old /vouchers page says all tours depart from the Coffin Bay Boat Ramp, while every other page says Coffin Bay Yacht Club, Berth 5; Berth 5 is used. Not recorded as trips: local companies Untamed Escapes, Australian Coastal Safaris and Tour South include the operator's tour in their own day trips (FAQ), and those are other businesses. The operator says it does not sell oysters to take home. Cancellation policy still contains pandemic hygiene rules that look out of date, and percentage based fees and deposits; none are repeated here. The FAQ gives the Companion Card discount as a percentage, left out of copy. The home page shows award logos (Tourism Industry Council South Australia awards, a sustainable tourism badge, a regional tourism logo) as images only, so they are not listed as standouts. Site shows the phone as 0428 261 806. heroImage is a photo from the operator's own shoot (file name ExperienceCoffinBay141221-436); the home page's own hero is named 'Hunter Gatherer Day-4' and was not used because its source is unclear."
+}

@@ -1,0 +1,884 @@
+{
+  "slug": "west-side-scuba-centre",
+  "name": "West Side Scuba Centre",
+  "website": "https://divewestsidescuba.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Carlisle Bay",
+  "category": "Scuba diving and courses",
+  "summary": "A family-run PADI dive shop at the Boatyard Beach Club on Carlisle Bay, started in 1993 by Peter Grannum and now run with his son Brandon. Small boats go to more than 20 wreck and reef sites on the south and west coasts, 10 to 20 minutes away, with courses from a first try to Dive Master.",
+  "standouts": [
+    "PADI 5 Star Dive Center",
+    "Family-run since 1993",
+    "Never more than 12 people on the boat, Discover Scuba limited to 4 per instructor",
+    "No anchors dropped: mooring buoys or free descents only"
+  ],
+  "contact": {
+    "phone": "+1 246 262 1029",
+    "email": "westsidescuba@gmail.com",
+    "address": "Boatyard Beach Club, 3 Bay Street, Bridgetown, Barbados",
+    "whatsapp": "https://api.whatsapp.com/send?phone=12462621029"
+  },
+  "heroImage": "https://divewestsidescuba.com/wp-content/uploads/2024/03/IMG_0546.jpg",
+  "sourceUrls": [
+    "https://divewestsidescuba.com/",
+    "https://divewestsidescuba.com/diving-barbados/",
+    "https://divewestsidescuba.com/diving-barbados/certified-scuba-diving-barbados/",
+    "https://divewestsidescuba.com/diving-barbados/diving-courses/",
+    "https://divewestsidescuba.com/diving-barbados/private-charter/",
+    "https://divewestsidescuba.com/price-list/",
+    "https://divewestsidescuba.com/diving-barbados/dive-sites/",
+    "https://divewestsidescuba.com/book-now-2/",
+    "https://divewestsidescuba.com/book-online/",
+    "https://divewestsidescuba.com/contact-us/",
+    "https://divewestsidescuba.com/about-us/",
+    "https://divewestsidescuba.com/about-us/eco-dive-shop/",
+    "https://divewestsidescuba.com/upcoming-events/",
+    "https://divewestsidescuba.com/upcoming-events/dive-fest/",
+    "https://divewestsidescuba.com/dive-show-specials/"
+  ],
+  "trips": [
+    {
+      "title": "Two Tank Morning Dive",
+      "kind": "dive",
+      "summary": "A morning boat trip for certified divers with two dives on two separate sites, chosen on the day for conditions. Snacks and water are provided during the surface interval.",
+      "highlights": [
+        "Two different dive sites",
+        "Sites chosen by conditions and experience",
+        "Dock boarding at the Boatyard Beach Club",
+        "Never more than 12 people on the boat"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": null,
+      "departsFrom": "Boatyard Beach Club dock, Carlisle Bay",
+      "prices": [
+        {
+          "label": "Per diver",
+          "amount": 155,
+          "currency": "USD",
+          "note": "All basic gear included"
+        },
+        {
+          "label": "Per diver",
+          "amount": 310,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        }
+      ],
+      "priceFrom": 155,
+      "includes": [
+        "All basic gear",
+        "Surface interval snacks and water"
+      ],
+      "bring": [],
+      "requirements": "Certified divers, minimum PADI Open Water (60 ft / 18 m) or equivalent. Divers who have not dived in over a year need a refresher first. Must be in good physical health and able to swim at least one lap in a pool. Medical conditions need a doctor's note.",
+      "offer": null,
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_4662.jpeg",
+        "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_4945.jpeg",
+        "https://divewestsidescuba.com/wp-content/uploads/2023/08/img_4670-1.jpeg",
+        "https://divewestsidescuba.com/wp-content/uploads/2023/08/img_4796.jpeg"
+      ],
+      "bookingLinks": [
+        "https://divewestsidescuba.com/book-online/"
+      ],
+      "sourceUrl": "https://divewestsidescuba.com/diving-barbados/certified-scuba-diving-barbados/",
+      "checkNotes": "Booking through the PADI Travel widget on the operator's Book Online page, or the booking request form at /book-now-2/. Payment is cash only in the shop; a credit card holds the booking. Price also on the price list as 2 Tank Dive."
+    },
+    {
+      "title": "One Tank Afternoon Dive",
+      "kind": "dive",
+      "summary": "An afternoon dive among the shipwrecks of Carlisle Bay for certified divers of any level. Snorkellers and friends doing a Discover Scuba dive can join the same boat.",
+      "highlights": [
+        "Carlisle Bay shipwrecks",
+        "Calm, sheltered water",
+        "Good for mixed groups of divers and snorkellers"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [
+        "13:00"
+      ],
+      "season": null,
+      "departsFrom": "Boatyard Beach Club dock, Carlisle Bay",
+      "prices": [
+        {
+          "label": "Per diver",
+          "amount": 90,
+          "currency": "USD",
+          "note": "All basic gear included"
+        },
+        {
+          "label": "Per diver",
+          "amount": 180,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        }
+      ],
+      "priceFrom": 90,
+      "includes": [
+        "All basic gear",
+        "Water and granola bars"
+      ],
+      "bring": [],
+      "requirements": "Certified divers, minimum PADI Scuba Diver (40 ft / 12 m, supervised) or equivalent. Divers who have not dived in over a year need a refresher first. Must be in good physical health and able to swim at least one lap in a pool. Medical conditions need a doctor's note.",
+      "offer": null,
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_4945.jpeg",
+        "https://divewestsidescuba.com/wp-content/uploads/2023/12/img_5056_edited-2-edited-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://divewestsidescuba.com/book-online/"
+      ],
+      "sourceUrl": "https://divewestsidescuba.com/diving-barbados/certified-scuba-diving-barbados/",
+      "checkNotes": "Booking through the PADI Travel widget on the operator's Book Online page, or the booking request form at /book-now-2/. Payment is cash only in the shop; a credit card holds the booking."
+    },
+    {
+      "title": "Multi-day Dive Packages",
+      "kind": "dive",
+      "summary": "Packages of 3 to 10 tank dives spread over several days, with a mix of the operator's dive sites. All basic gear is included.",
+      "highlights": [
+        "3, 4, 5, 6, 8 or 10 tank packages",
+        "Variety of dive sites across the south and west coasts"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Boatyard Beach Club dock, Carlisle Bay",
+      "prices": [
+        {
+          "label": "3 Tank Dive",
+          "amount": 225,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "3 Tank Dive",
+          "amount": 450,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        },
+        {
+          "label": "4 Tank Dive",
+          "amount": 290,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "4 Tank Dive",
+          "amount": 580,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        },
+        {
+          "label": "5 Tank Dive",
+          "amount": 330,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "5 Tank Dive",
+          "amount": 660,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        },
+        {
+          "label": "6 Tank Dive",
+          "amount": 390,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "6 Tank Dive",
+          "amount": 780,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        },
+        {
+          "label": "8 Tank Dive",
+          "amount": 510,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "8 Tank Dive",
+          "amount": 1020,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        },
+        {
+          "label": "10 Tank Dive",
+          "amount": 620,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "10 Tank Dive",
+          "amount": 1240,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        }
+      ],
+      "priceFrom": 225,
+      "includes": [
+        "All basic gear"
+      ],
+      "bring": [],
+      "requirements": "Certified divers. Must be in good physical health and able to swim at least one lap in a pool. Medical conditions need a doctor's note.",
+      "offer": null,
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_4662.jpeg"
+      ],
+      "bookingLinks": [
+        "https://divewestsidescuba.com/book-online/"
+      ],
+      "sourceUrl": "https://divewestsidescuba.com/price-list/",
+      "checkNotes": "Booking through the PADI Travel widget on the operator's Book Online page, or the booking request form at /book-now-2/. Payment is cash only in the shop; a credit card holds the booking. Prices are package totals per diver from the price list. Discount on dive packages if you bring all your own gear."
+    },
+    {
+      "title": "Night Dive",
+      "kind": "dive",
+      "summary": "An occasional night dive in Carlisle Bay with lights provided. It runs when at least four divers sign up.",
+      "highlights": [
+        "Carlisle Bay at night",
+        "Lights provided"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [
+        "17:00"
+      ],
+      "season": null,
+      "departsFrom": "Boatyard Beach Club dock, Carlisle Bay",
+      "prices": [
+        {
+          "label": "Per diver",
+          "amount": 110,
+          "currency": "USD",
+          "note": "Light included"
+        },
+        {
+          "label": "Per diver",
+          "amount": 220,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        }
+      ],
+      "priceFrom": 110,
+      "includes": [
+        "Dive light"
+      ],
+      "bring": [],
+      "requirements": "Certified divers. Minimum of 4 divers required. Must be in good physical health and able to swim at least one lap in a pool. Medical conditions need a doctor's note.",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://divewestsidescuba.com/book-online/"
+      ],
+      "sourceUrl": "https://divewestsidescuba.com/diving-barbados/certified-scuba-diving-barbados/",
+      "checkNotes": "Booking through the PADI Travel widget on the operator's Book Online page, or the booking request form at /book-now-2/. Payment is cash only in the shop; a credit card holds the booking. Runs occasionally; contact the shop to arrange."
+    },
+    {
+      "title": "Private Dive Leader",
+      "kind": "dive",
+      "summary": "A personal divemaster or instructor for you or your group on the regular boat. Other divers may be on board.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Boatyard Beach Club dock, Carlisle Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://divewestsidescuba.com/diving-barbados/certified-scuba-diving-barbados/",
+      "checkNotes": "No price shown; contact the shop for options."
+    },
+    {
+      "title": "Private Dive Charter",
+      "kind": "charter",
+      "summary": "The whole boat for your own group, for certified dives, Discover Scuba, courses or snorkelling, with a personal divemaster or instructor. Sites are chosen with you, weather permitting, and the team can also start a lesson in your own pool.",
+      "highlights": [
+        "Choose your own dive sites, conditions permitting",
+        "Pool sessions at your villa possible",
+        "Dive and snorkel gear and wetsuits included"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Boatyard Beach Club dock, Carlisle Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All dive and snorkel gear",
+        "Wetsuits",
+        "Water, soft drinks and juices",
+        "Local snacks and granola bars"
+      ],
+      "bring": [],
+      "requirements": "Pool sessions need a pool of suitable depth.",
+      "offer": null,
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2024/03/422902_10150584864360983_76059380982_9548362_1532539101_n.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://divewestsidescuba.com/diving-barbados/private-charter/",
+      "checkNotes": "No price shown; contact the shop."
+    },
+    {
+      "title": "Discover Scuba Diving",
+      "kind": "dive",
+      "summary": "A first try at scuba for people with no certification, with no more than four guests per instructor. It usually takes place in Carlisle Bay, and it counts as the first part of the Open Water course if you continue.",
+      "highlights": [
+        "No certification needed",
+        "Maximum 4 people per instructor",
+        "Usually in Carlisle Bay among wrecks and turtles",
+        "Price comes off the Open Water course if you continue"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [
+        "10:00"
+      ],
+      "season": null,
+      "departsFrom": "Boatyard Beach Club dock, Carlisle Bay",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 125,
+          "currency": "USD",
+          "note": "All gear included; e-learning not needed"
+        },
+        {
+          "label": "Per person",
+          "amount": 250,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        }
+      ],
+      "priceFrom": 125,
+      "includes": [
+        "All gear"
+      ],
+      "bring": [],
+      "requirements": "Must be in good physical health and able to swim at least one lap in a pool. Medical conditions need a doctor's note.",
+      "offer": null,
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_4724.jpeg"
+      ],
+      "bookingLinks": [
+        "https://divewestsidescuba.com/book-online/"
+      ],
+      "sourceUrl": "https://divewestsidescuba.com/price-list/",
+      "checkNotes": "Booking through the PADI Travel widget on the operator's Book Online page, or the booking request form at /book-now-2/. Payment is cash only in the shop; a credit card holds the booking. The Discover Scuba page linked from the site returns not found; details taken from the price list, home page, courses and dive sites pages."
+    },
+    {
+      "title": "Bubblemaker (8y to 9y)",
+      "kind": "course",
+      "summary": "A PADI introduction to scuba for children aged 8 and 9.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Boatyard Beach Club dock, Carlisle Bay",
+      "prices": [
+        {
+          "label": "Per child",
+          "amount": 65,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Per child",
+          "amount": 130,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        }
+      ],
+      "priceFrom": 65,
+      "includes": [],
+      "bring": [],
+      "requirements": "Ages 8 to 9",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://divewestsidescuba.com/book-online/"
+      ],
+      "sourceUrl": "https://divewestsidescuba.com/price-list/",
+      "checkNotes": "Booking through the PADI Travel widget on the operator's Book Online page, or the booking request form at /book-now-2/. Payment is cash only in the shop; a credit card holds the booking. Price list names it Bubblemaker (8y to 9y); no further detail on the site."
+    },
+    {
+      "title": "Refresher",
+      "kind": "course",
+      "summary": "A skills refresher for certified divers who have not dived in over a year. It can be done on the day, before your dive.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Boatyard Beach Club dock, Carlisle Bay",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 25,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Per person",
+          "amount": 50,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        }
+      ],
+      "priceFrom": 25,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://divewestsidescuba.com/book-online/"
+      ],
+      "sourceUrl": "https://divewestsidescuba.com/price-list/",
+      "checkNotes": "Booking through the PADI Travel widget on the operator's Book Online page, or the booking request form at /book-now-2/. Payment is cash only in the shop; a credit card holds the booking. Required for anyone who has not dived in more than a year."
+    },
+    {
+      "title": "Open Water Diver",
+      "kind": "course",
+      "summary": "The first PADI scuba certification, taught privately or semi-privately. After the PADI e-learning you do five confined water sessions and four open water dives, and come away able to dive to 60 feet.",
+      "highlights": [
+        "5 confined water dives and 4 open water dives",
+        "Private or semi-private teaching",
+        "Certified to 60 ft"
+      ],
+      "duration": "2 to 3 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Boatyard Beach Club dock, Carlisle Bay",
+      "prices": [
+        {
+          "label": "Open Water Diver (no e-learning)",
+          "amount": 380,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Open Water Diver (no e-learning)",
+          "amount": 760,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        },
+        {
+          "label": "Open Water Diver Referral, 4 open water dives only (form required)",
+          "amount": 360,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Open Water Diver Referral, 4 open water dives only (form required)",
+          "amount": 720,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        }
+      ],
+      "priceFrom": 360,
+      "includes": [
+        "All gear",
+        "5 confined water dives",
+        "4 open water dives"
+      ],
+      "bring": [],
+      "requirements": "Ages 10 and over. PADI e-learning, bought separately on the PADI website. Must be in good physical health and able to swim at least one lap in a pool. Medical conditions need a doctor's note.",
+      "offer": null,
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_4724.jpeg"
+      ],
+      "bookingLinks": [
+        "https://divewestsidescuba.com/book-online/"
+      ],
+      "sourceUrl": "https://divewestsidescuba.com/diving-barbados/diving-courses/",
+      "checkNotes": "Booking through the PADI Travel widget on the operator's Book Online page, or the booking request form at /book-now-2/. Payment is cash only in the shop; a credit card holds the booking. E-learning not included in the price."
+    },
+    {
+      "title": "Advanced Open Water Diver",
+      "kind": "course",
+      "summary": "Five adventure dives, including deep and navigation, to build skills and confidence. After the course you can dive to 100 feet.",
+      "highlights": [
+        "5 open water dives",
+        "Deep and navigation dives",
+        "Certified to 100 ft"
+      ],
+      "duration": "2 to 3 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Boatyard Beach Club dock, Carlisle Bay",
+      "prices": [
+        {
+          "label": "Advanced Diver (no e-learning)",
+          "amount": 450,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Advanced Diver (no e-learning)",
+          "amount": 900,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        }
+      ],
+      "priceFrom": 450,
+      "includes": [
+        "All gear",
+        "5 open water dives"
+      ],
+      "bring": [],
+      "requirements": "Ages 12 and over. PADI Open Water (60 ft / 18 m) or equivalent. Must be in good physical health and able to swim at least one lap in a pool. Medical conditions need a doctor's note.",
+      "offer": null,
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/08/img_20220224_071054_716.jpg"
+      ],
+      "bookingLinks": [
+        "https://divewestsidescuba.com/book-online/"
+      ],
+      "sourceUrl": "https://divewestsidescuba.com/diving-barbados/diving-courses/",
+      "checkNotes": "Booking through the PADI Travel widget on the operator's Book Online page, or the booking request form at /book-now-2/. Payment is cash only in the shop; a credit card holds the booking. E-learning not included in the price."
+    },
+    {
+      "title": "Diver Specialties",
+      "kind": "course",
+      "summary": "PADI specialty courses on single topics such as deep, wreck, drift, night, nitrox, fish identification, lionfish hunting and search and recovery. Each takes two to four dives.",
+      "highlights": [
+        "Deep, wreck, drift, night and boat diving",
+        "Nitrox, navigation, buoyancy, fish ID",
+        "Lionfish hunting specialty",
+        "2 to 4 dives each"
+      ],
+      "duration": "1 to 2 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Boatyard Beach Club dock, Carlisle Bay",
+      "prices": [
+        {
+          "label": "Specialty, 2 dives (eg drift, boat, peak performance buoyancy)",
+          "amount": 200,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Specialty, 2 dives (eg drift, boat, peak performance buoyancy)",
+          "amount": 400,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        },
+        {
+          "label": "Specialty, 3 dives (eg underwater navigation)",
+          "amount": 300,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Specialty, 3 dives (eg underwater navigation)",
+          "amount": 600,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        },
+        {
+          "label": "Specialty, 4 dives (eg wreck, deep)",
+          "amount": 400,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Specialty, 4 dives (eg wreck, deep)",
+          "amount": 800,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        }
+      ],
+      "priceFrom": 200,
+      "includes": [
+        "All gear"
+      ],
+      "bring": [],
+      "requirements": "Ages 10 to 18 and over depending on the specialty. Must be in good physical health and able to swim at least one lap in a pool. Medical conditions need a doctor's note.",
+      "offer": null,
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/08/gopr0297_1480712421576_high.jpg"
+      ],
+      "bookingLinks": [
+        "https://divewestsidescuba.com/book-online/"
+      ],
+      "sourceUrl": "https://divewestsidescuba.com/diving-barbados/diving-courses/",
+      "checkNotes": "Booking through the PADI Travel widget on the operator's Book Online page, or the booking request form at /book-now-2/. Payment is cash only in the shop; a credit card holds the booking. Specialties are not taught privately like the other courses."
+    },
+    {
+      "title": "Emergency First Responder CPR and First Aid",
+      "kind": "course",
+      "summary": "A one day first aid and CPR course for adults and children, open to divers and non-divers. It is required before the Rescue Diver course.",
+      "highlights": [],
+      "duration": "1 day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Boatyard Beach Club dock, Carlisle Bay",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 150,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Per person",
+          "amount": 300,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        }
+      ],
+      "priceFrom": 150,
+      "includes": [
+        "Practical skills lesson"
+      ],
+      "bring": [],
+      "requirements": "No age requirement",
+      "offer": null,
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/10/efr-website-pic.jpg"
+      ],
+      "bookingLinks": [
+        "https://divewestsidescuba.com/book-online/"
+      ],
+      "sourceUrl": "https://divewestsidescuba.com/diving-barbados/diving-courses/",
+      "checkNotes": "Booking through the PADI Travel widget on the operator's Book Online page, or the booking request form at /book-now-2/. Payment is cash only in the shop; a credit card holds the booking."
+    },
+    {
+      "title": "Rescue Diver",
+      "kind": "course",
+      "summary": "Learn to help other divers, handle emergencies and rescue yourself, through confined and open water scenarios.",
+      "highlights": [],
+      "duration": "2 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Boatyard Beach Club dock, Carlisle Bay",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 510,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Per person",
+          "amount": 1020,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        }
+      ],
+      "priceFrom": 510,
+      "includes": [
+        "Confined and open water scenario training"
+      ],
+      "bring": [],
+      "requirements": "Ages 12 and over. PADI Advanced (100 ft / 30 m) and valid first aid and CPR training from the last two years, or take the Emergency First Responder course alongside. Must be in good physical health and able to swim at least one lap in a pool. Medical conditions need a doctor's note.",
+      "offer": null,
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_5214_edited.jpg"
+      ],
+      "bookingLinks": [
+        "https://divewestsidescuba.com/book-online/"
+      ],
+      "sourceUrl": "https://divewestsidescuba.com/diving-barbados/diving-courses/",
+      "checkNotes": "Booking through the PADI Travel widget on the operator's Book Online page, or the booking request form at /book-now-2/. Payment is cash only in the shop; a credit card holds the booking."
+    },
+    {
+      "title": "Master Scuba Diver",
+      "kind": "course",
+      "summary": "The top recreational PADI rating, earned with five specialties after the Rescue course and at least 50 logged dives.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Boatyard Beach Club dock, Carlisle Bay",
+      "prices": [
+        {
+          "label": "5x Specialty Deal (Master Scuba Diver)",
+          "amount": 1300,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "5x Specialty Deal (Master Scuba Diver)",
+          "amount": 2600,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        }
+      ],
+      "priceFrom": 1300,
+      "includes": [
+        "Up to 5 specialty courses"
+      ],
+      "bring": [],
+      "requirements": "Ages 12 and over. Rescue Diver and at least 50 logged dives.",
+      "offer": null,
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_5003.jpeg"
+      ],
+      "bookingLinks": [
+        "https://divewestsidescuba.com/book-online/"
+      ],
+      "sourceUrl": "https://divewestsidescuba.com/diving-barbados/diving-courses/",
+      "checkNotes": "Booking through the PADI Travel widget on the operator's Book Online page, or the booking request form at /book-now-2/. Payment is cash only in the shop; a credit card holds the booking."
+    },
+    {
+      "title": "Dive Master",
+      "kind": "course",
+      "summary": "The first professional PADI level, building leadership skills to supervise dives and help with student divers. Contact the shop to plan it.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Boatyard Beach Club dock, Carlisle Bay",
+      "prices": [
+        {
+          "label": "Dive Master",
+          "amount": 2035,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Dive Master",
+          "amount": 4070,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        },
+        {
+          "label": "Dive Master Internship",
+          "amount": 1375,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Dive Master Internship",
+          "amount": 2750,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        }
+      ],
+      "priceFrom": 1375,
+      "includes": [
+        "Confined water training",
+        "Open water dives and training",
+        "Hands-on experience with students and leading dives under instructor supervision"
+      ],
+      "bring": [],
+      "requirements": "Ages 18 and over. Rescue Diver and 40 logged dives.",
+      "offer": null,
+      "images": [
+        "https://divewestsidescuba.com/wp-content/uploads/2023/09/img_4875_edited.jpeg"
+      ],
+      "bookingLinks": [
+        "https://divewestsidescuba.com/book-online/"
+      ],
+      "sourceUrl": "https://divewestsidescuba.com/diving-barbados/diving-courses/",
+      "checkNotes": "Booking through the PADI Travel widget on the operator's Book Online page, or the booking request form at /book-now-2/. Payment is cash only in the shop; a credit card holds the booking. The internship is listed on the price list only; its content is not described."
+    },
+    {
+      "title": "Snorkel Trip (with guide)",
+      "kind": "snorkel",
+      "summary": "A guided snorkel from the dive boat over the shallow wrecks and reefs, where turtles, rays and schools of fish are often seen.",
+      "highlights": [
+        "Shallow wrecks and reefs",
+        "Guide in the water"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Boatyard Beach Club dock, Carlisle Bay",
+      "prices": [
+        {
+          "label": "Snorkel Trip (with guide)",
+          "amount": 25,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Snorkel Trip (with guide)",
+          "amount": 50,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        },
+        {
+          "label": "Boat Ride",
+          "amount": 15,
+          "currency": "USD",
+          "note": "Listed separately under Other on the price list"
+        },
+        {
+          "label": "Boat Ride",
+          "amount": 30,
+          "currency": "BBD",
+          "note": "Barbados dollar column on the price list"
+        }
+      ],
+      "priceFrom": 25,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://divewestsidescuba.com/book-online/"
+      ],
+      "sourceUrl": "https://divewestsidescuba.com/price-list/",
+      "checkNotes": "Booking through the PADI Travel widget on the operator's Book Online page, or the booking request form at /book-now-2/. Payment is cash only in the shop; a credit card holds the booking. Price list shows Snorkel Trip (with guide) and a separate Boat Ride; the site does not say what the boat ride covers."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Group packages: pay for 6 divers and get 1 free, pay for 12 divers and get 2 free, on 10 tank dive packages with 1 night dive, and on private dive charters",
+      "conditions": "Book by the end of April 2027 for travel during 2027. Not valid 15 December to 5 January, Easter weekend, or Crop Over (27 July to 10 August).",
+      "validUntil": "2027-04-30",
+      "sourceUrl": "https://divewestsidescuba.com/dive-show-specials/"
+    },
+    {
+      "text": "Discount on dive packages if you bring all your own gear",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://divewestsidescuba.com/price-list/"
+    },
+    {
+      "text": "Discover Scuba Dive counts as the first part of the Open Water course, and its price comes off if you continue",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://divewestsidescuba.com/diving-barbados/diving-courses/"
+    },
+    {
+      "text": "Dive Against Debris ocean clean-up dives with PADI Aware",
+      "conditions": "Contact the shop to join",
+      "validUntil": null,
+      "sourceUrl": "https://divewestsidescuba.com/about-us/eco-dive-shop/"
+    }
+  ],
+  "checkNotes": "Prices are shown in both US$ and BDS$ on the price list; both recorded. Payment is cash only in the shop; a credit card is taken to hold bookings and cancellations with less than 48 hours notice are charged in full. Online booking is a PADI Travel iframe (travel.padi.com widget for shop west-side-scuba-centre) on the operator's own Book Online page; the widget itself was not opened. Diving page says trips run six days a week, while the contact page lists the shop open 7:30am to 4:30pm every day. Rental extras: wetsuit US$10, dive computer US$20, GoPro and housing US$30. Transport to the shop can be arranged, price varies by location. Events page lists PADI Women's Dive Day and Barbados Dive Fest 2026 (both past) and a dive show in November 2026."
+}

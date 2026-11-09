@@ -1,0 +1,31 @@
+{
+  "slug": "experiencing-marine-sanctuaries-a2",
+  "logo": "https://www.emsau.org/wp-content/uploads/2019/04/a60719934ebf9966271d0a7f23e7793b.png",
+  "heroImage": "https://www.emsau.org/wp-content/uploads/2019/04/DSC_2865.jpg",
+  "gallery": [
+    "https://www.emsau.org/wp-content/uploads/2019/04/0e9da550c0d88fabd06bdb4f7dd5a266-1.jpg",
+    "https://www.emsau.org/wp-content/uploads/2019/04/e497f0e2b9257e74483645cc43cfaee1-1.jpg",
+    "https://www.emsau.org/wp-content/uploads/2019/04/f1a383c0f2791f97f9d357906e031298-1.jpg",
+    "https://www.emsau.org/wp-content/uploads/2019/04/bcb14cd6b0d8ac6ee34c40a80a7bdac6.jpg",
+    "https://www.emsau.org/wp-content/uploads/2019/04/fdd04ca41ab3aa4d31d9f6510b70d77d.jpg",
+    "https://www.emsau.org/wp-content/uploads/2019/04/cc5e70d23f3e5319eb7cff4f156aad34.jpg",
+    "https://www.emsau.org/wp-content/uploads/2019/04/ae4a9dee2d2680ec019233c028dc9fe5.jpg",
+    "https://www.emsau.org/wp-content/uploads/2019/04/515d0417276b71b816213f51b6a0e0fe.jpg",
+    "https://www.emsau.org/wp-content/uploads/2019/04/3f132b5036075947bcd2c7ac89ead25f-1.jpg",
+    "https://www.emsau.org/wp-content/uploads/2024/11/Mobi-chair-event.jpg",
+    "https://www.emsau.org/wp-content/uploads/2024/11/Mobi-chair-porties-inclusive.jpg",
+    "https://www.emsau.org/wp-content/uploads/2024/11/inclusive-gear.jpg",
+    "https://www.emsau.org/wp-content/uploads/2019/04/IMG_20180706_065740.jpg",
+    "https://www.emsau.org/wp-content/uploads/2019/04/IMG_20180709_113157.jpg",
+    "https://www.emsau.org/wp-content/uploads/2019/04/267545c7e4edfd9e21cc89b179a43db6.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.emsau.org/wp-content/uploads/2019/04/10000000_146213846407415_2870473375311407229_n.mp4",
+      "title": "Experiencing Marine Sanctuaries program video",
+      "sourceUrl": "https://www.emsau.org/"
+    }
+  ],
+  "trips": [],
+  "notes": "No trips are listed in the facts file because the site says EMS is shutting down (see its checkNotes), so there are no per-trip photos. Images were not downloaded or viewed, only checked to load, so a person should look at every photo before it is published; the importer will also measure and filter them. Logo is the header logo (full-size original of the PNG the site serves at 300 and 768 pixel widths). Hero is the home page's own hero background photo (DSC_2865.jpg, a camera-named file used behind the headline text); no better candidate was identified. Gallery leads with the three photos behind the home page cards (Community Tours, School Excursions, Volunteer), then the nine photos on the Gallery page, three inclusive snorkelling photos from the Inclusive page (Mobi Chair at events, adapted gear), and three CuttleFest photos from the old 2019 CuttleFest page (full-size originals of Elementor thumbnails; they load). Video is the one video file the site hosts itself (28 MB mp4, embedded on the home and About pages); it was not played, and its file name looks like a social media download, so confirm it is EMS footage. Both YouTube links on the site fail: the channel in the footer (youtube.com/channel/UC2EDCYs7niM9MLAt_vZ4yeg) answers that the channel does not exist, and the handle on the contact page (youtube.com/@experiencingmarinesanctuar1162) returns a 404, so there are no YouTube videos. The Facebook video embedded on the 2019 CuttleFest page belongs to SA Weekender and was left out, as were Facebook and Instagram. Left out: supporter logos (Green Adelaide, National Parks and Wildlife Service South Australia, the CuttleFest badge), the footer background graphic (ecedcf049dcdb71c676b1bff6c34bc6a.png), a 2019 screenshot PNG on the CuttleFest 2019 page, the site icon and video poster (small), team and committee headshots on the About page, the memorial photos of Ethan London and the photos of young volunteers on the Youth page (people, mostly minors, and not trip photos), Mobi-chair.jpg and Reef-board.jpg (small or product shots), and Carl-Charter-4170.jpg (a portrait of a person). No stock photos or credits to other businesses were seen, but the gallery photos have hashed file names with no captions or credits, so ownership is assumed from their being on the operator's own Gallery page."
+}

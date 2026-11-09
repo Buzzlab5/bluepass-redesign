@@ -1,0 +1,124 @@
+{
+  "slug": "kangaroo-island-marine-adventures",
+  "name": "Kangaroo Island Marine Adventures",
+  "website": "https://kimarineadventures.com.au",
+  "rezdyAlias": "kimarineadventures",
+  "state": "SA",
+  "town": "Kingscote, Kangaroo Island",
+  "category": "Dolphin swim tours",
+  "summary": "Kangaroo Island Marine Adventures runs boat tours on the north coast of Kangaroo Island with the chance to swim with wild bottlenose dolphins. Tours leave from the Bay of Shoals boat ramp or Emu Bay jetty and the business closes over winter, from June to August. Owner and skipper Andrew Neighbour uses a jet-powered boat with no propellers.",
+  "standouts": [
+    "Green Travel Leader, approved by Ecotourism Australia",
+    "First tour operator licensed to swim with wild dolphins on Kangaroo Island and in South Australia",
+    "Runs surveys and reports sightings for the Dolphin Watch citizen science program",
+    "Operates in the Kangaroo Island North Coast Mission Blue Hope Spot"
+  ],
+  "contact": {
+    "phone": "+61 499 161 349",
+    "email": "tours@kimarineadventures.com.au",
+    "address": null
+  },
+  "heroImage": "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_5/move7x98/element_186/rwdMode_1/2400x482/IMG_3181.jpg",
+  "sourceUrls": [
+    "https://kimarineadventures.com.au/",
+    "https://kimarineadventures.com.au/kangaroo-island-explorer-dolphin-swim-tour",
+    "https://kimarineadventures.com.au/tour-bookings",
+    "https://kimarineadventures.com.au/about-us",
+    "https://kimarineadventures.com.au/kangaroo-island-sustainability",
+    "https://kimarineadventures.com.au/terms-and-conditions",
+    "https://kimarineadventures.com.au/contact",
+    "https://kimarineadventures.com.au/kangaroo-island-information"
+  ],
+  "trips": [
+    {
+      "title": "Island Explorer and Dolphin Swim Tour",
+      "kind": "swim",
+      "summary": "A boat tour along the north coast of Kangaroo Island with the chance to swim with wild bottlenose dolphins in shallow, protected waters. Along the way you may see seals, sea eagles and osprey, listen to the dolphins on a hydrophone and view ancient fossil beds. The boat is jet powered with no propellers, and wetsuits and snorkel gear are included.",
+      "highlights": [
+        "Swim with wild bottlenose dolphins, sightings not guaranteed",
+        "Listen to the dolphins through a hydrophone",
+        "Seals, sea eagles, osprey and ancient fossil beds",
+        "Jet-powered boat with no propellers"
+      ],
+      "duration": "Usually 3 hours, sometimes longer depending on the day",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": "Peak season December to March, off peak April to November, closed for winter 1 June to 31 August",
+      "departsFrom": "Bay of Shoals Boat Ramp or Emu Bay Boat Ramp and Jetty, confirmed by SMS 24 hours before",
+      "prices": [
+        {
+          "label": "Adults 14+",
+          "amount": 250,
+          "currency": "AUD",
+          "note": "Base price; the site says seasonal changes can make prices higher"
+        },
+        {
+          "label": "Children 13 & Under",
+          "amount": 150,
+          "currency": "AUD",
+          "note": "Base price; the site says seasonal changes can make prices higher"
+        },
+        {
+          "label": "Family, 2 adults 2 children",
+          "amount": 800,
+          "currency": "AUD",
+          "note": "Base price; the site says seasonal changes can make prices higher"
+        },
+        {
+          "label": "Private, 15 people max, from",
+          "amount": 3075,
+          "currency": "AUD",
+          "note": "Private tours need 8+ participants"
+        }
+      ],
+      "priceFrom": 250,
+      "includes": [
+        "Tea, coffee and biscuits",
+        "Sterile snorkels and masks",
+        "Wetsuits in your size",
+        "Life jackets, including children's sizes",
+        "Safety briefing"
+      ],
+      "bring": [
+        "Camera",
+        "Hat",
+        "Sunscreen",
+        "Towel",
+        "Bathers",
+        "Water bottle",
+        "Your own food if you have special dietary needs"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_5/move7x98/element_186/rwdMode_1/2400x482/IMG_3181.jpg",
+        "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_5/move7x98/element_164/Marine-with-dolphins.webp",
+        "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_1/move7y82/element_314/Screenshot-2024-11-14-171508.png",
+        "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_1/move7y82/element_16/rwdMode_1/553x343/image0.jpeg"
+      ],
+      "bookingLinks": [
+        "https://kimarineadventures.rezdy.com/calendarWidget/643551?iframe=true",
+        "https://kimarineadventures.rezdy.com/calendarWidget/643780?iframe=true",
+        "https://kimarineadventures.rezdy.com/calendarWidget/706011?iframe=true",
+        "https://kimarineadventures.rezdy.com/calendarWidget/706017?iframe=true"
+      ],
+      "sourceUrl": "https://kimarineadventures.com.au/kangaroo-island-explorer-dolphin-swim-tour",
+      "checkNotes": "Prices are labelled 'Base Price'; the site says seasonal changes cause prices to go higher and to check the current price in the booking widget. No departure times are stated anywhere; time and launch site are confirmed by SMS or email the day before. The family price ($800) equals 2 adults plus 2 children at the base rates, although the homepage calls packages 'fantastic value'. The bookings page has four calendar widgets for 'Shared Tour Booking' and 'Private Tour Booking', each labelled 'Today to 31/03/26' (stale); which widget is shared or private could not be read from the page, so all four are listed. A site banner image shows '3hr Duration' and '15 Max'; a review mentions 15 people on a tour. Life jackets are optional; there are no change rooms at the departure points. Cancellation: full refund 48 hours or more ahead, half charged within 48 hours, full charge within 24 hours."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift card for the Island Explorer tour, you choose the amount",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://kimarineadventures.com.au/"
+    },
+    {
+      "text": "Family package, 2 adults and 2 children, $800",
+      "conditions": "Base price; seasonal prices can be higher",
+      "validUntil": null,
+      "sourceUrl": "https://kimarineadventures.com.au/kangaroo-island-explorer-dolphin-swim-tour"
+    }
+  ],
+  "checkNotes": "One tour on the site, sold as shared or private; recorded as one trip with every price option. Gift card booking link on the site: https://kimarineadventures.rezdy.com/473636/gift-card-for-kangaroo-island-marine-adventures-island-explorer-tour (also embedded as calendarWidget/473636). No street address on the site; contact page says WhatsApp is available on the same number. Kingscote is the town from the brief and is not named on the site. Years in business conflict: 'more than 17 years' (about), 'operating for 20 years' (sustainability); local experience '30 years' vs '35+ years'; Dolphin Watch work 'past 17 years' vs 'over 10 years'. Green Travel Leader status is described as held for '10+ years' (site spells it 'Eco Tourism Australia'). Homepage says KIMA was 'Voted no 1 in 10 best ethical adventures' by escape.com.au; not used as a standout. Images: dolphin-386744_640.jpg on the homepage looks like a stock photo and Celeb1.webp is a guide photo with a visitor; neither used. The og:image is a promotional banner, not a photo."
+}

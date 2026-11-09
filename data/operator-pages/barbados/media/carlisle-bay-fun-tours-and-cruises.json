@@ -1,0 +1,47 @@
+{
+  "slug": "carlisle-bay-fun-tours-and-cruises",
+  "logo": "https://static.wixstatic.com/media/019a1f_f238d1db5b5c4724ab55b4745c1ad3a0~mv2.png",
+  "heroImage": "https://static.wixstatic.com/media/019a1f_8d6ac70b72184cc6a1a334424bb89a15~mv2.jpg",
+  "gallery": [
+    "https://static.wixstatic.com/media/019a1f_a26438b857184131aec019889020a7dd~mv2.jpg",
+    "https://static.wixstatic.com/media/019a1f_8d6ac70b72184cc6a1a334424bb89a15~mv2.jpg",
+    "https://static.wixstatic.com/media/019a1f_c90ff41f5d0d469fa5d9495c6e7c2758~mv2.jpg",
+    "https://static.wixstatic.com/media/019a1f_92c8bb07037a4c158c07e896c9afc9c6~mv2.jpg",
+    "https://static.wixstatic.com/media/019a1f_a8248a14f27741b896ccec439a71e8cc~mv2.jpg",
+    "https://static.wixstatic.com/media/019a1f_99a36f4ed6ca43b9a3eb7d1792fc5d54~mv2.jpg",
+    "https://static.wixstatic.com/media/019a1f_24005dc8adb4440f857587ae30285529~mv2.jpg",
+    "https://static.wixstatic.com/media/019a1f_c0ee3d90822949eab9d481ef3f539298~mv2.jpg",
+    "https://static.wixstatic.com/media/019a1f_92fa2893f187425ea2cfc498c7135469~mv2.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://video.wixstatic.com/video/019a1f_89a6a967196547c48afb172247d25743/1080p/mp4/file.mp4",
+      "title": "Home page background video",
+      "sourceUrl": "https://www.cbfuntours.com/"
+    },
+    {
+      "url": "https://video.wixstatic.com/video/019a1f_329c892770074dc1a9b81c2bb0df0d21/1080p/mp4/file.mp4",
+      "title": "About page background video",
+      "sourceUrl": "https://www.cbfuntours.com/about"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Fun Tour",
+      "images": [
+        "https://static.wixstatic.com/media/019a1f_8d6ac70b72184cc6a1a334424bb89a15~mv2.jpg",
+        "https://static.wixstatic.com/media/019a1f_c90ff41f5d0d469fa5d9495c6e7c2758~mv2.jpg",
+        "https://static.wixstatic.com/media/019a1f_99a36f4ed6ca43b9a3eb7d1792fc5d54~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Chartered Tour",
+      "images": [
+        "https://static.wixstatic.com/media/019a1f_8d6ac70b72184cc6a1a334424bb89a15~mv2.jpg",
+        "https://static.wixstatic.com/media/019a1f_c90ff41f5d0d469fa5d9495c6e7c2758~mv2.jpg",
+        "https://static.wixstatic.com/media/019a1f_99a36f4ed6ca43b9a3eb7d1792fc5d54~mv2.jpg"
+      ]
+    }
+  ],
+  "notes": "Wix site, no bot check. Only images uploaded under the operator's own Wix account (019a1f_ prefix) were kept; Wix library images titled 'Beach Vacation' and 'Sea Turtle' and the template crew photos on the hotel deals page were left out. Both trips share the charters page, so they share its photos. The two videos are the operator's own mp4 files used as page backgrounds (1080p); their content was not viewed, so titles only say where they appear. Their poster frames (019a1f_89a6a967196547c48afb172247d25743f000.jpg and 019a1f_329c892770074dc1a9b81c2bb0df0d21f000.jpg) were not added as photos."
+}

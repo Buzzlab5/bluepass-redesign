@@ -1,0 +1,621 @@
+{
+  "slug": "billfisher-sport-fishing",
+  "name": "Billfisher Sport-Fishing Charters",
+  "website": "https://billfisherbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Deep sea fishing charters",
+  "summary": "A family-owned fishing charter business in Bridgetown run by Captain Ralph White and his son, Captain Noah White. They fish from two boats: Billfisher III, a 40 foot Viking sportfisher for shared and private trips, and Take a Chance, a 50 foot Bertram with an air conditioned salon. Trips go after wahoo, mahi, tuna and marlin, and some add a swim, snorkel or BBQ lunch.",
+  "standouts": [
+    "Family-owned, with over 35 years of fishing experience",
+    "Two boats: a 40 ft Viking sportfisher for up to 6 and a 50 ft Bertram for up to 12",
+    "Inshore grounds about 10 minutes from the dock, offshore within 15 minutes",
+    "Guests can take home cleaned fillets from the catch"
+  ],
+  "contact": {
+    "phone": "+1 (246) 232-1307",
+    "email": "bookings@billfisherbarbados.com",
+    "address": "Berthed at the Inner Careenidge, Bridgetown, Saint Michael",
+    "whatsapp": "https://api.whatsapp.com/send?phone=12462321307"
+  },
+  "heroImage": "https://billfisherbarbados.com/wp-content/uploads/2025/03/4a62c076-bc25-4cfe-aafa-e787ed3e624c-e1748628979641.jpg",
+  "sourceUrls": [
+    "https://billfisherbarbados.com/",
+    "https://billfisherbarbados.com/about/",
+    "https://billfisherbarbados.com/barbados-fishing-charters/",
+    "https://billfisherbarbados.com/luxury-fishing-charters/",
+    "https://billfisherbarbados.com/billfisher-charters/",
+    "https://billfisherbarbados.com/take-a-chance-charters/",
+    "https://billfisherbarbados.com/fishing-charters/",
+    "https://billfisherbarbados.com/faqs/",
+    "https://billfisherbarbados.com/gallery/",
+    "https://billfisherbarbados.com/contact-us/"
+  ],
+  "trips": [
+    {
+      "title": "Shared Half Day Trip",
+      "kind": "tour",
+      "summary": "A shared deep sea fishing trip on Billfisher III, a 40 foot Viking sportfisher, with up to six guests. Lines are in the water within about 10 minutes of leaving the dock, fishing inshore or offshore for wahoo, mahi, tuna and barracuda, with a chance of marlin.",
+      "highlights": [
+        "Open boat, maximum 6 guests",
+        "Minimum 2 people per booking",
+        "Runs Mondays and Wednesdays in season",
+        "Boat has a full bathroom"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "06:45"
+      ],
+      "season": "Seasonal, Mondays and Wednesdays",
+      "departsFrom": "Inner Careenage, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person (minimum 2 persons)",
+          "amount": 199,
+          "currency": "USD",
+          "note": "USD shown for reference"
+        },
+        {
+          "label": "Per person (minimum 2 persons)",
+          "amount": 398,
+          "currency": "BBD",
+          "note": "Amount charged at checkout"
+        },
+        {
+          "label": "Round trip transport, per person (optional)",
+          "amount": 15,
+          "currency": "USD",
+          "note": "BBD$30; not available for cruise ship passengers"
+        }
+      ],
+      "priceFrom": 199,
+      "includes": [
+        "Soft drinks",
+        "Beer",
+        "Rum",
+        "Bottled water",
+        "Dry snacks",
+        "Fishing gear"
+      ],
+      "bring": [
+        "Beach towel",
+        "Hat",
+        "Swimwear",
+        "Sunscreen",
+        "Extra set of clothes"
+      ],
+      "requirements": "Children must be 5 years or older; minors must be accompanied by an adult.",
+      "offer": null,
+      "images": [
+        "https://billfisherbarbados.com/wp-content/uploads/2025/03/IMG_6267.png"
+      ],
+      "bookingLinks": [
+        "https://rezbs.com/external/239cb5a72fe2fd65410584bf23662e24-391"
+      ],
+      "sourceUrl": "https://billfisherbarbados.com/barbados-fishing-charters/",
+      "checkNotes": "Start time is 6:45 AM on the trip page but 6:30 AM on the Billfisher III and Fishing Charters card pages; used the trip page. Rum is listed on the trip page but not on the card. All payments are processed in BBD at a fixed US$1 = BBD$2.00; USD prices are shown for reference."
+    },
+    {
+      "title": "Private Exclusive Half Day Trip",
+      "kind": "charter",
+      "summary": "A private four hour fishing trip on Billfisher III for up to six people, aimed at wahoo, barracuda and blackfin tuna in season. With notice the crew can try some jigging, and they will fillet part of the catch for you to take home.",
+      "highlights": [
+        "Private boat for up to 6",
+        "Morning or late morning start",
+        "Jigging possible with advance notice",
+        "Fresh fillets from the catch"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "06:30",
+        "11:00"
+      ],
+      "season": null,
+      "departsFrom": "Inner Careenage, Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter, up to 6 persons",
+          "amount": 700,
+          "currency": "USD",
+          "note": "USD shown for reference"
+        },
+        {
+          "label": "Private charter, up to 6 persons",
+          "amount": 1400,
+          "currency": "BBD",
+          "note": "Amount charged at checkout"
+        },
+        {
+          "label": "Round trip transport, per group (optional)",
+          "amount": 75,
+          "currency": "USD",
+          "note": "BBD$150; not available for cruise ship passengers"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Soft drinks",
+        "Beer",
+        "Rum",
+        "Bottled water",
+        "Dry snacks",
+        "Wraps"
+      ],
+      "bring": [
+        "Beach towel",
+        "Hat",
+        "Swimwear",
+        "Sunscreen",
+        "Extra set of clothes"
+      ],
+      "requirements": "Children must be 5 years or older; minors must be accompanied by an adult.",
+      "offer": null,
+      "images": [
+        "https://billfisherbarbados.com/wp-content/uploads/2025/03/AspectRatioBlock-2.png"
+      ],
+      "bookingLinks": [
+        "https://rezbs.com/external/239cb5a72fe2fd65410584bf23662e24-392"
+      ],
+      "sourceUrl": "https://billfisherbarbados.com/barbados-fishing-charters/",
+      "checkNotes": "Wraps appear on the card pages but not on the trip page. Price is per boat. All payments are processed in BBD at a fixed US$1 = BBD$2.00; USD prices are shown for reference."
+    },
+    {
+      "title": "Fish, Swim & BBQ Adventure",
+      "kind": "charter",
+      "summary": "A relaxed private afternoon on Billfisher III that mixes light trolling with a stop at a calm spot to swim and snorkel. The crew grills part of the catch on board for lunch, and a bottle of bubbly marks the day.",
+      "highlights": [
+        "Trolling for mahi, barracuda or tuna",
+        "Swim and snorkel stop with turtles and shipwrecks",
+        "Fresh fish BBQ lunch on board",
+        "Private boat for up to 6"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [
+        "11:00"
+      ],
+      "season": null,
+      "departsFrom": "Inner Careenage, Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter, up to 6 persons",
+          "amount": 875,
+          "currency": "USD",
+          "note": "USD shown for reference"
+        },
+        {
+          "label": "Private charter, up to 6 persons",
+          "amount": 1750,
+          "currency": "BBD",
+          "note": "Amount charged at checkout"
+        },
+        {
+          "label": "Round trip transport, per group (optional)",
+          "amount": 75,
+          "currency": "USD",
+          "note": "BBD$150; not available for cruise ship passengers"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Soft drinks",
+        "Beer",
+        "Rum",
+        "Bottled water",
+        "A bottle of prosecco",
+        "Lunch: BBQ fish, grilled potatoes, Caribbean salad, pickled cucumber, plantain",
+        "Dry snacks",
+        "Mask and snorkel"
+      ],
+      "bring": [
+        "Beach towel",
+        "Hat",
+        "Swimwear",
+        "Sunscreen",
+        "Extra set of clothes"
+      ],
+      "requirements": "Children must be 5 years or older; minors must be accompanied by an adult. Snorkellers must be able to swim unassisted; no lifeguard on duty.",
+      "offer": null,
+      "images": [
+        "https://billfisherbarbados.com/wp-content/uploads/2025/03/IMG_3023-e1742577263359.jpg"
+      ],
+      "bookingLinks": [
+        "https://rezbs.com/external/239cb5a72fe2fd65410584bf23662e24-393"
+      ],
+      "sourceUrl": "https://billfisherbarbados.com/barbados-fishing-charters/",
+      "checkNotes": "Price is per boat. Snorkelling depends on weather and sea conditions. All payments are processed in BBD at a fixed US$1 = BBD$2.00; USD prices are shown for reference."
+    },
+    {
+      "title": "Private Exclusive 3/4 Day Trip",
+      "kind": "charter",
+      "summary": "Six hours on Billfisher III gives time to fish several areas, inshore and offshore, or to target marlin. From January to May the crew may search offshore for floating objects and fish the FADs for wahoo and dorado.",
+      "highlights": [
+        "Private boat for up to 6",
+        "Inshore and offshore, or target marlin",
+        "January to May: offshore floating object fishing",
+        "Fishing at the FADs for pelagic species"
+      ],
+      "duration": "6 hours",
+      "durationMinutes": 360,
+      "departureTimes": [
+        "06:30"
+      ],
+      "season": null,
+      "departsFrom": "Inner Careenage, Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter, up to 6 persons",
+          "amount": 950,
+          "currency": "USD",
+          "note": "USD shown for reference"
+        },
+        {
+          "label": "Private charter, up to 6 persons",
+          "amount": 1900,
+          "currency": "BBD",
+          "note": "Amount charged at checkout"
+        },
+        {
+          "label": "Round trip transport, per group (optional)",
+          "amount": 75,
+          "currency": "USD",
+          "note": "BBD$150; not available for cruise ship passengers"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Soft drinks",
+        "Beer",
+        "Rum",
+        "Bottled water",
+        "Dry snacks",
+        "Wraps"
+      ],
+      "bring": [
+        "Beach towel",
+        "Hat",
+        "Swimwear",
+        "Sunscreen",
+        "Extra set of clothes"
+      ],
+      "requirements": "Children must be 5 years or older; minors must be accompanied by an adult.",
+      "offer": null,
+      "images": [
+        "https://billfisherbarbados.com/wp-content/uploads/2025/03/IMG_6114.jpg"
+      ],
+      "bookingLinks": [
+        "https://rezbs.com/external/239cb5a72fe2fd65410584bf23662e24-394"
+      ],
+      "sourceUrl": "https://billfisherbarbados.com/barbados-fishing-charters/",
+      "checkNotes": "Price is per boat. All payments are processed in BBD at a fixed US$1 = BBD$2.00; USD prices are shown for reference."
+    },
+    {
+      "title": "Private Exclusive Full Day Trip",
+      "kind": "charter",
+      "summary": "A full eight hour day on Billfisher III, with the most time to fish further offshore or both inshore and offshore. The operator describes it as its marlin trip.",
+      "highlights": [
+        "Private boat for up to 6",
+        "Best trip for marlin, per the operator",
+        "January to May: offshore floating object fishing",
+        "Light lunch included"
+      ],
+      "duration": "8 hours",
+      "durationMinutes": 480,
+      "departureTimes": [
+        "06:30"
+      ],
+      "season": null,
+      "departsFrom": "Inner Careenage, Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter, up to 6 persons",
+          "amount": 1400,
+          "currency": "USD",
+          "note": "USD shown for reference"
+        },
+        {
+          "label": "Private charter, up to 6 persons",
+          "amount": 2800,
+          "currency": "BBD",
+          "note": "Amount charged at checkout"
+        },
+        {
+          "label": "Round trip transport, per group (optional)",
+          "amount": 75,
+          "currency": "USD",
+          "note": "BBD$150; not available for cruise ship passengers"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Soft drinks",
+        "Beer",
+        "Rum",
+        "Bottled water",
+        "Dry snacks",
+        "Wraps",
+        "Light lunch of fish or chicken pasta salad"
+      ],
+      "bring": [
+        "Beach towel",
+        "Hat",
+        "Swimwear",
+        "Sunscreen",
+        "Extra set of clothes"
+      ],
+      "requirements": "Children must be 5 years or older; minors must be accompanied by an adult.",
+      "offer": null,
+      "images": [
+        "https://billfisherbarbados.com/wp-content/uploads/2025/03/IMG_7603.jpg"
+      ],
+      "bookingLinks": [
+        "https://rezbs.com/external/239cb5a72fe2fd65410584bf23662e24-398"
+      ],
+      "sourceUrl": "https://billfisherbarbados.com/barbados-fishing-charters/",
+      "checkNotes": "Price is per boat. All payments are processed in BBD at a fixed US$1 = BBD$2.00; USD prices are shown for reference."
+    },
+    {
+      "title": "Platinum Luxury Charter - 5 hours",
+      "kind": "charter",
+      "summary": "A private five hour fishing trip on Take a Chance, a 50 foot Bertram with an air conditioned salon. A premium bar, canapés and wine are included, and you can stop to snorkel with turtles over shipwrecks after fishing.",
+      "highlights": [
+        "50 ft Bertram with air conditioned salon",
+        "Premium bar, wine and prosecco",
+        "Optional snorkel stop at turtles and shipwrecks",
+        "Morning or afternoon start"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [
+        "06:30",
+        "12:30"
+      ],
+      "season": null,
+      "departsFrom": "Inner Careenage, Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter (up to 10 or 12 persons, see notes)",
+          "amount": 1485,
+          "currency": "USD",
+          "note": "USD shown for reference"
+        },
+        {
+          "label": "Private charter (up to 10 or 12 persons, see notes)",
+          "amount": 2970,
+          "currency": "BBD",
+          "note": "Amount charged at checkout"
+        },
+        {
+          "label": "Round trip transport, per group (optional)",
+          "amount": 100,
+          "currency": "USD",
+          "note": "BBD$200; not available for cruise ship passengers"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Soft drinks",
+        "Premium bar (whiskey, gin, vodka), wine and prosecco",
+        "Premium beer",
+        "Bottled water",
+        "Dry snacks",
+        "Fruit and cheese platter",
+        "Spicy tuna wraps",
+        "Assorted canapés",
+        "Mask and snorkel"
+      ],
+      "bring": [
+        "Beach towel",
+        "Hat",
+        "Swimwear",
+        "Sunscreen",
+        "Extra set of clothes"
+      ],
+      "requirements": "Children must be 5 years or older; minors must be accompanied by an adult. Snorkellers must be able to swim unassisted; no lifeguard on duty.",
+      "offer": null,
+      "images": [
+        "https://billfisherbarbados.com/wp-content/uploads/2026/06/IMG_2157-1.jpeg"
+      ],
+      "bookingLinks": [
+        "https://rezbs.com/external/319c9d4ff2f104772bf8d8fd4a485058-445",
+        "https://rezbs.com/external/239cb5a72fe2fd65410584bf23662e24-396"
+      ],
+      "sourceUrl": "https://billfisherbarbados.com/luxury-fishing-charters/",
+      "checkNotes": "Group size conflict: the Platinum trip page says price for 12 persons, the Take a Chance and Fishing Charters pages say up to 10 persons. Two different booking links appear on the site (one on the luxury and Take a Chance pages, one on the Fishing Charters page). Title on the site uses a dash: Platinum Luxury Charter, 5 hours. All payments are processed in BBD at a fixed US$1 = BBD$2.00; USD prices are shown for reference."
+    },
+    {
+      "title": "Platinum Luxury Charter 3/4 Day",
+      "kind": "charter",
+      "summary": "Six hours on Take a Chance, mixing deep sea or inshore fishing with a snorkelling stop at turtles and shipwrecks. The air conditioned salon, premium bar and food are included.",
+      "highlights": [
+        "50 ft Bertram with air conditioned salon",
+        "Premium bar, wine and prosecco",
+        "Snorkel stop with gear provided",
+        "Fish both inshore and offshore"
+      ],
+      "duration": "6 hours",
+      "durationMinutes": 360,
+      "departureTimes": [
+        "06:30"
+      ],
+      "season": null,
+      "departsFrom": "Inner Careenage, Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter (up to 10 or 12 persons, see notes)",
+          "amount": 1935,
+          "currency": "USD",
+          "note": "USD shown for reference"
+        },
+        {
+          "label": "Private charter (up to 10 or 12 persons, see notes)",
+          "amount": 3870,
+          "currency": "BBD",
+          "note": "Amount charged at checkout"
+        },
+        {
+          "label": "Round trip transport, per group (optional)",
+          "amount": 100,
+          "currency": "USD",
+          "note": "BBD$200; not available for cruise ship passengers"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Soft drinks",
+        "Premium bar (whiskey, gin, vodka), wine and prosecco",
+        "Premium beer",
+        "Bottled water",
+        "Dry snacks and wraps",
+        "Fruit and cheese platter",
+        "Assorted canapés",
+        "Snorkelling gear"
+      ],
+      "bring": [
+        "Beach towel",
+        "Hat",
+        "Swimwear",
+        "Sunscreen",
+        "Extra set of clothes"
+      ],
+      "requirements": "Children must be 5 years or older; minors must be accompanied by an adult. Snorkellers must be able to swim unassisted; no lifeguard on duty.",
+      "offer": null,
+      "images": [
+        "https://billfisherbarbados.com/wp-content/uploads/2026/06/IMG_2114.jpeg"
+      ],
+      "bookingLinks": [
+        "https://rezbs.com/external/319c9d4ff2f104772bf8d8fd4a485058-446",
+        "https://rezbs.com/external/239cb5a72fe2fd65410584bf23662e24-395"
+      ],
+      "sourceUrl": "https://billfisherbarbados.com/luxury-fishing-charters/",
+      "checkNotes": "Trip page header says starts 6:30 AM but its text says 6:30 AM or 11:00 AM. Take a Chance card page adds a light lunch of fish or chicken pasta salad, which the trip page does not list. Group size 12 on the trip page, up to 10 on the card pages. Two booking links appear on the site. All payments are processed in BBD at a fixed US$1 = BBD$2.00; USD prices are shown for reference."
+    },
+    {
+      "title": "Platinum Luxury Full Day Charter",
+      "kind": "charter",
+      "summary": "A full eight hour day on Take a Chance, with time to run further offshore or fish inshore and offshore, plus a snorkelling stop at turtles and shipwrecks. From January to May the crew may search for FADs and floating objects for wahoo and dorado.",
+      "highlights": [
+        "50 ft Bertram with air conditioned salon",
+        "Premium bar, wine and prosecco",
+        "Light lunch included",
+        "Snorkel stop with gear provided"
+      ],
+      "duration": "8 hours",
+      "durationMinutes": 480,
+      "departureTimes": [
+        "06:30"
+      ],
+      "season": null,
+      "departsFrom": "Inner Careenage, Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter (up to 10 or 12 persons, see notes)",
+          "amount": 2900,
+          "currency": "USD",
+          "note": "USD shown for reference"
+        },
+        {
+          "label": "Private charter (up to 10 or 12 persons, see notes)",
+          "amount": 5800,
+          "currency": "BBD",
+          "note": "Amount charged at checkout"
+        },
+        {
+          "label": "Round trip transport, per group (optional)",
+          "amount": 100,
+          "currency": "USD",
+          "note": "BBD$200; not available for cruise ship passengers"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Soft drinks",
+        "Premium bar (whiskey, gin, vodka), wine and prosecco",
+        "Premium beer",
+        "Bottled water",
+        "Dry snacks",
+        "Fruit and cheese board",
+        "Light lunch of fish or chicken pasta salad",
+        "Snorkelling gear"
+      ],
+      "bring": [
+        "Beach towel",
+        "Hat",
+        "Swimwear",
+        "Sunscreen",
+        "Extra set of clothes"
+      ],
+      "requirements": "Children must be 5 years or older; minors must be accompanied by an adult. Snorkellers must be able to swim unassisted; no lifeguard on duty.",
+      "offer": null,
+      "images": [
+        "https://billfisherbarbados.com/wp-content/uploads/2026/06/Take-a-chance2.jpeg"
+      ],
+      "bookingLinks": [
+        "https://rezbs.com/external/319c9d4ff2f104772bf8d8fd4a485058-444",
+        "https://rezbs.com/external/239cb5a72fe2fd65410584bf23662e24-397"
+      ],
+      "sourceUrl": "https://billfisherbarbados.com/luxury-fishing-charters/",
+      "checkNotes": "Group size 12 on the trip page, up to 10 on the card pages. Two booking links appear on the site. All payments are processed in BBD at a fixed US$1 = BBD$2.00; USD prices are shown for reference."
+    },
+    {
+      "title": "Deep drop fishing for Queen Snapper",
+      "kind": "charter",
+      "summary": "Deep drop fishing at 700 to 800 feet for queen snapper, by advance request and in daylight only. It is seasonal and depends on weather and sea conditions.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "May to October",
+      "departsFrom": "Inner Careenage, Bridgetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [
+        "Beach towel",
+        "Hat",
+        "Swimwear",
+        "Sunscreen",
+        "Extra set of clothes"
+      ],
+      "requirements": "Children must be 5 years or older; minors must be accompanied by an adult.",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://billfisherbarbados.com/faqs/",
+      "checkNotes": "Mentioned only in the FAQs; no price, duration or booking link. Arranged with advance notice."
+    },
+    {
+      "title": "Daytime swordfish trips",
+      "kind": "charter",
+      "summary": "Daytime swordfish fishing, by advance request. It is seasonal and depends on weather and sea conditions.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "May to October",
+      "departsFrom": "Inner Careenage, Bridgetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [
+        "Beach towel",
+        "Hat",
+        "Swimwear",
+        "Sunscreen",
+        "Extra set of clothes"
+      ],
+      "requirements": "Children must be 5 years or older; minors must be accompanied by an adult.",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://billfisherbarbados.com/faqs/",
+      "checkNotes": "Mentioned only in the FAQs; no price, duration or booking link. Arranged with advance notice."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Online booking through rezbs.com links on each trip (Check Availability); links recorded but not opened. Payments are charged in BBD at US$1 = BBD$2.00, USD shown for reference. Cancellation: at least 72 hours before the trip for a full refund; weather cancellations rescheduled or refunded. Address spelled 'Inner Careenidge' on the contact page (the Careenage). Snorkelling with turtles and shipwrecks is offered on the Platinum charters and the Fish, Swim and BBQ trip; the menu item 'Swim with the Turtles' points to this snorkel add-on, not a separate trip. No turtle feeding is advertised. Guests may bring their own boat-approved rods on private charters only. Footer says Copyright 2025, and photos were uploaded in June 2026."
+}

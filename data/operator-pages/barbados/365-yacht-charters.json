@@ -1,0 +1,1092 @@
+{
+  "slug": "365-yacht-charters",
+  "name": "365 Yacht Charters",
+  "website": "https://www.365yachtcharters.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": null,
+  "category": "Yacht charter broker",
+  "summary": "365 Yacht Charters is a Barbados charter booking service started by founder Nino, who worked as a deckhand on super yachts. It lists private charters on 21 catamarans, motor yachts, powerboats and fishing boats, plus shared lunch and sunset cruises. Bookings are arranged by enquiry, email or WhatsApp.",
+  "standouts": [
+    "Private charters on 21 boats, from an Axopar 28 to 63 ft motor catamarans",
+    "Shared lunch, snorkel and sunset cruises with food and drinks included",
+    "Replies to email and WhatsApp enquiries within 8 hours"
+  ],
+  "contact": {
+    "phone": "+1 (305) 902 5076",
+    "email": "info@365yachtcharters.com",
+    "address": null,
+    "whatsapp": "https://wa.me/message/XDJNLN6DMHCVI1"
+  },
+  "heroImage": "https://static.wixstatic.com/media/638815_7b9af65681714915877ebeb0fb4cbe89~mv2.jpg",
+  "sourceUrls": [
+    "https://www.365yachtcharters.com/",
+    "https://www.365yachtcharters.com/private-charters",
+    "https://www.365yachtcharters.com/shared-charters",
+    "https://www.365yachtcharters.com/enquire-now",
+    "https://www.365yachtcharters.com/s-projects-basic",
+    "https://www.365yachtcharters.com/sitemap.xml",
+    "https://www.365yachtcharters.com/pages-sitemap.xml",
+    "https://www.365yachtcharters.com/blog-posts-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Breezy Days Private Charter",
+      "kind": "charter",
+      "summary": "A private charter on Breezy Days, a 56 ft luxury catamaran. Groups of up to 20 guests book the whole boat for a minimum of 4 hours.",
+      "highlights": [
+        "56 ft Luxury Catamaran",
+        "Up to 20 guests",
+        "Minimum time: 4 hours"
+      ],
+      "duration": "Minimum 4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 2800,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 4 hours"
+        }
+      ],
+      "priceFrom": 2800,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_fcb84600df2f45299761065b6bc5c562~mv2.jpeg",
+        "https://static.wixstatic.com/media/638815_02585a47eb7f47e18b27e56e5a7d0c59~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Seaduced II Private Charter",
+      "kind": "charter",
+      "summary": "A private charter on Seaduced II, a 62 ft luxury catamaran. Groups of up to 20 guests book the whole boat for a minimum of 4 hours.",
+      "highlights": [
+        "62 ft Luxury Catamaran",
+        "Up to 20 guests",
+        "Minimum time: 4 hours"
+      ],
+      "duration": "Minimum 4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 3100,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 4 hours"
+        }
+      ],
+      "priceFrom": 3100,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_414eb51c00844b2cbfdf586bbcfe8c36~mv2.jpg",
+        "https://static.wixstatic.com/media/638815_50225ca525694beb99dcb9334d702922~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Seas The Day Private Charter",
+      "kind": "charter",
+      "summary": "A private charter on Seas The Day, a 38 ft motor boat. Groups of up to 8 guests book the whole boat for a minimum of 4 hours.",
+      "highlights": [
+        "38 ft Motor Boat",
+        "Up to 8 guests",
+        "Minimum time: 4 hours"
+      ],
+      "duration": "Minimum 4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 2000,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 4 hours"
+        }
+      ],
+      "priceFrom": 2000,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_f8ff7d7ce6b04154b6200952f049493f~mv2.jpg",
+        "https://static.wixstatic.com/media/638815_f1afeb9db8d54a289a5a2db305f1db37~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Livity Private Charter",
+      "kind": "charter",
+      "summary": "A private charter on Livity, a 45 ft custom motor catamaran. Groups of up to 25 guests book the whole boat for a minimum of 4 hours.",
+      "highlights": [
+        "45 ft Custom Motor Catamaran",
+        "Up to 25 guests",
+        "Minimum time: 4 hours"
+      ],
+      "duration": "Minimum 4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 2000,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 4 hours"
+        }
+      ],
+      "priceFrom": 2000,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_ae7dd47e8b3c48e789d5af7fed47b226~mv2.jpeg",
+        "https://static.wixstatic.com/media/638815_56c61d9e2dd44c7581f9a9fa623e2f4b~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Seaduced III Private Charter",
+      "kind": "charter",
+      "summary": "A private charter on Seaduced III, a 62 ft luxury catamaran. Groups of up to 20 guests book the whole boat for a minimum of 4 hours.",
+      "highlights": [
+        "62 ft Luxury Catamaran",
+        "Up to 20 guests",
+        "Minimum time: 4 hours"
+      ],
+      "duration": "Minimum 4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 4000,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 4 hours"
+        }
+      ],
+      "priceFrom": 4000,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_d7b0a16768154915813ef38f935fb8cf~mv2.jpeg",
+        "https://static.wixstatic.com/media/638815_bfb782978bd5494cbf904874d9388fa9~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Calypso Private Charter",
+      "kind": "charter",
+      "summary": "A private charter on Calypso, an Axopar 28 powerboat. Groups of up to 8 guests book the whole boat for a minimum of 2 hours.",
+      "highlights": [
+        "Axopar 28",
+        "Up to 8 guests",
+        "Minimum time: 2 hours"
+      ],
+      "duration": "Minimum 2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 500,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 2 hours"
+        }
+      ],
+      "priceFrom": 500,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_cd3c0c4eca56405d9413a7b9e233732b~mv2.jpg",
+        "https://static.wixstatic.com/media/638815_8d0d430b308244a2b64c69cf792ac7cb~mv2.webp"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Seaduced I Private Charter",
+      "kind": "charter",
+      "summary": "A private charter on Seaduced I, a 47 ft luxury catamaran. Groups of up to 16 guests book the whole boat for a minimum of 4 hours.",
+      "highlights": [
+        "47 ft Luxury Catamaran",
+        "Up to 16 guests",
+        "Minimum time: 4 hours"
+      ],
+      "duration": "Minimum 4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 1860,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 4 hours"
+        }
+      ],
+      "priceFrom": 1860,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_ea3b0097a72b4e00a7fc0c6e908f788b~mv2.jpg",
+        "https://static.wixstatic.com/media/638815_f1afeb9db8d54a289a5a2db305f1db37~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Seaduced Pardo 50 Private Charter",
+      "kind": "charter",
+      "summary": "A private charter on Seaduced Pardo 50, a 50 ft motor boat. Groups of up to 12 guests book the whole boat for a minimum of 5 hours.",
+      "highlights": [
+        "50 ft Motor Boat",
+        "Up to 12 guests",
+        "Minimum time: 5 hours"
+      ],
+      "duration": "Minimum 5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 4500,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 5 hours"
+        }
+      ],
+      "priceFrom": 4500,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_6171f2bedf1545e7b305c5fe055f9af3~mv2.jpg",
+        "https://static.wixstatic.com/media/638815_f1afeb9db8d54a289a5a2db305f1db37~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Cool Runnings IV Private Charter",
+      "kind": "charter",
+      "summary": "A private charter on Cool Runnings IV, a 56 ft luxury catamaran. Groups of up to 20 guests book the whole boat for a minimum of 5 hours.",
+      "highlights": [
+        "56 ft Luxury Catamaran",
+        "Up to 20 guests",
+        "Minimum time: 5 hours"
+      ],
+      "duration": "Minimum 5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 3125,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 5 hours"
+        }
+      ],
+      "priceFrom": 3125,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_b06121fde0e942119e16daee0b2bea3f~mv2.jpeg",
+        "https://static.wixstatic.com/media/638815_5a6e69bf9ea14c9da059195922d68831~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Lady Marmalade Private Charter",
+      "kind": "charter",
+      "summary": "A private charter on Lady Marmalade, a 46 ft luxury catamaran. Groups of up to 25 guests book the whole boat for a minimum of 4 hours.",
+      "highlights": [
+        "46 ft Luxury Catamaran",
+        "Up to 25 guests",
+        "Minimum time: 4 hours"
+      ],
+      "duration": "Minimum 4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 2000,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 4 hours"
+        }
+      ],
+      "priceFrom": 2000,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_ff2edcdfa7304102aa6959c09ced1820~mv2.jpg",
+        "https://static.wixstatic.com/media/638815_e59bc00e739f4bf4a5baf304c63701ce~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Cool Runnings II Private Charter",
+      "kind": "charter",
+      "summary": "A private charter on Cool Runnings II, a 58 ft catamaran. Groups of up to 40 guests book the whole boat for a minimum of 5 hours.",
+      "highlights": [
+        "58 ft Catamaran",
+        "Up to 40 guests",
+        "Minimum time: 5 hours"
+      ],
+      "duration": "Minimum 5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 2500,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 5 hours"
+        }
+      ],
+      "priceFrom": 2500,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_29365955a77242379c593ce07afa42c8~mv2.jpeg",
+        "https://static.wixstatic.com/media/638815_8d699120936b4d9485c266ae9386a740~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Cool Runnings III Private Charter",
+      "kind": "charter",
+      "summary": "A private charter on Cool Runnings III, a 62 ft catamaran. Groups of up to 70 guests book the whole boat for a minimum of 5 hours.",
+      "highlights": [
+        "62 ft Catamaran",
+        "Up to 70 guests",
+        "Minimum time: 5 hours"
+      ],
+      "duration": "Minimum 5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 2875,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 5 hours"
+        }
+      ],
+      "priceFrom": 2875,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_70843a2305ec495ba3d0e81724d5e742~mv2.jpeg",
+        "https://static.wixstatic.com/media/638815_81d3294e0ea64c01a5819e728c06fa49~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Princess Hope Private Charter",
+      "kind": "charter",
+      "summary": "A private charter on Princess Hope, a 58 ft motor yacht. Groups of up to 25 guests book the whole boat for a minimum of 4 hours.",
+      "highlights": [
+        "58 ft Motor Yacht",
+        "Up to 25 guests",
+        "Minimum time: 4 hours"
+      ],
+      "duration": "Minimum 4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 2500,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 4 hours"
+        }
+      ],
+      "priceFrom": 2500,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_5a28c7554ae242aead8a86de584a3f79~mv2.jpg",
+        "https://static.wixstatic.com/media/638815_4a6951aa30624085b37fa6ef7f72ce97~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Oasis II Private Charter",
+      "kind": "charter",
+      "summary": "A private charter on Oasis II, a 44 ft motor yacht. Groups of up to 9 guests book the whole boat for a minimum of 4 hours.",
+      "highlights": [
+        "44 ft Motor Yacht",
+        "Up to 9 guests",
+        "Minimum time: 4 hours"
+      ],
+      "duration": "Minimum 4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 2000,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 4 hours"
+        }
+      ],
+      "priceFrom": 2000,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_2c923bfbd11d4c9597653801972e59e0~mv2.jpg",
+        "https://static.wixstatic.com/media/638815_b33585af66f04ad7923912ff4fff49fa~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Searenity Private Charter",
+      "kind": "charter",
+      "summary": "A private charter on Searenity, a 37 ft powerboat. Groups of up to 12 guests book the whole boat for a minimum of 3 hours.",
+      "highlights": [
+        "37 ft Powerboat",
+        "Up to 12 guests",
+        "Minimum time: 3 hours"
+      ],
+      "duration": "Minimum 3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 1200,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 3 hours"
+        }
+      ],
+      "priceFrom": 1200,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_dbbf0ef813514696acf0ab651ca425ed~mv2.jpg",
+        "https://static.wixstatic.com/media/638815_0d35c0850a124bbd9069fa79fac86973~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Cat & The Fiddle Private Charter",
+      "kind": "charter",
+      "summary": "A private charter on Cat & The Fiddle, a 62 ft luxury catamaran. Groups of up to 20 guests book the whole boat for a minimum of 4 hours.",
+      "highlights": [
+        "62 ft Luxury Catamaran",
+        "Up to 20 guests",
+        "Minimum time: 4 hours"
+      ],
+      "duration": "Minimum 4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 3600,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 4 hours"
+        }
+      ],
+      "priceFrom": 3600,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_eb8baee220c7458c80383156b8d26975~mv2.jpg",
+        "https://static.wixstatic.com/media/638815_9471f1942767476091a8fb3e21eec90b~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Hey Diddle Diddle Private Charter",
+      "kind": "charter",
+      "summary": "A private charter on Hey Diddle Diddle, a 40 ft luxury powerboat. Groups of up to 10 guests book the whole boat for a minimum of 3 hours.",
+      "highlights": [
+        "40 ft Luxury Powerboat",
+        "Up to 10 guests",
+        "Minimum time: 3 hours"
+      ],
+      "duration": "Minimum 3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 1650,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 3 hours"
+        }
+      ],
+      "priceFrom": 1650,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_6cbb34adcdfe477b80680e02964d35ac~mv2.jpeg",
+        "https://static.wixstatic.com/media/638815_9a98acd4abbe4beaa66d7957f684583a~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Cat & The Fiddle II - Over The Moon Private Charter",
+      "kind": "charter",
+      "summary": "A private charter on Cat & The Fiddle II - Over The Moon, a 63 ft motor catamaran. Groups of up to 20 guests book the whole boat for a minimum of 4 hours.",
+      "highlights": [
+        "63 ft Motor Catamaran",
+        "Up to 20 guests",
+        "Minimum time: 4 hours"
+      ],
+      "duration": "Minimum 4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 3800,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 4 hours"
+        }
+      ],
+      "priceFrom": 3800,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_76d2f839e807477a946bffc6ea8a43bf~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Cat & The Fiddle III - Blue Moon Private Charter",
+      "kind": "charter",
+      "summary": "A private charter on Cat & The Fiddle III - Blue Moon, a 63 ft motor catamaran. Groups of up to 20 guests book the whole boat for a minimum of 4 hours.",
+      "highlights": [
+        "63 ft Motor Catamaran",
+        "Up to 20 guests",
+        "Minimum time: 4 hours"
+      ],
+      "duration": "Minimum 4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 4400,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 4 hours"
+        }
+      ],
+      "priceFrom": 4400,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_96164d126cf04e51a38dd5fb518f69aa~mv2.jpg",
+        "https://static.wixstatic.com/media/638815_8fb7fee731444cb79228c6054ab7a680~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Speartime Luxury Charters Private Charter",
+      "kind": "charter",
+      "summary": "A private fishing charter on Speartime Luxury Charters, listed as a 41 ft fishing boat. Groups of up to 14 guests book the boat for a minimum of 4 hours.",
+      "highlights": [
+        "41 ft Luxury Fishing Charter",
+        "Up to 14 guests",
+        "Minimum time: 4 hours"
+      ],
+      "duration": "Minimum 4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 900,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 4 hours"
+        }
+      ],
+      "priceFrom": 900,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_4ddc0ed100c84a338cdd67eb0868013f~mv2.png",
+        "https://static.wixstatic.com/media/638815_e13071c82f1b4240a9bf671b946244ca~mv2.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated."
+    },
+    {
+      "title": "Nauti Dreams Private Charter",
+      "kind": "charter",
+      "summary": "A private fishing charter on Nauti Dreams, listed as a 36 ft fishing boat. Groups of up to 12 guests book the boat for a minimum of 3 hours.",
+      "highlights": [
+        "36 ft Luxury Fishing Charter",
+        "Up to 12 guests",
+        "Minimum time: 3 hours inshore"
+      ],
+      "duration": "Minimum 3 hours inshore",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, whole boat",
+          "amount": 495,
+          "currency": "USD",
+          "note": "From price, per boat, minimum 3 hours inshore"
+        }
+      ],
+      "priceFrom": 495,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_b7e51acf54a04460a0d74649109b72bd~mv2.jpg",
+        "https://static.wixstatic.com/media/638815_0c98324ce6dc45d59106be74fdb4cf25~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/private-charters",
+      "checkNotes": "Per boat price, not per person. BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point and what is included are not stated. Listed as 3 hours minimum for inshore fishing; offshore terms not stated."
+    },
+    {
+      "title": "Cool Runnings IV Luxury Shared Catamaran",
+      "kind": "cruise",
+      "summary": "A shared lunch cruise on the Cool Runnings IV catamaran for adults only. It runs for five hours on Tuesdays and Thursdays, with food and drinks included.",
+      "highlights": [
+        "Lunch cruise",
+        "Up to 18 guests",
+        "Runs Tuesday and Thursdays",
+        "Food and beverages included"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [
+        "11:00"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 190,
+          "currency": "USD",
+          "note": "Adults only*"
+        }
+      ],
+      "priceFrom": 190,
+      "includes": [
+        "Food and beverages"
+      ],
+      "bring": [],
+      "requirements": "Adults only",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_b06121fde0e942119e16daee0b2bea3f~mv2.jpeg",
+        "https://static.wixstatic.com/media/638815_5a6e69bf9ea14c9da059195922d68831~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/shared-charters",
+      "checkNotes": "BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point not stated. The price carries an asterisk (Adults Only*) with no footnote shown on the page."
+    },
+    {
+      "title": "Cat & The Fiddle Shared Lunch Cruise",
+      "kind": "cruise",
+      "summary": "A five hour shared lunch cruise on the Cat & The Fiddle catamaran, for up to 20 guests. Food and drinks are included.",
+      "highlights": [
+        "Lunch cruise",
+        "Up to 20 guests",
+        "Food and beverages included"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [
+        "10:00"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 200,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child",
+          "amount": 100,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 200,
+      "includes": [
+        "Food and beverages"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_41311b17efc84cc9852db8b4ed92c506~mv2.jpg",
+        "https://static.wixstatic.com/media/638815_59d91bc9e119408894263a79a8c57844~mv2.webp"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/shared-charters",
+      "checkNotes": "BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point not stated. Days of operation not stated."
+    },
+    {
+      "title": "Cool Runnings II Shared Snorkel Lunch Cruise",
+      "kind": "snorkel",
+      "summary": "A shared snorkel and lunch cruise on the Cool Runnings II catamaran, running every day. It lasts five hours, with food and drinks included.",
+      "highlights": [
+        "Snorkel lunch cruise",
+        "Up to 40 guests",
+        "Runs every day",
+        "Food and beverages included"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [
+        "09:30"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 105,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child",
+          "amount": 52.5,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 105,
+      "includes": [
+        "Food and beverages"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_5462a9eabedc4223bfb74b70f016cbdc~mv2.jpg",
+        "https://static.wixstatic.com/media/638815_29365955a77242379c593ce07afa42c8~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/shared-charters",
+      "checkNotes": "BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point not stated."
+    },
+    {
+      "title": "Cool Runnings III Shared Snorkel Lunch Cruise",
+      "kind": "snorkel",
+      "summary": "A shared snorkel and lunch cruise on the Cool Runnings III catamaran, running every day. It lasts five hours, with food and drinks included.",
+      "highlights": [
+        "Snorkel lunch cruise",
+        "Up to 40 guests",
+        "Runs every day",
+        "Food and beverages included"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [
+        "09:30"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 105,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child",
+          "amount": 52.5,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 105,
+      "includes": [
+        "Food and beverages"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_81d3294e0ea64c01a5819e728c06fa49~mv2.jpeg",
+        "https://static.wixstatic.com/media/638815_f2539a3a732d4d1c9723ddc4df59427e~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/shared-charters",
+      "checkNotes": "BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point not stated."
+    },
+    {
+      "title": "Cool Runnings II Shared Sunset Cruise",
+      "kind": "cruise",
+      "summary": "A four hour shared sunset cruise on the Cool Runnings II catamaran, on Wednesdays and Thursdays. Food and drinks are included.",
+      "highlights": [
+        "Sunset cruise",
+        "Up to 40 guests",
+        "Runs Wednesdays and Thursdays",
+        "Food and beverages included"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "15:00"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 95,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child",
+          "amount": 47.5,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 95,
+      "includes": [
+        "Food and beverages"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_8d699120936b4d9485c266ae9386a740~mv2.jpeg",
+        "https://static.wixstatic.com/media/638815_29365955a77242379c593ce07afa42c8~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/shared-charters",
+      "checkNotes": "BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point not stated."
+    },
+    {
+      "title": "Cool Runnings III Shared Sunset Cruise",
+      "kind": "cruise",
+      "summary": "A four hour shared sunset cruise on the Cool Runnings III catamaran, on Wednesdays and Thursdays. Food and drinks are included.",
+      "highlights": [
+        "Sunset cruise",
+        "Up to 40 guests",
+        "Runs Wednesdays and Thursdays",
+        "Food and beverages included"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "15:00"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 95,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child",
+          "amount": 47.5,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 95,
+      "includes": [
+        "Food and beverages"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_70843a2305ec495ba3d0e81724d5e742~mv2.jpeg",
+        "https://static.wixstatic.com/media/638815_f2539a3a732d4d1c9723ddc4df59427e~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/shared-charters",
+      "checkNotes": "BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point not stated."
+    },
+    {
+      "title": "Cat & The Fiddle Shared Sunset Cruise",
+      "kind": "cruise",
+      "summary": "A three and a half hour shared sunset cruise on the Cat & The Fiddle catamaran, for up to 20 guests. Food and drinks are included.",
+      "highlights": [
+        "Sunset cruise",
+        "Up to 20 guests",
+        "Food and beverages included"
+      ],
+      "duration": "3.5 hours",
+      "durationMinutes": 210,
+      "departureTimes": [
+        "16:00"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 170,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child",
+          "amount": 100,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 170,
+      "includes": [
+        "Food and beverages"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/638815_96d06ba89fef4659b4549521e03f3ec0~mv2.jpg",
+        "https://static.wixstatic.com/media/638815_448833d3971f4119bede5c9ef5b8d025~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.365yachtcharters.com/shared-charters",
+      "checkNotes": "BOOK NOW leads to the enquiry form at https://www.365yachtcharters.com/enquire-now. Departure point not stated. Days of operation not stated."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Exclusive discounts available on private charters",
+      "conditions": "Ask when enquiring",
+      "validUntil": null,
+      "sourceUrl": "https://www.365yachtcharters.com/"
+    }
+  ],
+  "checkNotes": "A booking agent, not a boat owner: the boats belong to other Barbados operators (Cool Runnings, Seaduced, Cat & The Fiddle and others), so some trips may repeat on those operators' own pages. Every BOOK NOW button leads to an enquiry form (https://www.365yachtcharters.com/enquire-now); no live booking links found, although the site loads a Wix Bookings widget and says 'Easy to book & pay online'. The Call number is a US number, +1 (305) 902 5076; the WhatsApp number is +1 (246) 844 4419. No departure points or street address on the site, so town is null. Private charter priceFrom values are per boat, not per person. Still trading: pages updated 2026-08-31 in the sitemap and photos on the private charters page are named December 2025."
+}

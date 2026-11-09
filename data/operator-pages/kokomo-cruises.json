@@ -1,0 +1,285 @@
+{
+  "slug": "kokomo-cruises",
+  "name": "Kokomo Cruises",
+  "website": "https://kokomocruises.com.au",
+  "rezdyAlias": "kokomocruises1",
+  "state": "QLD",
+  "town": "Main Beach",
+  "category": "Whale watching and charters",
+  "summary": "Family-owned Gold Coast operator running humpback whale watching cruises in the winter migration season, a 3.5 hour Broadwater sightseeing cruise with two island stops, and private charters. The vessel is based at Marina Mirage in Main Beach and was built in Brisbane for Queensland waters. The crew hold specialised marine qualifications and complete regular safety drills on board.",
+  "standouts": [
+    "Family-owned and operated, based at Marina Mirage in Main Beach",
+    "Vessel built in Brisbane by Woody Marine Fabrications, with an underwater camera, a bow loader and three Yamaha outboards",
+    "Crew hold specialised marine qualifications and complete safety drills on board",
+    "Private charters include an inflatable dock, snorkels, beach games, surround sound and an esky with ice"
+  ],
+  "contact": {
+    "phone": "+61 458 794 100",
+    "email": "info@kokomocruises.com.au",
+    "address": "Marina Mirage, Main Beach, Gold Coast QLD"
+  },
+  "heroImage": "https://kokomocruises.com.au/wp-content/uploads/2022/11/DSC_3791-1-scaled.jpg",
+  "sourceUrls": [
+    "https://kokomocruises.com.au/",
+    "https://kokomocruises.com.au/whale-watching/",
+    "https://kokomocruises.com.au/book-now/",
+    "https://kokomocruises.com.au/city-to-surf-sightseeing-cruise/",
+    "https://kokomocruises.com.au/charters/",
+    "https://kokomocruises.com.au/private-whale-watching/",
+    "https://kokomocruises.com.au/the-boat/",
+    "https://kokomocruises.com.au/about-us/",
+    "https://kokomocruises.com.au/contact-us/",
+    "https://kokomocruises.com.au/blog/",
+    "https://kokomocruises.com.au/blog/what-to-expect-on-our-whale-watching-cruises/",
+    "https://kokomocruises.com.au/blog/whale-season-2026-gold-coast-the-ultimate-guide/",
+    "https://kokomocruises.com.au/blog/experience-broadwater-private-charters/",
+    "https://kokomocruises.com.au/blog/when-is-the-best-time-for-whale-watching-on-the-gold-coast/",
+    "https://kokomocruises.com.au/wp-content/uploads/2025/10/KOKOMO-Private-Charter-Information-Pack.pdf",
+    "https://kokomocruises.com.au/sitemap.xml",
+    "https://kokomocruises.com.au/page-sitemap.xml",
+    "https://kokomocruises.com.au/post-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Whale Watching Cruise",
+      "kind": "cruise",
+      "summary": "A 2.5 hour cruise from Marina Mirage out to the humpback whale migration route off the Gold Coast, about 20 minutes from the marina. The crew gives live commentary on whale facts and local sights, and the boat has an underwater camera and two drop-down screens. A licensed bar, snacks and tour photos can be bought on board.",
+      "highlights": [
+        "Live commentary on whale facts and sightseeing",
+        "Underwater camera with two drop-down TV displays",
+        "Licensed bar, snacks and photos to buy on board",
+        "Three departures a day, the 2:30pm one on weekends only"
+      ],
+      "duration": "2.5 hours",
+      "durationMinutes": 150,
+      "departureTimes": [
+        "08:30",
+        "11:30",
+        "14:30"
+      ],
+      "season": "June to November",
+      "departsFrom": "Marina Mirage, Main Beach, Gold Coast",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Live commentary on whales and local sights",
+        "Underwater camera shown on two drop-down TV displays",
+        "Indoor seating"
+      ],
+      "bring": [
+        "A camera"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://kokomocruises.com.au/wp-content/uploads/2022/11/DSC_3791-1-scaled.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2022/11/DSC_3812-scaled.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2022/11/copy-scaled.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2022/07/DJI_0846.jpg"
+      ],
+      "bookingLinks": [
+        "https://kokomocruises.com.au/whale-watching/"
+      ],
+      "sourceUrl": "https://kokomocruises.com.au/whale-watching/",
+      "checkNotes": "Sold through a Rezdy calendar widget embedded on this page (kokomocruises1.rezdy.com/calendarWidget/500948), so the page URL is recorded as the booking link. Prices are only inside that widget; the page has a Pricing heading with no figures, so prices is empty. The widget was not opened. Times come from the page's schedule block, headed Weekly: 8:30am to 11:00am, 11:30am to 2:00pm and 2:30pm to 5:00pm (weekend only). Duration of 2.5 hours is from the home page and matches the schedule. Season is stated differently across the site: this page's FAQ says June to November, its body text says June to late October, the private whale watching page says June to October, and two blog posts say end of May to end of October and late May to November 2026; the FAQ was used. The site offers a sighting guarantee (a free return voucher if no whale is seen) and claims a perfect sighting record; neither is repeated here, and the voucher terms are not on this page. No minimum age, child pricing or accessibility information is stated. Weather cancellation: guests can move the booking to another day or take a full refund (FAQ). The page does not state boat capacity; the boat page says 47 guests and 3 crew."
+    },
+    {
+      "title": "City to Surf Sightseeing Cruise",
+      "kind": "cruise",
+      "summary": "A 3.5 hour cruise on the Gold Coast Broadwater, from the Surfers Paradise skyline to the nature reserves around Jumpinpin Bar, with commentary on the places you pass. There are two island stop-offs with time to swim, try paddleboarding or play a hole-in-one challenge. Guests can join at Marina Mirage in Main Beach or at Surfers Paradise.",
+      "highlights": [
+        "Two island stop-offs",
+        "Paddleboarding, a hole-in-one challenge and swimming in tide pools",
+        "Commentary on the Gold Coast and the Broadwater",
+        "Snacks and drinks from the onboard bar; BYO food and non-alcoholic drinks welcome"
+      ],
+      "duration": "approximately 3.5 hours",
+      "durationMinutes": 210,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Marina Mirage, Main Beach, or Surfers Paradise",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Sightseeing commentary",
+        "Two island stop-offs",
+        "Paddleboarding and a hole-in-one challenge"
+      ],
+      "bring": [
+        "Optional: your own food and non-alcoholic drinks"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://kokomocruises.com.au/wp-content/uploads/2026/08/1_copy-copy-2.png",
+        "https://kokomocruises.com.au/wp-content/uploads/2026/08/Your-paragraph-text-5.png",
+        "https://kokomocruises.com.au/wp-content/uploads/2026/08/Your-paragraph-text-6.png",
+        "https://kokomocruises.com.au/wp-content/uploads/2026/08/Your-paragraph-text-9-1.png"
+      ],
+      "bookingLinks": [
+        "https://kokomocruises.com.au/city-to-surf-sightseeing-cruise/"
+      ],
+      "sourceUrl": "https://kokomocruises.com.au/city-to-surf-sightseeing-cruise/",
+      "checkNotes": "Sold through a Rezdy calendar widget embedded on this page (kokomocruises1.rezdy.com/calendarWidget/774352), so the page URL is recorded as the booking link. Prices, departure times and dates are only inside that widget and were not opened, so prices and departureTimes are empty and no season is recorded. This looks like a new product: its photos were uploaded in August 2026. Swimming is 'conditions permitting'. The page says wildlife sightings cannot be guaranteed. The Surfers Paradise boarding point is not named. Its photos are PNG files with generic names (Your-paragraph-text-N.png) that were not viewed; confirm they are plain photos with no text printed on them. No age or fitness requirements are stated for the swim or paddleboarding."
+    },
+    {
+      "title": "Private Whale Watching",
+      "kind": "charter",
+      "summary": "A private whale watching cruise for your own group, holding up to 47 guests, with the captain finding the humpbacks and giving commentary. The minimum booking is 2.5 hours, and catering, drinks packages and music can be arranged around your group. It is available from June to October.",
+      "highlights": [
+        "Private hire for friends, family or colleagues",
+        "Up to 47 guests",
+        "2.5 hour minimum, additional hours $660 each",
+        "Captain's commentary on whale facts and sightseeing"
+      ],
+      "duration": "2.5 hours minimum",
+      "durationMinutes": 150,
+      "departureTimes": [],
+      "season": "June to October",
+      "departsFrom": "Marina Mirage, Main Beach, Gold Coast",
+      "prices": [
+        {
+          "label": "Standard rate, 2.5 hours (minimum)",
+          "amount": 2640,
+          "currency": "AUD",
+          "note": "Public holiday rates: N/A"
+        },
+        {
+          "label": "Additional hour",
+          "amount": 660,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 2640,
+      "includes": [
+        "Captain and crew",
+        "Captain's commentary on whale facts, history and sightseeing",
+        "All vessel expenses, with no extra costs added to the price"
+      ],
+      "bring": [],
+      "requirements": "Up to 47 guests",
+      "offer": null,
+      "images": [
+        "https://kokomocruises.com.au/wp-content/uploads/2025/05/Kokomo-Whale-SIghting-1.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2022/11/Screen-Shot-2022-11-15-at-3.09.25-pm.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://kokomocruises.com.au/private-whale-watching/",
+      "checkNotes": "Enquiry only (form on the page), so no booking link. Capacity conflict: this page says up to 47 guests and the boat page says 47 guests and 3 crew, but the charters page and the charter information pack say licensed for 40 guests, and our list says 40; 47 is recorded as on this page. The departure point is not stated on this page; Marina Mirage is taken from the whale watching FAQ and the site footer. Catering, drinks and music are mentioned as options with no prices on this page. The whale watching and City to Surf pages carry a blurb saying a private whale tour can include an island stop-off at Wavebreak Island for a swim and picnic; this page does not say so. The page has very few photos; the two listed are its social image and a boat interior picture from the charters page."
+    },
+    {
+      "title": "Private Charter",
+      "kind": "charter",
+      "summary": "Private hire of the Kokomo vessel for up to 40 guests, for birthdays, hens parties, school and seniors groups and other functions. Charters can follow a Broadwater cruise, a picnic stop at Wave Break Island or a longer trip up the Coomera River, or be planned around your group. The boat has a large open deck, deep lounges, a day bed, surround sound and a bow loader for beach drop-offs.",
+      "highlights": [
+        "Licensed for 40 guests on a large open deck",
+        "Charter ideas: Broadwater cruise, Wave Break Island picnic, Coomera River",
+        "Inflatable dock, snorkels, beach games and surround sound included",
+        "BYO drinks and food, or a drinks package and catering on request"
+      ],
+      "duration": "1 hour or more",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "October to May",
+      "departsFrom": "Marina Mirage, Main Beach, Gold Coast",
+      "prices": [
+        {
+          "label": "Standard rate, 1 hour",
+          "amount": 820,
+          "currency": "AUD",
+          "note": "All rates inclusive of GST (charter information pack)"
+        },
+        {
+          "label": "Standard rate, 2 hours",
+          "amount": 1370,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Standard rate, 3 hours",
+          "amount": 1700,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Standard rate, each additional hour",
+          "amount": 550,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Public holiday rate, 3 hours (minimum)",
+          "amount": 2030,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Public holiday rate, each additional hour",
+          "amount": 660,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Christmas Day and New Year's Eve rate, 3 hours (minimum)",
+          "amount": 2360,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Christmas Day and New Year's Eve rate, each additional hour",
+          "amount": 770,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Drinks package, per person per hour",
+          "amount": 25,
+          "currency": "AUD",
+          "note": "Champagne, beer, cider and soft drinks. From the charter information pack; the charters page says drinks packages are available on request"
+        },
+        {
+          "label": "BYO drinks and food, one-off corkage fee",
+          "amount": 50,
+          "currency": "AUD",
+          "note": "Includes use of an extra large esky with ice. From the charter information pack"
+        },
+        {
+          "label": "Fast Pace Package, per hour",
+          "amount": 220,
+          "currency": "AUD",
+          "note": "Added cost, travel at speeds up to 30 knots. From the charter information pack; the charters page says a fast travel package is available on request"
+        },
+        {
+          "label": "Tangalooma day trip, 8 hours (minimum)",
+          "amount": 6210,
+          "currency": "AUD",
+          "note": "Maximum 20 passengers, additional hours $550 each, snorkelling at the Tangalooma wrecks in Moreton Bay. From the charter information pack"
+        }
+      ],
+      "priceFrom": 820,
+      "includes": [
+        "Captain and crew",
+        "Inflatable dock, snorkels, beach games and surround sound with Bluetooth connection",
+        "Esky and ice",
+        "All vessel expenses, with no extra costs added to the price"
+      ],
+      "bring": [
+        "Your own drinks and food, or arrange a drinks package or catering"
+      ],
+      "requirements": "Licensed to hold 40 guests",
+      "offer": null,
+      "images": [
+        "https://kokomocruises.com.au/wp-content/uploads/2023/08/IMG_8175-copy-scaled.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2023/08/IMG_2650-copy-scaled.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2023/08/IMG_8125-copy-scaled.jpg",
+        "https://kokomocruises.com.au/wp-content/uploads/2023/02/IMG_0725-copy-scaled.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://kokomocruises.com.au/charters/",
+      "checkNotes": "Enquiry only (form on the page), so no booking link. Standard, public holiday and Christmas Day and New Year's Eve rates are on the charters page and match the charter information pack PDF (linked from the page); the drinks package, corkage, Fast Pace Package and Tangalooma day trip prices appear only in the PDF, so a person should confirm they are current. The page headline says the Broadwater charter is available October to May (summer), while the whale watching charter runs June to October as a separate page. Capacity conflict: this page and the PDF say licensed for 40 guests, the boat page says 47 guests and 3 crew; 40 is recorded as on this page. The home page says charters suit most occasions and the about page says exclusive charters run in summer. Hens parties are mentioned as available. Catering is by Blue Plates Catering per the PDF."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "No bot check or captcha: every page answered normally to a plain curl request. Booking is through Rezdy (account kokomocruises1). The whale watching and City to Surf pages embed calendar widgets (calendarWidget/500948 and calendarWidget/774352) and the Book Now page embeds the whole catalog (kokomocruises1.rezdy.com/catalog/471141/tours); none were opened, so no prices are known for those two trips. Cruise with Culture is not included as a trip: it appears only as a nav and home page link to jellurgal.rezdy.com/690430/2-5-hour-cruise-with-culture, a different Rezdy account (jellurgal) from Kokomo's, with no page of its own on kokomocruises.com.au. A June 2025 blog post describes it as a scenic cultural cruise or guided Walkabout tour departing Marina Mirage, both at $50 per person, and the home page calls it a summer cultural cruise; check with the operator whether Kokomo runs it or Jellurgal does. Broken links: /sunset-cruise/ (linked from the home page as a private sunset cruise), /charters/private-boat-charter-gold-coast/ and /charters/private-boat-charter-brisbane/ all return 404, so there is no sunset trip or Brisbane charter on the site; a blog post mentions private sunset and wine tasting cruises only as charter ideas. Capacity is inconsistent: 47 guests and 3 crew (boat page, private whale watching page) against licensed for 40 guests (charters page, PDF, our list). The site says all vessels in its fleet, but every page describes a single vessel. Claims not used: Australia's Largest RIB, award winning, an awards graphic in the footer (names not readable), a sighting guarantee and a perfect sighting record, and a Google review summary shown by Trustindex. Phone is shown as +61 458 794 100 (tel link written with spaces). The $50 per person figure for Cruise with Culture comes from a June 2025 blog post ('now just $50 per person'), so treat it as dated. The home page title says early season whale watching bookings are open; whale season is running now."
+}

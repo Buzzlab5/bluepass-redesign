@@ -1,0 +1,147 @@
+{
+  "slug": "bimski-barbados",
+  "name": "Bimski Barbados",
+  "website": "https://bimskibarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Carlisle Bay",
+  "category": "Jet ski rentals",
+  "summary": "Jet ski rides in Carlisle Bay, from half an hour to a full hour, run by a small Barbados-born team. Every rider gets a safety briefing, a fitted life vest and a ski with a kill switch before heading out. Cruise passengers can message ahead to fit a ride around their port day.",
+  "standouts": [
+    "Safety briefing, fitted life vest and kill switch on every ski",
+    "Operators are trained, licensed and Barbados-born",
+    "Beginner friendly",
+    "30 minute rides suited to cruise port days"
+  ],
+  "contact": {
+    "phone": "+1 716 601 8803",
+    "email": "hello@bimskibarbados.com",
+    "address": "Carlisle Bay, Barbados",
+    "whatsapp": "https://wa.me/12462502740"
+  },
+  "heroImage": "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/7513-iU6uoTsFWiKzaoZB.jpg",
+  "sourceUrls": [
+    "https://bimskibarbados.com/",
+    "https://bimskibarbados.com/cruise"
+  ],
+  "trips": [
+    {
+      "title": "30 Minute Ride",
+      "kind": "other",
+      "summary": "A half hour on a jet ski in the calm water of Carlisle Bay, after a short safety briefing. It is the shorter option and fits a tight cruise port schedule.",
+      "highlights": [
+        "Safety briefing before the ride",
+        "Fitted life vest and kill switch on every ski",
+        "Rides in Carlisle Bay",
+        "Option suited to cruise port days"
+      ],
+      "duration": "30 minutes",
+      "durationMinutes": 30,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Carlisle Bay",
+      "prices": [
+        { "label": "30 minute ride", "amount": 100, "currency": "USD", "note": "Shown as $100 US; the site does not say whether this is per person or per ski" }
+      ],
+      "priceFrom": 100,
+      "includes": [
+        "Safety briefing from a trained, licensed local operator",
+        "All required safety equipment",
+        "Fitted life vest"
+      ],
+      "bring": [],
+      "requirements": "Every guest is asked to review and sign a short waiver before riding",
+      "offer": null,
+      "images": [
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/7513-iU6uoTsFWiKzaoZB.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/7755-FpQf0IMpp5e9XCv6.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/8505-ubSZEKuDsz5H86sZ.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/img-20260804-wa0008-2-dxaGk4kzbn5VnjEK.jpg"
+      ],
+      "bookingLinks": [
+        "https://bimskibarbados.taplink.bio/"
+      ],
+      "sourceUrl": "https://bimskibarbados.com/",
+      "checkNotes": "Jet ski tour. The Book Now buttons go to a Taplink bio page (bimskibarbados.taplink.bio), which was not opened because it is off the operator's domain, so what booking it offers is unverified. The site also sends buyers to Viator (not recorded). The cruise page shows the same price as $100 USD."
+    },
+    {
+      "title": "60 Minute Ride",
+      "kind": "other",
+      "summary": "A full hour on a jet ski in Carlisle Bay, giving more time to ride along the coast. It starts with the same safety briefing and life vest fitting as the shorter ride.",
+      "highlights": [
+        "A full hour on the water",
+        "Safety briefing before the ride",
+        "Fitted life vest and kill switch on every ski",
+        "Rides in Carlisle Bay"
+      ],
+      "duration": "60 minutes",
+      "durationMinutes": 60,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Carlisle Bay",
+      "prices": [
+        { "label": "60 minute ride", "amount": 180, "currency": "USD", "note": "Shown as $180 US; the site does not say whether this is per person or per ski" }
+      ],
+      "priceFrom": 180,
+      "includes": [
+        "Safety briefing from a trained, licensed local operator",
+        "All required safety equipment",
+        "Fitted life vest"
+      ],
+      "bring": [],
+      "requirements": "Every guest is asked to review and sign a short waiver before riding",
+      "offer": null,
+      "images": [
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/7513-iU6uoTsFWiKzaoZB.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/bbs5-OAsvJVEdoZHHi2tY.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/7755-FpQf0IMpp5e9XCv6.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/8505-ubSZEKuDsz5H86sZ.jpg"
+      ],
+      "bookingLinks": [
+        "https://bimskibarbados.taplink.bio/"
+      ],
+      "sourceUrl": "https://bimskibarbados.com/",
+      "checkNotes": "Jet ski tour. The Book Now buttons go to a Taplink bio page (bimskibarbados.taplink.bio), which was not opened because it is off the operator's domain, so what booking it offers is unverified. The site also sends buyers to Viator (not recorded). The cruise page shows the same price as $180 USD."
+    },
+    {
+      "title": "Couples Ride",
+      "kind": "tour",
+      "summary": "Two guests share one jet ski for a 30 minute guided ride in Carlisle Bay. A safety briefing and life vests come with it.",
+      "highlights": [
+        "2 guests on 1 ski",
+        "30 minute experience",
+        "Guided ride",
+        "Safety briefing and life vests included"
+      ],
+      "duration": "30 minutes",
+      "durationMinutes": 30,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Carlisle Bay",
+      "prices": [
+        { "label": "Couples ride, 2 guests on 1 ski", "amount": 150, "currency": "USD", "note": "Price for two guests sharing one jet ski" }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Safety briefing",
+        "Life vests",
+        "Guided ride"
+      ],
+      "bring": [],
+      "requirements": "Every guest is asked to review and sign a short waiver before riding",
+      "offer": null,
+      "images": [
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/screenshot_20260623_233907_instagram-FP50HPkKQLyrRt6w.jpg",
+        "https://assets.zyrosite.com/BfUmbE8zlmkNoAls/screenshot_20260216_190242_instagram-mdre3JaCdRPgh8a4.jpg"
+      ],
+      "bookingLinks": [
+        "https://bimskibarbados.taplink.bio/"
+      ],
+      "sourceUrl": "https://bimskibarbados.com/cruise",
+      "checkNotes": "Jet ski tour. Listed only on the cruise page, where the button reads Ask About Couples Ride and goes to the Taplink bio page (not opened). The price is for two guests on one ski, not per person, so priceFrom is null. The only photos on this page are Instagram screenshots; the page's other photos are Unsplash stock and were left out."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Booking: every Book Now button goes to bimskibarbados.taplink.bio, a link-in-bio page off the operator's domain that was not opened; the site also links to Viator for instant booking (marketplace, not recorded). The visible 'Chat with Trey on WhatsApp' link dials +1 716 601 8803 (a US number), while the site's floating WhatsApp widget setting holds +1 246 250 2740; contact.whatsapp is built from that widget number, so confirm which number the operator wants used. No street address is given beyond Carlisle Bay. Prices are per ride as shown; the site does not say per person or per ski for the 30 and 60 minute rides."
+}

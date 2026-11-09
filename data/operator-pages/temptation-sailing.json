@@ -1,0 +1,589 @@
+{
+  "slug": "temptation-sailing",
+  "name": "Temptation Sailing",
+  "website": "https://dolphinboat.com.au",
+  "rezdyAlias": "temptationsailing",
+  "state": "SA",
+  "town": "Glenelg",
+  "category": "Dolphin swims and cruises",
+  "summary": "Wild dolphin swim and watch tours, sunset and day cruises, and private charters on Temptation, a 58ft sailing catamaran based at the Marina Pier in Glenelg. Dolphin tours are hosted by marine biologists, and swimmers hold a line or lie on a net at the bow while the dolphins come to the boat. The season runs from September to April.",
+  "standouts": [
+    "Advanced Eco Certified through Ecotourism Australia since 2015",
+    "First vessel in South Australia given a dolphin swim licence; dolphin swims from Glenelg since January 2002",
+    "Wild Dolphin Tours hosted by marine biologists",
+    "Carbon neutral since 2021 through Greenfleet"
+  ],
+  "contact": {
+    "phone": "+61 412 811 838",
+    "email": "info@temptationsailing.com.au",
+    "address": "Marina Pier, Holdfast Shores Marina, Glenelg SA 5045"
+  },
+  "heroImage": "https://dolphinboat.com.au/wp-content/uploads/2022/08/Header-Homepage-Image-scaled.jpg",
+  "sourceUrls": [
+    "https://dolphinboat.com.au/",
+    "https://dolphinboat.com.au/wild-dolphin-tour/",
+    "https://dolphinboat.com.au/twilight-cruise/",
+    "https://dolphinboat.com.au/coastal-day-cruise/",
+    "https://dolphinboat.com.au/afternoon-tea-cruise/",
+    "https://dolphinboat.com.au/tunes-on-temptation/",
+    "https://dolphinboat.com.au/kauwi-cultural-cruise/",
+    "https://dolphinboat.com.au/private-charters/",
+    "https://dolphinboat.com.au/private-charter/",
+    "https://dolphinboat.com.au/wellness-at-sea/",
+    "https://dolphinboat.com.au/pricing-list/",
+    "https://dolphinboat.com.au/faqs/",
+    "https://dolphinboat.com.au/calendar/",
+    "https://dolphinboat.com.au/cancellation-policy/",
+    "https://dolphinboat.com.au/environmental-sustainability/",
+    "https://dolphinboat.com.au/the-vessel/",
+    "https://dolphinboat.com.au/sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Wild Dolphin Tour",
+      "kind": "swim",
+      "summary": "A morning tour on Temptation to swim with or watch wild Indo-Pacific bottlenose and short-beaked common dolphins off Glenelg, hosted by marine biologists. Swimmers either lie on a net between the bows or hold mermaid lines off the back of the boat, and the crew rotates people between the two. Non-swimmers watch from the 360 degree front deck on the same boat.",
+      "highlights": [
+        "Swim or watch options on the same boat",
+        "Front Swim net between the bows and Back Swim lines off the stern",
+        "Hosted by marine biologists",
+        "Full-length 5mm wetsuit and all swim gear provided"
+      ],
+      "duration": "approximately 4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": "September to April (operating season; no cruises May to August)",
+      "departsFrom": "Marina Pier, Glenelg (bottom of the stairs/ramp in front of the Oyster Bar)",
+      "prices": [
+        {
+          "label": "Wild Dolphin Swim, Adult 16+",
+          "amount": 154,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Wild Dolphin Swim, Child 9-15",
+          "amount": 144,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Wild Dolphin Watch, Adult 16+",
+          "amount": 92,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Wild Dolphin Watch, Child 3-15",
+          "amount": 82,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Wild Dolphin Watch, Infant 0-2",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        },
+        {
+          "label": "Cruise photos and GoPro footage (Google Drive link)",
+          "amount": 25.0,
+          "currency": "AUD",
+          "note": "Optional purchase"
+        }
+      ],
+      "priceFrom": 92,
+      "includes": [
+        "All swim equipment (swim tickets)",
+        "Full-length 5mm wetsuit, which also acts as a flotation device",
+        "Crew briefing (about 15 minutes) and snorkel demonstration",
+        "Marine biologist guides"
+      ],
+      "bring": [
+        "Snacks and bottled water or juice for the kids (bar is closed on this tour, no BYO alcohol)",
+        "Warm jacket or jumper",
+        "Optional: your own full-length wetsuit, booties, mask and snorkel (fins not required)",
+        "Optional: your own GoPro or camera"
+      ],
+      "requirements": "Swim: minimum age 9; under 18s need a parent or guardian on board; must be able to hold the flotation line while towed slowly and climb the ladder at the back of the boat; people with a pacemaker can only do the Front Swim. Watch: all ages. Not wheelchair accessible.",
+      "offer": null,
+      "images": [
+        "https://dolphinboat.com.au/wp-content/uploads/2022/07/COVER-IMAGE-4-1.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2022/07/Dolphin-Swim-Main-Image-1.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2022/07/Copy-of-DSC_3392-1.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2022/07/IMG_9709-2-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://temptationsailing.rezdy.com/31254/wild-dolphin-swim",
+        "https://temptationsailing.rezdy.com/32910/wild-dolphin-watch"
+      ],
+      "sourceUrl": "https://dolphinboat.com.au/wild-dolphin-tour/",
+      "checkNotes": "Prices from the Pricing List page; the tour page shows none. Duration from the FAQ ('approximately 4 hours', back in the Marina between 11:30am and midday); start time not stated. Up to 24 swimmers and 26 watchers. The FAQ carries an algal bloom notice saying the Wild Dolphin Swim may not operate this season, with a full refund if tours are cancelled; check current status before publishing. The site claims it has never had a day without seeing dolphins; not repeated here."
+    },
+    {
+      "title": "Twilight Cruise",
+      "kind": "cruise",
+      "summary": "A 1.5 hour sunset cruise along the Adelaide coast, staying within 3km of the shore. The licensed bar serves South Australian beer and wine, spirits, cocktails and soft drinks. Dolphins sometimes appear but are not the aim of this cruise.",
+      "highlights": [
+        "Sunset along the Adelaide coastline",
+        "Licensed bar with local beer and wine",
+        "Package for Two adds a drink each and a cheese or antipasto plate",
+        "Returns to the Marina Pier restaurants and bars"
+      ],
+      "duration": "1.5 hours",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": "September to April (operating season; no cruises May to August)",
+      "departsFrom": "Marina Pier, Glenelg (bottom of the stairs/ramp in front of the Oyster Bar)",
+      "prices": [
+        {
+          "label": "Adult 16+",
+          "amount": 56,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child 3-15",
+          "amount": 52,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant 0-2",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        },
+        {
+          "label": "Package for Two (2 x Adults)",
+          "amount": 149,
+          "currency": "AUD",
+          "note": "Includes 2 x tickets, a beverage each and a cheese or antipasto platter to share"
+        }
+      ],
+      "priceFrom": 56,
+      "includes": [
+        "Relaxing music on board"
+      ],
+      "bring": [
+        "Warm jacket or jumper for the wind chill on the water",
+        "Sun protection (little shade on board)",
+        "Snacks or nibbles are welcome (no food for sale on board); no BYO alcohol"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://dolphinboat.com.au/wp-content/uploads/2022/07/COVER-IMAGE-1-1.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2022/08/Image-6-1.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2022/08/Image-4.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2022/08/Image-5.jpg"
+      ],
+      "bookingLinks": [
+        "https://temptationsailing.rezdy.com/32915/twilight-cruise",
+        "https://temptationsailing.rezdy.com/33630/package-for-two"
+      ],
+      "sourceUrl": "https://dolphinboat.com.au/twilight-cruise/",
+      "checkNotes": "Departure time not stated on the site; boarding starts 15 minutes before departure and times are given in the confirmation email (FAQ). Prices from the Pricing List page."
+    },
+    {
+      "title": "Coastal Day Cruise",
+      "kind": "cruise",
+      "summary": "A 1.5 hour daytime cruise along the Adelaide coastline within 3km of the shore. Drinks are available from the licensed bar, and light music plays on board. Dolphins are possible but not promised.",
+      "highlights": [
+        "Daytime cruise along the Adelaide coast",
+        "Licensed bar on board",
+        "Package for Two option",
+        "Returns to the Glenelg Marina Pier"
+      ],
+      "duration": "1.5 hours",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": "September to April (operating season; no cruises May to August)",
+      "departsFrom": "Marina Pier, Glenelg (bottom of the stairs/ramp in front of the Oyster Bar)",
+      "prices": [
+        {
+          "label": "Adult 16+",
+          "amount": 44,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child 3-15",
+          "amount": 34,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant 0-2",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        },
+        {
+          "label": "Package for Two (2 x Adults)",
+          "amount": 149,
+          "currency": "AUD",
+          "note": "Includes 2 x tickets, a beverage each and a cheese or antipasto platter to share"
+        }
+      ],
+      "priceFrom": 44,
+      "includes": [],
+      "bring": [
+        "Warm jacket or jumper for the wind chill on the water",
+        "Sun protection (little shade on board)",
+        "Snacks or nibbles are welcome (no food for sale on board); no BYO alcohol"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://dolphinboat.com.au/wp-content/uploads/2022/07/Cover-Image-2-1.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2022/08/Temptation-Sailing-Adelaide-SA-20220303-0267-1-1.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2022/08/Image-1-4.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2022/08/Image-2-4.jpg"
+      ],
+      "bookingLinks": [
+        "https://temptationsailing.rezdy.com/32914/coastal-day-cruise",
+        "https://temptationsailing.rezdy.com/33630/package-for-two"
+      ],
+      "sourceUrl": "https://dolphinboat.com.au/coastal-day-cruise/",
+      "checkNotes": "Departure time not stated on the site; boarding starts 15 minutes before departure and times are given in the confirmation email (FAQ). Prices from the Pricing List page."
+    },
+    {
+      "title": "Afternoon Tea Cruise",
+      "kind": "cruise",
+      "summary": "A two hour coastal cruise with afternoon tea and a drinks package from the bar. Food is paninis, cakes and fresh fruit from Veloce Paninoteca. It runs on a few set Sundays each season.",
+      "highlights": [
+        "2 hour drinks package included",
+        "Paninis, cakes and fresh fruit by Veloce Paninoteca",
+        "First Sunday of each month, November to April"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [
+        "12:30"
+      ],
+      "season": "First Sunday of every month between November and April",
+      "departsFrom": "Marina Pier, Glenelg (bottom of the stairs/ramp in front of the Oyster Bar)",
+      "prices": [
+        {
+          "label": "Adult 16+",
+          "amount": 79,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child 3-15",
+          "amount": 69,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant 0-2",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        }
+      ],
+      "priceFrom": 79,
+      "includes": [
+        "2 hour drinks package from the licensed bar",
+        "Freshly made paninis, a selection of cakes and fresh fruit catered by Veloce Paninoteca"
+      ],
+      "bring": [
+        "Warm jacket or jumper for the wind chill on the water",
+        "Sun protection (little shade on board)",
+        "Snacks or nibbles are welcome (no food for sale on board); no BYO alcohol"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://dolphinboat.com.au/wp-content/uploads/2022/07/Cover-Image-1.jpeg",
+        "https://dolphinboat.com.au/wp-content/uploads/2023/10/DSC_6918-scaled.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2022/08/Image-1-1-1.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2022/08/Image-2-6.jpg"
+      ],
+      "bookingLinks": [
+        "https://temptationsailing.rezdy.com/37019/afternoon-tea-cruise"
+      ],
+      "sourceUrl": "https://dolphinboat.com.au/afternoon-tea-cruise/",
+      "checkNotes": "Runs 12:30pm until 2:30pm (tour page FAQ). Price from the Pricing List page. The page notes limited dates and availability."
+    },
+    {
+      "title": "Tunes On Temptation",
+      "kind": "cruise",
+      "summary": "A two hour sunset boat party along the Adelaide coast with local DJs and the bar open. It runs in summer and is for adults 18 and over only.",
+      "highlights": [
+        "Local DJs on board",
+        "Sunset timing",
+        "Licensed bar, no BYO",
+        "November to February"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": "Summer, between November and February",
+      "departsFrom": "Marina Pier, Glenelg (bottom of the stairs/ramp in front of the Oyster Bar)",
+      "prices": [
+        {
+          "label": "Adult 18+",
+          "amount": 69,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 69,
+      "includes": [
+        "Entry on board"
+      ],
+      "bring": [
+        "Warm jacket or jumper for the wind chill on the water",
+        "Sun protection"
+      ],
+      "requirements": "18+ only",
+      "offer": null,
+      "images": [
+        "https://dolphinboat.com.au/wp-content/uploads/2022/08/Cover-Image-5-1.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2022/08/Image-1-7.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2022/08/Image-2-1-2.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2022/08/Image-3-8.jpg"
+      ],
+      "bookingLinks": [
+        "https://temptationsailing.rezdy.com/508197/tunes-on-temptation",
+        "https://temptationsailing.rezdy.com/508197/tunes-on-temptation-2-hour-cruise"
+      ],
+      "sourceUrl": "https://dolphinboat.com.au/tunes-on-temptation/",
+      "checkNotes": "Departure time not stated on the site; boarding starts 15 minutes before departure and times are given in the confirmation email (FAQ). Price from the Pricing List page. Two Rezdy links on the page share product ID 508197 with different slugs."
+    },
+    {
+      "title": "Kauwi Cultural Cruise",
+      "kind": "cruise",
+      "summary": "A cruise down Adelaide's southern coast run with Southern Cultural Immersion, guided by a First Nations guide and a marine biologist. Guests hear Dreaming stories of Kaurna Yerta and learn about the coast's ocean life and landscapes. It runs on Mondays in season and can also be booked privately for work or school groups.",
+      "highlights": [
+        "Guided by a First Nations guide and a marine biologist",
+        "Run with Southern Cultural Immersion",
+        "Local Dreaming stories of Kaurna Yerta",
+        "Available as a private charter for work or school groups"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Mondays during the operating season (September to April)",
+      "departsFrom": "Marina Pier, Glenelg (bottom of the stairs/ramp in front of the Oyster Bar)",
+      "prices": [
+        {
+          "label": "Adult 16+",
+          "amount": 98,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child 3-15",
+          "amount": 88,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant 0-2",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        }
+      ],
+      "priceFrom": 98,
+      "includes": [
+        "Cultural experience guided by a First Nations guide and a marine biologist"
+      ],
+      "bring": [
+        "Warm jacket or jumper for the wind chill on the water",
+        "Sun protection (little shade on board)",
+        "Snacks or nibbles are welcome (no food for sale on board); no BYO alcohol"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://dolphinboat.com.au/wp-content/uploads/2024/09/Temptation-Sailing-1089-scaled.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2024/09/Temptation_Sailing_1053__1__lg.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2024/09/Temptation-Sailing-1098-scaled.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2024/09/Temptation-Sailing-0988-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://temptationsailing.rezdy.com/657274/kauwi-cultural-cruise"
+      ],
+      "sourceUrl": "https://dolphinboat.com.au/kauwi-cultural-cruise/",
+      "checkNotes": "Duration and departure time are not stated on the site. Prices from the Pricing List page."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "Temptation can be hired for birthdays, work functions, weddings, ashes scatterings and other events, for up to 50 guests. Charters run 1.5 to 3 hours, any day between 12 noon and 11:00pm, with your own music. There is no food on board, so groups bring their own or use a caterer, and drinks come from the licensed bar.",
+      "highlights": [
+        "Up to 50 passengers",
+        "1.5, 2 or 3 hours (3 hours Monday to Thursday only)",
+        "Drinks packages from $29 per person for 10 or more adults",
+        "Bring your own food; no BYO alcohol"
+      ],
+      "duration": "1.5 to 3 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "September to April (operating season; no cruises May to August)",
+      "departsFrom": "Marina Pier, Glenelg (bottom of the stairs/ramp in front of the Oyster Bar)",
+      "prices": [
+        {
+          "label": "Mon to Thu daytime hire, 1.5 hours",
+          "amount": 990,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Mon to Thu daytime hire, 2 hours",
+          "amount": 1310,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Mon to Thu daytime hire, 3 hours",
+          "amount": 1640,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Mon to Thu twilight hire, 1.5 hours",
+          "amount": 1090,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Mon to Thu twilight hire, 2 hours",
+          "amount": 1420,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Mon to Thu twilight hire, 3 hours",
+          "amount": 1750,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Fri to Sun daytime hire, 1.5 hours",
+          "amount": 1090,
+          "currency": "AUD",
+          "note": "Incl. public holidays"
+        },
+        {
+          "label": "Fri to Sun daytime hire, 2 hours",
+          "amount": 1420,
+          "currency": "AUD",
+          "note": "Incl. public holidays"
+        },
+        {
+          "label": "Fri to Sun twilight and Saturday hire, 1.5 hours",
+          "amount": 1200,
+          "currency": "AUD",
+          "note": "Incl. public holidays"
+        },
+        {
+          "label": "Fri to Sun twilight and Saturday hire, 2 hours",
+          "amount": 1530,
+          "currency": "AUD",
+          "note": "Incl. public holidays"
+        },
+        {
+          "label": "Deposit, 1.5 hours",
+          "amount": 400,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Deposit, 2 hours",
+          "amount": 500,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Deposit, 3 hours",
+          "amount": 600,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Minimum bar spend, 1.5 hours",
+          "amount": 200,
+          "currency": "AUD",
+          "note": "If fewer than 10 passengers or no drinks package"
+        },
+        {
+          "label": "Minimum bar spend, 2 hours",
+          "amount": 300,
+          "currency": "AUD",
+          "note": "If fewer than 10 passengers or no drinks package"
+        },
+        {
+          "label": "Minimum bar spend, 3 hours",
+          "amount": 400,
+          "currency": "AUD",
+          "note": "If fewer than 10 passengers or no drinks package"
+        },
+        {
+          "label": "Drinks package, 1.5 hours, per person",
+          "amount": 29,
+          "currency": "AUD",
+          "note": "Minimum 10 adult passengers"
+        },
+        {
+          "label": "Drinks package, 2 hours, per person",
+          "amount": 39,
+          "currency": "AUD",
+          "note": "Minimum 10 adult passengers"
+        },
+        {
+          "label": "Drinks package, 3 hours, per person",
+          "amount": 49,
+          "currency": "AUD",
+          "note": "Minimum 10 adult passengers"
+        }
+      ],
+      "priceFrom": 990,
+      "includes": [
+        "Exclusive use of the vessel",
+        "Phone compatible speaker system for your own music"
+      ],
+      "bring": [
+        "Your own food (platters or finger food; no food warming facilities)",
+        "Decorations allowed, but no glitter or balloons"
+      ],
+      "requirements": "Maximum 50 passengers. Drinks packages are not available for 18th or 21st birthdays and bucks shows.",
+      "offer": null,
+      "images": [
+        "https://dolphinboat.com.au/wp-content/uploads/2022/08/Image-4-2.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2022/08/Image-1-1-1.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2022/08/Image-7-1.jpg",
+        "https://dolphinboat.com.au/wp-content/uploads/2022/08/Image-5-2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://dolphinboat.com.au/private-charters/",
+      "checkNotes": "Enquiry only, no Rezdy link on the charter page. Prices from the Private Charter Price List on the Pricing List page; the Friday to Sunday table has no 3 hour row, matching the FAQ that weekends are 1.5 or 2 hours only. Minimum numbers conflict: the charter page FAQ says minimum 10 passengers, the price list's Friday to Sunday table says minimum 10, while the Monday to Thursday table and the general FAQ allow fewer than 10 with a minimum bar spend. Remaining balance and drinks are paid on board on the day. The nav also links /private-charter/, which shows the homepage content."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers",
+      "conditions": "Valid for 3 years from the date of purchase. Non-refundable and not exchangeable for cash.",
+      "validUntil": null,
+      "sourceUrl": "https://dolphinboat.com.au/faqs/"
+    },
+    {
+      "text": "Package for Two, $149: 2 x adult tickets, a beverage each and a cheese or antipasto platter to share",
+      "conditions": "Twilight Cruise and Coastal Day Cruise only",
+      "validUntil": null,
+      "sourceUrl": "https://dolphinboat.com.au/pricing-list/"
+    },
+    {
+      "text": "No Dolphin Policy: if no dolphins are seen from above the water, come back free within one year",
+      "conditions": "Not transferable to friends or family. Interstate or overseas visitors who cannot return within the year get a half refund. Swimmers who did not see dolphins underwater can have the swim to watch price difference refunded or come back within one year. Refunds for direct bookings only.",
+      "validUntil": null,
+      "sourceUrl": "https://dolphinboat.com.au/cancellation-policy/"
+    }
+  ],
+  "checkNotes": "All public prices come from the Pricing List page; tour pages show none. Departure times are only stated for the Afternoon Tea Cruise (12:30pm); other times are in the Rezdy calendar, which was not opened. FAQ algal bloom notice: the Wild Dolphin Swim may be affected this season, so confirm it is running before publishing. Tour pages link a 'Wellness At Sea' tour, but /wellness-at-sea/ shows only the homepage content, so it was not captured. Gift vouchers are sold through the Rezdy gift card catalog (temptationsailing.rezdy.com/catalog/171689/gift-cards). Phone shown on site as 0412 811 838. The site uses several absolute claims (carbon neutral as a percentage, a dolphin sighting guarantee); these were kept out of copy."
+}

@@ -1,0 +1,606 @@
+{
+  "slug": "bayplay",
+  "name": "BayPlay",
+  "website": "https://bayplay.com.au",
+  "rezdyAlias": "bayplay",
+  "state": "VIC",
+  "town": "Portsea",
+  "category": "Snorkel, dive and kayak",
+  "summary": "Guided snorkel, scuba and sea kayak tours from Portsea on the Mornington Peninsula, in Port Phillip Bay. The trips include snorkelling with weedy sea dragons, a Discover Scuba Dive for beginners and a 3 hour kayak through the Ticonderoga Bay Dolphin Sanctuary. Bayplay is also a PADI Dive Resort that runs dive courses.",
+  "standouts": [
+    "Parks Victoria licensed tour operator and PADI Dive Resort",
+    "Australian Accredited Tourism Business",
+    "Victorian Tourism Awards winner in 2005 and 2006, and Hall of Fame award in 2007",
+    "Dive groups of four non-certified divers to one instructor, and eight certified divers to one guide"
+  ],
+  "contact": {
+    "phone": "+61 3 5984 0888",
+    "email": "bookings@bayplay.com.au",
+    "address": "3755 Point Nepean Road, Portsea, VIC 3944"
+  },
+  "heroImage": "https://bayplay.com.au/wp-content/uploads/2022/11/Kayak-Slider.jpg",
+  "sourceUrls": [
+    "https://bayplay.com.au/",
+    "https://bayplay.com.au/snorkel-with-dragons/",
+    "https://bayplay.com.au/play/",
+    "https://bayplay.com.au/play/sea-kayaking/",
+    "https://bayplay.com.au/play/sea-kayaking/dolphin-sanctuary/",
+    "https://bayplay.com.au/play/sea-kayaking/yarra-river/",
+    "https://bayplay.com.au/scuba-diving/",
+    "https://bayplay.com.au/scuba-diving/discover-scuba-dive/",
+    "https://bayplay.com.au/scuba-diving/guided-scuba-dive-for-certified-divers/",
+    "https://bayplay.com.au/scuba-diving/dive-site-tours/",
+    "https://bayplay.com.au/scuba-diving/dive-melbourne-faq/",
+    "https://bayplay.com.au/scuba-diving/padi-dive-courses/",
+    "https://bayplay.com.au/scuba-diving/padi-dive-courses/padi-open-water-course/",
+    "https://bayplay.com.au/scuba-diving/padi-dive-courses/padi-advanced-open-water-course/",
+    "https://bayplay.com.au/scuba-diving/padi-dive-courses/padi-refresher-course/",
+    "https://bayplay.com.au/scuba-diving/padi-dive-courses/padi-rescue-diver-course/",
+    "https://bayplay.com.au/scuba-diving/padi-dive-courses/padi-divemaster-course/",
+    "https://bayplay.com.au/play/stand-up-paddle-board/",
+    "https://bayplay.com.au/play/hire-equipment/",
+    "https://bayplay.com.au/play/private-tours/",
+    "https://bayplay.com.au/vouchers/",
+    "https://bayplay.com.au/groups/corporate/",
+    "https://bayplay.com.au/schools/marine-education/",
+    "https://bayplay.com.au/contact/",
+    "https://bayplay.com.au/about-us/",
+    "https://bayplay.com.au/awards-testimonials/",
+    "https://bayplay.com.au/gallery/",
+    "https://bayplay.com.au/terms-conditions/"
+  ],
+  "trips": [
+    {
+      "title": "Snorkel With Sea Dragons",
+      "kind": "snorkel",
+      "summary": "A guided snorkel from the beach at Portsea in Port Phillip Bay, looking for weedy sea dragons, puffer fish, smooth rays and sponge life. The tour starts with a talk and a snorkelling skills demonstration, then a short walk to the beach. The site says non-swimmers can join, with a guide alongside, a buoyant wetsuit and a life ring.",
+      "highlights": [
+        "Weedy sea dragons in their natural habitat",
+        "Talk and skills demonstration before you get in the water",
+        "Guide with you for the whole tour",
+        "Optional 30 minute skills session before the tour for less confident swimmers"
+      ],
+      "duration": "approximately 2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Portsea, VIC",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "A local snorkelling guide",
+        "Presentation and skills demonstration",
+        "All required snorkelling gear",
+        "Hot showers and changing areas",
+        "Storage area for personal belongings",
+        "Pool noodle or PFD on request"
+      ],
+      "bring": [
+        "Towel and bathers",
+        "A spare change of warm dry clothes"
+      ],
+      "requirements": "Minimum age 12; children under 16 must be accompanied by an adult. Reasonable level of fitness and confidence to be in the ocean required. Minimum of 4 people for the tour to run. First-time or inexperienced snorkellers are asked to say so before arrival.",
+      "offer": null,
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Snorkel-Sea-Dragon.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Snorkel-Dragons.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Sea-Dragon-New-1.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Sea-Dragon-New-2.jpg"
+      ],
+      "bookingLinks": [
+        "https://bayplay.rezdy.com/138579/snorkel-with-sea-dragons"
+      ],
+      "sourceUrl": "https://bayplay.com.au/snorkel-with-dragons/",
+      "checkNotes": "No price is shown on the operator's pages; prices sit only in the Rezdy booking page, which was not opened, so prices is empty. Departure time not stated. The 30 minute skills session is an add-on with no price shown. The tour page says poor weather may require a reschedule with notice the day before; the Terms page says Bayplay does not cancel for rain or overcast weather but may cancel for unsafe weather or water quality. Meeting point is given only as Portsea; the Terms page puts the shop opposite Portsea Pier. The page title is 'Snorkel with Dragons' and the heading is 'Snorkel With Sea Dragons'; the heading was used."
+    },
+    {
+      "title": "Kayak The Dolphin Sanctuary",
+      "kind": "kayak",
+      "summary": "A guided sea kayak tour of about 3 hours from Portsea, paddling through the Ticonderoga Bay Dolphin Sanctuary towards Point Nepean and back towards Sorrento. A short briefing comes first, with a stop at a secluded beach halfway. The site lists Burrunan dolphins, Australian fur seals and fairy penguins as animals you may spot.",
+      "highlights": [
+        "Paddle through the Ticonderoga Bay Dolphin Sanctuary",
+        "Halfway stop at a secluded beach",
+        "Guide shares local history and marine life information",
+        "Possible sightings of Burrunan dolphins, Australian fur seals and fairy penguins"
+      ],
+      "duration": "approximately 3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Portsea, VIC",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "A local kayaking guide",
+        "Theory and skills demonstration",
+        "All required kayaking gear",
+        "Hot showers and changing areas",
+        "Storage area for personal belongings"
+      ],
+      "bring": [
+        "Bathers, quick dry clothes or clothes you don't mind getting a little wet",
+        "Hat, sunglasses and sunscreen",
+        "A spare change of warm dry clothes",
+        "Water bottle and snacks"
+      ],
+      "requirements": "Minimum age 12; children under 16 must be accompanied by an adult. Reasonable fitness level required. Minimum of 4 people for the tour to run.",
+      "offer": null,
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/10/Sea-Kayaking-slider-1.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/10/Sea-Kayaking-slider-2.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/10/Kayak-Dolphin-Mornington-Peninsula-1.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/10/Kayak-Dolphin-Mornington-Peninsula-2.jpg"
+      ],
+      "bookingLinks": [
+        "https://bayplay.rezdy.com/104554/sea-kayak-tour-dolphin-sanctuary"
+      ],
+      "sourceUrl": "https://bayplay.com.au/play/sea-kayaking/dolphin-sanctuary/",
+      "checkNotes": "No price is shown on the operator's pages; prices sit only in the Rezdy booking page, which was not opened, so prices is empty. Departure time not stated. Heading on the tour page is 'Paddle the Dolphin Sanctuary'; the title 'Kayak The Dolphin Sanctuary' comes from the Sea Kayaking page. The Terms page says animal sightings cannot be guaranteed. The tour page says poor weather may require a reschedule with notice the day before. The same Rezdy link is on the Sea Kayaking page."
+    },
+    {
+      "title": "Discover Scuba Dive",
+      "kind": "dive",
+      "summary": "A half day introduction to scuba diving for people with no qualification, run from Bayplay's base in Portsea. It starts with classroom theory and a shallow water skills session at the beach, then an ocean dive entered by walking in from the shore. The site lists nudibranchs, seahorses, octopus and smooth rays among what divers may see.",
+      "highlights": [
+        "No certification or past experience needed",
+        "Theory, a shallow water skills session, then an ocean dive",
+        "Instructor with you every step",
+        "Four non-certified divers to each instructor"
+      ],
+      "duration": "approximately 3 to 4 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "3755 Point Nepean Road, Portsea, VIC 3944",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "A professional dive instructor",
+        "Theory and skills session",
+        "Ocean dive (a shore walk in)",
+        "All dive equipment and air fills",
+        "Hot showers and changing areas",
+        "Storage area for personal belongings",
+        "Transportation to dive sites"
+      ],
+      "bring": [
+        "Towel and bathers",
+        "Warm dry clothes to change into after",
+        "Completed dive medical from a doctor, if required",
+        "Water and snacks"
+      ],
+      "requirements": "Minimum age 13; participants aged 13 to 17 need a parent or guardian present to sign the waiver on site. Basic confidence in the water and an adequate fitness level preferred. A dive medical certificate may be required. A minimum number of participants applies. Dive and travel insurance highly recommended.",
+      "offer": null,
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2025/12/Scuba-Diving_0006_DSD-1.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2025/12/Scuba-Diving_0005_DSD-2.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2025/12/Scuba-Diving_0004_DSD-3.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2025/12/Scuba-Diving_0003_DSD-4.jpg"
+      ],
+      "bookingLinks": [
+        "https://bayplay.rezdy.com/138803/discover-scuba-dive"
+      ],
+      "sourceUrl": "https://bayplay.com.au/scuba-diving/discover-scuba-dive/",
+      "checkNotes": "No price is shown on the operator's pages; prices sit only in the Rezdy booking page, which was not opened, so prices is empty. Departure time not stated. The page says the tour needs a minimum number of participants but gives no number. A personalised dive for people afraid of water or claustrophobic can be arranged, with additional fees that may apply and no amount shown. The four to one instructor ratio comes from the FAQ page. Private version is listed separately under Private Tours. Age 13 or older is stated on the tour page and the FAQ."
+    },
+    {
+      "title": "Guided Scuba Dive for Certified Divers",
+      "kind": "dive",
+      "summary": "A guided shore dive in Port Phillip Bay for certified divers, led by a Bayplay dive guide. Guests meet at the dive store in Portsea, are fitted with gear and are briefed on the site chosen for the day's conditions. The listed favourite sites are a weedy sea dragon site, a nudibranch wall and an octopus garden, and a double dive can be arranged.",
+      "highlights": [
+        "Open Water certified divers and above",
+        "Dive site chosen on the day from the conditions",
+        "Sea dragon, nudibranch wall and octopus garden sites listed",
+        "Double dive option, one morning and one afternoon"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Bayplay dive store, Portsea, across the road from Portsea Pier",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All necessary dive equipment and gear (not booties and gloves, which can be bought at the dive store)",
+        "Transportation to and from dive sites",
+        "Air fills",
+        "A local dive guide",
+        "Storage area for personal belongings",
+        "Changerooms and hot showers"
+      ],
+      "bring": [
+        "Towel and bathers",
+        "Warm dry clothes to change into",
+        "Completed dive medical from a doctor, if required",
+        "Water and snacks"
+      ],
+      "requirements": "Minimum Open Water certified diver, with proof of certification shown on arrival. Minimum of 3 participants for the dive to run. Dive medical and liability forms must be completed before the dive. Dive and travel insurance highly recommended.",
+      "offer": null,
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2025/12/Dive-Site-hero.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Guided-Diving-Tours.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Scuba-Diving-Explore.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Nudibranch-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://bayplay.rezdy.com/139218/guided-scuba-dive-certified-divers"
+      ],
+      "sourceUrl": "https://bayplay.com.au/scuba-diving/guided-scuba-dive-for-certified-divers/",
+      "checkNotes": "No price is shown on the operator's pages; prices sit only in the Rezdy booking page, which was not opened, so prices is empty. Duration and departure time not stated. The page also describes boat dives from Portsea; the Terms page says charter boat dives are run by a third party company and that Bayplay's dive experiences are all shore dives unless organised otherwise, so boat dives were left out. The bottom 'bookings' button on this page links to the private guided dive product (see the Private Guided Scuba Dives trip). The Dive Locations page, which names the three sites, has a book button that goes to the Rezdy scuba diving catalogue (https://bayplay.rezdy.com/catalog/127647/scuba-diving) and no per-trip link. Divers new to the area are asked to do a check out dive before boarding a boat; this is a boat-dive rule and was not applied here."
+    },
+    {
+      "title": "PADI Open Water Course",
+      "kind": "course",
+      "summary": "A PADI Open Water Diver course over a full weekend, Friday morning to Sunday afternoon, at Portsea. It includes one pool dive and four open water dives, with the theory done as PADI e-learning before arrival. The site says passing qualifies you to dive independently to 18 metres.",
+      "highlights": [
+        "Full weekend, Friday morning to Sunday afternoon",
+        "One pool dive and four open water dives",
+        "PADI online e-learning completed before the course",
+        "Part options: e-learning only, pool and theory only, or four open water dives by referral"
+      ],
+      "duration": "Full weekend, Friday morning to Sunday afternoon (8:30am to 5:30pm)",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": null,
+      "departsFrom": "Portsea, VIC",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "A professional dive instructor",
+        "1 pool dive and 4 open water dives",
+        "PADI online e-learning material",
+        "Dive equipment and air fills",
+        "Hot showers and changing areas",
+        "Storage area for personal belongings",
+        "Transportation to dive sites",
+        "PADI registration and Open Water Diver certification"
+      ],
+      "bring": [
+        "Completed dive medical from a doctor, if required",
+        "Proof of completed online e-learning theory",
+        "Sunscreen, towel and a spare change of warm dry clothes",
+        "Lunch, snacks and water",
+        "Mask, snorkel, fins and boots (sold at the Bayplay dive shop)"
+      ],
+      "requirements": "Minimum age 10 (students aged 10 to 12 must book a private course; the teen course is for ages 13 to 18 and runs on weekdays only). A dive medical certificate may be needed. Online e-learning, including the exam, must be finished before arriving. Minimum of 4 students for a course to run.",
+      "offer": null,
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Padi-Open-Water-page.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Padi-Open-Water.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Private-Diving-Tours.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://bayplay.com.au/scuba-diving/padi-dive-courses/padi-open-water-course/",
+      "checkNotes": "No price is shown on the operator's pages; prices sit only in the Rezdy booking page, which was not opened, so prices is empty. No course dates or session start times are published; the page says times and dates may vary with weather, tides and the group, and 8:30am to 5:30pm is the stated time. The book now button goes to the Rezdy scuba diving catalogue (https://bayplay.rezdy.com/catalog/127647/scuba-diving), not a link for this course, so bookingLinks is empty. The course page says students must bring their own mask, snorkel, booties and fins, while the Terms page says all equipment is included in tour prices and a mask, snorkel and fins package can be hired for a daily fee. Ages and the teen and junior rules come from the Terms page. Prices may differ between off-peak and peak season (Terms). A student discount at the dive shop is mentioned and not recorded. The Terms page says completing a dive course may require or include a boat dive, and that charter boat dives are run by a third party company."
+    },
+    {
+      "title": "PADI Advanced Open Water Course",
+      "kind": "course",
+      "summary": "A two day PADI Advanced Open Water course at Portsea, building on the Open Water course with five open water dives. The site says it covers units such as underwater navigation, naturalist and deep diving, and includes night diving.",
+      "highlights": [
+        "Two full days, 8:30am to 5:30pm",
+        "Five open water dives",
+        "Navigation, naturalist, deep and night diving covered",
+        "PADI online e-learning included"
+      ],
+      "duration": "Two full days (8:30am to 5:30pm)",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": null,
+      "departsFrom": "Portsea, VIC",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "A professional dive instructor",
+        "5 open water dives",
+        "PADI online e-learning material",
+        "Hot showers and changing areas",
+        "Storage area for personal belongings",
+        "Transfers to and from dive sites",
+        "PADI registration and Advanced Diver certification"
+      ],
+      "bring": [
+        "Open Water certification",
+        "Logbook",
+        "Completed dive medical from a doctor, if required",
+        "Proof of completed online e-learning theory",
+        "Sunscreen, towel and a spare change of warm dry clothes",
+        "Lunch, snacks and water",
+        "Swimwear and personal dive gear"
+      ],
+      "requirements": "Open Water certification needed. A dive medical certificate may be needed (bring your earlier one if you had to get one for Open Water). Minimum of 4 students for a course to run. Participants bring their own mask, snorkel, booties and fins.",
+      "offer": null,
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Padi-Advanced-page.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Padi-Advanced.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Private-Diving-Tours.jpg"
+      ],
+      "bookingLinks": [
+        "https://bayplay.rezdy.com/144775/padi-scuba-dive-course-advanced"
+      ],
+      "sourceUrl": "https://bayplay.com.au/scuba-diving/padi-dive-courses/padi-advanced-open-water-course/",
+      "checkNotes": "No price is shown on the operator's pages; prices sit only in the Rezdy booking page, which was not opened, so prices is empty. No course dates published. Dive equipment hire and air fills are not clearly listed as included: the inclusions list ends with a line about units chosen at the instructor's discretion and air fills, and the what-to-bring list says personal dive gear. A student discount at the dive shop is mentioned and not recorded. Night diving is stated on the page without detail on when it happens."
+    },
+    {
+      "title": "PADI Refresher Course",
+      "kind": "course",
+      "summary": "A short refresher for certified divers who have not dived for a while, about 4 hours at Portsea. It covers a classroom theory review, a confidence-building skills session in shallow water and an open water dive off the Mornington Peninsula. The site says it reviews skills and does not re-teach the Open Water course.",
+      "highlights": [
+        "For certified divers who have not dived for a while",
+        "Theory review, shallow water skills session and an open water dive",
+        "Dive gear hire, transfers and air fills included"
+      ],
+      "duration": "approximately 4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Portsea, VIC",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Dive gear hire",
+        "Transfers",
+        "Air fills",
+        "Instruction and tuition"
+      ],
+      "bring": [
+        "Open water card",
+        "Log book",
+        "Bathers and towel",
+        "Pen and writing paper or notepad"
+      ],
+      "requirements": "Must be a PADI certified diver and in reasonable physical condition for diving. Dive and travel insurance highly recommended.",
+      "offer": null,
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Diving-Portsea.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Padi-Refresher.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Private-Diving-Tours.jpg"
+      ],
+      "bookingLinks": [
+        "https://bayplay.rezdy.com/139214/padi-refresher-dive-course"
+      ],
+      "sourceUrl": "https://bayplay.com.au/scuba-diving/padi-dive-courses/padi-refresher-course/",
+      "checkNotes": "No price is shown on the operator's pages; prices sit only in the Rezdy booking page, which was not opened, so prices is empty. Departure time not stated. The page mentions Victorian dive sites such as submarines and shipwrecks, but the Terms page says Bayplay's dive experiences are shore dives unless organised otherwise, so the sites were not named. A shop discount for refresher students is mentioned and not recorded."
+    },
+    {
+      "title": "PADI Rescue Diver Course",
+      "kind": "course",
+      "summary": "A two day PADI Rescue Diver course at Portsea. Theory covers preventing and handling dive emergencies, and open water training lets students practise the skills. Course days run 8:30am to 5:30pm.",
+      "highlights": [
+        "Two days, 8:30am to 5:30pm",
+        "Theory and open water training",
+        "Needs Advanced Open Water, 20 logged dives and a current first aid qualification"
+      ],
+      "duration": "2 days (8:30am to 5:30pm)",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": null,
+      "departsFrom": "Portsea, VIC",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "A professional dive instructor",
+        "Dive equipment and air fills",
+        "All required PADI e-learning, instruction, manuals and tuition",
+        "Transfers to and from dive sites",
+        "Hot showers and changerooms",
+        "Storage for personal belongings",
+        "PADI registration and Rescue certification instruction (does not include the CPR component)"
+      ],
+      "bring": [
+        "Advanced Open Water card",
+        "Logbook",
+        "Completed dive medical from a doctor, if required",
+        "Proof of completed online e-learning theory",
+        "Sunscreen, towel and a spare change of warm dry clothes",
+        "Lunch, snacks and water",
+        "Pen and notepad",
+        "Swimwear and personal dive gear"
+      ],
+      "requirements": "PADI Advanced Open Water Diver or equivalent; minimum age 15; at least 20 logged dives; a current first aid qualification (Emergency First Response PADI First Aid); a current dive medical or a copy. Minimum of 4 students for a course to run. Participants bring their own mask, snorkel, booties and fins.",
+      "offer": null,
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Padi-Rescue-page.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Private-Diving-Tours.jpg"
+      ],
+      "bookingLinks": [
+        "https://bayplay.rezdy.com/372049/padi-rescue-diver-course"
+      ],
+      "sourceUrl": "https://bayplay.com.au/scuba-diving/padi-dive-courses/padi-rescue-diver-course/",
+      "checkNotes": "No price is shown on the operator's pages; prices sit only in the Rezdy booking page, which was not opened, so prices is empty. No course dates published. The cost of the CPR component is not included and is not shown. A shop discount for rescue students is mentioned and not recorded."
+    },
+    {
+      "title": "Stand-Up Paddle Board",
+      "kind": "other",
+      "summary": "A beginner stand-up paddle board session on Port Phillip Bay at Portsea. The 2 hours include a 30 minute lesson, then free time to explore the bay or practise your strokes.",
+      "highlights": [
+        "30 minute lesson, then free time on the bay",
+        "Suited to beginners",
+        "About 2 hours in total"
+      ],
+      "duration": "approximately 2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Portsea, VIC",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/SUP.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/SUP-Mornington-Peninsula.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Paddleboard-1.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Paddleboard-2-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://bayplay.rezdy.com/139228/stand-up-paddle-and-lesson"
+      ],
+      "sourceUrl": "https://bayplay.com.au/play/stand-up-paddle-board/",
+      "checkNotes": "No price is shown on the operator's pages; prices sit only in the Rezdy booking page, which was not opened, so prices is empty. Departure time not stated. No inclusions, age, fitness or minimum group size are listed on the page. The page heading is 'Stand-Up Paddleboard Board' and the menu says 'Stand-Up Paddle Board'; the menu name was used. The page also lists 'Bay Tours' and 'Corporate Group Events' tabs with no content. Board hire is sold on the same page and is not included as a trip."
+    },
+    {
+      "title": "Private Guided Scuba Dives",
+      "kind": "dive",
+      "summary": "A private guided dive with one of Bayplay's dive guides, looking for weedy sea dragons, seahorses, nudibranchs and soft corals. The site says private guided dives are available in the off-peak season.",
+      "highlights": [
+        "Private dive with a Bayplay dive guide",
+        "Weedy sea dragons, seahorses, nudibranchs and soft corals",
+        "Off-peak season only"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Off-peak season only (January 27 to December 19)",
+      "departsFrom": "Bayplay dive store, Portsea, across the road from Portsea Pier",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "Open Water certified diver at minimum, as stated for the guided dive for certified divers.",
+      "offer": null,
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Private-Diving-Tours.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Guided-Diving-Tours.jpg"
+      ],
+      "bookingLinks": [
+        "https://bayplay.rezdy.com/156981/private-guided-scuba-dive",
+        "https://bayplay.rezdy.com/359303/private-guided-scuba-dive"
+      ],
+      "sourceUrl": "https://bayplay.com.au/play/private-tours/",
+      "checkNotes": "No price is shown on the operator's pages; prices sit only in the Rezdy booking page, which was not opened, so prices is empty. The two booking links are labelled 'book (single)' (156981) and 'book group (1 - 4)' (359303) on the Private Tours page. The off-peak limit and the certification requirement come from the Guided Scuba Dive for Certified Divers page, which mentions the private dive in its notes; the Private Tours page does not repeat them. Duration and times not stated."
+    },
+    {
+      "title": "Private Discover Scuba Dive",
+      "kind": "dive",
+      "summary": "A private version of the Discover Scuba Dive for people with no certification or past experience, with an instructor taking you through your first dive. The Discover Scuba Dive page says private tours are offered in the off-peak season only.",
+      "highlights": [
+        "No certification or past experience required",
+        "Private instructor",
+        "Off-peak season only"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Off-peak season only (January 27 to December 19)",
+      "departsFrom": "Portsea, VIC",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "No certification or past experience required. Minimum age 13 is stated for the Discover Scuba Dive.",
+      "offer": null,
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Guided-Diving-Tours.jpg"
+      ],
+      "bookingLinks": [
+        "https://bayplay.rezdy.com/367540/private-discover-scuba-dive-3pax"
+      ],
+      "sourceUrl": "https://bayplay.com.au/play/private-tours/",
+      "checkNotes": "No price is shown on the operator's pages; prices sit only in the Rezdy booking page, which was not opened, so prices is empty. Duration, times and group size not stated; the booking link slug ends '3pax', which may mean a group of three, and was not explained on the page. The off-peak limit and age come from the Discover Scuba Dive page. Meeting point is not stated for this product."
+    },
+    {
+      "title": "Private Kayak Tour - Dolphin Sanctuary",
+      "kind": "kayak",
+      "summary": "A private kayak tour along the Mornington Peninsula coast, paddling through the Ticonderoga Bay Dolphin Sanctuary zone and Point Nepean National Park. The site says you may see dolphins, seals and penguins up close.",
+      "highlights": [
+        "Private group tour",
+        "Ticonderoga Bay Dolphin Sanctuary zone and Point Nepean National Park",
+        "Possible dolphin, seal and penguin sightings"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Portsea, VIC",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "Minimum of 6 people.",
+      "offer": null,
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Guided-Kayak-Tours.jpg"
+      ],
+      "bookingLinks": [
+        "https://bayplay.rezdy.com/367596/private-group-kayak-tour-dolphin-sanctuary-6pax-minimum"
+      ],
+      "sourceUrl": "https://bayplay.com.au/play/private-tours/",
+      "checkNotes": "No price is shown on the operator's pages; prices sit only in the Rezdy booking page, which was not opened, so prices is empty. Duration, times and meeting point are not stated for the private tour (the standard Dolphin Sanctuary tour is about 3 hours from Portsea). The page says '6 people minimum'. The Terms page says animal sightings cannot be guaranteed."
+    },
+    {
+      "title": "Private Snorkel with Sea Dragons",
+      "kind": "snorkel",
+      "summary": "A private snorkel to see weedy sea dragons in their natural habitat, with an interpretive guide covering the marine life of Port Phillip Bay in a relaxed coastal setting.",
+      "highlights": [
+        "Private group tour",
+        "Weedy sea dragons in their natural habitat",
+        "Interpretive guide"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Portsea, VIC",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "Minimum of 6 people.",
+      "offer": null,
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Guided-Snorkel-Tours.jpg"
+      ],
+      "bookingLinks": [
+        "https://bayplay.rezdy.com/367601/private-group-snorkel-with-sea-dragons-6pax-minimum"
+      ],
+      "sourceUrl": "https://bayplay.com.au/play/private-tours/",
+      "checkNotes": "No price is shown on the operator's pages; prices sit only in the Rezdy booking page, which was not opened, so prices is empty. Duration, times and meeting point are not stated for the private tour (the standard snorkel is about 2 hours from Portsea). The page says '6pax minimum'."
+    },
+    {
+      "title": "Private Stand Up Paddle Board tour",
+      "kind": "other",
+      "summary": "A private stand-up paddle board tour on the bay at Portsea, with a lesson first and then a paddle along the coast.",
+      "highlights": [
+        "Private tour",
+        "Learn to stand-up paddle board, then paddle the bay"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Portsea, VIC",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/SUP-Mornington-Peninsula.jpg"
+      ],
+      "bookingLinks": [
+        "https://bayplay.rezdy.com/367607/private-stand-up-paddle-board-tour"
+      ],
+      "sourceUrl": "https://bayplay.com.au/play/private-tours/",
+      "checkNotes": "No price is shown on the operator's pages; prices sit only in the Rezdy booking page, which was not opened, so prices is empty. Duration, times, group size and meeting point are not stated for the private tour. The page text is the same as the standard stand-up paddle board description."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers in $50, $100 and $200 amounts, redeemable for any experience",
+      "conditions": "Valid for 3 years from the date of purchase. Not redeemable for cash and bookings made with a voucher cannot be refunded. Can be exchanged for other Bayplay activities or hire on request. Redeemable on scheduled tours or hire only.",
+      "validUntil": null,
+      "sourceUrl": "https://bayplay.com.au/vouchers/"
+    }
+  ],
+  "checkNotes": "PRICES: no trip price appears on any page of the operator's site; prices are only in the Rezdy booking pages (bayplay.rezdy.com), which were not opened, so every trip has prices [] and priceFrom null. Departure times are not published either, except the 8:30am start on the courses. BOOKING LINKS are all on the bayplay.rezdy.com account, the operator's own, so rezdyAlias is 'bayplay'. The PADI Open Water Course page and the Dive Locations page point only at the Rezdy scuba diving catalogue (https://bayplay.rezdy.com/catalog/127647/scuba-diving), and every page carries the full catalogue link https://bayplay.rezdy.com/catalog/97596/experiences. BRIEF VS SITE: the list said dolphin and seal swims; the site offers no swim-with-dolphins or seals tour. It offers a kayak tour through the Dolphin Sanctuary and a corporate boat trip (below) that mentions a swim with seals if conditions allow. LEFT OUT, NOT SEA TRIPS BY BAYPLAY OR NOT TRIPS: (1) Yarra River kayak tour (Melbourne University Rowing Club to Westgate Bridge and Docklands, about 3 hours, minimum 6 people) is a river tour, enquiry only. (2) PADI Divemaster course is a 3 month internship or a 10 day intensive on request, enquiry only, schedule agreed with the instructor. (3) Land only: guided walks, Point Nepean bike riding and the private bike tour. (4) Hire: single and double sit-on-top kayak hire, sea kayak hire, stand-up paddle board hire (https://bayplay.rezdy.com/141426/stand-up-paddle-board-hire), snorkel hire, bike hire and dive gear hire with air fills; a Sea Kayaking Skills Session and a Kayak Self Guided Experience are named on tour pages but have no page of their own. (5) Corporate group programs by enquiry only, including a kayak circuit, a sea dragon snorkel, SUP and beach yoga, and 'Secrets of Port Phillip Bay', a 2 hour boat trip past Pope's Eye, Mud Island and the South Channel Fort; the page does not say who runs the boat, and Bayplay's Terms say charter boat dives are run by a third party. (6) Schools: marine education presentations and camp activities, enquiry only. (7) Boat dives, run by a third party (Terms). (8) A pool only kids dive called Bubblemaker, mentioned in the FAQ. (9) Accommodation: Portsea Beach Retreat and Portsea Apartments. WEATHER: trip pages say poor weather may require a reschedule; the Terms page says activities are not cancelled for rain or overcast weather but may be cancelled for unsafe weather or water quality. SEASONS: the Terms page defines off-peak as January 27 to December 19 and peak as December 20 to January 26; trips have no stated operating season. Private Discover Scuba Dives and private guided dives are off-peak only. VOUCHERS: Rezdy links are https://bayplay.rezdy.com/140787/voucher-gift-card-50, /366373/voucher-gift-card-100 and /140790/voucher-gift-card-200; the vouchers page also says gift cards can be to the amount you desire, but only the three amounts have buttons. CONTACT: phone shown as (03) 5984 0888 and +61 3 5984 0888 (international); office hours 9.00am to 5.00pm daily; the Terms page also mentions groups@bayplay.com.au for schools and corporate groups. Address 3755 Point Nepean Road, Portsea VIC 3944, opposite Portsea Pier. CLAIMS NOT REPEATED: 'award-winning' and 'guaranteed' style wording on the pages, and a claim that the Sea Dragon colony is one of only three prime locations on Earth (corporate page). The Awards page says Victorian Tourism Awards wins in 2005 and 2006 and a Hall of Fame award in 2007; its text looks dated (it names Louise Asher as Minister for Tourism and says the awards have run for 26 years), so confirm the awards and accreditation claims are current. PHOTOS: hero image was chosen from file names and page placement without opening the image files; a person should check it. Alternatives are in the media file gallery."
+}

@@ -1,0 +1,361 @@
+{
+  "slug": "jurien-bay-oceanic-experience-a2",
+  "name": "Jurien Bay Oceanic Experience",
+  "website": "https://jurienbayoceanic.com.au",
+  "rezdyAlias": "jurienbayoceanic",
+  "state": "WA",
+  "town": "Jurien Bay",
+  "category": "Sea lion swim tours",
+  "summary": "A family-owned marine tour operator running sea lion swims, reef snorkel tours, a full-day Marine Park Experience, rock lobster catch and keep trips and sunset cruises from the Jurien Bay Boat Harbour on Western Australia's Coral Coast. The Holland family began running tours in the Jurien Bay Marine Park in 1996. In-water tours include a wetsuit, snorkel gear and GoPro footage.",
+  "standouts": [
+    "Describes itself as Western Australia's original sea lion tour operator, established in Jurien Bay in 1996",
+    "Family-owned, founded by the Holland family, who say they were the first licensed tour operator in the Jurien Bay Marine Park",
+    "Eco-Certified Tourism, as shown on the homepage",
+    "Full-length wetsuit, snorkel gear and complimentary GoPro footage included on in-water tours"
+  ],
+  "contact": {
+    "phone": "+61 432 806 234",
+    "email": "info@jurienbayoceanic.com.au",
+    "address": "Depot 3, 1225 Breakwater Drive, Jurien Bay Boat Harbour, Jurien Bay WA 6516"
+  },
+  "heroImage": "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/de59d8e3-e5c3-45fa-b348-699b120986c4/swimmer-sea-lion-jurien-bay-marine-park.jpg",
+  "sourceUrls": [
+    "https://jurienbayoceanic.com.au/",
+    "https://jurienbayoceanic.com.au/jurien-bay-tours",
+    "https://jurienbayoceanic.com.au/sea-lion-tours",
+    "https://jurienbayoceanic.com.au/jurien-bay-reef-snorkel-tour",
+    "https://jurienbayoceanic.com.au/marine-park-tour",
+    "https://jurienbayoceanic.com.au/rock-lobster-tour",
+    "https://jurienbayoceanic.com.au/jurien-bay-scenic-cruise",
+    "https://jurienbayoceanic.com.au/jurien-bay-dive-charters-and-courses",
+    "https://jurienbayoceanic.com.au/faqs",
+    "https://jurienbayoceanic.com.au/best-time-to-swim-with-sea-lions",
+    "https://jurienbayoceanic.com.au/booking-conditions",
+    "https://jurienbayoceanic.com.au/our-story",
+    "https://jurienbayoceanic.com.au/our-fleet",
+    "https://jurienbayoceanic.com.au/contact-us",
+    "https://jurienbayoceanic.com.au/marine-hub",
+    "https://jurienbayoceanic.com.au/explore-jurien-bay",
+    "https://jurienbayoceanic.com.au/jurien-bay-crayfishing",
+    "https://jurienbayoceanic.com.au/recreational-lobster-fishing-wa",
+    "https://jurienbayoceanic.com.au/things-to-do-in-jurien-bay",
+    "https://jurienbayoceanic.com.au/jurien-bay-marine-park",
+    "https://jurienbayoceanic.com.au/islands-jurien-bay-marine-park",
+    "https://jurienbayoceanic.com.au/australian-sea-lions-in-jurien-bay",
+    "https://jurienbayoceanic.com.au/sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Sea Lion Tour",
+      "kind": "swim",
+      "summary": "A 2.5 hour trip from Jurien Bay Boat Harbour through the Jurien Bay Marine Park to swim with wild Australian sea lions. Swimmers get up to 45 minutes in the water with in-water guides, wearing a full-length wetsuit, mask, snorkel and fins. No snorkelling experience is needed, and observer tickets are available for guests who prefer to stay on the boat.",
+      "highlights": [
+        "Up to 45 minutes in the water with wild Australian sea lions",
+        "Full-length wetsuit, mask, snorkel and fins provided",
+        "Hot freshwater shower and toilet on board",
+        "Complimentary GoPro footage"
+      ],
+      "duration": "Approximately 2.5 hours",
+      "durationMinutes": 150,
+      "departureTimes": [],
+      "season": "Year round",
+      "departsFrom": "Jurien Bay Boat Harbour (Depot 3, 1225 Breakwater Drive, Jurien Bay)",
+      "prices": [
+        {
+          "label": "Adult swimmer",
+          "amount": 219,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child swimmer (2-12 years)",
+          "amount": 169,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Observer (2+ years), non-swimmer",
+          "amount": 149,
+          "currency": "AUD",
+          "note": "Observer ticket for guests who stay on the boat"
+        },
+        {
+          "label": "Infant observer (under 2)",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        }
+      ],
+      "priceFrom": 219,
+      "includes": [
+        "Full-length wetsuit",
+        "Mask, snorkel and fins",
+        "Experienced in-water guides",
+        "Refreshments",
+        "Onboard toilet and hot freshwater shower",
+        "Complimentary GoPro footage (emailed to guests within a week of the tour)"
+      ],
+      "bring": [
+        "Swimwear to wear under the wetsuit",
+        "Towel",
+        "Sunglasses and a hat",
+        "A warm change of clothes for after the swim",
+        "Optional: your own wetsuit, mask, snorkel or fins (no weight belts; full-face masks are allowed but not recommended)",
+        "Optional: your own waterproof camera or GoPro (no extension poles, selfie sticks, flash or strobe lighting)",
+        "Contact lenses if you normally wear glasses (standard glasses cannot be worn under a snorkel mask and prescription masks are not provided)"
+      ],
+      "requirements": "Swimmers need basic swimming ability and must be able to remain afloat unassisted wearing snorkelling equipment; no previous snorkelling experience is required. Child swimmer tickets are for ages 2 to 12, and children aged 12 and under must be accompanied by a parent or legal guardian at all times. All guests complete liability and consent forms and disclose relevant medical conditions before departure. Arrive 15 minutes before departure. Only operator-provided life jackets are allowed in the sea lion interaction zone.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/7c3b7938-e082-4ca5-b84f-f60001cdfccc/swim-with-sea-lions.JPG",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/b2d90dc2-4781-404d-b25d-b3e53ae2e01f/australian-sea-lion-tour.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/752ac393-9b15-4d48-b6a9-04f59632ff6c/australian-sea-lion-tour.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/5dfe9796-b972-4646-bfa4-6c3ef8797ef2/sea-lion-tour-hero-optimized.webp",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/c482fe78-e074-454a-8ae6-ba70f51b2b1a/jurien-bay-oceanic-experience.PNG",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/f7fb0c1e-ca05-41f2-9d8e-681e5e9b77f1/jurien-bay-tours.PNG",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/931a20e5-9b41-474f-aaef-91744b4eaf8c/jurien-bay-oceanic-experience.PNG",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/1f741222-43c5-422d-ae92-b332ca12e53f/jurien-bay-marine-park-experience.PNG",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/b774ef69-05a8-487e-a908-be71722a74ed/jurien-bay-oceanic-experience.PNG",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/c27ceb9c-bf37-4de3-a11a-016c6f2b77d6/jurien-bay-oceanic-experience.PNG"
+      ],
+      "bookingLinks": [
+        "https://jurienbayoceanic.rezdy.com/279457/sea-lion-tour",
+        "https://jurienbayoceanic.com.au/sea-lion-tours"
+      ],
+      "sourceUrl": "https://jurienbayoceanic.com.au/sea-lion-tours",
+      "checkNotes": "Prices from the tour page. Departure times are not stated (booking widget on the tour page, not read). Season: no operating calendar is stated; 'Year round' is taken from the Best Time guide and FAQ, which say sea lions can be encountered throughout the year and wetsuits allow swimming year round. The homepage card names this the 'Sea Lion Interaction Tour'; the tour page, FAQ and Booking Conditions say 'Sea Lion Tour'. The FAQ and Booking Conditions say sea lion sightings are guaranteed and interactions are not; not repeated here. Redo policy: guests are invited back for a complimentary Sea Lion Tour if the sea lions do not enter the water (see offers). Booking links: the Rezdy product link 279457 appears only on the Best Time and Australian Sea Lions in Jurien Bay guide pages and may be an older product, while the tour page embeds the Rezdy catalog widget 420249, so the tour page URL is listed as well. priceFrom is the adult swimmer price; the observer price is a price option."
+    },
+    {
+      "title": "Jurien Bay Reef Snorkel Tour",
+      "kind": "snorkel",
+      "summary": "A 2.5 hour guided snorkel over limestone reefs in the Jurien Bay Marine Park, at a site chosen for the day's weather and sea conditions. It suits confident swimmers who have snorkelled before, from age 6. Wetsuit, snorkel gear, refreshments and GoPro footage are included, and there is a hot freshwater shower on board.",
+      "highlights": [
+        "Guided reef snorkel in the Jurien Bay Marine Park",
+        "Scenic cruise from Jurien Bay Boat Harbour to the reef site",
+        "Wetsuit, mask, snorkel and fins provided",
+        "Complimentary GoPro footage"
+      ],
+      "duration": "Approximately 2.5 hours",
+      "durationMinutes": 150,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Jurien Bay Boat Harbour (Depot 3, 1225 Breakwater Drive, Jurien Bay)",
+      "prices": [
+        {
+          "label": "Adult snorkeller",
+          "amount": 150,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child snorkeller (6-12 years)",
+          "amount": 130,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Observer",
+          "amount": 90,
+          "currency": "AUD",
+          "note": "Observer ticket for guests who do not snorkel"
+        }
+      ],
+      "priceFrom": 150,
+      "includes": [
+        "Guided reef snorkelling",
+        "Scenic Marine Park cruise",
+        "Full-length wetsuit",
+        "Mask, snorkel and fins",
+        "Experienced local guides",
+        "Refreshments",
+        "Onboard bathroom and hot freshwater shower",
+        "Complimentary GoPro footage"
+      ],
+      "bring": [
+        "Swimwear to wear under the wetsuit",
+        "Towel",
+        "Sunglasses and a hat",
+        "A warm change of clothes for after the swim"
+      ],
+      "requirements": "Minimum age 6 years. Guests must be confident swimmers with previous snorkelling experience. All children must be accompanied by a supervising adult. Arrive 15 minutes before departure; check-in is at the Jurien Bay Oceanic Experience office at the harbour.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/9f4a5e8c-a555-4ac0-ae51-35bee34dd78b/Snorkel+Image+6.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/9df550c2-2dc2-4fe0-9c17-343be3e7b5c9/Snorkel+image+3.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/bb3b2a91-649f-42bc-860b-fe8440d8d4e6/dji_fly_20230105_130110_141_1672894881225_photo_optimized.JPG"
+      ],
+      "bookingLinks": [
+        "https://jurienbayoceanic.rezdy.com/741531/jurien-bay-reef-snorkel-tour"
+      ],
+      "sourceUrl": "https://jurienbayoceanic.com.au/jurien-bay-reef-snorkel-tour",
+      "checkNotes": "Prices from the tour page; the homepage shows the same adult price ($150). No departure times, operating days or season are stated; the homepage labels this tour 'Now booking' and the tour page says the snorkel site is chosen for the day's conditions. The page notes wildlife sightings cannot be guaranteed. The 'Bring' list is the FAQ's general list for in-water tours, not stated on this tour page."
+    },
+    {
+      "title": "Marine Park Experience",
+      "kind": "tour",
+      "summary": "A full-day, 5.5 hour trip through the Jurien Bay Marine Park that combines a swim with wild Australian sea lions, reef snorkelling and sightseeing around the islands. Marine biologists guide the day, and a light lunch, fresh fruit and refreshments are served on board. It suits guests who want more time on the water than the 2.5 hour Sea Lion Tour.",
+      "highlights": [
+        "5.5 hour day in the Jurien Bay Marine Park",
+        "Swim with sea lions, subject to wildlife behaviour and conditions",
+        "Reef snorkelling at an additional site",
+        "Light lunch, fresh fruit and refreshments on board"
+      ],
+      "duration": "5.5 hours",
+      "durationMinutes": 330,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Jurien Bay Boat Harbour (Depot 3, 1225 Breakwater Drive, Jurien Bay)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Light lunch, fresh fruit and refreshments on board",
+        "Marine biologist guides",
+        "Full-length wetsuit, mask, snorkel and fins (the FAQ says these are provided on all in-water experiences)"
+      ],
+      "bring": [
+        "Swimwear to wear under the wetsuit",
+        "Towel",
+        "Sunglasses and a hat",
+        "A warm change of clothes for after the swim"
+      ],
+      "requirements": "In-water guests need basic swimming ability and must be able to remain afloat unassisted (FAQ). Children aged 12 and under must be accompanied by a parent or legal guardian at all times. Arrive 15 minutes before departure.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/cf3894ae-b088-4a5f-916c-281ce1e5023a/sea+lion+and+snorkeller.png",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/f1a70796-6da4-49c9-a26b-be8cbdf01bef/australian-sea-lions-jurien.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/6057d505-b531-4a7f-93a4-3ec473be5625/jurien-bay-oceanic-experience.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/6c91e2b4-f887-4313-917d-3f4f0dd1d8f8/jurien-bay-marine-park.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/b5a5088f-e1dd-4647-bcf2-0af234665640/marine-park-snorkelling-jurien-bay.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/91fbb70c-e634-4c33-94f2-74289fda227f/Boullanger.png",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/77078939-409d-4b9c-b001-341f94505ba9/snorkelling.png",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/e61f6121-8a60-4d23-b1c9-9caf33815c0a/Coral.png"
+      ],
+      "bookingLinks": [
+        "https://jurienbayoceanic.com.au/marine-park-tour"
+      ],
+      "sourceUrl": "https://jurienbayoceanic.com.au/marine-park-tour",
+      "checkNotes": "No price, departure time or season is on the tour page. It sells through a Rezdy booking widget (catalog 540973) embedded on the tour page, which was not opened, so prices is empty and the tour page URL is recorded as the booking link; no per-trip Rezdy link was found anywhere on the site. The tour page does not list gear; the FAQ says a full-length wetsuit, mask, snorkel and fins are provided on in-water experiences, and that swimming with sea lions is part of the day subject to wildlife behaviour and conditions. 'Guided by marine biologists' is the page's own claim (the crew list includes a marine biologist). The 'Bring' list is the FAQ's general list for in-water tours. The last three images for this trip are large section-background PNGs (Boullanger, snorkelling, Coral) that could not be checked by eye; the importer should decide."
+    },
+    {
+      "title": "Rock Lobster Catch & Keep Tour",
+      "kind": "tour",
+      "summary": "A trip aboard a working commercial fishing vessel to watch rock lobster pots hauled from the ocean, help the crew with the catch and learn how the Western Australian fishery works. Guests take home a share of the day's catch, up to 8 crays each. The hosts are a family with many years of commercial crayfishing out of Jurien Bay.",
+      "highlights": [
+        "Watch commercial lobster pots hauled from the ocean",
+        "Help the crew with the catch",
+        "Take home your share of the catch, up to 8 crays per guest",
+        "Cruise the Jurien Bay coastline between fishing grounds"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Jurien Bay Boat Harbour (Depot 3, 1225 Breakwater Drive, Jurien Bay)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Everything needed for the fishing experience",
+        "A share of the day's catch, up to 8 crays per guest",
+        "No recreational lobster licence needed (guests are covered by the operator's tour licence)"
+      ],
+      "bring": [],
+      "requirements": "No fishing experience necessary. The bag limit is the permitted recreational limit of legal-sized Western Rock Lobsters, subject to current fisheries regulations and the day's catch.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/1da0f05a-b516-472e-af9c-838caa1a1d1e/dsc07706.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/fb6ae965-0474-4f09-b5b1-009075a9e901/Rock-Lobster-Tour.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/32c2a397-8a26-4670-aa5b-13f75026c397/lobster-tour-jurienbay.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/7fe8c98a-1bec-4729-b497-a7f3df385a2e/lobster-tour-western-australia.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/cb0f4254-52fa-4794-9db6-270a8e16052c/cc0ce899-b816-4b26-bae5-84d566f9a959.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/8f99431a-8e52-4cf2-9b4d-9753b15221da/DJI_20260209080851_0069_D.PNG"
+      ],
+      "bookingLinks": [
+        "https://jurienbayoceanic.rezdy.com/360885/rock-lobster-catch-and-keep-tour",
+        "https://jurienbayoceanic.com.au/rock-lobster-tour"
+      ],
+      "sourceUrl": "https://jurienbayoceanic.com.au/rock-lobster-tour",
+      "checkNotes": "No price, duration, departure time or season is on the tour page, and the page does not say when the tour runs, so confirm it is currently running before publishing. It sells through a Rezdy booking widget (catalog 540974) embedded on the tour page, which was not opened, so prices is empty. The per-trip Rezdy link 360885 appears only on the Jurien Bay Crayfishing and Recreational Lobster Fishing guide pages; the tour page URL is listed as well. Bag limit: the tour page says up to 8 crays per guest, the FAQ says up to the permitted recreational bag limit subject to fisheries regulations and the day's catch; both are kept. The two historic crayfishing photos on the tour page were not used as trip images."
+    },
+    {
+      "title": "Jurien Bay Sunset Cruise",
+      "kind": "cruise",
+      "summary": "A 1.5 hour cruise along the Jurien Bay coastline and offshore islands at golden hour, leaving the harbour at 5:30pm on Fridays, Saturdays and Sundays in a limited spring season from 18 September to 18 October 2026. Each guest gets two complimentary drinks (beer, wine or soft drink), and tea, coffee and Tim Tams are also available. It stays on the boat, so no swimming is needed.",
+      "highlights": [
+        "Coastline and offshore island views at golden hour",
+        "Two complimentary drinks per person",
+        "No swimming required",
+        "Onboard binoculars and local commentary"
+      ],
+      "duration": "Approximately 1.5 hours",
+      "durationMinutes": 90,
+      "departureTimes": [
+        "17:30"
+      ],
+      "season": "Limited spring season: 18 September to 18 October 2026; Friday, Saturday and Sunday (when available)",
+      "departsFrom": "Jurien Bay Boat Harbour (Depot 3, 1225 Breakwater Drive, Jurien Bay)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 99,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Senior",
+          "amount": 89,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (2-12 years)",
+          "amount": 69,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0-2 years)",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        }
+      ],
+      "priceFrom": 99,
+      "includes": [
+        "1.5 hour sunset cruise",
+        "Two complimentary drinks per person (beer, wine or soft drink)",
+        "Tea, coffee and Tim Tams",
+        "Experienced local crew and commentary",
+        "Onboard binoculars"
+      ],
+      "bring": [],
+      "requirements": "No swimming required. Alcoholic drinks are for guests aged 18 and over; guests under 18 can choose soft drinks. All children must be accompanied by a supervising adult. Arrive 15 minutes before departure; check-in is at the Jurien Bay Oceanic Experience office at the harbour.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/e925b1d1-58ca-4ce9-89aa-a6023af3c1e7/Photo+31-7-2026%2C+2+59+51+pm.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/3541510c-aab0-430d-a4cc-2196707db7e5/Photo+31-7-2026%2C+2+59+51+pm.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/8d3a0965-dfa7-4bc2-bf8e-f8f6d991dabc/Photo+19-5-2022%2C+10+17+44+pm+%281%29.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5fb35154b08b236861eb49dd/43cfd492-02a3-41c5-8d11-a8c486f88b02/IMG_4359.jpg"
+      ],
+      "bookingLinks": [
+        "https://jurienbayoceanic.rezdy.com/669977/jurien-bay-sunset-cruise-limited-spring-season"
+      ],
+      "sourceUrl": "https://jurienbayoceanic.com.au/jurien-bay-scenic-cruise",
+      "checkNotes": "The page title is 'Jurien Bay Sunset Cruise' but its address is /jurien-bay-scenic-cruise. The season ends on 18 October 2026, so this trip should come down after that date unless the site announces more dates. Operating days are 'Friday, Saturday and Sunday (when available)'. The cruise is subject to weather, sea conditions and minimum passenger numbers; the page says wildlife sightings cannot be guaranteed. Senior ($89) is lower than Adult; priceFrom uses the adult price. The first two images are two separate uploads of the same 31 July 2026 photo."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Sea Lion Tour gift vouchers",
+      "conditions": "Gift vouchers are non-refundable.",
+      "validUntil": null,
+      "sourceUrl": "https://jurienbayoceanic.com.au/booking-conditions"
+    },
+    {
+      "text": "Complimentary return Sea Lion Tour if the sea lions do not enter the water during your tour",
+      "conditions": "Under the operator's redo policy. Redo or rescheduled bookings are valid for 12 months from the original tour date. This does not otherwise entitle guests to a refund or compensation.",
+      "validUntil": null,
+      "sourceUrl": "https://jurienbayoceanic.com.au/faqs"
+    }
+  ],
+  "checkNotes": "The apex domain redirects to https://www.jurienbayoceanic.com.au, so source URLs are given in the apex form from the brief. The site is built on Squarespace and no bot check was met. Rezdy account jurienbayoceanic belongs to this business; no Rezdy page was opened. Prices are on the page for the Sea Lion Tour, Reef Snorkel Tour and Sunset Cruise only; the Marine Park Experience and Rock Lobster Catch & Keep Tour sell through embedded Rezdy booking widgets with no prices, times or seasons on the page. Departure times are stated only for the Sunset Cruise (5:30pm); the site says departure times can move by up to 1.5 hours for weather or operations. Left out of trips: Dive Courses & Charters (the dive page says courses and charters are currently unavailable due to unforeseen circumstances and will return in the new season; PADI Open Water, Snorkel Guide, Bubblemaker and certified-diver charters are planned; its booking widget is Rezdy catalog 555098); a 'Fishing Charter' that the FAQ mentions but no page, price or booking link describes. Gift vouchers are sold through https://jurienbayoceanic.rezdy.com/423952/sea-lion-tour-gift-voucher (header button on every page); that link is not a trip. Sighting claims not repeated: the FAQ and Booking Conditions say sea lion sightings are guaranteed while the Reef Snorkel and Sunset pages say wildlife sightings cannot be guaranteed; the homepage also quotes a 5.0 rating from 900+ Google reviews. 'Eco-Certified Tourism' appears on the homepage as text with TERC badge, Dream Collective WA and 2025 finalist logos; the certifying body is not named in the text, so a person should confirm it before it is shown. Phone shown on the site as 0432 806 234. The homepage hero image file name carries a photographer's name (MaiRoper_photos_JurienBayOceanic_Oct25-28.jpg), so it was not used as the hero; the hero here is a swimmer-with-sea-lion photo from the Best Time guide. Observer tickets are described in the FAQ as available on selected tours."
+}

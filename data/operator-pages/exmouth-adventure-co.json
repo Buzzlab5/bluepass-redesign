@@ -1,0 +1,881 @@
+{
+  "slug": "exmouth-adventure-co",
+  "name": "Exmouth Adventure Co",
+  "website": "https://exmouthadventureco.com.au",
+  "rezdyAlias": "exmouthadventureco",
+  "state": "WA",
+  "town": "Exmouth",
+  "category": "Kayak and snorkel tours",
+  "summary": "Small-group sea kayak and snorkel tours on Ningaloo Reef, run from Exmouth in Western Australia. Trips range from half day paddles to camping expeditions of three to five days, with guided beach snorkelling and a gorge and boat day in Cape Range National Park. A sea kayak expedition in the Dampier Archipelago near Karratha runs in the cooler months.",
+  "standouts": [
+    "Running sea kayak tours on Ningaloo since 1999, first as Capricorn Seakayaking",
+    "Strict ratio of 1 guide to 8 guests on adventure tours",
+    "Displays a Sustainable Tourism Accredited business logo",
+    "Dampier expedition opens with a cultural awareness session and rock art tour led by Murujuga Aboriginal Corporation rangers"
+  ],
+  "contact": {
+    "phone": "+61 477 685 123",
+    "email": "info@exmouthadventureco.com.au",
+    "address": "24 Pelias St, Exmouth WA 6707 (postal: PO Box 796, Exmouth WA 6707)"
+  },
+  "heroImage": "https://www.exmouthadventureco.com.au/wp-content/uploads/2023/09/EAC-Hero-2023-Opt.jpg",
+  "sourceUrls": [
+    "https://www.exmouthadventureco.com.au/",
+    "https://www.exmouthadventureco.com.au/turtle-tour/",
+    "https://www.exmouthadventureco.com.au/coral-by-kayak/",
+    "https://www.exmouthadventureco.com.au/summer-sunset-turtle-watching-tour/",
+    "https://www.exmouthadventureco.com.au/lagoon-explorer/",
+    "https://www.exmouthadventureco.com.au/ningaloo-in-a-day/",
+    "https://www.exmouthadventureco.com.au/ningaloo-reef-snorkel-adventure/",
+    "https://www.exmouthadventureco.com.au/essence-of-ningaloo/",
+    "https://www.exmouthadventureco.com.au/reef-beach/",
+    "https://www.exmouthadventureco.com.au/ningaloo-odyssey-4-day-trek-kayak-expedition/",
+    "https://www.exmouthadventureco.com.au/5-day-ultimate-safari-tour/",
+    "https://www.exmouthadventureco.com.au/dampier-archipelago-and-murujuga-national-park-5-day-sea-kayak-expedition/",
+    "https://www.exmouthadventureco.com.au/exmouth-modern-history-heritage-tour/",
+    "https://www.exmouthadventureco.com.au/weekly-tour-calendar/",
+    "https://www.exmouthadventureco.com.au/hire/",
+    "https://www.exmouthadventureco.com.au/gift-vouchers/",
+    "https://www.exmouthadventureco.com.au/about-us/",
+    "https://www.exmouthadventureco.com.au/contact-us/",
+    "https://www.exmouthadventureco.com.au/sustainability/",
+    "https://www.exmouthadventureco.com.au/our-partners/",
+    "https://www.exmouthadventureco.com.au/our-team/",
+    "https://www.exmouthadventureco.com.au/ningaloo-wildlife/",
+    "https://www.exmouthadventureco.com.au/terms-conditions/"
+  ],
+  "trips": [
+    {
+      "title": "Turtle Tour",
+      "kind": "kayak",
+      "summary": "A half day paddle and snorkel in the Bundegi Sanctuary Zone in Exmouth Gulf, at the northern end of Ningaloo Reef. Guests paddle double sit-on-top kayaks looking for turtles, rays, baby reef sharks and osprey, then snorkel from the kayak over sheltered coral. The operator recommends it for families, with a minimum age of 8.",
+      "highlights": [
+        "Double sit-on-top kayaks in the Bundegi Sanctuary Zone",
+        "Turtles, rays, baby reef sharks and osprey are commonly seen",
+        "Snorkel from the kayak over sheltered coral gardens",
+        "Groups of 4 to 8 guests"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": "Year round",
+      "departsFrom": "Pick up from Exmouth accommodation starting 15 minutes before the tour start time, or meet at the corner of Murat Rd and Yardie Creek Road. Kayaks launch in the Bundegi Sanctuary Zone, Exmouth Gulf, about a 15 minute drive from town",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 175,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Children (8-17)",
+          "amount": 155,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2 adults + 2 children)",
+          "amount": 560,
+          "currency": "AUD",
+          "note": "Direct bookings only"
+        },
+        {
+          "label": "Additional child (on top of family price)",
+          "amount": 130,
+          "currency": "AUD",
+          "note": "Direct bookings only"
+        }
+      ],
+      "priceFrom": 175,
+      "includes": [
+        "Pick up and drop off from Exmouth accommodation",
+        "Double sit-on-top sea kayaks and lifejackets",
+        "Snorkel, mask and fins, plus wetsuits in the cooler months",
+        "Long-sleeve sun shirts, broad-brim hats and polarised sunglasses",
+        "Dry bags for valuables",
+        "Morning or afternoon tea",
+        "Qualified guide and complimentary tour photos"
+      ],
+      "bring": [
+        "Board shorts, quick-dry shorts or leggings, with bathers underneath",
+        "Water (at least 1 litre in summer) and sunscreen, reef-safe if possible",
+        "Footwear that can get wet",
+        "Towel",
+        "Optional: GoPro or underwater camera"
+      ],
+      "requirements": "Minimum age 8. Kayak weight limit 110kg per person. Moderate level of physical activity, including snorkelling from the kayak. Guests must understand basic safety instructions in English.",
+      "offer": null,
+      "images": [
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2019/09/Turtle-Tour-Turtle-1.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2019/09/Turtle-Tour-Kayaks-1.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2018/12/Turtle-Snorkel-1.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2019/09/Turtle-Tour-Snorkellers-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://exmouthadventureco.rezdy.com/192314/turtle-tour-half-day-sea-kayak-snorkel-tour",
+        "https://exmouthadventureco.rezdy.com/397033/turtle-tour-half-day-sea-kayak-snorkel-tour"
+      ],
+      "sourceUrl": "https://www.exmouthadventureco.com.au/turtle-tour/",
+      "checkNotes": "Start time is not fixed: it changes daily with the tide, some days are unavailable because of tides, and the site says to contact the operator for daily times. Two booking links, both on the operator's own Rezdy account (not opened): the tour page links product 192314 and the home page links product 397033; confirm which is live. Group size is a minimum of 4 and a maximum of 8, and more than one group of 8 may run in the same place in busy periods. Family prices are for direct bookings only. Cancellation: 72 hour policy."
+    },
+    {
+      "title": "Coral By Kayak",
+      "kind": "kayak",
+      "summary": "A half day trip that paddles out to a snorkel site in the Tantabiddi Sanctuary Zone on Ningaloo Reef, about 30 minutes from the boat ramp. Guests tie up to a kayak-only mooring and snorkel over coral formations and reef fish, then paddle back. The tour leaves from Exmouth by vehicle, with a morning or afternoon start depending on the time of year.",
+      "highlights": [
+        "Paddle double sit-on-top kayaks to the Tantabiddi Sanctuary Zone",
+        "Snorkel from the kayak at a kayak-only mooring",
+        "Large porite coral bombies, some hundreds of years old",
+        "Complimentary photos taken by your guide"
+      ],
+      "duration": "4 hours, including travel to and from Exmouth",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "07:00",
+        "11:30"
+      ],
+      "season": "Year round",
+      "departsFrom": "Pick up from Exmouth accommodation starting 15 minutes before the tour start time, or meet at the Tantabiddi boat ramp. Kayaks launch from the Tantabiddi boat ramp",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 190,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Children (8-17)",
+          "amount": 170,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2 adults + 2 children)",
+          "amount": 615,
+          "currency": "AUD",
+          "note": "Direct bookings only"
+        },
+        {
+          "label": "Additional child (on top of family price)",
+          "amount": 145,
+          "currency": "AUD",
+          "note": "Direct bookings only"
+        }
+      ],
+      "priceFrom": 190,
+      "includes": [
+        "Pick up and drop off from Exmouth accommodation",
+        "Double sit-on-top sea kayaks and lifejackets",
+        "Snorkel, mask and fins, plus wetsuits in the cooler months",
+        "Long-sleeve sun shirts, broad-brim hats and polarised sunglasses",
+        "Dry bags for valuables",
+        "Morning or afternoon tea and a snack pack for the return journey",
+        "Qualified guide and complimentary tour photos"
+      ],
+      "bring": [
+        "Board shorts, quick-dry shorts or leggings, with bathers underneath",
+        "Water (at least 1 litre in summer), sunscreen (reef-safe if possible) and sunglasses",
+        "Footwear that can get wet",
+        "Towel",
+        "Optional: GoPro or underwater camera"
+      ],
+      "requirements": "Minimum age 8. Kayak weight limit 110kg per person. Moderate level of physical activity. Guests must understand basic safety instructions in English.",
+      "offer": null,
+      "images": [
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2021/12/Kayak-Over-Coral-1.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2021/12/Snorkel-Shallow-Coral-Butterflyfish.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2021/12/Kayak-Snorkel-Ready-1.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2021/12/Coral-Snorkel-Parrotfish.jpg"
+      ],
+      "bookingLinks": [
+        "https://exmouthadventureco.rezdy.com/477323/coral-by-kayak"
+      ],
+      "sourceUrl": "https://www.exmouthadventureco.com.au/coral-by-kayak/",
+      "checkNotes": "The page gives the tour time as 7am to 11am from October to March and 11.30am to 3.30pm from April to September, including travel from Exmouth; the two departure times are those starts (pick up is just before 7am or at 11.30am). Group size is a minimum of 4 and a maximum of 16 on the tour details, but the FAQ says usually no more than 8, with up to 16 and two guides in busy periods. Family prices are for direct bookings only. Cancellation: 72 hour policy."
+    },
+    {
+      "title": "Lagoon Explorer",
+      "kind": "kayak",
+      "summary": "A full day of sea kayaking and snorkelling in the lagoons of Ningaloo Reef inside Cape Range National Park, in double sit-inside sea kayaks. The launch site changes with the weather, and the day includes morning tea, lunch and snorkelling from the kayaks or the beach. Guests look for turtles and rays, and may see dolphins or dugong.",
+      "highlights": [
+        "Double sit-inside sea kayaks with rudders",
+        "Snorkel from the kayaks or from the beach",
+        "Morning tea and lunch on the beach",
+        "National park entry fees included"
+      ],
+      "duration": "8am to 4pm (8 hours, including travel time)",
+      "durationMinutes": 480,
+      "departureTimes": [
+        "08:00"
+      ],
+      "season": "Year round",
+      "departsFrom": "Pick up from Exmouth accommodation starting at 7.45am. The kayak launch site varies within Cape Range National Park depending on the weather",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 300,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Children (12-17)",
+          "amount": 270,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2 adults + 2 children)",
+          "amount": 970,
+          "currency": "AUD",
+          "note": "Direct bookings only"
+        },
+        {
+          "label": "Extra child (on top of family price)",
+          "amount": 230,
+          "currency": "AUD",
+          "note": "Direct bookings only"
+        }
+      ],
+      "priceFrom": 300,
+      "includes": [
+        "Pick up and drop off from Exmouth accommodation",
+        "National park entry fees",
+        "Double sit-inside sea kayaks with rudder, paddles and lifejackets",
+        "Snorkel, mask and fins, plus wetsuits in the cooler months",
+        "Long-sleeve sun shirts and broad-brim hats",
+        "Dry bags for valuables",
+        "Morning tea and lunch (dietary requirements can be catered for)",
+        "Qualified local guide and complimentary photos"
+      ],
+      "bring": [
+        "Sunglasses and sunscreen (reef-safe if possible)",
+        "Drinking water, at least 1 litre",
+        "Quick-dry shorts or leggings, with bathers underneath",
+        "Footwear that can get wet",
+        "Towel",
+        "A warm layer on cool days",
+        "Optional: GoPro or underwater camera"
+      ],
+      "requirements": "Minimum age 12. Kayak weight limit 110kg per person. Moderate level of physical activity, lifting of equipment and walking on uneven ground and soft sand. Guests must understand basic safety instructions in English.",
+      "offer": null,
+      "images": [
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2023/09/EAC-Hero-2023-Opt.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2016/07/Lagoon-Explorer-4.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2016/07/Lagoon-Explorer-3.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2017/12/Lagoon-Explorer-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://exmouthadventureco.rezdy.com/69707/lagoon-explorer-full-day-kayak-snorkel-tour",
+        "https://exmouthadventureco.rezdy.com/397034/lagoon-explorer-full-day-kayak-snorkel-tour"
+      ],
+      "sourceUrl": "https://www.exmouthadventureco.com.au/lagoon-explorer/",
+      "checkNotes": "Two booking links on the operator's own Rezdy account (not opened): the tour page links product 69707 and the home page links product 397034; confirm which is live. The tour page also links a second Rezdy account under the old business name (capricornseakayaking), which was left out. Group size is a minimum of 4, usually up to 8 and up to 16 in busy periods. Family prices are for direct bookings only. Cancellation: 72 hour policy."
+    },
+    {
+      "title": "Ningaloo In A Day Safari",
+      "kind": "tour",
+      "summary": "A full day by air conditioned minibus from Exmouth through Charles Knife Canyon, Vlamingh Head Lighthouse and Cape Range National Park. The day includes a swim or snorkel at a Ningaloo beach and a boat cruise through Yardie Creek gorge on the operator's vessel, Spirit of Yardi. Morning tea, lunch and snorkel gear are included.",
+      "highlights": [
+        "Views over Exmouth Gulf from Charles Knife Canyon",
+        "Swim or snorkel at a Ningaloo Reef beach",
+        "Boat cruise on Yardie Creek aboard Spirit of Yardi",
+        "Black-flanked rock wallabies and osprey are often seen at the gorge"
+      ],
+      "duration": "8am to 4pm (approximately 8 hours)",
+      "durationMinutes": 480,
+      "departureTimes": [
+        "08:00"
+      ],
+      "season": "Year round",
+      "departsFrom": "Pick up from Exmouth accommodation starting from 7.45am",
+      "prices": [
+        {
+          "label": "Adults",
+          "amount": 320,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Children (6-17)",
+          "amount": 285,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2 adults + 2 children)",
+          "amount": 1030,
+          "currency": "AUD",
+          "note": "Direct bookings only"
+        },
+        {
+          "label": "Additional child (on top of family price)",
+          "amount": 242,
+          "currency": "AUD",
+          "note": "Direct bookings only"
+        }
+      ],
+      "priceFrom": 320,
+      "includes": [
+        "Pick up and drop off from Exmouth accommodation",
+        "Morning tea and lunch (dietary requirements can be catered for)",
+        "Transport and national park entry fee",
+        "Snorkel, mask and fins, plus stinger suits or wetsuits in season",
+        "Flotation devices if required (lifejacket, pool noodle)",
+        "Qualified local guide and complimentary photos"
+      ],
+      "bring": [
+        "Enclosed footwear, shorts and t-shirt, and a warmer layer in cooler months",
+        "Sunscreen or zinc (reef-safe if possible), hat and sunglasses",
+        "A full water bottle (single-use plastic bottles are not supplied)",
+        "Bathers, towel and sandals or flip flops",
+        "Any personal medication"
+      ],
+      "requirements": "Minimum age 6. Average fitness and mobility, with walking on uneven surfaces and short sections of soft sand. Guests must be able to step down from the jetty into the boat on Yardie Creek with the guide's help. First-time snorkellers, or guests who cannot swim 100m, may be asked to wear a lifejacket. Guests must understand basic safety instructions in English.",
+      "offer": null,
+      "images": [
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2026/04/Ningaloo-In-A-Day-Safari-Creek-and-Boat-Aerial-2-1.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2026/04/Ningaloo-In-A-Day-Safari-Snorkel-2.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2026/04/Ningaloo-In-A-Day-Safari-Boat-1.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2026/04/Yardie-Boat-Cruise-1-Opt.jpg"
+      ],
+      "bookingLinks": [
+        "https://exmouthadventureco.rezdy.com/757818/ningaloo-in-a-day-safari",
+        "https://exmouthadventureco.rezdy.com/452407/ningaloo-in-a-day"
+      ],
+      "sourceUrl": "https://www.exmouthadventureco.com.au/ningaloo-in-a-day/",
+      "checkNotes": "Mostly a land tour: the sea parts are the beach swim or snorkel and the Yardie Creek boat cruise (creek and gorge, not open sea). Two booking links on the operator's own Rezdy account (not opened): the tour page and the home page card link product 757818, and a separate home page slide links product 452407 under the older name 'ningaloo-in-a-day'; 452407 may be stale. Group size is a minimum of 4, usually up to 8. Family prices are for direct bookings only. Cancellation: 72 hour policy."
+    },
+    {
+      "title": "Ningaloo Reef Snorkel Adventure",
+      "kind": "snorkel",
+      "summary": "A 7 hour guided snorkel day from the shore at Turquoise Bay and one other site, Oyster Stacks or Lakeside, chosen by the guide on the day. There is no kayaking or boating on this tour. Snorkel gear, morning tea and a picnic lunch are included, and no snorkelling experience is needed.",
+      "highlights": [
+        "Turquoise Bay plus either Oyster Stacks or Lakeside",
+        "Shore-based snorkelling with a guide in the water",
+        "Morning tea and picnic lunch included",
+        "Complimentary photos from your guide"
+      ],
+      "duration": "7 hours including travel time (7am to 2pm from October 1 to April 30; 8am to 3pm from May 1 to September 30)",
+      "durationMinutes": 420,
+      "departureTimes": [
+        "07:00",
+        "08:00"
+      ],
+      "season": "Available all year",
+      "departsFrom": "Pick up from Exmouth accommodation starting 15 minutes before the tour start time. Meeting in Cape Range National Park is possible by prior arrangement",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 250,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Children (6-17)",
+          "amount": 225,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2 adults + 2 children)",
+          "amount": 810,
+          "currency": "AUD",
+          "note": "Direct bookings only"
+        },
+        {
+          "label": "Extra child (on top of family price)",
+          "amount": 190,
+          "currency": "AUD",
+          "note": "Direct bookings only"
+        }
+      ],
+      "priceFrom": 250,
+      "includes": [
+        "Pick up and drop off from Exmouth accommodation",
+        "Transport and national park entry fees",
+        "Snorkel, mask and fins, plus wetsuits or long-sleeve sun shirts",
+        "Flotation aids if requested",
+        "Morning tea and picnic lunch",
+        "Small pop-up beach shade",
+        "Complimentary tour photos"
+      ],
+      "bring": [
+        "Sunscreen or zinc (reef-safe if possible)",
+        "A full bottle of drinking water",
+        "Bathers under your clothes and footwear such as thongs, crocs or sandals",
+        "Towel",
+        "Optional: camera, phone or GoPro"
+      ],
+      "requirements": "Minimum age 8; the operator asks guests to get in touch about children aged 6 to 8. Average level of fitness and basic swimming ability. Walking on soft sand for about 700m to and from some snorkel sites, and possibly entering the water from a rocky ledge. Guests must understand basic safety instructions in English.",
+      "offer": null,
+      "images": [
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2023/07/2-dayer-snorkel-1.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2019/12/Ningaloo-snorkel-tour-1.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2021/12/Staghorn-Coral-1.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2023/07/2-dayer-snorkel-2.jpg"
+      ],
+      "bookingLinks": [
+        "https://exmouthadventureco.rezdy.com/583708/ningaloo-reef-snorkel-adventure"
+      ],
+      "sourceUrl": "https://www.exmouthadventureco.com.au/ningaloo-reef-snorkel-adventure/",
+      "checkNotes": "Shore-based snorkelling only, no boat or kayak. The price list says Children (6-17) but the minimum age is 8, with ages 6 to 8 by arrangement; confirm the child price for 6 to 8. The page also says to get in touch to enquire about dates and availability. Group size is a minimum of 4 and a maximum of 16 on the tour details, but the FAQ says usually no more than 8. Family prices are for direct bookings only. Cancellation: 72 hour policy."
+    },
+    {
+      "title": "Essence of Ningaloo",
+      "kind": "tour",
+      "summary": "A three day guided trip in Cape Range National Park that combines beach-entry snorkelling, gorge walks and two nights at a set-up base camp. Snorkel sites include Turquoise Bay, Lakeside, Oyster Stacks and Osprey Bay, depending on the tides. Food, camping gear, park fees and transport are included.",
+      "highlights": [
+        "Beach-entry snorkelling each day, including Turquoise Bay",
+        "Guided gorge walks at Yardie Creek and Mandu Mandu",
+        "Two nights at a base camp with tents already set up",
+        "Stops at the Milyering Discovery Centre, Jurabi Turtle Centre and Vlamingh Head Lighthouse"
+      ],
+      "duration": "3 days (itinerary runs Friday to Sunday, back in Exmouth by 3pm on Day 3)",
+      "durationMinutes": null,
+      "departureTimes": [
+        "07:15"
+      ],
+      "season": "Mid April to early October",
+      "departsFrom": "Pick up from Exmouth accommodation starting from 7.15am on Day 1, or meet at the base at 24 Pelias St, Exmouth at 7am. Pre-trip meeting and gear fit-out at the base at 4pm the day before",
+      "prices": [
+        {
+          "label": "Adults",
+          "amount": 1530,
+          "currency": "AUD",
+          "note": "Twin share"
+        },
+        {
+          "label": "Kids (8-17)",
+          "amount": 1375,
+          "currency": "AUD",
+          "note": "Twin share"
+        },
+        {
+          "label": "Family (2 adults + 2 children)",
+          "amount": 4940,
+          "currency": "AUD",
+          "note": "Twin share"
+        },
+        {
+          "label": "Extra child (only available on top of family price)",
+          "amount": 1170,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Single supplement for a private solo tent",
+          "amount": 50,
+          "currency": "AUD",
+          "note": "Supplement"
+        },
+        {
+          "label": "Special dietary requirements, per day",
+          "amount": 5,
+          "currency": "AUD",
+          "note": "Surcharge; does not apply to vegetarian"
+        },
+        {
+          "label": "Secure parking inside the base yard, per day",
+          "amount": 10,
+          "currency": "AUD",
+          "note": "Optional; free on-street parking is also available"
+        }
+      ],
+      "priceFrom": 1530,
+      "includes": [
+        "Pick up and drop off from Exmouth accommodation",
+        "Transport in an air-conditioned bus, national park entry and camping fees",
+        "Snorkel, mask and fins, plus wetsuits or stinger suits in season",
+        "Long-sleeve sun shirts and broad-brim hats if required",
+        "Stand-up tents, pillows, sheets, doonas, camp chairs, camp kitchen, toilet and solar showers",
+        "All food and non-alcoholic drinks (alcohol is BYO)",
+        "Qualified guides, group first aid kit and satellite phone",
+        "Complimentary tour photos"
+      ],
+      "bring": [
+        "Water bottle, sunscreen and sunglasses",
+        "Camp and bushwalking clothes",
+        "Personal toiletries and medications",
+        "A detailed info pack with a packing list is provided on booking"
+      ],
+      "requirements": "Minimum age 6. Average fitness and agility. Gorge walks include steep sections with rock scrambling (optional), and walking on uneven ground and soft sand for 500m is needed to reach some snorkel sites. At least basic swimming ability. Guests aged 60 or over at departure need a medical certificate from their physician. Guests must understand basic safety instructions in English.",
+      "offer": null,
+      "images": [
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2025/11/Essence-Hero-Opt.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2025/11/Essence-Snorkel-1-Opt.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2025/11/Turtle-Snorkel-1-Opt.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2025/11/Base-Camp-Tents-1-Opt.jpg"
+      ],
+      "bookingLinks": [
+        "https://exmouthadventureco.rezdy.com/736615/essence-of-ningaloo"
+      ],
+      "sourceUrl": "https://www.exmouthadventureco.com.au/essence-of-ningaloo/",
+      "checkNotes": "No sea kayaking: the water activity is guided beach-entry snorkelling, plus gorge walks and camping. Prices are twin share. The minimum age is 6 but the first child price is for ages 8 to 17; confirm the price for ages 6 and 7. A deposit is required on booking with the balance due 30 days before departure (the site states the deposit as a share of the price). Cancellation: 30 day policy. Group size is a minimum of 4 and a maximum of 16, average 6 to 12. The page asks guests to get in touch to enquire about dates and availability, and the itinerary lists Day 1 as a Friday."
+    },
+    {
+      "title": "2-Day Sea Kayak, Snorkel and Beach Campout",
+      "kind": "kayak",
+      "summary": "An overnight sea kayak and snorkel trip on the lagoons of Ningaloo Reef, with a night at a wilderness beach campsite among the dunes. The operator describes it as an introduction to multi-day, expedition-style kayaking. It is offered as a custom tour option for groups of 4 or more.",
+      "highlights": [
+        "Sea kayak and snorkel the lagoons of Ningaloo Reef",
+        "One night at a wilderness beach campsite",
+        "Introduction to multi-day, expedition-style kayaking"
+      ],
+      "duration": "2 days, 1 night",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2022/10/2-dayer-beach-swim.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2023/07/2-dayer-snorkel-1.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2023/07/2-dayer-snorkel-2.jpg"
+      ],
+      "bookingLinks": [
+        "https://exmouthadventureco.rezdy.com/527307/2-day-sea-kayak-snorkel-and-beach-campout"
+      ],
+      "sourceUrl": "https://www.exmouthadventureco.com.au/",
+      "checkNotes": "Described only on a home page card headed 'Custom tour option for groups of 4 or more'; there is no page for this trip, the card's Learn More link is empty, and the site shows no price, times, season, meeting point, inclusions or age limit for it. The booking link is the card's Book Now button on the operator's own Rezdy account (not opened). The Terms and Conditions list a 30 day cancellation policy for it. Confirm with the operator that it is currently offered before publishing."
+    },
+    {
+      "title": "3-Day Reef & Beach",
+      "kind": "kayak",
+      "summary": "A three day, two night sea kayak expedition along the Ningaloo lagoon in Cape Range National Park. Guests paddle double sit-inside expedition kayaks that carry all the camping gear, snorkel different sites each day and camp on a different undeveloped beach each night. The route usually runs between Osprey Bay and Ned's Camp.",
+      "highlights": [
+        "Double sit-inside expedition sea kayaks with rudders",
+        "Snorkel different sites each day, including sites reached only by kayak",
+        "Camp on a different undeveloped beach each night",
+        "Usually paddles between Osprey Bay and Ned's Camp"
+      ],
+      "duration": "3 days, 2 nights (pick up just before 8am on Day 1, drop off around 4pm on Day 3)",
+      "durationMinutes": null,
+      "departureTimes": [
+        "07:45"
+      ],
+      "season": "Late March to early October",
+      "departsFrom": "Pick up from Exmouth accommodation starting at 7.45am, or meet at the base at 24 Pelias St, Exmouth at 7.30am. Pre-trip meeting and gear fit-out at the base at 4pm the day before",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 1715,
+          "currency": "AUD",
+          "note": "Twin share"
+        },
+        {
+          "label": "Children (12-17)",
+          "amount": 1540,
+          "currency": "AUD",
+          "note": "Twin share"
+        },
+        {
+          "label": "Family (2 adults + 2 children)",
+          "amount": 5535,
+          "currency": "AUD",
+          "note": "Twin share; direct bookings only"
+        },
+        {
+          "label": "Extra child (on top of family price)",
+          "amount": 1310,
+          "currency": "AUD",
+          "note": "Direct bookings only"
+        },
+        {
+          "label": "Single supplement for a private solo tent",
+          "amount": 50,
+          "currency": "AUD",
+          "note": "Supplement"
+        },
+        {
+          "label": "Secure parking inside the base yard, per day",
+          "amount": 10,
+          "currency": "AUD",
+          "note": "Optional; free on-street parking is also available"
+        }
+      ],
+      "priceFrom": 1715,
+      "includes": [
+        "Transport, national park entry and camping fees",
+        "Double sit-inside expedition sea kayaks with rudder, paddles and lifejackets",
+        "Snorkel, mask and fins, plus wetsuits in season",
+        "Long-sleeve sun shirts, broad-brim hats and paddling gloves",
+        "Dry bags, tents, pillows, sleeping bags and liners, and camp chairs",
+        "All food and non-alcoholic drinks (alcohol is BYO)",
+        "Qualified guide and complimentary tour photos"
+      ],
+      "bring": [
+        "Drinking water bottle (at least 1 litre) and polarised sunglasses",
+        "Sunscreen, zinc or SPF lip balm (reef-safe if possible)",
+        "Bathers, towel or sarong, and footwear that can get wet",
+        "Head torch and camera with spare batteries or power bank",
+        "Camp clothes, with warm layers from May onwards"
+      ],
+      "requirements": "Minimum age 12. Kayak weight limit 110kg per person. Moderate level of physical activity, lifting of equipment and walking on uneven ground and soft sand; guests must be able to lift at least 15kg. Guests aged 60 or over need a medical certificate. At least basic swimming and snorkelling competence is recommended. Guests must understand basic safety instructions in English.",
+      "offer": null,
+      "images": [
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2020/04/3-Dayer-Hero-1.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2020/04/3-Dayer-3.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2017/12/Ningaloo-Snorkel-1.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2020/04/Reef-Beach-Tents-1-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://exmouthadventureco.rezdy.com/397037/3-day-reef-beach-3-day-sea-kayak-snorkel-and-beach-camp-tour"
+      ],
+      "sourceUrl": "https://www.exmouthadventureco.com.au/reef-beach/",
+      "checkNotes": "Prices are twin share. A deposit is required on booking with the balance due 30 days before departure (the site states the deposit as a share of the price). Cancellation: 30 day policy. Group size is a minimum of 4 and usually up to 8, with some departures up to 12 (the FAQ says a maximum of 8). Pick up is given as 'just before 8am' in the duration and 7.45am in the meeting point; 07:45 used. The page asks guests to get in touch to make a booking or check last-minute availability. Family prices are for direct bookings only."
+    },
+    {
+      "title": "Ningaloo Odyssey",
+      "kind": "kayak",
+      "summary": "A four day trip run with Trek Ningaloo. It begins with two days of guided trekking in Cape Range National Park, then Exmouth Adventure Co guides take over for two days and two nights of sea kayaking, snorkelling and beach camping in the Ningaloo lagoon. Guests must be 16 or older.",
+      "highlights": [
+        "Two days of guided trekking in Cape Range National Park with Trek Ningaloo",
+        "Two days and two nights of sea kayaking, snorkelling and beach camping",
+        "Sea kayaking in the sheltered lagoon, usually between Osprey Bay and Milyering",
+        "First night camped high on Cape Range, overlooking the reef"
+      ],
+      "duration": "4 days (back in Exmouth around 4pm on Day 4)",
+      "durationMinutes": null,
+      "departureTimes": [
+        "07:15"
+      ],
+      "season": "Late April to early October",
+      "departsFrom": "Pick up from Exmouth accommodation starting from 7.15am on Day 1, or meet at the base at 24 Pelias St, Exmouth at 7.30am",
+      "prices": [
+        {
+          "label": "Adult (16 years and over)",
+          "amount": 2715,
+          "currency": "AUD",
+          "note": "Twin share"
+        },
+        {
+          "label": "Single supplement for a private solo tent",
+          "amount": 50,
+          "currency": "AUD",
+          "note": "Supplement"
+        },
+        {
+          "label": "Secure parking inside the base yard, per day",
+          "amount": 10,
+          "currency": "AUD",
+          "note": "Optional; free on-street parking is also available"
+        }
+      ],
+      "priceFrom": 2715,
+      "includes": [
+        "Pick up and drop off from Exmouth accommodation",
+        "Transport, national park entry and camping fees",
+        "Trekking equipment supplied for the trek, including pack, tent, sleeping system and hiking poles",
+        "Double sit-inside expedition sea kayaks, paddles, lifejackets and spray skirts",
+        "Snorkel and mask, plus wetsuits in season",
+        "All food and non-alcoholic drinks from Day 1 to Day 4 (alcohol is BYO, no glass)",
+        "Qualified guides, group first aid kit and emergency communications"
+      ],
+      "bring": [
+        "Worn-in walking boots or shoes for the trek",
+        "Clothing for the trek and for sea kayaking, as per the equipment list",
+        "Trip notes with detail are available on request from the operator"
+      ],
+      "requirements": "Suitable for guests aged 16 and over. At least average fitness and mobility. The trek covers about 18km over two days with steep rocky gullies, rough ground and packs up to 15kg. Guests must be able to carry a 15kg share of a loaded expedition sea kayak over soft sand. Guests aged 60 or over need a medical certificate. Guests must understand basic safety instructions in English.",
+      "offer": null,
+      "images": [
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2023/07/Kayaks-From-Above-1-Opt.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2023/07/Blue-Lagoon-1-Opt.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2023/07/Glassy-Paddle-1.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2023/07/3-Day-Tents-Opt.jpg"
+      ],
+      "bookingLinks": [
+        "https://exmouthadventureco.rezdy.com/578940/ningaloo-odyssey-4-day-trek-kayak-expedition"
+      ],
+      "sourceUrl": "https://www.exmouthadventureco.com.au/ningaloo-odyssey-4-day-trek-kayak-expedition/",
+      "checkNotes": "A joint trip: the site calls it a collaboration between Trek Ningaloo and Exmouth Adventure Co, and the two trekking days are guided by Trek Ningaloo, a different business. Only the sea kayak and snorkel days are the operator's own, and the trekking photos on the page were left out. Only an adult price is shown; the site says to contact the operator for family, group or private pricing. Prices are twin share. A deposit is required on booking with the balance due 30 days before departure (the site states the deposit as a share of the price). Pick up is 7.15am in the meeting details and about 7.30am in the Day 1 itinerary; 07:15 used. Group size is a minimum of 4 and a maximum of 12. The page asks guests to get in touch to enquire about dates and availability."
+    },
+    {
+      "title": "5-Day Ultimate Safari",
+      "kind": "kayak",
+      "summary": "A 5.5 day trip that pairs sea kayaking and snorkelling along a different stretch of the Ningaloo lagoon each day with short gorge walks. Each afternoon the group returns by vehicle to a base camp in Cape Range National Park, where the tents are already set up. Minimum age is 12.",
+      "highlights": [
+        "Sea kayak a different section of the Ningaloo coast each day",
+        "Snorkel different sites daily, including shore sites and kayak-only sites",
+        "Return each night to a base camp with set-up tents and solar showers",
+        "Guided walks at Mandu Mandu Gorge and Yardie Creek Gorge"
+      ],
+      "duration": "5.5 days, 5 nights (Sunday afternoon to Friday around 4pm)",
+      "durationMinutes": null,
+      "departureTimes": [
+        "14:45"
+      ],
+      "season": "Late April to early October",
+      "departsFrom": "Pick up from Exmouth accommodation starting at 2.45pm, or meet at the base at 24 Pelias St, Exmouth at 3pm on the Sunday of departure, for the pre-trip meeting and gear fit-out",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 3280,
+          "currency": "AUD",
+          "note": "Twin share"
+        },
+        {
+          "label": "Children (12-17)",
+          "amount": 2950,
+          "currency": "AUD",
+          "note": "Twin share"
+        },
+        {
+          "label": "Family (2 adults + 2 children)",
+          "amount": 10590,
+          "currency": "AUD",
+          "note": "Twin share; direct bookings only"
+        },
+        {
+          "label": "Extra child (on top of family price)",
+          "amount": 2510,
+          "currency": "AUD",
+          "note": "Direct bookings only"
+        },
+        {
+          "label": "Single supplement for a private solo tent",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Supplement; limit of 6 per departure"
+        },
+        {
+          "label": "Exclusive use of a single kayak for the whole tour",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Supplement; for experienced sea kayakers, limit of 4 per departure"
+        },
+        {
+          "label": "Secure parking inside the base yard, per day",
+          "amount": 10,
+          "currency": "AUD",
+          "note": "Optional; free on-street parking is also available"
+        }
+      ],
+      "priceFrom": 3280,
+      "includes": [
+        "Transport, national park entry and camping fees",
+        "Double sit-inside sea kayaks with rudder, paddles and lifejackets",
+        "Snorkel, mask and fins, plus wetsuits in season",
+        "Long-sleeve sun shirts, broad-brim hats and paddling gloves",
+        "Base camp tents, pillows, sleeping bags and liners, camp chairs, toilet and solar showers",
+        "All food and non-alcoholic drinks (alcohol is BYO)",
+        "Qualified guides and complimentary tour photos"
+      ],
+      "bring": [
+        "Drinking water bottle (at least 1 litre) and polarised sunglasses",
+        "Sunscreen, zinc or SPF lip balm (reef-safe if possible)",
+        "Bathers, towel or sarong, and footwear that can get wet",
+        "Bushwalking clothes and enclosed footwear, and a daypack",
+        "Head torch, camera and camp clothes, with warm layers from May onwards"
+      ],
+      "requirements": "Minimum age 12. Kayak weight limit 110kg per person. Moderate level of physical activity, lifting of equipment and walking on uneven ground and soft sand; guests must be able to lift at least 15kg. At least basic swimming and snorkelling competence is recommended. Guests must understand basic safety instructions in English.",
+      "offer": null,
+      "images": [
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2023/10/5-Day-Main-1.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2021/10/Hero-1-2021-Optimized.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2020/04/Bombie-Staghorn-Snorkel.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2020/04/Ultimate-Safarai-Kayak-2-Opt.jpg"
+      ],
+      "bookingLinks": [
+        "https://exmouthadventureco.rezdy.com/397039/5-day-ultimate-safari-5-day-sea-kayak-snorkel-gorge-walk-and-base-camp-tour"
+      ],
+      "sourceUrl": "https://www.exmouthadventureco.com.au/5-day-ultimate-safari-tour/",
+      "checkNotes": "Prices are twin share. A deposit is required on booking with the balance due 30 days before departure (the site states the deposit as a share of the price). Cancellation: 30 day policy. Group size is a minimum of 4 and a maximum of 16. The page asks guests to get in touch to enquire about dates and availability. The home page card calls it a 5 day, 4 night tour while the tour page says 5.5 days and 5 nights; the tour page was used. Family prices are for direct bookings only."
+    },
+    {
+      "title": "Dampier Archipelago and Murujuga National Park 5-Day Sea Kayak Expedition",
+      "kind": "kayak",
+      "summary": "A five day sea kayak expedition around Angel, Gidley and Dolphin Islands in the Dampier Archipelago, near Karratha in the Pilbara. It starts with a cultural awareness session and rock art tour led by Murujuga Aboriginal Corporation rangers. Guests need prior multi-day sea kayaking experience, and snorkelling is not a focus.",
+      "highlights": [
+        "Cultural awareness session and rock art tour led by Murujuga Aboriginal Corporation rangers",
+        "Island camping at undeveloped sites on Angel, Gidley and Dolphin Islands",
+        "Humpback whales are commonly seen between June and September",
+        "Pick up from Karratha airport or central Karratha"
+      ],
+      "duration": "6 days, 5 nights, including one night camping in Dampier town before the expedition",
+      "durationMinutes": null,
+      "departureTimes": [
+        "15:00",
+        "15:20"
+      ],
+      "season": "Late May to early September",
+      "departsFrom": "Karratha, Western Australia. Pick up from Karratha Airport at 3.20pm on the Sunday, or from the central Karratha meeting point at 3pm",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 2955,
+          "currency": "AUD",
+          "note": "Twin share"
+        },
+        {
+          "label": "Teen (14-17)",
+          "amount": 2660,
+          "currency": "AUD",
+          "note": "Twin share"
+        },
+        {
+          "label": "Single supplement for a private solo tent",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Supplement; limit of 6 per tour"
+        },
+        {
+          "label": "Exclusive use of a single kayak",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Supplement; limit of 4 per tour"
+        },
+        {
+          "label": "Special dietary requirements other than vegetarian, per person per day",
+          "amount": 5,
+          "currency": "AUD",
+          "note": "Surcharge"
+        }
+      ],
+      "priceFrom": 2955,
+      "includes": [
+        "Cultural awareness presentation and rock art tour with Murujuga Aboriginal Corporation rangers",
+        "Pick up and drop off from Karratha Airport or central Karratha",
+        "Dampier town camping on Day 1, then four nights of expedition camping on the islands",
+        "Double sit-inside sea kayaks with rudder, paddles and lifejackets",
+        "Snorkel, mask and fins",
+        "All food and non-alcoholic drinks (alcohol is BYO, no glass)",
+        "Qualified guides and complimentary tour photos"
+      ],
+      "bring": [
+        "Drinking water bottle (at least 1 litre) and polarised sunglasses",
+        "Sunscreen, zinc or SPF lip balm (reef-safe if possible)",
+        "Bathers, towel or sarong, and footwear that can get wet (not thongs)",
+        "Head torch and camera with spare batteries or power bank",
+        "Warm camp clothes and a rain jacket"
+      ],
+      "requirements": "Minimum age 14. Only for experienced sea kayakers who have done a multi-day sea kayaking tour or expedition before. Guests must be able to carry a 20kg share of a loaded sea kayak over 200m, and to enter and exit a kayak independently when launching and landing.",
+      "offer": null,
+      "images": [
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2022/11/Kayak-Dolphin-1.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2022/11/Kayaks-Beach-1.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2022/11/Kayak-Cliffs-1.jpg",
+        "https://www.exmouthadventureco.com.au/wp-content/uploads/2022/11/Dolphin-Camp-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://exmouthadventureco.rezdy.com/468104/dampier-archipelago-and-murujuga-national-park-sea-kayak-expedition"
+      ],
+      "sourceUrl": "https://www.exmouthadventureco.com.au/dampier-archipelago-and-murujuga-national-park-5-day-sea-kayak-expedition/",
+      "checkNotes": "This trip leaves from Karratha, not Exmouth. The only dated departures on the page are August 23 to 28 and September 6 to 11, 2026, which have passed; no 2027 dates are shown, though the booking link is still on the page and custom or private departures are offered for groups of 6 or more. The page is inconsistent on length (6 days and 5 nights in the duration, 5 days and 4 nights in the text, and the August dates span 6 days) and on minimum numbers (4 in the tour numbers, 6 in the FAQ). Prices are twin share. A deposit is required on booking with the balance due 30 days before departure (the site states the deposit as a share of the price). Cancellation: 30 day policy. The booking links on the page carry Google tracking parameters, which were removed. A tour fact sheet PDF with the itinerary is linked and was not opened."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers for any sea kayak and snorkel tour, or for a dollar amount",
+      "conditions": "Valid for 3 years from the date of purchase",
+      "validUntil": null,
+      "sourceUrl": "https://www.exmouthadventureco.com.au/gift-vouchers/"
+    }
+  ],
+  "checkNotes": "The website address on our list redirects to the www version, which is where every page was read (23 pages; no captcha or bot check was hit, and the contact form pages carry a form captcha only). Left out of trips, with reasons: (1) Summer Sunset Turtle Watching Tour, a beach-based evening turtle nesting and stargazing tour at Jurabi Coastal Park with no kayaking or boating (3.5 to 4 hours, Adult $165, Children (6-17) $145, Family (2 adults + 2 children) $530, Additional children $125; the tour page says November 15 to February 21 but the home page says December to March; Rezdy product 532151 on the operator's own account); (2) Exmouth Modern History and Heritage Tour, a land-based 4 hour bus tour (Adult $140, Children (6-17) $125 from April 1, 2024; Rezdy product 573773); (3) hire of kayaks, SUPs, surfboards, snorkel gear and wetsuits (snorkel gear from $10 per day), arranged by enquiry form, with multi-day SUP hire stopped from September 2026; (4) custom school, youth and corporate programs, by enquiry only; (5) surf and SUP lessons, which appear in the Terms and Conditions but have no page; (6) whale shark and humpback whale tours and other experiences on the Our Partners page, which are run by other businesses (Ocean Eco Adventures, Kings Ningaloo Reef Tours, Wilderness Island, Bullara Station, Flying Sandgroper). The Weekly Tour Calendar page is an embedded Rezdy calendar for all tours (exmouthadventureco.rezdy.com/productsCalendar/75329), and every trip kept here has its own booking link instead. All prices are in dollars with no currency stated; AUD assumed. Most family prices are for direct bookings only. Phone is shown on the site as +61 (0)477 685 123. The Sustainable Tourism Accredited logo appears in the site footer without naming the accrediting body. The Dampier trip's only dated departures have passed, the Ningaloo Odyssey trekking days are run by Trek Ningaloo, and the 2-Day Campout has no page, price or times; see those trips' notes."
+}

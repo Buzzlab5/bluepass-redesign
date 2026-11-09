@@ -1,0 +1,317 @@
+{
+  "slug": "g-fish-watersports",
+  "name": "G Fish Watersports",
+  "website": "https://www.gfishbarbados.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Carlisle Bay",
+  "category": "Scuba and snorkel trips",
+  "summary": "G Fish is a small dive and snorkel operation on Pebbles Beach in Carlisle Bay, run by G, a PADI Master Scuba Diver Trainer from Dominica who once laid moorings on dive sites around the island. Trips go out on one small boat, Blessed, with gear set up on board, and the turtles and shipwrecks are two minutes away. Snorkellers, divers and boat riders can go out together.",
+  "standouts": [
+    "Owner G is a PADI Master Scuba Diver Trainer",
+    "Owner worked with the Barbados Coastal Zone Management Unit, putting down moorings on dive sites from north to south",
+    "Fully accessible diving for people of all abilities",
+    "Typically up to 8 divers per trip, all equipment included"
+  ],
+  "contact": {
+    "phone": "+1 246 287 5289",
+    "email": "g@gfishbarbados.com",
+    "address": "Pebbles Beach, Aquatic Gap, Bridgetown, St Michael",
+    "whatsapp": null
+  },
+  "heroImage": "https://static.wixstatic.com/media/4c26fe_161d2f641dac493cabab647047ddb6b8.jpg",
+  "sourceUrls": [
+    "https://www.gfishbarbados.com/",
+    "https://www.gfishbarbados.com/sitemap.xml",
+    "https://www.gfishbarbados.com/pages-sitemap.xml",
+    "https://www.gfishbarbados.com/building-blessed",
+    "https://www.gfishbarbados.com/family-fun",
+    "https://www.gfishbarbados.com/sinking-trident",
+    "https://www.gfishbarbados.com/underwater"
+  ],
+  "trips": [
+    {
+      "title": "Turtle and Shipwreck Snorkel Tour",
+      "kind": "snorkel",
+      "summary": "A one or two hour snorkel in Carlisle Bay, the island's marine park, where turtles and shipwrecks are two minutes from the beach by boat. The Early Bird tour leaves at 8am, after the racehorses from the Garrison Savannah are bathed on the beach, and is out before the larger groups arrive.",
+      "highlights": [
+        "Turtles and shipwrecks two minutes from the beach by boat",
+        "Early Bird tour: arrive 7:00am to watch the racehorses, boat leaves 8:00am",
+        "Snorkel boards on Early Bird tours and private charters only",
+        "Maximum 16 people on snorkel tours"
+      ],
+      "duration": "1 hour or 2 hours",
+      "durationMinutes": 60,
+      "departureTimes": [
+        "08:00"
+      ],
+      "season": null,
+      "departsFrom": "Pebbles Beach, Aquatic Gap, Bridgetown",
+      "prices": [
+        {
+          "label": "1 hour, per person",
+          "amount": 40,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "2 hours, per person",
+          "amount": 60,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 40,
+      "includes": [
+        "All equipment"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/2093ca_2bcb67d677f64f62b7f2f39fa18a9ebe~mv2.jpg",
+        "https://static.wixstatic.com/media/4c26fe_161d2f641dac493cabab647047ddb6b8.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.gfishbarbados.com/",
+      "checkNotes": "The price card is labelled 'Snorkelling Tours: Turtles & Wrecks' (USD 40 for 1 hour, USD 60 for 2 hours); the Early Bird text calls it a '1 or 2-hour Turtle and Shipwreck Snorkel Tour'. 08:00 is the Early Bird departure; other departure times are not stated, and the site does not say whether Early Bird is priced differently. durationMinutes uses the shorter option. 'All equipment included' is from the FAQ. No turtle feeding advertised. Booking by email only."
+    },
+    {
+      "title": "Discover Scuba Diving (DSD)",
+      "kind": "dive",
+      "summary": "A PADI try-dive for people who have never dived. After a short warm-up you make one dive with no certificate needed, and it counts as the first dive towards certification if you carry on.",
+      "highlights": [
+        "No experience or certificate needed",
+        "30 minute warm-up, then a 40 minute dive",
+        "Counts as the first dive towards PADI certification",
+        "All equipment included"
+      ],
+      "duration": "2 hours (30min warmup + 40min dive)",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pebbles Beach, Aquatic Gap, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 125,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 125,
+      "includes": [
+        "All equipment"
+      ],
+      "bring": [],
+      "requirements": "No experience necessary",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/2093ca_d8595a36f29d44ccac4bd30136f67263~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.gfishbarbados.com/",
+      "checkNotes": "'Experience scuba in 2 hours' (home page headline) and '30min Warmup + 40min Dive' (price card) both stated; durationMinutes uses the 2 hours. Image matched to this trip by its position in the Tours section."
+    },
+    {
+      "title": "Scuba Diving",
+      "kind": "dive",
+      "summary": "Boat dives for certified divers of every level, with a refresher for anyone who has not dived in a while. Gear is set up on the boat before you arrive, and non-diving friends can snorkel from the surface on the same trip.",
+      "highlights": [
+        "Packages from 1 to 5 dives, plus night dives",
+        "Refresher available if you have not dived for a while",
+        "Gear prepped on board; you never have to lift a tank",
+        "Snorkellers and boat riders can join the same trip"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Year round (water 26 to 30 degrees C)",
+      "departsFrom": "Pebbles Beach, Aquatic Gap, Bridgetown",
+      "prices": [
+        {
+          "label": "1 dive",
+          "amount": 85,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "2 dives",
+          "amount": 150,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "3 dives",
+          "amount": 220,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "4 dives",
+          "amount": 280,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "5 dives",
+          "amount": 320,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Night dive",
+          "amount": 100,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 85,
+      "includes": [
+        "All equipment",
+        "Thermal tops where available"
+      ],
+      "bring": [
+        "BCD size or fitted t-shirt size, sent when booking"
+      ],
+      "requirements": "Certified divers",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/4c26fe_d63f191b9a784a4c8239f9d2e7e45f83.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.gfishbarbados.com/",
+      "checkNotes": "The site does not say whether dive prices are per diver; they read as per person. 'Year round' refers to the water temperature line in the FAQ. Typically up to 8 divers, or 10 for a single group. Wetsuits not provided. No refresher price shown."
+    },
+    {
+      "title": "Open Water",
+      "kind": "course",
+      "summary": "The first PADI course. You do the theory online before you travel, then spend two days diving in Barbados and finish as a PADI Open Water Diver.",
+      "highlights": [
+        "Theory completed online before arrival",
+        "Two days of diving in Barbados",
+        "All equipment included"
+      ],
+      "duration": "2 days of diving",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pebbles Beach, Aquatic Gap, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 520,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 520,
+      "includes": [
+        "All equipment"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/2093ca_0312b5a691e240bbb8803512cd9e691f~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.gfishbarbados.com/",
+      "checkNotes": "Minimum age not stated."
+    },
+    {
+      "title": "Advanced Open Water",
+      "kind": "course",
+      "summary": "The next PADI step: Deep and Underwater Navigation dives, plus three other specialties of your choice.",
+      "highlights": [
+        "Deep and Underwater Navigation adventure dives",
+        "Three further specialties of your choice"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pebbles Beach, Aquatic Gap, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 440,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 440,
+      "includes": [
+        "All equipment"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.gfishbarbados.com/",
+      "checkNotes": "Duration and prerequisites not stated."
+    },
+    {
+      "title": "Rescue Diver",
+      "kind": "course",
+      "summary": "A PADI course that teaches you to spot signs of anxiety in other divers to prevent accidents, and to help people in distress. The card is listed with Emergency First Response.",
+      "highlights": [
+        "Learn to watch other divers for signs of anxiety",
+        "Rescue skills for divers in distress",
+        "Listed with Emergency First Response"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pebbles Beach, Aquatic Gap, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 450,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 450,
+      "includes": [
+        "All equipment"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.gfishbarbados.com/",
+      "checkNotes": "The card reads 'Rescue Diver USD 450 / Emergency First Response / The Crown Jewel of PADI Diving / Once you have 60 dives under your belt...'. Unclear whether EFR is included in the USD 450 or whether the 60-dive line belongs to a different course; confirm with the operator. Prerequisites not otherwise stated."
+    },
+    {
+      "title": "Fully Accessible Diving",
+      "kind": "dive",
+      "summary": "Scuba diving set up for people of all abilities, with physical and logistical barriers removed. Contact G by email or phone to talk through how best to accommodate you.",
+      "highlights": [
+        "Diving adapted for people of all abilities",
+        "Arranged one to one by email or phone"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pebbles Beach, Aquatic Gap, Bridgetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.gfishbarbados.com/",
+      "checkNotes": "No price or format given; arranged on enquiry. Two videos in this section of the home page show it (see media file)."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Single-page Wix site; the four extra pages in the sitemap (building-blessed, family-fun, sinking-trident, underwater) are photo galleries that load in the browser and show no text to a plain fetch. Booking is by email to g@gfishbarbados.com: the operator sends forms and an online payment link, and a non-refundable deposit (BCD or t-shirt size also needed) confirms the booking. No booking widget or per-trip link. Private charters are mentioned (snorkel boards on private charters) but not priced or described. The site's business listing gives the location as Barbados Cruising Club, Aquatic Gap, while the contact block says Pebbles Beach, Aquatic Gap; both are on Carlisle Bay. Sitemap last modified 30 May 2025."
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "barbados-efoil",
+  "name": "Barbados Efoil",
+  "website": "https://www.barbadosefoil.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Holetown",
+  "category": "Efoil lessons",
+  "summary": "An efoil school on the west coast of Barbados, teaching people to ride electric hydrofoil boards. Certified Fliteboard instructors run one-off Discover Flights, multi-lesson Progression packages and private group sessions. It is operated by Caribbean eFoil, a Barbados registered company.",
+  "standouts": [
+    "Certified Fliteboard instructors",
+    "Fliteboard authorised partner badge shown on the site",
+    "Operated by Caribbean eFoil, a Barbados registered company"
+  ],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "address": null,
+    "whatsapp": null
+  },
+  "heroImage": null,
+  "sourceUrls": [
+    "https://www.barbadosefoil.com/",
+    "https://www.barbadosefoil.com/about",
+    "https://www.barbadosefoil.com/contact",
+    "https://www.barbadosefoil.com/appointments",
+    "https://www.barbadosefoil.com/shop",
+    "https://www.barbadosefoil.com/sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Discover Flight",
+      "kind": "course",
+      "summary": "A one-off first efoil session. A certified Fliteboard instructor takes you through the basics on shore, then out on the water.",
+      "highlights": [
+        "One-off session",
+        "Certified Fliteboard instructor",
+        "Shore briefing before going on the water"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/barbadosefoil/?full-items=yes"
+      ],
+      "sourceUrl": "https://www.barbadosefoil.com/",
+      "checkNotes": "Prices are only inside the FareHarbor booking widget (not opened); none shown on the site. Duration, times and inclusions not stated on the site."
+    },
+    {
+      "title": "Progression package",
+      "kind": "course",
+      "summary": "A package of several lessons for riders who want to build on their first flight and keep improving with an instructor.",
+      "highlights": [
+        "Multi-lesson package",
+        "Certified Fliteboard instructor"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/barbadosefoil/?full-items=yes"
+      ],
+      "sourceUrl": "https://www.barbadosefoil.com/",
+      "checkNotes": "Prices are only inside the FareHarbor booking widget (not opened); none shown on the site. Duration, times and inclusions not stated on the site."
+    },
+    {
+      "title": "Private charter",
+      "kind": "other",
+      "summary": "A private efoil session booked for your own group.",
+      "highlights": [
+        "Private session for your group"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/barbadosefoil/?full-items=yes"
+      ],
+      "sourceUrl": "https://www.barbadosefoil.com/",
+      "checkNotes": "Prices are only inside the FareHarbor booking widget (not opened); none shown on the site. Duration, times and inclusions not stated on the site."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Thin, new site (Squarespace, set up mid 2026). Only the home page has real content; About, Contact, Appointments and Shop still carry template text, a demo appointment calendar (blueprintcatalogen.as.me) and placeholder products at $25, so none of those are used. All booking goes through one site-wide FareHarbor button (not opened); no prices, durations or times on the site. The site shows no phone, email or address, only a contact form and an Instagram handle; our list has +1 246-240-7412. Town is Holetown from our list: the site only says the Platinum Coast. Home page says riders can also rent a board or buy one, with no details. Gallery captions on the home page say an official Flite Service Center opens in November and announce the Flite School opening, so the business may be newly launched."
+}

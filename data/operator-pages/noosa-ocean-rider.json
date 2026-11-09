@@ -1,0 +1,236 @@
+{
+  "slug": "noosa-ocean-rider",
+  "name": "Noosa Ocean Rider",
+  "website": "https://oceanrider.com.au",
+  "rezdyAlias": "oceanrider",
+  "state": "QLD",
+  "town": "Noosa",
+  "category": "Speedboat wildlife tours",
+  "summary": "Noosa Ocean Rider runs small-group trips from Noosa Marina on a fast 8.8m rigid inflatable boat that seats no more than 12. Trips follow the Noosa National Park coastline to look for the local dolphins, and head out to sea for humpback whales in season. A father and son team of captains runs the boat.",
+  "standouts": [
+    "Maximum 12 passengers in six rows of two, so every seat is a window seat",
+    "Purpose-built 8.8m Gemini rigid inflatable boat",
+    "Father and son captains Michael and Ozzie Black, with over 30 years combined experience",
+    "Volunteers from Humpbacks and High-rises have joined its whale watching tours to collect data since the 2021 season"
+  ],
+  "contact": {
+    "phone": "+61 438 386 255",
+    "email": "oceanridernoosa@gmail.com",
+    "address": "Noosa Marina, Parkyn Court, Tewantin QLD 4565"
+  },
+  "heroImage": "https://www.oceanrider.com.au/images/packages-01.webp",
+  "sourceUrls": [
+    "https://oceanrider.com.au",
+    "https://oceanrider.com.au/sitemap.xml",
+    "https://oceanrider.com.au/thrill-ride/",
+    "https://oceanrider.com.au/whale-watching/",
+    "https://oceanrider.com.au/ocean-tour-whale-and-dolphin-safari/",
+    "https://oceanrider.com.au/price/",
+    "https://oceanrider.com.au/book-now/",
+    "https://oceanrider.com.au/faqs/",
+    "https://oceanrider.com.au/about-us/",
+    "https://oceanrider.com.au/contact/",
+    "https://oceanrider.com.au/learn-to-freedive-with-oceansense/",
+    "https://oceanrider.com.au/humpbacks-and-high-rises/"
+  ],
+  "trips": [
+    {
+      "title": "Ocean Tour & Dolphin Safari",
+      "kind": "tour",
+      "summary": "A fast ride out of the Noosa River and along the coast past the headlands and Noosa National Park, to Alexandra Bay, Hells Gate, the Fairy Pools and Devil's Kitchen. Around 200 Indo-Pacific dolphins live in these waters, and turtles and rays are often seen. Raincoats and goggles are provided.",
+      "highlights": [
+        "Coastline past Noosa National Park to Alexandra Bay, Hells Gate, the Fairy Pools, Paradise Cove and Devil's Kitchen",
+        "Around 200 Indo-Pacific dolphins live along this coast",
+        "Maximum 12 passengers",
+        "Raincoat and action goggles provided"
+      ],
+      "duration": "1.5 hours from start to finish",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Noosa Marina, Parkyn Court, Tewantin",
+      "prices": [
+        { "label": "From", "amount": 70, "currency": "AUD", "note": "Shown as 'From AUD $70'; the full price list (adult, child, family) is not displayed on the site" }
+      ],
+      "priceFrom": 70,
+      "includes": [
+        "Raincoat",
+        "Action goggles"
+      ],
+      "bring": [
+        "Sunscreen",
+        "Water",
+        "Camera",
+        "Warm jacket in winter",
+        "Waterproof bag for belongings (a small locker is under each seat)"
+      ],
+      "requirements": "7 years of age and above. An average level of mobility and agility. Not recommended for pregnant women or people with back and spinal injuries; riders must be able to sit astride a saddle-style seat and absorb the impact of waves. All riders sign a waiver.",
+      "offer": null,
+      "images": [
+        "https://www.oceanrider.com.au/images/packages-01.webp",
+        "https://www.oceanrider.com.au/images/packages-02.webp",
+        "https://www.oceanrider.com.au/images/packages-03.webp",
+        "https://www.oceanrider.com.au/images/packages-04.webp"
+      ],
+      "bookingLinks": [
+        "https://oceanrider.rezdy.com/catalog/39453/tours?iframe=true"
+      ],
+      "sourceUrl": "https://oceanrider.com.au/thrill-ride/",
+      "checkNotes": "Only a 'From' price is shown (homepage and pricing page). The page HTML contains a hidden, commented-out price table (A$89 adult 16+, A$69 child 7-15, A$300 family, A$950 private charter) that is not displayed; not used. The page shows a 'Family Specials' label with no details. No departure times or season stated. The booking link is the general Rezdy catalog embedded on /book-now/, not a tour-specific link. Requirements beyond age and mobility come from the FAQ page."
+    },
+    {
+      "title": "Whale Watching Adventures",
+      "kind": "cruise",
+      "summary": "A two-hour small-group whale watch that leaves Noosa Marina, runs down the Noosa River and heads out past Noosa Heads and the National Park to find humpback whales on their migration. With no more than 12 on board, everyone sits close to the water. Later in the season mothers and calves are often seen heading south.",
+      "highlights": [
+        "Maximum 12 passengers on an 8.8m Gemini expedition boat",
+        "Experienced skipper and dedicated whale spotting",
+        "Raincoat, action goggles and binoculars provided",
+        "Humpbacks and High-rises volunteers join tours to gather research data"
+      ],
+      "duration": "2 hours from start to finish",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": "July to November",
+      "departsFrom": "Noosa Marina, Parkyn Court, Tewantin",
+      "prices": [
+        { "label": "From", "amount": 99, "currency": "AUD", "note": "Shown as 'From AUD $99'; the full price list is not displayed on the site" }
+      ],
+      "priceFrom": 99,
+      "includes": [
+        "Raincoat",
+        "Action goggles",
+        "Binoculars"
+      ],
+      "bring": [
+        "Sunscreen",
+        "Water",
+        "Camera",
+        "Warm jacket in winter",
+        "Waterproof bag for belongings (a small locker is under each seat)"
+      ],
+      "requirements": "7 years of age and above. A moderate level of mobility and agility. All riders sign a waiver; a guardian signs for anyone 15 and under.",
+      "offer": null,
+      "images": [
+        "https://www.oceanrider.com.au/images/packages-whale-01.webp",
+        "https://www.oceanrider.com.au/images/packages-whale-02.webp",
+        "https://www.oceanrider.com.au/images/packages-whale-03.webp",
+        "https://www.oceanrider.com.au/images/packages-whale-04.webp"
+      ],
+      "bookingLinks": [
+        "https://oceanrider.rezdy.com/catalog/39453/tours?iframe=true"
+      ],
+      "sourceUrl": "https://oceanrider.com.au/whale-watching/",
+      "checkNotes": "Season conflict: the whale page and FAQ say July to November; the homepage says June to October. Used the whale page. Homepage says 'Suitable for ages 6 to 90+' while the whale page says 7 years and above; used the whale page. Hidden commented-out prices in the HTML (A$95 adult, A$75 child, A$310 family) are not displayed and were not used. No departure times stated. The booking link is the general Rezdy catalog embedded on /book-now/."
+    },
+    {
+      "title": "Ocean Tour, Whale & Dolphin Safari",
+      "kind": "tour",
+      "summary": "An end-of-season trip along the Noosa coast that combines the dolphin route with a search for the last humpbacks heading south. Over 200 Indo-Pacific dolphins live along this coast, and bottlenose dolphins come closer to shore at this time of year. Spray jackets are provided.",
+      "highlights": [
+        "Run at the end of whale season, with a chance of humpbacks heading south",
+        "Indo-Pacific and bottlenose dolphins along the Noosa coastline",
+        "Turtle mating season at this time of year",
+        "Group size 12"
+      ],
+      "duration": "1.45",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Noosa Marina, in front of the marina bar where the ferry departs",
+      "prices": [
+        { "label": "From", "amount": 95, "currency": "AUD", "note": "Shown as 'From A$95' on the homepage; not listed on the pricing page" }
+      ],
+      "priceFrom": 95,
+      "includes": [
+        "Spray jackets"
+      ],
+      "bring": [
+        "Sunscreen",
+        "Bottle of water"
+      ],
+      "requirements": "Age 6 to 99. Accessibility: No. Arrive half an hour before departure.",
+      "offer": null,
+      "images": [
+        "https://www.oceanrider.com.au/images/packages-05.webp",
+        "https://www.oceanrider.com.au/images/packages-whale-05.webp",
+        "https://www.oceanrider.com.au/images/packages-whale-06.webp",
+        "https://www.oceanrider.com.au/images/packages-whale-07.webp"
+      ],
+      "bookingLinks": [
+        "https://oceanrider.rezdy.com/catalog/39453/tours?iframe=true"
+      ],
+      "sourceUrl": "https://oceanrider.com.au/ocean-tour-whale-and-dolphin-safari/",
+      "checkNotes": "Duration is printed as '1.45', which could mean 1 hour 45 minutes or 1.45 hours; durationMinutes left null. Season not given as dates; the page says it is designed for the end of whale season, and its cancellation note mentions a no-cancellation period from September until 20 October. The page states whale odds as a fraction; not used. Meeting point wording ('in front of the marina bar') differs from the contact page ('in front of the Wine Bar'). Hidden commented-out prices (A$90 adult, A$75 child, A$320 family) not displayed and not used. The 'From A$95' price appears only on the homepage."
+    },
+    {
+      "title": "Private Charter",
+      "kind": "charter",
+      "summary": "The boat can be booked for a private group for whale watching, a dolphin safari or an ocean ride along the coast. It suits birthdays, bucks and hens parties, school, corporate and conference groups. Bookings are made by phone.",
+      "highlights": [
+        "Private whale watching, dolphin safari or ocean adventure",
+        "For birthdays, bucks and hens parties, corporate, school and conference groups",
+        "Extra activities for those waiting onshore can be arranged, such as kayaks, SUPs and river cruises",
+        "Additional tour times available on request"
+      ],
+      "duration": "90 Minutes (approx.)",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Noosa Marina, Parkyn Court, Tewantin",
+      "prices": [
+        { "label": "Private Charter, from", "amount": 950, "currency": "AUD", "note": "Shown as 'From AUD $950'; whole boat" }
+      ],
+      "priceFrom": 950,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.oceanrider.com.au/images/tour-img-03.webp"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://oceanrider.com.au/price/",
+      "checkNotes": "priceFrom is a whole-boat price, not per person. Group size not stated on the pricing page; the boat carries a maximum of 12 passengers. The homepage says to call 0438386255 to book private tours."
+    },
+    {
+      "title": "Learn to Freedive with OceanSense",
+      "kind": "course",
+      "summary": "A two-day freediving course in Noosa, run by OceanSense and hosted by Noosa Oceanrider. It leads to certification and includes time in the water around Noosa National Park.",
+      "highlights": [
+        "2 full days",
+        "Certification course",
+        "Freediving around Noosa National Park",
+        "Run by OceanSense, hosted by Noosa Oceanrider"
+      ],
+      "duration": "2 full days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Noosa",
+      "prices": [
+        { "label": "Course", "amount": 599, "currency": "AUD", "note": null }
+      ],
+      "priceFrom": 599,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.oceanrider.com.au/images/OceanSense-for-Oceanrider.webp"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://oceanrider.com.au/learn-to-freedive-with-oceansense/",
+      "checkNotes": "The course is run by a separate business, OceanSense; the 'Learn More' button goes to https://www.oceansense.com.au/ (not opened, different domain). The page gives no dates, inclusions or entry requirements. Consider whether this belongs on the operator page at all. The image is an OceanSense graphic with their logo."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Book direct and save",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://oceanrider.com.au"
+    }
+  ],
+  "checkNotes": "The site only shows 'From' prices; full price tables exist in the HTML but are commented out and not visible, so they were not used. No departure times are published ('Additional tour times available on request'). All Book Now buttons go to /book-now/, which embeds the Rezdy catalog https://oceanrider.rezdy.com/catalog/39453/tours?iframe=true (not opened). Experience claims vary: '25+ years operating these waters' (whale page), 'Operating out of Noosa for 25 years' and 'over 30 years of combined experience' (about page). Minimum age varies between 6 and 7 by page. 'Book direct and save' on the homepage has no amount or conditions. Pick-up along Gympie Terrace (Pelican boat hire) and from hotels with lagoon docks is by prior arrangement."
+}

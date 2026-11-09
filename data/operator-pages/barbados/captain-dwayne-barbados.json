@@ -1,0 +1,74 @@
+{
+  "slug": "captain-dwayne-barbados",
+  "name": "Captain Dwayne Cruises",
+  "website": "https://www.captaindwayne.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Speightstown",
+  "category": "Private powerboat charters",
+  "summary": "Captain Dwayne Pollard runs private charters on Livity, a 23 foot deck boat based in Speightstown, along the west coast of Barbados. Groups of up to 8 hire the boat by the hour and choose the plan, from a coastal cruise past the west coast homes to snorkelling with turtles and fish. Towables, water skiing and paddleboards can be added.",
+  "standouts": [
+    "Cruises led by experienced, fully licensed Barbadian captains",
+    "Captain Dwayne Pollard has over 20 years experience, starting as crew on local catamarans",
+    "The boat is yours: up to 8 guests, route and activities chosen by your group",
+    "Dry and beach pick-up options"
+  ],
+  "contact": {
+    "phone": "+1 246 231 8163",
+    "email": "info@captaindwayne.com",
+    "address": "Speightstown, Barbados",
+    "whatsapp": "https://wa.me/12462318163"
+  },
+  "heroImage": "https://www.captaindwayne.com/assets/images/vessels/livity_1.jpg",
+  "sourceUrls": [
+    "https://www.captaindwayne.com/",
+    "https://www.captaindwayne.com/services",
+    "https://www.captaindwayne.com/bookings",
+    "https://www.captaindwayne.com/faqs",
+    "https://www.captaindwayne.com/vessel-livity",
+    "https://www.captaindwayne.com/aboutus",
+    "https://www.captaindwayne.com/contact"
+  ],
+  "trips": [
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "Charter Livity, a 23 foot deck boat, by the hour for your own group of up to 8. Cruise the west coast to see its homes and resorts, and stop to swim and snorkel with fish or turtles if you wish. Food, drinks, towable donuts and tubes, water skiing and paddleboards can be arranged.",
+      "highlights": [
+        "Whole boat for up to 8 guests",
+        "Optional snorkel stops with turtles and fish",
+        "Watersports add-ons: towable donuts, tubes, water skiing, paddleboards",
+        "Soft bar and Livity Punch on every cruise"
+      ],
+      "duration": "Min 1 hr (1 to 8 hours on the booking form)",
+      "durationMinutes": null,
+      "departureTimes": ["08:00", "09:00", "10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00"],
+      "season": null,
+      "departsFrom": "Speightstown, Barbados",
+      "prices": [
+        { "label": "Per hour, private boat (group, up to 8 guests)", "amount": 250, "currency": "USD", "note": "Starting at; minimum 1 hour" }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Captain and crew",
+        "Soft bar and Livity Punch",
+        "Life vests and snorkel equipment"
+      ],
+      "bring": ["Sunscreen", "Hat", "Swimwear", "Towels", "Camera"],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.captaindwayne.com/assets/images/vessels/livity_1.jpg",
+        "https://www.captaindwayne.com/assets/images/vessels/livity_2.jpg",
+        "https://www.captaindwayne.com/assets/images/vessels/livity_3.jpg",
+        "https://www.captaindwayne.com/assets/images/vessels/livity_4.jpg"
+      ],
+      "bookingLinks": ["https://www.captaindwayne.com/bookings"],
+      "sourceUrl": "https://www.captaindwayne.com/vessel-livity",
+      "checkNotes": "Only a per-boat hourly rate is shown ('Per Hour (Group) Starting at $250 USD'), so priceFrom is null. The bookings page is a request form (email verification code, no online payment); a deposit is required on booking and the FAQ sets out a tiered cancellation policy. Departure times are the start times offered on the booking form. Transport is not included but can be arranged through partners. No shoes or pets on board."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Business name on the site is 'Captain Dwayne Cruises'; the vessel is called Livity. Trading: footer reads (c) 2026 and reviews on the home page are dated April to July 2025. Watersports on the services page (Towable Donuts, Towable Mable, Water Skiing, Paddleboarding) and snorkelling are add-ons to the charter, not separate trips. Business hours Sunday to Saturday, 8:00 AM to 5:00 PM."
+}

@@ -1,0 +1,300 @@
+{
+  "slug": "kangaroo-island-ocean-safari",
+  "name": "Kangaroo Island Ocean Safari",
+  "website": "https://kangarooislandoceansafari.com.au",
+  "rezdyAlias": "kangarooislandoceansafari",
+  "state": "SA",
+  "town": "Penneshaw, Kangaroo Island",
+  "category": "Dolphin & seal swims",
+  "summary": "Kangaroo Island Ocean Safari runs wildlife boat trips from Penneshaw, with a 75 minute coastal safari and a 2 hour swim with wild dolphins or seals. The family owned, Indigenous-owned business uses two boats, the 28-seat snorkelling vessel Sea Dragon and the 38-seat Force of Nature, and both can be hired for private charters. The departure points are within a 15 minute walk of the Penneshaw ferry terminal.",
+  "standouts": [
+    "ECO Certified by Ecotourism Australia",
+    "Inducted into the South Australian Tourism Hall of Fame in 2021",
+    "Family owned and Indigenous-owned",
+    "Follows the Marine Mammal Interaction Policy on every tour, with no chasing of wildlife"
+  ],
+  "contact": {
+    "phone": "08 7082 9607",
+    "email": "bookings@kioceansafari.com.au",
+    "address": "Christmas Cove Marina, Penneshaw, SA, 5222"
+  },
+  "heroImage": "https://kangarooislandoceansafari.com.au/wp-content/uploads/2022/08/KI-Ocean-Safari-2-scaled.jpg",
+  "sourceUrls": [
+    "https://kangarooislandoceansafari.com.au/",
+    "https://kangarooislandoceansafari.com.au/book-75-min-coastal-safari/",
+    "https://kangarooislandoceansafari.com.au/snorkelling-safari/",
+    "https://kangarooislandoceansafari.com.au/view-only-snorkelling-safari/",
+    "https://kangarooislandoceansafari.com.au/private-coastal-safari/",
+    "https://kangarooislandoceansafari.com.au/private-charters/",
+    "https://kangarooislandoceansafari.com.au/private-charter-12/",
+    "https://kangarooislandoceansafari.com.au/faq/",
+    "https://kangarooislandoceansafari.com.au/bookings/",
+    "https://kangarooislandoceansafari.com.au/gift-cards/",
+    "https://kangarooislandoceansafari.com.au/cruiseship/",
+    "https://kangarooislandoceansafari.com.au/about/",
+    "https://kangarooislandoceansafari.com.au/sustainability-and-inclusions/",
+    "https://kangarooislandoceansafari.com.au/find-us/",
+    "https://kangarooislandoceansafari.com.au/%e8%a2%8b%e9%bc%a0%e5%b2%9b%e6%b5%b7%e6%b4%8b%e5%81%87%e6%97%a5%e6%97%85%e8%a1%8c%e7%a4%be/"
+  ],
+  "trips": [
+    {
+      "title": "75-Minute Coastal Safari",
+      "kind": "cruise",
+      "summary": "A 75 minute boat trip along the coast near Penneshaw, looking for dolphins, seals, sea eagles and other birdlife. The skipper gives commentary on the wildlife, history and geology of the coastline. It suits all ages and stays in sheltered coastal waters.",
+      "highlights": [
+        "Dolphins, seals and sea eagles",
+        "Skipper commentary on wildlife and local history",
+        "Stays in sheltered coastal waters",
+        "Whales possible from May to October"
+      ],
+      "duration": "75 minutes",
+      "durationMinutes": 75,
+      "departureTimes": [
+        "09:00",
+        "15:00"
+      ],
+      "season": "Departs daily",
+      "departsFrom": "Christmas Cove Marina, Penneshaw (arrive 15 minutes before departure)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Skipper commentary",
+        "Life jackets",
+        "Spray jackets"
+      ],
+      "bring": [
+        "A jacket or warm layer",
+        "Sunscreen"
+      ],
+      "requirements": "Suitable for all ages. Infant rates for 2 years and under, child 3 to 12, adult 13 and over. No wheelchair access on board",
+      "offer": null,
+      "images": [
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2024/02/1-KIOS-75-M-Ocean-Safari.jpg",
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2024/02/3-KIOS-75-M-Ocean-Safari.jpg",
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2025/03/4-KIOS-75-M-Ocean-Safari.jpg",
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2024/02/6-KIOS-75-M-Ocean-Safari.jpg"
+      ],
+      "bookingLinks": [
+        "https://kangarooislandoceansafari.rezdy.com/calendarWidget/201799?iframe=true"
+      ],
+      "sourceUrl": "https://kangarooislandoceansafari.com.au/book-75-min-coastal-safari/",
+      "checkNotes": "No prices are shown on the site; they appear only in the Rezdy booking widget. The tour page says it departs daily at 9:00am and 3:00pm, with 5:00pm on request; the FAQ says times vary with the season. On cruise ship days it runs at 3pm. The tour page says online booking closes 3 hours before departure; the FAQ says 30 minutes. Homepage says sunscreen and spray jackets are provided; the FAQ says sunscreen is not provided and spray jackets 'may be available'. Old Chinese-language page says the cruise is about 70 minutes."
+    },
+    {
+      "title": "2-Hour Snorkelling Safari: Swim with Seals/Dolphins & Coastal Snorkel",
+      "kind": "swim",
+      "summary": "A two hour snorkelling trip on the 28-seat vessel Sea Dragon, looking for wild dolphins and long-nosed seals along the coast near Penneshaw. Depending on the day you swim with dolphins or seals, or snorkel the coastline, and the crew do not chase the animals. Thick wetsuits and gloves are supplied because the water is 14 to 15 degrees.",
+      "highlights": [
+        "Swim with wild dolphins or long-nosed seals",
+        "Wetsuit, gloves, mask, snorkel and fins supplied",
+        "Shark shields at both ends of the boat",
+        "Hot shower on board after the swim"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": "Daily; swims run year round",
+      "departsFrom": "Kangaroo Island Information Stop, 43 Howard Drive, Penneshaw (arrive 30 minutes before for wetsuit fitting and safety briefing)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Wetsuit (two recommended for kids under 14)",
+        "Gloves",
+        "Mask, snorkel and fins",
+        "Safety briefing",
+        "Guide commentary",
+        "Life jacket and swimming noodle if needed",
+        "Hot water shower on board"
+      ],
+      "bring": [
+        "Bathers",
+        "Towel",
+        "A warm jacket",
+        "A filled water bottle",
+        "Sunscreen",
+        "Your own prescription mask if you need one"
+      ],
+      "requirements": "Children must be 9 or older to swim with dolphins and 8 or older for coastal snorkelling, and must be with an adult in and out of the water. Basic swimming skills, enough upper body strength to hold the swimmer line and enough strength to climb the ladder. Not suitable if pregnant or with a pacemaker, because shark shields are used. No wheelchair access",
+      "offer": null,
+      "images": [
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2023/12/1-KIOS-SWIM-DS_C.jpg",
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2023/12/2-KIOS-SWIM-DS_C-768x576.jpg",
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2023/12/3-KIOS-SWIM-DS_C-768x576.jpg",
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2025/03/4-KIOS-SWIM-DSC.jpg"
+      ],
+      "bookingLinks": [
+        "https://kangarooislandoceansafari.rezdy.com/calendarWidget/201806?iframe=true"
+      ],
+      "sourceUrl": "https://kangarooislandoceansafari.com.au/snorkelling-safari/",
+      "checkNotes": "No prices are shown on the site; they appear only in the Rezdy booking widget. It is a swim with dolphins OR seals; both are not guaranteed. If you get in the water at any stage there is no refund; the private snorkel page instead says a refund to the viewing price applies if wildlife does not allow a swim. Homepage says towels are provided; the FAQ says bring your own. No standard departure times are stated; the cruise ship page says it runs at 12pm on cruise ship days. Online booking closes 3 hours before departure. Seal numbers peak in winter and are lowest November to January. Shark FAQ says '11 years of operation' on this page and '14 years' on the main FAQ."
+    },
+    {
+      "title": "2-Hour View Only Dolphins-Seals and Coastal Snorkel",
+      "kind": "cruise",
+      "summary": "A view-only ticket on the two hour snorkelling safari, for people whose friends or family are swimming. You stay dry on the boat and watch the swimmers with the seals or dolphins, with commentary along the coast. People who are not travelling with swimmers are pointed to the 75 minute Coastal Safari instead.",
+      "highlights": [
+        "Watch the swim from the same boat",
+        "Seals, dolphins, eagles, gulls and cormorants",
+        "Coastal commentary",
+        "Suits family members who do not swim"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Kangaroo Island Information Stop, 43 Howard Drive, Penneshaw (arrive 30 minutes before)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Commentary"
+      ],
+      "bring": [
+        "A jacket or warm layer"
+      ],
+      "requirements": "Only for guests travelling with swimmers on the same safari. Child rates for ages 3 to 12, adult 13 and over. An adult supervising a child under 8 must book a view-only ticket. No wheelchair access on board",
+      "offer": null,
+      "images": [
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2024/02/385520231_1272878283423832_6279323356266207570_n.jpg",
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2024/02/2-KIOS-VIEW-DS_C-768x576.jpg",
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2024/02/377920542_827883502166030_5238908964403824751_n-768x576.jpg"
+      ],
+      "bookingLinks": [
+        "https://kangarooislandoceansafari.rezdy.com/calendarWidget/201811?iframe=true"
+      ],
+      "sourceUrl": "https://kangarooislandoceansafari.com.au/view-only-snorkelling-safari/",
+      "checkNotes": "No prices are shown on the site; they appear only in the Rezdy booking widget. The page says it departs Christmas Cove Marina but also says to arrive at the Information Stop on Howard Drive; the FAQ confirms view-only guests meet at the Information Stop, so that is used. Page heading reads 'ADD ON - VIEWING ONLY'; the title used is the gift card name."
+    },
+    {
+      "title": "Private Charter: 75-Minute Coastal Safari",
+      "kind": "charter",
+      "summary": "A private version of the 75 minute Coastal Safari for your own group, looking for dolphins, seals, eagles and other birdlife along the coast. The skipper gives commentary as you go. Bookings are requests that the team confirms before they are accepted.",
+      "highlights": [
+        "Boat to yourselves",
+        "Dolphins, seals and sea eagles",
+        "Skipper commentary",
+        "Booking confirmed by the team"
+      ],
+      "duration": "75 minutes",
+      "durationMinutes": 75,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Christmas Cove Marina, Penneshaw (arrive 15 minutes before departure)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Skipper commentary"
+      ],
+      "bring": [],
+      "requirements": "No wheelchair access on board",
+      "offer": null,
+      "images": [
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2024/02/3-KIOS-75-M-Ocean-Safari.jpg",
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2024/02/4-KIOS-75-M-Ocean-Safari-768x576.jpg",
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2024/02/5-KIOS-75-M-Ocean-Safari-768x576.jpg",
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2024/02/7-KIOS-75-M-Ocean-Safari-768x576.jpg"
+      ],
+      "bookingLinks": [
+        "https://kangarooislandoceansafari.rezdy.com/calendarWidget/537987?iframe=true"
+      ],
+      "sourceUrl": "https://kangarooislandoceansafari.com.au/private-coastal-safari/",
+      "checkNotes": "No prices are shown on the site; they appear only in the Rezdy booking widget. Office hours on this page are 8am to 6pm; the Find Us page says 8am to 5pm. FAQ says private charter online booking closes 48 hours before departure."
+    },
+    {
+      "title": "Private Snorkelling Safari",
+      "kind": "charter",
+      "summary": "A private snorkelling charter on Sea Dragon, the 28-seat snorkelling vessel, to swim with wild dolphins and long-nosed seals and snorkel the coastline. Charters run for one, two or three hours, with bus transfers available on request. Wetsuits and snorkel gear are fitted at the Information Stop in Penneshaw before you board.",
+      "highlights": [
+        "28-seat vessel Sea Dragon for your group",
+        "1, 2 or 3 hour options",
+        "Swim with dolphins and long-nosed seals",
+        "Bus transfers on request"
+      ],
+      "duration": "1-, 2- or 3-hour options",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Kangaroo Island Information Stop, 43 Howard Drive, Penneshaw (arrive 30 minutes before)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Wetsuit, mask, snorkel and flippers",
+        "Safety briefing",
+        "Guide commentary",
+        "Hot water shower on board"
+      ],
+      "bring": [
+        "A warm jacket",
+        "Towel",
+        "Bathers"
+      ],
+      "requirements": "Children must be 9 or older to swim with dolphins and 8 or older for coastal snorkelling, and must be with an adult in and out of the water. Basic swimming skills, enough upper body strength to hold the swimmer line and enough strength to climb the ladder. Not suitable if pregnant or with a pacemaker, because shark shields are used. No wheelchair access",
+      "offer": null,
+      "images": [
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2024/02/3-KIOS-SD-Private-Cruise.jpg",
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2025/03/1-KIOS-SD-Private-Cruise.jpg",
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2025/03/4-KIOS-SD-Private-Cruise.jpg"
+      ],
+      "bookingLinks": [
+        "https://kangarooislandoceansafari.rezdy.com/calendarWidget/433828?iframe=true"
+      ],
+      "sourceUrl": "https://kangarooislandoceansafari.com.au/private-charter-12/",
+      "checkNotes": "No prices are shown on the site; they appear only in the Rezdy booking widget. Menu label is 'Private Snorkelling Charter (28 seater)'. The page claims KIOS is the only operator in South Australia offering swims with long-nosed seals; not verified. If wildlife does not allow a swim and coastal snorkelling is not possible, the page says a refund back to the viewing price applies."
+    },
+    {
+      "title": "Private Charter (38 Seater)",
+      "kind": "charter",
+      "summary": "Private hire of Force of Nature, the 38-seat licensed vessel, for celebrations, corporate events or a group trip along the coast. Charters run for one, two or three hours and can include drinks and seafood platters from local caterers, music and boat lighting. Bus transfers can be arranged through the sister company Kangaroo Island Coachlines.",
+      "highlights": [
+        "38-seat licensed vessel Force of Nature",
+        "1, 2 or 3 hour options",
+        "Drinks and platters from local caterers",
+        "Onboard sound system and lighting"
+      ],
+      "duration": "1-, 2- or 3-hour options",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Christmas Cove Marina, Penneshaw (arrive 15 minutes before departure)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Onboard sound system",
+        "Boat lighting"
+      ],
+      "bring": [],
+      "requirements": "Must be booked at least 24 hours in advance. No wheelchair access on board",
+      "offer": null,
+      "images": [
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2025/03/1-KIOS-FON-Private-Cruise.jpg",
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2024/02/6-KIOS-75-M-Ocean-Safari.jpg",
+        "https://kangarooislandoceansafari.com.au/wp-content/uploads/2024/02/8-KIOS-75-M-Ocean-Safari-768x576.jpg"
+      ],
+      "bookingLinks": [
+        "https://kangarooislandoceansafari.rezdy.com/calendarWidget/411886?iframe=true"
+      ],
+      "sourceUrl": "https://kangarooislandoceansafari.com.au/private-charters/",
+      "checkNotes": "No prices are shown on the site; they appear only in the Rezdy booking widget. Catering comes from Fat Beagle or Millie Mae's, cost not stated; BYO food allowed on private charters. This page says book at least 24 hours ahead; the FAQ says online booking for private charters closes 48 hours before departure."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift cards for the 75-Minute Coastal Safari, the 2-Hour Swim with Dolphins-Seals and the 2-Hour View Only safari",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://kangarooislandoceansafari.com.au/gift-cards/"
+    },
+    {
+      "text": "Children 2 years and under travel free",
+      "conditions": "Infants must still be booked on an infant ticket; not available for the swim",
+      "validUntil": null,
+      "sourceUrl": "https://kangarooislandoceansafari.com.au/"
+    },
+    {
+      "text": "Family, senior, concession, student and group rates",
+      "conditions": "Seniors, concessions and students must show ID before boarding; rates are chosen as ticket types when booking online",
+      "validUntil": null,
+      "sourceUrl": "https://kangarooislandoceansafari.com.au/faq/"
+    }
+  ],
+  "checkNotes": "No prices are published anywhere on the site, so every trip has prices [] and priceFrom null; check the Rezdy widgets. Gift card booking links on the site: https://kangarooislandoceansafari.rezdy.com/531275/gift-card-75-minute-ocean-safari, https://kangarooislandoceansafari.rezdy.com/531283/gift-card-2-hour-swim-with-dolphin-seal-coastal-snorkelling, https://kangarooislandoceansafari.rezdy.com/531279/gift-card-2-hour-view-only-safari-with-dolphin-seal-coastal-snorkelling. The FAQ also links the Rezdy catalogue https://kangarooislandoceansafari.rezdy.com/catalog/528541/tours. Contact address used is the Coastal Safari departure point; swims meet at the Kangaroo Island Information Stop, 43 Howard Drive, Penneshaw, which the business also runs. Homepage 'extras' (sunscreen, baby carrier on request) contradict the FAQ (no sunscreen, no baby carriers). ECO certification: the page says 'granted our ecotourism certification' and shows the ECO Certified logo; level not stated. Hall of Fame and 'over a dozen awards' are from the about page. Years of operation: '11 years' (swim pages) vs '14 years' (FAQ). Cruise ship page says tenders departing before 4:30pm; FAQ says tenders should not leave before 5pm. The Half-Day Kangaroo Island Tour on the cruise ship page is run by sister company Kangaroo Island Coachlines, not recorded. Private Marine Educational Cruises for schools and OSHCs are mentioned on the sustainability page only. The Chinese-language page is out of date (70 minute cruise, booking phone 0419 772 175 for Tony, free sunscreen). The site's own hero image (www.kangarooislandoceansafari.com.au/wp-content/uploads/kios-hero.jpg) returns 404; the og:image is used as the hero instead. Some trip images are the 768x576 versions because only those appear in the page HTML."
+}

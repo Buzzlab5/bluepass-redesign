@@ -1,0 +1,37 @@
+{
+  "slug": "captain-dwayne-barbados",
+  "logo": "https://www.captaindwayne.com/assets/images/captaindwaynelogo.svg",
+  "heroImage": "https://www.captaindwayne.com/assets/images/vessels/livity_1.jpg",
+  "gallery": [
+    "https://www.captaindwayne.com/assets/images/vessels/livity_1.jpg",
+    "https://www.captaindwayne.com/assets/images/vessels/livity_5.jpg",
+    "https://www.captaindwayne.com/assets/images/vessels/livity_3.jpg",
+    "https://www.captaindwayne.com/assets/images/booking_vessel_livity.jpg",
+    "https://www.captaindwayne.com/assets/images/services/snorkelingturtles.jpg",
+    "https://www.captaindwayne.com/assets/images/services/snorkelingfish.jpg",
+    "https://www.captaindwayne.com/assets/images/services/charters.jpg",
+    "https://www.captaindwayne.com/assets/images/services/donuts.jpg",
+    "https://www.captaindwayne.com/assets/images/services/mable.jpg",
+    "https://www.captaindwayne.com/assets/images/services/waterskiing.jpg",
+    "https://www.captaindwayne.com/assets/images/services/paddleboard.jpg",
+    "https://www.captaindwayne.com/assets/images/bios/bioimage.jpg"
+  ],
+  "videos": [
+    { "url": "https://www.captaindwayne.com/assets/images/CarouselVid.mp4", "title": "Home page header video", "sourceUrl": "https://www.captaindwayne.com/" }
+  ],
+  "trips": [
+    {
+      "title": "Private Charters",
+      "images": [
+        "https://www.captaindwayne.com/assets/images/vessels/livity_1.jpg",
+        "https://www.captaindwayne.com/assets/images/vessels/livity_2.jpg",
+        "https://www.captaindwayne.com/assets/images/vessels/livity_3.jpg",
+        "https://www.captaindwayne.com/assets/images/vessels/livity_4.jpg",
+        "https://www.captaindwayne.com/assets/images/vessels/livity_5.jpg",
+        "https://www.captaindwayne.com/assets/images/booking_vessel_livity.jpg",
+        "https://www.captaindwayne.com/assets/images/services/charters.jpg"
+      ]
+    }
+  ],
+  "notes": "Small custom site, no gallery page. Photos come from the home, vessel, services and bookings pages. The services page photos (snorkelling, towables, water skiing, paddleboard) have generic file names and no credit; they could be stock, worth a visual check. The video is the home page header clip (CarouselVid.mp4); the site gives it no title and it was not watched. The banner background (bg/banner.jpg) was left out. No YouTube or Vimeo channel linked."
+}

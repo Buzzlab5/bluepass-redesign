@@ -1,0 +1,56 @@
+{
+  "slug": "kayaking-barbados",
+  "logo": null,
+  "gallery": [
+    "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/0809201923.jpg",
+    "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/0819201929.jpg",
+    "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/0b3a6fd7f9016c07a27447e99d4a2e06.jpg",
+    "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/d73af8fb67f17e776424ea7d0f4f9578.JPG",
+    "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/78cc7d7ec124f150003cda4e434e12c8.jpeg",
+    "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/8d1f3edf45c10fdf448fdddf654cff8c.JPG",
+    "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/aa80f7de22e81018983a075edae19c69.JPG",
+    "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/07ff62502badf9356e1c837c5c0c37cb.JPG",
+    "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/25007571_1761052107531712_751659221713839-0001.jpg",
+    "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/2facefd3b9065373ca2b4c078f141102.jpg",
+    "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/34d2c46302df2eff4c730aa683263696.jpg",
+    "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/491460a8bbb757aade8eb1b396d8215e.jpg",
+    "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/6a4481c2aaaa5fdfeee5b2f14cc0433d.JPG",
+    "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/7dc1f9c8cdb55f0314ab61fbbc2602e3.jpg",
+    "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/81ff25fec897f5c1998de6aca207fd21.jpg",
+    "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/832f1969600e7dcacdc50586ca08e13b.jpg"
+  ],
+  "videos": [
+    { "url": "https://www.youtube.com/watch?v=3PaOj1GIR3Y", "title": "Turtle close up", "sourceUrl": "https://www.youtube.com/channel/UCr1JZ20-f6Duja6zSWVrrzw" },
+    { "url": "https://www.youtube.com/watch?v=azACv3Cx-F0", "title": "Untitled clip (P1000102)", "sourceUrl": "https://www.youtube.com/channel/UCr1JZ20-f6Duja6zSWVrrzw" }
+  ],
+  "trips": [
+    {
+      "title": "Rugged North",
+      "images": [
+        "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/69102820_409475096435133_6643830706973838491_n.jpg"
+      ]
+    },
+    {
+      "title": "West Coast Sunset",
+      "images": [
+        "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/25011199_361856674287994_8240815224702107648_n.jpg"
+      ]
+    },
+    {
+      "title": "Historic Speightstown",
+      "images": [
+        "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/205c6b7095fb1d01e36829a1175821e8.JPG"
+      ]
+    },
+    {
+      "title": "Rentals",
+      "images": [
+        "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/30603845_457255098065204_163105716687601664_n.jpg",
+        "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/aa101ee22d6edf5e928d608b8c6fd848.JPG",
+        "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/afbd0461769e57b804ced177daff765b.jpg",
+        "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/blob-0009.png"
+      ]
+    }
+  ],
+  "notes": "No logo image: the site header shows the business name as text. Gallery photos come from the home page about section and the home photo gallery carousel (listed in the site's own script file). Also on the home page but left out to stay within 16: 8c112b4b1c9e4e3292327e17e7e2d4ed.jpg, a80d2a8d3e500f8da0755dcc29ac6e03.JPG, ed7ef9df14b5a8a1f9efad37448c35c1.JPG, fca061fb704266a86cbb8dc16ae19b5f.jpg, f6c23230bc386af30aa320f7d43a719a.png, blob-0008.png and blob-0018.png (same img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/ folder). Left out of the rentals list: an image named as made with ChatGPT (July 2026) and two product shots of snorkel gear that look like maker photos. The partner logo on the tours page belongs to another business and was left out. Videos come from the YouTube channel the home page links to; it has two clips, both from June 2016."
+}

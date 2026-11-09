@@ -1,0 +1,267 @@
+{
+  "slug": "sydney-harbour-boat-tours",
+  "logo": "https://sydneyharbourboattours.com/wp-content/uploads/2020/07/Sydney-Harbour-Boat-Tours-Logo.svg",
+  "gallery": [
+    "https://sydneyharbourboattours.com/wp-content/uploads/2018/09/Spectre-Sun-baking.png",
+    "https://sydneyharbourboattours.com/wp-content/uploads/2018/09/Copy-of-Spectre-Scenery.jpg",
+    "https://sydneyharbourboattours.com/wp-content/uploads/2018/09/Spectre-Opera-House.png",
+    "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/discoverycruisesticky-004-1.jpg",
+    "https://sydneyharbourboattours.com/wp-content/uploads/2023/11/DJI_0685-new.jpg",
+    "https://sydneyharbourboattours.com/wp-content/uploads/2018/09/Copy-of-Spectre-Beach.jpg",
+    "https://sydneyharbourboattours.com/wp-content/uploads/2021/10/Copy-of-Copy-of-Store-Beach-great.jpeg",
+    "https://sydneyharbourboattours.com/wp-content/uploads/2023/11/GFM01759-new.jpg",
+    "https://sydneyharbourboattours.com/wp-content/uploads/2023/11/GFM02037-2-new.jpg",
+    "https://sydneyharbourboattours.com/wp-content/uploads/2017/08/spectrebeach4.jpg",
+    "https://sydneyharbourboattours.com/wp-content/uploads/2023/10/Spectre2-19.jpg",
+    "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/Sunset.jpg",
+    "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01182-new.jpg",
+    "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/0X9A1581.jpg",
+    "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/ausdaygallery-006.jpg",
+    "https://sydneyharbourboattours.com/wp-content/uploads/2025/09/IMG_8291.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=Mle5R9J51OQ",
+      "title": "Full promo video",
+      "sourceUrl": "https://sydneyharbourboattours.com/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-HQMrvn0Ny8",
+      "title": "Sydney Secrets Lunch Cruise",
+      "sourceUrl": "https://sydneyharbourboattours.com/tour/sydney-secrets-lunch-cruise/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PuGVPZoL4io",
+      "title": "Offshore sea safaris",
+      "sourceUrl": "https://sydneyharbourboattours.com/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VPrEmNZIHmg",
+      "title": "Private charters on Spectre",
+      "sourceUrl": "https://sydneyharbourboattours.com/tour/sydney-icons-bays-beaches-cruise/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=H7i-KBssvW4",
+      "title": "Champagne cruise promo",
+      "sourceUrl": "https://sydneyharbourboattours.com/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TbA9UryoqaU",
+      "title": "About the family business",
+      "sourceUrl": "https://sydneyharbourboattours.com/about-us/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Sydney Icons, Bays & Beaches Cruise",
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/10/featured.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-GFM02037-2-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2018/09/Spectre-Opera-House.png",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/09/IMG_8291.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-PointPiper1-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-GFM01759-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2021/10/Copy-of-Copy-of-Store-Beach-great.jpeg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2018/09/Copy-of-Spectre-Beach.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/10/Spectre2-19.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/10/spectreharbour5-1024x682-tab.jpg"
+      ]
+    },
+    {
+      "title": "Sydney Harbour Brunch Cruise",
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-GFM01759-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/09/047A1861.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2021/10/Copy-of-Copy-of-Store-Beach-great.jpeg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/11/GFM02037-2-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-GFM02162-1-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/10/Spectreharbour3-1024x682-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/09/IMG_3487.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/09/IMG_8291.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-PointPiper1-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/09/Copy-of-GFM03661.jpg"
+      ]
+    },
+    {
+      "title": "Sydney Harbour Lunch Safari",
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/ausdaygallery-006.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/11/DSC0484.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2021/10/Copy-of-Copy-of-Copy-of-Copy-of-BCA8260_Cover_Edit_RGB.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2021/10/Copy-of-Copy-of-Store-Beach-great.jpeg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/10/Spectreharbour3-1024x682-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-GFM01537-1-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-GFM02037-2-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/11/Copy-of-IMG_6396-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/09/IMG_8291.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2021/10/Copy-of-Copy-of-Spectrebeach3-1024x682-1.jpg"
+      ]
+    },
+    {
+      "title": "Sydney Twilight Champagne Cruise",
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/5b9ebf55-c0a5-42db-b095-3ee5c203f639.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01051.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01182-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01291-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01527-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2018/09/Spectre-Romance.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2018/09/Spectre-Views.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/Sunset.jpg"
+      ]
+    },
+    {
+      "title": "Harbourfront Dine & Cruise",
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/Sunset-featured.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/5b9ebf55-c0a5-42db-b095-3ee5c203f639.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01051.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01182-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01291-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01527-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/Copy-of-Copy-of-DSC_0134-1024x576-1.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/Sunset-sticky.jpg"
+      ]
+    },
+    {
+      "title": "Captain's Table Champagne Dinner Cruise",
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/Sunset-featured.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/Phone-Night.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01527-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/Sunset.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01051.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01291-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/5b9ebf55-c0a5-42db-b095-3ee5c203f639.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/Copy-of-1R6A5445-Edit.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/IMG_5316.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/Sunset-sticky.jpg"
+      ]
+    },
+    {
+      "title": "Seafood Odyssey",
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/IMG_3894-featured.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/DSC_0068.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/DSC_0093.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/DSC_0117-1.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/11/GFM01128-1-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/IMG_3894-n.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/DSC_0191-2.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/DSC_0216.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2018/09/Spectre-Opera-House.png",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/IMG_4029-sticky.jpg"
+      ]
+    },
+    {
+      "title": "Taste of the Sea",
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/IMG_3960-featured.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/DSC_0068.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/DSC_0093.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/DSC_0117-1.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/DSC_0216.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/IMG_3894-n.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/IMG_3919.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/IMG_3968.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/IMG_4012.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/02/IMG_4750-new.jpg"
+      ]
+    },
+    {
+      "title": "Seafood Sunset",
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/IMG_4478-featured.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/5b9ebf55-c0a5-42db-b095-3ee5c203f639.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01051.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/IMG_4477.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/IMG_4481.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/Spectre-2.0.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/IMG_4478-n-1.jpg"
+      ]
+    },
+    {
+      "title": "Sydney Secrets Lunch Cruise",
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/feature-011-1.jpeg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-GFM03359-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-GFM03642-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/11/DJI_0685-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-GFM00951-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-GFM00999-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-GFM02362-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-GFM02534-1-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-GFM02598-1-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-GFM03268-new.jpg"
+      ]
+    },
+    {
+      "title": "Whales of Sydney Sea Safari",
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/0X9A1581.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/0X9A1617.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/9a0c68e7-91d2-4210-a409-cd9eeb1a2022.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/9e75e9d1-dfd5-48ea-8794-8293a83ccd31.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/51fd0178-aa17-434f-8e62-5d4cdfa9ca3a.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/712c877f-cdd4-4f2f-9c46-8087e86bb7d0.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/20200625-_DSC5409.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2021/11/Copy-of-20200625-_DSC5420i.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/Copy-of-A4-7715.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/eeaed08d-3f78-4767-b868-64abbb252d46.jpg"
+      ]
+    },
+    {
+      "title": "Whales of Sydney Lunch Safari",
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/06/sydney-harbor-whale-jumping-featured.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/0X9A1581.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/06/sydney-harbor-whale-tab.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/0X9A1617.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/9a0c68e7-91d2-4210-a409-cd9eeb1a2022.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/9e75e9d1-dfd5-48ea-8794-8293a83ccd31.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/51fd0178-aa17-434f-8e62-5d4cdfa9ca3a.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/712c877f-cdd4-4f2f-9c46-8087e86bb7d0.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/20200625-_DSC5409.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2021/11/Copy-of-20200625-_DSC5420i.jpg"
+      ]
+    },
+    {
+      "title": "New Years Eve - 31 December",
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/nyesfeature-001.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/nyegallery-009.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/nyegallery-008.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/nyegallery-004.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/nyegallery-006.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/nyegallery-001.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/09/IMG_4225-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/09/IMG_2599-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/09/DSC_2399-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/12/DSC_0040-min.jpg"
+      ]
+    },
+    {
+      "title": "Vivid Private Luxury Cruise",
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/12/DSC_0040-min.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/12/DSC_7921-min.jpg"
+      ]
+    },
+    {
+      "title": "Private Charters",
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2018/09/Spectre-Sun-baking.png",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2018/09/Copy-of-Spectre-Scenery.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/11/DJI_0685-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2017/08/vipcharter_featured.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/11/GFM00871-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/11/GFM01128-1-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/11/GFM01689-1-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/11/GFM02037-2-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/11/GFM01759-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/11/GFM01815-1-new.jpg"
+      ]
+    }
+  ],
+  "notes": "Logo is the header SVG logo. No heroImage in this file: the facts file uses a boat-and-skyline photo (Copy-of-Spectre-Scenery.jpg) because the home page hero is a video hosted by the web agency, not an image. Videos are the operator's own YouTube videos embedded on its pages (titles from the embed titles and the channel linked in the site footer, youtube.com/channel/UCNLYOWEem9SZ3IV1s0EZ3fA); the 360 degree virtual tour videos on the Virtual Tours page are credited to 'Sydney360 Guide' and were left out. Left out on purpose: every photo with a Salty Dingo credit in its file name or caption (a photographer business; there are many, and a person could decide to add them back); photos named MySydneyBoat (the site uses that name for older videos and a testimonial, so it may be the operator's earlier name, but this is not confirmed); a photo with a Facebook-style file name; restaurant partner photos (Harbourfront Seafood Restaurant, Water's Edge, a restaurant shown as Nicks); Sydney Fish Market, Multiplex and a Sydney Seafood School style image; Axopar boat-builder style gallery images; Vivid festival images with library style numbers (and 150421-56-copy.jpg, which looks the same); logos, badges, icons, team portraits and card crops. Check: files named ausdaygallery, skiesgallery, nyegallery and similar were uploaded by the web agency and could be library photos; Carthona-House.jpg and Gonski-House.jpg (waterfront houses) carry no credit and are listed last. Trip photo lists use each tour page's own gallery and body photos; the Whales of Sydney Lunch Safari gallery sits in a lightbox further down its page. Some whale files are named Screen-Shot; the importer should drop any that are screenshots. No bot check, captcha or 403 was met on the site. Only the site's own pages and the YouTube channel feed were read; no images were downloaded."
+}

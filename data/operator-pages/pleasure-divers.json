@@ -1,0 +1,1071 @@
+{
+  "slug": "pleasure-divers",
+  "name": "Pleasure Divers",
+  "website": "https://pleasuredivers.com.au",
+  "rezdyAlias": "pleasuredivers",
+  "state": "QLD",
+  "town": "Arcadia, Magnetic Island",
+  "category": "Shore dives and courses",
+  "summary": "Family-run SSI dive shop at Arcadia on Magnetic Island, open since 1994. It runs dive courses from Open Water to specialties, guided shore and night dives, introductory dives, kids programmes and private guided snorkel tours. Most diving is from the shore, with the main sites a short walk from the shop.",
+  "standouts": [
+    "Longest running dive centre on Magnetic Island, operating since 1994",
+    "Only on-site dive training pool on Magnetic Island and in the Townsville region",
+    "Green Fins member",
+    "Open Water courses capped at 4 students"
+  ],
+  "contact": {
+    "phone": "+61 7 4778 5788",
+    "email": "info@pleasuredivers.com.au",
+    "address": "10 Marine Parade, Arcadia QLD 4819"
+  },
+  "heroImage": "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/7e45ab81-f0d9-4784-8e2e-ea31935f5761/Pleasure+Divers+Magnetic+Island.jpg",
+  "sourceUrls": [
+    "https://www.pleasuredivers.com.au/",
+    "https://www.pleasuredivers.com.au/about-us",
+    "https://www.pleasuredivers.com.au/open-water-diving-course",
+    "https://www.pleasuredivers.com.au/advanced-open-water-course",
+    "https://www.pleasuredivers.com.au/refresher-course",
+    "https://www.pleasuredivers.com.au/rescue-diver-course",
+    "https://www.pleasuredivers.com.au/dive-master-internship",
+    "https://www.pleasuredivers.com.au/kids-scuba",
+    "https://www.pleasuredivers.com.au/introductory-dives",
+    "https://www.pleasuredivers.com.au/guided-shore-dives",
+    "https://www.pleasuredivers.com.au/night-diving",
+    "https://www.pleasuredivers.com.au/specialty-courses",
+    "https://www.pleasuredivers.com.au/guided-snorkel-tours",
+    "https://www.pleasuredivers.com.au/scuba-rental",
+    "https://www.pleasuredivers.com.au/snorkel-hire",
+    "https://www.pleasuredivers.com.au/magnetic-island-snorkel-trails",
+    "https://www.pleasuredivers.com.au/magnetic-island-dive-sites",
+    "https://www.pleasuredivers.com.au/diving-yongala-and-moua",
+    "https://www.pleasuredivers.com.au/dive-courses",
+    "https://www.pleasuredivers.com.au/dive-magnetic-island",
+    "https://www.pleasuredivers.com.au/snorkel-magnetic-island",
+    "https://www.pleasuredivers.com.au/contact-us",
+    "https://www.pleasuredivers.com.au/terms-and-conditions",
+    "https://www.pleasuredivers.com.au/sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "SSI Open Water Diver",
+      "kind": "course",
+      "summary": "A two day SSI course that certifies you to dive to 18 metres with a buddy. Day one covers pool skills and a first ocean dive, and day two adds three more ocean dives, an exam and your licence. Classes are capped at four people, and the ocean dives are shore dives off Magnetic Island's bays.",
+      "highlights": [
+        "Maximum 4 people in the class",
+        "Pool training and 4 ocean shore dives",
+        "Digital e-learning kit is yours to keep",
+        "Licence to dive to 18m"
+      ],
+      "duration": "2 days; 8.30am to 4.30pm each day",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": null,
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island",
+      "prices": [
+        {
+          "label": "Per person (incl GST)",
+          "amount": 499,
+          "currency": "AUD",
+          "note": "Includes EMC of $8 per student"
+        },
+        {
+          "label": "Private course, one-on-one instructor for 2 days",
+          "amount": 1996,
+          "currency": "AUD",
+          "note": "Includes everything the standard course includes. Email to arrange dates."
+        },
+        {
+          "label": "Non-refundable deposit",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Secures your place"
+        },
+        {
+          "label": "Hire of mask, snorkel and fins, per day",
+          "amount": 25,
+          "currency": "AUD",
+          "note": "Optional, if you do not bring your own"
+        }
+      ],
+      "priceFrom": 499,
+      "includes": [
+        "Digital e-learning kit (yours to keep)",
+        "SSI certification, a licence to dive to 18m",
+        "Pool training",
+        "4 ocean shore dives off Magnetic Island's bays and beaches",
+        "Scuba equipment hire (including wetsuit) for 2 days",
+        "EMC (Environmental Management Charge)"
+      ],
+      "bring": [
+        "Own mask, snorkel and fins for training (hire is $25 per day)",
+        "Footwear, swimwear, towel, sun protection and wet-weather protection, and warm clothes if necessary",
+        "Your own lunch, or buy lunch at the Arcadia General Store or Arcadia Bakehouse (food and drinks are not provided)",
+        "A refillable drink bottle"
+      ],
+      "requirements": "Minimum age 14 for the regular scheduled courses. Ages 10 to 13 by special arrangement (Junior Open Water). Swim 200m without mask, snorkel or fins. Float or tread water for 10 minutes without a flotation device. Complete the SSI Pre-Dive Medical screening questionnaire (a dive medical may be needed). Complete the self-paced SSI e-learning before arriving. People over 45 may need a physician's approval.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/4368760c-67c8-43c3-8a1a-369549f545c0/Practicing+dive+skills.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/6a220710-75c8-4228-89fb-d25fadeac09b/Open+water+course+pool+session.jpeg"
+      ],
+      "bookingLinks": [
+        "https://www.pleasuredivers.com.au/open-water-diving-course"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/open-water-diving-course",
+      "checkNotes": "Booking is through a Rezdy calendar widget embedded on the course page (no per-trip link), so the page URL is recorded. Usually offered twice a week, weekend courses available, dates are in the calendar. Online bookings close 3 days before the course start. Class is capped at 4. Conflicts: the Kids Scuba page lists an 'Open Water Diver' for ages 15 and over as 3 days, starting every Tuesday, with gear hire for 3 days, linked to a Rezdy product named 'ssi-3-day-open-water-course' (https://pleasuredivers.rezdy.com/111122/ssi-3-day-open-water-course); this page says 2 days. The Kids Scuba page also gives 15+ for the regular course and 12+ for Junior Open Water, while this page says minimum 14 and Junior from 10. Reschedule transfer fee is $50. A certified diver (for example a parent of a Junior student) may buy a place on the course for $499 and take part in the whole course."
+    },
+    {
+      "title": "SSI Advanced Open Water",
+      "kind": "course",
+      "summary": "A two day SSI course with five training dives, three from the beach on Magnetic Island on day one and two from a dive boat on day two, including a deep dive. It certifies you to dive to 30 metres. Pleasure Divers does not run the boat, which is operated by another business.",
+      "highlights": [
+        "Day 1: three shore training dives at Alma Bay or Geoffrey Bay",
+        "Day 2: two boat dives including a deep dive, lunch on board",
+        "Boat boards at Townsville 7:00am or Magnetic Island 7:45am",
+        "Minimum 3 and maximum 6 participants"
+      ],
+      "duration": "2 days",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": null,
+      "departsFrom": "Day 1: Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island (shore dives at Alma Bay or Geoffrey Bay). Day 2: boat from Townsville or Magnetic Island",
+      "prices": [
+        {
+          "label": "Per person (incl GST)",
+          "amount": 890,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Non-refundable deposit",
+          "amount": 265,
+          "currency": "AUD",
+          "note": "Secures your place"
+        }
+      ],
+      "priceFrom": 890,
+      "includes": [
+        "Digital e-learning materials from SSI",
+        "SSI certification, a licence to dive to 30m",
+        "Full gear hire for 2 days",
+        "Boat travel on Day 2 (including lunch on board)",
+        "EMC (Environment Management Charge)"
+      ],
+      "bring": [],
+      "requirements": "Open Water Diver licence, from any agency. Recent dive experience: if you have not dived in the past 12 months, book a Refresher before enrolling. At least 10 logged dives (divers may book straight after their Open Water, but it is best to build up some fun diving first). Complete the SSI Pre-Dive Medical screening questionnaire (a dive medical may be needed). Minimum age 12; ages 12 to 14 are limited to 21m until age 15.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/221c0570-fb53-489f-9c0b-203ce943a929/Scuba+diving+amongst+seafans.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/93fff607-6acd-4ced-a9bc-e7ad0e9db48d/Shore+dives+Magnetic+Island.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.pleasuredivers.com.au/advanced-open-water-course"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/advanced-open-water-course",
+      "checkNotes": "Booking is through a Rezdy calendar widget embedded on the course page, so the page URL is recorded. Runs once per month. Day 1 meets at the shop at 8:30am and finishes at 4:30pm. Day 2 vessel boards at Townsville 7:00am or Magnetic Island 7:45am and returns to Magnetic Island 4:45pm or Townsville 5:10pm; the site says the vessel is not operated by Pleasure Divers and its conditions of travel apply. The site says the SS Yongala may or may not be visited on Day 2 depending on the day and weather. SSI renamed Advanced Adventurer to Advanced Open Water in October 2025; some menu links and the old /advanced-adventurer-course address still use the old name and redirect here. The page heading offers the five dives as Buoyancy, Navigation, Ecology, Deep and possibly a boat dive, decided by the instructor."
+    },
+    {
+      "title": "SSI Scuba Skills Update (Refresher)",
+      "kind": "course",
+      "summary": "A three hour refresher for certified divers who are rusty, run mostly in the shop's own training pool with an SSI dive pro. It reviews buoyancy, equipment handling and emergency procedures, and is tailored to why you booked it. Divers from any agency can take it.",
+      "highlights": [
+        "3 hour session of theory and practical",
+        "Held in the on-site dive training pool",
+        "Open to divers certified by any agency",
+        "Recommended before diving the SS Yongala"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island",
+      "prices": [
+        {
+          "label": "Per person (incl GST)",
+          "amount": 265,
+          "currency": "AUD",
+          "note": "A discounted price is offered if you do not want the e-learning, exams or certification card; amount not stated"
+        },
+        {
+          "label": "Non-refundable deposit",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Secures your place"
+        }
+      ],
+      "priceFrom": 265,
+      "includes": [
+        "Digital e-learning materials from SSI",
+        "SSI certification",
+        "Full gear hire",
+        "3 hour session of theory and practical",
+        "Pool training in the on-site dive training pool"
+      ],
+      "bring": [],
+      "requirements": "Open Water Diver licence from any agency. Complete the medical screening questionnaire (a dive medical may be needed).",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/93fff607-6acd-4ced-a9bc-e7ad0e9db48d/Shore+dives+Magnetic+Island.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/4368760c-67c8-43c3-8a1a-369549f545c0/Practicing+dive+skills.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.pleasuredivers.com.au/refresher-course"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/refresher-course",
+      "checkNotes": "The course page says 'by request, pending availability' but also embeds a Rezdy calendar widget; the page URL is recorded as the booking link. Start time not stated. The site says a Refresher is usually a good idea after 2 years or more out of the water."
+    },
+    {
+      "title": "SSI Diver Stress and Rescue",
+      "kind": "course",
+      "summary": "A two day SSI course on preventing and managing stress and emergencies, for yourself and your dive buddies. Day one is three pool sessions and day two is three open water sessions and an exam. You do not need an Advanced certification to enrol.",
+      "highlights": [
+        "Day 1: 3 pool sessions",
+        "Day 2: 3 open water sessions and an exam",
+        "Open Water certification from any agency is enough",
+        "Minimum 2 participants, runs once per month"
+      ],
+      "duration": "2 days; from 8.30am to 4.30pm each day",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": null,
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island",
+      "prices": [
+        {
+          "label": "Per person (incl GST)",
+          "amount": 499,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Non-refundable deposit",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Secures your place"
+        }
+      ],
+      "priceFrom": 499,
+      "includes": [
+        "Digital e-learning materials from SSI",
+        "SSI certification",
+        "Full gear hire for 2 days",
+        "EMC (Environmental Management Charge)"
+      ],
+      "bring": [],
+      "requirements": "Open Water certified from any agency (Advanced is not required). Recent dive experience: if you have not dived in the past 12 months, book a Refresher first. At least 10 logged dives is recommended. Complete the medical screening questionnaire (a dive medical may be needed). Current First Aid, CPR and Oxygen Provider certification is required to enrol, for example HLTAID011 Provide First Aid and CPR and HLTAID015 Provide Advanced Resuscitation and Oxygen Therapy. Minimum age 12.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/bbaf3958-fc57-4f3b-88de-33675180c396/Rescue+Training.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/6a220710-75c8-4228-89fb-d25fadeac09b/Open+water+course+pool+session.jpeg"
+      ],
+      "bookingLinks": [
+        "https://www.pleasuredivers.com.au/rescue-diver-course"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/rescue-diver-course",
+      "checkNotes": "Booking is through a Rezdy calendar widget embedded on the course page, so the page URL is recorded. The nav calls this 'Rescue Diver Course'; the page heading is 'SSI Diver Stress & Rescue'. The site notes the itinerary is flexible and the open water sessions run when conditions suit. E-learning takes about 5 hours."
+    },
+    {
+      "title": "SSI Divemaster Internship",
+      "kind": "course",
+      "summary": "An SSI Divemaster internship at the shop, learning by assisting on real courses, leading dives and sharpening rescue skills. Most dive time comes from shore dives off Magnetic Island, so there is little waiting for a boat.",
+      "highlights": [
+        "Learn by assisting on real courses and leading dives",
+        "Shore dives from the shop",
+        "Based on Magnetic Island",
+        "Fun, flexible and hands-on"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/02790366-e85e-4a0a-86c7-666cc7a82140/Magnetic+Island+Diving.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/701456f2-ff7c-4129-97ba-e9a63d678dec/Shore+Dives+Great+Barrier+Reef.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/08e78019-3812-4a7d-97db-6a281891488d/Dive+briefing.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/5ee3b35c-562a-4f9e-89d4-949a77cfdbb3/Pleasure+Divers+pool.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.pleasuredivers.com.au/dive-master-internship",
+      "checkNotes": "Enquiry only: the page asks you to send a message, with no booking link. No price, duration, start dates, entry requirements or inclusions are stated. The page mentions spending three months on the island as an example, not as a programme length."
+    },
+    {
+      "title": "Introductory Scuba Dive",
+      "kind": "dive",
+      "summary": "A first scuba experience for people with no certification: a briefing, a pool lesson and one ocean dive with an SSI instructor. You walk across to the local shore dive site. The ocean dive is a 30 minute tour to a maximum depth of 12 metres, with no more than four participants per instructor.",
+      "highlights": [
+        "No certification needed",
+        "Briefing, pool lesson and 1 ocean dive",
+        "Maximum depth 12m, 4 participants per instructor",
+        "Gear hire included"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [
+        "13:00"
+      ],
+      "season": null,
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island",
+      "prices": [
+        {
+          "label": "Per person (incl GST)",
+          "amount": 200,
+          "currency": "AUD",
+          "note": "Includes EMC of $8 per student"
+        },
+        {
+          "label": "Non-refundable deposit",
+          "amount": 25,
+          "currency": "AUD",
+          "note": "Secures your place"
+        }
+      ],
+      "priceFrom": 200,
+      "includes": [
+        "Gear hire",
+        "Comprehensive dive briefing",
+        "Pool lesson",
+        "1 ocean dive"
+      ],
+      "bring": [
+        "Swimwear, towel, sun protection and wet-weather protection, and warm clothes if necessary",
+        "Footwear, for the walk to the shore dive site",
+        "A refillable drink bottle (food and drinks are not provided)"
+      ],
+      "requirements": "12 years or older. Basic swimming ability. Complete the SSI Pre-Dive Medical screening questionnaire (a dive medical may be needed). People over 45 may need a physician's approval.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/93fff607-6acd-4ced-a9bc-e7ad0e9db48d/Shore+dives+Magnetic+Island.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/be49dab3-1569-4470-9947-7928110ae232/Intro+Dive+Pool+Session.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/95fbd749-8e7f-44ac-a6a0-a28e474099c3/On-site+training+pool.jpg"
+      ],
+      "bookingLinks": [
+        "https://pleasuredivers.rezdy.com/111349/introductory-dive"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/introductory-dives",
+      "checkNotes": "Option Two on the page. Offered Tuesday to Sunday at 1pm, pending availability; closed Mondays. Duration conflict: the option card says 3 hours, the FAQ says typically about 2.5 hours (the Kids Scuba page also says 2.5 hours); the option card was used. Deposit conflict: the option card calls the $25 deposit non-refundable, the FAQ says deposits are refunded with 48 hours or more notice. If the ocean dive is cancelled for conditions, you are offered a new date, a full refund or a 1 hour pool session for $95. Online bookings close 24 hours before the start. This is also the Introductory Ocean Dive listed for ages 12 and over on the Kids Scuba page at the same price, linked to the same Rezdy product. A Private Experience for mixed certified and introductory groups is $800 for up to 4 family members (see offers)."
+    },
+    {
+      "title": "Certified Guided Shore Dive",
+      "kind": "dive",
+      "summary": "A guided beach dive for certified divers with a local dive professional, with easy entry from the shore and no boat. You walk about five minutes from the shop to a dive site chosen on the morning, usually Alma Bay or Geoffrey Bay, where the Moltke shipwreck lies. A single dive takes 2 to 2.5 hours, and a double dive takes about 4 hours.",
+      "highlights": [
+        "Easy beach entry, no boat",
+        "Qualified local guide, groups of no more than 4 to 6 certified divers",
+        "Alma Bay (maximum depth 6m to 8m) and Geoffrey Bay with the SS Moltke shipwreck (maximum depth 8m)",
+        "Solo travellers welcome, you are buddied with another diver or the guide"
+      ],
+      "duration": "2-4 hours",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": null,
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island",
+      "prices": [
+        {
+          "label": "Single dive, per person",
+          "amount": 120,
+          "currency": "AUD",
+          "note": "Typically 8.30am to 11am"
+        },
+        {
+          "label": "Double dive, per person",
+          "amount": 200,
+          "currency": "AUD",
+          "note": "Add the second dive for $80 extra. Typically 8.30am to 12.30pm"
+        }
+      ],
+      "priceFrom": 120,
+      "includes": [
+        "Qualified local dive professional",
+        "Full gear hire",
+        "EMC (Environmental Management Charge)"
+      ],
+      "bring": [
+        "Your certification card (and logbook if possible)",
+        "Swimwear, towel, sun protection, and wet-weather protection or warm clothes if necessary",
+        "Footwear, for the walk from the shop to the dive site"
+      ],
+      "requirements": "A valid dive licence from any agency is required; bring your certification card showing the date of certification and your certification number. Newly certified divers are welcome. After 2 years or more out of the water, a Refresher is recommended.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/9a1d5114-11a2-4271-b683-6751e23f1966/Divers+exiting+the+water.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/02ad1834-53c8-47e9-a1c8-a7776493e3ac/Diver+looking+at+coral.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/2080aa07-9a93-4069-81c1-877a3aedd9fb/Alma+Bay+Magnetic+Island.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.pleasuredivers.com.au/guided-shore-dives"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/guided-shore-dives",
+      "checkNotes": "Booking is through a Rezdy calendar widget embedded on the page, so the page URL is recorded. Runs Tuesday to Sunday at 8:30am pending availability and weather; closed Mondays. Online bookings close at 4:30pm the day before. Dive time is roughly 45 minutes underwater. The site says the exact dive site cannot be guaranteed. The site asks divers not to fly for 24 hours after diving. All diving is from the shore; the site says it runs no boat or reef trips."
+    },
+    {
+      "title": "Guided Night Dive & BBQ",
+      "kind": "dive",
+      "summary": "A monthly guided shore night dive on Magnetic Island, followed by a beachside barbecue with the other divers. A qualified local dive pro leads the dive, and gear and torch hire are included. It suits experienced divers who have dived at night before.",
+      "highlights": [
+        "Monthly, 5:00pm to 9:00pm",
+        "Full gear hire and torch hire included",
+        "Led by a qualified local dive pro",
+        "Sausage sizzle after the dive"
+      ],
+      "duration": "5:00pm to 9:00pm",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "17:00"
+      ],
+      "season": null,
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 150,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 150,
+      "includes": [
+        "Full gear hire",
+        "Torch hire",
+        "A qualified local dive pro to lead the dive",
+        "EMC (Environmental Management Charge)",
+        "Sausage sizzle"
+      ],
+      "bring": [
+        "Your own underwater torch if you prefer (torch hire is included)"
+      ],
+      "requirements": "Divers must hold a Night Diver specialty rating. In place of this, divers can show evidence of previous recent logged night dives, an Advanced qualification and/or a minimum of 20 recent logged dives. A first night dive should be taken through the Night specialty course. After 2 years or more out of diving, book a Refresher.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/b4fdab3f-6d3a-465d-af34-9f1ee776bdb4/Divers+entering+the+water+for+a+night+dive.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/1674259b-674f-4f02-a5a6-79135ea26456/Turtle+sighting+during+a+night+dive.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/61bf52a8-d314-4a1c-af13-46ac7089f563/Ray+sighting+during+a+night+dive.jpeg"
+      ],
+      "bookingLinks": [
+        "https://pleasuredivers.rezdy.com/122142/guided-night-dive"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/night-diving",
+      "checkNotes": "Option One on the Night Diving page. Runs monthly; dates are in the booking calendar. Weather dependent and needs a minimum number of participants, with a refund if cancelled. The site recommends an orientation dive on the day of the night dive (price not stated). The last SeaLink ferry to Townsville is 10pm Sunday to Tuesday and 11pm Wednesday to Saturday. The page says it is out of the water by about 8:30pm."
+    },
+    {
+      "title": "SSI Night & Limited Visibility Specialty",
+      "kind": "course",
+      "summary": "An SSI specialty course on diving safely after dark, covering different light conditions, signalling and staying oriented when vision is limited. It runs as an afternoon and evening session with two dives, finishing with a sausage sizzle. Torch hire is included.",
+      "highlights": [
+        "3:00pm to 9:00pm, 2 dives",
+        "Torch hire included",
+        "Sausage sizzle included",
+        "Minimum 2 people to run"
+      ],
+      "duration": "3:00pm to 9:00pm",
+      "durationMinutes": 360,
+      "departureTimes": [
+        "15:00"
+      ],
+      "season": null,
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island",
+      "prices": [
+        {
+          "label": "Per person (incl GST)",
+          "amount": 350,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 350,
+      "includes": [
+        "Digital e-learning materials from SSI",
+        "SSI certification",
+        "Full gear hire, including torch hire",
+        "EMC",
+        "Sausage sizzle"
+      ],
+      "bring": [],
+      "requirements": "Open Water diver licence, from any agency. Recent dive experience (Refreshers are available for those who have not dived in 2 years or more). Medical declaration.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/b4fdab3f-6d3a-465d-af34-9f1ee776bdb4/Divers+entering+the+water+for+a+night+dive.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/1674259b-674f-4f02-a5a6-79135ea26456/Turtle+sighting+during+a+night+dive.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/61bf52a8-d314-4a1c-af13-46ac7089f563/Ray+sighting+during+a+night+dive.jpeg"
+      ],
+      "bookingLinks": [
+        "https://pleasuredivers.rezdy.com/122141/ssi-night-limited-visibility-specialty"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/night-diving",
+      "checkNotes": "Option Two on the Night Diving page; also listed on the Specialty Courses page at $350 as 'one afternoon evening session (2 dives)', with the same booking link. By request, needs at least 2 people. The last SeaLink ferry to Townsville is 10pm Sunday to Tuesday and 11pm Wednesday to Saturday."
+    },
+    {
+      "title": "Annual Coral Spawning Guided Night Dive",
+      "kind": "dive",
+      "summary": "A guided night dive timed for the annual coral spawning, held off the shore on Magnetic Island. A qualified local guide leads the dive, and a sausage sizzle follows. It is for experienced divers with recent dive history and night diving experience.",
+      "highlights": [
+        "Annual event, usually 3 nights in October and possibly 3 nights in November",
+        "6:00pm to 9:00pm, barbecue until 10pm or 10:30pm",
+        "Full gear and torch hire included",
+        "Guided by a qualified local professional"
+      ],
+      "duration": "6:00pm to 9:00pm",
+      "durationMinutes": 180,
+      "departureTimes": [
+        "18:00"
+      ],
+      "season": "Annual event, typically 3 nights in October and potentially 3 nights in November, depending on the coral spawning predictions of the year",
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island",
+      "prices": [
+        {
+          "label": "Per diver",
+          "amount": 200,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 200,
+      "includes": [
+        "Full scuba gear rental and torch rental",
+        "A qualified local professional guide",
+        "Complimentary sausage sizzle, post dive",
+        "EMC (Environmental Management Charge)"
+      ],
+      "bring": [],
+      "requirements": "At least 20 logged recent dives and a Night Specialty certification (in place of that, evidence of recently logged night dives). A first night dive should be taken through the Night Specialty course before the spawning period. After 2 years or more out of diving, book a Refresher before the spawning period. A daytime site orientation dive is recommended.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/b4fdab3f-6d3a-465d-af34-9f1ee776bdb4/Divers+entering+the+water+for+a+night+dive.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/1674259b-674f-4f02-a5a6-79135ea26456/Turtle+sighting+during+a+night+dive.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/61bf52a8-d314-4a1c-af13-46ac7089f563/Ray+sighting+during+a+night+dive.jpeg"
+      ],
+      "bookingLinks": [
+        "https://pleasuredivers.rezdy.com/781591/coral-spawning-guided-night-dive"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/night-diving",
+      "checkNotes": "Special Event on the Night Diving page. Exact dates for this year are not on the page; check them in the booking calendar, as the October window may already be under way. The last SeaLink ferry to Townsville is 10pm Sunday to Tuesday and 11pm Wednesday to Saturday."
+    },
+    {
+      "title": "SSI Navigation Specialty",
+      "kind": "course",
+      "summary": "An SSI specialty course on finding your way underwater with a compass and natural cues. It is a half day with two dives, run on request for a minimum of two participants.",
+      "highlights": [
+        "Compass and natural navigation skills",
+        "Half day, 2 dives",
+        "Aimed at divers who want to feel more in control",
+        "Minimum 2 participants"
+      ],
+      "duration": "Half day (2 dives)",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island",
+      "prices": [
+        {
+          "label": "Per person (incl GST)",
+          "amount": 350,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 350,
+      "includes": [
+        "Academic e-learning",
+        "Full gear hire",
+        "Shore dives (one or two, depending on the course)",
+        "SSI certification"
+      ],
+      "bring": [],
+      "requirements": "Open Water certification",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/26fa8cfd-22a2-425e-850f-f539869cf855/Group+of+divers+swimming+to+dive+spot.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/1751673065249-FBLJDU1BVF9HV18394DM/IMG_3114.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/1b1b99fc-dba1-4cd7-9f1a-3e202f9b8d59/IMG_4957.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/4ee15648-a5f5-4af0-a5e6-961514bb86ec/IMG_5424.jpg"
+      ],
+      "bookingLinks": [
+        "https://pleasuredivers.rezdy.com/122352/ssi-navigation-specialty"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/specialty-courses",
+      "checkNotes": "By request, minimum 2 participants. The page says all specialty courses include e-learning, full gear hire, one or two shore dives and SSI certification; this course's own inclusions are not itemised. The page photos are shared across the specialty courses and are not labelled, so a person should check they fit. Start time not stated."
+    },
+    {
+      "title": "SSI Wreck Diving Specialty",
+      "kind": "course",
+      "summary": "An SSI specialty course on exploring wrecks safely and responsibly, including how to assess a wreck and avoid entanglement. It is a half day with two dives, run on request for a minimum of two participants.",
+      "highlights": [
+        "Assess wrecks and avoid entanglements",
+        "Half day, 2 dives",
+        "Aimed at history lovers and underwater explorers",
+        "Minimum 2 participants"
+      ],
+      "duration": "Half day (2 dives)",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island",
+      "prices": [
+        {
+          "label": "Per person (incl GST)",
+          "amount": 350,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 350,
+      "includes": [
+        "Academic e-learning",
+        "Full gear hire",
+        "Shore dives (one or two, depending on the course)",
+        "SSI certification"
+      ],
+      "bring": [],
+      "requirements": "Open Water certification",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/26fa8cfd-22a2-425e-850f-f539869cf855/Group+of+divers+swimming+to+dive+spot.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/1751673065249-FBLJDU1BVF9HV18394DM/IMG_3114.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/1b1b99fc-dba1-4cd7-9f1a-3e202f9b8d59/IMG_4957.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/4ee15648-a5f5-4af0-a5e6-961514bb86ec/IMG_5424.jpg"
+      ],
+      "bookingLinks": [
+        "https://pleasuredivers.rezdy.com/122313/ssi-wreck-diver-specialty"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/specialty-courses",
+      "checkNotes": "By request, minimum 2 participants. The page does not say which wreck is used; the shop's Geoffrey Bay shore site has the SS Moltke wreck, but the site does not link it to this course, so it is not stated here. This course's own inclusions are not itemised. The page photos are shared across the specialty courses and are not labelled. Start time not stated."
+    },
+    {
+      "title": "SSI Perfect Buoyancy Specialty",
+      "kind": "course",
+      "summary": "An SSI specialty course on buoyancy control, to help you hover, conserve air and protect the reef. It is a half day with two dives, and the shop notes it can be run in its on-site pool. Run on request for a minimum of two participants.",
+      "highlights": [
+        "Hover, conserve air and protect the reef",
+        "Half day, 2 dives",
+        "Suitable for newly certified and experienced divers",
+        "Minimum 2 participants"
+      ],
+      "duration": "Half day (2 dives)",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island",
+      "prices": [
+        {
+          "label": "Per person (incl GST)",
+          "amount": 350,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 350,
+      "includes": [
+        "Academic e-learning",
+        "Full gear hire",
+        "Shore dives (one or two, depending on the course)",
+        "SSI certification"
+      ],
+      "bring": [],
+      "requirements": "Open Water certification",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/26fa8cfd-22a2-425e-850f-f539869cf855/Group+of+divers+swimming+to+dive+spot.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/1751673065249-FBLJDU1BVF9HV18394DM/IMG_3114.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/1b1b99fc-dba1-4cd7-9f1a-3e202f9b8d59/IMG_4957.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/4ee15648-a5f5-4af0-a5e6-961514bb86ec/IMG_5424.jpg"
+      ],
+      "bookingLinks": [
+        "https://pleasuredivers.rezdy.com/710017/ssi-perfect-buoyancy-specialty"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/specialty-courses",
+      "checkNotes": "By request, minimum 2 participants. The Guided Shore Dive FAQ mentions this course being run in the on-site pool when ocean conditions are poor; the specialty page itself does not say where it is held. This course's own inclusions are not itemised. The page photos are shared across the specialty courses and are not labelled. Start time not stated."
+    },
+    {
+      "title": "SSI Ecology Nudibranchs Specialty",
+      "kind": "course",
+      "summary": "An SSI specialty built around one guided shore dive with a focus on nudibranch ecology. Self-paced e-learning at home comes first, then a dedicated briefing on dive day, and a barbecue and SSI certification afterwards. Bring an underwater camera if you have one.",
+      "highlights": [
+        "Single guided shore dive with a nudibranch focus",
+        "1pm to 5pm, every second month",
+        "Complimentary barbecue after the dive",
+        "Includes e-learning, a professional dive guide and full gear hire"
+      ],
+      "duration": "1pm to 5pm",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "13:00"
+      ],
+      "season": null,
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island",
+      "prices": [
+        {
+          "label": "Per person (incl GST)",
+          "amount": 160,
+          "currency": "AUD",
+          "note": "Includes e-learning, professional dive guide, full gear hire and a complimentary BBQ"
+        }
+      ],
+      "priceFrom": 160,
+      "includes": [
+        "E-learning",
+        "Professional dive guide",
+        "Full gear hire",
+        "Complimentary BBQ",
+        "SSI Specialty certification"
+      ],
+      "bring": [],
+      "requirements": "Open Water certification",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/26fa8cfd-22a2-425e-850f-f539869cf855/Group+of+divers+swimming+to+dive+spot.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/1751673065249-FBLJDU1BVF9HV18394DM/IMG_3114.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/1b1b99fc-dba1-4cd7-9f1a-3e202f9b8d59/IMG_4957.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/4ee15648-a5f5-4af0-a5e6-961514bb86ec/IMG_5424.jpg"
+      ],
+      "bookingLinks": [
+        "https://pleasuredivers.rezdy.com/731807/nudibranch-ecology-dive"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/specialty-courses",
+      "checkNotes": "Runs every second month; dates are on the booking system, which was not opened. Rezdy product name is 'nudibranch-ecology-dive'. The page photos are shared across the specialty courses and are not labelled."
+    },
+    {
+      "title": "SSI Ecology Coral ID Specialty",
+      "kind": "course",
+      "summary": "An SSI specialty on identifying the corals around Magnetic Island. Self-paced e-learning covers coral structures, growth forms and lifespans, then a guided shore dive starts with a briefing on recognising local corals. A barbecue and SSI certification follow. An underwater camera is recommended.",
+      "highlights": [
+        "Guided shore dive on how to identify local corals",
+        "1pm to 5pm, every second month",
+        "Complimentary barbecue after the dive",
+        "Includes e-learning, a professional dive guide and full gear hire"
+      ],
+      "duration": "1pm to 5pm",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "13:00"
+      ],
+      "season": null,
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island",
+      "prices": [
+        {
+          "label": "Per person (incl GST)",
+          "amount": 160,
+          "currency": "AUD",
+          "note": "Includes e-learning, professional dive guide, full gear hire and a complimentary BBQ"
+        }
+      ],
+      "priceFrom": 160,
+      "includes": [
+        "E-learning",
+        "Professional dive guide",
+        "Full gear hire",
+        "Complimentary BBQ",
+        "SSI Specialty certification"
+      ],
+      "bring": [],
+      "requirements": "Open Water certification",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/26fa8cfd-22a2-425e-850f-f539869cf855/Group+of+divers+swimming+to+dive+spot.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/1751673065249-FBLJDU1BVF9HV18394DM/IMG_3114.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/1b1b99fc-dba1-4cd7-9f1a-3e202f9b8d59/IMG_4957.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/4ee15648-a5f5-4af0-a5e6-961514bb86ec/IMG_5424.jpg"
+      ],
+      "bookingLinks": [
+        "https://pleasuredivers.rezdy.com/739982/coral-id-ecology-dive"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/specialty-courses",
+      "checkNotes": "Runs every second month; dates are on the booking system, which was not opened. Rezdy product name is 'coral-id-ecology-dive'. The page photos are shared across the specialty courses and are not labelled."
+    },
+    {
+      "title": "SSI Enriched Air Nitrox Specialty",
+      "kind": "course",
+      "summary": "An SSI specialty on planning and diving with enriched air (Nitrox) mixtures, including how to test your tanks and oxygen levels. It is an add-on for students doing the Advanced Open Water course, using two Nitrox tanks on Day 2 of that course. Theory is self-paced e-learning.",
+      "highlights": [
+        "Add-on to the Advanced Open Water course",
+        "Two Nitrox tanks used on Day 2 of the Advanced course",
+        "Learn to test tanks and oxygen levels",
+        "Longer no-decompression limits at deeper sites"
+      ],
+      "duration": "E-learning completed at your own pace; two dives completed on Day 2 of the Advanced Open Water Diver course",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island",
+      "prices": [
+        {
+          "label": "Per person (incl GST)",
+          "amount": 200,
+          "currency": "AUD",
+          "note": "Includes e-learning and two Nitrox tanks to use on Day 2 of the Advanced course"
+        }
+      ],
+      "priceFrom": 200,
+      "includes": [
+        "E-learning",
+        "Two Nitrox tanks to use on Day 2 of the Advanced course"
+      ],
+      "bring": [],
+      "requirements": "Open Water certification. Only offered for students completing the Advanced Open Water Diver course and travelling on board Adrenalin on Day 2.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/26fa8cfd-22a2-425e-850f-f539869cf855/Group+of+divers+swimming+to+dive+spot.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/1751673065249-FBLJDU1BVF9HV18394DM/IMG_3114.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/1b1b99fc-dba1-4cd7-9f1a-3e202f9b8d59/IMG_4957.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/4ee15648-a5f5-4af0-a5e6-961514bb86ec/IMG_5424.jpg"
+      ],
+      "bookingLinks": [
+        "https://pleasuredivers.rezdy.com/122362/ssi-enriched-air-nitrox-specialty"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/specialty-courses",
+      "checkNotes": "Only offered for students completing the Advanced Open Water Diver course and travelling on board Adrenalin (another operator's vessel) on Day 2. The Advanced Open Water page itself says the Day 2 vessel is not operated by Pleasure Divers. The page photos are shared across the specialty courses and are not labelled."
+    },
+    {
+      "title": "Private Guided Snorkel Tour",
+      "kind": "snorkel",
+      "summary": "A private, shore-based guided snorkel in Geoffrey Bay. You meet at the shop, are fitted with snorkel gear, and walk a few minutes across the road to the entry point with your own guide. The tour takes about two hours in total, with about 45 minutes in the water, and it is not a boat tour.",
+      "highlights": [
+        "Private tour, minimum two participants",
+        "About 2 hours in total, about 45 minutes in the water",
+        "Snorkel hire included",
+        "Briefing, guide and marine species ID afterwards"
+      ],
+      "duration": "2 hours in total (~45min in water)",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island (walk across the road to the Geoffrey Bay entry point)",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 85,
+          "currency": "AUD",
+          "note": "Minimum two participants. The page says there are discounts for kids; amounts not stated."
+        }
+      ],
+      "priceFrom": 85,
+      "includes": [
+        "Snorkel hire valued at $30pp",
+        "Your personal and private snorkel guide",
+        "Briefing and safety advice tailored to you",
+        "Post snorkel debriefing and marine species ID"
+      ],
+      "bring": [],
+      "requirements": "Must be able to swim 50-100m.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/e6a1e2d8-cc65-4f16-9a7d-1fdd48f2cde1/Pleasure+Divers+Geoffrey+Bay+Magnetic+Island.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/49c7d086-5b7f-4633-ab09-4f36b5b94572/IMG_0007.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/9f54b067-fc9b-4ede-90d9-e24adb9e10fa/IMG_3390.jpg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/7c8015f6-ed2f-42bd-a1c9-e07027ec92af/Hiring+snorkel+gear.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.pleasuredivers.com.au/guided-snorkel-tours"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/guided-snorkel-tours",
+      "checkNotes": "The page says 'available by request, please email us' but also embeds a Rezdy calendar widget; the page URL is recorded as the booking link. Start times not stated. Kids discount amount not stated."
+    },
+    {
+      "title": "Try Scuba",
+      "kind": "dive",
+      "summary": "A shallow pool session for children aged 8 to 12 who want a first taste of scuba. With a friendly instructor they try breathing underwater and play games in a training pool, with no ocean or deep water involved. It runs for 1.5 hours, by request.",
+      "highlights": [
+        "Ages 8 to 12",
+        "Shallow training pool, no ocean",
+        "Fun, supervised first experience",
+        "Full gear hire included"
+      ],
+      "duration": "1.5 hours",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island",
+      "prices": [
+        {
+          "label": "Per child (incl GST)",
+          "amount": 95,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 95,
+      "includes": [
+        "Full gear hire",
+        "Pool training",
+        "Fun, supervised experience"
+      ],
+      "bring": [],
+      "requirements": "Ages 8 to 12.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/3a9af3f7-71c9-4d65-babc-00f0164bccb8/Pool+training+with+children.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/5a70d4ab-0d12-4e4e-9a58-0cb1a7e973ca/Child+learns+to+dive.jpeg"
+      ],
+      "bookingLinks": [
+        "https://pleasuredivers.rezdy.com/731951/try-scuba"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/kids-scuba",
+      "checkNotes": "By request, pending availability; dates are on the booking system, which was not opened. Prerequisites other than age are not stated."
+    },
+    {
+      "title": "SSI Explorer Program",
+      "kind": "course",
+      "summary": "A weekly pool-based scuba club for children aged 8 to 12, run over six weeks. It builds simple scuba skills week by week through missions guided by the programme's characters. It suits young locals and long-term visitors.",
+      "highlights": [
+        "Ages 8 to 12",
+        "6 weekly sessions of 1.5 hours",
+        "Thursdays, 3:00pm to 4:30pm",
+        "Includes the SSI Explorers manual and sticker book"
+      ],
+      "duration": "1.5 hours per week (over 6 weeks)",
+      "durationMinutes": null,
+      "departureTimes": [
+        "15:00"
+      ],
+      "season": null,
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island",
+      "prices": [
+        {
+          "label": "Per child (incl GST)",
+          "amount": 475,
+          "currency": "AUD",
+          "note": "For the 6 week programme"
+        }
+      ],
+      "priceFrom": 475,
+      "includes": [
+        "Full gear hire",
+        "Pool training",
+        "SSI Explorers manual and sticker book"
+      ],
+      "bring": [],
+      "requirements": "Ages 8 to 12.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/3a9af3f7-71c9-4d65-babc-00f0164bccb8/Pool+training+with+children.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/5a70d4ab-0d12-4e4e-9a58-0cb1a7e973ca/Child+learns+to+dive.jpeg"
+      ],
+      "bookingLinks": [
+        "https://pleasuredivers.rezdy.com/731956/explorers-program"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/kids-scuba",
+      "checkNotes": "Start dates are on the booking system, which was not opened. Prerequisites other than age are not stated."
+    },
+    {
+      "title": "SSI Scuba Diver Course",
+      "kind": "course",
+      "summary": "A shortened version of the Open Water course for the youngest divers, with half a day of pool training and two ocean shore dives. It certifies children to dive to 12 metres under instructor supervision. A certified parent can join as a participant.",
+      "highlights": [
+        "Ages 10 and 11 (listed as 10+)",
+        "Half day pool training and 2 ocean shore dives",
+        "Dive to 12m under instructor supervision",
+        "Minimum 2 participants"
+      ],
+      "duration": "1.5 days (plus some at-home study)",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island",
+      "prices": [
+        {
+          "label": "Per person (incl GST)",
+          "amount": 399,
+          "currency": "AUD",
+          "note": "Minimum 2 participants. A certified diver parent can enrol as a participant."
+        }
+      ],
+      "priceFrom": 399,
+      "includes": [
+        "Digital e-learning materials from SSI",
+        "Pool training",
+        "2 ocean training dives, shore based",
+        "Full gear hire for 2 days",
+        "EMC"
+      ],
+      "bring": [],
+      "requirements": "Ages 10-11 (the details table says 10+). Medical questionnaire. 10 minute float test. 200m swim without stopping to rest.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/3a9af3f7-71c9-4d65-babc-00f0164bccb8/Pool+training+with+children.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/5a70d4ab-0d12-4e4e-9a58-0cb1a7e973ca/Child+learns+to+dive.jpeg"
+      ],
+      "bookingLinks": [
+        "https://pleasuredivers.rezdy.com/715275/ssi-scuba-diver-course"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/kids-scuba",
+      "checkNotes": "By request: the page asks you to email the office with a desired date range. The section heading says ages 10-11 but the details table says 10+; the heading was used and both are recorded. Children between 12 and 14 can later upgrade to the Open Water licence (18m) by completing the remaining pool sessions, 2 more ocean dives and the full exam."
+    },
+    {
+      "title": "Junior Open Water Diver",
+      "kind": "course",
+      "summary": "A full SSI Open Water certification for young divers, with kid-friendly instruction and a slower pace in a kids-only class. It runs over three days plus some at-home study, in school holidays. Divers qualify to 12 or 18 metres depending on age, and the licence converts to an adult Open Water licence at 15.",
+      "highlights": [
+        "Ages 12 and over",
+        "Kids-only class with a slower pace",
+        "Pool training and 4 ocean shore dives",
+        "Converts to an adult Open Water licence at age 15"
+      ],
+      "duration": "3 days (plus some at-home study)",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Every school holidays",
+      "departsFrom": "Pleasure Divers, 10 Marine Parade, Arcadia, Magnetic Island",
+      "prices": [
+        {
+          "label": "Per person (incl GST)",
+          "amount": 499,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 499,
+      "includes": [
+        "Digital e-learning materials from SSI",
+        "Pool training",
+        "4 ocean shore dives",
+        "Specialised kids-only class with kid friendly instruction",
+        "EMC"
+      ],
+      "bring": [],
+      "requirements": "Ages 12+. Qualified to dive up to 12m or 18m (depending on age) with a buddy of equal training.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/3a9af3f7-71c9-4d65-babc-00f0164bccb8/Pool+training+with+children.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/67e0eb6841371a5780ebedb4/5a70d4ab-0d12-4e4e-9a58-0cb1a7e973ca/Child+learns+to+dive.jpeg"
+      ],
+      "bookingLinks": [
+        "https://pleasuredivers.rezdy.com/697245/junior-open-water-class"
+      ],
+      "sourceUrl": "https://www.pleasuredivers.com.au/kids-scuba",
+      "checkNotes": "Age conflict: this page says ages 12+, while the Open Water Diver page says SSI permits children as young as 10 to enrol and that courses for ages 10 to 13 run every school holidays. Duration conflict: 3 days here, and the Open Water page says its regular course is 2 days. Medical: the page links to booking a dive medical."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers",
+      "conditions": "Non-refundable and cannot be redeemed for cash. Expire 12 months from the date of purchase. Can be transferred to another person and used for any goods or services at Pleasure Divers; if a price has changed you pay the difference.",
+      "validUntil": null,
+      "sourceUrl": "https://www.pleasuredivers.com.au/terms-and-conditions"
+    },
+    {
+      "text": "Private Experience for mixed groups of certified and introductory divers: $800 for up to 4 family members",
+      "conditions": "Arranged on request. Lets certified divers join introductory divers in a private group, without strangers.",
+      "validUntil": null,
+      "sourceUrl": "https://www.pleasuredivers.com.au/introductory-dives"
+    },
+    {
+      "text": "Combo deals when booking more than one specialty course",
+      "conditions": "Amounts not stated; ask the shop.",
+      "validUntil": null,
+      "sourceUrl": "https://www.pleasuredivers.com.au/specialty-courses"
+    }
+  ],
+  "checkNotes": "Booking: the site-wide Book Now button goes to a Rezdy catalog, https://pleasuredivers.rezdy.com/catalog/101955/ssi-dive-courses (not opened). It is not a per-trip link and is not recorded on any trip. Per-trip Rezdy links appear on the Kids Scuba, Night Diving, Introductory Dives and Specialty Courses pages. The Open Water, Advanced, Refresher, Rescue, Certified Guided Shore Dive and Private Guided Snorkel Tour pages embed a Rezdy calendar widget instead, so those trips carry the page URL as their booking link. Not bookable online or enquiry only: Divemaster Internship, Introductory Dive pool session, scuba gear rental. Left out of trips: Science of Diving specialty ($249, a dry classroom course with no dives; Rezdy link https://pleasuredivers.rezdy.com/122046/ssi-science-of-diving); scuba gear rental and Night Dive Gear Rental (hire, enquiry only); snorkel hire (hire, no booking needed; the self-guided snorkel trails at Nelly Bay and Geoffrey Bay, and $7 snorkel trail swim cards sold at the shop). Run by other operators, not Pleasure Divers: the Yongala and Museum of Underwater Art (MOUA) day trips described on the Yongala and MOUA page (Yongala Dive departing Alva Beach, Ayr, $320; Adrenalin Dive and Snorkel, $460; SeaLink MOUA snorkel, $325). The site says it can help book these and can privately guide divers aboard the Yongala vessel; no price is given for that. Hours: Tuesday to Sunday 8:30am to 4:30pm, closed Mondays. All diving is from the shore. Gift vouchers are covered in the Terms and Conditions (expire 12 months from purchase) but no page or link for buying them was found. Photo-credit check: the site shows an award badge (Best of Queensland Experience 2024), SSI Dive Center, Green Fins and Submerged Nation badges; these were not recorded as photos, and only the Green Fins membership is repeated in standouts because the About page says so in text. The site is served at www.pleasuredivers.com.au; pleasuredivers.com.au redirects to it. Phone is shown as (07) 4778 5788. All prices are shown as including GST. The site says the Environmental Management Charge for the Great Barrier Reef Marine Park Authority is included in its prices. Left off the page as pool-only, not on the sea: Introductory Dive, Pool Session Only."
+}

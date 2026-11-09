@@ -1,0 +1,177 @@
+{
+  "slug": "gold-coast-dive-adventures",
+  "logo": "https://goldcoastdiveadventures.com.au/wp-content/uploads/2018/05/logo-120-gold-coast-dive-adventures-dive-sites.png",
+  "heroImage": "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/edit-photo-16-06-2022-09-06-26-scaled.jpg",
+  "gallery": [
+    "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/edit-photo-16-06-2022-08-41-10-scaled.jpg",
+    "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/photo-10-8-21-4-07-26-pm-scaled.jpg",
+    "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/updated--scaled.jpg",
+    "https://goldcoastdiveadventures.com.au/wp-content/uploads/2023/02/b1e66438-04ca-470a-b417-51c52e3d73fd-scaled.jpeg",
+    "https://goldcoastdiveadventures.com.au/wp-content/uploads/2023/02/345c51ed-1342-4175-86c3-cf45d39f3778-scaled.jpeg",
+    "https://goldcoastdiveadventures.com.au/wp-content/uploads/2020/12/img_5347.jpeg",
+    "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/08/img_8938.jpg",
+    "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/photo-26-1-19-10-53-33-am.jpg",
+    "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/03/gcda-palm-beach-reef-gold-coast-002.jpg",
+    "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/04/img_7899-color-correction.jpg",
+    "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/08/photo-18-8-19-6-51-13-pm.jpg",
+    "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/04/img_7535.jpg",
+    "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/08/img_8702.jpg",
+    "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/06/img_7231.jpg",
+    "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/04/img_7517.jpg",
+    "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/img_5510.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=6MFuGaLkG3w",
+      "title": "The reef and wreck dive trip",
+      "sourceUrl": "https://www.youtube.com/channel/UCMjJLfhF9ztyqngD6QzHNQQ"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jWW_yZOHO7U",
+      "title": "Gold Coast Dive Adventures, an immense thrill",
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/dive-trips/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-VqD1u-pNAI",
+      "title": "Scuba diving the Scottish Prince wreck",
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/scuba-diving-sites-and-reefs-gold-coast-australia-2/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=sawgDMXpKYI",
+      "title": "Learn to dive with Gold Coast Dive Adventures",
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/courses/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7kqVITpJDNI",
+      "title": "North Stradbroke Island scuba diving",
+      "sourceUrl": "https://www.youtube.com/channel/UCMjJLfhF9ztyqngD6QzHNQQ"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nmaWxXUB4BA",
+      "title": "North Stradbroke Island, Flat Rock and Shag Rock",
+      "sourceUrl": "https://www.youtube.com/channel/UCMjJLfhF9ztyqngD6QzHNQQ"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Gold Coast Reef + Wreck Dive Trip",
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/photo-26-1-19-10-53-33-am.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/photo-1-2-19-2-44-15-pm.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/photo-1-2-19-2-43-28-pm.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/img_5510.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/08/img_8938.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/03/photo-24-3-19-11-08-31-am.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/08/img_8940.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/03/gcda-palm-beach-reef-gold-coast-002.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/03/gcda-palm-beach-reef-gold-coast-003.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/03/photo-10-3-19-5-25-39-am.jpg"
+      ]
+    },
+    {
+      "title": "North Stradbroke Island Triple Dive Trip",
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/04/img_7899-color-correction.jpg"
+      ]
+    },
+    {
+      "title": "Cook Island Marine Reserve Dive Trip",
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/52744618_651844425245670_5309281976807587840_n.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/52809926_293127118019044_1626964260611424256_n.jpg"
+      ]
+    },
+    {
+      "title": "Advanced Nine Mile Reef Triple Dive Trip",
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/04/img_7899-color-correction.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/52597917_382756309204405_6363246820734271488_n.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/52835941_780606598981904_442354719222923264_n.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/52597924_769078986810070_6347518379913379840_n.jpg"
+      ]
+    },
+    {
+      "title": "Wonder Reef & Wreck of The Scottish Prince Double Dive Trip",
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2023/02/345c51ed-1342-4175-86c3-cf45d39f3778-scaled.jpeg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/edit-photo-16-06-2022-09-06-26-scaled.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/website.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2022/06/wonder-reef-900x600-1.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2022/06/wonder-reef-image-1-1000-1.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2022/06/wonder-reef-photo-1000.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2022/06/wonder-reef-photo-2-1000.jpg"
+      ]
+    },
+    {
+      "title": "Flinders Reef Day Trip",
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2020/12/img_2780-e1606786193377.jpeg"
+      ]
+    },
+    {
+      "title": "HMAS Brisbane Day Trip",
+      "images": []
+    },
+    {
+      "title": "Julian Rocks Day Trips",
+      "images": []
+    },
+    {
+      "title": "North Solitary Islands Weekend Trip",
+      "images": []
+    },
+    {
+      "title": "South West Rocks Weekend Trip",
+      "images": []
+    },
+    {
+      "title": "Tufi, Papua New Guinea Diving Expedition",
+      "images": []
+    },
+    {
+      "title": "Learn to Scuba Dive",
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/edit-photo-16-06-2022-08-41-10-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Scuba Refresher Program",
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/edit-photo-16-06-2022-08-41-10-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Advanced Open Water Diver",
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/edit-photo-16-06-2022-08-41-10-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Rescue Diver Course",
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/edit-photo-16-06-2022-08-41-10-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Divemaster",
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/edit-photo-16-06-2022-08-41-10-scaled.jpg"
+      ]
+    },
+    {
+      "title": "PADI Speciality Courses",
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/edit-photo-16-06-2022-08-41-10-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Premier Introductory Scuba Dive Experience",
+      "images": []
+    },
+    {
+      "title": "Introductory Scuba Dive Tour Wave Break Island",
+      "images": []
+    }
+  ],
+  "notes": "No bot check, captcha or block was met on the site. Pages were read from the operator's own site, and image sizes and file titles from the site's public media list (WordPress REST media endpoint); no image was downloaded and no Rezdy, Facebook or Instagram page was opened. Logo: the header uses a white-on-transparent file (logo-80-wht, 120 by 76), which would be hard to see on a light page; the largest non-white version in the media library, logo-120 (190 by 120), is recorded instead, so please check it shows the operator's logo on a light background. Hero and gallery were chosen by file name, size and where they sit on the site (page header images and the dive site, boat and about pages) and were not viewed, so a person should confirm each is a real photo with no text or logos. Left out: stock photos (file names starting bigstock or dollarphotoclub, including the Cook Island aerial and the Grey Nurse Shark and turtle photos on the home and Beyond pages); the numbered header images named like 28-gold-coast-dive-adventures-dive-sites-gold-coast.jpg, which sit among stock files and whose source could not be confirmed; the three Gold Coast Dive Attraction shoot photos on the reef and wreck page, which may belong to that attraction; a navy ship photo (hmas_darwin) on the HMAS Brisbane tab; the Fish Rock Cave photo on the South West Rocks tab, which may belong to that dive centre; flyers made from PDFs for the Tufi and Palau trips; the Sea Shepherd logo, PADI logo and Facebook badges; and retail product photos. Several kept photos have social media style file names (a string of digits ending _n.jpg, on the Cook Island and Nine Mile Reef trips); they come from the Dive Sites page rather than the trip pages, and the operator should confirm they are its own. The Cook Island, HMAS Brisbane, Julian Rocks, North Solitary Islands, South West Rocks, Tufi, introductory dive and courses trips have no usable trip photos, or only a page header image for the courses. Videos are from the YouTube channel the site links to (youtube.com/channel/UCMjJLfhF9ztyqngD6QzHNQQ, read through its public feed for titles), and three of them (jWW_yZOHO7U, -VqD1u-pNAI, sawgDMXpKYI) are also embedded on the operator's own pages. Other YouTube embeds on the site (on the Dive Sites and About pages) were not matched to the channel and the Sea Shepherd page embeds were assumed to belong to that organisation, so none of those are recorded."
+}

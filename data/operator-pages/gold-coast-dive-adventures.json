@@ -1,0 +1,1025 @@
+{
+  "slug": "gold-coast-dive-adventures",
+  "name": "Gold Coast Dive Adventures",
+  "website": "https://goldcoastdiveadventures.com.au",
+  "rezdyAlias": "thescubacoach",
+  "state": "QLD",
+  "town": "Runaway Bay",
+  "category": "Offshore dive charters",
+  "summary": "A PADI Dive Centre running small-group offshore boat dives for certified divers from Runaway Bay Marina on the Gold Coast. Trips visit local reefs and wrecks, Wonder Reef, Cook Island Marine Reserve, Nine Mile Reef and North Stradbroke Island, with an in-water dive guide. The team also teaches PADI courses from Open Water to Divemaster and runs occasional day and weekend trips further afield.",
+  "standouts": [
+    "PADI Dive Centre",
+    "Official Sea Shepherd Dive Partner",
+    "Small groups of up to 5 divers per in-water dive guide",
+    "Two dive vessels in full commercial survey"
+  ],
+  "contact": {
+    "phone": "+61 404 286 599",
+    "email": "info@goldcoastdiveadventures.com.au",
+    "address": "247 Bayview St, Runaway Bay, Qld 4216, Gold Coast"
+  },
+  "heroImage": "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/edit-photo-16-06-2022-09-06-26-scaled.jpg",
+  "sourceUrls": [
+    "https://goldcoastdiveadventures.com.au/",
+    "https://goldcoastdiveadventures.com.au/dive-trips/",
+    "https://goldcoastdiveadventures.com.au/the-reef-wreck-dive-trip-2/",
+    "https://goldcoastdiveadventures.com.au/nine-mile-reef-dive-trip-2/",
+    "https://goldcoastdiveadventures.com.au/dive-trips/cook-island-marine-reserve-dive-trips-gold-coast/",
+    "https://goldcoastdiveadventures.com.au/nine-mile-reef-dive-trip/",
+    "https://goldcoastdiveadventures.com.au/wonder-reef-dive-trip/",
+    "https://goldcoastdiveadventures.com.au/weekends-away-diving-day-trips/",
+    "https://goldcoastdiveadventures.com.au/weekends-away-diving-day-trips-2/",
+    "https://goldcoastdiveadventures.com.au/courses/",
+    "https://goldcoastdiveadventures.com.au/premium-introductory-scuba-dive-gold-coast-australia-snorkelling-tours-gold-coast-2/",
+    "https://goldcoastdiveadventures.com.au/introductory-scuba-dive-gold-coast-australia-snorkelling-tours-gold-coast-australia/",
+    "https://goldcoastdiveadventures.com.au/frequently-asked-questions-faq-scuba-diving-gold-coast/",
+    "https://goldcoastdiveadventures.com.au/contact-dive-centre-gold-coast-australia-2/",
+    "https://goldcoastdiveadventures.com.au/scuba-diving-snorkelling-and-training-trips-gold-coast-australia-2/",
+    "https://goldcoastdiveadventures.com.au/sea-shepherd-dive-partner/",
+    "https://goldcoastdiveadventures.com.au/dive-club-gold-coast-australia/",
+    "https://goldcoastdiveadventures.com.au/scuba-diving-sites-and-reefs-gold-coast-australia-2/",
+    "https://goldcoastdiveadventures.com.au/our-dive-boats-gold-coast-boat-diving/",
+    "https://goldcoastdiveadventures.com.au/wp-json/wp/v2/media",
+    "https://www.youtube.com/channel/UCMjJLfhF9ztyqngD6QzHNQQ"
+  ],
+  "trips": [
+    {
+      "title": "Gold Coast Reef + Wreck Dive Trip",
+      "kind": "dive",
+      "summary": "A double dive from Runaway Bay Marina to the local reefs and wrecks, such as Palm Beach Reef and the historic wreck of the Scottish Prince. The sites are chosen on the day from the conditions and the experience of the divers on board. Groups are small, with five divers maximum per group and an in-water dive guide.",
+      "highlights": [
+        "Small groups, 5 divers maximum per group",
+        "In-water dive guides provided",
+        "Sites within 15 to 25 minutes by boat; no wreck certification needed",
+        "Snacks, hot soup and tea provided between dives"
+      ],
+      "duration": "3-5 Hours (approx.)",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Runaway Bay Marina, Runaway Bay, Qld",
+      "prices": [
+        {
+          "label": "Double dive (2 tanks), dive with your own gear",
+          "amount": 215,
+          "currency": "AUD",
+          "note": "Per person. Marked with an asterisk on the page"
+        },
+        {
+          "label": "Double dive (2 tanks), with tanks and weights",
+          "amount": 235,
+          "currency": "AUD",
+          "note": "Per person"
+        },
+        {
+          "label": "Full gear hire deal (flat fee)",
+          "amount": 60,
+          "currency": "AUD",
+          "note": "Per person. Marked with an asterisk on the page"
+        },
+        {
+          "label": "Double dive (2 tanks), with full gear hire",
+          "amount": 275,
+          "currency": "AUD",
+          "note": "Per person. Marked with an asterisk on the page"
+        },
+        {
+          "label": "Hotel transfer",
+          "amount": 40,
+          "currency": "AUD",
+          "note": "Per group and address; morning dives only"
+        }
+      ],
+      "priceFrom": 215,
+      "includes": [
+        "Two boat dives",
+        "In-water dive guide",
+        "Snacks, hot soup and tea between dives",
+        "Courtesy spray jackets to keep you warm on the boat"
+      ],
+      "bring": [
+        "Diving certification card, shown on the day",
+        "Dive computer, snorkel and safety sausage (SMB) if diving with your own equipment"
+      ],
+      "requirements": "Certified divers only. Open Water Diver or higher with any agency. Recent dive experience within 12 months if you have less than 25 logged dives, or within 24 months if you have logged more than 25 dives; refresher dives are available for an extra fee on the day. Present your diving certification card on the day and complete the online dive waiver. If diving with your own equipment, a dive computer, a snorkel and a safety sausage (SMB) are required. No wreck certification needed.",
+      "offer": null,
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/photo-26-1-19-10-53-33-am.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/photo-1-2-19-2-44-15-pm.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/photo-1-2-19-2-43-28-pm.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/img_5510.jpg"
+      ],
+      "bookingLinks": [
+        "https://thescubacoach.rezdy.com/197572/gold-coast-local-reefs-wrecks"
+      ],
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/the-reef-wreck-dive-trip-2/",
+      "checkNotes": "Prices from the trip page. Three prices carry an asterisk but no footnote is shown. The FAQ page lists much lower, older prices for double dives ($135 with your own gear); used the trip page. Times on the site are meeting times, not departure times, and the live calendar (Rezdy) was not opened, so departureTimes is empty. The FAQ gives example morning returns of about 11:30am and afternoon returns of about 4:30pm, and says hotel pick-ups cover the Surfers Paradise area on morning dives only. The page says dives are weather dependent and some summer trips are rescheduled. Requirements text on the page reads 'Open Water Diver or higher with any agency with', which looks cut off."
+    },
+    {
+      "title": "North Stradbroke Island Triple Dive Trip",
+      "kind": "dive",
+      "summary": "A three-dive day from Runaway Bay Marina to the dive sites around Point Lookout on North Stradbroke Island. Flat Rock is known for grey nurse sharks in the cooler months and Manta Bommie for its manta ray cleaning station in the warmer months. The trip out takes between 1 hour and 1 hour 45 minutes, depending on the route.",
+      "highlights": [
+        "Grey nurse sharks June to October, manta rays October to April",
+        "In-water dive guide",
+        "Small groups of no more than 5 divers in each group",
+        "Lunch, snacks and refreshments provided"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Runaway Bay Marina, Runaway Bay, Qld",
+      "prices": [
+        {
+          "label": "Triple dive with tanks and weights",
+          "amount": 355,
+          "currency": "AUD",
+          "note": "Per person. Base price includes 3 tanks, weights, surface interval snacks and lunch"
+        },
+        {
+          "label": "Hire gear, per item",
+          "amount": 10,
+          "currency": "AUD",
+          "note": "$10 to $20 per item; select on the checkout page"
+        },
+        {
+          "label": "Hotel transfer",
+          "amount": 40,
+          "currency": "AUD",
+          "note": "Per group, return"
+        }
+      ],
+      "priceFrom": 355,
+      "includes": [
+        "Three boat dives with 3 tanks and weights",
+        "Lunch and surface interval snacks",
+        "Hot drinks between dives",
+        "In-water dive guide"
+      ],
+      "bring": [],
+      "requirements": "PADI Open Water Certification or equivalent from any training organisation for the usual trips. The dives can be challenging at times because of current, so comfort in rough surface conditions and current is important.",
+      "offer": null,
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/04/img_7899-color-correction.jpg"
+      ],
+      "bookingLinks": [
+        "https://thescubacoach.rezdy.com/catalog/338529/southern-gold-coast-dives",
+        "https://goldcoastdiveadventures.com.au/nine-mile-reef-dive-trip-2/"
+      ],
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/nine-mile-reef-dive-trip-2/",
+      "checkNotes": "The 'Book Now' button goes to a Rezdy catalog (southern-gold-coast-dives), not to one trip, and the page also embeds a live calendar for a single Rezdy product (457041) without showing its link; both the catalog link and this page's URL are recorded. The URL ends in 'nine-mile-reef-dive-trip-2' but the page is the North Stradbroke Island trip. No duration in hours is given; the trip-out time is 1 hour to 1 hour 45 minutes each way. Seasons on the page are wildlife seasons (manta rays October to April, grey nurse sharks June to October), not a trip season, so season is null. Sites are confirmed on the day because of weather. Only one photo of the operator's own is on the page."
+    },
+    {
+      "title": "Cook Island Marine Reserve Dive Trip",
+      "kind": "dive",
+      "summary": "A double dive from Runaway Bay Marina to the dive sites around Cook Island Marine Reserve, off Fingal Heads, which is known for its turtles. The boat trip to the island takes about 45 minutes, depending on conditions. Groups are limited to five divers with an in-water dive guide.",
+      "highlights": [
+        "Known for its turtle population",
+        "Small groups, 5 divers maximum per group",
+        "In-water dive guides provided",
+        "Wetsuits provided"
+      ],
+      "duration": "5-6 Hours (approx.)",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Runaway Bay Marina, Runaway Bay, Qld",
+      "prices": [
+        {
+          "label": "Double dive (2 tanks), dive with your own gear",
+          "amount": 245,
+          "currency": "AUD",
+          "note": "Per person. Marked with an asterisk on the page"
+        },
+        {
+          "label": "Double dive (2 tanks), with tanks and weights",
+          "amount": 265,
+          "currency": "AUD",
+          "note": "Per person. Marked with an asterisk on the page"
+        },
+        {
+          "label": "Gear hire deal (flat fee)",
+          "amount": 60,
+          "currency": "AUD",
+          "note": "Per person. Marked with an asterisk on the page"
+        },
+        {
+          "label": "Individual dive gear hire, per item",
+          "amount": 10,
+          "currency": "AUD",
+          "note": "$10 to $20 per item"
+        },
+        {
+          "label": "Hotel transfer",
+          "amount": 40,
+          "currency": "AUD",
+          "note": "Per group and address; morning dives only"
+        }
+      ],
+      "priceFrom": 245,
+      "includes": [
+        "Two boat dives",
+        "In-water dive guide",
+        "Wetsuits",
+        "Snacks, hot soup and tea between dives",
+        "Courtesy spray jackets to keep you warm on the boat"
+      ],
+      "bring": [
+        "Diving certification card, shown on the day",
+        "Dive computer, snorkel and safety sausage (SMB) if diving with your own equipment"
+      ],
+      "requirements": "Certified divers only. Open Water Diver or higher with any agency. Recent dive experience within 12 months if you have less than 25 logged dives, or within 24 months if you have logged more than 25 dives; refresher dives are available for an extra fee on the day. Present your diving certification card on the day and complete the online dive waiver. If diving with your own equipment, a dive computer, a snorkel and a safety sausage (SMB) are required.",
+      "offer": null,
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/52744618_651844425245670_5309281976807587840_n.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/52809926_293127118019044_1626964260611424256_n.jpg"
+      ],
+      "bookingLinks": [
+        "https://thescubacoach.rezdy.com/455966/cook-island-marine-reserve-double-dive-trip"
+      ],
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/dive-trips/cook-island-marine-reserve-dive-trips-gold-coast/",
+      "checkNotes": "The trip page has only a stock photo (bigstock), which was left out; the two images listed are the Cook Island photos on the Dive Sites page, whose file names look like they came from social media, so please confirm they are the operator's own. The trip list says a 50 minute voyage, the trip page and home page say 45 minutes; used the trip page. The FAQ mentions a surcharge for Cook Island trips on its older price list; the trip page shows $245 and $265. Three prices carry an asterisk with no footnote shown. Times are meeting times and the live calendar (Rezdy) was not opened."
+    },
+    {
+      "title": "Advanced Nine Mile Reef Triple Dive Trip",
+      "kind": "dive",
+      "summary": "An advanced drift dive trip to Nine Mile Reef, off Tweed Heads, a grey nurse shark site in the winter months. After the first dive the boat shelters at Cook Island for the surface interval, and a later dive may be a wreck such as the Scottish Prince on the way home. Currents can be strong, so divers need to stay calm and control their buoyancy.",
+      "highlights": [
+        "Grey nurse shark site in the winter months",
+        "Advanced drift dive",
+        "In-water dive guide",
+        "Lunch and surface interval snacks included"
+      ],
+      "duration": "Approximately 8-9 hours for a triple dive trip, or 5-6 hours for a double dive trip",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "June to November",
+      "departsFrom": "Dive shop at Runaway Bay Marina",
+      "prices": [
+        {
+          "label": "Triple dive with tanks and weights",
+          "amount": 355,
+          "currency": "AUD",
+          "note": "Per person. Base price includes 3 tanks, weights, lunch and surface interval snacks"
+        },
+        {
+          "label": "Hire gear, per item",
+          "amount": 10,
+          "currency": "AUD",
+          "note": "$10 to $20 per item; select on the checkout page"
+        },
+        {
+          "label": "Hotel transfer",
+          "amount": 40,
+          "currency": "AUD",
+          "note": "Per group, return"
+        }
+      ],
+      "priceFrom": 355,
+      "includes": [
+        "Three boat dives with 3 tanks and weights",
+        "Lunch and surface interval snacks",
+        "Hot drinks between dives",
+        "In-water dive guide"
+      ],
+      "bring": [],
+      "requirements": "Advanced Certified (30m) with recent diving experience within the last 12 months and a minimum of 30 logged dives. Divers need to stay calm and control their buoyancy in current.",
+      "offer": null,
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/04/img_7899-color-correction.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/52597917_382756309204405_6363246820734271488_n.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/52835941_780606598981904_442354719222923264_n.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2019/02/52597924_769078986810070_6347518379913379840_n.jpg"
+      ],
+      "bookingLinks": [
+        "https://thescubacoach.rezdy.com/catalog/314950/shark-diving",
+        "https://goldcoastdiveadventures.com.au/nine-mile-reef-dive-trip/"
+      ],
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/nine-mile-reef-dive-trip/",
+      "checkNotes": "The 'Book Now' button goes to a Rezdy catalog (shark-diving), not to one trip, and the page also embeds a live calendar for a single Rezdy product (390265) without showing its link; both are recorded. The page says the dive is offered as a two or three-dive trip, but only the triple dive price is shown, so no double dive price is recorded. 'June to November' comes from a banner on the page and may be the shark season rather than the trip season. If Nine Mile Reef conditions do not allow, a backup site is used with no refund or discount (page says so). The photos beyond the first are Nine Mile Reef photos from the Dive Sites page, not the trip page, and their file names look like they came from social media; please confirm they are the operator's own. Times are meeting times and the live calendar (Rezdy) was not opened."
+    },
+    {
+      "title": "Wonder Reef & Wreck of The Scottish Prince Double Dive Trip",
+      "kind": "dive",
+      "summary": "A double dive on Wonder Reef, an artist-designed buoyant reef made of nine reef spirals, about 2.5 kilometres offshore from Philip Park on The Spit. The reef varies in depth from 8 to 30 metres, which suits a range of diver levels, and it was designed by Australian artist Daniel Templeton. The trip is also listed with the wreck of the Scottish Prince.",
+      "highlights": [
+        "Nine buoyant reef spirals anchored to the seafloor",
+        "Depth varies from 8 to 30 metres",
+        "Suits a range of diver levels",
+        "About a 10 minute boat ride from the Gold Coast Seaway"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Runaway Bay Marina, Runaway Bay, Qld",
+      "prices": [
+        {
+          "label": "From, per person",
+          "amount": 215,
+          "currency": "AUD",
+          "note": "Starting price shown on the trip page and the trip list; the full price list is not on the page"
+        }
+      ],
+      "priceFrom": 215,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2023/02/345c51ed-1342-4175-86c3-cf45d39f3778-scaled.jpeg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/edit-photo-16-06-2022-09-06-26-scaled.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/website.jpg",
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2022/06/wonder-reef-900x600-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://thescubacoach.rezdy.com/500958/wonders-of-the-gold-coast-double-dive-wonder-reef"
+      ],
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/wonder-reef-dive-trip/",
+      "checkNotes": "The page shows only 'From $215' (and the trip list says 'From $215.00 pp'); no price table, inclusions or certification requirement are on the page, so those are empty. The trip list calls it a double dive trip with the wreck of the Scottish Prince, while the trip page describes Wonder Reef only; the Rezdy product is named 'Wonders of the Gold Coast Double Dive Wonder Reef'. Departure point is not stated on the page; the Contact page says all certified dive trips depart from Runaway Bay Marina. The page's second 'Book Now' goes to a Rezdy catalog (southern-gold-coast-dives) and was not recorded. The Dive Sites page still describes the floating reef (Gold Coast Dive Attraction) as under construction in older text, while this trip page sells trips to Wonder Reef, so check that it is running."
+    },
+    {
+      "title": "Flinders Reef Day Trip",
+      "kind": "dive",
+      "summary": "A double dive day trip to Flinders Reef in Moreton Bay Marine Park, about 5 kilometres north-east of Cape Moreton. It is a small isolated reef with many coral species and a turtle cleaning station, and visibility is mostly 10 to 30 metres. The boat leaves from East Coast Marina in Manly, and transport from the Gold Coast is available.",
+      "highlights": [
+        "Double dive trip",
+        "Turtle cleaning station in the shallows",
+        "Visibility mostly between 10 and 30 metres",
+        "Transport from the Gold Coast available"
+      ],
+      "duration": "Depart 6:45am, back at the marina at approximately 1:15pm",
+      "durationMinutes": null,
+      "departureTimes": [
+        "06:45"
+      ],
+      "season": null,
+      "departsFrom": "East Coast Marina, Royal Esplanade, Manly",
+      "prices": [
+        {
+          "label": "Double dive trip",
+          "amount": 185,
+          "currency": "AUD",
+          "note": "Per person; the page shows '$185pp' without a label"
+        },
+        {
+          "label": "Full gear hire",
+          "amount": 60,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Individual dive gear hire, per item",
+          "amount": 10,
+          "currency": "AUD",
+          "note": "$10 to $20 per item"
+        },
+        {
+          "label": "Transport from the Gold Coast to Manly",
+          "amount": 40,
+          "currency": "AUD",
+          "note": "Per person"
+        }
+      ],
+      "priceFrom": 185,
+      "includes": [],
+      "bring": [
+        "Dive computer (hire computers available)",
+        "Surface marker buoy (SMB) and whistle",
+        "Boot size and height for the booking form, so gear can be sized"
+      ],
+      "requirements": "PADI Open Water Diver or equivalent. Must use a dive computer (hire computers available) and carry a surface marker buoy (SMB) and whistle.",
+      "offer": null,
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2020/12/img_2780-e1606786193377.jpeg"
+      ],
+      "bookingLinks": [
+        "https://goldcoastdiveadventures.com.au/weekends-away-diving-day-trips/"
+      ],
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/weekends-away-diving-day-trips/",
+      "checkNotes": "Sold through the live calendar embedded on the Adventures Beyond the Gold Coast page (Rezdy, not opened), so that page's URL is the booking link. The page says the operator aims to run three to four trips away each month; it does not say which dates are scheduled now, so confirm the trip is currently running. Meet 5:50am at East Coast Marina, depart 6:45am. The Our Dive Boats page says Flinders Reef trips can depart from Redcliffe or Tweed Heads instead; the trip page says Manly. The only photo on the page is a cropped thumbnail; the full-size original from the site's media library is recorded."
+    },
+    {
+      "title": "HMAS Brisbane Day Trip",
+      "kind": "dive",
+      "summary": "A double dive on the former HMAS Brisbane, sunk off the Sunshine Coast in 2005 and now lying in 28 metres of water. The boat departs from Mooloolaba. Open Water divers can explore the upper decks, and Advanced Open Water divers the whole wreck.",
+      "highlights": [
+        "Double dive trip departing from Mooloolaba",
+        "15 metres of water over the forward decks and 18 metres over the stern",
+        "Nitrox available for $15 extra per tank",
+        "Suits adding on to a PADI Advanced Open Water course"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Mooloolaba",
+      "prices": [
+        {
+          "label": "Dive with tanks and weights included",
+          "amount": 219,
+          "currency": "AUD",
+          "note": "Per person"
+        },
+        {
+          "label": "Dive with nitrox upgrade",
+          "amount": 249,
+          "currency": "AUD",
+          "note": "Per person"
+        },
+        {
+          "label": "Nitrox, extra per tank",
+          "amount": 15,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "PADI Nitrox and Wreck specialties, extra",
+          "amount": 200,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Full gear hire deal (flat fee)",
+          "amount": 60,
+          "currency": "AUD",
+          "note": "Per person"
+        },
+        {
+          "label": "Individual piece of dive equipment hire, per item",
+          "amount": 10,
+          "currency": "AUD",
+          "note": "$10 to $20 per item"
+        },
+        {
+          "label": "Transport from the Gold Coast to HMAS Brisbane",
+          "amount": 50,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 219,
+      "includes": [
+        "Tanks and weights",
+        "Two dives"
+      ],
+      "bring": [
+        "Dive computer, torch and surface marker buoy (can be hired for an additional cost)"
+      ],
+      "requirements": "Open Water Diver can explore the upper decks only; Advanced Open Water Diver is needed to explore the entire wreck. Must have a dive computer, torch and surface marker buoy (can be hired for an additional cost).",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://goldcoastdiveadventures.com.au/weekends-away-diving-day-trips/"
+      ],
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/weekends-away-diving-day-trips/",
+      "checkNotes": "Sold through the live calendar embedded on the Adventures Beyond the Gold Coast page (Rezdy, not opened), so that page's URL is the booking link. The page does not say which dates are scheduled now; confirm it is running. Duration and times are not stated. The page photos are a stock photo and a picture of a different navy ship (HMAS Darwin), both left out."
+    },
+    {
+      "title": "Julian Rocks Day Trips",
+      "kind": "dive",
+      "summary": "Day trips to Julian Rocks, where warm and cool waters meet and the page says more than 1000 marine species live. Manta rays and leopard sharks visit in the summer months and grey nurse sharks in the cooler months, with turtles, rays and nudibranchs through the year. Transport from the Gold Coast to Byron Bay is available.",
+      "highlights": [
+        "Manta rays and leopard sharks in summer",
+        "Grey nurse sharks in the cooler months",
+        "Turtles, rays, eels and nudibranchs year round",
+        "Transport from the Gold Coast to Byron Bay available"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Dive trip price (label unreadable on the page)",
+          "amount": 240,
+          "currency": "AUD",
+          "note": "Shown as '$240pp'; the label before it is corrupted text"
+        },
+        {
+          "label": "Full gear hire deal (flat fee)",
+          "amount": 60,
+          "currency": "AUD",
+          "note": "Per person"
+        },
+        {
+          "label": "Individual piece of dive equipment hire, per item",
+          "amount": 10,
+          "currency": "AUD",
+          "note": "$10 to $20 per item"
+        },
+        {
+          "label": "Transport from the Gold Coast to Byron Bay",
+          "amount": 40,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 240,
+      "includes": [],
+      "bring": [
+        "Dive computer (can be hired for an additional cost)",
+        "Surface marker buoy (can be hired for an additional cost)"
+      ],
+      "requirements": "Be certified as a PADI Open Water Diver. Must carry a dive computer and have a surface marker buoy (both can be hired for an additional cost).",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://goldcoastdiveadventures.com.au/weekends-away-diving-day-trips/"
+      ],
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/weekends-away-diving-day-trips/",
+      "checkNotes": "Sold through the live calendar embedded on the Adventures Beyond the Gold Coast page (Rezdy, not opened), so that page's URL is the booking link. The $240 line is preceded by corrupted characters, so what the price covers (likely the dive trip) must be checked. Departure point, duration and times are not stated; transport is from the Gold Coast to Byron Bay. The page does not say which dates are scheduled now. The photos near this section on the page are labelled Nine Mile Reef or are stock, so none are recorded for this trip."
+    },
+    {
+      "title": "North Solitary Islands Weekend Trip",
+      "kind": "dive",
+      "summary": "A weekend away at Wooli, with two dives on Saturday and two on Sunday at the North Solitary Islands, a short 20 minute boat ride out. The islands have temperate and tropical species, anemone fish at Anemone Bay, turtles, rays and grey nurse sharks. Guests arrive on Friday night, stay in self-contained units and leave on Sunday afternoon.",
+      "highlights": [
+        "Two dives on Saturday and two on Sunday",
+        "Short 20 minute boat ride to the islands",
+        "Self-contained accommodation at Wooli",
+        "Hot soup and cake served between dives"
+      ],
+      "duration": "Weekend, Friday night to Sunday afternoon",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:00"
+      ],
+      "season": null,
+      "departsFrom": "Wooli",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Accommodation in self-contained units (bring your own linen and towels)",
+        "Tanks",
+        "Hot soup and cake between dives",
+        "Dinner on Saturday night (BBQ or buffet)"
+      ],
+      "bring": [
+        "Linen and towels",
+        "A 7mm wetsuit is recommended (19 to 20 degree water)",
+        "Weights are not provided by the charter but can be arranged free of charge if added to the booking"
+      ],
+      "requirements": "Certified as a PADI Open Water Diver or equivalent. Must show certification card on the day, use a dive computer and carry a surface marker buoy (SMB) and whistle.",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://goldcoastdiveadventures.com.au/weekends-away-diving-day-trips/"
+      ],
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/weekends-away-diving-day-trips/",
+      "checkNotes": "No price is on the page (it appears only in the booking calendar, which was not opened), so prices is empty. Sold through the live calendar embedded on the Adventures Beyond the Gold Coast page (Rezdy), so that page's URL is the booking link. The page says a part payment is required at booking and the balance is due 14 days before the trip. The dive vessel (Kraken) and the weight belt hire mention Wooli Dive, which suggests a local partner runs the boat; confirm who operates the trip. The page does not say which dates are scheduled now. Departure on the day is 8:00am after a 7:30am meet."
+    },
+    {
+      "title": "South West Rocks Weekend Trip",
+      "kind": "dive",
+      "summary": "A weekend trip to South West Rocks to dive Fish Rock Cave, described as the only true ocean cave dive in Australia, with a double dive on Saturday and on Sunday morning. It includes two nights of dorm-style accommodation above the dive centre, continental breakfast and free nitrox fills for certified divers. Travel there is on your own or by car pool.",
+      "highlights": [
+        "4 boat dives at Fish Rock Cave",
+        "Two nights of accommodation (dorm style, private room upgrades available)",
+        "Continental breakfast and light snacks between dives",
+        "Free nitrox air fills (must be certified)"
+      ],
+      "duration": "Weekend, Friday afternoon to Sunday afternoon",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "South West Rocks Dive Centre, South West Rocks",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Double dives as booked with tanks and weights",
+        "Free nitrox",
+        "Accommodation for 2 nights including linen (no towels)",
+        "Dive guide",
+        "Snacks, tea and coffee on the boat between dives",
+        "Continental breakfast"
+      ],
+      "bring": [
+        "Dive computer (cannot be shared with your buddy)",
+        "Torch (cave diving)",
+        "Safety sausage (signalling device)"
+      ],
+      "requirements": "Must be certified as an Advanced Open Water Diver. Must have a dive computer that is not shared with your buddy, a torch (cave diving) and a safety sausage (signalling device).",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://goldcoastdiveadventures.com.au/weekends-away-diving-day-trips/"
+      ],
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/weekends-away-diving-day-trips/",
+      "checkNotes": "No price is on the page (it appears only in the booking calendar, which was not opened), so prices is empty. Sold through the live calendar embedded on the Adventures Beyond the Gold Coast page (Rezdy), so that page's URL is the booking link. The page says a deposit is required at booking and describes South West Rocks Dive Centre as a family owned business, so the boat and lodge appear to be run by that centre; confirm who operates the trip. The photo beside this section is a Fish Rock Cave photo that may belong to that centre, so it was left out. The page does not say which dates are scheduled now."
+    },
+    {
+      "title": "Tufi, Papua New Guinea Diving Expedition",
+      "kind": "other",
+      "summary": "A group dive holiday to Tufi in Papua New Guinea from 27 November to 7 December 2026, with the Gold Coast Dive Adventures team joining the trip. Tufi sits at the top of Cape Nelson in Oro Province, with fjord-like rhias, reef and wreck diving and critters near the wharf. Boat rides of 20 to 50 minutes reach the outer reefs.",
+      "highlights": [
+        "27 November to 7 December 2026",
+        "Rhias, reef and wreck diving",
+        "Critter subjects near the wharf",
+        "GCDA team joins the trip"
+      ],
+      "duration": "27 November to 7 December 2026",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "27 November to 7 December 2026",
+      "departsFrom": "Tufi, Oro Province, Papua New Guinea",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://goldcoastdiveadventures.com.au/weekends-away-diving-day-trips-2/"
+      ],
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/weekends-away-diving-day-trips-2/",
+      "checkNotes": "The only dated upcoming trip on the GCDA Travel page; no price, inclusions or requirements are given, so those are empty. Booking is a Rezdy catalog calendar embedded on that page, so the page URL is the booking link. This is a one-off overseas group trip rather than a regular local trip, so a person may prefer to leave it off. The photo for it is a flyer made from a PDF and was left out. Earlier trips on the same page (Maldives liveaboard August 2025, Palau March 2025, Philippines October 2024, Raja Ampat, Komodo, SS Yongala) are past and were not included."
+    },
+    {
+      "title": "Learn to Scuba Dive",
+      "kind": "course",
+      "summary": "A PADI Open Water Diver course in small groups of one to five students, with online eLearning, a pool day and two days of ocean diving from Runaway Bay Marina. The optional Open Water Diver+ adds a fourth day of fun diving on the boat. Both options certify you to dive with a buddy to a maximum depth of 18 metres.",
+      "highlights": [
+        "Groups of one to five students",
+        "PADI eLearning starts as soon as you sign up",
+        "Four open water training dives in the ocean",
+        "Optional extra day of boat diving with the Open Water Diver+"
+      ],
+      "duration": "3 or 4 Days (approx.)",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Runaway Bay Marina (pool day at a nearby swim centre)",
+      "prices": [
+        {
+          "label": "Open Water Diver course",
+          "amount": 845,
+          "currency": "AUD",
+          "note": "From; price shown on the courses page"
+        },
+        {
+          "label": "Private course",
+          "amount": 1800,
+          "currency": "AUD",
+          "note": "From"
+        },
+        {
+          "label": "Open Water Diver+ upgrade (extra day of boat diving)",
+          "amount": 150,
+          "currency": "AUD",
+          "note": "Extra, on top of the course price"
+        }
+      ],
+      "priceFrom": 845,
+      "includes": [
+        "Small group training (1 to 5 students)",
+        "PADI eLearning, diver's logbook and certification card",
+        "Pool and confined water training",
+        "4 open water training dives in the ocean",
+        "All dive equipment for the course"
+      ],
+      "bring": [
+        "Complete the PADI eLearning before the first day of training"
+      ],
+      "requirements": "Minimum 10 years of age. Able to swim. Be of good physical and mental health. No medical is needed unless you are over 45 years of age or answer YES on the medical declaration.",
+      "offer": null,
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/edit-photo-16-06-2022-08-41-10-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://thescubacoach.rezdy.com/157085/padi-open-water-diver-course-gold-coast"
+      ],
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/courses/",
+      "checkNotes": "Prices from the Courses page. The FAQ page lists older, lower prices (standard course $795, three-day course $645); used the Courses page. The Open Water Diver+ adds an optional fourth day, a further two certified fun dives, three months of free gear hire when diving with the operator's boat charters and a discount on equipment purchases; the page gives the upgrade as $150 extra. Start dates are usually Tuesdays and Fridays, with other dates possible; the live calendar (Rezdy) was not opened. The page lists the location as Hollywell; the days at sea start from Runaway Bay Marina. The photo is a page header image on the Courses page."
+    },
+    {
+      "title": "Scuba Refresher Program",
+      "kind": "course",
+      "summary": "A one-day refresher with a private PADI instructor and two boat dives on a reef and wreck trip, designed for divers wanting their confidence back. All dive equipment is included. It suits divers whose last dive was between one and five years ago.",
+      "highlights": [
+        "Private PADI instructor for your dives",
+        "Double boat dive to the reefs and wrecks",
+        "All dive equipment included",
+        "Equipment briefing and theory review before the boat leaves"
+      ],
+      "duration": "1 day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Runaway Bay Marina, Runaway Bay, Qld",
+      "prices": [
+        {
+          "label": "Scuba refresher program",
+          "amount": 335,
+          "currency": "AUD",
+          "note": "From; price shown on the courses page"
+        }
+      ],
+      "priceFrom": 335,
+      "includes": [
+        "Private PADI instructor",
+        "Double boat dive to the reefs and wrecks",
+        "All dive equipment"
+      ],
+      "bring": [],
+      "requirements": "Designed for divers whose last dive was between 1 and 5 years ago; email if you have been out of the water for longer.",
+      "offer": null,
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/edit-photo-16-06-2022-08-41-10-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://thescubacoach.rezdy.com/56224/one-day-scuba-refresher-program"
+      ],
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/courses/",
+      "checkNotes": "Prices from the Courses page. Optional upgrades are PADI ReActivate dive theory online access and a replacement PADI certification card; no prices are shown for them. The page says it runs on any day the double dive reef and wreck trips run, booked early so an instructor is free. The page does not state whether a minimum certification level applies."
+    },
+    {
+      "title": "Advanced Open Water Diver",
+      "kind": "course",
+      "summary": "A PADI Advanced Open Water Diver programme of five adventure dives, including a deep dive to 30 metres, with online learning done first in your own time. It is usually run over two days, generally starting with a Wonder Reef double dive and followed by a triple dive trip to North Stradbroke Island. The operator schedules one to two of these courses a month.",
+      "highlights": [
+        "Five adventure dives including a deep dive to 30 metres",
+        "Online learning done in your own time first",
+        "Day 1 double boat dive, day 2 triple boat dive",
+        "One to two courses scheduled each month"
+      ],
+      "duration": "3 Days (approx.)",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Runaway Bay Marina, Runaway Bay, Qld",
+      "prices": [
+        {
+          "label": "All inclusive course package",
+          "amount": 895,
+          "currency": "AUD",
+          "note": "From; price shown on the courses page"
+        }
+      ],
+      "priceFrom": 895,
+      "includes": [
+        "PADI Online Learning",
+        "5 training dives",
+        "Tanks and weights",
+        "Snacks and hot soup on surface intervals",
+        "PADI Advanced Open Water certification"
+      ],
+      "bring": [],
+      "requirements": "PADI Open Water Diver certification; the page says you can start right after earning it.",
+      "offer": null,
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/edit-photo-16-06-2022-08-41-10-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://thescubacoach.rezdy.com/346640/padi-advanced-open-water-diver-course"
+      ],
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/courses/",
+      "checkNotes": "The page heading says 3 days (approx.) but the text says the course is completed over two days (Day 1 double boat dive 6:30am to 1pm, Day 2 triple boat dive 6:00am to 4:00pm, guide only). Location is listed as Hollywell; dives start from Runaway Bay Marina. Exact prerequisite wording is not given beyond Open Water Diver. Availability is on a calendar (Rezdy) that was not opened."
+    },
+    {
+      "title": "Rescue Diver Course",
+      "kind": "course",
+      "summary": "A three-day PADI Rescue Diver course with one day of skills in a pool and two days of rescue scenarios from the operator's dive boats. The course covers self rescue, managing stress in other divers and rescuing panicked or unresponsive divers. A free double dive tour is included after the course.",
+      "highlights": [
+        "One pool day and two days of offshore scenarios",
+        "Self rescue and managing stress in other divers",
+        "Free double dive tour after the course",
+        "Flexible start dates, email to arrange"
+      ],
+      "duration": "3 Days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Runaway Bay Marina, Runaway Bay, Qld",
+      "prices": [
+        {
+          "label": "Rescue Diver course",
+          "amount": 995,
+          "currency": "AUD",
+          "note": "From; price shown on the courses page"
+        }
+      ],
+      "priceFrom": 995,
+      "includes": [
+        "PADI Rescue certification card",
+        "PADI course materials",
+        "Pool entries",
+        "All gear hire for training dives",
+        "A free double dive tour after the course"
+      ],
+      "bring": [
+        "Current CPR and First Aid certificate at the time of certification"
+      ],
+      "requirements": "Be certified as a PADI Advanced Open Water Diver or equivalent. Have a current CPR and First Aid certificate at the time of certification.",
+      "offer": null,
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/edit-photo-16-06-2022-08-41-10-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://thescubacoach.rezdy.com/293368/padi-rescue-diver-course"
+      ],
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/courses/",
+      "checkNotes": "Price is the 'from' price on the Courses page. Excluded: equipment hire other than tanks and weights, and the First Aid and CPR certificate. Commencement dates are flexible by email; the live calendar (Rezdy) was not opened."
+    },
+    {
+      "title": "Divemaster",
+      "kind": "course",
+      "summary": "The PADI Divemaster internship, run part-time over a couple of months with only four interns at a time. Trainees work on the dive boats and in the shop, assist on courses and study theory online and in presentations. The program is by application only.",
+      "highlights": [
+        "Only four interns at a time",
+        "Part-time, generally over a couple of months",
+        "Assist on boats and on dive courses",
+        "By application only"
+      ],
+      "duration": "90 Days (approx.)",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Runaway Bay Marina, Runaway Bay, Qld",
+      "prices": [
+        {
+          "label": "Divemaster course",
+          "amount": 2995,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Deposit for PADI materials",
+          "amount": 500,
+          "currency": "AUD",
+          "note": "Required to take part; the rest is paid before completion of the course"
+        }
+      ],
+      "priceFrom": 2995,
+      "includes": [
+        "Training with experienced PADI instructors",
+        "Access to PADI specialty courses at discounted rates",
+        "Discounts on retail equipment"
+      ],
+      "bring": [],
+      "requirements": "Be a qualified PADI Rescue Diver (the operator can help complete prerequisite courses). Have at least 40 dives. Hold a current Oxygen Provider Certificate and a current First Aid and CPR Certificate.",
+      "offer": null,
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/edit-photo-16-06-2022-08-41-10-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://thescubacoach.rezdy.com/145683/padi-divemaster-internship"
+      ],
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/courses/",
+      "checkNotes": "The page has a Book Now link to a Rezdy product, but the text says the program is by application only and to call or email first; confirm whether it can be booked online. Duration '90 Days (approx.)' is the page heading, while the text says the training is part-time over a couple of months, so durationMinutes is null. Excluded costs: prerequisite certifications up to Rescue Diver, PADI membership and insurance after certifying, travel, and some selected dive trips with a discounted charter fee. eLearning fees are non-refundable but transferable to another PADI centre."
+    },
+    {
+      "title": "PADI Speciality Courses",
+      "kind": "course",
+      "summary": "A range of PADI specialty courses run regularly through the year or on request, each including eLearning, dive equipment and an offshore dive. Examples are Enriched Air, Deep Diver, Drift Diver, Night Diver, Underwater Navigator, Peak Performance Buoyancy and Aware Coral Reef Conservation. A specialty such as Enriched Air can also be added to a dive trip.",
+      "highlights": [
+        "Enriched Air, Deep, Drift, Night and Navigation specialities",
+        "Includes eLearning, dive equipment and an offshore dive",
+        "Run regularly or on request",
+        "Package deals for taking several specialities"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "PADI speciality course",
+          "amount": 255,
+          "currency": "AUD",
+          "note": "From; costs vary by speciality"
+        }
+      ],
+      "priceFrom": 255,
+      "includes": [
+        "eLearning",
+        "Dive equipment",
+        "An offshore dive adventure"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://goldcoastdiveadventures.com.au/wp-content/uploads/2024/07/edit-photo-16-06-2022-08-41-10-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://thescubacoach.rezdy.com/catalog/67480/courses"
+      ],
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/courses/",
+      "checkNotes": "Only a 'from' price is shown; individual speciality prices and prerequisites are not on the page. The Book Now link is a Rezdy catalog of courses, not one product, and the page also says to ring the team to book. Departure point and duration are not stated."
+    },
+    {
+      "title": "Premier Introductory Scuba Dive Experience",
+      "kind": "dive",
+      "summary": "A full-day introduction to scuba with three dives in one day and no prior experience needed. It starts at Wave Break Island with safety skills, then goes by boat to two offshore Gold Coast dive sites with your own PADI professional. Groups are no more than two people, or four in a family group.",
+      "highlights": [
+        "Three dives at three sites in one day",
+        "Own PADI dive professional, groups of no more than 2 (4 for a family group)",
+        "All scuba dive gear included",
+        "Lunch, snacks, hot soup and tea between dives"
+      ],
+      "duration": "6-7 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Ultimate Introductory Scuba Dive",
+          "amount": 395,
+          "currency": "AUD",
+          "note": "Per person"
+        },
+        {
+          "label": "Certified Diver joining Friends or Family",
+          "amount": 195,
+          "currency": "AUD",
+          "note": "Per person"
+        }
+      ],
+      "priceFrom": 395,
+      "includes": [
+        "All scuba dive gear",
+        "PADI professional dive instructor",
+        "Lunch, snacks, hot soup and tea between dives"
+      ],
+      "bring": [],
+      "requirements": "Be 12 years of age and of reasonable health. A history of asthma or recent surgery may require medical clearance.",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://thescubacoach.rezdy.com/418279/premier-introductory-diver-experience"
+      ],
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/premium-introductory-scuba-dive-gold-coast-australia-snorkelling-tours-gold-coast-2/",
+      "checkNotes": "priceFrom is the page's 'From $395.00'; the $195 price is for a certified diver joining an introductory diver, so it was not used as the from price. The departure point is not stated (the page says 'all times are departure times'); the experience begins at Wave Break Island. The only photo on the page is a page header image of unconfirmed ownership, so none are recorded. The live calendar (Rezdy) was not opened."
+    },
+    {
+      "title": "Introductory Scuba Dive Tour Wave Break Island",
+      "kind": "dive",
+      "summary": "A single introductory dive, or a snorkelling tour, at Wave Break Island in the Gold Coast Broadwater, in calm water protected from ocean swell. Divers go to a maximum depth of 12 metres, usually 3 to 5 metres, in a group of no more than four with a PADI instructor. The tour is run with a partner PADI Dive Centre, Queensland Scuba Diving Company, from Mariners Cove in Main Beach.",
+      "highlights": [
+        "Calm water dive site in the Gold Coast Broadwater",
+        "Maximum 4 divers per instructor",
+        "All equipment included",
+        "Free hotel transfers (nearby only)"
+      ],
+      "duration": "Allow 4 hours turnaround (approx.)",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Mariners Cove Marina, Main Beach (berth 91, 60 Seaworld Drive, Main Beach)",
+      "prices": [
+        {
+          "label": "Introductory Scuba Dive",
+          "amount": 119,
+          "currency": "AUD",
+          "note": "Per person"
+        },
+        {
+          "label": "Snorkelling Tour",
+          "amount": 69,
+          "currency": "AUD",
+          "note": "Per person"
+        },
+        {
+          "label": "Observer",
+          "amount": 69,
+          "currency": "AUD",
+          "note": "Per person; observers pay the snorkeller price"
+        },
+        {
+          "label": "Private Charter for 4 divers",
+          "amount": 795,
+          "currency": "AUD",
+          "note": "Per group of up to 4 divers"
+        }
+      ],
+      "priceFrom": 119,
+      "includes": [
+        "All equipment"
+      ],
+      "bring": [],
+      "requirements": "Be 12 years of age and of reasonable health. A history of asthma or recent surgery may require medical clearance.",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://thescubacoach.rezdy.com/60765/introductory-scuba-dive-snorkel"
+      ],
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/introductory-scuba-dive-gold-coast-australia-snorkelling-tours-gold-coast-australia/",
+      "checkNotes": "The page says this experience is run by a partner PADI Dive Centre, Queensland Scuba Diving Company, departing daily from Mariners Cove in Main Beach, not by Gold Coast Dive Adventures; check that it should appear on this operator's page. priceFrom is the page's 'From $119.00' for the introductory dive; the snorkelling and observer price is lower ($69). Tours run once a day and departure times vary with the tide. The only photo on the page is a page header image of unconfirmed ownership, so none are recorded. The FAQ gives the departure address (berth 91, Mariners Cove Marina, 60 Seaworld Drive, Main Beach)."
+    }
+  ],
+  "offers": [
+    {
+      "text": "GCDA Diving Family club: members-only dive trips and events, priority seats on trips away and discounted standby dives",
+      "conditions": "Conditions apply. Members join by diving with the operator or asking in the shop.",
+      "validUntil": null,
+      "sourceUrl": "https://goldcoastdiveadventures.com.au/dive-club-gold-coast-australia/"
+    }
+  ],
+  "checkNotes": "All bookings on the site go through one Rezdy account, thescubacoach.rezdy.com, so rezdyAlias is 'thescubacoach'. No Rezdy page was opened. The site names 'The Scuba Coach' as the group that found Migaloo Reef, so this may be the operator's earlier or sister name. Most trips have their own booking link; North Stradbroke Island and Nine Mile Reef have a Rezdy catalog link plus an embedded calendar, and the five trips away (Flinders Reef, HMAS Brisbane, Julian Rocks, North Solitary Islands, South West Rocks) and Tufi are sold only through a calendar embedded on their page, so the page URL is recorded. Live dates, departure times and some prices exist only in those Rezdy calendars. Times on the site are meeting times, not departure times. The FAQ page has older, much lower prices than the trip and course pages ($135 double dive, $795 standard course) and a different phone number (0488365502); used the trip and course pages and the 0404 286 599 number shown across the site. The FAQ gives the marina address as Hollywell and the Courses page also says Hollywell, while the footer says Runaway Bay. Group and fleet figures differ across pages: 5 divers per guide, a maximum of 12 on the boat, 8 divers elsewhere; two vessels on the boats page and three in the highlights (Blue Manta II, Ocean Wanderer and Aurora on the About page). Not included as trips: conservation events (only a Rezdy catalog link on the Sea Shepherd page), a winter 'Shark Diving and Education' program mentioned without details, whale watching and freediving (named only in a meeting-point heading and 2018 videos), the dive shop, gear hire and equipment servicing, and past overseas trips. Some trips away appear to be run with partners (Queensland Scuba Diving Company for the Wave Break Island introductory dive, Wooli Dive and South West Rocks Dive Centre for weekends); confirm before publishing. The hero photo was chosen from the site's own page header images by size and placement without being viewed, so a person should check it shows real people or wildlife and carries no text. Contact phone is shown on the site as 0404 286 599 (and as +61 404 286 599 on the GCDA Travel page). The site's media library and a public YouTube feed for the linked channel were read for image sizes and video titles; no bot check or block was met."
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "ocean-daze-catamaran-cruises",
+  "name": "Ocean Daze Catamaran Cruises",
+  "website": "https://www.oceandazebarbados.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Private catamaran cruises",
+  "summary": "Ocean Daze runs private catamaran cruises off Barbados for groups of up to 14 guests. There is a morning breakfast and lunch cruise and an afternoon sunset cruise, both with snorkelling over shipwrecks and with turtles, food and an open bar. Bookings are made by email or phone.",
+  "standouts": [
+    "Private cruises for up to 14 passengers",
+    "Guests choose their own start time within set windows",
+    "Premium bar with blended cocktails, mixed drinks, sodas and juices",
+    "Hotel and villa transfers can be arranged for an extra charge"
+  ],
+  "contact": {
+    "phone": "+1 246 826 4434",
+    "email": "oceandazebarbados@gmail.com",
+    "address": "The Boatyard, Bay Street, Bridgetown, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://static.wixstatic.com/media/452765_92c34faec2eb4b93ac9cb6340739797e~mv2_d_2688_1792_s_2.jpg",
+  "sourceUrls": [
+    "https://www.oceandazebarbados.com/",
+    "https://www.oceandazebarbados.com/about-6",
+    "https://www.oceandazebarbados.com/gallery",
+    "https://www.oceandazebarbados.com/contact",
+    "https://www.oceandazebarbados.com/package-options",
+    "https://www.oceandazebarbados.com/ocean-daze-barbados-catamaran-cruis",
+    "https://www.oceandazebarbados.com/about",
+    "https://www.oceandazebarbados.com/blog"
+  ],
+  "trips": [
+    {
+      "title": "Breakfast & Lunch Cruise",
+      "kind": "charter",
+      "summary": "A private morning cruise on the catamaran for up to 14 guests. Light bites, lunch and dessert are served with an open bar, and the boat stops to snorkel with turtles and over shipwrecks. Non-motorised water sports are on board.",
+      "highlights": [
+        "Private cruise, 14 passengers maximum",
+        "Snorkel with turtles and explore shipwrecks",
+        "Light bites, lunch and dessert",
+        "Hotel or villa transfers can be arranged for an additional charge"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": ["09:00", "09:30", "10:00"],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Light bites",
+        "Lunch",
+        "Dessert",
+        "Premium Bar offering blended cocktails, mixed drinks, sodas and juices",
+        "Snorkel with turtles and explore shipwrecks",
+        "Non-motorized water sports"
+      ],
+      "bring": ["Towels", "Sunblock"],
+      "requirements": "To make a booking, you must be at least 25 years or older. Guests who are under the age of 21 must be accompanied by a parent or legal guardian.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/7d5361_ad05b1cb0b5e4d1c9cee807158b8128c~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.oceandazebarbados.com/about-6",
+      "checkNotes": "No price or duration on the site. Start times are the guest's choice of 9:00am, 9:30am or 10:00am. Departure point not stated; the office is at The Boatyard, Bay Street, Bridgetown. Booked by email or phone only."
+    },
+    {
+      "title": "Sunset Cruise",
+      "kind": "charter",
+      "summary": "A private afternoon cruise for up to 14 guests that anchors in a bay to watch the sun go down. Light bites, dinner and dessert are served with an open bar, with a stop to snorkel with turtles and over shipwrecks.",
+      "highlights": [
+        "Private cruise, 14 passengers maximum",
+        "Snorkel with turtles and explore shipwrecks",
+        "Light bites, dinner and dessert",
+        "Hotel or villa transfers can be arranged for an additional charge"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": ["14:30", "15:00", "15:30"],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Light bites",
+        "Dinner",
+        "Dessert",
+        "Premium Bar offering blended cocktails, mixed drinks, sodas and juices",
+        "Snorkel with turtles and explore shipwrecks",
+        "Non-motorized water sports"
+      ],
+      "bring": ["Towels", "Sunblock"],
+      "requirements": "To make a booking, you must be at least 25 years or older. Guests who are under the age of 21 must be accompanied by a parent or legal guardian.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/7d5361_a1abd63ce78042479db1eac3820d161b~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.oceandazebarbados.com/about-6",
+      "checkNotes": "No price or duration on the site. Start times are the guest's choice of 2:30pm, 3:00pm or 3:30pm. The home page calls this the Sunset Sail, Evening Cruise. Departure point not stated. Booked by email or phone only."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Site shows no prices, durations or dated content, so trading in 2025 or 2026 could not be confirmed from the site; there is no closure notice and the batch lists it as active. Wix Bookings is installed but no public booking page is linked (/package-options renders blank, /book-online is 404); the site says to book by email or phone. Cancellation policy mentions a fee of $100 BDS for cancellations 72 hours or more before sailing. Home page also mentions feeding tropical reef fish. Wix site metadata lists a business phone of 246826-4344, which differs from the 826-4434 shown on every page; used the visible number."
+}

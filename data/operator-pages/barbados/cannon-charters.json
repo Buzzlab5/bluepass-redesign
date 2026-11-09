@@ -1,0 +1,329 @@
+{
+  "slug": "cannon-charters",
+  "name": "Cannon Charters",
+  "website": "https://fishingbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Deep sea fishing charters",
+  "summary": "A family-run sport fishing business working from Bridgetown on Cannon II, a 42 foot Hatteras with three fighting chairs. The captain and mate each have 25 years or more of experience, and deep water starts close to shore, so little time is spent getting to the fishing grounds. They also run a two hour turtle and shipwreck snorkel trip.",
+  "standouts": [
+    "Family owned and operated",
+    "Captain and mate with 25 years or more of fishing experience",
+    "Cannon II, a 42 ft Hatteras with 3 fighting chairs",
+    "Transport to and from your hotel included on fishing charters"
+  ],
+  "contact": {
+    "phone": "+1 246-424-6107; +1 246-230-1580",
+    "email": "cannonbarbados@gmail.com",
+    "address": null,
+    "whatsapp": "https://wa.me/2462301580"
+  },
+  "heroImage": "https://fishingbarbados.com/wp-content/uploads/barbados-fishing-catch.jpg",
+  "sourceUrls": [
+    "https://fishingbarbados.com/",
+    "https://fishingbarbados.com/fishing-charters/",
+    "https://fishingbarbados.com/shared-fishing-charters/",
+    "https://fishingbarbados.com/private-fishing-charters/",
+    "https://fishingbarbados.com/swim-with-turtles/",
+    "https://fishingbarbados.com/bookings/",
+    "https://fishingbarbados.com/fishing-questions/",
+    "https://fishingbarbados.com/contact/",
+    "https://fishingbarbados.com/contact/blog/",
+    "https://fishingbarbados.com/sailing/",
+    "https://fishingbarbados.com/accommodation/"
+  ],
+  "trips": [
+    {
+      "title": "Shared Fishing Charter",
+      "kind": "tour",
+      "summary": "A four hour shared fishing trip on Cannon II, a 42 foot Hatteras, joining other anglers on the boat. Most fishing is by trolling for mahi mahi, wahoo and barracuda, and the mate helps first-timers. Friends who do not fish can come along as watchers for the ride and the coastline.",
+      "highlights": [
+        "Usually Tuesday and Friday mornings",
+        "Lower price for non-fishing watchers",
+        "Mate on hand to teach beginners",
+        "Hotel transport included"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "08:00"
+      ],
+      "season": "Year round; shared charters twice weekly",
+      "departsFrom": "Bridgetown",
+      "prices": [
+        {
+          "label": "4 Hour Fisher (Adult)",
+          "amount": 175,
+          "currency": "USD",
+          "note": "Deposit US$ 26.25"
+        },
+        {
+          "label": "4 Hour Watcher (Adult)",
+          "amount": 125,
+          "currency": "USD",
+          "note": "Deposit US$ 18.75"
+        },
+        {
+          "label": "4 Hour Fisher (Child)",
+          "amount": 125,
+          "currency": "USD",
+          "note": "Deposit US$ 18.75, child 12 years or under"
+        },
+        {
+          "label": "4 Hour Watcher (Child)",
+          "amount": 75,
+          "currency": "USD",
+          "note": "Deposit US$ 11.25, child 12 years or under"
+        }
+      ],
+      "priceFrom": 175,
+      "includes": [
+        "Bait",
+        "Tackle",
+        "Drinks (soft drinks and beer)",
+        "Snacks",
+        "Transportation to and from the boat"
+      ],
+      "bring": [],
+      "requirements": "Minimum of 4 people and maximum of 6. Child rates for ages 12 and under.",
+      "offer": null,
+      "images": [
+        "https://fishingbarbados.com/wp-content/uploads/fishing-charters-barbados.jpg",
+        "https://fishingbarbados.com/wp-content/uploads/shared-charters-catch.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://fishingbarbados.com/shared-fishing-charters/",
+      "checkNotes": "Booked by request through the form on the Bookings page, email, phone or WhatsApp; the operator then sends a booking form, a deposit by credit card secures the trip and the balance is paid on arrival. No online booking. Booking form calls it 4 Hour Shared Charter. Runs 8 am to 12 noon."
+    },
+    {
+      "kind": "charter",
+      "highlights": [
+        "Private boat for up to 6",
+        "Morning or afternoon",
+        "Fishing only"
+      ],
+      "season": "Year round",
+      "departsFrom": "Bridgetown",
+      "priceFrom": null,
+      "bring": [],
+      "requirements": "Maximum six persons per boat at these rates",
+      "offer": null,
+      "images": [
+        "https://fishingbarbados.com/wp-content/uploads/private-charter-catch-mahi-mahi.jpg",
+        "https://fishingbarbados.com/wp-content/uploads/private-charters-catch.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://fishingbarbados.com/private-fishing-charters/",
+      "checkNotes": "Booked by request through the form on the Bookings page, email, phone or WhatsApp; the operator then sends a booking form, a deposit by credit card secures the trip and the balance is paid on arrival. No online booking. Price is per boat for up to six; extra persons US$ 50 each. Cruise ship passengers can only book private charters, best by email well in advance.",
+      "title": "4 Hour Private Charter",
+      "summary": "Cannon II to yourselves for four hours of fishing, morning or afternoon. The crew can make it a relaxed trip or a hard push for big game, with mahi mahi, wahoo and barracuda the main targets.",
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "08:00",
+        "12:00"
+      ],
+      "prices": [
+        {
+          "label": "4 Hour Cruise, Fishing Only, per boat",
+          "amount": 650,
+          "currency": "USD",
+          "note": "Deposit US$ 97.50"
+        }
+      ],
+      "includes": [
+        "Bait",
+        "Tackle",
+        "Drinks (soft drinks and beer)",
+        "Snacks",
+        "Transportation to and from the boat"
+      ]
+    },
+    {
+      "kind": "charter",
+      "highlights": [
+        "Private boat for up to 6",
+        "Fish and snorkel",
+        "Morning or afternoon"
+      ],
+      "season": "Year round",
+      "departsFrom": "Bridgetown",
+      "priceFrom": null,
+      "bring": [],
+      "requirements": "Maximum six persons per boat at these rates",
+      "offer": null,
+      "images": [
+        "https://fishingbarbados.com/wp-content/uploads/private-charter-catch-mahi-mahi.jpg",
+        "https://fishingbarbados.com/wp-content/uploads/private-charters-catch.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://fishingbarbados.com/private-fishing-charters/",
+      "checkNotes": "Booked by request through the form on the Bookings page, email, phone or WhatsApp; the operator then sends a booking form, a deposit by credit card secures the trip and the balance is paid on arrival. No online booking. Price is per boat for up to six; extra persons US$ 50 each. Cruise ship passengers can only book private charters, best by email well in advance.",
+      "title": "5 Hour Private Charter",
+      "summary": "A private five hour trip on Cannon II that combines fishing with a snorkel stop. Morning and afternoon starts are offered, and times can be flexible.",
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [
+        "08:00",
+        "12:00"
+      ],
+      "prices": [
+        {
+          "label": "5 Hour Cruise, Fish & Snorkel, per boat",
+          "amount": 825,
+          "currency": "USD",
+          "note": "Deposit US$ 123.75"
+        }
+      ],
+      "includes": [
+        "Bait",
+        "Tackle",
+        "Drinks (soft drinks and beer)",
+        "Snacks",
+        "Transportation to and from the boat"
+      ]
+    },
+    {
+      "kind": "charter",
+      "highlights": [
+        "Private boat for up to 6",
+        "Fishing only, or fish and snorkel",
+        "Can target tuna, sailfish and marlin",
+        "Sandwiches included"
+      ],
+      "season": "Year round",
+      "departsFrom": "Bridgetown",
+      "priceFrom": null,
+      "bring": [],
+      "requirements": "Maximum six persons per boat at these rates",
+      "offer": null,
+      "images": [
+        "https://fishingbarbados.com/wp-content/uploads/private-charter-catch-mahi-mahi.jpg",
+        "https://fishingbarbados.com/wp-content/uploads/private-charters-catch.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://fishingbarbados.com/private-fishing-charters/",
+      "checkNotes": "Booked by request through the form on the Bookings page, email, phone or WhatsApp; the operator then sends a booking form, a deposit by credit card secures the trip and the balance is paid on arrival. No online booking. Price is per boat for up to six; extra persons US$ 50 each. Cruise ship passengers can only book private charters, best by email well in advance.",
+      "title": "6 Hour Private Charter",
+      "summary": "Six hours on Cannon II, either fishing only or fishing with a snorkel stop. Longer trips can go after tuna, sailfish and marlin as well as mahi mahi, wahoo and barracuda. Sandwiches are included.",
+      "duration": "6 hours",
+      "durationMinutes": 360,
+      "departureTimes": [
+        "08:00",
+        "12:00"
+      ],
+      "prices": [
+        {
+          "label": "6 Hour Cruise, Fishing Only or Fish & Snorkel, per boat",
+          "amount": 975,
+          "currency": "USD",
+          "note": "Deposit US$ 146.25"
+        }
+      ],
+      "includes": [
+        "Bait",
+        "Tackle",
+        "Drinks (soft drinks and beer)",
+        "Snacks",
+        "Transportation to and from the boat",
+        "Sandwiches"
+      ]
+    },
+    {
+      "kind": "charter",
+      "highlights": [
+        "Private boat for up to 6",
+        "Full day, 8 am to 4 pm",
+        "Can target tuna, sailfish and marlin",
+        "Lunch included"
+      ],
+      "season": "Year round",
+      "departsFrom": "Bridgetown",
+      "priceFrom": null,
+      "bring": [],
+      "requirements": "Maximum six persons per boat at these rates",
+      "offer": null,
+      "images": [
+        "https://fishingbarbados.com/wp-content/uploads/private-charter-catch-mahi-mahi.jpg",
+        "https://fishingbarbados.com/wp-content/uploads/private-charters-catch.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://fishingbarbados.com/private-fishing-charters/",
+      "checkNotes": "Booked by request through the form on the Bookings page, email, phone or WhatsApp; the operator then sends a booking form, a deposit by credit card secures the trip and the balance is paid on arrival. No online booking. Price is per boat for up to six; extra persons US$ 50 each. Cruise ship passengers can only book private charters, best by email well in advance.",
+      "title": "8 Hour Private Charter",
+      "summary": "A full day on Cannon II, fishing only or with a snorkel stop, with the time to chase tuna, sailfish and marlin. Lunch is served on board.",
+      "duration": "8 hours",
+      "durationMinutes": 480,
+      "departureTimes": [
+        "08:00"
+      ],
+      "prices": [
+        {
+          "label": "8 Hour Cruise, Fishing Only or Fish & Snorkel, per boat",
+          "amount": 1300,
+          "currency": "USD",
+          "note": "Deposit US$ 195"
+        }
+      ],
+      "includes": [
+        "Bait",
+        "Tackle",
+        "Drinks (soft drinks and beer)",
+        "Snacks",
+        "Transportation to and from the boat",
+        "Lunch"
+      ]
+    },
+    {
+      "title": "Turtle Swim and Shipwreck Tour",
+      "kind": "snorkel",
+      "summary": "A two hour boat trip to swim and snorkel with sea turtles and over a sunken shipwreck. Singles and couples join the shared tour, and families or groups can book the boat privately.",
+      "highlights": [
+        "Swim with sea turtles",
+        "Snorkel over a shipwreck",
+        "Shared or private (up to 6)",
+        "Meets at the Careenage by the Waterfront Café"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [
+        "13:00"
+      ],
+      "season": "Tuesdays and Fridays",
+      "departsFrom": "The Careenage, Bridgetown (by the Waterfront Café)",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 75,
+          "currency": "USD",
+          "note": "Deposit US$ 11.25"
+        },
+        {
+          "label": "Private Tour (max 6 persons)",
+          "amount": 450,
+          "currency": "USD",
+          "note": "Deposit US$ 67.50, per boat"
+        }
+      ],
+      "priceFrom": 75,
+      "includes": [
+        "Snorkelling gear",
+        "Drinks"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://fishingbarbados.com/wp-content/uploads/swimming-with-turtles.jpg",
+        "https://fishingbarbados.com/wp-content/uploads/sea-turtle.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://fishingbarbados.com/swim-with-turtles/",
+      "checkNotes": "Booked by request through the form on the Bookings page, email, phone or WhatsApp; the operator then sends a booking form, a deposit by credit card secures the trip and the balance is paid on arrival. No online booking. Runs 1 pm to 3 pm. Private pickup can be arranged at extra cost. Turtle feeding is not advertised."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Booking is by request: form on the Bookings page, email, phone or WhatsApp, then a deposit by credit card and the balance on arrival. The WhatsApp link on the contact page is wa.me/2462301580, without the country code 1. No street address on the site; the turtle tour meets at the Careenage by the Waterfront Café. Contact person named on the site: Kathy Roach-Gomes. The sailing and accommodation pages refer guests to other businesses (El Tigre, Small Cats, Action Rentals), so they are not included. The batch record also names Fish Attack and gofishingbarbados.net; that domain is not linked from this site and was not read. Newest dated content is a blog post from August 2023 and page updates to March 2024 per the sitemap; the batch list marks the operator active. FAQ: peak season December to April, fishing year round, no licence needed."
+}

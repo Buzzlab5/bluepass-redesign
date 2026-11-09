@@ -1,0 +1,33 @@
+{
+  "slug": "high-seas-charters",
+  "logo": null,
+  "gallery": [
+    "https://sportfishingbarbados.com/images/fish18.jpg",
+    "https://sportfishingbarbados.com/images/fish19.jpg",
+    "https://sportfishingbarbados.com/images/fish1.jpg",
+    "https://sportfishingbarbados.com/images/fish17.jpg",
+    "https://sportfishingbarbados.com/images/fish3.jpg",
+    "https://sportfishingbarbados.com/images/fishing3_new.jpg",
+    "https://sportfishingbarbados.com/images/fishing1_new.jpg",
+    "https://sportfishingbarbados.com/images/fish2.jpg",
+    "https://sportfishingbarbados.com/images/fish6.jpg",
+    "https://sportfishingbarbados.com/images/fish5.jpg",
+    "https://sportfishingbarbados.com/images/fish9.jpg",
+    "https://sportfishingbarbados.com/images/fish11.jpg",
+    "https://sportfishingbarbados.com/images/fish13.jpg",
+    "https://sportfishingbarbados.com/images/fish15.jpg",
+    "https://sportfishingbarbados.com/images/fish7.jpg",
+    "https://sportfishingbarbados.com/images/fish10.jpg"
+  ],
+  "videos": [
+    { "url": "https://www.youtube.com/watch?v=e82bABTp_hk", "title": "Barbados Fishing", "sourceUrl": "https://sportfishingbarbados.com/" },
+    { "url": "https://www.youtube.com/watch?v=mXzhb-KkQ-w", "title": "Sport Fishing Barbados", "sourceUrl": "https://sportfishingbarbados.com/" },
+    { "url": "https://www.youtube.com/watch?v=p7z0BfvnwKQ", "title": "Barbados Sport Fishing", "sourceUrl": "https://sportfishingbarbados.com/" }
+  ],
+  "trips": [
+    { "title": "4 hour fishing charter", "images": ["https://sportfishingbarbados.com/images/fish19.jpg", "https://sportfishingbarbados.com/images/fish18.jpg", "https://sportfishingbarbados.com/images/oceanhunterstern.jpg"] },
+    { "title": "6 hour fishing charter", "images": ["https://sportfishingbarbados.com/images/fish19.jpg", "https://sportfishingbarbados.com/images/fish18.jpg", "https://sportfishingbarbados.com/images/oceanhunterstern.jpg"] },
+    { "title": "8 hour fishing charter", "images": ["https://sportfishingbarbados.com/images/fish19.jpg", "https://sportfishingbarbados.com/images/fish18.jpg", "https://sportfishingbarbados.com/images/oceanhunterstern.jpg"] }
+  ],
+  "notes": "No logo image; the header is text over a photo (images/oceanhunterstern.jpg). The site's TLS certificate expired on 10 June 2026, so image URLs over https may fail certificate checks; http redirects to https. Photos are old and small (gallery files from the Photos and More Photos pages; the _small thumbnails were left out). The three YouTube videos are embedded on the home page and posted by a YouTube account named John Everatt. No trip pages exist, so each charter gets the same boat photos."
+}

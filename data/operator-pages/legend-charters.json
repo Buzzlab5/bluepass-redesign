@@ -1,0 +1,21 @@
+{
+  "slug": "legend-charters",
+  "name": "Legend Charters",
+  "website": "https://legendcharters.net.au",
+  "rezdyAlias": null,
+  "state": "WA",
+  "town": null,
+  "category": null,
+  "summary": null,
+  "standouts": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "address": null
+  },
+  "heroImage": null,
+  "sourceUrls": [],
+  "trips": [],
+  "offers": [],
+  "checkNotes": "BLOCKED: the website could not be read. On 16 Oct 2026 every request to legendcharters.net.au (home page, robots.txt, sitemap.xml, wp-sitemap.xml, index.php and the www address) returned HTTP 500 with a WordPress error page whose text says the site's Composer dependencies require PHP 8.3 or newer. The same result came back with a second DNS resolver (same server address) and after three spaced retries, so this is a fault on the operator's own hosting, not a captcha or bot check. No page content was read, so there are no trips, prices, times, photos, videos, contact details or booking links in this file, and nothing was taken from memory or from outside the operator's site. From our list only (not confirmed by the site): full-day orca expeditions to the Bremer Canyon from Bremer Bay, WA; town, category and summary are left null for that reason. rezdyAlias is null because no booking link could be seen. Next step: ask the operator whether the site is down and re-run this research when it is back, or have a person confirm the trips with them directly."
+}

@@ -1,0 +1,1526 @@
+{
+  "slug": "sea-sydney-harbour",
+  "name": "Sea Sydney Harbour",
+  "website": "https://seasydneyharbour.com.au",
+  "rezdyAlias": "seasydneyharbour",
+  "state": "NSW",
+  "town": "Sydney",
+  "category": "Harbour cruises and charters",
+  "summary": "Private catamaran charters and small-group ticketed cruises on Sydney Harbour, run on a fleet of six vessels that carry 20 to 60 guests. Ticketed trips include sunset and daytime cruises, a dog-friendly cruise, Vivid Sydney cruises and New Year's Eve cruises. Private hire suits birthdays, corporate events, weddings, hen's and buck's parties and harbour transfers.",
+  "standouts": [
+    "Fleet of six catamarans, all in survey for commercial operations",
+    "Private charters available 365 days of the year, including public holidays",
+    "Dogs on Deck, a harbour cruise that welcomes dogs on board",
+    "Awards listed by the operator include Outstanding Tourism Services 2026 (City Suburbs Local Business Awards)"
+  ],
+  "contact": {
+    "phone": "+61 452 188 739",
+    "email": "info@seasydneyharbour.com.au",
+    "address": "PO Box 187, Pyrmont NSW 2009"
+  },
+  "heroImage": null,
+  "sourceUrls": [
+    "https://seasydneyharbour.com.au/",
+    "https://seasydneyharbour.com.au/ticketed-tours-and-events.html",
+    "https://seasydneyharbour.com.au/private-charters.html",
+    "https://seasydneyharbour.com.au/cruising-occasions.html",
+    "https://seasydneyharbour.com.au/birthdays.html",
+    "https://seasydneyharbour.com.au/vivid-sydney-private-cruise.html",
+    "https://seasydneyharbour.com.au/harbour-romance.html",
+    "https://seasydneyharbour.com.au/harbour-transfers-and-sightseeing.html",
+    "https://seasydneyharbour.com.au/hens-package.html",
+    "https://seasydneyharbour.com.au/bucks-package.html",
+    "https://seasydneyharbour.com.au/christmas-package.html",
+    "https://seasydneyharbour.com.au/catering.html",
+    "https://seasydneyharbour.com.au/charter-fun.html",
+    "https://seasydneyharbour.com.au/sunset-sparkle.html",
+    "https://seasydneyharbour.com.au/golden-glow.html",
+    "https://seasydneyharbour.com.au/twilight-treasures.html",
+    "https://seasydneyharbour.com.au/harbour-highlights.html",
+    "https://seasydneyharbour.com.au/dogs-on-deck.html",
+    "https://seasydneyharbour.com.au/catamaran-champagne-and-cheeseboards.html",
+    "https://seasydneyharbour.com.au/valentines-day-sunset-romance-cruise.html",
+    "https://seasydneyharbour.com.au/vivid-sydney-BYO-cruise.html",
+    "https://seasydneyharbour.com.au/vivid-sydney-intimate-cruise-heaven.html",
+    "https://seasydneyharbour.com.au/vivid-sydney-intimate-cruise.html",
+    "https://seasydneyharbour.com.au/new-years-eve-ticketed.html",
+    "https://seasydneyharbour.com.au/new-years-eve-ticketed-heaven.html",
+    "https://seasydneyharbour.com.au/new-years-eve-ticketed-fleetwingII.html",
+    "https://seasydneyharbour.com.au/gift-vouchers.html",
+    "https://seasydneyharbour.com.au/vessels.html",
+    "https://seasydneyharbour.com.au/kirralee.html",
+    "https://seasydneyharbour.com.au/enigma-x.html",
+    "https://seasydneyharbour.com.au/seawind-1000.html",
+    "https://seasydneyharbour.com.au/seawind-resort-1160.html",
+    "https://seasydneyharbour.com.au/heaven.html",
+    "https://seasydneyharbour.com.au/fleetwing-ii.html",
+    "https://seasydneyharbour.com.au/about.html",
+    "https://seasydneyharbour.com.au/faqs.html",
+    "https://seasydneyharbour.com.au/terms-conditions.html",
+    "https://seasydneyharbour.com.au/sitemap.html",
+    "http://www.seasydneyharbour.com.au/blog/",
+    "https://www.youtube.com/channel/UC38KnE47hbDbMQfjsOGSxew/videos"
+  ],
+  "trips": [
+    {
+      "title": "Sunset & Sparkle Harbour Cruise",
+      "kind": "cruise",
+      "summary": "A one hour evening cruise on Sydney Harbour aboard Kirralee, a 10.5 metre catamaran, leaving from Man O War Steps next to the Sydney Opera House. Guests have a grazing platter and a soft drink or water, and can bring their own alcohol with no corkage fee. It runs from September to May and does not run in June, July and August.",
+      "highlights": [
+        "About 1 hour aboard Kirralee, a 10.5 metre catamaran",
+        "Grazing platter and one soft drink or water included",
+        "Bring your own alcohol, no corkage fees",
+        "Leaves from Man O War Steps next to the Sydney Opera House"
+      ],
+      "duration": "1 hour (approx)",
+      "durationMinutes": 60,
+      "departureTimes": [],
+      "season": "September to May. Departure times by month: January, February, November and December 7:00pm; March and October 6:30pm; April and September 5:00pm; May 4:30pm. Does not run in June, July and August. May not be available during Vivid Sydney.",
+      "departsFrom": "Man O War Steps, next to the Sydney Opera House",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 59,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (3-12 years)",
+          "amount": 29,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0-2 years)",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        }
+      ],
+      "priceFrom": 59,
+      "includes": [
+        "Cruise aboard Kirralee with an experienced skipper and crew",
+        "Grazing platter",
+        "One beverage, soft drink or water (availability may vary)",
+        "Pick up and drop off at Man O War Steps"
+      ],
+      "bring": [
+        "A warm jacket in the cooler months",
+        "Camera",
+        "Your own alcoholic drinks (optional, no corkage fees)"
+      ],
+      "requirements": "All ages can board. Under 18s must be accompanied by a parent or responsible adult. A small step from the wharf to the vessel when boarding; crew can assist.",
+      "offer": {
+        "text": "NSW Seniors Card special offer",
+        "conditions": "Contact the team for details",
+        "validUntil": null
+      },
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/sunsetcruise/SunsetSparkle1.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/sunsetcruise/SunsetSparkle2.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/sunsetcruise/SunsetSparkle3.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/sunsetcruise/SunsetSparkle4.jpeg"
+      ],
+      "bookingLinks": [
+        "https://seasydneyharbour.rezdy.com/161216/sunset-sparkle",
+        "https://seasydneyharbour.rezdy.com/161216/sunset-sparkle-boarding-at-circular-quay"
+      ],
+      "sourceUrl": "https://seasydneyharbour.com.au/sunset-sparkle.html",
+      "checkNotes": "The page headline says price from $29pp, which is the child price; the adult price is $59, used for priceFrom. Maximum passengers is stated as 26 in the overview and 30 elsewhere on the page. The cruise needs a minimum of 8 passengers to run; smaller groups are at the operator's discretion. April and October times may vary with daylight saving. A second Rezdy link ends 'boarding-at-circular-quay', which hints at another boarding point, but the page only names Man O War Steps. A short YouTube reel is linked on the page."
+    },
+    {
+      "title": "Golden Glow Sunset Harbour Cruise",
+      "kind": "cruise",
+      "summary": "A 90 minute sunset cruise on Sydney Harbour aboard Heaven or Fleetwing II, both multi-level motor catamarans, leaving from Aquarium Wharf in Darling Harbour. Guests have grazing platters and one drink each, and a licensed bar sells further drinks. It runs on selected weeknights from September to May.",
+      "highlights": [
+        "90 minute cruise timed for golden hour",
+        "Grazing platters and one drink each: beer, wine, soft drink or juice",
+        "Licensed bar on board for further drinks",
+        "Maximum of 40 to 45 passengers"
+      ],
+      "duration": "90 minutes",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": "September to May, on selected weeknights. Departure times by month: January, February, November and December 6:30pm or 6:45pm; March and October 6:15pm; April and September 4:45pm; May 4:15pm. Does not run in June, July and August. May not be available during Vivid Sydney.",
+      "departsFrom": "Aquarium Wharf, Darling Harbour",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 75,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (3-12 years)",
+          "amount": 39,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0-2 years)",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        }
+      ],
+      "priceFrom": 75,
+      "includes": [
+        "90 minute cruise aboard Heaven or Fleetwing II with an experienced skipper and crew",
+        "Grazing platters",
+        "One complimentary drink per person: beer, wine, soft drink or juice (availability may vary)",
+        "Pick up and drop off at Aquarium Wharf, Darling Harbour"
+      ],
+      "bring": [
+        "A warm jacket in the cooler months",
+        "Camera",
+        "Comfortable clothing",
+        "Identification for proof of age"
+      ],
+      "requirements": "All ages can board. Under 18s must be accompanied by a parent or responsible adult. A small step from the wharf to the vessel when boarding; crew can assist.",
+      "offer": {
+        "text": "NSW Seniors Card special offer",
+        "conditions": "Contact the team for details",
+        "validUntil": null
+      },
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/golden-glow/GoldenGlow2.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/golden-glow/GoldenGlow1.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/golden-glow/GoldenGlow3.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/golden-glow/GoldenGlow4.jpeg"
+      ],
+      "bookingLinks": [
+        "https://seasydneyharbour.rezdy.com/647852/golden-glow-sunset-harbour-cruise"
+      ],
+      "sourceUrl": "https://seasydneyharbour.com.au/golden-glow.html",
+      "checkNotes": "The page headline says price from $39pp, which is the child price; the adult price is $75, used for priceFrom. The cruise needs a minimum of 15 passengers to run. The page does not say which of Heaven or Fleetwing II runs on a given night. Departure times vary by month, so departureTimes is empty and the schedule is in the season field. A short YouTube reel is linked on the page."
+    },
+    {
+      "title": "Harbour Highlights & Aussie Bites Catamaran Cruise",
+      "kind": "cruise",
+      "summary": "A one hour cruise aboard Kirralee from Man O War Steps next to the Sydney Opera House, passing the Opera House, Harbour Bridge, Barangaroo and Darling Harbour. Guests have a grazing platter of Australian snacks and a soft drink or water, and can bring their own alcohol with no corkage fee. It is an afternoon or pre-dinner cruise.",
+      "highlights": [
+        "About 1 hour aboard Kirralee, a 10.5 metre catamaran",
+        "Passes the Opera House, Harbour Bridge, Barangaroo and Darling Harbour",
+        "Grazing platter of Aussie bites and one soft drink or water",
+        "Bring your own alcohol, no corkage fees"
+      ],
+      "duration": "1 hour (approx)",
+      "durationMinutes": 60,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Man O War Steps, next to the Sydney Opera House",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 49,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (3-12 years)",
+          "amount": 29,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0-2 years)",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        }
+      ],
+      "priceFrom": 49,
+      "includes": [
+        "Cruise aboard Kirralee with an experienced skipper and crew",
+        "Grazing platter with Aussie bites and flavours",
+        "One beverage, soft drink or water (availability may vary)",
+        "Pick up and drop off at Man O War Steps"
+      ],
+      "bring": [
+        "A warm jacket in the cooler months",
+        "Camera",
+        "Your own alcoholic drinks (optional, no corkage fees)"
+      ],
+      "requirements": "All ages can board. Under 18s must be accompanied by a parent or responsible adult. A small step from the wharf to the vessel when boarding; crew can assist.",
+      "offer": {
+        "text": "NSW Seniors Card special offer",
+        "conditions": "Contact the team for details",
+        "validUntil": null
+      },
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/harbour-highlights/harbourhighlights1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee11.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/harbour-highlights/harbourhighlights5.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/harbour-highlights/harbourhighlights2.jpg"
+      ],
+      "bookingLinks": [
+        "https://seasydneyharbour.rezdy.com/632221/harbour-highlights-catamaran-cruise"
+      ],
+      "sourceUrl": "https://seasydneyharbour.com.au/harbour-highlights.html",
+      "checkNotes": "Departure times and operating season are not stated on the page. The page headline says price from $29pp, which is the child price; the adult price is $49, used for priceFrom. Maximum passengers is stated as 26 in the overview and 25 to 28 under what is included. The cruise needs a minimum of 10 passengers to run. The menu names it Harbour Highlights Catamaran Cruise; the page title is the longer name used here."
+    },
+    {
+      "title": "Dogs on Deck Harbour Cruise",
+      "kind": "cruise",
+      "summary": "A one hour afternoon cruise aboard Kirralee that welcomes dogs, leaving from Man O War Steps next to the Sydney Opera House. Each dog needs its own ticket and must be small to medium (up to 25kg), vaccinated, desexed and on a lead. A share of ticket sales goes to Sydney Dogs & Cats Home, and guests can add a voluntary donation.",
+      "highlights": [
+        "Dogs up to 25kg welcome, with a maximum of 8 to 10 dogs per cruise",
+        "Grazing platter, one soft drink or water, and dog treats and water bowls on board",
+        "Bring your own alcohol, no corkage fees",
+        "Maximum of 20 passengers plus dogs"
+      ],
+      "duration": "1 hour (approx)",
+      "durationMinutes": 60,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Man O War Steps, next to the Sydney Opera House",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 69,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (3-12 years)",
+          "amount": 29,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0-2 years)",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        },
+        {
+          "label": "Dog (under 25kg)",
+          "amount": 19,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 69,
+      "includes": [
+        "Cruise aboard Kirralee with a skipper and crew",
+        "Grazing platter with Aussie bites and flavours",
+        "One beverage per person, soft drink or water (availability may vary)",
+        "Dog-friendly treats and water bowls",
+        "Pick up and drop off at Man O War Steps"
+      ],
+      "bring": [
+        "Lead and any other essentials for your dog",
+        "Comfortable clothing and a light jacket",
+        "Camera",
+        "Your own alcoholic drinks (optional, no corkage fees)"
+      ],
+      "requirements": "Each dog needs its own ticket, with breed and weight given at booking. Dogs must weigh no more than 25kg, be well-behaved, vaccinated and desexed, on a lead at all times, and carried on and off the vessel by their owner or crew. Maximum 8 to 10 dogs per cruise, and dogs must be booked with an adult ticket. Owners are asked to make sure dogs have relieved themselves before boarding. All ages can board. Under 18s must be accompanied by a parent or responsible adult. A small step from the wharf to the vessel when boarding; crew can assist.",
+      "offer": {
+        "text": "NSW Seniors Card special offer",
+        "conditions": "Contact the team for details",
+        "validUntil": null
+      },
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/dogs-on-deck/DogsonDeck1.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee11.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/dogs-on-deck/DogsonDeck3.jpeg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/dogs-on-deck/DogsonDeck2.jpeg"
+      ],
+      "bookingLinks": [
+        "https://seasydneyharbour.rezdy.com/692637/dogs-on-deck-harbour-cruise"
+      ],
+      "sourceUrl": "https://seasydneyharbour.com.au/dogs-on-deck.html",
+      "checkNotes": "The page headline says price from $19pp, which is the dog ticket; the adult price is $69, used for priceFrom. No departure times or operating season are stated; the page refers to 'this season' for the donation to Sydney Dogs & Cats Home (the stated share of ticket sales is not repeated here), and says additional donations are voluntary and non-refundable. The weight limit is given as a maximum of 25kg in the dog rules and as under 25kg on the dog ticket price. The cruise needs a minimum of 10 passengers to run. The page calls it Sydney's first dog friendly harbour cruise; that claim is not repeated. A short YouTube reel is linked on the page."
+    },
+    {
+      "title": "Harbour Romance for Two",
+      "kind": "charter",
+      "summary": "A private two hour cruise for two aboard Kirralee, leaving from Aquarium Wharf in Darling Harbour. The route can be customised, and the price includes a harbour picnic or a seafood platter for two with a bottle of sparkling wine. It runs Monday to Friday and Sunday, generally from 11:00am to 1:00pm, with other times on request.",
+      "highlights": [
+        "Private 2 hour cruise for 2 guests",
+        "Choice of harbour picnic or seafood platter, with a bottle of sparkling wine",
+        "Route can be customised with the captain",
+        "Leaves from Aquarium Wharf, Darling Harbour"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [
+        "11:00"
+      ],
+      "season": "Available Monday to Friday and Sunday. Customised dates, start times and boarding points can be arranged on request, subject to availability.",
+      "departsFrom": "Aquarium Wharf, Darling Harbour",
+      "prices": [
+        {
+          "label": "Harbour Romance Cruise for Two with Harbour Picnic",
+          "amount": 999,
+          "currency": "AUD",
+          "note": "Per booking, maximum 2 guests"
+        },
+        {
+          "label": "Harbour Romance Cruise for Two with Seafood Platter",
+          "amount": 1299,
+          "currency": "AUD",
+          "note": "Per booking, maximum 2 guests"
+        }
+      ],
+      "priceFrom": 999,
+      "includes": [
+        "2 hour exclusive cruise aboard Kirralee with an experienced captain",
+        "Pick up and drop off at Aquarium Wharf, Darling Harbour",
+        "Harbour picnic or seafood platter for two, served on board with a bottle of sparkling wine",
+        "Drinking water"
+      ],
+      "bring": [
+        "Camera",
+        "Swimming costume or board shorts and a towel (optional)",
+        "A warm jacket in the cooler months"
+      ],
+      "requirements": "Maximum of 2 guests per booking.",
+      "offer": {
+        "text": "Loyalty special for returning clients",
+        "conditions": "Ask the team for details",
+        "validUntil": null
+      },
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/harbourromance/romance1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee11.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/harbourromance/romance3.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/harbourromance/romance7.jpg"
+      ],
+      "bookingLinks": [
+        "https://seasydneyharbour.rezdy.com/335427/harbour-romance-cruise-for-two"
+      ],
+      "sourceUrl": "https://seasydneyharbour.com.au/harbour-romance.html",
+      "checkNotes": "Listed under Private Charters on the site, but the page says to book and pay online, so it has a booking link. The ticketed tours page links the same product with a longer address (335427/harbour-romance-cruise-for-two-a-special-date-on-sydney-harbour) and a tracking parameter; only the link on this trip's own page is recorded. The cruise is for 2 guests only, so it is not a shared ticket. The loyalty special line appears at the top of the page."
+    },
+    {
+      "title": "BYO Vivid Sydney Cruise",
+      "kind": "cruise",
+      "summary": "A 90 minute evening cruise for the Vivid Sydney festival aboard Kirralee, a 10.5 metre catamaran, leaving from Pier 2, Walsh Bay. Guests have an Italian-inspired antipasto spread with bread rolls and one soft drink, juice or water, and can bring their own alcohol with no corkage fee. It runs every day except public holidays, with three departure times.",
+      "highlights": [
+        "90 minute cruise past the Vivid Sydney light displays",
+        "Antipasto spread with bread rolls and one soft drink, juice or water",
+        "Bring your own alcohol, no corkage fees",
+        "Maximum of 25 passengers"
+      ],
+      "duration": "90 minutes",
+      "durationMinutes": 90,
+      "departureTimes": [
+        "17:45",
+        "19:30",
+        "21:15"
+      ],
+      "season": "Vivid Sydney 2027, festival dates stated on the site as 28 May to 19 June 2027. Available Monday to Sunday, excluding public holidays.",
+      "departsFrom": "Pier 2, Walsh Bay",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 59,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (0-12 years)",
+          "amount": 29,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 59,
+      "includes": [
+        "90 minute cruise aboard Kirralee with an experienced skipper and deck hand or host",
+        "Pick up and drop off at Pier 2, Walsh Bay",
+        "Italian-inspired antipasto spread with bread rolls",
+        "One beverage: soft drink, juice or water (availability may vary)",
+        "Your own alcohol is allowed, no corkage fees"
+      ],
+      "bring": [
+        "Comfortable clothing",
+        "A warm jacket",
+        "Camera"
+      ],
+      "requirements": "All ages can board. Under 18s must be accompanied by a parent or responsible adult. A small step from the wharf to the vessel when boarding; crew can assist.",
+      "offer": {
+        "text": "NSW Seniors Card special offer",
+        "conditions": "Contact the team for details",
+        "validUntil": null
+      },
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid15.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee11.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid5.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee10.jpg"
+      ],
+      "bookingLinks": [
+        "https://seasydneyharbour.rezdy.com/374180/vivid-sydney-byo-catamaran-harbour-cruise-on-kirralee"
+      ],
+      "sourceUrl": "https://seasydneyharbour.com.au/vivid-sydney-BYO-cruise.html",
+      "checkNotes": "The page headline says price from $29pp, which is the child price; the adult price is $59, used for priceFrom. The page shows the 2027 festival dates but does not say outright that cruises run only on those dates. The cruise needs a minimum of 8 passengers to run. Child price covers ages 0 to 12 (no separate infant line)."
+    },
+    {
+      "title": "Intimate Vivid Sydney Cruise on Heaven",
+      "kind": "cruise",
+      "summary": "A 90 minute evening cruise for the Vivid Sydney festival aboard Heaven, a multi-level motor catamaran with indoor and outdoor viewing decks, leaving from Pier 2, Walsh Bay. Guests have roaming canapes and one drink, and a licensed bar sells further drinks. The cruise carries a maximum of 40 passengers and runs Tuesday to Sunday.",
+      "highlights": [
+        "90 minute cruise past the Vivid Sydney light displays",
+        "Roaming canapes and one complimentary drink",
+        "Licensed bar on board",
+        "Maximum of 40 passengers"
+      ],
+      "duration": "90 minutes",
+      "durationMinutes": 90,
+      "departureTimes": [
+        "18:15",
+        "20:00"
+      ],
+      "season": "Vivid Sydney 2027, festival dates stated on the site as 28 May to 19 June 2027. Available Tuesday to Sunday.",
+      "departsFrom": "Pier 2, Walsh Bay",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 75,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (0-12 years)",
+          "amount": 39,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 75,
+      "includes": [
+        "90 minute cruise aboard Heaven with an experienced skipper and deck hand or host",
+        "Pick up and drop off at Pier 2, Walsh Bay",
+        "Roaming canapes",
+        "One complimentary beverage per person: beer, wine, soft drink or juice (availability may vary)",
+        "Licensed bar for further drinks"
+      ],
+      "bring": [
+        "Comfortable clothing",
+        "A warm jacket",
+        "Camera",
+        "Identification for proof of age"
+      ],
+      "requirements": "All ages can board. Under 18s must be accompanied by a parent or responsible adult.",
+      "offer": {
+        "text": "NSW Seniors Card special offer",
+        "conditions": "Contact the team for details",
+        "validUntil": null
+      },
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid9.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/heaven/heaven1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid14.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/heaven/heaven3.jpg"
+      ],
+      "bookingLinks": [
+        "https://seasydneyharbour.rezdy.com/544856/vivid-sydney-intimate-catamaran-cruise-on-heaven"
+      ],
+      "sourceUrl": "https://seasydneyharbour.com.au/vivid-sydney-intimate-cruise-heaven.html",
+      "checkNotes": "The page headline says price from $39pp, which is the child price; the adult price is $75, used for priceFrom. The page shows the 2027 festival dates but does not say outright that cruises run only on those dates. The cruise needs a minimum of 15 passengers to run."
+    },
+    {
+      "title": "Intimate Vivid Sydney Cruise on Fleetwing II",
+      "kind": "cruise",
+      "summary": "A 90 minute evening cruise for the Vivid Sydney festival aboard Fleetwing II, a motor catamaran with upper and lower decks and a large indoor cabin, leaving from Pier 2, Walsh Bay. Guests have roaming canapes and one drink, and a licensed bar sells further drinks. The cruise carries 45 to 50 passengers and runs Tuesday to Sunday with three departure times.",
+      "highlights": [
+        "90 minute cruise past the Vivid Sydney light displays",
+        "Roaming canapes and one complimentary drink",
+        "Licensed bar on board",
+        "Upper and lower decks and an indoor cabin"
+      ],
+      "duration": "90 minutes",
+      "durationMinutes": 90,
+      "departureTimes": [
+        "18:00",
+        "19:45",
+        "21:30"
+      ],
+      "season": "Vivid Sydney 2027, festival dates stated on the site as 28 May to 19 June 2027. Available Tuesday to Sunday.",
+      "departsFrom": "Pier 2, Walsh Bay",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 75,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (0-12 years)",
+          "amount": 39,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 75,
+      "includes": [
+        "90 minute cruise aboard Fleetwing II with an experienced skipper and deck hand or host",
+        "Pick up and drop off at Pier 2, Walsh Bay",
+        "Roaming canapes",
+        "One complimentary beverage per person: beer, wine, soft drink or juice (availability may vary)",
+        "Licensed bar for further drinks"
+      ],
+      "bring": [
+        "Comfortable clothing",
+        "A warm jacket",
+        "Camera",
+        "Identification for proof of age"
+      ],
+      "requirements": "All ages can board. Under 18s must be accompanied by a parent or responsible adult.",
+      "offer": {
+        "text": "NSW Seniors Card special offer",
+        "conditions": "Contact the team for details",
+        "validUntil": null
+      },
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid17.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/fleetwingII/fleetwing1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid18.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/fleetwingII/fleetwing2.jpg"
+      ],
+      "bookingLinks": [
+        "https://seasydneyharbour.rezdy.com/374183/vivid-sydney-intimate-catamaran-harbour-cruise-on-fleetwing-ii"
+      ],
+      "sourceUrl": "https://seasydneyharbour.com.au/vivid-sydney-intimate-cruise.html",
+      "checkNotes": "The page headline says price from $39pp, which is the child price; the adult price is $75, used for priceFrom. The page states a maximum of 45 to 50 passengers, while the Fleetwing II vessel page says up to 60 guests. The page shows the 2027 festival dates but does not say outright that cruises run only on those dates. The cruise needs a minimum of 15 passengers to run."
+    },
+    {
+      "title": "New Year's Eve Cruise on Kirralee",
+      "kind": "cruise",
+      "summary": "A seven hour New Year's Eve cruise aboard Kirralee, a 10.5 metre catamaran, leaving from Pyrmont at 6:00pm and returning at 1:00am. Guests have a barbecue dinner cooked on board, snacks and non-alcoholic drinks, and can bring their own alcohol. The cruise carries a maximum of 26 passengers and watches the Sydney fireworks from the water.",
+      "highlights": [
+        "7 hour cruise from 6:00pm to 1:00am on 31 December",
+        "Barbecue dinner cooked fresh on board, plus snacks and non-alcoholic drinks",
+        "Bring your own alcohol, no corkage fees",
+        "Maximum of 26 passengers; arrive 30 minutes before departure"
+      ],
+      "duration": "7 hours",
+      "durationMinutes": 420,
+      "departureTimes": [
+        "18:00"
+      ],
+      "season": "31 December each year, finishing in the early morning of 1 January",
+      "departsFrom": "Pyrmont (37 Bank Street, Pyrmont NSW 2009)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 849,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (0-12 years)",
+          "amount": 599,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 849,
+      "includes": [
+        "7 hour cruise aboard Kirralee with an experienced skipper and deck hand or host",
+        "Pick up and drop off at Pyrmont",
+        "Gourmet barbecue dinner cooked fresh on board",
+        "Snacks and non-alcoholic beverages throughout the night (availability may vary)",
+        "Your own alcohol is allowed, no corkage fees"
+      ],
+      "bring": [
+        "Comfortable clothing",
+        "A warm jacket",
+        "Camera"
+      ],
+      "requirements": "All ages can board. Under 18s must be accompanied by a parent or responsible adult.",
+      "offer": null,
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/nye/nye11.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee11.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/nye/nye12.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee10.jpg"
+      ],
+      "bookingLinks": [
+        "https://seasydneyharbour.rezdy.com/369703/new-year-s-eve-2020-harbour-cruise-on-kirralee"
+      ],
+      "sourceUrl": "https://seasydneyharbour.com.au/new-years-eve-ticketed.html",
+      "checkNotes": "The page headline says price from $599pp, which is the child price; the adult price is $849, used for priceFrom. The page does not state a year. The Rezdy link on the page contains '2020' in its address, so confirm it is the current product. The cruise needs a minimum of 10 passengers to run. The page notes private vessel hire for New Year's Eve is available on request."
+    },
+    {
+      "title": "New Year's Eve Cruise on Heaven",
+      "kind": "cruise",
+      "summary": "An all-inclusive seven hour New Year's Eve cruise aboard Heaven, a multi-level motor catamaran, leaving from Pyrmont at 6:00pm and returning at 1:00am. Roaming canapes, a barbecue dinner, dessert and drinks are included, and the vessel takes a position with a view of the Harbour Bridge and the fireworks. The cruise carries a maximum of 40 passengers.",
+      "highlights": [
+        "7 hour cruise from 6:00pm to 1:00am on 31 December",
+        "Canapes, barbecue dinner, dessert and drinks included",
+        "Licensed bar on board",
+        "Maximum of 40 passengers; arrive 30 minutes before departure"
+      ],
+      "duration": "7 hours",
+      "durationMinutes": 420,
+      "departureTimes": [
+        "18:00"
+      ],
+      "season": "31 December each year, finishing in the early morning of 1 January",
+      "departsFrom": "Pyrmont (37 Bank Street, Pyrmont NSW 2009)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 1099,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (0-17 years)",
+          "amount": 849,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 1099,
+      "includes": [
+        "7 hour cruise aboard Heaven with an experienced skipper and crew",
+        "Pick up and drop off at Pyrmont",
+        "Roaming canapes, a barbecue dinner cooked on board, and dessert",
+        "Beverages throughout the night, with a licensed bar on board"
+      ],
+      "bring": [
+        "Comfortable clothing",
+        "A light jacket",
+        "Camera",
+        "Identification for proof of age"
+      ],
+      "requirements": "All ages can board. Under 18s must be accompanied by a parent or responsible adult.",
+      "offer": null,
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/nye/nye10.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/heaven/heaven1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/nye/nye9.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/heaven/heaven3.jpg"
+      ],
+      "bookingLinks": [
+        "https://seasydneyharbour.rezdy.com/581414/new-year-s-eve-sydney-harbour-cruise-on-heaven",
+        "https://seasydneyharbour.rezdy.com/581414/new-year-s-eve-harbour-cruise-on-heaven"
+      ],
+      "sourceUrl": "https://seasydneyharbour.com.au/new-years-eve-ticketed-heaven.html",
+      "checkNotes": "The page headline says price from $849pp, which is the child price; the adult price is $1,099, used for priceFrom. The child price covers ages 0 to 17. The page does not state a year. Two Rezdy links on the page share product ID 581414 with slightly different slugs. The cruise needs a minimum of 20 passengers to run. The page notes private vessel hire for New Year's Eve is available on request."
+    },
+    {
+      "title": "New Year's Eve Cruise on Fleetwing II",
+      "kind": "cruise",
+      "summary": "An all-inclusive seven hour New Year's Eve cruise aboard Fleetwing II, a motor catamaran with upper and lower decks, leaving from Pyrmont at 6:00pm and returning at 1:00am. Roaming canapes, a barbecue dinner, dessert and drinks are included, and the vessel takes a position with a view of the Harbour Bridge and the fireworks. The cruise carries a maximum of 40 passengers.",
+      "highlights": [
+        "7 hour cruise from 6:00pm to 1:00am on 31 December",
+        "Canapes, barbecue dinner, dessert and drinks included",
+        "Licensed bar on board",
+        "Maximum of 40 passengers; arrive 30 minutes before departure"
+      ],
+      "duration": "7 hours",
+      "durationMinutes": 420,
+      "departureTimes": [
+        "18:00"
+      ],
+      "season": "31 December each year, finishing in the early morning of 1 January",
+      "departsFrom": "Pyrmont (37 Bank Street, Pyrmont NSW 2009)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 1099,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (0-17 years)",
+          "amount": 849,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 1099,
+      "includes": [
+        "7 hour cruise aboard Fleetwing II with an experienced skipper and crew",
+        "Pick up and drop off at Pyrmont",
+        "Roaming canapes, a barbecue dinner cooked on board, and dessert",
+        "Beverages throughout the night, with a licensed bar on board"
+      ],
+      "bring": [
+        "Comfortable clothing",
+        "A light jacket",
+        "Camera",
+        "Identification for proof of age"
+      ],
+      "requirements": "All ages can board. Under 18s must be accompanied by a parent or responsible adult.",
+      "offer": null,
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/nye/nye9.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/fleetwingII/fleetwing1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/nye/nye10.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/fleetwingII/fleetwing4.jpg"
+      ],
+      "bookingLinks": [
+        "https://seasydneyharbour.rezdy.com/643213/new-year-s-eve-sydney-harbour-cruise-on-fleetwing-ii"
+      ],
+      "sourceUrl": "https://seasydneyharbour.com.au/new-years-eve-ticketed-fleetwingII.html",
+      "checkNotes": "The page headline says price from $849pp, which is the child price; the adult price is $1,099, used for priceFrom. The child price covers ages 0 to 17. The page states a maximum of 40 passengers, while the Fleetwing II vessel page says up to 60 guests. The page does not state a year. The cruise needs a minimum of 20 passengers to run. The page notes private vessel hire for New Year's Eve is available on request."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "Private hire of a catamaran on Sydney Harbour for birthdays, hen's and buck's parties, corporate events, Christmas parties, weddings and other occasions. There are six vessels carrying 20 to 60 guests, and charters generally run 3 to 4 hours on any day of the year, including public holidays. Guests can bring their own food and drinks or add catering and drinks packages, and most boarding is at a central wharf such as King Street Wharf.",
+      "highlights": [
+        "Six vessels, carrying from 20 to 60 guests",
+        "Generally 3 to 4 hours, available 365 days a year including public holidays",
+        "Bring your own food and drinks, or add catering and drinks packages",
+        "Optional extras such as a DJ, paddleboards, a floating island and a cocktail masterclass"
+      ],
+      "duration": "Generally 3 to 4 hours, with other lengths on request",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "All year, including public holidays. Start times are flexible.",
+      "departsFrom": "Most central harbour wharves; King Street Wharf, Darling Harbour is the most popular",
+      "prices": [
+        {
+          "label": "Kirralee (up to 30 guests), Mon to Thu excluding December, per hour",
+          "amount": 425,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Kirralee, Mon to Thu in December, per hour",
+          "amount": 475,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Kirralee, Fri and Sun excluding December, per hour",
+          "amount": 425,
+          "currency": "AUD",
+          "note": "Site shows a range of $425 to $475 per hour"
+        },
+        {
+          "label": "Kirralee, Fri and Sun in December, per hour",
+          "amount": 525,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Kirralee, Saturday, per hour",
+          "amount": 475,
+          "currency": "AUD",
+          "note": "Site shows a range of $475 to $525 per hour"
+        },
+        {
+          "label": "Enigma X (up to 20 guests), Mon to Fri excluding December, per hour",
+          "amount": 465,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Enigma X, Mon to Fri in December, per hour",
+          "amount": 495,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Enigma X, weekends, per hour",
+          "amount": 495,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Enigma X, public holidays, per hour",
+          "amount": 650,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Seawind 1000 (up to 20 guests), weekdays and weekends, per hour",
+          "amount": 350,
+          "currency": "AUD",
+          "note": "Site shows a range of $350 to $425 per hour"
+        },
+        {
+          "label": "Seawind 1000, public holidays, per hour",
+          "amount": 440,
+          "currency": "AUD",
+          "note": "Site shows a range of $440 to $540 per hour"
+        },
+        {
+          "label": "Seawind Resort 1160 (up to 43 guests), weekdays and weekends, per hour",
+          "amount": 550,
+          "currency": "AUD",
+          "note": "Site shows a range of $550 to $750 per hour"
+        },
+        {
+          "label": "Heaven (up to 46 guests), October to March excluding December, per hour",
+          "amount": 775,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Heaven, April to September, per hour",
+          "amount": 675,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Heaven, December Sunday to Thursday, per hour",
+          "amount": 775,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Heaven, December Friday and Saturday, per hour",
+          "amount": 875,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Fleetwing II (up to 60 guests), October to March excluding December, per hour",
+          "amount": 825,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Fleetwing II, April to September, per hour",
+          "amount": 725,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Fleetwing II, December Sunday to Thursday, per hour",
+          "amount": 825,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Fleetwing II, December Friday and Saturday, per hour",
+          "amount": 925,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Wharf and travel surcharge, Kirralee, Heaven and Fleetwing II, per charter",
+          "amount": 120,
+          "currency": "AUD",
+          "note": "Covers one pick-up and one drop-off at a central harbour location"
+        },
+        {
+          "label": "Wharf and travel surcharge, Enigma X, Seawind 1000 and Seawind Resort 1160, per charter",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Covers one pick-up and one drop-off at a central harbour location"
+        },
+        {
+          "label": "BYO surcharge, Kirralee, per charter",
+          "amount": 180,
+          "currency": "AUD",
+          "note": "Catering and non-alcoholic beverage packages are available on this vessel; bring all alcohol"
+        },
+        {
+          "label": "BYO food surcharge, Enigma X, per charter",
+          "amount": 100,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "BYO beverages surcharge, Enigma X, per charter",
+          "amount": 100,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "BYO surcharge, Seawind 1000, per charter",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Site shows a range of $100 to $150"
+        },
+        {
+          "label": "BYO surcharge, Seawind Resort 1160, per booking",
+          "amount": 150,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "BYO food surcharge, Heaven, 1-25 guests, per charter",
+          "amount": 220,
+          "currency": "AUD",
+          "note": "Up to 4 hours; $50 per extra hour for food"
+        },
+        {
+          "label": "BYO food surcharge, Heaven, 26-46 guests, per charter",
+          "amount": 270,
+          "currency": "AUD",
+          "note": "Up to 4 hours; $50 per extra hour for food"
+        },
+        {
+          "label": "BYO beverages surcharge, Heaven, 1-25 guests, per charter",
+          "amount": 220,
+          "currency": "AUD",
+          "note": "Up to 4 hours; $50 per extra hour for beverages. No BYO charters on Fridays and Saturdays in December; no BYO beverages for Buck's parties"
+        },
+        {
+          "label": "BYO beverages surcharge, Heaven, 26-46 guests, per charter",
+          "amount": 270,
+          "currency": "AUD",
+          "note": "Up to 4 hours; $50 per extra hour for beverages. No BYO charters on Fridays and Saturdays in December; no BYO beverages for Buck's parties"
+        },
+        {
+          "label": "BYO food surcharge, Fleetwing II, 1-25 guests, per charter",
+          "amount": 220,
+          "currency": "AUD",
+          "note": "Up to 4 hours; $50 per extra hour for food"
+        },
+        {
+          "label": "BYO food surcharge, Fleetwing II, 26-46 guests, per charter",
+          "amount": 270,
+          "currency": "AUD",
+          "note": "Up to 4 hours; $50 per extra hour for food"
+        },
+        {
+          "label": "BYO food surcharge, Fleetwing II, 47-60 guests, per charter",
+          "amount": 300,
+          "currency": "AUD",
+          "note": "Up to 4 hours; $50 per extra hour for food"
+        },
+        {
+          "label": "BYO beverages surcharge, Fleetwing II, 1-25 guests, per charter",
+          "amount": 220,
+          "currency": "AUD",
+          "note": "Up to 4 hours; $50 per extra hour for beverages. No BYO beverages for Buck's parties or for groups over 46"
+        },
+        {
+          "label": "BYO beverages surcharge, Fleetwing II, 26-46 guests, per charter",
+          "amount": 270,
+          "currency": "AUD",
+          "note": "Up to 4 hours; $50 per extra hour for beverages. No BYO beverages for Buck's parties or for groups over 46"
+        },
+        {
+          "label": "Staffing surcharge, Heaven, 26 or more guests, per charter",
+          "amount": 300,
+          "currency": "AUD",
+          "note": "Up to 4 hours; $75 per extra hour"
+        },
+        {
+          "label": "Staffing surcharge, Fleetwing II, 26-46 guests, per charter",
+          "amount": 300,
+          "currency": "AUD",
+          "note": "Up to 4 hours; $75 per extra hour"
+        },
+        {
+          "label": "Staffing surcharge, Fleetwing II, 47 or more guests, per charter",
+          "amount": 600,
+          "currency": "AUD",
+          "note": "Up to 4 hours; $150 per extra hour"
+        },
+        {
+          "label": "Additional staffing surcharge for 18th to 21st birthday parties and Buck's parties, per charter",
+          "amount": 300,
+          "currency": "AUD",
+          "note": "Applies on Kirralee, Enigma X, Heaven and Fleetwing II; up to 4 hours, then $75 per extra hour on Kirralee, Heaven and Fleetwing II"
+        },
+        {
+          "label": "Pre-access surcharge, Kirralee, Heaven and Fleetwing II, per charter",
+          "amount": 275,
+          "currency": "AUD",
+          "note": "Allows access to the vessel 30 to 60 minutes before the charter starts"
+        },
+        {
+          "label": "Pre-access surcharge, Enigma X, per charter",
+          "amount": 250,
+          "currency": "AUD",
+          "note": "Allows access to the vessel 30 to 60 minutes before the charter starts"
+        }
+      ],
+      "priceFrom": 350,
+      "includes": [
+        "Private use of the vessel with an experienced skipper and crew",
+        "Fuel",
+        "One pick-up and one drop-off point, covered by the wharf and travel surcharge",
+        "Sound system with internal and external speakers (Bluetooth or AUX)",
+        "Onboard toilet and swim ladder",
+        "Use of the onboard gas BBQ on bookings of 3 hours or more",
+        "Eskies or fridges for drinks"
+      ],
+      "bring": [
+        "Your own food if you bring your own: a substantial meal for all guests is required, not just nibbles",
+        "Your own drinks if you bring your own (drinking water and soft drinks too)",
+        "Decorations are allowed if kept simple; no confetti, glitter, petals or tinsel"
+      ],
+      "requirements": "All ages can board. Under 18s must be accompanied by a parent or responsible adult, and alcohol is for guests 18 and over only. A security bond is held by credit card authorisation, and the amount varies by vessel. Swimming is allowed on daytime cruises when the vessel is at anchor, with a waiver signed on the day.",
+      "offer": {
+        "text": "Loyalty special for returning clients",
+        "conditions": "Ask the team for details",
+        "validUntil": null
+      },
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/fleetwingII/fleetwing1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/birthdays/birthday9.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/hens/hens17.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/activities/dj1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://seasydneyharbour.com.au/private-charters.html",
+      "checkNotes": "Sold by enquiry only (email or phone for a customised quote); no booking link on the charter pages. priceFrom 350 is the lowest hourly vessel rate (Seawind 1000), not a total, and a wharf and travel surcharge and a BYO surcharge apply to all charters. Where the site shows a range, the lower figure is the amount and the range is in the note. Public holiday surcharges on Kirralee, Seawind Resort 1160, Heaven and Fleetwing II are applied to the total booking and are not entered as amounts; Easter Sunday, Christmas Day and New Year's Eve rates are on request. The terms also mention a charter service fee on all private charters with no amount shown. Fleetwing II BYO beverages are not available for groups over 46. Deposit and balance timing differ between pages: the FAQ says final payment is due 14 days before the cruise, the terms say at least 7 days before; both say a deposit of half the price secures the booking. Prices are from the six vessel pages (all AUD, GST included, skipper and crew included). The 'private-charters' page also links the occasion pages (birthdays, hen's, buck's, corporate, Christmas, New Year's Eve, weddings, family and social); only the birthdays page was read."
+    },
+    {
+      "title": "Private Vivid Sydney Cruise",
+      "kind": "charter",
+      "summary": "A 90 minute private cruise for the Vivid Sydney festival aboard Kirralee, Heaven or Fleetwing II, with pick-up and drop-off points arranged around the harbour. Light refreshments are included, and guests can bring their own drinks with no corkage fee. Cruise times vary by vessel, and pricing depends on the vessel and the size of the group.",
+      "highlights": [
+        "90 minute exclusive hire of Kirralee, Heaven or Fleetwing II",
+        "Customised pick-up and drop-off point",
+        "Light refreshments included: antipasto on Kirralee, roaming canapes on Heaven and Fleetwing II",
+        "Bring your own drinks, no corkage fees"
+      ],
+      "duration": "90 minutes",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": "Daily during the Vivid Sydney festival, stated on the site as 28 May to 19 June 2027",
+      "departsFrom": "Customised pick-up point around the harbour",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "90 minute exclusive vessel hire on Kirralee, Heaven or Fleetwing II",
+        "An experienced skipper and crew",
+        "Wharf and travel fees for one pick-up and drop-off point",
+        "Light refreshments: an Italian-inspired antipasto spread with bread rolls on Kirralee, roaming canapes on Heaven and Fleetwing II",
+        "Sound system with internal and external speakers, fuel and an onboard toilet"
+      ],
+      "bring": [
+        "Your own drinks if you wish (no corkage fees); Heaven and Fleetwing II also have a licensed bar"
+      ],
+      "requirements": null,
+      "offer": {
+        "text": "Loyalty special for returning clients",
+        "conditions": "Ask the team for details",
+        "validUntil": null
+      },
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid12.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid7.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/vivid/vivid10.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://seasydneyharbour.com.au/vivid-sydney-private-cruise.html",
+      "checkNotes": "Enquiry only; pricing is not published ('varies depending on vessel choice and capacity'), so prices is empty. The page heading is 'Vivid Sydney'; the title here follows the page copy 'a private Vivid Sydney cruise'. Cruise times depend on the vessel chosen and are not listed. Arrive 15 to 20 minutes before departure."
+    },
+    {
+      "title": "Harbour Transfers & Sightseeing",
+      "kind": "charter",
+      "summary": "Short private cruises of one to two hours for water transfers between wharves or group sightseeing, aboard Kirralee, Heaven or Fleetwing II. Pick-up and drop-off points can be arranged around the harbour, and most wharves can be reached within 60 to 90 minutes. Guests can bring their own food and drinks or add catering and beverage packages.",
+      "highlights": [
+        "1 to 2 hours aboard Kirralee (up to 30 guests), Heaven (up to 46) or Fleetwing II (up to 60)",
+        "Pick-up and drop-off points arranged around the harbour",
+        "Available every day of the year, including public holidays",
+        "Bring your own food and drinks, or add catering and beverage packages"
+      ],
+      "duration": "1 to 2 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "All year, including public holidays. Start times are flexible.",
+      "departsFrom": "Customised pick-up point around the harbour",
+      "prices": [
+        {
+          "label": "Kirralee (up to 30 guests), 1 hour, per cruise",
+          "amount": 1000,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Kirralee, 1 hour 30 minutes, per cruise",
+          "amount": 1300,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Kirralee, 2 hours, per cruise",
+          "amount": 1500,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Heaven (up to 46 guests), 1 hour, per cruise",
+          "amount": 1450,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Heaven, 1 hour 30 minutes, per cruise",
+          "amount": 1750,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Heaven, 2 hours, per cruise",
+          "amount": 2000,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Fleetwing II (up to 60 guests), 1 hour, per cruise",
+          "amount": 1450,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Fleetwing II, 1 hour 30 minutes, per cruise",
+          "amount": 1750,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Fleetwing II, 2 hours, per cruise",
+          "amount": 2000,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Basic beverage package, Heaven or Fleetwing II, 1 hour cruise, per person",
+          "amount": 20,
+          "currency": "AUD",
+          "note": "Optional add-on"
+        },
+        {
+          "label": "Basic beverage package, Heaven or Fleetwing II, 1 hour 30 minutes or 2 hour cruise, per person",
+          "amount": 30,
+          "currency": "AUD",
+          "note": "Optional add-on"
+        },
+        {
+          "label": "BYO beverages surcharge, Heaven or Fleetwing II, 1-25 guests, per cruise",
+          "amount": 220,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "BYO beverages surcharge, Heaven or Fleetwing II, 26-46 guests, per cruise",
+          "amount": 270,
+          "currency": "AUD",
+          "note": "Not available on Fleetwing II for 47-60 guests"
+        },
+        {
+          "label": "Staffing surcharge, Heaven, 26 or more guests, per charter",
+          "amount": 300,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Staffing surcharge, Fleetwing II, 26-46 guests, per charter",
+          "amount": 300,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Staffing surcharge, Fleetwing II, 47 or more guests, per charter",
+          "amount": 600,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 1000,
+      "includes": [
+        "1 to 2 hours private vessel hire on a vessel of your choice",
+        "An experienced skipper and crew",
+        "Wharf and travel fees for one pick-up and drop-off point",
+        "Cooling facilities for drinks (eskies or fridges, depending on vessel)",
+        "Sound system with internal and external speakers, fuel and an onboard toilet"
+      ],
+      "bring": [
+        "Your own food and drinks if you bring your own (surcharges and some limitations apply)"
+      ],
+      "requirements": null,
+      "offer": {
+        "text": "Loyalty special for returning clients",
+        "conditions": "Ask the team for details",
+        "validUntil": null
+      },
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/heaven/heaven1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee13.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/fleetwingII/fleetwing1.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/kirralee/kirralee11.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://seasydneyharbour.com.au/harbour-transfers-and-sightseeing.html",
+      "checkNotes": "Enquiry only (email or phone); no booking link. Prices are per cruise, AUD, GST included and include skipper and crew. Special rates apply on public holidays and major events and are not listed. Alcoholic beverage packages are available on Heaven and Fleetwing II only."
+    },
+    {
+      "title": "Hen's Package",
+      "kind": "charter",
+      "summary": "A private three hour cruise for a hen's party at a set price per person, aboard Kirralee (up to 30 guests) or Heaven (up to 46 guests). The Kirralee package has a platter menu, a bottle of champagne to toast the bride-to-be, and bring-your-own drinks. The Heaven package has a buffet and a beer, wine and soft drink package.",
+      "highlights": [
+        "3 hours private hire of Kirralee or Heaven with catering and crew",
+        "Per person price, with group discounts at higher numbers",
+        "Kirralee package includes a bottle of champagne for the bride-to-be",
+        "Heaven package includes beer, wine and soft drink"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": "Available throughout the year, excluding public holidays",
+      "departsFrom": "Customised pick-up point around the harbour",
+      "prices": [
+        {
+          "label": "Package 1, Kirralee, group of 12 to 20, per person",
+          "amount": 154,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 1, Kirralee, group of 21 to 30, per person",
+          "amount": 134,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 1, Kirralee, extend by 1 hour, per charter",
+          "amount": 525,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 2, Heaven, group of 15 to 20, per person",
+          "amount": 199,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 2, Heaven, group of 21 to 30, per person",
+          "amount": 189,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 2, Heaven, group of 31 to 40, per person",
+          "amount": 179,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 2, Heaven, group of 41 to 46, per person",
+          "amount": 169,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 2, Heaven, upgrade to the High-Tide Beverage Package, per person",
+          "amount": 22,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 2, Heaven, extend by 1 hour, per charter",
+          "amount": 775,
+          "currency": "AUD",
+          "note": "Plus $15 per person for the Low-Tide or $20 per person for the High-Tide Beverage Package"
+        }
+      ],
+      "priceFrom": 134,
+      "includes": [
+        "Kirralee package: 3 hours private hire, skipper and crew, one pick-up and drop-off point, 'Waves of Platters' (cheese, antipasto with mini bread rolls, wraps, fresh fruit), a bottle of champagne, ice and cooling facilities, fuel",
+        "Heaven package: 3 hours private hire, skipper and crew, one pick-up and drop-off point, 'Calm Water Buffet' (cheese platter, fresh prawns, chilled ham, barbecue chicken, potato salad, garden or Greek salad, bread rolls, fresh fruit), 'Low-Tide Drinks Package' of beer, wine and soft drink, fuel"
+      ],
+      "bring": [
+        "Your own drinks on the Kirralee package (alcoholic and non-alcoholic, no corkage fees)"
+      ],
+      "requirements": "Minimum group of 12 on Kirralee and 15 on Heaven (or a minimum spend). Under 18s must be accompanied by a parent or responsible adult.",
+      "offer": null,
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/hens/hens17.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/hens/hens10.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/hens/hens14.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://seasydneyharbour.com.au/hens-package.html",
+      "checkNotes": "Enquiry only; no booking link. Prices are per person, AUD, GST included. The page headline says price from $134pp, the lowest group rate on Kirralee. Day and night cruises are offered. The page also offers a customised hen's party charter with the option to add extra activities."
+    },
+    {
+      "title": "Buck's Package",
+      "kind": "charter",
+      "summary": "A private three hour daytime cruise for a buck's party at a set price per person, aboard Kirralee (up to 20 guests) or Heaven (up to 30 guests). Both packages include a barbecue menu, and the Heaven package adds a beer, wine and soft drink package. Only daytime start times are offered for buck's parties.",
+      "highlights": [
+        "3 hours private hire with a barbecue menu and crew",
+        "Per person price, lower for larger groups",
+        "Daytime cruises only",
+        "Heaven package includes beer, wine and soft drink"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": "Available throughout the year, excluding public holidays",
+      "departsFrom": "Customised pick-up point around the harbour",
+      "prices": [
+        {
+          "label": "Package 1, Kirralee, group of 12 to 20, per person",
+          "amount": 154,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 1, Kirralee, group of 21 to 30, per person",
+          "amount": 134,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 2, Heaven, group of 15 to 20, per person",
+          "amount": 209,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 2, Heaven, group of 21 to 30, per person",
+          "amount": 199,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 2, Heaven, upgrade to the High-Tide Beverage Package, per person",
+          "amount": 22,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 134,
+      "includes": [
+        "Kirralee package: 3 hours private hire, skipper and crew, one pick-up and drop-off point, 'Basic Blue BBQ' (party snacks, beef sausages, chicken skewers, sliced onions, garden salad, bread rolls), ice and cooling facilities, fuel",
+        "Heaven package: 3 hours private hire, skipper and crew, one pick-up and drop-off point, 'Basic Blue BBQ', 'Low-Tide Drinks Package' of beer, wine and soft drink, fuel"
+      ],
+      "bring": [
+        "Your own drinks on the Kirralee package (alcoholic and non-alcoholic, no corkage fees)"
+      ],
+      "requirements": "Minimum group of 12 on Kirralee and 15 on Heaven (or a minimum spend). Daytime start times only. Under 18s must be accompanied by a parent or responsible adult.",
+      "offer": null,
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/bucks/bucks16.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/bucks/bucks10.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/bucks/bucks13.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://seasydneyharbour.com.au/bucks-package.html",
+      "checkNotes": "Enquiry only; no booking link. Prices are per person, AUD, GST included. Package 1 is headed 'up to 20 guests' but its price table includes a group of 21 to 30 people, so the guest limit for Kirralee needs checking (the vessel holds up to 30). The terms limit buck's parties to a maximum of 3 hours, daytime only. The Heaven vessel page says there are no BYO beverages for buck's parties."
+    },
+    {
+      "title": "Christmas Package",
+      "kind": "charter",
+      "summary": "A private three hour cruise for a Christmas party at a set price per person, aboard Kirralee (up to 30 guests) or Heaven (up to 46 guests). The Kirralee package is a burger menu with bring-your-own drinks. The Heaven package is a barbecue menu with a beer, wine and soft drink package.",
+      "highlights": [
+        "3 hours private hire with catering and crew",
+        "Per person price, lower for larger groups",
+        "Kirralee package is a burger menu with your own drinks",
+        "Heaven package is a barbecue menu with beer, wine and soft drink"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": "Available throughout the year, excluding public holidays",
+      "departsFrom": "Customised pick-up point around the harbour",
+      "prices": [
+        {
+          "label": "Package 1, Kirralee, group of 12 to 20, per person",
+          "amount": 154,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 1, Kirralee, group of 21 to 30, per person",
+          "amount": 134,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 1, Kirralee, extend by 1 hour, per charter",
+          "amount": 525,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 2, Heaven, group of 15 to 20, per person",
+          "amount": 209,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 2, Heaven, group of 21 to 30, per person",
+          "amount": 199,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 2, Heaven, group of 31 to 40, per person",
+          "amount": 179,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 2, Heaven, group of 41 to 46, per person",
+          "amount": 169,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 2, Heaven, upgrade to the High-Tide Beverage Package, per person",
+          "amount": 22,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Package 2, Heaven, extend by 1 hour, per charter",
+          "amount": 775,
+          "currency": "AUD",
+          "note": "Plus $15 per person for the Low-Tide or $20 per person for the High-Tide Beverage Package"
+        }
+      ],
+      "priceFrom": 134,
+      "includes": [
+        "Kirralee package: 3 hours private hire, skipper and crew, one pick-up and drop-off point, 'Captain's Burgers' (cheese platter, beef patties, burger toppings and spreads, garden or Greek salad, bread rolls, fresh fruit), ice and cooling facilities, fuel",
+        "Heaven package: 3 hours private hire, skipper and crew, one pick-up and drop-off point, 'Gourmet Harbour BBQ' (cheese platter, two sausage varieties, chicken skewers, premium steaks, sliced onions, pasta salad, garden salad, bread rolls, fresh fruit), 'Low-Tide Drinks Package' of beer, wine and soft drink, fuel"
+      ],
+      "bring": [
+        "Your own drinks on the Kirralee package (alcoholic and non-alcoholic, no corkage fees)"
+      ],
+      "requirements": "Minimum group of 12 on Kirralee and 15 on Heaven (or a minimum spend). Under 18s must be accompanied by a parent or responsible adult.",
+      "offer": null,
+      "images": [
+        "https://seasydneyharbour.com.au/assets/images/gallery/christmas/christmas11.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/christmas/christmas7.jpg",
+        "https://seasydneyharbour.com.au/assets/images/gallery/christmas/christmas6.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://seasydneyharbour.com.au/christmas-package.html",
+      "checkNotes": "Enquiry only; no booking link. Prices are per person, AUD, GST included. The page headline says price from $134pp, the lowest group rate on Kirralee. Day and night cruises are offered."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers",
+      "conditions": "Valid for three years from the date of purchase or issue. Non-refundable and non-transferable once payment is processed, and not exchangeable for cash. Redeemed online for ticketed tours and events; for a private charter, give the voucher number to the team when booking. Can be used toward any product or service the operator lists.",
+      "validUntil": null,
+      "sourceUrl": "https://seasydneyharbour.com.au/gift-vouchers.html"
+    },
+    {
+      "text": "NSW Seniors Card special offer on ticketed harbour cruises",
+      "conditions": "Contact the team for details",
+      "validUntil": null,
+      "sourceUrl": "https://seasydneyharbour.com.au/sunset-sparkle.html"
+    },
+    {
+      "text": "Loyalty special for returning clients on private charters",
+      "conditions": "Ask the team for details",
+      "validUntil": null,
+      "sourceUrl": "https://seasydneyharbour.com.au/private-charters.html"
+    },
+    {
+      "text": "Catering and beverage packages for private charters, food from $8 to $60 per person and drinks packages from $5 to $30 per person per hour",
+      "conditions": "Minimum group of 10 for all catering options, ordered for all guests on board. Available on Kirralee, Heaven and Fleetwing II; alcoholic beverage packages on Heaven and Fleetwing II only. A surcharge applies on public holidays and special events.",
+      "validUntil": null,
+      "sourceUrl": "https://seasydneyharbour.com.au/catering.html"
+    },
+    {
+      "text": "Extra charter activities for private charters: floating island $180, floating water mat $120, two stand-up paddleboards $120, DJ $825 (3 to 4 hours, Fleetwing II and Heaven)",
+      "conditions": "Floating island, water mat and paddleboards on daytime charters only. A drag queen hostess, cocktail making masterclass and laser clay shooting are priced on request. Subject to availability.",
+      "validUntil": null,
+      "sourceUrl": "https://seasydneyharbour.com.au/charter-fun.html"
+    }
+  ],
+  "checkNotes": "No whale watching trip appears anywhere on the site; the only mention is a line about migrating whales in a seasonal blog post. The operator sells private harbour charters and ticketed harbour cruises only. Three trips are left out because their pages say they are not currently running: Twilight Treasures Sunset Harbour Cruise (Rezdy product 692638), Catamaran, Champagne & Cheeseboards (online booking 'coming soon') and Valentine's Day Sunset Romance Cruise (Rezdy product 542534). The ticketed tours page and the menu also link to Rezdy catalogs for Sunset Harbour Cruises (144566), Dogs & Day Trips (587787), Harbour Romance Cruises (342695), Vivid Sydney Cruises (136438), New Year's Eve Cruises (156941) and Gift Vouchers (172193); these are catalog pages, not individual trips, so they are not entered as trip booking links. The Book Now button goes to the Rezdy storefront (seasydneyharbour.rezdy.com). Rezdy pages were not opened. On every ticketed trip page the headline 'price from' is the lowest passenger type (usually the child price, or the dog ticket on Dogs on Deck), so priceFrom uses the adult price instead; passenger maximums also differ between sections of several pages (see each trip). Phone: the first call link in the menu is +61452188793, while the visible text and every other link say +61 452 188 739; the visible number is used. The only address is a PO Box in Pyrmont; trips leave from several wharves (Man O War Steps, Aquarium Wharf, Pier 2 Walsh Bay, Pyrmont, King Street Wharf). Vivid Sydney dates shown are for 2027 (28 May to 19 June 2027). The home page lists several business awards; their issuers and standing were not checked, so only one is mentioned in standouts. The Kirralee page describes the vessel as a 'Seawind Resort 1050' of 10.5 metres. Departure times for the monthly-varying sunset cruises are in each trip's season field rather than departureTimes. About 40 pages were read (38 site pages, the blog index and the YouTube channel page the site links to); no bot check was met. Occasion pages other than birthdays (hen's, buck's, corporate, Christmas, New Year's Eve, weddings, family and social) and the awards, testimonials and contact pages were not read. Left out the home page banners (banner34a, banner32, banner30a): marketing graphics with text and borders printed on them."
+}

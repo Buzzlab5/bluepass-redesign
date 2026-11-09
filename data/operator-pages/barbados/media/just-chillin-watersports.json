@@ -1,0 +1,26 @@
+{
+  "slug": "just-chillin-watersports",
+  "logo": "https://static.wixstatic.com/media/123606_1eb10f59a243435fad90cfd800e4945a~mv2.png",
+  "gallery": [
+    "https://static.wixstatic.com/media/123606_90626013c6584852953d2ceee06d98c0~mv2.jpg",
+    "https://static.wixstatic.com/media/123606_6719f3db9c2f44a58f6c20ef4a054414~mv2.jpg",
+    "https://static.wixstatic.com/media/123606_fac63c6dce484bfcbbad9429df127e91~mv2.jpg",
+    "https://static.wixstatic.com/media/123606_08c59d84951246f49301710f88f93ae8~mv2.jpg",
+    "https://static.wixstatic.com/media/123606_20efb72cb03846f1ae15b35a9fbb9b7e~mv2.jpg"
+  ],
+  "videos": [
+    { "url": "https://video.wixstatic.com/video/123606_1a09562c92fd4b8ba30eb75b355031b8/720p/mp4/file.mp4", "title": "Turtle trip", "sourceUrl": "https://www.justchillinwatersports.com/turtle-snorkelling" },
+    { "url": "https://video.wixstatic.com/video/123606_85d10aee0e044e79938b02252794f4b0/1080p/mp4/file.mp4", "title": "Tube ride on the west coast", "sourceUrl": "https://www.justchillinwatersports.com/watersports" }
+  ],
+  "trips": [
+    { "title": "West Coast & Turtle Trip", "images": [] },
+    { "title": "Private Trip", "images": ["https://static.wixstatic.com/media/123606_20efb72cb03846f1ae15b35a9fbb9b7e~mv2.jpg"] },
+    { "title": "Private Trip + Premium Picnic Basket", "images": [] },
+    { "title": "Private Restaurant Boat Transfer", "images": [] },
+    { "title": "Watersports Combo Hour", "images": ["https://static.wixstatic.com/media/123606_90626013c6584852953d2ceee06d98c0~mv2.jpg", "https://static.wixstatic.com/media/123606_6719f3db9c2f44a58f6c20ef4a054414~mv2.jpg"] },
+    { "title": "Waterskiing", "images": ["https://static.wixstatic.com/media/123606_6719f3db9c2f44a58f6c20ef4a054414~mv2.jpg"] },
+    { "title": "Tube Rides", "images": ["https://static.wixstatic.com/media/123606_90626013c6584852953d2ceee06d98c0~mv2.jpg", "https://static.wixstatic.com/media/123606_fac63c6dce484bfcbbad9429df127e91~mv2.jpg"] },
+    { "title": "Wakeboarding", "images": ["https://static.wixstatic.com/media/123606_08c59d84951246f49301710f88f93ae8~mv2.jpg"] }
+  ],
+  "notes": "Most images on this Wix site are AI-generated, going by their own file names ('ChatGPT Image Aug 15, 2026...', 'ai-generated-IMAGE.jpg'), and were left out. Also left out, as possibly AI-generated or Wix stock: unnamed square 1254 by 1254 and 1536 by 1024 PNG card images on the booking services, and banner covers whose source files carry Wix stock media IDs (11062b_ prefix). Kept only photos with real-looking source names or JPEG camera sizes (towables.jpg, wakeboarding.jpg, 'ian friend_edited.jpg', a 1920 by 1282 tube photo, and the Private Trip card photo, whose origin is unclear). The home page background video is named 'download (5).mp4' and was left out because its source is unclear; the two videos kept are hosted by the operator on Wix (one named JCW_Turtle_Video). No bot checks met."
+}

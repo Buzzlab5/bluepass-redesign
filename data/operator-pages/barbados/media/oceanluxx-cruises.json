@@ -1,0 +1,27 @@
+{
+  "slug": "oceanluxx-cruises",
+  "logo": "https://oceanluxx.com/wp-content/uploads/2023/10/logo.png",
+  "gallery": [
+    "https://oceanluxx.com/wp-content/uploads/2024/02/drone-41-scaled.jpg",
+    "https://oceanluxx.com/wp-content/uploads/2024/02/IMG_0988.jpg",
+    "https://oceanluxx.com/wp-content/uploads/2024/01/12.jpg",
+    "https://oceanluxx.com/wp-content/uploads/2024/01/883d8998-2e3f-49f6-bfbf-f1092cc8a1e2.jpg",
+    "https://oceanluxx.com/wp-content/uploads/2023/12/photo-1.jpg",
+    "https://oceanluxx.com/wp-content/uploads/2023/12/PHOTO-2023-12-11-21-56-00-2.jpg",
+    "https://oceanluxx.com/wp-content/uploads/2024/01/af2e1b29-5ce0-4ed0-9255-6b03e5837bcd.jpg",
+    "https://oceanluxx.com/wp-content/uploads/2024/01/PHOTO-2024-01-14-21-21-35-2.jpg",
+    "https://oceanluxx.com/wp-content/uploads/2024/05/PHOTO-2024-05-05-18-27-45-1.jpg",
+    "https://oceanluxx.com/wp-content/uploads/2024/05/PHOTO-2024-04-18-12-05-06.jpg",
+    "https://oceanluxx.com/wp-content/uploads/2024/05/PHOTO-2024-04-05-16-01-50-1-scaled.jpg",
+    "https://oceanluxx.com/wp-content/uploads/2024/05/PHOTO-2024-04-05-16-01-50-2.jpg",
+    "https://oceanluxx.com/wp-content/uploads/2024/05/PHOTO-2024-05-05-18-27-45.jpg",
+    "https://oceanluxx.com/wp-content/uploads/2024/05/PHOTO-2024-05-01-14-56-29.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    { "title": "Half-day cruise", "images": [] },
+    { "title": "Sunset cruise", "images": [] },
+    { "title": "Private charter", "images": [] }
+  ],
+  "notes": "All photos come from the home page background slideshow; no other page on the site shows photos. Trips have no pages of their own (they live in a Rezdy widget, which was not opened), so trip image lists are empty. The footer has a YouTube icon but no channel URL in its link. No videos found."
+}

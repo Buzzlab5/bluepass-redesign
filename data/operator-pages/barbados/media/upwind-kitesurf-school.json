@@ -1,0 +1,79 @@
+{
+  "slug": "upwind-kitesurf-school",
+  "logo": "https://upwindkitesurfschool.com/wp-content/uploads/2017/01/logo.png",
+  "gallery": [
+    "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/KitesurfingBarbados1.jpg",
+    "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/KiteSurfingBarbados2.jpg",
+    "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/KiteBoardingBarbados1.jpg",
+    "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/KiteBoardingBarbados2.jpg",
+    "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/At-Silver-Rock-2.jpg",
+    "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/At-Long-Beach.jpg",
+    "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/At-Long-Beach2.jpg",
+    "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/AB130607-2.jpg",
+    "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/AB130018-2.jpg",
+    "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/AB130524-2.jpg",
+    "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/AB131342-2.jpg",
+    "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/Hydrofoil-2.jpg",
+    "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/Secret-Spot-1-of-8-1.jpg",
+    "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/Secret-Spot-2-of-8-1.jpg",
+    "https://upwindkitesurfschool.com/wp-content/uploads/2018/07/Silver-Rock-Spot.jpg",
+    "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/UpwinHome1.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=-TNG9aLFKlE",
+      "title": "Simon Joosten strapless tricks, flatwater",
+      "sourceUrl": "https://upwindkitesurfschool.com/gallery/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iDTB5IsVnPc",
+      "title": "Simon Joosten kitesurfing",
+      "sourceUrl": "https://upwindkitesurfschool.com/gallery/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Group Lessons",
+      "images": [
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/At-Long-Beach.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/At-Long-Beach2.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/Bodydrag.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/Secret-Spot-4-of-8.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/KiteBoardingBarbados1.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/untitled-2-of-16.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/photo3.jpg"
+      ]
+    },
+    {
+      "title": "Private Lessons",
+      "images": [
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/Rolf-Lesson.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/photo3.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/untitled-5-of-6.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/untitled-6-of-6.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/Secret-Spot-4-of-8.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/untitled-2-of-16.jpg"
+      ]
+    },
+    {
+      "title": "Progression Lessons (for advanced riders)",
+      "images": [
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/Hydrofoil-2.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/Hydrofoil.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/10511531_10203770948741734_1901381868135503794_o.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/17015885_1354956164524628_6529285875974076530_o.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/untitled-5-of-6.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/untitled-6-of-6.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/untitled-2-of-16.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/photo3.jpg"
+      ]
+    },
+    {
+      "title": "Rentals Available for Experienced Riders",
+      "images": [
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/Secret-Spot-4-of-8.jpg"
+      ]
+    }
+  ],
+  "notes": "WordPress site, photos mostly uploaded in 2017. The site carries injected spam posts (casino and betting), so only the school's own pages and uploads were used. Logo: logo.png (larger) and LogoNoBGSM.png also exist under /wp-content/uploads/2017/01/. Partner logos (Duotone, Fanatic Boarders Center) left out. Both gallery videos are labelled 'Simon Joosten Strapless Tricks Flatwater Denmark' on the site, so they show the instructor riding in Denmark rather than lessons in Barbados. The gallery has about 60 more photos (untitled-N-of-16, Secret-Spot-N-of-8, Facebook-style numbered file names) under /wp-content/uploads/2017/07/."
+}

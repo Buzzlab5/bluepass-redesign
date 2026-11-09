@@ -1,0 +1,340 @@
+{
+  "slug": "reel-spirit-luxury-fishing-charter-watersports",
+  "name": "Reel Spirit Luxury Charters",
+  "website": "https://reelspiritfishingbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Speightstown",
+  "category": "Fishing charters and cruises",
+  "summary": "Reel Spirit runs private fishing charters and coastal cruises on a Super Sport 48 yacht from Port Ferdinand Marina near Speightstown. Fishing trips run inshore for families and beginners or offshore for wahoo, barracuda and mahi mahi, and most cruises stop to snorkel reefs and wrecks. Food and drink packages and watersports can be added.",
+  "standouts": [
+    "Established in 2009",
+    "Super Sport 48 Ocean Yacht with three bedrooms, air conditioning and two restrooms with showers",
+    "Captain and crew are CPR certified",
+    "Shimano fishing gear and a fighting chair on board"
+  ],
+  "contact": {
+    "phone": "+1 246 289 6550",
+    "email": "hello@reelspiritfishingbarbados.com",
+    "address": "Port Ferdinand Marina, Six Mens, Speightstown, St Peter, Barbados",
+    "whatsapp": "https://wa.link/gofli2"
+  },
+  "heroImage": "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/Hero-Boat-Turn.jpg",
+  "sourceUrls": [
+    "https://reelspiritfishingbarbados.com/",
+    "https://reelspiritfishingbarbados.com/home/",
+    "https://reelspiritfishingbarbados.com/our-fishing-charters/",
+    "https://reelspiritfishingbarbados.com/luxury-barbados-cruises/",
+    "https://reelspiritfishingbarbados.com/about/",
+    "https://reelspiritfishingbarbados.com/book-live/"
+  ],
+  "trips": [
+    {
+      "title": "Private Signature Inshore Luxury Fishing Charters",
+      "kind": "charter",
+      "summary": "A private inshore fishing trip in calm, protected water, aimed at new anglers and families. The crew guides the fishing, and there is time for a guided snorkel over reefs and shipwrecks where turtles swim.",
+      "highlights": [
+        "Calm inshore water close to shore",
+        "Penn International and Shimano fishing gear",
+        "Guided snorkel over shipwrecks and reefs",
+        "Take home your catch"
+      ],
+      "duration": "3 or 4 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Port Ferdinand Marina, Six Mens, St Peter",
+      "prices": [
+        { "label": "3 hours, private charter for up to 5 guests", "amount": 750, "currency": "USD", "note": "Each extra guest $100 USD" },
+        { "label": "4 hours, private charter for up to 5 guests", "amount": 1000, "currency": "USD", "note": "Each extra guest $125 USD; maximum 15 guests" }
+      ],
+      "priceFrom": 750,
+      "includes": [
+        "Guidance from an experienced crew",
+        "Penn International and Shimano fishing equipment",
+        "Guided snorkel, shipwrecks and reefs",
+        "Snacks and soft drinks",
+        "Take home your catch",
+        "Complimentary photos and videos of your trip"
+      ],
+      "bring": ["Suncream", "Sunglasses", "Hat", "Swimwear if you plan to swim or snorkel"],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2023/10/faqs-catch.jpg",
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/Experience-Tiles-Family-Fish.jpg",
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2023/10/reel-experience-6.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://reelspiritfishingbarbados.com/our-fishing-charters/",
+      "checkNotes": "The same block also shows 'PRICE UPON REQUEST' next to the listed prices; prices recorded as shown, per charter for up to 5 guests (home page says 'PER CHARTER'). durationMinutes is the shorter of the two options. Booking is by request form, phone, email or WhatsApp. The site mentions snorkelling with turtles, not feeding them. Jet ski tour flag: jet skis are offered as a watersports add-on."
+    },
+    {
+      "title": "Private Signature Luxury Offshore Fishing Charters",
+      "kind": "charter",
+      "summary": "A private offshore trip for anglers who want more time on the fish, targeting wahoo, barracuda and mahi mahi. The crew guides the fishing, and a snorkel stop can be part of the day.",
+      "highlights": [
+        "Offshore fishing for wahoo, barracuda and mahi mahi",
+        "Choice of 4, 5 or 6 hours",
+        "Penn International and Shimano fishing gear",
+        "Take home your catch"
+      ],
+      "duration": "4, 5 or 6 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Port Ferdinand Marina, Six Mens, St Peter",
+      "prices": [
+        { "label": "4 hours, private charter for 5 guests", "amount": 1000, "currency": "USD", "note": "Each extra guest $125 USD" },
+        { "label": "5 hours, private charter for 5 guests", "amount": 1250, "currency": "USD", "note": "Each extra guest $150 USD" },
+        { "label": "6 hours, private charter for 5 guests", "amount": 1500, "currency": "USD", "note": "Each extra guest $175 USD; maximum 15 guests" }
+      ],
+      "priceFrom": 1000,
+      "includes": [
+        "Guidance from an experienced crew",
+        "Penn International and Shimano fishing equipment",
+        "Guided snorkel, shipwrecks and reefs",
+        "Snacks and soft drinks",
+        "Take home your catch",
+        "Complimentary photos and videos of your trip"
+      ],
+      "bring": ["Suncream", "Sunglasses", "Hat", "Swimwear if you plan to swim or snorkel"],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2023/10/charters-main-3.jpg",
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2023/10/charter-2-a.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://reelspiritfishingbarbados.com/our-fishing-charters/",
+      "checkNotes": "Also shows 'PRICE UPON REQUEST' next to the listed prices. durationMinutes is the shortest option. Booking is by request form, phone, email or WhatsApp. Jet ski tour flag: jet skis are offered as a watersports add-on."
+    },
+    {
+      "title": "Full Day Private 8hr Luxury Offshore Fishing Charter",
+      "kind": "charter",
+      "summary": "A full private day offshore, planned around the group, for seasoned anglers. Targets include wahoo, barracuda, mahi mahi, amberjack, bonito and rainbow runner.",
+      "highlights": [
+        "Eight hours of offshore fishing",
+        "Targets wahoo, mahi mahi, amberjack, bonito and rainbow runner",
+        "Alcoholic and soft drinks included",
+        "Take home your catch"
+      ],
+      "duration": "8 hours",
+      "durationMinutes": 480,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Port Ferdinand Marina, Six Mens, St Peter",
+      "prices": [
+        { "label": "8 hours, private charter for 5 guests", "amount": 1800, "currency": "USD", "note": "Each extra guest $200 USD; maximum 15 guests" }
+      ],
+      "priceFrom": 1800,
+      "includes": [
+        "Guidance from an experienced crew",
+        "Penn International and Shimano fishing equipment",
+        "Guided snorkel, shipwrecks and reefs",
+        "Snacks, alcohol and soft drinks",
+        "Take home your catch",
+        "Complimentary photos and videos of your trip"
+      ],
+      "bring": ["Suncream", "Sunglasses", "Hat", "Swimwear if you plan to swim or snorkel"],
+      "requirements": "Alcohol is served only to guests aged 18 and over",
+      "offer": null,
+      "images": [
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2023/11/reel-difference-new-3.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://reelspiritfishingbarbados.com/our-fishing-charters/",
+      "checkNotes": "Charters page says 'Only $1800 USD*'; home page says 'FROM Only $1800 USD PER CHARTER'. Also shows 'PRICE UPON REQUEST'. Booking is by request form, phone, email or WhatsApp. Jet ski tour flag: jet skis are offered as a watersports add-on."
+    },
+    {
+      "title": "4hr Family-Friendly Inshore Private Fishing Charter",
+      "kind": "charter",
+      "summary": "A four-hour private inshore trip for families, in calm water, where the crew helps children reel in their own fish. There is a guided swim and snorkel where turtles swim, and young anglers get a certificate.",
+      "highlights": [
+        "Kids learn to reel in their own catch",
+        "Guided swim and snorkel, shipwrecks",
+        "Certificate of achievement for young anglers",
+        "Children under 3 go free"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Port Ferdinand Marina, Six Mens, St Peter",
+      "prices": [
+        { "label": "4 hours, private charter for 5 guests", "amount": 1000, "currency": "USD", "note": "Each extra guest $125 USD; maximum 15; kids under 3 go free" }
+      ],
+      "priceFrom": 1000,
+      "includes": [
+        "Guidance from an experienced crew",
+        "Guided swim and snorkel, shipwrecks",
+        "Snacks and soft drinks",
+        "Certificate of achievement for young anglers",
+        "Photo keepsakes"
+      ],
+      "bring": ["Suncream", "Sunglasses", "Hat", "Swimwear"],
+      "requirements": "At least one adult guardian must accompany children; recommended for ages 5+",
+      "offer": null,
+      "images": [
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/Experience-Tiles-Arlo.png",
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2023/10/charter-4-d.jpg",
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/Experience-Tiles-Life-Jacket.jpg",
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/Experience-Tiles-Food-Family.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://reelspiritfishingbarbados.com/our-fishing-charters/",
+      "checkNotes": "Also shows 'PRICE UPON REQUEST' next to the price. The FAQ gives a maximum of 12 passengers on the family charter, while the price note says up to 15. A kid-friendly pizza package is an optional upgrade. The site mentions swimming with turtles, not feeding them. Jet ski tour flag: jet skis are offered as a watersports add-on."
+    },
+    {
+      "title": "Private Signature Cruises",
+      "kind": "cruise",
+      "summary": "A private cruise along the coast with a guided snorkel over reefs and shipwrecks, time with the turtles in the water, and a stop at a quiet beach. Choose a lunch or sunset dinner cruise, or a longer bespoke day.",
+      "highlights": [
+        "Lunch cruise 10am to 2pm, sunset dinner cruise 3pm to 7pm",
+        "Guided snorkel of reefs and shipwrecks, gear included",
+        "Stops at secluded beaches",
+        "Bespoke cruises of 4 hours or more"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": ["10:00", "15:00"],
+      "season": null,
+      "departsFrom": "Port Ferdinand Marina, Six Mens, St Peter",
+      "prices": [
+        { "label": "Private charter, per hour (up to 15 guests)", "amount": 350, "currency": "USD", "note": "Minimum 4 hour rental" },
+        { "label": "Lunch or Sunset Cruise, 4 hours, private charter (up to 15 guests)", "amount": 1400, "currency": "USD", "note": "Food and drink packages and watersports quoted on request" }
+      ],
+      "priceFrom": 1400,
+      "includes": [
+        "Guided snorkel of reefs and shipwrecks, gear included",
+        "Collection of photos and videos of your trip"
+      ],
+      "bring": ["Suncream", "Sunglasses", "Hat", "Swimwear and towels"],
+      "requirements": "Recommended for ages 5+; children need at least one adult guardian",
+      "offer": null,
+      "images": [
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/Experience-Tiles-Life-Jacket.jpg",
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/Experience-Tiles-Kids.jpg",
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/Experience-Tiles-Food-Family.png",
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/Experience-Tiles-Girl-SUP.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://reelspiritfishingbarbados.com/luxury-barbados-cruises/",
+      "checkNotes": "Also shows 'PRICE UPON REQUEST' next to the prices. Home page says 'FROM Only $1400 USD PER CHARTER'. Gourmet food package needs at least 6 people. Transport can be arranged at extra cost. The site says guests swim alongside turtles; it does not mention feeding them. Jet ski tour flag: jet skis are offered as a watersports add-on."
+    },
+    {
+      "title": "Exclusive Fine Rum & Gourmet Food Cruise",
+      "kind": "cruise",
+      "summary": "A three-hour evening cruise along the coast that pairs limited-edition rums from the Foursquare Exceptional Cask Selection with local dishes from the onboard chef. Guides explain the rum and food traditions as you go.",
+      "highlights": [
+        "Taste of Barbados Tour, 4.30pm to 7.30pm",
+        "Rums from the Foursquare Exceptional Cask Selection",
+        "Dishes paired with each rum",
+        "Shared or private"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": ["16:30"],
+      "season": null,
+      "departsFrom": "Port Ferdinand Marina, Six Mens, St Peter",
+      "prices": [
+        { "label": "Shared, per person", "amount": 375, "currency": "USD", "note": "Based on a group of 8; maximum 12 on shared cruises; may be rescheduled if minimum numbers are not met" }
+      ],
+      "priceFrom": 375,
+      "includes": [
+        "Rum tasting",
+        "Gourmet pairings of local dishes",
+        "Rum blend cocktails from the mixologist"
+      ],
+      "bring": [],
+      "requirements": "Alcohol is served only to guests aged 18 and over",
+      "offer": null,
+      "images": [
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/Experience-Tiles-Rum4.jpg",
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/FourSquare_Magesterium-scaled-1.jpg",
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/Package-Tiles-Food.jpg",
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/Experience-Tiles-Deli-3.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://reelspiritfishingbarbados.com/luxury-barbados-cruises/",
+      "checkNotes": "Private version is price on request, for up to 10 guests. Port transport is an add-on."
+    },
+    {
+      "title": "Private Tailored Cruise to Restaurant",
+      "kind": "cruise",
+      "summary": "A private cruise that drops the group at a beachside restaurant of its choice and waits while you dine. An optional guided snorkel over shipwrecks and reefs can be added to the trip.",
+      "highlights": [
+        "Cruise to a beachside restaurant of your choice",
+        "The boat waits while you dine",
+        "Optional guided snorkel",
+        "Tailored cruises from 5 hours"
+      ],
+      "duration": "5 hours or more",
+      "durationMinutes": 300,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Port Ferdinand Marina, Six Mens, St Peter",
+      "prices": [
+        { "label": "Private charter, per hour (up to 15 guests)", "amount": 300, "currency": "USD", "note": "Minimum 5 hour rental; extra hours charged at $250 each; restaurant bill paid by guests" }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Optional guided snorkel with shipwrecks and reefs"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/Experience-Tiles-Resturant-4.jpg",
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/Experience-Tiles-Cheers.jpg",
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/Experience-Tiles-Resturant-3.jpg",
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/Experience-Tiles-Resturant.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://reelspiritfishingbarbados.com/luxury-barbados-cruises/",
+      "checkNotes": "Price is per hour, so priceFrom is null. The page says $300 USD per hour with a 5 hour minimum, then says extra hours are charged at $250 each; check which applies after 5 hours. Also shows 'PRICE UPON REQUEST'. Jet ski tour flag: jet skis are offered as a watersports add-on."
+    },
+    {
+      "title": "Shared Cruises & Watersports",
+      "kind": "cruise",
+      "summary": "A four-hour shared cruise in the off-peak months on the Super Sport 48, with a guided snorkel over shipwrecks and reefs, time in the water near turtles and a stop at a quiet beach. Choose a lunch or a sunset dinner sailing.",
+      "highlights": [
+        "Runs May to October only",
+        "Lunch cruise 10am to 2pm, sunset dinner cruise 3pm to 7pm",
+        "Guided snorkel of shipwrecks, gear included",
+        "Children under 3 sail free"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": ["10:00", "15:00"],
+      "season": "May to October",
+      "departsFrom": "Port Ferdinand Marina, Six Mens, St Peter",
+      "prices": [
+        { "label": "Adult", "amount": 200, "currency": "USD", "note": "Per adult; based on a group of 6, maximum 15" },
+        { "label": "Child", "amount": 100, "currency": "USD", "note": "Per child; under 3 sail free" }
+      ],
+      "priceFrom": 200,
+      "includes": [
+        "Guided snorkel of shipwrecks, gear included"
+      ],
+      "bring": ["Suncream", "Sunglasses", "Hat", "Swimwear and towels"],
+      "requirements": "Recommended for ages 5+; children need at least one adult guardian",
+      "offer": null,
+      "images": [
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/Experience-Tiles-Boat.jpg",
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/Experience-Tiles-Turtle.png",
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2024/11/Experience-Tiles-Girl-On-Board.jpg",
+        "https://reelspiritfishingbarbados.com/wp-content/uploads/2023/10/luxury-banner-2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://reelspiritfishingbarbados.com/luxury-barbados-cruises/",
+      "checkNotes": "Shared trip; may be cancelled and reorganised if minimum numbers are not met. Food and drink packages are add-ons. Despite the title, watersports are paid add-ons. Jet ski tour flag: jet skis are offered as a watersports add-on. The site says guests swim alongside turtles; it does not mention feeding them."
+    }
+  ],
+  "offers": [
+    { "text": "Boat available to charter during Caribbean fishing tournaments", "conditions": "Ask about upcoming tournaments", "validUntil": null, "sourceUrl": "https://reelspiritfishingbarbados.com/about/" },
+    { "text": "Upgrade packages: premium drinks from a mixologist, gourmet food from the onboard chef, and watersports add-ons (jet ski, jetboard, underwater scooter, SUP boards)", "conditions": "Quoted on request", "validUntil": null, "sourceUrl": "https://reelspiritfishingbarbados.com/our-fishing-charters/" }
+  ],
+  "checkNotes": "The root home page (reelspiritfishingbarbados.com/) shows only 'NEW Website under construction' with a 2026 footer, but the inner pages (/home/, /our-fishing-charters/, /luxury-barbados-cruises/, /about/, /book-live/) are live and carry the trips and prices, so the business looks to be trading. Every price block also shows 'PRICE UPON REQUEST', which looks like a toggled element; prices recorded as displayed. No booking widget: the 'book now' buttons lead to /book-live/, a request form (name, email, phone, date, message) where the operator replies, so bookingLinks are empty. Booking page says they operate from several ports around Barbados; Port Ferdinand Marina is the stated base. Deposit is taken at booking; cash, bank transfer and crypto accepted. The about page says the boat appeared in the Netflix series Outer Banks. The boat does not take wheelchair users. A FishingBooker reviews badge appears on the charters page; it was not opened. Jet skis are offered as add-ons across trips (see each trip's checkNotes)."
+}

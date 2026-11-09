@@ -1,0 +1,18 @@
+{
+  "slug": "eclipse-fishing-charters",
+  "name": "Eclipse Fishing Charters",
+  "website": "https://eclipsefishingcharters.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": null,
+  "category": "Fishing charters",
+  "summary": null,
+  "standouts": [],
+  "contact": { "phone": null, "email": null, "address": null },
+  "heroImage": null,
+  "sourceUrls": ["https://eclipsefishingcharters.com/"],
+  "trips": [],
+  "offers": [],
+  "checkNotes": "Blocked: the home page answered HTTP 406 Not Acceptable with a Mod Security page ('request has been blocked by Mod Security') to a plain curl request with curl's default user agent on 2026-10-19. Stopped on the site as the bot-check rule requires and did not retry with another client or user agent. Nothing was read, so no facts recorded. The census lists the base as The Careenage (Cavans Lane), Bridgetown, email info@eclipsefishingcharters.com, phone (246) 265-5265, WhatsApp wa.me/12462655265, and WooCommerce checkout on the site; none of this was checked here."
+}

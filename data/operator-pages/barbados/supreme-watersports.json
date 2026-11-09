@@ -1,0 +1,467 @@
+{
+  "slug": "supreme-watersports",
+  "name": "Supreme Watersports",
+  "website": "https://supremewatersportsbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Holetown",
+  "category": "Watersports and boat trips",
+  "summary": "A Holetown watersports team, all born and raised in Barbados, running jet skis, tube rides, water skiing and wakeboarding, with 30 minute lessons for first-timers. One hour boat cruises follow the coast from the west to the south, and snorkel trips visit the reef and turtles. Guests staying on the west coast are picked up and dropped off at no charge.",
+  "standouts": [
+    "Team born and raised in Barbados",
+    "Waterskiing and wakeboarding lessons from qualified instructors",
+    "Free pick up and drop off for hotels and residences on the west coast",
+    "Activities booked and paid for on the operator's own website"
+  ],
+  "contact": {
+    "phone": "+1 246 844 8816",
+    "email": "info@supremewatersportsbarbados.com",
+    "address": "Holetown, St. James, Barbados",
+    "whatsapp": "https://wa.me/+12468448816"
+  },
+  "heroImage": "https://supremewatersportsbarbados.com/wp-content/uploads/2024/12/d3283ff2-dcde-4d93-84dd-30391f18ef95.jpg",
+  "sourceUrls": [
+    "https://supremewatersportsbarbados.com/",
+    "https://supremewatersportsbarbados.com/about-us/",
+    "https://supremewatersportsbarbados.com/activities/",
+    "https://supremewatersportsbarbados.com/contact/",
+    "https://supremewatersportsbarbados.com/terms-and-conditions/",
+    "https://supremewatersportsbarbados.com/wp-json/wc/store/v1/products?per_page=50",
+    "https://supremewatersportsbarbados.com/product/wakeboarding/",
+    "https://supremewatersportsbarbados.com/product/water-skiing/",
+    "https://supremewatersportsbarbados.com/product/boat-cruise-1-hour/",
+    "https://supremewatersportsbarbados.com/product/snorkeling-1-hour/",
+    "https://supremewatersportsbarbados.com/product/tube-ride/",
+    "https://supremewatersportsbarbados.com/product/jet-ski/",
+    "https://supremewatersportsbarbados.com/product/wakeboarding-lessons-30-minutes/",
+    "https://supremewatersportsbarbados.com/product/water-skiing-lesson-30-minutes/",
+    "https://supremewatersportsbarbados.com/product/mable-fun-time-in-barbados-15-minutes/",
+    "https://supremewatersportsbarbados.com/product/1-hour-of-mable-fun-time-in-barbados/",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UC3rMbz4JpAjKFd7zzD8A4hw"
+  ],
+  "trips": [
+    {
+      "title": "Wakeboarding - 15 Minutes",
+      "kind": "other",
+      "summary": "A 15 minute wakeboarding session behind the boat off the west coast. Riders who are new to it can book the 30 minute lesson instead.",
+      "highlights": [
+        "15 minute session",
+        "West coast water off Holetown",
+        "Free pick up from west coast hotels and residences"
+      ],
+      "duration": "15 Minutes",
+      "durationMinutes": 15,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown",
+      "prices": [
+        {
+          "label": "15 minutes",
+          "amount": 60,
+          "currency": "USD",
+          "note": "Shown as $60.00; the site does not say per person or per group"
+        }
+      ],
+      "priceFrom": 60,
+      "includes": [
+        "Pick up at no charge for guests staying at a hotel or residence on the west coast"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://supremewatersportsbarbados.com/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-02-at-08.39.09.jpeg"
+      ],
+      "bookingLinks": [
+        "https://supremewatersportsbarbados.com/product/wakeboarding/"
+      ],
+      "sourceUrl": "https://supremewatersportsbarbados.com/product/wakeboarding/",
+      "checkNotes": "Prices shown as $; the site's terms say all payments are in United States Dollars. Guests staying elsewhere can take a taxi to Holetown or have one arranged at extra cost."
+    },
+    {
+      "title": "Water Skiing - 15 Minutes",
+      "kind": "other",
+      "summary": "A 15 minute water ski run along the west coast, for beginners and experienced skiers, with an instructor guiding from start to finish.",
+      "highlights": [
+        "15 minute session",
+        "Beginners and experienced skiers",
+        "Instructor guidance",
+        "Free pick up from west coast hotels and residences"
+      ],
+      "duration": "15 Minutes",
+      "durationMinutes": 15,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown",
+      "prices": [
+        {
+          "label": "15 minutes",
+          "amount": 60,
+          "currency": "USD",
+          "note": "Shown as $60.00; the site does not say per person or per group"
+        }
+      ],
+      "priceFrom": 60,
+      "includes": [
+        "Instructor guidance",
+        "Complimentary pick up and drop off for guests staying at a hotel or residence on the west coast"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://supremewatersportsbarbados.com/wp-content/uploads/2025/12/waterski.jpg"
+      ],
+      "bookingLinks": [
+        "https://supremewatersportsbarbados.com/product/water-skiing/"
+      ],
+      "sourceUrl": "https://supremewatersportsbarbados.com/product/water-skiing/",
+      "checkNotes": "Prices shown as $; the site's terms say all payments are in United States Dollars. The product page lists Time as '15 Minutes, 30 Minutes' but sells only the 15 minute session; the 30 minute option is the lesson."
+    },
+    {
+      "title": "Boat Cruise (1 Hour)",
+      "kind": "cruise",
+      "summary": "A one hour boat cruise along the Barbados coast from the west side towards the south, passing beaches, homes and restaurants. There is time to rest, sunbathe and swim with the turtles.",
+      "highlights": [
+        "One hour on the water",
+        "West coast to south coast views",
+        "Swim with the turtles",
+        "Free pick up and drop off from west coast hotels and residences"
+      ],
+      "duration": "1 Hour",
+      "durationMinutes": 60,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown",
+      "prices": [
+        {
+          "label": "1 hour cruise",
+          "amount": 250,
+          "currency": "USD",
+          "note": "Shown as $250.00; the site does not say per person or per boat"
+        }
+      ],
+      "priceFrom": 250,
+      "includes": [
+        "Complimentary pick up and drop off for guests staying at a hotel or residence on the west coast"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://supremewatersportsbarbados.com/wp-content/uploads/2024/10/boat-cruise-1-1.jpg",
+        "https://supremewatersportsbarbados.com/wp-content/uploads/2024/10/boat-cruise-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://supremewatersportsbarbados.com/product/boat-cruise-1-hour/"
+      ],
+      "sourceUrl": "https://supremewatersportsbarbados.com/product/boat-cruise-1-hour/",
+      "checkNotes": "Prices shown as $; the site's terms say all payments are in United States Dollars. The price is probably for the boat but the site does not say, so check before showing it as a from price. 'Swim with the turtles' comes from the home page's Boat Cruise panel."
+    },
+    {
+      "title": "Snorkeling (1 Hour)",
+      "kind": "snorkel",
+      "summary": "A one hour snorkel trip to look over the coral reef and swim near turtles and other marine life off the west coast.",
+      "highlights": [
+        "One hour trip",
+        "Coral reef",
+        "Turtles and marine life",
+        "Free pick up from west coast hotels and residences"
+      ],
+      "duration": "1 Hour",
+      "durationMinutes": 60,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown",
+      "prices": [
+        {
+          "label": "1 hour snorkel trip",
+          "amount": 250,
+          "currency": "USD",
+          "note": "Shown as $250.00; the site does not say per person or per boat"
+        }
+      ],
+      "priceFrom": 250,
+      "includes": [
+        "Pick up at no charge for guests staying at a hotel or residence on the west coast"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://supremewatersportsbarbados.com/wp-content/uploads/2024/10/Snorkeling-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://supremewatersportsbarbados.com/product/snorkeling-1-hour/"
+      ],
+      "sourceUrl": "https://supremewatersportsbarbados.com/product/snorkeling-1-hour/",
+      "checkNotes": "Prices shown as $; the site's terms say all payments are in United States Dollars. The price is probably for the boat but the site does not say, so check before showing it as a from price."
+    },
+    {
+      "title": "Tube Ride",
+      "kind": "other",
+      "summary": "An inflatable tube towed by a speedboat across the water off the west coast, booked for 15 minutes or a full hour.",
+      "highlights": [
+        "Towed by a speedboat",
+        "15 minute or 1 hour options",
+        "Free pick up from west coast hotels and residences"
+      ],
+      "duration": "15 minutes to 60 minutes",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown",
+      "prices": [
+        {
+          "label": "15 Minutes",
+          "amount": 30,
+          "currency": "USD",
+          "note": "Shown as $30.00; the site does not say per person or per group"
+        },
+        {
+          "label": "1 Hour",
+          "amount": 350,
+          "currency": "USD",
+          "note": "Shown as $350.00; the site does not say per person or per group"
+        }
+      ],
+      "priceFrom": 30,
+      "includes": [
+        "Pick up at no charge for guests staying at a hotel or residence on the west coast"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://supremewatersportsbarbados.com/wp-content/uploads/2024/10/Tube-Rides-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://supremewatersportsbarbados.com/product/tube-ride/"
+      ],
+      "sourceUrl": "https://supremewatersportsbarbados.com/product/tube-ride/",
+      "checkNotes": "Prices shown as $; the site's terms say all payments are in United States Dollars. The page shows a range of $30.00 through $350.00; the two option prices come from the product's option list on the same page."
+    },
+    {
+      "title": "Jet Ski",
+      "kind": "other",
+      "summary": "Jet ski rentals along the west coast beaches, for 15 minutes, 30 minutes or an hour.",
+      "highlights": [
+        "15, 30 or 60 minute rentals",
+        "West coast beaches",
+        "Free pick up from west coast hotels and residences"
+      ],
+      "duration": "15 to 60 minutes",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown",
+      "prices": [
+        {
+          "label": "15 Minutes",
+          "amount": 60,
+          "currency": "USD",
+          "note": "Shown as $60.00; the site does not say per person or per jet ski"
+        },
+        {
+          "label": "30 Minutes",
+          "amount": 125,
+          "currency": "USD",
+          "note": "Shown as $125.00; the site does not say per person or per jet ski"
+        },
+        {
+          "label": "1 Hour",
+          "amount": 250,
+          "currency": "USD",
+          "note": "Shown as $250.00; the site does not say per person or per jet ski"
+        }
+      ],
+      "priceFrom": 60,
+      "includes": [
+        "Pick up at no charge for guests staying at a hotel or residence on the west coast"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://supremewatersportsbarbados.com/wp-content/uploads/2025/07/new-jetski1.jpg",
+        "https://supremewatersportsbarbados.com/wp-content/uploads/2025/07/new-jetski2.jpg",
+        "https://supremewatersportsbarbados.com/wp-content/uploads/2024/12/WhatsApp-Image-2024-11-19-at-20.58.15.jpeg"
+      ],
+      "bookingLinks": [
+        "https://supremewatersportsbarbados.com/product/jet-ski/"
+      ],
+      "sourceUrl": "https://supremewatersportsbarbados.com/product/jet-ski/",
+      "checkNotes": "Jet ski tour. Prices shown as $; the site's terms say all payments are in United States Dollars. The page shows a range of $60.00 through $250.00; the three option prices come from the product's option list on the same page."
+    },
+    {
+      "title": "Wakeboarding Lessons - 30 Minutes",
+      "kind": "course",
+      "summary": "A 30 minute wakeboarding lesson off the west coast for first-timers and anyone wanting to improve, taught by the team's instructors.",
+      "highlights": [
+        "30 minute lesson",
+        "Taught by qualified instructors",
+        "Free pick up from west coast hotels and residences"
+      ],
+      "duration": "30 Minutes",
+      "durationMinutes": 30,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown",
+      "prices": [
+        {
+          "label": "30 minute lesson",
+          "amount": 80,
+          "currency": "USD",
+          "note": "Shown as $80.00; the site does not say per person or per group"
+        }
+      ],
+      "priceFrom": 80,
+      "includes": [
+        "Lesson from an instructor",
+        "Pick up at no charge for guests staying at a hotel or residence on the west coast"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://supremewatersportsbarbados.com/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-02-at-08.39.09.jpeg"
+      ],
+      "bookingLinks": [
+        "https://supremewatersportsbarbados.com/product/wakeboarding-lessons-30-minutes/"
+      ],
+      "sourceUrl": "https://supremewatersportsbarbados.com/product/wakeboarding-lessons-30-minutes/",
+      "checkNotes": "Prices shown as $; the site's terms say all payments are in United States Dollars. 'Qualified instructors' and 'great for all ages' come from the home page."
+    },
+    {
+      "title": "Water Skiing Lesson - 30 Minutes",
+      "kind": "course",
+      "summary": "A 30 minute water ski lesson for beginners and experienced skiers, with an instructor guiding each run from start to finish.",
+      "highlights": [
+        "30 minute lesson",
+        "Beginners and experienced skiers",
+        "Instructor guidance from start to finish",
+        "Free pick up and drop off from west coast hotels and residences"
+      ],
+      "duration": "30 Minutes",
+      "durationMinutes": 30,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown",
+      "prices": [
+        {
+          "label": "30 minute lesson",
+          "amount": 80,
+          "currency": "USD",
+          "note": "Shown as $80.00; the site does not say per person or per group"
+        }
+      ],
+      "priceFrom": 80,
+      "includes": [
+        "Lesson from an instructor",
+        "Complimentary pick up and drop off for guests staying at a hotel or residence on the west coast"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://supremewatersportsbarbados.com/wp-content/uploads/2024/10/Wakeboarding-5.jpg"
+      ],
+      "bookingLinks": [
+        "https://supremewatersportsbarbados.com/product/water-skiing-lesson-30-minutes/"
+      ],
+      "sourceUrl": "https://supremewatersportsbarbados.com/product/water-skiing-lesson-30-minutes/",
+      "checkNotes": "Prices shown as $; the site's terms say all payments are in United States Dollars. The product photo file is named Wakeboarding-5.jpg."
+    },
+    {
+      "title": "15-Minutes of Mable Fun Time in Barbados",
+      "kind": "other",
+      "summary": "A 15 minute ride on the Mable towable at Holetown Beach for 2 to 4 people, guided by the Supreme team. It suits couples, families and small groups.",
+      "highlights": [
+        "Holetown Beach",
+        "Priced for 2, 3 or 4 people",
+        "Guided by the team",
+        "Suits all levels"
+      ],
+      "duration": "15 Minutes",
+      "durationMinutes": 15,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown Beach",
+      "prices": [
+        {
+          "label": "2 People",
+          "amount": 60,
+          "currency": "USD",
+          "note": "Price for the group of 2"
+        },
+        {
+          "label": "3 People",
+          "amount": 90,
+          "currency": "USD",
+          "note": "Price for the group of 3"
+        },
+        {
+          "label": "4 People",
+          "amount": 120,
+          "currency": "USD",
+          "note": "Price for the group of 4"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://supremewatersportsbarbados.com/wp-content/uploads/2024/12/d3283ff2-dcde-4d93-84dd-30391f18ef95.jpg",
+        "https://supremewatersportsbarbados.com/wp-content/uploads/2024/12/6df4a37d-8624-4d04-978e-2debd0bd6ce2.jpg"
+      ],
+      "bookingLinks": [
+        "https://supremewatersportsbarbados.com/product/mable-fun-time-in-barbados-15-minutes/"
+      ],
+      "sourceUrl": "https://supremewatersportsbarbados.com/product/mable-fun-time-in-barbados-15-minutes/",
+      "checkNotes": "Prices shown as $; the site's terms say all payments are in United States Dollars. Prices are per group size (Number of People option), not per person, so priceFrom is null. The page shows a range of $60.00 through $120.00; the option prices come from the product's option list on the same page. The page calls it 'Mable Watersports by Supreme Watersports'."
+    },
+    {
+      "title": "1-Hour of Mable Fun Time in Barbados",
+      "kind": "other",
+      "summary": "A full hour of Mable towable rides at Holetown Beach, guided by the Supreme team. It suits couples, families and small groups.",
+      "highlights": [
+        "Holetown Beach",
+        "One hour session",
+        "Guided by the team",
+        "Suits all levels"
+      ],
+      "duration": "1 Hour",
+      "durationMinutes": 60,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown Beach",
+      "prices": [
+        {
+          "label": "1 hour",
+          "amount": 350,
+          "currency": "USD",
+          "note": "Shown as $350.00; the site does not say per person or per group"
+        }
+      ],
+      "priceFrom": 350,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://supremewatersportsbarbados.com/wp-content/uploads/2024/12/d3283ff2-dcde-4d93-84dd-30391f18ef95.jpg",
+        "https://supremewatersportsbarbados.com/wp-content/uploads/2024/12/6df4a37d-8624-4d04-978e-2debd0bd6ce2.jpg"
+      ],
+      "bookingLinks": [
+        "https://supremewatersportsbarbados.com/product/1-hour-of-mable-fun-time-in-barbados/"
+      ],
+      "sourceUrl": "https://supremewatersportsbarbados.com/product/1-hour-of-mable-fun-time-in-barbados/",
+      "checkNotes": "Prices shown as $; the site's terms say all payments are in United States Dollars. The page's additional information lists Number of People as 2, 3 or 4 People, but the product has a single price; check whether $350 covers up to 4 people."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "WordPress and WooCommerce site; each activity is its own product page with Add to cart, so the product pages are the booking links. Prices on the pages are shown as $ only; the terms and conditions say 'All payments shall be in United States Dollars', and the store's currency setting is USD. Terms also say 'All booking are final and cancellation is not allowed', payment by Visa, Mastercard, cash or bank transfer, and that the services are intended for users 18 and over, with minors needing a parent or guardian's permission and supervision. The home page 'BOOK US TODAY!' buttons point to https://dianew130.sg-host.com/activities/, a hosting staging address, not the live domain. The terms page spells the domain as supremewatersportsbarabdos.com (typo). Product pages were updated between December 2024 and March 2026, so the business looks active. The site links a YouTube channel (Supreme Watersports Barbados) whose public feed has no videos. Pick up: free for hotels and residences on the west coast; others can take a taxi to Holetown or have one arranged at extra cost. The site also offers drop off to any destination in Barbados on request."
+}

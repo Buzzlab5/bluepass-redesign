@@ -1,0 +1,874 @@
+{
+  "slug": "sydney-harbour-boat-tours",
+  "name": "Sydney Harbour Boat Tours",
+  "website": "https://sydneyharbourboattours.com",
+  "rezdyAlias": null,
+  "state": "NSW",
+  "town": "Sydney",
+  "category": "Private harbour cruises",
+  "summary": "Private cruises and one small-group tour on Sydney Harbour, run by a family business from Campbells Cove at Circular Quay. Boats are Axopar sports cruisers carrying up to 10 guests, with routes past the city landmarks, national park bays and beaches, and wildlife such as penguins and seals. Whale watching runs offshore from June to October.",
+  "standouts": [
+    "Eco certified by Ecotourism Australia; the site says it was Sydney's first boat tour operator to be recognised with the certification",
+    "Locally owned family business",
+    "Private cruises and small groups of up to 10 guests on Axopar sports cruisers",
+    "Works on Little Penguin habitat in Sydney Harbour National Park and partners with Take 3 For The Sea"
+  ],
+  "contact": {
+    "phone": "1300 183 365",
+    "email": "info@sydneyharbourboattours.com",
+    "address": "Campbells Cove Pontoon, 6A Circular Quay West, The Rocks NSW 2000"
+  },
+  "heroImage": "https://sydneyharbourboattours.com/wp-content/uploads/2018/09/Copy-of-Spectre-Scenery.jpg",
+  "sourceUrls": [
+    "https://sydneyharbourboattours.com/",
+    "https://sydneyharbourboattours.com/private-charters/",
+    "https://sydneyharbourboattours.com/tour/sydney-icons-bays-beaches-cruise/",
+    "https://sydneyharbourboattours.com/tour/sydney-harbour-brunch-cruise/",
+    "https://sydneyharbourboattours.com/tour/sydney-harbour-lunch-safari/",
+    "https://sydneyharbourboattours.com/tour/sydney-harbour-twilight-cruise/",
+    "https://sydneyharbourboattours.com/tour/sunset-supper-cruise/",
+    "https://sydneyharbourboattours.com/tour/captains-table-champagne-dinner-cruise/",
+    "https://sydneyharbourboattours.com/fish-market-cruise-collection/",
+    "https://sydneyharbourboattours.com/tour/sydney-seafood-odyssey/",
+    "https://sydneyharbourboattours.com/tour/taste-of-the-sea/",
+    "https://sydneyharbourboattours.com/tour/seafood-sunset/",
+    "https://sydneyharbourboattours.com/tour/sydney-secrets-lunch-cruise/",
+    "https://sydneyharbourboattours.com/tour/whales-of-sydney-sea-safari/",
+    "https://sydneyharbourboattours.com/tour/sydney-whales-lunch-safari/",
+    "https://sydneyharbourboattours.com/tour/new-years-eve-31-december/",
+    "https://sydneyharbourboattours.com/tour/vivid-private-luxury-cruise/",
+    "https://sydneyharbourboattours.com/virtual-tours/",
+    "https://sydneyharbourboattours.com/about-us/",
+    "https://sydneyharbourboattours.com/eco-tourism/",
+    "https://sydneyharbourboattours.com/frequently-asked-questions/",
+    "https://sydneyharbourboattours.com/tour/food-and-drinks/",
+    "https://sydneyharbourboattours.com/romance-cruise/",
+    "https://sydneyharbourboattours.com/tour/film-and-tv/",
+    "https://sydneyharbourboattours.com/our-boats/",
+    "https://sydneyharbourboattours.com/terms-conditions/",
+    "https://sydneyharbourboattours.com/contact-us/",
+    "https://sydneyharbourboattours.com/our-team/",
+    "https://sydneyharbourboattours.com/blog-posts/",
+    "https://sydneyharbourboattours.com/blog/what-is-included-private-sydney-harbour-charter/",
+    "https://www.youtube.com/channel/UCNLYOWEem9SZ3IV1s0EZ3fA"
+  ],
+  "trips": [
+    {
+      "title": "Sydney Icons, Bays & Beaches Cruise",
+      "kind": "cruise",
+      "summary": "A private two hour cruise for up to 10 guests with a local skipper and guide. The route covers the city landmarks, waterfront suburbs and the bays and beaches of Sydney Harbour National Park. Sparkling water and fresh juice are included, and the price is per boat.",
+      "highlights": [
+        "City landmarks and waterfront suburbs",
+        "Sydney Harbour National Park bays and beaches",
+        "Local plants and marine life",
+        "Sparkling water and fresh juice included"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [
+        "10:00"
+      ],
+      "season": "Year round, 7 days a week",
+      "departsFrom": "Circular Quay or any publicly accessible harbour wharf (boats leave from Campbells Cove Pontoon, Circular Quay); optional drop off at Sydney Fish Market or Barangaroo",
+      "prices": [
+        {
+          "label": "Per boat, up to 10 guests",
+          "amount": 1680,
+          "currency": "AUD",
+          "note": "From price"
+        }
+      ],
+      "priceFrom": 1680,
+      "includes": [
+        "Local skipper and guide",
+        "Bluetooth music",
+        "Bottled water",
+        "Sparkling water and fresh juice",
+        "BYO facilities"
+      ],
+      "bring": [
+        "Sun protection: glasses, hat and sunscreen",
+        "A warm top or jacket, as it can be cooler on the harbour",
+        "Soft-soled, non-marking shoes (no heels)"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/10/featured.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-GFM02037-2-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2018/09/Spectre-Opera-House.png",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/09/IMG_8291.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/sydneyharbourboattours/items/503925/?full-items=yes&flow=1069111"
+      ],
+      "sourceUrl": "https://sydneyharbourboattours.com/tour/sydney-icons-bays-beaches-cruise/",
+      "checkNotes": "Per boat price for up to 10 passengers (tour page 'From $1680 per boat', also on the home page). Surcharges may apply on public holidays and some exceptions apply; amounts are not stated. Tour time 10.00 to 12.00. Optional drop off at Sydney Fish Market or Barangaroo has no price on the page."
+    },
+    {
+      "title": "Sydney Harbour Brunch Cruise",
+      "kind": "cruise",
+      "summary": "A private two and a half hour morning cruise with a brunch of cold seafood, savouries and pastries, plus Australian champagne, soft drinks and orange juice. It gives an overview of the city and harbour, with landmarks, waterfront mansions and secluded national park beaches. The boat takes up to 10 guests.",
+      "highlights": [
+        "Brunch with seafood, savouries and pastries",
+        "Australian champagne and juice",
+        "City landmarks and waterfront mansions",
+        "Secluded national park beaches"
+      ],
+      "duration": "2.5 hours",
+      "durationMinutes": 150,
+      "departureTimes": [
+        "09:30"
+      ],
+      "season": "Year round, 7 days a week",
+      "departsFrom": "Circular Quay or any publicly accessible harbour wharf (boats leave from Campbells Cove Pontoon, Circular Quay)",
+      "prices": [
+        {
+          "label": "Private cruise for 2 people",
+          "amount": 2480,
+          "currency": "AUD",
+          "note": "From price"
+        },
+        {
+          "label": "Each additional person",
+          "amount": 150,
+          "currency": "AUD",
+          "note": "Up to 10 guests in total"
+        }
+      ],
+      "priceFrom": 2480,
+      "includes": [
+        "Local skipper and guide",
+        "Bluetooth music",
+        "Bottled water",
+        "Picnic brunch, champagne and juice"
+      ],
+      "bring": [
+        "Sun protection: glasses, hat and sunscreen",
+        "A warm top or jacket, as it can be cooler on the harbour",
+        "Soft-soled, non-marking shoes (no heels)"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-GFM01759-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/09/047A1861.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2021/10/Copy-of-Copy-of-Store-Beach-great.jpeg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/11/GFM02037-2-new.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/sydneyharbourboattours/items/641436/?full-items=yes&flow=no"
+      ],
+      "sourceUrl": "https://sydneyharbourboattours.com/tour/sydney-harbour-brunch-cruise/",
+      "checkNotes": "Price is for 2 people with a per extra person charge; priceFrom is the 2 person price. Duration of 2.5 hours is from the home page card; the tour page gives only the times 9.30am to 12.00pm. Surcharges may apply on public holidays and some exceptions apply; amounts are not stated. The Book Now link uses flow=no, unlike the other trips."
+    },
+    {
+      "title": "Sydney Harbour Lunch Safari",
+      "kind": "cruise",
+      "summary": "A private half day cruise for up to 10 guests into Middle Harbour and the national park bays, with time for sightseeing, swimming and sunbathing. A gourmet picnic lunch with local wine and beer is served on board. From June to August a two course lunch at a waterside restaurant replaces the picnic.",
+      "highlights": [
+        "Bantry Bay and Garigal National Park",
+        "Flat Rock Beach and Sugarloaf Bay",
+        "Optional swimming and snorkelling",
+        "Gourmet picnic lunch on board"
+      ],
+      "duration": "4 hours (October to March), 3.5 hours (April to September)",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "12:30"
+      ],
+      "season": "Year round; restaurant lunch June to August",
+      "departsFrom": "Circular Quay or any publicly accessible harbour wharf (boats leave from Campbells Cove Pontoon, Circular Quay)",
+      "prices": [
+        {
+          "label": "Private cruise for 2 people",
+          "amount": 2980,
+          "currency": "AUD",
+          "note": "From price"
+        },
+        {
+          "label": "Each additional person",
+          "amount": 180,
+          "currency": "AUD",
+          "note": "Up to 10 guests in total"
+        }
+      ],
+      "priceFrom": 2980,
+      "includes": [
+        "Local skipper and guide",
+        "Bluetooth music",
+        "Bottled water",
+        "Lunch with local wine and beer"
+      ],
+      "bring": [
+        "Photo ID (June to August, for entry to the restaurant)",
+        "Sun protection: glasses, hat and sunscreen",
+        "A warm top or jacket, as it can be cooler on the harbour",
+        "Soft-soled, non-marking shoes (no heels)",
+        "Swimwear and a towel if you plan to swim"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/ausdaygallery-006.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/11/DSC0484.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2021/10/Copy-of-Copy-of-Copy-of-Copy-of-BCA8260_Cover_Edit_RGB.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2021/10/Copy-of-Copy-of-Store-Beach-great.jpeg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/sydneyharbourboattours/items/503911/?full-items=yes&flow=1069111"
+      ],
+      "sourceUrl": "https://sydneyharbourboattours.com/tour/sydney-harbour-lunch-safari/",
+      "checkNotes": "Times on the page: 12:30pm to 4:30pm (October to March) and 12:30pm to 4pm (April to September); durationMinutes uses the 4 hour figure on the home page. Price is for 2 people with a per extra person charge. The June to August restaurant is not named. Surcharges may apply on public holidays and some exceptions apply; amounts are not stated."
+    },
+    {
+      "title": "Sydney Twilight Champagne Cruise",
+      "kind": "cruise",
+      "summary": "A private one and a half hour sunset cruise past the city landmarks and waterfront suburbs, with a bottle of Australian champagne and live commentary from the skipper. The route takes in Shark Island, Clark Island, Goat Island and Sydney Harbour National Park. The price is per boat for up to 10 guests.",
+      "highlights": [
+        "Sunset over the city",
+        "Opera House, Harbour Bridge and Fort Denison",
+        "Shark Island, Clark Island and Goat Island",
+        "Premium Australian champagne"
+      ],
+      "duration": "1.5 hours",
+      "durationMinutes": 90,
+      "departureTimes": [
+        "17:00",
+        "16:15"
+      ],
+      "season": "Year round (5:00pm October to March, 4:15pm April to September)",
+      "departsFrom": "Circular Quay or any publicly accessible harbour wharf (boats leave from Campbells Cove Pontoon, Circular Quay)",
+      "prices": [
+        {
+          "label": "Per boat, up to 10 guests",
+          "amount": 1480,
+          "currency": "AUD",
+          "note": "From price"
+        }
+      ],
+      "priceFrom": 1480,
+      "includes": [
+        "Local skipper and guide",
+        "Bluetooth music",
+        "Bottled water",
+        "Premium Australian champagne"
+      ],
+      "bring": [
+        "Soft-soled, non-marking shoes (no heels)"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/5b9ebf55-c0a5-42db-b095-3ee5c203f639.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01051.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01182-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01291-new.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/sydneyharbourboattours/items/503749/?full-items=yes&flow=1069111"
+      ],
+      "sourceUrl": "https://sydneyharbourboattours.com/tour/sydney-harbour-twilight-cruise/",
+      "checkNotes": "The page heading says 'Sydney Harbour Twilight Cruise'; the menu, home page and charters page call it 'Sydney Twilight Champagne Cruise' (used here). The tour page says only 'From $1480'; the home page says 'Per Boat'. Times: 5:00pm to 6:30pm (October to March), 4:15pm to 5:45pm (April to September). An optional antipasto platter is an extra charge with no price shown. Surcharges may apply on public holidays and some exceptions apply; amounts are not stated."
+    },
+    {
+      "title": "Harbourfront Dine & Cruise",
+      "kind": "cruise",
+      "summary": "A private sunset cruise for up to 8 guests that ends at Harbourfront Seafood Restaurant in Campbell's Stores, Circular Quay. Guests drink Australian champagne on the way, then the skipper drops the group at the restaurant for a seafood dinner of up to two hours. Guests make their own way back to their hotel.",
+      "highlights": [
+        "Sunset cruise with Australian champagne",
+        "Opera House and Harbour Bridge views",
+        "Seafood dinner at Harbourfront Seafood Restaurant, up to 2 hours",
+        "Non-seafood options on request"
+      ],
+      "duration": "3.5 hours",
+      "durationMinutes": 210,
+      "departureTimes": [
+        "16:45",
+        "16:30"
+      ],
+      "season": "Year round (4:45pm to 8:15pm October to March, 4:30pm to 8pm April to September)",
+      "departsFrom": "Circular Quay or any publicly accessible harbour wharf (boats leave from Campbells Cove Pontoon, Circular Quay)",
+      "prices": [
+        {
+          "label": "Private cruise for 2 people",
+          "amount": 2480,
+          "currency": "AUD",
+          "note": "From price"
+        },
+        {
+          "label": "Each additional person",
+          "amount": 250,
+          "currency": "AUD",
+          "note": "Up to 8 guests recommended"
+        }
+      ],
+      "priceFrom": 2480,
+      "includes": [
+        "Local skipper and guide",
+        "Bluetooth music",
+        "Bottled water",
+        "Australian champagne",
+        "Dinner at Harbourfront Seafood Restaurant with premium beverages (up to 2 hours)"
+      ],
+      "bring": [
+        "Sun protection: glasses, hat and sunscreen",
+        "A warm top or jacket, as it can be cooler on the harbour",
+        "Soft-soled, non-marking shoes (no heels)"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/Sunset-featured.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/5b9ebf55-c0a5-42db-b095-3ee5c203f639.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01051.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01182-new.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/sydneyharbourboattours/items/737093/?full-items=yes&flow=1620780"
+      ],
+      "sourceUrl": "https://sydneyharbourboattours.com/tour/sunset-supper-cruise/",
+      "checkNotes": "Maximum group size is shown as '8 passengers (max recommended)', lower than the 10 on other cruises. Price is for 2 people with a per extra person charge. Duration of 3.5 hours is from the home page card. The trip ends at the restaurant; the champagne is described as a glass on boarding in one place and a bottle in another. Surcharges may apply on public holidays and some exceptions apply; amounts are not stated."
+    },
+    {
+      "title": "Captain's Table Champagne Dinner Cruise",
+      "kind": "cruise",
+      "summary": "A private sunset cruise for up to 10 guests that starts with Australian champagne, then stops for a two course dinner with wine at a waterside restaurant before cruising back to Circular Quay. It runs Sunday to Friday. The route passes city landmarks, beaches and waterfront mansions as the light changes.",
+      "highlights": [
+        "Sunset cruise with Australian champagne",
+        "Two course dinner with wine at a waterside restaurant",
+        "City icons and waterfront mansions",
+        "Cruise back to Circular Quay after dinner"
+      ],
+      "duration": "5pm to 8:30pm (October to March), 4:30pm to 8pm (April to September)",
+      "durationMinutes": null,
+      "departureTimes": [
+        "17:00",
+        "16:30"
+      ],
+      "season": "Sunday to Friday, all year round",
+      "departsFrom": "Circular Quay or any publicly accessible harbour wharf (boats leave from Campbells Cove Pontoon, Circular Quay)",
+      "prices": [
+        {
+          "label": "Private cruise for 2 people",
+          "amount": 2980,
+          "currency": "AUD",
+          "note": "From price"
+        },
+        {
+          "label": "Each additional person",
+          "amount": 180,
+          "currency": "AUD",
+          "note": "Up to 10 guests in total"
+        }
+      ],
+      "priceFrom": 2980,
+      "includes": [
+        "Local skipper and guide",
+        "Bluetooth music",
+        "Bottled water",
+        "Australian champagne, 2 course meal and wine at a waterside restaurant"
+      ],
+      "bring": [
+        "Sun protection: glasses, hat and sunscreen",
+        "A warm top or jacket, as it can be cooler on the harbour",
+        "Soft-soled, non-marking shoes (no heels)"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/Sunset-featured.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/Phone-Night.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01527-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/Sunset.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/sydneyharbourboattours/items/534938/calendar/2024/03/"
+      ],
+      "sourceUrl": "https://sydneyharbourboattours.com/tour/captains-table-champagne-dinner-cruise/",
+      "checkNotes": "The Book Now button links to the FareHarbor calendar for March 2024 (items/534938/calendar/2024/03/), which may be an old link; check it before publishing. The restaurant is not named on the page (photos on the page name a restaurant and were left out of the media file). Duration is not stated, only the time windows. Price is for 2 people with a per extra person charge. Surcharges may apply on public holidays and some exceptions apply; amounts are not stated."
+    },
+    {
+      "title": "Seafood Odyssey",
+      "kind": "tour",
+      "summary": "A private morning cruise for up to 10 guests that stops at Sydney Fish Market for a one hour behind the scenes tasting tour with a market seafood educator. Guests see the wholesale auction room and warehouse and taste seafood, then return to the boat to continue around the harbour. The price is for 2 people with a charge for each extra guest.",
+      "highlights": [
+        "One hour behind the scenes tasting tour at Sydney Fish Market",
+        "Access to the wholesale auction room and warehouse",
+        "Seafood tasting",
+        "Personal commentary on the harbour"
+      ],
+      "duration": "9:30am to 12pm",
+      "durationMinutes": null,
+      "departureTimes": [
+        "09:30"
+      ],
+      "season": "Year round; the Fish Market cruises are listed as available from October 2026",
+      "departsFrom": "Circular Quay or any publicly accessible harbour wharf",
+      "prices": [
+        {
+          "label": "Private cruise for 2 people",
+          "amount": 3180,
+          "currency": "AUD",
+          "note": "From price"
+        },
+        {
+          "label": "Each additional person",
+          "amount": 50,
+          "currency": "AUD",
+          "note": "Up to 10 guests in total"
+        }
+      ],
+      "priceFrom": 3180,
+      "includes": [
+        "Local skipper and guide",
+        "Bluetooth music",
+        "Bottled water",
+        "Sparkling water and fresh juice",
+        "One hour behind the scenes tasting tour with a Sydney Fish Market seafood educator"
+      ],
+      "bring": [
+        "Sun protection: glasses, hat and sunscreen",
+        "A warm top or jacket, as it can be cooler on the harbour",
+        "Soft-soled, non-marking shoes (no heels)"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/IMG_3894-featured.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/DSC_0068.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/DSC_0093.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/DSC_0117-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/sydneyharbourboattours/items/703082/"
+      ],
+      "sourceUrl": "https://sydneyharbourboattours.com/tour/sydney-seafood-odyssey/",
+      "checkNotes": "Part of the Fish Market Cruise Collection, which the collection page says is available from October 2026. Duration is not stated, only 9.30am to 12pm. Fish market and builder photos on the page were left out of the media file. Surcharges may apply on public holidays and some exceptions apply; amounts are not stated."
+    },
+    {
+      "title": "Taste of the Sea",
+      "kind": "tour",
+      "summary": "A private cruise for up to 10 guests that lands at Sydney Fish Market, where guests explore at their own pace or join an optional one hour behind the scenes tasting tour. Back on the boat there is a seafood lunch of lobster, prawns, oysters and crab with Australian champagne, followed by a harbour cruise past the main sights.",
+      "highlights": [
+        "Time to explore Sydney Fish Market",
+        "Optional one hour behind the scenes tasting tour",
+        "Seafood lunch on board with champagne",
+        "Harbour cruise past the main sights"
+      ],
+      "duration": "12:30pm to 4:30pm (October to March), 12:15pm to 4pm (April to September)",
+      "durationMinutes": null,
+      "departureTimes": [
+        "12:30",
+        "12:15"
+      ],
+      "season": "Year round; the Fish Market cruises are listed as available from October 2026",
+      "departsFrom": "Circular Quay or any publicly accessible harbour wharf (boats leave from Campbells Cove Pontoon, Circular Quay)",
+      "prices": [
+        {
+          "label": "Private cruise for 2 people",
+          "amount": 3480,
+          "currency": "AUD",
+          "note": "From price"
+        },
+        {
+          "label": "Each additional person",
+          "amount": 195,
+          "currency": "AUD",
+          "note": "Up to 10 guests in total"
+        }
+      ],
+      "priceFrom": 3480,
+      "includes": [
+        "Local skipper and guide",
+        "Bluetooth music",
+        "Bottled water",
+        "Seafood lunch with champagne and beer"
+      ],
+      "bring": [
+        "Sun protection: glasses, hat and sunscreen",
+        "A warm top or jacket, as it can be cooler on the harbour",
+        "Soft-soled, non-marking shoes (no heels)"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/IMG_3960-featured.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/DSC_0068.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/DSC_0093.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/DSC_0117-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/sydneyharbourboattours/items/703086/"
+      ],
+      "sourceUrl": "https://sydneyharbourboattours.com/tour/taste-of-the-sea/",
+      "checkNotes": "Part of the Fish Market Cruise Collection, listed as available from October 2026. The optional behind the scenes tasting tour has no separate price on the page. Duration is not stated, only the time windows. Fish market photos on the page were left out of the media file. Surcharges may apply on public holidays and some exceptions apply; amounts are not stated."
+    },
+    {
+      "title": "Seafood Sunset",
+      "kind": "tour",
+      "summary": "A private twilight cruise for up to 10 guests that includes a private tour of Sydney Fish Market, where guests meet the local commercial fishing fleet and go behind the scenes. The trip finishes with a seafood tasting plate and a glass of wine or beer at sunset. Guests can choose dinner on the wharf at their own cost, then head back to central Sydney by taxi or on foot.",
+      "highlights": [
+        "Private tour of Sydney Fish Market",
+        "Seafood tasting plate with wine or beer",
+        "Meet the local commercial fishing fleet",
+        "Optional dinner on the wharf at guests' own cost"
+      ],
+      "duration": "4:45pm to 7pm (October to March), 4:15pm to 6:30pm (April to September)",
+      "durationMinutes": null,
+      "departureTimes": [
+        "16:45",
+        "16:15"
+      ],
+      "season": "Year round; the Fish Market cruises are listed as available from October 2026",
+      "departsFrom": "Circular Quay or any publicly accessible harbour wharf; drop off at Sydney Fish Market",
+      "prices": [
+        {
+          "label": "Private cruise for 2 people",
+          "amount": 2580,
+          "currency": "AUD",
+          "note": "From price"
+        },
+        {
+          "label": "Each additional person",
+          "amount": 50,
+          "currency": "AUD",
+          "note": "Up to 10 guests in total"
+        }
+      ],
+      "priceFrom": 2580,
+      "includes": [
+        "Local skipper and guide",
+        "Bluetooth music",
+        "Bottled water",
+        "Private tour of the fish market",
+        "Seafood tasting plate with a glass of wine or beer"
+      ],
+      "bring": [
+        "Sun protection: glasses, hat and sunscreen",
+        "A warm top or jacket, as it can be cooler on the harbour",
+        "Soft-soled, non-marking shoes (no heels)"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/IMG_4478-featured.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2024/03/5b9ebf55-c0a5-42db-b095-3ee5c203f639.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/Copy-of-Copy-of-20211221-SHBT-Couple-Group-lowres-1600px-01051.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2026/05/IMG_4477.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/sydneyharbourboattours/items/718414/"
+      ],
+      "sourceUrl": "https://sydneyharbourboattours.com/tour/seafood-sunset/",
+      "checkNotes": "Part of the Fish Market Cruise Collection, listed as available from October 2026. The trip ends at the fish market; the page gives the way back as about 10 minutes by taxi or 30 minutes on foot. Duration is not stated, only the time windows. Fish market photos on the page were left out of the media file. Surcharges may apply on public holidays and some exceptions apply; amounts are not stated."
+    },
+    {
+      "title": "Sydney Secrets Lunch Cruise",
+      "kind": "cruise",
+      "summary": "A shared small-group half day cruise for no more than 8 guests, with lunch and a drink at a waterside restaurant included. The route visits Watsons Bay, The Gap, the national park waterways and the waterfront mansions of Point Piper and Double Bay, with commentary from the skipper. The park waters are home to resident penguin and seal colonies, and guests may see a penguin, seal or dolphin.",
+      "highlights": [
+        "Small group of no more than 8 guests",
+        "Lunch at a waterside restaurant included",
+        "Harbour icons, national park coves and waterfront mansions",
+        "Possible sightings of penguins, seals and dolphins"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "12:30"
+      ],
+      "season": "Daily October to March; Sunday, Wednesday and Friday only in April, May and September; not operating June, July and August",
+      "departsFrom": "Campbells Cove, Circular Quay West",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 450,
+          "currency": "AUD",
+          "note": "From price"
+        }
+      ],
+      "priceFrom": 450,
+      "includes": [
+        "Lunch and a beverage at a waterside restaurant",
+        "Local skipper and guide",
+        "Bottled water"
+      ],
+      "bring": [
+        "Photo ID with your home address (needed for entry to the restaurant)",
+        "A light jacket, as the boat is open style",
+        "Soft-soled, non-marking shoes (no heels)"
+      ],
+      "requirements": "Valid photo ID with home address required for restaurant entry. Singlet tops for men are not permitted.",
+      "offer": null,
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/feature-011-1.jpeg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-GFM03359-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2022/11/Copy-of-GFM03642-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/11/DJI_0685-new.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/sydneyharbourboattours/items/503964/?full-items=yes&flow=1069120"
+      ],
+      "sourceUrl": "https://sydneyharbourboattours.com/tour/sydney-secrets-lunch-cruise/",
+      "checkNotes": "The only per person trip. Group size is 8 on this page and the FAQ, but the home page says shared tours hold up to 10. A blog post names the lunch venue as a yacht club at Rushcutters Bay; the tour page says only 'waterside restaurant'. Times: 12:30pm to 4:30pm daily October to March, 12:30pm to 4pm April, May and September (Sun, Wed, Fri only). Surcharges may apply on public holidays and some exceptions apply; amounts are not stated."
+    },
+    {
+      "title": "Whales of Sydney Sea Safari",
+      "kind": "tour",
+      "summary": "A private offshore whale watching trip for up to 8 guests on a fast sports cruiser, with a harbour cruise included. The whale season runs from June to October, and seals and dolphins may also be seen. The trip runs only when the skipper judges the wind and swell to be acceptable, and guests are told within 48 hours before departure if it cannot go.",
+      "highlights": [
+        "Whale season June to October",
+        "Seals and dolphins possible",
+        "Coastal cliffs along the Pacific coast",
+        "Fast offshore boat to reach the whales sooner"
+      ],
+      "duration": "2.5 hours",
+      "durationMinutes": 150,
+      "departureTimes": [
+        "09:30"
+      ],
+      "season": "Whale season, June to October",
+      "departsFrom": "Campbells Cove Pontoon, Circular Quay",
+      "prices": [
+        {
+          "label": "Per boat, up to 8 guests",
+          "amount": 1980,
+          "currency": "AUD",
+          "note": "From price"
+        },
+        {
+          "label": "Per person based on a full boat of 8",
+          "amount": 247.5,
+          "currency": "AUD",
+          "note": "Stated on the FAQ"
+        }
+      ],
+      "priceFrom": 1980,
+      "includes": [
+        "Local skipper and guide",
+        "Bluetooth music",
+        "Bottled water",
+        "Harbour cruise"
+      ],
+      "bring": [
+        "A warm, protective jacket (the boat is open style, with wind and occasional sea spray, and Winter and Spring off the coast can be cold)",
+        "Soft-soled, non-marking shoes (no heels)"
+      ],
+      "requirements": null,
+      "offer": {
+        "text": "Whales Guarantee: if no whales are spotted, guests receive a complimentary 2.5 hour return tour in the same whale season",
+        "conditions": "Subject to availability",
+        "validUntil": null
+      },
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/0X9A1581.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/0X9A1617.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/9a0c68e7-91d2-4210-a409-cd9eeb1a2022.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/9e75e9d1-dfd5-48ea-8794-8293a83ccd31.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/sydneyharbourboattours/items/503933/?full-items=yes&flow=1069111"
+      ],
+      "sourceUrl": "https://sydneyharbourboattours.com/tour/whales-of-sydney-sea-safari/",
+      "checkNotes": "From $1980 is for the boat (home page 'Per Boat'; FAQ says up to 8 guests and $247.50 per person on a full boat). The whale guarantee appears on this page and the FAQ and is kept out of the summary. Whales are not certain on any trip. Surcharges may apply on public holidays and some exceptions apply; amounts are not stated."
+    },
+    {
+      "title": "Whales of Sydney Lunch Safari",
+      "kind": "tour",
+      "summary": "A private offshore whale watching trip for up to 8 guests that combines a harbour cruise with a light picnic-style lunch on board. After lunch the skipper heads out past the heads to whale grounds a few kilometres off the Sydney coast. Fur seals and dolphins may also be seen, and the whale season is June to October.",
+      "highlights": [
+        "Whale watching with a harbour cruise",
+        "Light picnic-style lunch on board",
+        "Seals and dolphins possible",
+        "Commentary on the northern and southern whale migrations"
+      ],
+      "duration": "12:30pm to 4pm (approx)",
+      "durationMinutes": null,
+      "departureTimes": [
+        "12:30"
+      ],
+      "season": "Whale season, June to October, 7 days a week",
+      "departsFrom": "Circular Quay or any publicly accessible harbour wharf (boats leave from Campbells Cove Pontoon, Circular Quay)",
+      "prices": [
+        {
+          "label": "Private cruise for 2 people",
+          "amount": 3080,
+          "currency": "AUD",
+          "note": "From price"
+        },
+        {
+          "label": "Each additional person",
+          "amount": 150,
+          "currency": "AUD",
+          "note": "Up to 8 guests in total"
+        }
+      ],
+      "priceFrom": 3080,
+      "includes": [
+        "Local skipper and guide",
+        "Bluetooth music",
+        "Bottled water",
+        "Light picnic-style lunch"
+      ],
+      "bring": [
+        "A warm, protective jacket (the boat is open style, with wind and occasional sea spray, and Winter and Spring off the coast can be cold)",
+        "Soft-soled, non-marking shoes (no heels)"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/06/sydney-harbor-whale-jumping-featured.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/0X9A1581.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/06/sydney-harbor-whale-tab.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2025/08/0X9A1617.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/sydneyharbourboattours/items/641431/?full-items=yes&flow=no"
+      ],
+      "sourceUrl": "https://sydneyharbourboattours.com/tour/sydney-whales-lunch-safari/",
+      "checkNotes": "The page text calls the northern migration May to August while the whale season is stated as June to October. The whale guarantee is stated for the Sea Safari only. Duration is not stated; the page says 12:30pm to 4:00pm (approx). Price is for 2 people with a per extra person charge. Runs only in acceptable wind and swell. The Book Now link uses flow=no. Surcharges may apply on public holidays and some exceptions apply; amounts are not stated."
+    },
+    {
+      "title": "New Years Eve - 31 December",
+      "kind": "charter",
+      "summary": "A private New Year's Eve charter for up to 10 guests. The boat cruises the harbour early in the evening, then takes a prime position for the 9pm and midnight fireworks. A cold gourmet picnic dinner and snacks are provided, and drinks cost extra.",
+      "highlights": [
+        "Positions for the 9pm and midnight fireworks",
+        "Cold gourmet picnic dinner and snacks",
+        "Up to 10 guests",
+        "Drinks are an extra cost"
+      ],
+      "duration": "Departs about 7pm, returns about 1am",
+      "durationMinutes": null,
+      "departureTimes": [
+        "19:00"
+      ],
+      "season": "31 December (the page says sold out for New Year's Eve 2026 and to enquire for 2027)",
+      "departsFrom": "A city wharf, to be advised (about 7pm)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Local skipper and guide",
+        "Bluetooth music",
+        "Bottled water",
+        "Cold gourmet picnic dinner and snacks"
+      ],
+      "bring": [
+        "Soft-soled, non-marking shoes (no heels)"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/nyesfeature-001.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/nyegallery-009.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/nyegallery-008.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2020/05/nyegallery-004.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://sydneyharbourboattours.com/tour/new-years-eve-31-december/",
+      "checkNotes": "Enquiry only: price on request and no Book Now button on the page, so no booking link. The page says sold out for New Year's Eve 2026 and to enquire to secure the boat for 2027; check the current status before publishing. Departure wharf is to be advised. A script on the site maps this page to a FareHarbor item, but no booking button shows."
+    },
+    {
+      "title": "Vivid Private Luxury Cruise",
+      "kind": "cruise",
+      "summary": "A private 90 minute evening cruise for up to 9 guests past the light installations and projections of Vivid Sydney. The route includes Circular Quay, Darling Harbour, the Botanic Gardens, the Harbour Bridge, the Opera House and Luna Park. A bottle of sparkling wine is provided, and the cruise runs only during the festival dates.",
+      "highlights": [
+        "Light installations and projections from the water",
+        "Circular Quay, Darling Harbour and Luna Park",
+        "Bottle of sparkling wine",
+        "Up to 9 guests"
+      ],
+      "duration": "90 minutes",
+      "durationMinutes": 90,
+      "departureTimes": [
+        "18:15"
+      ],
+      "season": "28 May to 19 June 2027",
+      "departsFrom": "Circular Quay or any publicly accessible harbour wharf (boats leave from Campbells Cove Pontoon, Circular Quay)",
+      "prices": [
+        {
+          "label": "Private cruise, from price",
+          "amount": 1480,
+          "currency": "AUD",
+          "note": "Whether this is per boat or per person is not stated"
+        }
+      ],
+      "priceFrom": 1480,
+      "includes": [
+        "Local skipper and guide",
+        "Bluetooth music",
+        "Bottled water",
+        "A bottle of sparkling wine"
+      ],
+      "bring": [
+        "Soft-soled, non-marking shoes (no heels)"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/12/DSC_0040-min.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/12/DSC_7921-min.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/sydneyharbourboattours/items/503953/?full-items=yes&flow=1069111"
+      ],
+      "sourceUrl": "https://sydneyharbourboattours.com/tour/vivid-private-luxury-cruise/",
+      "checkNotes": "The page shows 'From $1480' without saying whether it is per boat or per person. Availability is 28 May to 19 June 2027 (check these are still the festival dates). Departure 6:15pm. Group size is 9 here, not 10. Festival photos on the page (Opera House projection, Darling Harbour fireworks) were left out of the media file. Surcharges may apply on public holidays and some exceptions apply; amounts are not stated."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "Private hire of a sports cruiser with a local skipper for up to 10 guests, with the route planned around the group. Itineraries cover sightseeing, wildlife, swimming, lunch on board, and twilight or romantic cruises. Charters suit birthdays, anniversaries, proposals and corporate groups.",
+      "highlights": [
+        "The boat is exclusively yours",
+        "Route tailored to your group",
+        "Bring your own food and drinks, or ask about catering",
+        "Alternative pick up points on request"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Campbells Cove Pontoon, Circular Quay; other pick up points on request",
+      "prices": [
+        {
+          "label": "Private charter, per hour, up to 10 guests",
+          "amount": 800,
+          "currency": "AUD",
+          "note": "Starting price stated in the FAQ"
+        }
+      ],
+      "priceFrom": 800,
+      "includes": [
+        "Exclusive use of the boat",
+        "Local skipper and guide",
+        "Swim towels and life jackets available on board"
+      ],
+      "bring": [
+        "Your own food and drinks (BYO is welcome; catering can be arranged on request)",
+        "Comfortable, non-slip footwear, sunscreen and sunglasses, and clothing for the weather"
+      ],
+      "requirements": "Children are welcome and must be supervised by a responsible adult at all times. Contact the team before booking if anyone has limited mobility.",
+      "offer": null,
+      "images": [
+        "https://sydneyharbourboattours.com/wp-content/uploads/2018/09/Spectre-Sun-baking.png",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2018/09/Copy-of-Spectre-Scenery.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2023/11/DJI_0685-new.jpg",
+        "https://sydneyharbourboattours.com/wp-content/uploads/2017/08/vipcharter_featured.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://sydneyharbourboattours.com/private-charters/",
+      "checkNotes": "Custom charters are by enquiry; the charters page has no booking button of its own, and its six cruise cards are the trips listed above, each with its own Book Now link. The hourly rate of AUD $800 comes from the FAQ (a blog post says the same) and does not match the packaged cruise prices, for example $1680 for the two hour Icons cruise; check the rate. The FAQ says up to 10 guests while a blog post says 11, and the FAQ says there are no BBQ facilities while a blog post says a BBQ can be arranged. No minimum hire is stated."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Catering and drinks on request: gourmet picnic lunch for two, seafood, charcuterie, vegetarian or antipasto boxes, fruit boxes and sandwich boxes",
+      "conditions": "Price on application, to suit the selections and number of guests",
+      "validUntil": null,
+      "sourceUrl": "https://sydneyharbourboattours.com/tour/food-and-drinks/"
+    }
+  ],
+  "checkNotes": "Our list described this operator as eco-certified wildlife and penguin tours. The site mainly sells private harbour charters on Axopar sports cruisers (up to 10 guests), one shared lunch cruise (Sydney Secrets) and offshore whale watching. Penguins and seals are mentioned as possible sightings on the Sydney Secrets Lunch Cruise and on the about and eco pages; there is no dedicated penguin tour. Booking is through FareHarbor, not Rezdy, so rezdyAlias is null. Each trip's own Book Now link was recorded as found; no fareharbor.com page was opened. The general Book Now link in the menu is https://fareharbor.com/embeds/book/sydneyharbourboattours/?full-items=yes&flow=1069119. Two trips (New Years Eve and custom Private Charters) are enquiry only and have no link. The Captain's Table link points to a March 2024 calendar and may be old. Prices are 'from' prices. Most private cruises are priced per boat or for 2 people plus a charge per extra guest; the home page labels the six charter cruises 'Per Boat' while the two person trips say 'for 2 people'. Check the basis for each before publishing. Some blog posts and the FAQ conflict with the tour pages (for example a flat AUD $800 per hour charter rate, a maximum of 11 guests, a BBQ on board, and a named yacht club for the Sydney Secrets lunch); the tour pages were used. The home page says shared tours hold up to 10 while the Sydney Secrets page and FAQ say 8. The home page also mentions 'two ticketed cruises' but only Sydney Secrets is shown. Phones: 1300 183 365 (Australia), +61 2 7228 4571 (international), WhatsApp +61 400 709 151. The reservations office is open Monday to Friday 9am to 5:30pm. The address is the departure pontoon (the contact page marker reads 6A Circular Quay West); no office address is given. The about page description says the business has taken tourists on the harbour since 2000; that is not used because it is not in the page text. On the site but not captured as trips: Filming and shoots (boat hire for TV and film productions, by enquiry), Virtual Tours (free 360 degree videos), VIP and celebrity charters, Romance (a page promoting the twilight cruise), and agent and ITO net rates (by enquiry). The Film and TV page shows a 'Sydney Harbour Discovery Cruise' card with no matching trip page. Cancellation and weather terms are on the terms page and were not copied. The Fish Market Cruise Collection is described as available from October 2026."
+}

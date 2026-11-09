@@ -1,0 +1,100 @@
+{
+  "slug": "ocean-extreme",
+  "logo": "https://oceanextreme.com.au/wp-content/uploads/2018/10/oceanextreme-logo-retina2-01.png",
+  "gallery": [
+    "https://oceanextreme.com.au/wp-content/uploads/2024/04/whale-watching-vessels.jpg",
+    "https://oceanextreme.com.au/wp-content/uploads/2019/01/Whale-breach-3445.jpg",
+    "https://oceanextreme.com.au/wp-content/uploads/2018/11/whale.jpg",
+    "https://oceanextreme.com.au/wp-content/uploads/2018/10/whale-watching2.jpg",
+    "https://oceanextreme.com.au/wp-content/uploads/2019/01/DSC_0715.jpg",
+    "https://oceanextreme.com.au/wp-content/uploads/2019/01/DSC_0110.jpg",
+    "https://oceanextreme.com.au/wp-content/uploads/2019/01/DSC_0221.jpg",
+    "https://oceanextreme.com.au/wp-content/uploads/2019/01/DSC_0267.jpg",
+    "https://oceanextreme.com.au/wp-content/uploads/2019/01/DSC_0288.jpg",
+    "https://oceanextreme.com.au/wp-content/uploads/2019/01/DSC_0435.jpg",
+    "https://oceanextreme.com.au/wp-content/uploads/2019/01/DSC_0449.jpg",
+    "https://oceanextreme.com.au/wp-content/uploads/2019/01/DSC_0487.jpg",
+    "https://oceanextreme.com.au/wp-content/uploads/2019/01/DSC_1382.jpg",
+    "https://oceanextreme.com.au/wp-content/uploads/2019/01/DSC_1754.jpg",
+    "https://oceanextreme.com.au/wp-content/uploads/2024/04/extreme-vessel.jpg",
+    "https://oceanextreme.com.au/wp-content/uploads/2024/04/orca-vessel.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=Vi8DPegb6E4",
+      "title": "Offshore drone footage",
+      "sourceUrl": "https://oceanextreme.com.au/bondi-beach-coastal-tour/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eJwirgjqXHg",
+      "title": "Sunset whale breach",
+      "sourceUrl": "https://oceanextreme.com.au/whale-watching/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VOnIS9qdYrI",
+      "title": "Humpback whale mugging the boat",
+      "sourceUrl": "https://oceanextreme.com.au/whale-watching/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_Hh7zleO99g",
+      "title": "Close encounter with a whale",
+      "sourceUrl": "https://www.youtube.com/channel/UCliAgppBnjocXHgIp5MFG-g"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HkRwm87rQ3k",
+      "title": "Whale encounters off Sydney, episode 2",
+      "sourceUrl": "https://www.youtube.com/channel/UCliAgppBnjocXHgIp5MFG-g"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QMUXRn70DuU",
+      "title": "Biggest whale breach of the early season, episode 3",
+      "sourceUrl": "https://www.youtube.com/channel/UCliAgppBnjocXHgIp5MFG-g"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Whale Watching Safari",
+      "images": [
+        "https://oceanextreme.com.au/wp-content/uploads/2019/01/Whale-breach-3445.jpg",
+        "https://oceanextreme.com.au/wp-content/uploads/2024/04/whale-watching-vessels.jpg",
+        "https://oceanextreme.com.au/wp-content/uploads/2023/08/oceanextreme2.png",
+        "https://oceanextreme.com.au/wp-content/uploads/2023/08/osprey.png",
+        "https://oceanextreme.com.au/wp-content/uploads/2019/01/Whale-breach-3410.jpg",
+        "https://oceanextreme.com.au/wp-content/uploads/2024/04/extreme-vessel.jpg",
+        "https://oceanextreme.com.au/wp-content/uploads/2024/04/osprey.jpg",
+        "https://oceanextreme.com.au/wp-content/uploads/2024/04/orca-vessel.jpg",
+        "https://oceanextreme.com.au/wp-content/uploads/2019/01/DSC_0110.jpg",
+        "https://oceanextreme.com.au/wp-content/uploads/2019/01/DSC_0221.jpg"
+      ]
+    },
+    {
+      "title": "Bondi Beach Coastal Tour",
+      "images": [
+        "https://oceanextreme.com.au/wp-content/uploads/2018/12/bondi-thrillride.jpg",
+        "https://oceanextreme.com.au/wp-content/uploads/2019/01/OX-0028-2.jpg",
+        "https://oceanextreme.com.au/wp-content/uploads/2018/12/thrillride.jpg",
+        "https://oceanextreme.com.au/wp-content/uploads/2019/01/thrill-rides.jpg",
+        "https://oceanextreme.com.au/wp-content/uploads/2018/10/thrill-rides2.jpg"
+      ]
+    },
+    {
+      "title": "Palm Beach Pursuit",
+      "images": [
+        "https://oceanextreme.com.au/wp-content/uploads/2018/12/thrillride.jpg"
+      ]
+    },
+    {
+      "title": "Corporate Team Building",
+      "images": [
+        "https://oceanextreme.com.au/wp-content/uploads/2019/01/corporate.png"
+      ]
+    },
+    {
+      "title": "Custom Adventures & Passenger Transfers",
+      "images": [
+        "https://oceanextreme.com.au/wp-content/uploads/2021/06/passenger-transfers.jpg"
+      ]
+    }
+  ],
+  "notes": "No bot check, captcha or block was met on the site or on the YouTube channel page. Logo is the header logo (oceanextreme-logo-retina2-01.png, shown at 150 pixels); the site also serves a 512 pixel version at 2018/10/OCEAN-EXTREME-LOGO512_Artboard-1v.png and a white version for the transparent header, which was not chosen because it would not show on a light page. No heroImage given: the home page hero (Whale-breach-3410.jpg, also the hero in the facts file) is already the best wide shot found. Gallery leads with the home page boat photo, then the site's own whale watching gallery (22 photos, 12 used, in the site's order) and the vessel photos from the about page; whale.jpg and whale-watching2.jpg are page header images and the importer may drop them. The whale watching, coastal tour and corporate pages show no photos of their own apart from background video, so trip photos come from the home page sections, the about page vessels, the whale watching gallery and the Bondi Bash gallery. The thrill rides page lists OX-0028-2.jpg under 2019/05, which returns not found; the working copy is under 2019/01 (from the Bondi Bash gallery). The one image beside the Palm Beach Pursuit text (thrillride.jpg) is also used for the Bondi tour and may not show Palm Beach. Videos are on the operator's own YouTube channel (youtube.com/channel/UCliAgppBnjocXHgIp5MFG-g), with titles and channel name checked through YouTube; the first three are also embedded on the site's coastal tour and whale watching pages. Left out: the Facebook feed photos on the home and whale watching pages (hosted on Facebook), the celebrity gallery (identifiable guests and screenshots), client logos (other businesses), team portraits, and three videos on the site: Will Smith onboard with Ocean Extreme (operator's channel, home page; celebrity likeness, a person may choose to add it), Whale mugging - Manly Ocean Adventures (BXMKtXKdzGw, a different channel, on the about page) and a video by another person's channel (livnUmAG0sk, on the thrill rides page). No stock photos or photo credits to other businesses were seen."
+}

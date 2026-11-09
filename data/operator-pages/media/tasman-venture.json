@@ -1,0 +1,120 @@
+{
+  "slug": "tasman-venture",
+  "logo": "https://tasmanventure.com.au/wp-content/uploads/2025/02/tasman-venture-logo-landscape.png",
+  "gallery": [
+    "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_20-9-2022-1.jpg",
+    "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_0049e.jpg",
+    "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_0462-edit-long-1.jpg",
+    "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_wathumba_creek_kayaking_30-07-2017-long.jpg",
+    "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_30-08-2021.jpg",
+    "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_038a0890-1.jpg",
+    "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_img_0079e.jpg",
+    "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_a60i9630.jpg",
+    "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_0576-1.jpg",
+    "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_20240801195136_0114_d.jpg",
+    "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_20240801234344_0236_d.jpg",
+    "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_20240801235106_0275_d.jpg",
+    "https://tasmanventure.com.au/wp-content/uploads/2025/04/tasman-venture-dra-3351.jpg",
+    "https://tasmanventure.com.au/wp-content/uploads/2025/04/dsf2872-2-min-scaled.jpg",
+    "https://tasmanventure.com.au/wp-content/uploads/2025/04/tasman-venture-dji_0246.jpg",
+    "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_0584-long.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=mTOJPBOXISg",
+      "title": "Tasman Venture home page video",
+      "sourceUrl": "https://tasmanventure.com.au/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ngblTK8aHZU",
+      "title": "Remote Fraser Island Experience",
+      "sourceUrl": "https://www.youtube.com/user/TasmanVenture"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UVX5IdO9tvM",
+      "title": "Remote Fraser Island and whales, 2019",
+      "sourceUrl": "https://www.youtube.com/user/TasmanVenture"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fu8ZmaeYUMA",
+      "title": "Remote Fraser Island aerial video",
+      "sourceUrl": "https://www.youtube.com/user/TasmanVenture"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lLnCv8lCL1w",
+      "title": "Fraser Island and whales",
+      "sourceUrl": "https://www.youtube.com/user/TasmanVenture"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=x6_U1_oR7Vo",
+      "title": "Whale watching in Hervey Bay, up close",
+      "sourceUrl": "https://www.youtube.com/user/TasmanVenture"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Half-Day Whale Watching Encounter",
+      "images": [
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_038a0890-1.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_30-08-2021.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_20-9-2022.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_0049e.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_038a2799-1.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_img_0079e.jpg"
+      ]
+    },
+    {
+      "title": "Full-Day Remote K'gari Experience",
+      "images": [
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_0462-edit-long-1.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_wathumba_creek_kayaking_30-07-2017-long.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_0576-1.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_a60i8911-1.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_a60i9630.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_a60i8944-1.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_a60i9458.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_a60i9009-1.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_0531.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_20240801195136_0114_d-1.jpg"
+      ]
+    },
+    {
+      "title": "Full-Day Remote K'gari & Whale Experience",
+      "images": [
+        "https://tasmanventure.com.au/wp-content/uploads/2025/04/tasman-venture-dra-3351.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_whale-immersion-aerial-august-2019.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_remote_helpinghand_18-7-17.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_0576.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_3d34106d-8247-4e56-bac2-42e47fdafb71.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_0462-edit.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_a60i9644.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_038a2799-1-1.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_a60i8911.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_0535.jpg"
+      ]
+    },
+    {
+      "title": "K'gari Adventure (Private Tour)",
+      "images": [
+        "https://tasmanventure.com.au/wp-content/uploads/2025/04/dsf2872-2-min-scaled.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_0576-1.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_a60i9021.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/04/img_2926-1-large.jpeg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/04/img_2908-1-large.jpeg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_a60i9670.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_a60i9129.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_1d7a2616-1.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_a60i9009-1.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_0556.jpg"
+      ]
+    },
+    {
+      "title": "Private Tours with Tasman Venture",
+      "images": [
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_20240801235101_0274_d-1.jpg",
+        "https://tasmanventure.com.au/wp-content/uploads/2025/03/tasman-venture_dji_20240801195136_0114_d.jpg"
+      ]
+    }
+  ],
+  "notes": "Nothing was downloaded or opened as an image, so no photo was checked by eye; subjects are taken from the page they sit on and from file names. Full-size originals are the URLs without the WordPress -800x600 or -800x800 size suffix, and each one answered a header-only check with a 200 and an image type. Logo is the site's coloured landscape logo (named as the Organization logo in the home page structured data); the header itself shows tasman-venture-logo-landscape-white.png, a white version for the dark header, and tasman-venture-logo-portrait.png also exists. No heroImage given: the facts file uses the home page header video's still image (tasman-venture_dji_0049e.jpg), and the 20-9-2022 whale photo (tasman-venture_20-9-2022-1.jpg, also the page's social share image) is the alternative to compare. LEFT OUT because the site credits them to Tourism and Events Queensland: tasman-venture_136943, _136945, _136942, _145696-2021, _141674-2020, _153289-2022, _154971-2023, _123888, _142104-2020, _142105-2020 and _142111-2020, plus _141601-2020 (a page background with the same numbered file style, no caption). LEFT OUT because the site credits them to Tegan Book: tasman-venture_tegan-book-1 to _tegan-book-5. LEFT OUT as logos, badges and graphics: the Tasman Venture white and portrait logos, the Ecotourism, EcoGuide, Whale Heritage, TripAdvisor, Queensland award and membership badges, the map graphic, and the partner logos (Fraser Experience Tours, K'gari Explorer Tours). LEFT OUT as likely another business's or photographer's work: tasman-venture-kgari-explorer-2022_fc_kingfisher-bay-resort_pixelframe-dji_0446 (a file name that points to a resort and a photo studio). The Instagram feed block shows only an error and placeholder, so no Instagram images. The other photos carry no credit line on the site, so they are treated as the operator's own; a person should confirm that with Tasman Venture. The 'Whale Immersion' aerial photo (August 2019) is listed under the Remote K'gari & Whale trip because it sits on that trip's page, but no permit for the whale swim is stated on the site, so check it before publishing. Videos: the first is the YouTube video the home page plays behind its header (its channel was not checked); the other five come from the YouTube channel the site links (youtube.com/user/TasmanVenture, loaded normally, no bot check). Their titles on YouTube use the older name Fraser Island. They were not watched, and the 2019 'Remote Fraser Island & Whales' video may show a whale swim, so check it. The channel also has older videos of fishing charters and whale songs that were not chosen. The Private Tours page has only two uncredited photos; its other photos are credited to Tourism and Events Queensland or use the same numbered file style. About 24 pages were read, none blocked."
+}

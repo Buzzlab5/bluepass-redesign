@@ -1,0 +1,21 @@
+{
+  "slug": "adrenalin-snorkel-dive",
+  "name": "Adrenalin Snorkel & Dive",
+  "website": "https://adrenalindive.com.au",
+  "rezdyAlias": null,
+  "state": "QLD",
+  "town": null,
+  "category": null,
+  "summary": null,
+  "standouts": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "address": null
+  },
+  "heroImage": null,
+  "sourceUrls": [],
+  "trips": [],
+  "offers": [],
+  "checkNotes": "BLOCKED, no facts collected. On 15 Oct 2026 the homepage request to https://adrenalindive.com.au/ was redirected (301) to https://www.adrenalindive.com.au/, which answered HTTP 403 Forbidden from an Apache server (plain 'Forbidden' page, no page content). The site resolved normally and the address matched Cloudflare DNS over HTTPS (101.0.92.98), so this is not a DNS problem. Per the research rules no further page of the site was requested: no retry, no other pages, no sitemap or robots file, no caches or archives, no changed browser identity. The only requests were the homepage (with its redirect) and one header-only check of the apex address to confirm the redirect and server address, all with plain curl. Nothing in this file was read from the operator's site, so trips, prices, times, contact details, photos and the Rezdy alias are all empty or null, and the town and category are null because they are not confirmed on the site. Our list describes the operator as Palm Islands, Yongala wreck and reef dive tours from Townsville, but that is unverified and has not been copied into any field. A person needs to read the site in a normal browser, or get the details from the operator directly, before this page can be prepared. Name, website and state are from the brief."
+}

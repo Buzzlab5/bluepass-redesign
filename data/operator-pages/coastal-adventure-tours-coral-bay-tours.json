@@ -1,0 +1,268 @@
+{
+  "slug": "coastal-adventure-tours-coral-bay-tours",
+  "name": "Coastal Adventure Tours (WA)",
+  "website": "https://coralbaytours.com.au",
+  "rezdyAlias": "coralbaytours",
+  "state": "WA",
+  "town": "Coral Bay",
+  "category": "Ningaloo Reef tours",
+  "summary": "Locally owned tours from Coral Bay on the Ningaloo Reef, including whale shark and humpback whale swims and snorkel cruises on the sailing catamaran Coral Breeze. Whale shark tours run roughly March to July and humpback whale tours July to October, with a spotter plane used on the whale shark tour. The Coral Breeze sails year round.",
+  "standouts": [
+    "Awarded TripAdvisor Travellers Choice every year from 2020 to 2026",
+    "Locally owned and operated, based in Coral Bay",
+    "Spotter plane pilot coordinates directly with the skipper on whale shark tours",
+    "Whale shark tour staff are dive masters, instructors or bronze medallionists"
+  ],
+  "contact": {
+    "phone": "+61 8 9948 5190",
+    "email": "info@catours.com.au",
+    "address": "Shop 12 Coral Bay Shopping Arcade, Robinson Street, Coral Bay WA 6701"
+  },
+  "heroImage": "https://coralbaytours.com.au/wp-content/uploads/2018/07/Main-Header-Images.jpg",
+  "sourceUrls": [
+    "https://coralbaytours.com.au/",
+    "https://coralbaytours.com.au/tours/",
+    "https://coralbaytours.com.au/tours/ningaloo-reef-whale-sharks/",
+    "https://coralbaytours.com.au/tours/humpback-whale-adventure-tour/",
+    "https://coralbaytours.com.au/tours/ningaloo-adventure/",
+    "https://coralbaytours.com.au/tours/coral-breeze-sail-snorkel/",
+    "https://coralbaytours.com.au/tours/quad-trek-adventure/",
+    "https://coralbaytours.com.au/tours/manta-ray-interaction/",
+    "https://coralbaytours.com.au/tours/other-tours/",
+    "https://coralbaytours.com.au/terms-conditions/",
+    "https://coralbaytours.com.au/about-coral-bay/",
+    "https://coralbaytours.com.au/contact-us/",
+    "https://coralbaytours.com.au/access-inclusivity-statement/",
+    "https://coralbaytours.com.au/environmental-indiginous/",
+    "https://coralbaytours.com.au/help-protect-coral-bay/",
+    "https://coralbaytours.com.au/page-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Whale Shark Adventure",
+      "kind": "swim",
+      "summary": "A full day tour on the vessel Encounter II to look for whale sharks on the Ningaloo Reef and swim with one if it is found. A spotter plane works with the skipper to find them. The day also includes a guided snorkel on a coral garden, morning tea, a buffet lunch and a second snorkel in the afternoon if time permits.",
+      "highlights": [
+        "Spotter plane pilot works directly with the skipper",
+        "Guided snorkel on a coral garden before the whale shark search",
+        "Full-length wetsuit and all snorkel gear included",
+        "Buffet lunch on board and a complimentary bus transfer to the jetty"
+      ],
+      "duration": "9 hours (approximately)",
+      "durationMinutes": 540,
+      "departureTimes": [
+        "07:20"
+      ],
+      "season": "March to July (dates approximate)",
+      "departsFrom": "Coral Bay. Check in at the dive shop, then a 5 minute complimentary bus transfer to the jetty",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All equipment rental, including a full-length wetsuit",
+        "All park fees",
+        "Morning snorkel on a coral garden, and an afternoon snorkel if time permits",
+        "Morning tea and buffet lunch",
+        "Complimentary bus transfer to the jetty",
+        "Crew who are dive masters, instructors or bronze medallionists"
+      ],
+      "bring": [],
+      "requirements": "Whale shark and humpback whale tours use these age groups: adult 17 and older, child 6 to 16, infant 0 to 5 (infants do not swim with whale sharks). Participants under 18 must be accompanied by a parent or guardian. The crew may refuse anyone they judge does not have the required swimming ability.",
+      "offer": null,
+      "images": [
+        "https://coralbaytours.com.au/wp-content/uploads/2024/03/WhaleSharkwithBoat2.jpg",
+        "https://coralbaytours.com.au/wp-content/uploads/2024/03/WHALESHARKwithFriends.jpg",
+        "https://coralbaytours.com.au/wp-content/uploads/2024/03/IMG_9551_1.jpg"
+      ],
+      "bookingLinks": [
+        "https://coralbaytours.rezdy.com/643171/whale-shark-adventure"
+      ],
+      "sourceUrl": "https://coralbaytours.com.au/tours/ningaloo-reef-whale-sharks/",
+      "checkNotes": "No price on the site; prices sit inside the booking system, which was not opened, so prices are left empty. Check-in is 7:20 (stated as the tour start); the tour generally returns between 4:30pm and 5:30pm, depending on conditions. The page says check in at the 'dive shop' and a 5 minute bus drive to the jetty, while the terms page says the bus runs between the shop in the Coral Bay Shopping Arcade and the Coral Bay Boat Launching Facility; confirm the meeting point. Photos from the on-board photographer can be bought through a Dropbox link (optional, not included in price). The page and the terms say wildlife sightings are not guaranteed; no sighting claim is repeated here. Season dates are marked approximate on the home page. Sold under the trading name Ningaloo Reef Whale Sharks (NR WS Pty Ltd), which the terms page lists as one of the operator's own companies. The whale shark season is March to July, so check what is bookable now."
+    },
+    {
+      "title": "Humpback Whale Adventure Tour",
+      "kind": "swim",
+      "summary": "A seasonal tour from Coral Bay with in-water encounters with humpback whales as they migrate through the Ningaloo Marine Park. The season runs from July to October, with dates approximate.",
+      "highlights": [
+        "In-water encounters with migrating humpback whales",
+        "Runs from Coral Bay in the Ningaloo Marine Park"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "July to October (dates approximate)",
+      "departsFrom": "Coral Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "Whale shark and humpback whale tours use these age groups: adult 17 and older, child 6 to 16, infant 0 to 5. Participants under 18 must be accompanied by a parent or guardian. The crew may refuse anyone they judge does not have the required swimming ability.",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://coralbaytours.rezdy.com/641149/humpback-whale-adventure"
+      ],
+      "sourceUrl": "https://coralbaytours.com.au/tours/humpback-whale-adventure-tour/",
+      "checkNotes": "Thin source. The humpback page holds only an embedded booking widget (no text), so the description, season and book link come from the home page; duration, times, inclusions, meeting point and price are not on the site, and prices are left empty. The page's header photo is a stock photo (pexels file name) and the tours page tile is a banner, so no photo is recorded for this trip. Sold under the Ningaloo Reef Whale Sharks trading name per the terms page (age groups shared with the whale shark tour). Season dates are marked approximate on the home page; the season ends this month, so check what is bookable now. A separate page, Ningaloo Adventure (whale sharks or humpback whales, mid June to mid July), is in the operator-level notes."
+    },
+    {
+      "title": "Reef Explorer Turtle Snorkel",
+      "kind": "snorkel",
+      "summary": "A half day sail on the catamaran Coral Breeze to two snorkel sites on the Ningaloo Reef, where resident turtles live. Lunch is cooked on board, with a vegetarian option, and the boat has a custom boomnet to relax in. Snorkelling is relaxed and unguided.",
+      "highlights": [
+        "Two snorkel sites on the Ningaloo Reef",
+        "Lunch on board with a vegetarian option",
+        "Ocean spa in the custom boomnet",
+        "Sailing aboard the Seawind 1050 catamaran Coral Breeze"
+      ],
+      "duration": "10.00am to 2.00pm",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "10:00"
+      ],
+      "season": "Year-round",
+      "departsFrom": "Coral Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Lunch on board (sausage sizzle, with a vegetarian option)",
+        "Use of the Ocean Spa boomnet"
+      ],
+      "bring": [],
+      "requirements": "Pricing age groups on the terms page: adult 15 and older, child 3 to 14, infant 0 to 3. Participants under 18 must be accompanied by a parent or guardian. Snorkelling is relaxed and unguided; the home page says non-swimmers can join with a life vest.",
+      "offer": null,
+      "images": [
+        "https://coralbaytours.com.au/wp-content/uploads/2018/07/Coral-Breeze-Port-Side.jpg",
+        "https://coralbaytours.com.au/wp-content/uploads/2018/07/coral-breez.jpg",
+        "https://coralbaytours.com.au/wp-content/uploads/2018/07/Turtle-back.jpg",
+        "https://coralbaytours.com.au/wp-content/uploads/2018/07/Coral2.jpg"
+      ],
+      "bookingLinks": [
+        "https://coralbaytours.rezdy.com/199362/reef-explorer-turtle-snorkel"
+      ],
+      "sourceUrl": "https://coralbaytours.com.au/tours/coral-breeze-sail-snorkel/",
+      "checkNotes": "No price appears on the site; prices sit inside the booking system, which was not opened, so prices are left empty. The exact meeting point is not stated on the Coral Breeze page (the terms page mentions a bus between the shop and the Coral Bay Boat Launching Facility for some tours). The four Coral Breeze cruises share one page and one set of photos. Duration is worked out from the stated times 10.00am to 2.00pm. Guests are asked to note dietary needs or allergies in special requirements when booking."
+    },
+    {
+      "title": "Snorkel Discovery",
+      "kind": "snorkel",
+      "summary": "A full day sailing cruise on the Coral Bay catamaran Coral Breeze, from 9.00am to 3.00pm, visiting three snorkel sites on the Ningaloo Reef. Morning tea is provided, with a BBQ lunch and a fresh fruit platter on board.",
+      "highlights": [
+        "Three snorkel sites on the Ningaloo Reef",
+        "Morning tea provided",
+        "BBQ lunch and fresh fruit platter on board",
+        "Experienced crew on the Coral Breeze"
+      ],
+      "duration": "9.00am to 3.00pm",
+      "durationMinutes": 360,
+      "departureTimes": [
+        "09:00"
+      ],
+      "season": "Year-round",
+      "departsFrom": "Coral Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Morning tea",
+        "BBQ lunch",
+        "Fresh fruit platter"
+      ],
+      "bring": [],
+      "requirements": "Pricing age groups on the terms page: adult 15 and older, child 3 to 14, infant 0 to 3. Participants under 18 must be accompanied by a parent or guardian. Snorkelling is relaxed and unguided; the home page says non-swimmers can join with a life vest.",
+      "offer": null,
+      "images": [
+        "https://coralbaytours.com.au/wp-content/uploads/2018/07/Coral-Breeze-Port-Side.jpg",
+        "https://coralbaytours.com.au/wp-content/uploads/2018/07/coral-breez.jpg",
+        "https://coralbaytours.com.au/wp-content/uploads/2018/07/Turtle-back.jpg",
+        "https://coralbaytours.com.au/wp-content/uploads/2018/07/blue-spot-lagoon-ray.jpg"
+      ],
+      "bookingLinks": [
+        "https://coralbaytours.rezdy.com/200105/snorkel-discovery-sailing-cruise"
+      ],
+      "sourceUrl": "https://coralbaytours.com.au/tours/coral-breeze-sail-snorkel/",
+      "checkNotes": "No price appears on the site; prices sit inside the booking system, which was not opened, so prices are left empty. The exact meeting point is not stated on the Coral Breeze page (the terms page mentions a bus between the shop and the Coral Bay Boat Launching Facility for some tours). The four Coral Breeze cruises share one page and one set of photos. Duration is worked out from the stated times 9.00am to 3.00pm."
+    },
+    {
+      "title": "Afternoon Snorkel",
+      "kind": "snorkel",
+      "summary": "A short afternoon sail on the Coral Breeze, from 3.00pm to 5.30pm, to one snorkel site with resident turtles. Guests can bring a drink to enjoy on board.",
+      "highlights": [
+        "One snorkel site with resident turtles",
+        "Sailing aboard the Coral Breeze",
+        "Bring a drink to enjoy on board"
+      ],
+      "duration": "3.00pm to 5.30pm",
+      "durationMinutes": 150,
+      "departureTimes": [
+        "15:00"
+      ],
+      "season": "Year-round",
+      "departsFrom": "Coral Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [
+        "A drink to enjoy on board (optional)"
+      ],
+      "requirements": "Pricing age groups on the terms page: adult 15 and older, child 3 to 14, infant 0 to 3. Participants under 18 must be accompanied by a parent or guardian. Snorkelling is relaxed and unguided; the home page says non-swimmers can join with a life vest.",
+      "offer": null,
+      "images": [
+        "https://coralbaytours.com.au/wp-content/uploads/2018/07/Coral-Breeze-Port-Side.jpg",
+        "https://coralbaytours.com.au/wp-content/uploads/2018/07/blue-spot-lagoon-ray.jpg",
+        "https://coralbaytours.com.au/wp-content/uploads/2018/07/Turtle-back.jpg",
+        "https://coralbaytours.com.au/wp-content/uploads/2018/07/Coral2.jpg"
+      ],
+      "bookingLinks": [
+        "https://coralbaytours.rezdy.com/200191/afternoon-sail-snorkel"
+      ],
+      "sourceUrl": "https://coralbaytours.com.au/tours/coral-breeze-sail-snorkel/",
+      "checkNotes": "No price appears on the site; prices sit inside the booking system, which was not opened, so prices are left empty. The exact meeting point is not stated on the Coral Breeze page (the terms page mentions a bus between the shop and the Coral Bay Boat Launching Facility for some tours). The four Coral Breeze cruises share one page and one set of photos. Duration is worked out from the stated times 3.00pm to 5.30pm. The Book Now link slug is 'afternoon-sail-snorkel'."
+    },
+    {
+      "title": "Sunset Sail",
+      "kind": "sail",
+      "summary": "A two hour sunset sail on the Coral Breeze across the bay, with a complimentary antipasto platter. Guests bring their own sunset drink. The start time changes with the season.",
+      "highlights": [
+        "Sunset sail on the Coral Breeze",
+        "Complimentary antipasto platter",
+        "Bring your own sunset drink",
+        "Start time varies with the season"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": "Year-round",
+      "departsFrom": "Coral Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Complimentary antipasto platter"
+      ],
+      "bring": [
+        "Your favourite sunset drink"
+      ],
+      "requirements": "Pricing age groups on the terms page: adult 15 and older, child 3 to 14, infant 0 to 3. Participants under 18 must be accompanied by a parent or guardian. Snorkelling is relaxed and unguided; the home page says non-swimmers can join with a life vest.",
+      "offer": null,
+      "images": [
+        "https://coralbaytours.com.au/wp-content/uploads/2018/07/Coral-Breeze-Port-Side.jpg",
+        "https://coralbaytours.com.au/wp-content/uploads/2018/07/coral-breez.jpg",
+        "https://coralbaytours.com.au/wp-content/uploads/2018/07/Turtle-back.jpg",
+        "https://coralbaytours.com.au/wp-content/uploads/2018/07/Coral2.jpg"
+      ],
+      "bookingLinks": [
+        "https://coralbaytours.rezdy.com/200106/sunset-sail"
+      ],
+      "sourceUrl": "https://coralbaytours.com.au/tours/coral-breeze-sail-snorkel/",
+      "checkNotes": "No price appears on the site; prices sit inside the booking system, which was not opened, so prices are left empty. The exact meeting point is not stated on the Coral Breeze page (the terms page mentions a bus between the shop and the Coral Bay Boat Launching Facility for some tours). The four Coral Breeze cruises share one page and one set of photos. Start time is not stated ('time varies with the season'). None of the photos on the page show a sunset. A reviewer on the home page mentions BYO drinks and nibbles; only the page text is used here."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Discount off the total cost when two or more tours are booked in one transaction",
+      "conditions": "Booked by email to info@catours.com.au with the tours, dates and number of participants. All tours must be run by Coastal Adventure Tours, Quad Treks or Ningaloo Reef Whale Sharks. Cannot be combined with other offers. If a tour on the booking is cancelled, the discount can be removed. The amount is on the terms page.",
+      "validUntil": null,
+      "sourceUrl": "https://coralbaytours.com.au/terms-conditions/"
+    }
+  ],
+  "checkNotes": "NAME AND COMPANIES: the site's own name is 'Coastal Adventure Tours (WA)' (trading name of CATOURS Pty Ltd); page titles and the menu say 'Coral Bay Tours'. The terms page lists three companies as the operator's own: Coastal Adventure Tours (CATOURS Pty Ltd), Quad Treks (WA) (QTREK Pty Ltd) and Ningaloo Reef Whale Sharks (NR WS Pty Ltd). The whale shark and humpback tours are included on that basis. PRICES: no price appears on any page (the only dollar figure on the site is in a reviewer's quote, not used). Every trip is booked through the operator's own Rezdy account (coralbaytours), which was not opened, so all prices are empty. The site's structured data gives one business-wide price range that cannot be tied to any trip, so it is not recorded. The terms page says prices are in AUD and include GST, online bookings carry a booking fee that is not refundable, and in-store card payments carry a surcharge. LEFT OUT, quad treks: the Quad Trek Adventure page (Quad Treks (WA)) is self-drive quad bike treks on land. Four treks are listed: Turtle Adventure Trek (South), Turtle Adventure and Snorkel Trek (South), Sunset Trek (South) and Sunset Snorkel Trek (South); Rezdy links 200107, 200109, 200108 and 200302 under coralbaytours.rezdy.com. Two include a snorkel at Five Fingers Reef. Left out as land activities; a person can decide whether the snorkel treks belong. LEFT OUT, Ningaloo Marine Interactions (manta ray): the site sells a full day manta ray snorkel tour (about 7 hours, 8:30am sign in, meet at the shop, snorkel gear, wetsuit, morning tea, lunch, afternoon tea and photos included; booking catalog https://coralbaytours.rezdy.com/catalog/591986/ningaloo-marine-interactions). The page is written in the third person ('Ningaloo Marine Interactions ... their crew') and also says 'our team'. The terms page does not list Ningaloo Marine Interactions among the operator's companies, the structured data lists no manta tour, and the catalog number sits beside the catalogs used on the Other Tours page for other operators' tours. It looks like another business's tour, so it is left out with its photos; confirm with the operator. LEFT OUT, Ningaloo Adventure (whale sharks or humpback whales, mid June to mid July): a menu page at /tours/ningaloo-adventure/ with only a title and an embedded booking widget (Rezdy product 728363); no description, and it is not in season. LEFT OUT, other operators: the Other Tours page lists glass bottom boats, scenic flights (helicopter and fixed wing) and scuba diving (Ningaloo Reef Dive) run by other businesses. SEASONS: whale shark March to July and humpback July to October are marked as approximate on the home page; with today in October, confirm which seasonal tours are bookable. The Coral Breeze runs year round. SIGHTINGS: the site's terms and tour pages say wildlife sightings are not guaranteed; reviews and award claims on the home page are not repeated. BADGES: the home page shows two unlabelled badge images (Sustainable1.png and a 25-26 Gold Membership graphic) that could not be identified without viewing them, so no certification is claimed. OTHER: group or private charter bookings are mentioned only on the terms page (by email, deposit may apply); no charter page exists. admin@catours.com.au is the address for accounts, suppliers, agents and employment. Shop hours are on the operator's Google profile, not on the site. WhatsApp: wa.me/61899485190. Pages were fetched with a plain request; no bot check or captcha appeared."
+}

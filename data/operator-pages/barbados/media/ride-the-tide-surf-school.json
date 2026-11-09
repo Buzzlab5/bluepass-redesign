@@ -1,0 +1,53 @@
+{
+  "slug": "ride-the-tide-surf-school",
+  "logo": "https://ridethetidebarbados.com/sites/default/files/rtt-logo.png",
+  "gallery": [
+    "https://ridethetidebarbados.com/sites/default/files/images/barbados-surf-school%20(1)(1).jpg",
+    "https://ridethetidebarbados.com/sites/default/files/slideshow-images/surf-class-group.jpg",
+    "https://ridethetidebarbados.com/sites/default/files/homepage-block-images/barbados-surfing-class.jpeg",
+    "https://ridethetidebarbados.com/sites/default/files/homepage-block-images/surf-school-barbados.jpeg",
+    "https://ridethetidebarbados.com/sites/default/files/homepage-block-images/private-surf-lessons.jpg",
+    "https://ridethetidebarbados.com/sites/default/files/homepage-block-images/surfboard-rental-min.jpeg",
+    "https://ridethetidebarbados.com/sites/default/files/slideshow-images/0151a2d4-4600-45a0-bfad-f09b7a7a01bd.jpg",
+    "https://ridethetidebarbados.com/sites/default/files/slideshow-images/409f583f-ac96-4877-8a9e-46e80d155745.jpeg",
+    "https://ridethetidebarbados.com/sites/default/files/slideshow-images/gptempdownload.jpeg",
+    "https://ridethetidebarbados.com/sites/default/files/slideshow-images/gptempdownload_0.jpeg",
+    "https://ridethetidebarbados.com/sites/default/files/images/Tropical%20Surf%20School%20Entrance.jpg",
+    "https://ridethetidebarbados.com/sites/default/files/slideshow-images/tropical_surf_shack_and_board_racks.jpg"
+  ],
+  "videos": [
+    { "url": "https://www.youtube.com/watch?v=SsRBWGYenQw", "title": "Opening the shop for the winter surf season at Freights Bay", "sourceUrl": "https://www.youtube.com/user/surfschoolbarbados/" },
+    { "url": "https://www.youtube.com/watch?v=OtVVU4Uy9GU", "title": "Summer surf lessons at Drill Hall beach", "sourceUrl": "https://www.youtube.com/user/surfschoolbarbados/" },
+    { "url": "https://www.youtube.com/watch?v=Z0U844nSZ1k", "title": "Waves at Freights Bay with surf lessons running", "sourceUrl": "https://www.youtube.com/user/surfschoolbarbados/" },
+    { "url": "https://www.youtube.com/watch?v=1FPHIHurV84", "title": "New rental surfboards ready for the winter season", "sourceUrl": "https://www.youtube.com/user/surfschoolbarbados/" },
+    { "url": "https://www.youtube.com/watch?v=JWifxGQ7u_o", "title": "Mid morning waves at Freights Bay", "sourceUrl": "https://www.youtube.com/user/surfschoolbarbados/" },
+    { "url": "https://www.youtube.com/watch?v=1oIhXXC3F4g", "title": "Quality waves for surf lessons", "sourceUrl": "https://www.youtube.com/user/surfschoolbarbados/" }
+  ],
+  "trips": [
+    { "title": "Group Surf Lessons", "images": [
+      "https://ridethetidebarbados.com/sites/default/files/product-images/frame-05-07-2018-13-43-01.jpeg",
+      "https://ridethetidebarbados.com/sites/default/files/product-images/img_0146.jpg",
+      "https://ridethetidebarbados.com/sites/default/files/product-images/img_4657_21.jpg",
+      "https://ridethetidebarbados.com/sites/default/files/slideshow-images/surf-class-group.jpg"
+    ] },
+    { "title": "Private 2 surfers", "images": [
+      "https://ridethetidebarbados.com/sites/default/files/product-images/surf-class.jpg"
+    ] },
+    { "title": "1-2-1 Surf Lessons", "images": [
+      "https://ridethetidebarbados.com/sites/default/files/product-images/14632989_10154760134939175_4272427231404256358_n.jpeg",
+      "https://ridethetidebarbados.com/sites/default/files/product-images/img_6306.jpeg",
+      "https://ridethetidebarbados.com/sites/default/files/product-images/img_0943-min.jpeg"
+    ] },
+    { "title": "Private Group Surfing", "images": [
+      "https://ridethetidebarbados.com/sites/default/files/product-images/frame-15-01-2019-11-02-16.jpeg",
+      "https://ridethetidebarbados.com/sites/default/files/product-images/95666e99-3dc7-4f8b-8b1d-dfc0774db65d.jpg",
+      "https://ridethetidebarbados.com/sites/default/files/product-images/f9084fd0-59e9-44b2-b085-87245ec83727.jpg",
+      "https://ridethetidebarbados.com/sites/default/files/homepage-block-images/private-surf-lessons.jpg"
+    ] },
+    { "title": "Surfboard Rental", "images": [
+      "https://ridethetidebarbados.com/sites/default/files/slideshow-images/tropical_surf_shack_and_board_racks.jpg",
+      "https://ridethetidebarbados.com/sites/default/files/homepage-block-images/surfboard-rental-min.jpeg"
+    ] }
+  ],
+  "notes": "Drupal site; image URLs are the original files (without the /styles/ resize path), checked and loading. Per-board rental photos on the rental page are small thumbnails of individual boards and were left out. Two images ('Tropical Surf School Entrance' and 'tropical_surf_shack_and_board_racks') may be illustrations rather than photos; worth a look. Videos from the YouTube channel the site links to (youtube.com/user/surfschoolbarbados), read through its public feed; no embeds on the pages. No bot checks met."
+}

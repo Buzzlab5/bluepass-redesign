@@ -1,0 +1,126 @@
+{
+  "slug": "oceanluxx-cruises",
+  "name": "OceanLuxx Cruises",
+  "website": "https://oceanluxx.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Lunch and sunset cruises",
+  "summary": "OceanLuxx Cruises is a small boat charter business based in Bridgetown, Barbados. It runs a daytime cruise with a buffet lunch and an evening sunset cruise with hors d'oeuvres, both with an open bar. Private charters are arranged by email.",
+  "standouts": [
+    "Online booking with real-time availability and instant confirmation",
+    "Full refund for bookings cancelled 72 hours in advance",
+    "Cruises rescheduled or refunded when weather stops sailing",
+    "Local rates available on request by email"
+  ],
+  "contact": {
+    "phone": "+1 246 842 5851",
+    "email": "oceanluxxcruises@gmail.com",
+    "address": "Independence Square, Bridgetown, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://oceanluxx.com/wp-content/uploads/2024/02/drone-41-scaled.jpg",
+  "sourceUrls": [
+    "https://oceanluxx.com/",
+    "https://oceanluxx.com/cruises/",
+    "https://oceanluxx.com/about/",
+    "https://oceanluxx.com/frequently-asked-questions/",
+    "https://oceanluxx.com/contact-us/",
+    "https://oceanluxx.com/packages/",
+    "https://oceanluxx.com/rezdy-items/",
+    "https://oceanluxx.com/wp-sitemap.xml",
+    "https://oceanluxx.com/wp-sitemap-posts-page-1.xml",
+    "https://oceanluxx.com/wp-sitemap-posts-post-1.xml"
+  ],
+  "trips": [
+    {
+      "title": "Half-day cruise",
+      "kind": "cruise",
+      "summary": "A daytime cruise along the Barbados coast with a full buffet lunch on board. A premium bar with rum punch, beers and soft drinks is included.",
+      "highlights": [
+        "Full buffet lunch",
+        "Premium bar, rum punch, beers and soft drinks included",
+        "Booked online with instant confirmation"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Full buffet lunch",
+        "Premium bar, rum punch, beers and soft drinks"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://oceanluxxcruises.rezdy.com/catalog/534704/cruises",
+        "https://oceanluxx.com/cruises/"
+      ],
+      "sourceUrl": "https://oceanluxx.com/frequently-asked-questions/",
+      "checkNotes": "The site's own pages never list trips by name. The About page offers a half-day, sunset or private charter and the FAQ describes a day time cruise with a buffet lunch; the title is taken from that wording. Trip names, prices, times and departure point are only inside the Rezdy widget on /cruises/, which was not opened."
+    },
+    {
+      "title": "Sunset cruise",
+      "kind": "cruise",
+      "summary": "An evening cruise timed for sunset off Barbados. A selection of hors d'oeuvres is served with a premium bar, rum punch, beers and soft drinks.",
+      "highlights": [
+        "Hors d'oeuvres served on board",
+        "Premium bar, rum punch, beers and soft drinks included",
+        "Booked online with instant confirmation"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "A selection of hors d'oeuvres",
+        "Premium bar, rum punch, beers and soft drinks"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://oceanluxxcruises.rezdy.com/catalog/534704/cruises",
+        "https://oceanluxx.com/cruises/"
+      ],
+      "sourceUrl": "https://oceanluxx.com/frequently-asked-questions/",
+      "checkNotes": "Title taken from the About and FAQ wording (evening sunset cruises). Prices, times and departure point are only inside the Rezdy widget on /cruises/, which was not opened."
+    },
+    {
+      "title": "Private charter",
+      "kind": "charter",
+      "summary": "The boat can be chartered privately for groups. Packages are arranged by email.",
+      "highlights": [
+        "Private charters for groups",
+        "Packages sent on request by email"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://oceanluxx.com/frequently-asked-questions/",
+      "checkNotes": "FAQ says: For Private Charters, kindly send us an email for packages. Enquiry only; no price shown."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "All trips are sold through a Rezdy catalog iframe (oceanluxxcruises.rezdy.com/catalog/534704/cruises) on the home and /cruises/ pages; Rezdy was not opened, so trip names, prices, durations and times are unknown. The /packages/ and /rezdy-items/ pages are empty. The home page also mentions a party on the waves and a leisurely brunch with friends, which may be separate Rezdy products. Address is the map pin on the contact page (Independence Square, Bridgetown); no departure point is written on the site. Footer shows Copyright 2026 and the photos were uploaded in 2023 and 2024. The site does not say whether the boat is a catamaran or a powerboat."
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "endless-kiteboarding",
+  "logo": "https://endlesskiteboarding.com/wp-content/uploads/2017/01/Endless-Kiteboarding.png",
+  "gallery": [
+    "https://endlesskiteboarding.com/wp-content/uploads/2017/01/IMG_3949.jpg",
+    "https://endlesskiteboarding.com/wp-content/uploads/2017/01/IMG_3967.jpg",
+    "https://endlesskiteboarding.com/wp-content/uploads/2017/01/SAM_1686.jpg",
+    "https://endlesskiteboarding.com/wp-content/uploads/2017/01/IMG_4259.jpg",
+    "https://endlesskiteboarding.com/wp-content/uploads/2017/01/P1260299.jpg",
+    "https://endlesskiteboarding.com/wp-content/uploads/2017/12/IMG-20171129-WA0008.jpg",
+    "https://endlesskiteboarding.com/wp-content/uploads/2017/12/IMG-20171129-WA0009.jpg",
+    "https://endlesskiteboarding.com/wp-content/uploads/2017/12/IMG-20171129-WA0010.jpg",
+    "https://endlesskiteboarding.com/wp-content/uploads/2017/12/IMG-20171129-WA0011.jpg",
+    "https://endlesskiteboarding.com/wp-content/uploads/2017/12/IMG-20171129-WA0013.jpg",
+    "https://endlesskiteboarding.com/wp-content/uploads/2017/12/IMG-20171129-WA0014.jpg",
+    "https://endlesskiteboarding.com/wp-content/uploads/2017/12/IMG-20171129-WA0015.jpg",
+    "https://endlesskiteboarding.com/wp-content/uploads/2017/12/IMG-20171129-WA0016.jpg",
+    "https://endlesskiteboarding.com/wp-content/uploads/2017/12/IMG-20171129-WA0017.jpg",
+    "https://endlesskiteboarding.com/wp-content/uploads/2017/12/IMG-20171129-WA0018.jpg",
+    "https://endlesskiteboarding.com/wp-content/uploads/2017/12/IMG-20171129-WA0019.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Kitesurfing lessons",
+      "images": [
+        "https://endlesskiteboarding.com/wp-content/uploads/2017/01/IMG_3950.jpg",
+        "https://endlesskiteboarding.com/wp-content/uploads/2017/01/SAM_1686.jpg",
+        "https://endlesskiteboarding.com/wp-content/uploads/2017/01/IMG_3949.jpg",
+        "https://endlesskiteboarding.com/wp-content/uploads/2017/01/IMG_3967.jpg"
+      ]
+    },
+    {
+      "title": "Surfing lessons",
+      "images": [
+        "https://endlesskiteboarding.com/wp-content/uploads/2017/01/SAM_1724-e1485875593310.jpg"
+      ]
+    },
+    {
+      "title": "Windsurfing lessons",
+      "images": [
+        "https://endlesskiteboarding.com/wp-content/uploads/2017/01/PC180008.jpg"
+      ]
+    }
+  ],
+  "notes": "WordPress site; photos are from 2017 (the home page gallery holds 21 WhatsApp images dated 29 Nov 2017, IMG-20171129-WA0008 to WA0030; the first 11 are listed here, the rest are WA0020 to WA0030 at the same path). Left out manufacturer product images on the rental page (Slingshot, Fanatic and Goya kit shots) and the shop's product photos. Logo is the uncropped header logo (442x300); the cropped version is 248x168. No YouTube or Vimeo videos on the pages read."
+}

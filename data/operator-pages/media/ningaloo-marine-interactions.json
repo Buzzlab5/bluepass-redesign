@@ -1,0 +1,62 @@
+{
+  "slug": "ningaloo-marine-interactions",
+  "logo": "https://ningaloomarineinteractions.com.au/wp-content/uploads/2024/04/Ningaloo_Marine_Interaction_Logo.png",
+  "heroImage": "https://ningaloomarineinteractions.com.au/wp-content/uploads/2025/11/dji_fly_20250819_143836_996_1755586323038_photo-scaled.jpg",
+  "gallery": [
+    "https://ningaloomarineinteractions.com.au/wp-content/uploads/2025/11/dji_fly_20250819_143836_996_1755586323038_photo-scaled.jpg",
+    "https://ningaloomarineinteractions.com.au/wp-content/uploads/2025/11/coral-bay-whale-shark-ningaloo-reef-scaled.jpg",
+    "https://ningaloomarineinteractions.com.au/wp-content/uploads/2025/11/Manta-Rays-in-Ningaloo-Reef-Western-Australia-Frazer-McGregor-scaled.jpg",
+    "https://ningaloomarineinteractions.com.au/wp-content/uploads/2025/11/Manta-Ray-in-Coral-Bay-on-Snorkelling-Tour.jpg",
+    "https://ningaloomarineinteractions.com.au/wp-content/uploads/2025/11/Isobel-the-Manta-Ray-in-Coral-Bay-Western-Australia-1-scaled.jpg",
+    "https://ningaloomarineinteractions.com.au/wp-content/uploads/2025/11/Passengers-on-Board-Humpback-Whale-Tour-Ningaloo-Marine-Interactions-scaled.jpg",
+    "https://ningaloomarineinteractions.com.au/wp-content/uploads/2026/07/People-on-Tour-with-Ningaloo-marine-Interactions-Coral-Bay-2.jpg",
+    "https://ningaloomarineinteractions.com.au/wp-content/uploads/2026/09/People-on-Tour-with-Ningaloo-marine-Interactions-Coral-Bay-5.jpg",
+    "https://ningaloomarineinteractions.com.au/wp-content/uploads/2026/09/People-on-Tour-with-Ningaloo-marine-Interactions-Coral-Bay-6.jpg",
+    "https://ningaloomarineinteractions.com.au/wp-content/uploads/2026/09/People-on-Tour-with-Ningaloo-marine-Interactions-Coral-Bay-3.jpg",
+    "https://ningaloomarineinteractions.com.au/wp-content/uploads/2026/09/Britt-skipper-Ningaloo-Marine-Interactions.jpg",
+    "https://ningaloomarineinteractions.com.au/wp-content/uploads/2026/09/mantas-2nd-of-july-26-e1789523429433.jpg",
+    "https://ningaloomarineinteractions.com.au/wp-content/uploads/2026/09/mantas-5th-of-july-9.jpg",
+    "https://ningaloomarineinteractions.com.au/wp-content/uploads/2025/11/Swim-with-a-Tiger-Shark-on-Ningaloo-Reef-scaled.jpg",
+    "https://ningaloomarineinteractions.com.au/wp-content/uploads/2025/11/Maisie-Ray-the-Manta-Ray-Coral-Bay-Western-Australia-scaled.jpg",
+    "https://ningaloomarineinteractions.com.au/wp-content/uploads/2025/11/Cherub-the-Manta-Ray-Coral-Bay-Western-Australia-scaled.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "‘Best of Ningaloo’ Full Day Manta Ray Marine Adventure",
+      "images": [
+        "https://ningaloomarineinteractions.com.au/wp-content/uploads/2025/11/Manta-rays-tiger-sharks-ningaloo-reef-tour-1-scaled.jpg",
+        "https://ningaloomarineinteractions.com.au/wp-content/uploads/2020/03/manta-ray-img.jpg",
+        "https://mantaraycoralbay.com.au/wp-content/uploads/2024/06/Mantaray_large.jpg"
+      ]
+    },
+    {
+      "title": "Whale Shark Odyssey",
+      "images": [
+        "https://ningaloomarineinteractions.com.au/wp-content/uploads/2026/02/Swim-with-a-whaleshark-on-Ningaloo-Reef-scaled.jpg",
+        "https://ningaloomarineinteractions.com.au/wp-content/uploads/2025/11/whale-shark-tour-ningaloo-reef-coral-bay.jpg",
+        "https://ningaloomarineinteractions.com.au/wp-content/uploads/2025/11/coral-bay-whale-shark-tour-ningaloo-reef-scaled.jpg",
+        "https://ningaloomarineinteractions.com.au/wp-content/uploads/2026/01/Coral-Bay-Whaleshark-Tours-Ningaloo-Marine-Interactions-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Humpback Whale Adventure",
+      "images": [
+        "https://ningaloomarineinteractions.com.au/wp-content/uploads/2026/07/humpback-2026-stunning-vis-scaled.jpg",
+        "https://ningaloomarineinteractions.com.au/wp-content/uploads/2026/07/020525-WestEnd-134.jpg",
+        "https://ningaloomarineinteractions.com.au/wp-content/uploads/2025/11/humpback-whale-tours-ningaloo-reef-coral-bay-brittany-pelham-scaled.jpg",
+        "https://ningaloomarineinteractions.com.au/wp-content/uploads/2025/11/Passengers-on-Board-Humpback-Whale-Tour-Ningaloo-Marine-Interactions-scaled.jpg",
+        "https://ningaloomarineinteractions.com.au/wp-content/uploads/2024/06/HUMPBACK_square.png"
+      ]
+    },
+    {
+      "title": "Ningaloo Marine Safari",
+      "images": [
+        "https://ningaloomarineinteractions.com.au/wp-content/uploads/2025/11/Manta-rays-tiger-sharks-ningaloo-reef-tour-08-scaled.jpg",
+        "https://ningaloomarineinteractions.com.au/wp-content/uploads/2020/03/coral-img-brd.jpg",
+        "https://ningaloomarineinteractions.com.au/wp-content/uploads/2020/03/inner-img.jpg"
+      ]
+    }
+  ],
+  "notes": "Logo is the header logo PNG (the footer uses a separate JPG logo, not used). No images were downloaded or looked at, so every photo was chosen from file names and where the site uses it; the importer should filter by size. heroImage is the aerial photo the site uses as the page-top picture on the Our Tours and Our Fleet pages, and is the same as the facts file hero; the home page's own hero is banner.jpg, which was left out because it is a banner. Videos: none. The site embeds no YouTube or Vimeo videos and links only to Facebook and Instagram, which were not opened. Trip photos are the photos on each trip's own page plus the photo used for that trip's card on the home page or Our Tours page; the manta tour has few photos of its own. Mantaray_large.jpg (manta tour page) is served from mantaraycoralbay.com.au, the old domain behind the operator's Rezdy account name, so a person should confirm it is theirs. Left out: banner.jpg (home hero) and lemonshark_banner.jpg (Marine Safari page header), both banners; dsc_9363.jpg, header.jpg, coral.jpg, coral-bg.jpg and shape.png from mantaraycoralbay.com.au, which are page backgrounds and textures; the manta photo of Rastas on the Meet the Manta Rays page, credited to Sophie Riedel; the Sustainable1.png and NCWH-Logo_.jpg badges in the footer; Britt-Manta-Brief.png on the crew page, which may be a graphic; the crew portraits (Frazer McGregor, meet-the-crew-britt, Brittany Pelham and Southern Petrel), kept out of the gallery but available if wanted; and all icons and theme images. Some gallery photos were found as cropped sizes on the page; the full-size originals (the same name without the size suffix, and the -scaled versions listed in the site's own sitemap) were checked to exist. HUMPBACK_square.png (Our Tours page) is a square PNG that could be a graphic, left in for the importer to judge. No captcha, bot check or 403 was met; about 20 pages were read with curl's default user agent and no Rezdy or FareHarbor page was opened."
+}

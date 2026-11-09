@@ -1,0 +1,458 @@
+{
+  "slug": "unseen-barbados",
+  "name": "Unseen Barbados",
+  "website": "https://unseenbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Port St. Charles",
+  "category": "Private yacht charters",
+  "summary": "Unseen Barbados runs private yacht and catamaran charters from Port St. Charles Marina along the west coast, with Seabobs, paddle boards and a clear kayak on board. It also rents Seabobs, an e-foil and a JetCar by the hour, and runs seasonal shared and sunset charters. Bookings are made by phone, email or the request form on each page.",
+  "standouts": [
+    "Authorised Seabob dealer and a member of the Cayago Americas Group",
+    "First cruise sailed on 1 August 2020",
+    "Every cruise sails with a captain, a galley attendant and a watersports supervisor",
+    "Two Seabobs, paddle boards and a clear kayak included on each charter yacht"
+  ],
+  "contact": {
+    "phone": "+1 246 266 2020",
+    "email": "concierge@unseenbarbados.com",
+    "address": "Port St. Charles Marina, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://unseenbarbados.com/wp-content/uploads/2024/02/DJI_20240417120907_0107_D.jpg",
+  "sourceUrls": [
+    "https://unseenbarbados.com/",
+    "https://unseenbarbados.com/private-coastal-charters/",
+    "https://unseenbarbados.com/private-costal-charters/?serviceid=796",
+    "https://unseenbarbados.com/shoreline-rentals/",
+    "https://unseenbarbados.com/sunset-splash/",
+    "https://unseenbarbados.com/shared-charter/",
+    "https://unseenbarbados.com/inter-island-express/",
+    "https://unseenbarbados.com/cruise-and-stay/",
+    "https://unseenbarbados.com/faq-s/",
+    "https://unseenbarbados.com/about-us/",
+    "https://unseenbarbados.com/membership/",
+    "https://unseenbarbados.com/experience/",
+    "https://unseenbarbados.com/say-hello-to-barbados/"
+  ],
+  "trips": [
+    {
+      "title": "Lady Marmalade, 2023 Lagoon 46",
+      "kind": "charter",
+      "summary": "A private charter on a 2023 Lagoon 46 catamaran along the west coast from Port St. Charles, with stops at anchor for swimming and water toys. Four hours is the minimum, and a full day can be booked. Snacks, a soft bar and two Seabobs are included.",
+      "highlights": [
+        "2023 Lagoon 46 catamaran",
+        "Two Seabobs, floating bed, paddle boards and clear kayak",
+        "Trampolines and bow lounge for sunbathing",
+        "Add-ons include a chef, premium bar, e-foil, jet skis and scuba diving on full-day charters"
+      ],
+      "duration": "Minimum 4 hour rental",
+      "durationMinutes": 240,
+      "departureTimes": ["10:00", "15:00"],
+      "season": null,
+      "departsFrom": "Port St. Charles Marina",
+      "prices": [
+        {
+          "label": "Private charter, per hour",
+          "amount": 500,
+          "currency": "USD",
+          "note": "Starting price, minimum 4 hour rental"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "2 Seabobs",
+        "Floating bed",
+        "Paddle boards",
+        "Clear kayak",
+        "Welcome canape and snacks",
+        "Soft bar",
+        "Fully trained and certified rescue staff",
+        "Lounge on bow",
+        "Trampolines"
+      ],
+      "bring": [],
+      "requirements": "Guests sign a waiver before taking part in activities.",
+      "offer": null,
+      "images": [
+        "https://unseenbarbados.com/wp-content/uploads/2024/02/DJI_20240417120907_0107_D.jpg",
+        "https://unseenbarbados.com/wp-content/uploads/2024/01/DJI_0494.jpg",
+        "https://unseenbarbados.com/wp-content/uploads/2024/02/DSC6379.jpg",
+        "https://unseenbarbados.com/wp-content/uploads/2024/02/DSC6429.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://unseenbarbados.com/private-coastal-charters/",
+      "checkNotes": "Booked by phone or the request form on the page; no online checkout. Departure times are the two options on the request form (Full Light Charter 10AM to 2PM, Sunset Charter 3PM to 7PM). Jet skis are offered as an add-on. The FAQ says a non-refundable deposit is required to book and final payment is due 24 hours before departure."
+    },
+    {
+      "title": "Princess Hope, 58 Ft Sea Ray Sedan Bridge",
+      "kind": "charter",
+      "summary": "A private charter on the 58-foot Sea Ray motor yacht Princess Hope, cruising the west coast from Port St. Charles. The crew can plan the day around a special occasion. Two Seabobs, a hydraulic swim platform and a soft bar are included.",
+      "highlights": [
+        "58-foot Sea Ray motor yacht",
+        "Hydraulic swim platform",
+        "Two Seabobs, floating bed, paddle boards and clear kayak",
+        "Up to 15 guests by day, sleeps 6"
+      ],
+      "duration": "Minimum 4 hour rental",
+      "durationMinutes": 240,
+      "departureTimes": ["10:00", "15:00"],
+      "season": null,
+      "departsFrom": "Port St. Charles Marina",
+      "prices": [
+        {
+          "label": "Private charter, per hour",
+          "amount": 625,
+          "currency": "USD",
+          "note": "Starting price, minimum 4 hour rental"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "2 Seabobs",
+        "Floating bed",
+        "Paddle boards",
+        "Hydraulic swim platform",
+        "Clear kayak",
+        "Welcome canape and snacks",
+        "Soft bar",
+        "Fully trained and certified rescue staff",
+        "Lounge on bow"
+      ],
+      "bring": [],
+      "requirements": "Guests sign a waiver before taking part in activities.",
+      "offer": null,
+      "images": [
+        "https://unseenbarbados.com/wp-content/uploads/2024/02/DJI_20240503122555_0087_D.jpg",
+        "https://unseenbarbados.com/wp-content/uploads/2024/01/Princess-Hope-aerial.webp",
+        "https://unseenbarbados.com/wp-content/uploads/2024/02/DJI_20240503122924_0110_D.jpg",
+        "https://unseenbarbados.com/wp-content/uploads/2024/02/DSC6728.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://unseenbarbados.com/private-coastal-charters/",
+      "checkNotes": "Booked by phone or the request form; no online checkout. Departure times are the two request form options. Capacity of 15 by day and sleeping 6 is from the FAQ page. Jet skis are offered as an add-on."
+    },
+    {
+      "title": "OASIS II, 44 Ft Sea Ray",
+      "kind": "charter",
+      "summary": "A private charter on the 44-foot Sea Ray motor yacht Oasis II along the west coast from Port St. Charles. Two Seabobs, paddle boards, a clear kayak and a soft bar are included, and a chef or premium bar can be added.",
+      "highlights": [
+        "44-foot Sea Ray motor yacht",
+        "Two Seabobs, floating bed, paddle boards and clear kayak",
+        "Up to 10 guests by day, sleeps 4",
+        "Two washrooms on board"
+      ],
+      "duration": "Minimum 4 hour rental",
+      "durationMinutes": 240,
+      "departureTimes": ["10:00", "15:00"],
+      "season": null,
+      "departsFrom": "Port St. Charles Marina",
+      "prices": [
+        {
+          "label": "Private charter, per hour",
+          "amount": 500,
+          "currency": "USD",
+          "note": "Starting price, minimum 4 hour rental"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "2 Seabobs",
+        "Floating bed",
+        "Paddle boards",
+        "Clear kayak",
+        "Welcome canape and snacks",
+        "Soft bar",
+        "Fully trained and certified rescue staff",
+        "Lounge on bow"
+      ],
+      "bring": [],
+      "requirements": "Guests sign a waiver before taking part in activities.",
+      "offer": null,
+      "images": [
+        "https://unseenbarbados.com/wp-content/uploads/2024/02/IMG_6408-oasis.webp",
+        "https://unseenbarbados.com/wp-content/uploads/2024/02/DJI_20240503135359_0150_D.jpg",
+        "https://unseenbarbados.com/wp-content/uploads/2024/02/DSC7315.jpg",
+        "https://unseenbarbados.com/wp-content/uploads/2024/02/DSC7287.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://unseenbarbados.com/private-coastal-charters/",
+      "checkNotes": "Booked by phone or the request form; no online checkout. Departure times are the two request form options. Capacity, berths and washrooms are from the FAQ page. Jet skis are offered as an add-on."
+    },
+    {
+      "title": "SeaBob",
+      "kind": "other",
+      "summary": "Hourly rental of a Seabob, an electric water scooter that pulls you along the surface or under the water. Sessions are supervised, and the toys can be delivered to some beaches.",
+      "highlights": [
+        "Electric underwater scooter",
+        "Minimum 1 hour rental",
+        "All sessions supervised",
+        "Delivery to some beaches"
+      ],
+      "duration": "Minimum 1 hour rental",
+      "durationMinutes": 60,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per hour",
+          "amount": 150,
+          "currency": "USD",
+          "note": "Starting price, minimum 1 hour rental"
+        }
+      ],
+      "priceFrom": 150,
+      "includes": [],
+      "bring": [],
+      "requirements": "Guests sign a waiver before taking part. Daily rentals need a service attendant and a deposit.",
+      "offer": null,
+      "images": [
+        "https://unseenbarbados.com/wp-content/uploads/2024/02/dsc_4735.jpg",
+        "https://unseenbarbados.com/wp-content/uploads/2024/02/tm21566.jpg",
+        "https://unseenbarbados.com/wp-content/uploads/2024/02/dsc_4710.jpg",
+        "https://unseenbarbados.com/wp-content/uploads/2024/02/seabob-4.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://unseenbarbados.com/shoreline-rentals/",
+      "checkNotes": "Currency not stated, shown as $ (other prices on the site are in USD). The page does not say whether the price is per person or per Seabob. Supervision, beach delivery and attendant details are from the FAQ page."
+    },
+    {
+      "title": "E-Foil x Fliteboard",
+      "kind": "other",
+      "summary": "Hourly rental of a Fliteboard electric hydrofoil board that lifts above the water on a quiet electric motor. The Fliteboard Air model is set up for first-time riders.",
+      "highlights": [
+        "Electric hydrofoil surfboard",
+        "Fliteboard Air for first-time foilers",
+        "Quiet, emission-free electric motor"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per hour",
+          "amount": 250,
+          "currency": "USD",
+          "note": "Starting price"
+        }
+      ],
+      "priceFrom": 250,
+      "includes": [],
+      "bring": [],
+      "requirements": "Guests sign a waiver before taking part.",
+      "offer": null,
+      "images": [
+        "https://unseenbarbados.com/wp-content/uploads/2024/01/efoil-noise-e1706125430605.webp",
+        "https://unseenbarbados.com/wp-content/uploads/2024/03/IMG_5993.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://unseenbarbados.com/shoreline-rentals/",
+      "checkNotes": "Currency not stated, shown as $ (other prices on the site are in USD). The minimum rental field on the page is blank. The FAQ says rental toys start at a minimum of 1 hour."
+    },
+    {
+      "title": "JetCar",
+      "kind": "other",
+      "summary": "A ride in a two-seat jet-powered car on the water, driven by an Unseen driver who takes guests out one at a time. The price is per session, and everyone in your party can ride during that time.",
+      "highlights": [
+        "Two-seat jet-powered watercraft",
+        "Driven by an Unseen driver",
+        "Price per session, whole party can ride",
+        "Sessions of 15 minutes, 30 minutes or 1 hour"
+      ],
+      "duration": "15 minutes to 1 hour",
+      "durationMinutes": 15,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "15 minutes, per session", "amount": 125, "currency": "USD", "note": null },
+        { "label": "30 minutes, per session", "amount": 250, "currency": "USD", "note": null },
+        { "label": "1 hour, per session", "amount": 450, "currency": "USD", "note": null }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Driver"
+      ],
+      "bring": [],
+      "requirements": "Guests sign a waiver before taking part.",
+      "offer": null,
+      "images": [
+        "https://unseenbarbados.com/wp-content/uploads/2025/02/dsc_6472.jpg",
+        "https://unseenbarbados.com/wp-content/uploads/2025/02/unseen-barbados-portrait-6-copy-3.jpg",
+        "https://unseenbarbados.com/wp-content/uploads/2025/02/25.jpg",
+        "https://unseenbarbados.com/wp-content/uploads/2025/02/tm21107.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://unseenbarbados.com/shoreline-rentals/",
+      "checkNotes": "Jet-powered personal watercraft, not called a jet ski on the site; worth checking against the jet ski rules. durationMinutes is the shortest session. priceFrom left null because prices are per session, not per person. Driver and per-session details are from the FAQ page."
+    },
+    {
+      "title": "Sunset Splash",
+      "kind": "charter",
+      "summary": "A two-hour evening charter on one of the yachts, timed for sunset, for guests who want a shorter time on the water. Snacks, a soft bar and two Seabobs are included, and a premium alcohol upgrade can be added.",
+      "highlights": [
+        "Sails 4:30pm to 6:30pm",
+        "Two Seabobs, floating bed and paddle boards",
+        "Premium soft bar and snacks",
+        "Seasonal, 15 April to 15 November"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": ["16:30"],
+      "season": "April 15th to November 15th",
+      "departsFrom": "Port St. Charles Marina",
+      "prices": [
+        { "label": "Charter, starting", "amount": 1200, "currency": "USD", "note": "2 hour rental" },
+        { "label": "Premium alcohol upgrade, per person", "amount": 50, "currency": "USD", "note": "Optional" }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "2 Seabobs",
+        "Floating bed",
+        "Paddle boards",
+        "Welcome canape and snacks",
+        "Soft bar",
+        "Lounge on bow",
+        "Fully trained and certified rescue staff"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://unseenbarbados.com/wp-content/uploads/2024/01/DSC_4061.webp",
+        "https://unseenbarbados.com/wp-content/uploads/2024/01/video-thumbnail-2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://unseenbarbados.com/sunset-splash/",
+      "checkNotes": "Page does not say which yacht is used or how many guests the price covers. Departure point taken from the Private Coastal Charters page, which says charters leave Port St. Charles. Two sunset photos on this page have stock-library file names and are not used."
+    },
+    {
+      "title": "Shared Charter",
+      "kind": "cruise",
+      "summary": "A shared day on the Lady Marmalade catamaran every Thursday, with two snorkel and swim stops along the west coast. A chef cooks lunch on board and the bar is open, with Seabobs, paddle boards and a clear kayak to use.",
+      "highlights": [
+        "Every Thursday on Lady Marmalade",
+        "Two snorkel and swim stops",
+        "Chef on board and open bar with mixologist",
+        "Seasonal, 15 April to 15 November"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": "April 15th to November 15th",
+      "departsFrom": "Port St. Charles Marina",
+      "prices": [
+        { "label": "Adult", "amount": 200, "currency": "USD", "note": null },
+        { "label": "Child", "amount": 100, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 200,
+      "includes": [
+        "2 Seabobs",
+        "Floating bed",
+        "Paddle boards",
+        "Clear kayak",
+        "Welcome canape and snacks",
+        "Soft bar",
+        "Fully serviced galley including mixologist",
+        "Premium bar",
+        "Lounge on bow",
+        "Trampolines",
+        "2 snorkel stops",
+        "Fully trained and certified rescue staff"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://unseenbarbados.com/wp-content/uploads/2024/02/DSC6538.jpg",
+        "https://unseenbarbados.com/wp-content/uploads/2024/05/IMG_1326-rotated.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://unseenbarbados.com/shared-charter/",
+      "checkNotes": "The request form on the page offers Full Light Charter 10AM to 2PM and Sunset Charter 3PM to 7PM, but the page does not say which applies to the Thursday shared charter, so no departure time is recorded. Not in the main menu; linked from the home page. Departure point taken from the Private Coastal Charters page."
+    },
+    {
+      "title": "Cruise And Stay",
+      "kind": "liveaboard",
+      "summary": "A crewed yacht stay of at least two nights, moving bay to bay along the west coast with wreck snorkelling, water sports and sunsets at anchor. Cabin and galley service run daily, and Seabobs, an e-foil, a clear kayak and a paddleboard are on board.",
+      "highlights": [
+        "Minimum 2 nights at sea",
+        "Bay to bay along the west coast",
+        "Daily cabin and galley service",
+        "Two Seabobs, a Fliteboard e-foil, clear kayak and paddleboard"
+      ],
+      "duration": "Minimum 2 nights",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "2 Seabob water scooters",
+        "1 Fliteboard e-foil",
+        "1 clear kayak",
+        "1 paddleboard",
+        "Welcome yacht charcuterie",
+        "Non-alcoholic refreshment bar",
+        "Fully serviced galley"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://unseenbarbados.com/wp-content/uploads/2024/01/Princess-Hope-aerial-1.jpg",
+        "https://unseenbarbados.com/wp-content/uploads/2024/01/IMG_8789.jpg",
+        "https://unseenbarbados.com/wp-content/uploads/2024/02/DSC_4715.webp",
+        "https://unseenbarbados.com/wp-content/uploads/2024/02/Unseen-Tapas-Food-1png0.webp"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://unseenbarbados.com/cruise-and-stay/",
+      "checkNotes": "Price field on the page is blank ('$ USD / HR'). The FAQ says a service charge applies to Cruise and Stay. Berths per the FAQ: Princess Hope sleeps 6, Oasis sleeps 4; the page does not say which yacht is used."
+    },
+    {
+      "title": "Inter-Island Express",
+      "kind": "charter",
+      "summary": "Private yacht trips from Barbados to nearby islands, with fast-track clearance and passport handling at the ports. Destinations listed are Grenada, Martinique, St. Lucia, St. Vincent and Trinidad and Tobago.",
+      "highlights": [
+        "Grenada, Martinique, St. Lucia, St. Vincent, Trinidad and Tobago",
+        "Fast-track clearance at all ports",
+        "Passport handling at ports of entry"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "PCR testing with 24-hour results",
+        "Fast track clearance at all ports",
+        "Passport handling at ports of entry"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://unseenbarbados.com/wp-content/uploads/2024/01/Inter-Island-Express.webp"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://unseenbarbados.com/inter-island-express/",
+      "checkNotes": "Price field on the page is blank ('$ USD / HR'). PCR testing in the includes list looks like pandemic-era copy and may no longer apply. FAQ says a One Way Express to St. Lucia can take up to 15 passengers and that a service charge applies. Destination photos on this page have stock-library file names and are not used."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Yachting membership: Signature Member, buy 20 yachting hours and get one hour free; Gold Member, buy 40 hours and get two hours free; Diamond Member, buy 60 hours and get four hours free",
+      "conditions": "Hours to be used within a year. At least 24 hours' notice for all charters. Hours do not include VIP upgrades, liquor or champagne. NYE fireworks charters and island crossings cannot be redeemed with hours.",
+      "validUntil": null,
+      "sourceUrl": "https://unseenbarbados.com/membership/"
+    }
+  ],
+  "checkNotes": "All booking is by phone, email or a request form on each page; no online checkout or booking widget. Phone shown as 246.266.2020 in the footer, but every Call to Book button dials +1 246 266 2021. Two listings have no content: the Little Big Time vessel tab on Private Coastal Charters (its service link returns 404) and the Motorized Surfing tab on Shoreline Rentals; neither is included. Parts of the FAQ are dated (COVID-19 boarding rules, an AMEX note dated December 2021). Still trading: Lady Marmalade is a 2023 boat, reviews from January 2024, and photos uploaded in February, June and November 2025. Pages load a Google reCAPTCHA script for the forms; no bot check was shown. The site links to TripAdvisor; not recorded."
+}

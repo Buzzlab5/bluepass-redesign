@@ -1,0 +1,423 @@
+{
+  "slug": "paddle-barbados",
+  "name": "Paddle Barbados",
+  "website": "https://paddlebarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Carlisle Bay",
+  "category": "Paddle board and surf school",
+  "summary": "Paddle Barbados runs a beach shop on Pebbles Beach in Carlisle Bay, inside the Barbados Cruising Club. Jason Cole and Sarah Ruggieri started it in 2012, and the team teaches stand up paddle and surfing and rents boards, kayaks and snorkel gear. Most rentals can also be delivered to where you are staying.",
+  "standouts": [
+    "Started in 2012 by Jason Cole and Sarah Ruggieri",
+    "Shop on Pebbles Beach at the Barbados Cruising Club, Carlisle Bay",
+    "Free beach lesson with paddle board rentals at the shop",
+    "Free delivery on surfboard and kayak rentals of 3 days or more"
+  ],
+  "contact": {
+    "phone": "+1 246 249 2787",
+    "email": "paddlebarbados@gmail.com",
+    "address": "The Barbados Cruising Club, Pebbles Beach, Aquatic Gap, Bridgetown, St. Michael, Barbados",
+    "whatsapp": "https://wa.link/jnts6n"
+  },
+  "heroImage": "https://paddlebarbados.com/wp-content/uploads/2023/10/pebbles-beach-paddle-barbados-sup-1-scaled-e1612735219394.webp",
+  "sourceUrls": [
+    "https://paddlebarbados.com/",
+    "https://paddlebarbados.com/stand-up-paddle/",
+    "https://paddlebarbados.com/stand-up-paddle/sup-lessons/",
+    "https://paddlebarbados.com/stand-up-paddle/sup-rentals/",
+    "https://paddlebarbados.com/stand-up-paddle/sup-surfing/",
+    "https://paddlebarbados.com/stand-up-paddle/sup-yoga/",
+    "https://paddlebarbados.com/surfing-barbados/",
+    "https://paddlebarbados.com/surfing-barbados/surf-lessons-in-barbados/",
+    "https://paddlebarbados.com/surfing-barbados/surfboard-rentals/",
+    "https://paddlebarbados.com/rentals/",
+    "https://paddlebarbados.com/rentals/snorkel-rentals/",
+    "https://paddlebarbados.com/rentals/kayak-rentals/",
+    "https://paddlebarbados.com/about-us/",
+    "https://paddlebarbados.com/about-us/who-we-are/",
+    "https://paddlebarbados.com/about-us/our-location/",
+    "https://paddlebarbados.com/contact/",
+    "https://paddlebarbados.com/page-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "SUP Rentals on Pebbles Beach",
+      "kind": "other",
+      "summary": "Rent a stand up paddle board from the shop on Pebbles Beach and paddle Carlisle Bay on your own. A short beach lesson on safety, wind and paddling technique is included, and the shop will hold your belongings while you are out.",
+      "highlights": [
+        "Free beach lesson or refresher included",
+        "Life jacket on request",
+        "Belongings stored in the shop while you paddle",
+        "Come between 10am and 5pm, no reservation needed"
+      ],
+      "duration": "1, 4 or 8 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Paddle Barbados shop, Pebbles Beach, Carlisle Bay",
+      "prices": [
+        { "label": "1 hour rental", "amount": 30, "currency": "USD", "note": "Beach lesson included free" },
+        { "label": "4 hour rental", "amount": 40, "currency": "USD", "note": null },
+        { "label": "8 hour rental", "amount": 50, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 30,
+      "includes": ["Beach lesson", "Life jacket if requested", "Storage of belongings in the shop"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://paddlebarbados.com/wp-content/uploads/2021/02/sup-rentals_our-location-1-e1612273617972.jpg",
+        "https://paddlebarbados.com/wp-content/uploads/2021/02/SUP-lessons_beach-lesson-1.jpg",
+        "https://paddlebarbados.com/wp-content/uploads/2021/01/sup_beach-lesson-rental-1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://paddlebarbados.com/stand-up-paddle/sup-rentals/",
+      "checkNotes": "The SUP lessons page sells the same thing as 'Beach Lesson', $30 USD / 1hr rental (FREE Lesson), no reservation required; merged into this one entry. Rentals page says come between 10am and 5pm; the kayak page gives business hours as 10am to 6pm."
+    },
+    {
+      "title": "SUP Rentals at Your Location",
+      "kind": "other",
+      "summary": "A paddle board delivered to where you are staying, anywhere on the island the team judges safe for paddling. Beginners can ask for a beach lesson on delivery.",
+      "highlights": [
+        "Delivered island-wide to locations judged safe for paddling",
+        "Minimum rental of 3 days",
+        "Beach lesson on delivery for beginners, on request"
+      ],
+      "duration": "Per day or per week, minimum 3 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Delivered to your accommodation",
+      "prices": [
+        { "label": "Per day", "amount": 40, "currency": "USD", "note": "Minimum 3 days" },
+        { "label": "Per week", "amount": 240, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 40,
+      "includes": ["Delivery", "Beach lesson on delivery for beginners, on request"],
+      "bring": [],
+      "requirements": "Some paddle board experience is ideal; beginners can ask for a lesson on delivery",
+      "offer": null,
+      "images": [
+        "https://paddlebarbados.com/wp-content/uploads/2021/02/SUP-rentals-header-1.jpg",
+        "https://paddlebarbados.com/wp-content/uploads/2023/10/sup-rental-at-your-location_home2.webp"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://paddlebarbados.com/stand-up-paddle/sup-rentals/",
+      "checkNotes": "If the location is not safe for paddling, the site says they will ask you to rent at the shop instead."
+    },
+    {
+      "title": "SUP Surf Lesson",
+      "kind": "course",
+      "summary": "A two hour session for paddlers who are steady on flat water and want to start catching waves. The instructor picks the best beginner break for the day and coaches you through the session, with transport and equipment included.",
+      "highlights": [
+        "Focus on catching the wave and staying on the board",
+        "Break chosen on the day for conditions and tides",
+        "Transport and equipment included",
+        "1 or 2 people per booking"
+      ],
+      "duration": "2 hrs",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "SUP surf lesson", "amount": 80, "currency": "USD", "note": "Minimum 1 person, maximum 2 people" }
+      ],
+      "priceFrom": 80,
+      "includes": ["Transportation", "Equipment", "Instruction"],
+      "bring": [],
+      "requirements": "Significant paddle boarding experience",
+      "offer": null,
+      "images": [
+        "https://paddlebarbados.com/wp-content/uploads/2021/02/SUP-surf_lesson-beginner-1.jpg",
+        "https://paddlebarbados.com/wp-content/uploads/2021/01/sup_surfing-barbados-1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://paddlebarbados.com/stand-up-paddle/sup-surfing/",
+      "checkNotes": "Price does not say whether it is per person or per session. Must be booked in advance. Session times depend on conditions and tides."
+    },
+    {
+      "title": "SUP Surf Coaching",
+      "kind": "course",
+      "summary": "Coaching for paddle boarders who already ride waves, with no more than two riders per coach. Sessions move to whichever break suits the conditions and your level, and work on take-offs, speed, bottom turns and cutbacks.",
+      "highlights": [
+        "Up to 2 riders per instructor",
+        "Location chosen for conditions and your level",
+        "Transport and equipment included"
+      ],
+      "duration": "3-4 hrs",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "SUP surf coaching", "amount": 200, "currency": "USD", "note": "Minimum 1 person, maximum 2 people" }
+      ],
+      "priceFrom": 200,
+      "includes": ["Transportation", "Equipment", "Coaching"],
+      "bring": [],
+      "requirements": "SUP surfing experience; basic wave riding skills on a SUP",
+      "offer": null,
+      "images": [
+        "https://paddlebarbados.com/wp-content/uploads/2021/02/sup-surf_coaching-1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://paddlebarbados.com/stand-up-paddle/sup-surfing/",
+      "checkNotes": "Page text says sessions are generally 2-3 hours on the water, while the listed duration is 3-4 hrs. Price does not say per person or per session. Must be booked in advance."
+    },
+    {
+      "title": "SUP Surf Board Rentals",
+      "kind": "other",
+      "summary": "SUP surfboards to rent by the day or week, including Fanatic and Starboard boards, for paddlers who already surf. Delivery is free on rentals of three days or more.",
+      "highlights": [
+        "Fanatic and Starboard boards",
+        "Free delivery on rentals of 3 days or more",
+        "Lower pricing for 3 or more days"
+      ],
+      "duration": "Per day or per week",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Per day", "amount": 40, "currency": "USD", "note": null },
+        { "label": "Per week", "amount": 240, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 40,
+      "includes": ["Free delivery on rentals of 3 days or more"],
+      "bring": [],
+      "requirements": "SUP surfing experience; damage deposit required",
+      "offer": null,
+      "images": [
+        "https://paddlebarbados.com/wp-content/uploads/2021/02/sup-surf-rental_fanatic-freights-bay-e1612401593256.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://paddlebarbados.com/stand-up-paddle/sup-surfing/",
+      "checkNotes": "Operator heading is 'SUP Surf' followed by 'Board Rentals'. Damage deposit amount not stated."
+    },
+    {
+      "title": "Beach & Water Lesson (Beginner Surf Experience)",
+      "kind": "course",
+      "summary": "A two hour beginner surf lesson: a short session on the beach, then 90 minutes in the water with a coach. Groups are kept to four students per instructor, at Freights Bay, Pebbles Beach, Surfers Point or Drill Hall.",
+      "highlights": [
+        "15 minutes on the beach, then 1.5 hours in the water",
+        "4 students per instructor",
+        "Freights Bay, Pebbles Beach, Surfers Point or Drill Hall",
+        "Transport available on request for an extra fee"
+      ],
+      "duration": "2 hours (15 min beach + 1.5 hours in water)",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Freights Bay, Pebbles Beach, Surfers Point or Drill Hall",
+      "prices": [
+        { "label": "Per person", "amount": 75, "currency": "USD", "note": "Minimum 2 people" }
+      ],
+      "priceFrom": 75,
+      "includes": ["Beach lesson", "In-water instruction"],
+      "bring": [],
+      "requirements": "Advance booking required, minimum 2 people",
+      "offer": null,
+      "images": [
+        "https://paddlebarbados.com/wp-content/uploads/2021/02/surfboard-rentals-1.jpg",
+        "https://paddlebarbados.com/wp-content/uploads/2023/10/paddle-barbados-surfing-at-freights-bay.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://paddlebarbados.com/surfing-barbados/surf-lessons-in-barbados/",
+      "checkNotes": "Operator heading is 'Beach & Water Lesson' with the subtitle 'Beginner Surf Experience'. Transportation available upon request for an additional fee, amount not stated."
+    },
+    {
+      "title": "Beach Lesson (Intro to Surfing)",
+      "kind": "course",
+      "summary": "A 15 minute beach session on surf safety, paddling and popping up, then a soft-top board to try the waves on your own. It runs from the shop on Pebbles Beach with no booking needed.",
+      "highlights": [
+        "15 minute beach lesson",
+        "Soft-top surfboard for 2 hours",
+        "No reservation needed",
+        "Call ahead or check the Pebbles webcam for waves"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Paddle Barbados, Pebbles Beach",
+      "prices": [
+        { "label": "2 hours", "amount": 20, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 20,
+      "includes": ["Beach lesson", "Soft-top surfboard"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://paddlebarbados.com/wp-content/uploads/2025/02/pebbles-surfboard-rentals.webp"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://paddlebarbados.com/surfing-barbados/surf-lessons-in-barbados/",
+      "checkNotes": "Operator heading is 'Beach Lesson' with the subtitle 'Intro to Surfing'. Image taken from the surfboard rentals page (Pebbles rentals photo)."
+    },
+    {
+      "title": "Surfboard Rental Delivered to You",
+      "kind": "other",
+      "summary": "Soft-top, hard and premium surfboards in the 7 to 10 foot range, delivered free for rentals of three days or more. Wax is included and straps are free on request.",
+      "highlights": [
+        "Boards from 7 to 10 feet",
+        "Free delivery, minimum 3 days",
+        "Wax included, straps on request",
+        "US$50 damage deposit on hard boards"
+      ],
+      "duration": "Per day or per week, minimum 3 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Delivered to your accommodation",
+      "prices": [
+        { "label": "Soft top surfboard, per day", "amount": 20, "currency": "USD", "note": null },
+        { "label": "Soft top surfboard, per week", "amount": 110, "currency": "USD", "note": null },
+        { "label": "Hard surfboard, per day", "amount": 25, "currency": "USD", "note": null },
+        { "label": "Hard surfboard, per week", "amount": 125, "currency": "USD", "note": null },
+        { "label": "Premium surfboard, per day", "amount": 30, "currency": "USD", "note": null },
+        { "label": "Premium surfboard, per week", "amount": 160, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 20,
+      "includes": ["Free delivery", "Wax", "Straps on request"],
+      "bring": [],
+      "requirements": "Minimum 3 day rental; $50 USD damage deposit for all hard boards",
+      "offer": null,
+      "images": [
+        "https://paddlebarbados.com/wp-content/uploads/2025/02/surfboard-rentals-barbados-delivery.webp"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://paddlebarbados.com/surfing-barbados/surfboard-rentals/",
+      "checkNotes": "Booked through an enquiry form on the page."
+    },
+    {
+      "title": "Surfboard Rental at Our Location",
+      "kind": "other",
+      "summary": "Soft-top and hard epoxy longboards from 8 to 10 feet, rented from the shop on Pebbles Beach, with a free beach lesson before you go out. The boards suit the small to medium waves along the south coast.",
+      "highlights": [
+        "Free beach lesson",
+        "Longboards from 8 to 10 feet",
+        "Rented by the 2 hour block"
+      ],
+      "duration": "2hrs",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Paddle Barbados shop, Pebbles Beach",
+      "prices": [
+        { "label": "Foamie, 2 hours", "amount": 15, "currency": "USD", "note": null },
+        { "label": "Hard board, 2 hours", "amount": 20, "currency": "USD", "note": null },
+        { "label": "Premium board, 2 hours", "amount": 25, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 15,
+      "includes": ["Beach lesson"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://paddlebarbados.com/wp-content/uploads/2025/02/pebbles-surfboard-rentals.webp",
+        "https://paddlebarbados.com/wp-content/uploads/2021/02/surfboard-rentals-1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://paddlebarbados.com/surfing-barbados/surfboard-rentals/",
+      "checkNotes": "The surfing overview page gives the board range as 8 to 11 feet; the rentals page says 8 to 10 feet."
+    },
+    {
+      "title": "Snorkel Rentals",
+      "kind": "snorkel",
+      "summary": "Mask and snorkel sets to take out over the shipwrecks of Carlisle Bay, usually paired with a paddle board or kayak from the shop. The bay has turtles, starfish and other marine life.",
+      "highlights": [
+        "Carlisle Bay shipwrecks a short paddle from the shop",
+        "Set includes goggles and snorkel",
+        "Life jacket on request",
+        "US$10 damage or loss deposit"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Paddle Barbados shop, Pebbles Beach, Carlisle Bay",
+      "prices": [
+        { "label": "3 hours", "amount": 15, "currency": "USD", "note": "$10 USD damage/loss deposit required" }
+      ],
+      "priceFrom": 15,
+      "includes": ["Goggles", "Snorkel", "Life jacket if requested"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://paddlebarbados.com/wp-content/uploads/2021/02/rentals_snorkel-gear-1024.jpg",
+        "https://paddlebarbados.com/wp-content/uploads/2023/10/sup-snorkel-rentals_home2.webp"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://paddlebarbados.com/rentals/snorkel-rentals/",
+      "checkNotes": null
+    },
+    {
+      "title": "Kayak at Paddle Barbados",
+      "kind": "kayak",
+      "summary": "Sit-on-top single and double ocean kayaks, rented by the hour from the shop on Pebbles Beach for exploring Carlisle Bay. No booking is needed and kayaks go out first come, first served.",
+      "highlights": [
+        "Single and double sit-on-top kayaks",
+        "Available 10am to 6pm",
+        "No pre-booking, first come first served"
+      ],
+      "duration": "1hr",
+      "durationMinutes": 60,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Paddle Barbados shop, Pebbles Beach, Carlisle Bay",
+      "prices": [
+        { "label": "Single kayak, 1 hour", "amount": 20, "currency": "USD", "note": null },
+        { "label": "Double kayak, 1 hour", "amount": 25, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 20,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://paddlebarbados.com/wp-content/uploads/2021/01/rentals_kayaks-1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://paddlebarbados.com/rentals/kayak-rentals/",
+      "checkNotes": null
+    },
+    {
+      "title": "Kayak at Your Location",
+      "kind": "kayak",
+      "summary": "Single or double kayaks delivered to where you are staying on the south and west coasts. Delivery is free for three days or more, and beginners get some tips at drop-off.",
+      "highlights": [
+        "Delivery on the south and west coasts",
+        "Free delivery for 3 or more days",
+        "Tips for beginners on delivery"
+      ],
+      "duration": "Per day or per week",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Delivered to your accommodation",
+      "prices": [
+        { "label": "Single kayak, per day", "amount": 40, "currency": "USD", "note": null },
+        { "label": "Single kayak, per week", "amount": 240, "currency": "USD", "note": null },
+        { "label": "Double kayak, per day", "amount": 50, "currency": "USD", "note": null },
+        { "label": "Double kayak, per week", "amount": 300, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 40,
+      "includes": ["Free delivery for rentals of 3 or more days"],
+      "bring": [],
+      "requirements": "Some kayak experience is ideal",
+      "offer": null,
+      "images": [
+        "https://paddlebarbados.com/wp-content/uploads/2021/02/kayak-barbados-your-location.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://paddlebarbados.com/rentals/kayak-rentals/",
+      "checkNotes": null
+    }
+  ],
+  "offers": [],
+  "checkNotes": "No online booking engine: bookings go through an enquiry form on each page, phone, email or a WhatsApp short link (wa.link/jnts6n, not a wa.me link, not opened). The site also links a PayPal.me payment page. The enquiry form lists activities that have no page or price on the site (SUP Water Lesson, SUP Carlisle Bay Tour, SUP & Snorkel Tour, SUP Downwinder, SUP Tour West Coast); these were left out. SUP Yoga is run by Santosha Yoga Barbados and booked through that business, so it was left out. The site promotes a sister company, Mystic Gypsy, for premium surfboard rentals."
+}

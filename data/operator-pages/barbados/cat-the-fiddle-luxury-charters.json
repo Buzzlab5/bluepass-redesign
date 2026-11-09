@@ -1,0 +1,149 @@
+{
+  "slug": "cat-the-fiddle-luxury-charters",
+  "name": "Cat & The Fiddle Luxury Charters",
+  "website": "https://catandthefiddlebarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Catamaran and yacht charters",
+  "summary": "A Bridgetown charter company with four boats: a 62 foot sailing catamaran, two 63 foot power catamarans and a 41 foot speedboat. Shared catamaran trips run in the morning and afternoon with turtle snorkelling, a Caribbean lunch and an open bar. Any of the boats can be hired privately, with the route planned around your group.",
+  "standouts": [
+    "Four vessels: a 62ft sailing catamaran, two 63ft power catamarans and a 41ft speedboat",
+    "Land transfers to and from one pick-up location included in all rates",
+    "Paddle boards, floating pads and snorkel gear on all catamarans",
+    "Shared trips or the whole boat, with custom itineraries on private charters"
+  ],
+  "contact": {
+    "phone": "+1 246 434 3353",
+    "email": "catandfiddle@amazing-attractions.com",
+    "address": "The Shallow Draught, Bridgetown, Barbados",
+    "whatsapp": "https://wa.me/12462622755"
+  },
+  "heroImage": "https://catandthefiddlebarbados.com/wp-content/uploads/2025/07/DJI_20241222132743_0453_D-scaled.jpg",
+  "sourceUrls": [
+    "https://catandthefiddlebarbados.com/",
+    "https://catandthefiddlebarbados.com/charters/",
+    "https://catandthefiddlebarbados.com/our-fleet/",
+    "https://catandthefiddlebarbados.com/gallery/",
+    "https://catandthefiddlebarbados.com/wp-sitemap.xml",
+    "https://catandthefiddlebarbados.com/wp-sitemap-posts-page-1.xml",
+    "https://catandthefiddlebarbados.com/wp-content/uploads/elementor/css/post-297.css",
+    "https://catandthefiddlebarbados.com/wp-content/uploads/elementor/css/post-299.css",
+    "https://catandthefiddlebarbados.com/wp-content/uploads/elementor/css/post-78.css"
+  ],
+  "trips": [
+    {
+      "title": "Morning Shared Lunch Catamaran Cruise",
+      "kind": "cruise",
+      "summary": "A four and a half hour morning trip on a shared catamaran along the Barbados coast. You swim and snorkel with sea turtles and tropical fish, then have an early Caribbean lunch with drinks from the bar.",
+      "highlights": [
+        "Snorkelling with sea turtles and tropical fish",
+        "Early Caribbean lunch",
+        "Premium drinks",
+        "Land transfer from one pick-up location included"
+      ],
+      "duration": "9:00am to 1:30pm (4.5 hours)",
+      "durationMinutes": 270,
+      "departureTimes": ["09:00"],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Professional crew",
+        "Premium bar",
+        "Lunch",
+        "Snorkelling gear",
+        "Beach towels",
+        "Paddle boards and floating pads",
+        "Land transfers to and from one pick-up location"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://catandthefiddlebarbados.com/wp-content/uploads/2025/08/OTM-31-scaled.jpg"
+      ],
+      "bookingLinks": ["https://book.peek.com/s/b044773e-febe-4233-8442-9196986ebb35/17AX1"],
+      "sourceUrl": "https://catandthefiddlebarbados.com/charters/",
+      "checkNotes": "Prices are only inside the Peek booking widget, not on the page (Peek page not opened). Inclusions combine the trip text with the FAQ, which says all charters include crew, premium bar, snacks or meals, snorkelling gear and beach towels, and all catamarans carry paddle boards and floating pads. Departure dock is not named; the business address is The Shallow Draught, Bridgetown. Shared-cruise cancellation fees are set out in the FAQ."
+    },
+    {
+      "title": "Afternoon Shared Catamaran Tour",
+      "kind": "cruise",
+      "summary": "A four hour afternoon trip on a shared catamaran, with guided snorkelling with turtles and a late Caribbean lunch. The sail back is timed for the early evening light, with an open bar on board.",
+      "highlights": [
+        "Guided snorkelling with turtles",
+        "Late Caribbean lunch",
+        "Premium open bar",
+        "Golden-hour sail along the coast"
+      ],
+      "duration": "2:30pm to 6:30pm (4 hours)",
+      "durationMinutes": 240,
+      "departureTimes": ["14:30"],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Professional crew",
+        "Premium open bar",
+        "Late lunch",
+        "Snorkelling gear",
+        "Beach towels",
+        "Paddle boards and floating pads",
+        "Land transfers to and from one pick-up location"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://catandthefiddlebarbados.com/wp-content/uploads/2025/08/CF-Final-41_edit-scaled.jpg"
+      ],
+      "bookingLinks": ["https://book.peek.com/s/b044773e-febe-4233-8442-9196986ebb35/ZygRv"],
+      "sourceUrl": "https://catandthefiddlebarbados.com/charters/",
+      "checkNotes": "Prices are only inside the Peek booking widget, not on the page (Peek page not opened). Inclusions combine the trip text with the FAQ. Departure dock is not named; the business address is The Shallow Draught, Bridgetown."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "Hire one of the four boats for your own group, for a day out, a sunset sail or a celebration. The route is yours to plan, with snorkel stops, time at anchor or a beachside lunch. The catamarans take up to 20 guests and the speedboat up to 10.",
+      "highlights": [
+        "The Cat & The Fiddle: 62ft sailing catamaran, 4 crew, up to 20 guests",
+        "Blue Moon and Over The Moon: 63ft power catamarans, 4 crew, up to 20 guests each",
+        "Hey Diddle Diddle: 41ft speedboat, 2 crew, up to 10 guests, private only",
+        "Fully customisable itinerary"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Professional crew",
+        "Premium bar",
+        "Snacks or meals, depending on charter type",
+        "Snorkelling gear and beach towels",
+        "Paddle boards and floating pads on the catamarans; floating pads on the speedboat",
+        "Land transfers to and from one pick-up location"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://catandthefiddlebarbados.com/wp-content/uploads/2025/08/CF-Final-12-scaled.jpg",
+        "https://catandthefiddlebarbados.com/wp-content/uploads/2025/08/CF-Final-42-scaled.jpg",
+        "https://catandthefiddlebarbados.com/wp-content/uploads/2025/07/DJI_20241204131906_0245_D-scaled.jpg",
+        "https://catandthefiddlebarbados.com/wp-content/uploads/2025/07/DJI_20241222135703_0572_D-copy.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://catandthefiddlebarbados.com/charters/",
+      "checkNotes": "No charter rates on the site; booked through the enquiry form on the Charters page (choose a vessel), phone or email. FAQ: a non-refundable deposit of $1,000 USD secures a private charter, balance due 10 days before; beach pick-up or drop-off costs an extra $500 USD; Wi-Fi on board for an extra fee; gratuity not included. The home and fleet pages pair the Blue Moon and Over The Moon photos differently, so vessel photos are not split by boat here."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Trading: site rebuilt in 2025, footer reads 2026 and the sitemap shows all pages edited 2026-10-15. The WhatsApp link comes from the site's chat widget (number 12462622755), which differs from the main phone line. Seabobs, jet skis and other water sports can be arranged through third-party partners in advance; the site says these are not part of its own experience, so no jet ski tour is listed. Open hours Mon to Sun 08.00 to 16.00. Also known as Hey Diddle Diddle Luxury Speedboat (the speedboat's name)."
+}

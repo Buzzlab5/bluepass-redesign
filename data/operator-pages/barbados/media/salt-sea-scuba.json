@@ -1,0 +1,31 @@
+{
+  "slug": "salt-sea-scuba",
+  "logo": "https://img1.wsimg.com/isteam/ip/a67ee093-657d-4152-888e-de2849199458/Salt%20%26%20Sea%20(clear)_text%20logo%2001.png",
+  "gallery": [
+    "https://img1.wsimg.com/isteam/ip/a67ee093-657d-4152-888e-de2849199458/IMG_6886_VSCO.JPG",
+    "https://img1.wsimg.com/isteam/ip/a67ee093-657d-4152-888e-de2849199458/blob-10a498a.png",
+    "https://img1.wsimg.com/isteam/ip/a67ee093-657d-4152-888e-de2849199458/Unknown.jpeg",
+    "https://img1.wsimg.com/isteam/ip/a67ee093-657d-4152-888e-de2849199458/dsc06396_VSCO.JPG",
+    "https://img1.wsimg.com/isteam/ip/a67ee093-657d-4152-888e-de2849199458/blob-4886271.png",
+    "https://img1.wsimg.com/isteam/ip/a67ee093-657d-4152-888e-de2849199458/blob-b2a1ba3.png"
+  ],
+  "videos": [],
+  "trips": [
+    { "title": "Dives & Dive Packages", "images": ["https://img1.wsimg.com/isteam/ip/a67ee093-657d-4152-888e-de2849199458/blob-b2a1ba3.png"] },
+    { "title": "Night Dive", "images": ["https://img1.wsimg.com/isteam/ip/a67ee093-657d-4152-888e-de2849199458/blob-b2a1ba3.png"] },
+    { "title": "Discover Scuba Dive", "images": [] },
+    { "title": "Bubblemaker", "images": [] },
+    { "title": "Open Water Diver", "images": [] },
+    { "title": "Open Water Referral", "images": [] },
+    { "title": "Advanced Open Water Diver", "images": [] },
+    { "title": "Rescue Diver", "images": [] },
+    { "title": "Emergency First Response", "images": [] },
+    { "title": "ReActivate", "images": [] },
+    { "title": "PADI Specialty Courses", "images": [] },
+    { "title": "1 Hour Snorkel", "images": ["https://img1.wsimg.com/isteam/ip/a67ee093-657d-4152-888e-de2849199458/blob-4886271.png"] },
+    { "title": "Cruise & Snorkel", "images": ["https://img1.wsimg.com/isteam/ip/a67ee093-657d-4152-888e-de2849199458/blob-4886271.png"] },
+    { "title": "Private Charters", "images": ["https://img1.wsimg.com/isteam/ip/a67ee093-657d-4152-888e-de2849199458/IMG_6886_VSCO.JPG"] },
+    { "title": "Holiday Camps", "images": [] }
+  ],
+  "notes": "GoDaddy Website Builder site; photos are served from GoDaddy's image CDN (img1.wsimg.com). Only files under the site's own upload folder (isteam/ip/...) are recorded. Most page images, including the home page header and the course, charter and camp images, come from GoDaddy's stock library (isteam/stock/...) and are left out. Also left out Destination_PADI 6.jpg and Local_PADI 1.jpg, which look like PADI-supplied marketing images. The blob-*.png files are uploads with generic names; blob-4886271.png and blob-b2a1ba3.png are served as JPEG. dsc06396_VSCO.JPG sits next to the owner's profile and may be a portrait. Private Charters has no photo of its own; the boat photo from the home page is used. No videos on the site and no YouTube or Vimeo channel linked."
+}

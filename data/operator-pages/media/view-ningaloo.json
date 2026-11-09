@@ -1,0 +1,140 @@
+{
+  "slug": "view-ningaloo",
+  "logo": "https://viewningaloo.com.au/wp-content/uploads/2021/09/vn_logo_200x200.png",
+  "heroImage": "https://viewningaloo.com.au/wp-content/uploads/2023/10/boat-on-water-scaled.jpg",
+  "gallery": [
+    "https://viewningaloo.com.au/wp-content/uploads/2023/10/boat-on-water-scaled.jpg",
+    "https://viewningaloo.com.au/wp-content/uploads/2023/10/2023top-deck.jpeg",
+    "https://viewningaloo.com.au/wp-content/uploads/2023/10/2023snork-french.jpeg",
+    "https://viewningaloo.com.au/wp-content/uploads/2023/10/2023snork-with-granma.jpeg",
+    "https://viewningaloo.com.au/wp-content/uploads/2023/10/2023low-deck-boy-with-turtle.jpeg",
+    "https://viewningaloo.com.au/wp-content/uploads/2023/10/coral-through-window-scaled.jpg",
+    "https://viewningaloo.com.au/wp-content/uploads/2023/10/turtle.jpg",
+    "https://viewningaloo.com.au/wp-content/uploads/2023/10/sea-spoonge-scaled.jpg",
+    "https://viewningaloo.com.au/wp-content/uploads/2023/10/jetty-boarding-scaled.jpg",
+    "https://viewningaloo.com.au/wp-content/uploads/2023/10/2023boat-on-mooring.jpeg",
+    "https://viewningaloo.com.au/wp-content/uploads/2025/04/viewningaloo_snorkeller_exit.webp",
+    "https://viewningaloo.com.au/wp-content/uploads/2025/04/viewningaloo_crew_at_helm.webp",
+    "https://viewningaloo.com.au/wp-content/uploads/2022/04/snorkellers.jpg",
+    "https://viewningaloo.com.au/wp-content/uploads/2021/11/kids-jumping-from-the-boat.jpg",
+    "https://viewningaloo.com.au/wp-content/uploads/2021/11/two-peoples-snorkeling.jpg",
+    "https://viewningaloo.com.au/wp-content/uploads/2026/08/power-catamaran-underway.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=sVUaNc10Wxc",
+      "title": "Ultimate coral viewing video tour",
+      "sourceUrl": "https://viewningaloo.com.au/video-tour/"
+    },
+    {
+      "url": "https://viewningaloo.com.au/wp-content/uploads/2025/05/view-ningaloo-video.mp4",
+      "title": "View Ningaloo video tour",
+      "sourceUrl": "https://viewningaloo.com.au/video-tour/"
+    },
+    {
+      "url": "https://viewningaloo.com.au/wp-content/uploads/2026/09/insta-reel.mp4",
+      "title": "Short reef reel",
+      "sourceUrl": "https://viewningaloo.com.au/video-tour/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WW_Jr58WkaA",
+      "title": "Ningaloo reef tours film",
+      "sourceUrl": "https://viewningaloo.com.au/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Coral Viewing Tour",
+      "images": [
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/coral-through-window-scaled.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/2023low-deck-boy-with-turtle.jpeg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/teen-viewing-lower-deck-scaled.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/lower-deck-scaled.webp",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/cousins-low-deck.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/2022-cousins-on-sub.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2021/10/group-inside.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/2023top-deck.jpeg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/boat-on-water-scaled.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/jetty-boarding-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Coral Viewing & Snorkel Tour",
+      "images": [
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/2023snork-french.jpeg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/2023snork-with-granma.jpeg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/02/jade-snorkelling.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/glass-bottom-boat-snorkeller-.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/swim-platform-scaled.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/gwen-blue-swimmers-sub-scaled.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/georgie-jump.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/elke-close-up-snork.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/swim-plat-father-.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/baby-at-wind-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Half Day Snorkel + Coral Viewing",
+      "images": [
+        "https://viewningaloo.com.au/wp-content/uploads/2022/04/snorkellers.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/turtle.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/sea-spoonge-scaled.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/2023top-deck.jpeg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/TOP-DECK1-scaled.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2021/10/group-view-from-above.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/boat-on-water-scaled.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/2023boat-on-mooring.jpeg",
+        "https://viewningaloo.com.au/wp-content/uploads/2021/10/chill-turtle.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/asian-ladies-top-deck-scaled.jpg"
+      ]
+    },
+    {
+      "title": "SubSea Explorer Private Tour",
+      "images": [
+        "https://viewningaloo.com.au/wp-content/uploads/2021/10/group-view-from-above.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/2022-cousins-on-sub.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/cousins-low-deck.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/2023top-deck.jpeg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/boat-on-water-scaled.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/baby-at-wind-scaled.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/asian-ladies-top-deck-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Total Ningaloo Experience",
+      "images": [
+        "https://viewningaloo.com.au/wp-content/uploads/2026/09/tg-boatview-pt.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2026/08/power-catamaran-underway.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/turtle.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2022/04/snorkellers.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/2023snork-french.jpeg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/02/jade-snorkelling.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/sea-spoonge-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Half Day Turtle Tour",
+      "images": [
+        "https://viewningaloo.com.au/wp-content/uploads/2026/08/power-catamaran-underway.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2026/09/tg-boatview-pt.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/turtle.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2021/10/chill-turtle.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2022/07/275228367_324967239695115_6133890795289736415_n.jpeg",
+        "https://viewningaloo.com.au/wp-content/uploads/2022/04/snorkellers.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/sea-spoonge-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Turquoise Girle Private Tour",
+      "images": [
+        "https://viewningaloo.com.au/wp-content/uploads/2026/09/tg-boatview-pt.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2026/08/power-catamaran-underway.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2022/04/snorkellers.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/02/jade-snorkelling.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/2023snork-french.jpeg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/turtle.jpg"
+      ]
+    }
+  ],
+  "notes": "No bot check, captcha or block on viewningaloo.com.au; no redirect. Photos were chosen from file names, alt text and the sizes the site's own media list reports; none were downloaded or viewed, so a person should look at the hero and gallery before publishing. Logo is the unedited original of the header logo (vn_logo_200x200.png, about 64 KB; the header serves a smaller cropped copy with an -e suffix). The home page hero is a background video, so there is no page hero photo; heroImage is a SubSea Explorer on-the-water photo (2560 by 1920). Trip pages share one gallery: the SubSea Explorer trips draw from the site's boat, deck and snorkelling photos by subject, and the three Turquoise Girle trips lead with the only two photos that appear to be of that boat (tg-boatview-pt.jpg from September 2026 and power-catamaran-underway.jpg from the August 2026 blog post, which is also in the gallery); confirm both are real photos of Turquoise Girle, as the boat is new. Turquoise Girle trips then use general turtle and snorkelling photos from the shared gallery. Videos: two YouTube links come from the operator's own pages (sVUaNc10Wxc is in the video tour page's video data, WW_Jr58WkaA is the home page background video) and were not opened; titles are short descriptions, not the YouTube titles. The site does not link to a YouTube or Vimeo channel. Two mp4 files are hosted on the site itself. Left out: logos and the 75 pixel reviewer avatars, book_now_banner.jpg (banner), about_view_ningaloo.jpg, sea-about-us.jpg and sea-inhabitants.jpg (page backgrounds or banners), screenshots (Screenshot_20230524-140234_Instagram-copy.jpg and the five SCR-20260703 files on the visitor guide post, which look like screenshots), shuttle-bus-available.webp and no-shuttle-bus-available.webp (graphics), Samantha-Haebich.jpg (named after a person, likely a reviewer photo), stock-style files with no source (snorkeling-elderly-couple.webp, snorkeling-women.webp, underwater_photographer_turtle_1900.webp, Convict_Surgeonfish_Superschool.jpg), ningaloo-leopard-shark.jpg (provenance unclear), and the Facebook-origin files on the home gallery whose captions read like promotional graphics ('Don't flip out, just book a tour', 'Join ningaloo glass', 'Adventure trips') or whose subject is unclear (half-day-e1651307097320.jpg, captioned 'For Lucy'). Many gallery files carry Facebook-style names (for example 275228367_324967239695115_6133890795289736415_n.jpeg), so a few could be guest photos; only one is used (a turtle photo under the Half Day Turtle Tour)."
+}

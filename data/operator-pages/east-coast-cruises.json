@@ -1,0 +1,169 @@
+{
+  "slug": "east-coast-cruises",
+  "name": "Maria Island Cruises",
+  "website": "https://www.mariaislandcruises.com.au",
+  "rezdyAlias": null,
+  "state": "TAS",
+  "town": "Triabunna",
+  "category": "Maria Island cruises",
+  "summary": "Daily cruises from Triabunna in southern Tasmania to Ile des Phoques and along the coast of Maria Island. The boat goes into granite sea caves and past thousands of Australian fur seals, and guests then spend about two hours ashore on Maria Island. A Full Day Tour adds a bus trip from Hobart.",
+  "standouts": [
+    "Sea caves at Ile des Phoques, including Rainbow Cave with its natural skylight",
+    "Guided walk through Darlington's World Heritage-listed convict settlement on Maria Island",
+    "No age or height restrictions",
+    "Trips are not cancelled for low numbers, even for one guest"
+  ],
+  "contact": {
+    "phone": "+61 3 6234 4270",
+    "email": "info@pennicottjourneys.com.au",
+    "address": "Dock Head Building, Franklin Wharf, Hobart"
+  },
+  "heroImage": "https://www.mariaislandcruises.com.au/files/2617/9041/8282/header-maria-island-cruises-cave.jpg",
+  "sourceUrls": [
+    "https://eastcoastcruises.com.au/",
+    "https://www.mariaislandcruises.com.au/",
+    "https://www.mariaislandcruises.com.au/robots.txt",
+    "https://www.mariaislandcruises.com.au/sitemap.xml",
+    "https://www.mariaislandcruises.com.au/hobart-parking/"
+  ],
+  "trips": [
+    {
+      "title": "Cruise + Walk from Triabunna",
+      "kind": "cruise",
+      "summary": "A day cruise from Triabunna to Ile des Phoques and along the coast of Maria Island, with about two hours ashore. The boat goes into granite sea caves and past thousands of Australian fur seals, and dolphins and migrating whales may be seen. Ashore there is a guided walk through the Darlington convict settlement, then time to explore at your own pace.",
+      "highlights": [
+        "Sea caves at Ile des Phoques, including Rainbow Cave with its natural skylight",
+        "Thousands of Australian fur seals at Ile des Phoques",
+        "About two hours ashore with a guided walk through Darlington's World Heritage-listed convict settlement",
+        "Alternative route along the Maria Island coast if weather stops the boat reaching Ile des Phoques"
+      ],
+      "duration": "Departs Triabunna 10:00am, returns about 3:45pm",
+      "durationMinutes": 345,
+      "departureTimes": [
+        "10:00"
+      ],
+      "season": "Daily from 15th Oct 2026, except Christmas Day",
+      "departsFrom": "Triabunna. Check in by 9:30am at the Maria Island Cruises Booking Centre, 21 Vicary Street, Triabunna",
+      "prices": [
+        {
+          "label": "Cruise + Walk including lunch, Adult",
+          "amount": 285,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Cruise + Walk including lunch, Child 3-16 years",
+          "amount": 200,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Cruise + Walk bring your own lunch, Adult",
+          "amount": 265,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Cruise + Walk bring your own lunch, Child 3-16 years",
+          "amount": 180,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 265,
+      "includes": [
+        "Cruise to Ile des Phoques and along the coast of Maria Island",
+        "Guided walk through Darlington's convict settlement, with time to explore Maria Island at your own pace (about two hours ashore)",
+        "Ploughman's style lunch of smoked meats, salad, cheeses, a locally baked bread roll, fruit and a sweet treat (not included in the bring-your-own-lunch fare)",
+        "Park entry fee for Maria Island (a $10 reimbursement is given if you already hold a Tasmanian Parks Pass)"
+      ],
+      "bring": [
+        "Warm clothing, even though the boat is enclosed",
+        "Camera",
+        "Details of your Tasmanian Parks Pass, if you hold one and want the $10 reimbursement",
+        "Your own lunch, if you choose the bring-your-own-lunch fare"
+      ],
+      "requirements": "No age or height restrictions. Guests need to arrive on time for the pre-cruise briefing and the walk from the Visitor Centre to the boat. Tell the operator about any dietary requirements.",
+      "offer": null,
+      "images": [
+        "https://www.mariaislandcruises.com.au/files/4317/9042/5358/Ile_des_Phoques.jpg",
+        "https://www.mariaislandcruises.com.au/files/3817/9042/5378/Inside_Cave_Copy_2.jpg",
+        "https://www.mariaislandcruises.com.au/files/7717/9042/5346/Entering_Cave_Copy_2.jpg",
+        "https://www.mariaislandcruises.com.au/files/9417/9042/5327/At_Bow.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.pennicottjourneys.com.au/book?journey=maria"
+      ],
+      "sourceUrl": "https://www.mariaislandcruises.com.au/",
+      "checkNotes": "Both trips are tabs on the single home page; there are no separate trip pages. The tab is labelled 'Cruise + Walk from Triabunna' and the heading inside it says 'Cruise + Walk'. The page gives departure and return times but no stated duration; 345 minutes is worked out from 10:00am to about 3:45pm. Prices show a $ sign with no currency; AUD assumed. Booking: the Book Now button in this tab links to https://www.pennicottjourneys.com.au/book?journey=maria, the same Maria Island booking page used by the Full Day Tour; it is on a different domain and was not opened, so the booking system behind it is unknown. The itinerary lists check in 9:30am, cruise departs 10:00am, guided walk and exploration 1:15pm, depart Maria Island 3:15pm, back in Triabunna 3:45pm. The page does not say whether lunch is eaten on the island or on the boat, and gives no price for children under 3. The exact wharf the boat leaves from is not stated; the page says the boat is a walk from the Visitor Centre. The 'Operates' line says 'Daily from 15th Oct 2026', which is the date this page was read, so the start date may be generated by the page rather than a real season start."
+    },
+    {
+      "title": "Full Day Tour from Hobart",
+      "kind": "tour",
+      "summary": "A full day from Hobart that starts with a return guided bus trip to Triabunna, with morning tea on arrival. From Triabunna the boat leaves at 10:00am for Maria Island and Ile des Phoques, and guests then have lunch and a walk on the island. The group is back in Hobart at about 5:30pm.",
+      "highlights": [
+        "Return guided bus tour from Hobart to Triabunna",
+        "Morning tea on arrival at Triabunna",
+        "Cruise to Maria Island and Ile des Phoques",
+        "Lunch and a walk on Maria Island, back in Hobart at about 5:30pm"
+      ],
+      "duration": "Bus departs Hobart 8:00am, back in Hobart about 5:30pm",
+      "durationMinutes": 570,
+      "departureTimes": [
+        "08:00"
+      ],
+      "season": "Daily from 15th Oct 2026, except Christmas Day",
+      "departsFrom": "Pennicott Wilderness Journeys Booking Centre, Franklin Wharf, Hobart, next to the Constitution Dock Lifting Bridge. Check in by 7:45am",
+      "prices": [
+        {
+          "label": "Full Day Tour, Adult",
+          "amount": 365,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Full Day Tour, Child 3-16 years",
+          "amount": 285,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 365,
+      "includes": [
+        "Return guided bus tour between Hobart and Triabunna",
+        "Morning tea",
+        "Cruise to Maria Island and Ile des Phoques",
+        "Ploughman's style lunch of smoked meats, salad, cheeses, a locally baked bread roll, fruit and a sweet treat",
+        "Two hours on Maria Island",
+        "Park entry fee for Maria Island (a $10 reimbursement is given if you already hold a Tasmanian Parks Pass)"
+      ],
+      "bring": [
+        "Warm clothing, even though the boat is enclosed",
+        "Camera",
+        "Details of your Tasmanian Parks Pass, if you hold one and want the $10 reimbursement"
+      ],
+      "requirements": "No age or height restrictions. Guests need to arrive on time for check in and the pre-cruise briefing. Tell the operator about any dietary requirements. No parking at the Hobart booking centre; the page points to the Evans Street Car Park nearby for all-day parking.",
+      "offer": null,
+      "images": [
+        "https://www.mariaislandcruises.com.au/files/1217/9042/1125/maria_island_boat_in_front.jpg",
+        "https://www.mariaislandcruises.com.au/files/5117/9042/5411/Seals.jpeg",
+        "https://www.mariaislandcruises.com.au/files/3817/9042/5390/Maria_Coast_2_Copy_2.jpg",
+        "https://www.mariaislandcruises.com.au/files/3417/9042/5421/Wombats_Copy_2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.pennicottjourneys.com.au/book?journey=maria"
+      ],
+      "sourceUrl": "https://www.mariaislandcruises.com.au/",
+      "checkNotes": "Same single home page as the Cruise + Walk; the tab is labelled 'Full Day Tour from Hobart' and the heading inside it says 'Maria Island Cruises Full Day Tour'. No stated duration; 570 minutes is worked out from the 8:00am bus departure to the 5:30pm Hobart arrival. Itinerary: check in 7:45am, bus departs 8:00am, arrive Triabunna and morning tea 9:30am, cruise 10:00am, arrive Maria Island for walk and lunch 1:15pm, depart Maria Island 3:15pm, arrive Triabunna 3:45pm and bus to Hobart, arrive Hobart 5:30pm. Prices show a $ sign with no currency; AUD assumed. The page does not give a bring-your-own-lunch price for this tour, although the Meals section says lunch is included unless you chose to bring your own. The page does not say the walk on this tour is guided, only 'Walk & Lunch'. Booking button goes to the same Maria Island booking page on pennicottjourneys.com.au as the other trip; it was not opened. The page's own link to Hobart parking (/hobart-parking/) returns a 404."
+    }
+  ],
+  "offers": [
+    {
+      "text": "$10 reimbursement if you already hold a Tasmanian Parks Pass",
+      "conditions": "Give the operator your Parks Pass details. The Maria Island park entry fee is otherwise included in the ticket.",
+      "validUntil": null,
+      "sourceUrl": "https://www.mariaislandcruises.com.au/"
+    }
+  ],
+  "checkNotes": "IDENTITY, PLEASE CHECK FIRST: the address on our list, eastcoastcruises.com.au (and www.), answers every path with a permanent redirect to www.mariaislandcruises.com.au. That site is branded Maria Island Cruises and is run under the name Pennicott Wilderness Journeys. Everything here was read from that site, and the name is recorded as Maria Island Cruises. A person should confirm it is the same business as East Coast Cruises before this page is published. The site is one page (its sitemap lists only the home page), so no trip has its own page or its own photos. Pages not read, to stay on the operator's own site: pennicottjourneys.com.au (about, awards, FAQs, boats, accessibility, gift cards, contact and the Book Now page) and pwj.com.au/terms, so no awards or accreditation claims are captured. The menu also links other Pennicott journeys on their own sites (Bruny Island Cruises, Bruny Island Traveller, Cape Raoul Cruises, Fluted Cape Walk, Freycinet Aqua Express, Iron Pot Cruises, Port Arthur Bus, Seafood Seduction, Tasman Island Cruises, Three Capes Track, Wineglass Bay Cruises); none are included. Gift Cards appear only as a menu link, so no voucher terms are captured. No Rezdy or FareHarbor links appear on the page, so rezdyAlias is null; both Book Now buttons go to https://www.pennicottjourneys.com.au/book?journey=maria. Contact: the phone, email and Hobart address are the Pennicott head office details in the page footer; the page shows the phone as (03) 6234 4270 and hides the email behind a protected link, which resolves to the address given. Cruise guests check in at the Triabunna booking centre, 21 Vicary Street. Cancellation terms on the page: the operator may charge the full fare for cancellations within 24 hours of departure and half within 48 hours, and bookings made through third parties follow that party's own terms. The operator may cancel or vary any trip, and in extremely bad weather offers a full refund or an alternative date; if weather stops the boat reaching Ile des Phoques it runs an alternative route along the Maria Island coast. Site claims kept out of copy: the sea caves described as Tasmania's largest granite sea caves, the fossils dated to about 300 million years, and the peak height of Bishop and Clerk."
+}

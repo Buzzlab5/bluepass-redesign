@@ -1,0 +1,173 @@
+{
+  "slug": "barrys-surf-barbados",
+  "name": "Barry's Surf Barbados",
+  "website": "https://www.surfing-barbados.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Dover",
+  "category": "Surf school",
+  "summary": "A surf school on the south coast of Barbados, started by local surfer Barry Banfield in 2005. Beginner lessons run on weekday mornings in small groups, with board and rash vest included. The school also rents surfboards and offers multi-day surf coaching packages.",
+  "standouts": [
+    "Running since 2005, founded by Barbadian surfer Barry Banfield",
+    "Maximum 6 students to 1 surf instructor",
+    "Operations manager Christie Banfield was Barbados 2005 girl surfer of the year",
+    "Own online booking calendar with card payment"
+  ],
+  "contact": {
+    "phone": "+1 246-256-3906",
+    "email": "barry@surf-barbados.com",
+    "address": "White Sands Beach, Dover, Christ Church, Barbados.",
+    "whatsapp": null
+  },
+  "heroImage": "https://www.surfing-barbados.com/wp-content/uploads/2018/09/surfing-in-barbados-learn-to-surf.jpg",
+  "sourceUrls": [
+    "https://www.surfing-barbados.com/",
+    "https://www.surfing-barbados.com/surf-lessons/",
+    "https://www.surfing-barbados.com/surf-board-rentals/",
+    "https://bookings.surfing-barbados.com/",
+    "https://www.surfing-barbados.com/book-your-trip/",
+    "https://www.surfing-barbados.com/contact-us/",
+    "https://www.surfing-barbados.com/surf-packages/",
+    "https://www.surfing-barbados.com/ride-and-surf/",
+    "https://www.surfing-barbados.com/gallery/",
+    "https://www.surfing-barbados.com/meet-the-team/",
+    "https://www.surfing-barbados.com/surfing-in-barbados/"
+  ],
+  "trips": [
+    {
+      "title": "Beginner Surf Lessons (Intro To Surfing)",
+      "kind": "course",
+      "summary": "A two-hour group lesson for people who have never surfed or have only tried a few times. It starts with 15 to 20 minutes of instruction on the beach, then about 1 hour 45 minutes in the water with an instructor coaching you onto your own waves.",
+      "highlights": [
+        "Maximum 6 students to 1 instructor",
+        "15 to 20 minutes of beach instruction, then about 1 hour 45 minutes in the water",
+        "Surfboard and rash vest included",
+        "Book online at least 24 hours ahead, or call for later bookings"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [
+        "09:00"
+      ],
+      "season": "Monday to Friday, 9:00 AM to 11:00 AM",
+      "departsFrom": "White Sands Beach, Dover, Christ Church",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 75,
+          "currency": "USD",
+          "note": "The booking page charges BBD $150 (USD $75) per person by card"
+        }
+      ],
+      "priceFrom": 75,
+      "includes": [
+        "Surfboard",
+        "Rash vest"
+      ],
+      "bring": [],
+      "requirements": "Designed for people with no previous surfing experience",
+      "offer": null,
+      "images": [
+        "https://www.surfing-barbados.com/wp-content/uploads/2018/09/surfing-in-barbados-learn-to-surf.jpg",
+        "https://www.surfing-barbados.com/wp-content/uploads/2016/05/IMG_3667.jpg"
+      ],
+      "bookingLinks": [
+        "https://bookings.surfing-barbados.com/"
+      ],
+      "sourceUrl": "https://www.surfing-barbados.com/surf-lessons/",
+      "checkNotes": "Bookings must be made at least 24 hours ahead online; inside 24 hours call (246)-256-3906. Booking page says the charge is fully refundable up to 24 hours before the lesson. The booking page has hidden (commented out) lines for an Intermediate class and a Surf Stronger Package at US $195 for 3 days; not shown to visitors, so not built. Departure point taken from the contact page address; the lessons page says there are 2 surf breaks out front. Home page also states a stand-up rate as a percentage, not repeated."
+    },
+    {
+      "title": "Barrys Surf School Package (The Gap Package)",
+      "kind": "course",
+      "summary": "A five or seven day surf coaching package for people staying in the St Lawrence Gap and Dover Beach area. It includes airport transfers, mobile coaching sessions that go to wherever the waves are best, and unlimited surfboard rental for your stay.",
+      "highlights": [
+        "Airport transfers to and from your accommodation in St Lawrence Gap or Dover",
+        "Mobile surf coaching, days written as Monday /Saturday",
+        "Unlimited surfboard rental for your stay",
+        "Accommodation not included"
+      ],
+      "duration": "5 or 7 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "St Lawrence Gap and Dover Beach area",
+      "prices": [
+        {
+          "label": "5 Day Package, 1 person",
+          "amount": 500,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "5 Day Package, 2 people",
+          "amount": 450,
+          "currency": "USD",
+          "note": "Per person"
+        },
+        {
+          "label": "7 Day Package, 1 person",
+          "amount": 700,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "7 Day Package, 2 people",
+          "amount": 650,
+          "currency": "USD",
+          "note": "Per person"
+        }
+      ],
+      "priceFrom": 450,
+      "includes": [
+        "Airport transfers to and from your accommodation in the St Lawrence Gap and Dover area",
+        "Surf coaching sessions",
+        "Unlimited surfboard rental for the duration of your stay"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.surfing-barbados.com/surf-packages/",
+      "checkNotes": "This page is not in the main site menu; it is linked from the menu on the bookings.surfing-barbados.com page. Coaching days written as \"MONDAY /SATURDAY\", read as Monday to Saturday, check. Booked by enquiry (contact page or the booking form at /book-your-trip/). Page carries a 2019 copyright, so prices may be dated."
+    },
+    {
+      "title": "Surfboard Rentals",
+      "kind": "other",
+      "summary": "Surfboard rental for visiting surfers, from fun boards to longboards, so you do not have to fly with your own board. Boards are collected from the shop at Epic Surf Cafe in Maxwell, near Oistins.",
+      "highlights": [
+        "Fun boards and longboards",
+        "Shop at Epic Surf Cafe, Maxwell, Oistins"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Epic Surf Cafe, Maxwell, Oistins",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.surfing-barbados.com/wp-content/uploads/bfi_thumb/91131768_144215513690337_3655062927477571584_n-qcd55fdibm04llo399fxc22tacor495659tsnuzsmk.jpg",
+        "https://www.surfing-barbados.com/wp-content/uploads/2020/04/img_3592.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.surfing-barbados.com/surf-board-rentals/",
+      "checkNotes": "No rental prices on the site. The $150US figure on the page is an airline board fee comparison, not a rental price. Booked by phone (246)256-3906 or enquiry."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Epic Loft accommodation, a one bedroom upstairs apartment above Epic Cafe, $150US per night",
+      "conditions": "5 night minimum stay",
+      "validUntil": null,
+      "sourceUrl": "https://www.surfing-barbados.com/"
+    }
+  ],
+  "checkNotes": "Site shows a 2019 copyright and its last blog post is dated October 3, 2023, but it has uploads from November 2024 and a working booking page that takes card payment, so treated as trading. The /ride-and-surf/ page (Jimny Jeep and surfboard rental, rates on request) is only linked from the booking page menu and is a car rental, so not built. The home page states a stand-up rate as a percentage; not repeated."
+}

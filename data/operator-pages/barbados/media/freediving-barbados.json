@@ -1,0 +1,78 @@
+{
+  "slug": "freediving-barbados",
+  "logo": "https://freedivingbarbados.com/wp-content/uploads/2017/01/head-logo4.png",
+  "gallery": [
+    "https://freedivingbarbados.com/wp-content/uploads/2022/08/Home9.jpg",
+    "https://freedivingbarbados.com/wp-content/uploads/2017/06/home5.jpg",
+    "https://freedivingbarbados.com/wp-content/uploads/2017/06/home7.jpg",
+    "https://freedivingbarbados.com/wp-content/uploads/2017/06/home4.jpg",
+    "https://freedivingbarbados.com/wp-content/uploads/2017/06/home8.jpg",
+    "https://freedivingbarbados.com/wp-content/uploads/2017/06/home6.jpg",
+    "https://freedivingbarbados.com/wp-content/uploads/2015/12/COLLAGE.jpg",
+    "https://freedivingbarbados.com/wp-content/uploads/2015/12/92m-thumb.jpg",
+    "https://freedivingbarbados.com/wp-content/uploads/2017/06/turtle.jpg",
+    "https://freedivingbarbados.com/wp-content/uploads/2017/06/diver1.jpg",
+    "https://freedivingbarbados.com/wp-content/uploads/2017/06/diver3.jpg",
+    "https://freedivingbarbados.com/wp-content/uploads/2017/06/diver5.jpg",
+    "https://freedivingbarbados.com/wp-content/uploads/2015/12/Website-resize2.jpg",
+    "https://freedivingbarbados.com/wp-content/uploads/2015/12/home-icon1.jpg",
+    "https://freedivingbarbados.com/wp-content/uploads/2015/12/home-icon2.jpg",
+    "https://freedivingbarbados.com/wp-content/uploads/2015/12/home-icon3.jpg"
+  ],
+  "videos": [
+    { "url": "https://www.youtube.com/watch?v=vBcR4BBaSEY", "title": "Freediving to 92m for Barbados at Vertical Blue 2018", "sourceUrl": "https://freedivingbarbados.com/" },
+    { "url": "https://www.youtube.com/watch?v=QUaIC_ExyK0", "title": "No fins national record, 55m, Vertical Blue 2018", "sourceUrl": "https://freedivingbarbados.com/about-us/" },
+    { "url": "https://www.youtube.com/watch?v=F4IlUnNGX90", "title": "Bifins dive to 76m at Vertical Blue 2021", "sourceUrl": "https://freedivingbarbados.com/" },
+    { "url": "https://spearfishingbarbados.com/wp-content/uploads/2025/01/Hero-Section-1.mp4", "title": "Spearfishing in Barbados", "sourceUrl": "https://spearfishingbarbados.com/" }
+  ],
+  "trips": [
+    {
+      "title": "AIDA 1 & 2*",
+      "images": [
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/diver2.jpg",
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/turtle.jpg",
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/diver1.jpg"
+      ]
+    },
+    {
+      "title": "AIDA 3*",
+      "images": [
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/diver3.jpg",
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/diver5.jpg",
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/diver1-1.jpg",
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/diver2-1.jpg"
+      ]
+    },
+    {
+      "title": "PADI Freediver",
+      "images": [
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/padidiver1.jpg",
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/padidiver2.jpg",
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/padidiver3.jpg"
+      ]
+    },
+    {
+      "title": "Daytime Spearfishing",
+      "images": [
+        "https://spearfishingbarbados.com/wp-content/uploads/2025/01/Lionfish3-1-scaled.jpg",
+        "https://spearfishingbarbados.com/wp-content/uploads/2025/01/PXL_20240115_174733146-scaled.jpg",
+        "https://spearfishingbarbados.com/wp-content/uploads/2025/01/DSC05955edit.jpg",
+        "https://spearfishingbarbados.com/wp-content/uploads/2025/01/Lionfish-1.jpg",
+        "https://spearfishingbarbados.com/wp-content/uploads/2025/01/DSC04957edit.jpg",
+        "https://spearfishingbarbados.com/wp-content/uploads/2025/01/IMG_0040-1.jpg",
+        "https://spearfishingbarbados.com/wp-content/uploads/2025/01/Sequence-01.Still008.jpg",
+        "https://spearfishingbarbados.com/wp-content/uploads/2025/01/20180322_183355-rotated.jpg",
+        "https://spearfishingbarbados.com/wp-content/uploads/2025/01/PXL_20230728_154855238.jpg",
+        "https://spearfishingbarbados.com/wp-content/uploads/2025/01/20190508_164143-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Bluewater Spearfishing",
+      "images": [
+        "https://spearfishingbarbados.com/wp-content/uploads/2025/01/Alex-Davis-wahoo-scaled.jpg",
+        "https://spearfishingbarbados.com/wp-content/uploads/2025/01/Alex-Davis-wahoo-1.jpg"
+      ]
+    }
+  ],
+  "notes": "Spearfishing photos and the MP4 come from spearfishingbarbados.com, the operator's sister site (same phone, linked from freedivingbarbados.com). AIDA 1*, Basic Freediver, PADI Advanced Freediver and Sea Scooter Tour have no pages or photos of their own. Banners (middle.png, 3banner.png, FD_experience_Bnr) and agency logos (AIDA, PADI, EFR) left out. The site mentions a YouTube channel; video titles were read from YouTube for the three embedded or linked videos."
+}

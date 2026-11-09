@@ -1,0 +1,135 @@
+{
+  "slug": "bolador-tours",
+  "logo": "https://boladortours.com/img/logo.png",
+  "heroImage": "https://boladortours.com/img/first.jpg",
+  "gallery": [
+    "https://boladortours.com/img/first.jpg",
+    "https://boladortours.com/img/second.jpg",
+    "https://boladortours.com/img/third.jpg",
+    "https://boladortours.com/img/bolador_head.jpg",
+    "https://boladortours.com/img/imagine-head.jpg",
+    "https://boladortours.com/img/bolador1.jpg",
+    "https://boladortours.com/img/bolador2.jpg",
+    "https://boladortours.com/img/bolador3.jpg",
+    "https://boladortours.com/img/bolador4.jpg",
+    "https://boladortours.com/img/bolador7.jpg",
+    "https://boladortours.com/img/imagine2.jpg",
+    "https://boladortours.com/img/imagine3.jpg",
+    "https://boladortours.com/img/imagine5.jpg",
+    "https://boladortours.com/img/imagine6.jpg",
+    "https://boladortours.com/img/ABout1.jpg",
+    "https://boladortours.com/img/bollaunch.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Bolador 3-hour cruise",
+      "images": [
+        "https://boladortours.com/img/bolador_head.jpg",
+        "https://boladortours.com/img/bolador1.jpg",
+        "https://boladortours.com/img/bolador2.jpg",
+        "https://boladortours.com/img/bolador3.jpg",
+        "https://boladortours.com/img/bolador4.jpg",
+        "https://boladortours.com/img/bolador7.jpg",
+        "https://boladortours.com/img/bolador6.jpg"
+      ]
+    },
+    {
+      "title": "Bolador 5-hour cruise",
+      "images": [
+        "https://boladortours.com/img/bolador_head.jpg",
+        "https://boladortours.com/img/bolador1.jpg",
+        "https://boladortours.com/img/bolador2.jpg",
+        "https://boladortours.com/img/bolador3.jpg",
+        "https://boladortours.com/img/bolador4.jpg",
+        "https://boladortours.com/img/bolador7.jpg",
+        "https://boladortours.com/img/bolador6.jpg"
+      ]
+    },
+    {
+      "title": "Bolador 4-hour dinner cruise",
+      "images": [
+        "https://boladortours.com/img/bolador_head.jpg",
+        "https://boladortours.com/img/bolador1.jpg",
+        "https://boladortours.com/img/bolador2.jpg",
+        "https://boladortours.com/img/bolador3.jpg",
+        "https://boladortours.com/img/bolador4.jpg",
+        "https://boladortours.com/img/bolador7.jpg",
+        "https://boladortours.com/img/bolador6.jpg"
+      ]
+    },
+    {
+      "title": "Bolador Private Charters",
+      "images": [
+        "https://boladortours.com/img/bolador_head.jpg",
+        "https://boladortours.com/img/bolador1.jpg",
+        "https://boladortours.com/img/bolador2.jpg",
+        "https://boladortours.com/img/bolador3.jpg",
+        "https://boladortours.com/img/bolador4.jpg",
+        "https://boladortours.com/img/bolador7.jpg",
+        "https://boladortours.com/img/bolador6.jpg"
+      ]
+    },
+    {
+      "title": "Imagine 3-hour cruise",
+      "images": [
+        "https://boladortours.com/img/imagine-head.jpg",
+        "https://boladortours.com/img/second.jpg",
+        "https://boladortours.com/img/imagine2.jpg",
+        "https://boladortours.com/img/imagine3.jpg",
+        "https://boladortours.com/img/exper4.jpg",
+        "https://boladortours.com/img/imagine5.jpg",
+        "https://boladortours.com/img/imagine6.jpg"
+      ]
+    },
+    {
+      "title": "Imagine 5-hour cruise",
+      "images": [
+        "https://boladortours.com/img/imagine-head.jpg",
+        "https://boladortours.com/img/second.jpg",
+        "https://boladortours.com/img/imagine2.jpg",
+        "https://boladortours.com/img/imagine3.jpg",
+        "https://boladortours.com/img/exper4.jpg",
+        "https://boladortours.com/img/imagine5.jpg",
+        "https://boladortours.com/img/imagine6.jpg"
+      ]
+    },
+    {
+      "title": "Imagine 4-hour dinner cruise",
+      "images": [
+        "https://boladortours.com/img/imagine-head.jpg",
+        "https://boladortours.com/img/second.jpg",
+        "https://boladortours.com/img/imagine2.jpg",
+        "https://boladortours.com/img/imagine3.jpg",
+        "https://boladortours.com/img/exper4.jpg",
+        "https://boladortours.com/img/imagine5.jpg",
+        "https://boladortours.com/img/imagine6.jpg"
+      ]
+    },
+    {
+      "title": "Imagine Private Charters",
+      "images": [
+        "https://boladortours.com/img/imagine-head.jpg",
+        "https://boladortours.com/img/second.jpg",
+        "https://boladortours.com/img/imagine2.jpg",
+        "https://boladortours.com/img/imagine3.jpg",
+        "https://boladortours.com/img/exper4.jpg",
+        "https://boladortours.com/img/imagine5.jpg",
+        "https://boladortours.com/img/imagine6.jpg"
+      ]
+    },
+    {
+      "title": "Grenadine Island Charters",
+      "images": [
+        "https://boladortours.com/img/exper3.jpg"
+      ]
+    },
+    {
+      "title": "Weekend Charters",
+      "images": [
+        "https://boladortours.com/img/exper4new.jpg"
+      ]
+    }
+  ],
+  "notes": "Each boat has one page with all its cruises, so every Bolador trip lists all photos from the Bolador page and every Imagine trip all photos from the Imagine page. Left out the template gallery images (first-small.jpg and similar), which sit inside HTML comments and are not shown. No videos found; the only embed is a Google map."
+}

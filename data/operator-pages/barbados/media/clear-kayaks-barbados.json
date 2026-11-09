@@ -1,0 +1,76 @@
+{
+  "slug": "clear-kayaks-barbados",
+  "logo": "https://static.wixstatic.com/media/ac253a_fb9f75fe6f75400c99cc83ce5d8f054b~mv2.png",
+  "heroImage": "https://static.wixstatic.com/media/ac253a_a4761cf8da994d35ac4fb8a78f680a94~mv2.jpg",
+  "gallery": [
+    "https://static.wixstatic.com/media/ac253a_3b486304dbfb4b3a8b40b69e8dea7311~mv2.jpg",
+    "https://static.wixstatic.com/media/ac253a_f803b74af3c14384852f3850410aafaa~mv2.jpg",
+    "https://static.wixstatic.com/media/ac253a_8fd426e1c6a84631b87b7b756f186f7c~mv2.jpg",
+    "https://static.wixstatic.com/media/ac253a_6922922f45cc4be0a7bfcb911dd263be~mv2.jpg",
+    "https://static.wixstatic.com/media/ac253a_6d2550f7636a44e6976e7e916e251c9c~mv2.jpg",
+    "https://static.wixstatic.com/media/ac253a_637b72554e0c45e2a3b0e3346db89fd3~mv2.jpg",
+    "https://static.wixstatic.com/media/ac253a_f2371a58f2f54d9f8a2727dc605bb60f~mv2.jpg",
+    "https://static.wixstatic.com/media/ac253a_b2683170a4454891b930a20429fe07e9~mv2.jpg",
+    "https://static.wixstatic.com/media/ac253a_da470917607a49f7a823276d2bbc954d~mv2.jpg",
+    "https://static.wixstatic.com/media/ac253a_e3ea197ea9bc4cad82913c2307d427b5~mv2.jpg",
+    "https://static.wixstatic.com/media/ac253a_75530701f796435699178a62a49fa514~mv2.jpg",
+    "https://static.wixstatic.com/media/ac253a_c8dbc450e5b4497f90e3662bd04fe59d~mv2.jpg",
+    "https://static.wixstatic.com/media/ac253a_07b5707189c744639750aaa24fdb4fe0~mv2.jpg",
+    "https://static.wixstatic.com/media/ac253a_05a38ce727a749448ed9e866e184d382~mv2.jpg",
+    "https://static.wixstatic.com/media/ac253a_5625ed1676e6427e91e84df673409304~mv2.jpg",
+    "https://static.wixstatic.com/media/ac253a_ff683baee6c94a02ac6edb7c370c2c15~mv2.jpg"
+  ],
+  "videos": [
+    { "url": "https://video.wixstatic.com/video/ac253a_a4f6174589e04454a6b9ca6c70b03a0e/480p/mp4/file.mp4", "title": "Seeing turtles from a clear kayak", "sourceUrl": "https://www.clearkayaksbarbados.com/gallery" },
+    { "url": "https://video.wixstatic.com/video/ac253a_2f14cdc961b0435fb951310031f3b3b6/480p/mp4/file.mp4", "title": "Clear kayaking in Barbados", "sourceUrl": "https://www.clearkayaksbarbados.com/gallery" }
+  ],
+  "trips": [
+    {
+      "title": "Carlisle Bay Shipwreck Tour",
+      "images": [
+        "https://static.wixstatic.com/media/ac253a_a1804432982e4e85ad06600b12682fb8~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_5625ed1676e6427e91e84df673409304~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_6d2550f7636a44e6976e7e916e251c9c~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_8fd426e1c6a84631b87b7b756f186f7c~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_178fab4111dc4b92b77c5d3f82278198~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_0622a59313ec42d7bb6002ffefc17602~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_75530701f796435699178a62a49fa514~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_125caad6f0784709b5574146738df8e6~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_2f5520b51e8645929e07935392018429~mv2_d_3264_2448_s_4_2.jpeg",
+        "https://static.wixstatic.com/media/ac253a_4fb9c7c4fcbc43d18966fc7645be1d3e~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Folkestone Marine Park Coral Reef Tour",
+      "images": [
+        "https://static.wixstatic.com/media/ac253a_a4761cf8da994d35ac4fb8a78f680a94~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_e9cc71aa95884a45a5cfca64e0b60d6d~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_6f328f2c2cf843ec9b0148acb773331b~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_b2683170a4454891b930a20429fe07e9~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_8424b4ea0eba4a56a1395399b1ebee21~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_3dfa59e5c2f548b19c3e9cdb4b136f35~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_24aae79906ee4682ba4bf91b6daf4452~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_c9d19d1643664d689e7a1acec4dd247e~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_fd2519a0ea4a4973bdcb9a0062a8f0bf~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_8894bc4607384959b77c65edbdb234ce~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Private Sunset Tour",
+      "images": [
+        "https://static.wixstatic.com/media/ac253a_ff683baee6c94a02ac6edb7c370c2c15~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_3e496e174b384235b6262d22a4f4a039~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_a5afc5644c90494db0febb6c9d10119f~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_07bf5e48adc348daa26db15b477624c7~mv2.jpg",
+        "https://static.wixstatic.com/media/ac253a_df5078a9e481470d8fe5e5cc6bd8b955~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Double Kayak Rental",
+      "images": [
+        "https://static.wixstatic.com/media/ac253a_6269dfdda2e34db5925ad83af30c1df4~mv2.png"
+      ]
+    }
+  ],
+  "notes": "Wix site. Two short videos are hosted by Wix in the gallery (480p mp4). No YouTube or Vimeo links. Carlisle Bay tour page also has two PNG images (ac253a_a0f9beb9..., ac253a_0df66d69...) left out as they may be graphics. Several images on the tour pages are wide banners (ac253a_4fb9c7c4..., ac253a_eeaed74e..., ac253a_df5078a9...)."
+}

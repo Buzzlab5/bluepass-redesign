@@ -1,0 +1,340 @@
+{
+  "slug": "cooly-eco-adventures",
+  "name": "Cooly Eco Adventures",
+  "website": "https://coolyecoadventures.com.au",
+  "rezdyAlias": "coolyecoadventures",
+  "state": "NSW",
+  "town": "Chinderah",
+  "category": "Whale and turtle tours",
+  "summary": "Small-group whale swims, whale watching, turtle snorkelling and dolphin and turtle safaris from Chinderah on the Tweed River, near the New South Wales and Queensland border. Trips run on a 32ft open ocean boat with seating for 12 guests. Whale season runs from June to November, and August to October is the best time to swim with whales.",
+  "standouts": [
+    "States it was the first operator on the Gold Coast to offer swimming with whales",
+    "Small groups: a 32ft open ocean boat seating 12 guests, and a maximum of 9 swimmers in the water on whale swims",
+    "Whale and turtle sightings from the boat are guaranteed, or you return for free",
+    "Home page shows Sustainability Awards Winner 2025 and Best of Queensland Experience 2026 badges"
+  ],
+  "contact": {
+    "phone": "1300 162 326",
+    "email": "info@coolyecoadventures.com.au",
+    "address": "139 Chinderah Bay Dr, Chinderah NSW 2487 (departure point)"
+  },
+  "heroImage": "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-swim-with-whales-02-1.jpg",
+  "sourceUrls": [
+    "https://coolyecoadventures.com.au/",
+    "https://coolyecoadventures.com.au/tours/",
+    "https://coolyecoadventures.com.au/tour/swim-with-whales/",
+    "https://coolyecoadventures.com.au/tour/whale-watching/",
+    "https://coolyecoadventures.com.au/tour/swim-with-turtles/",
+    "https://coolyecoadventures.com.au/tour/dolphin-turtle-safari-gold-coast-tweed-heads/",
+    "https://coolyecoadventures.com.au/whale-turtle-watching-swimming/",
+    "https://coolyecoadventures.com.au/faq/",
+    "https://coolyecoadventures.com.au/terms-conditions/",
+    "https://coolyecoadventures.com.au/contact/",
+    "https://coolyecoadventures.com.au/gallery/",
+    "https://coolyecoadventures.com.au/news/"
+  ],
+  "trips": [
+    {
+      "title": "Swim with Whales",
+      "kind": "swim",
+      "summary": "A swim with humpback whales, run from Chinderah on the Tweed River on a 32ft open ocean boat. No more than 9 swimmers are in the water at a time, each group with an experienced guide. The operator guarantees whale sightings from the boat but not a swim, because the whales decide whether to join the group.",
+      "highlights": [
+        "Maximum 9 swimmers in the water with an experienced guide",
+        "In-water approach as close as 30 metres, then it is up to the whale",
+        "Swim and snorkel gear and wetsuits provided",
+        "All photos and videos of the trip included"
+      ],
+      "duration": "approximately 4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "06:30",
+        "11:00"
+      ],
+      "season": "Whale season June to November; best time to swim with whales is August to October",
+      "departsFrom": "139 Chinderah Bay Dr, Chinderah NSW 2487 (look for the big trailer parked along the river)",
+      "prices": [
+        {
+          "label": "Per person (age 15+)",
+          "amount": 399,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Private charter (1 to 9 passengers)",
+          "amount": 3299,
+          "currency": "AUD",
+          "note": "Call to book"
+        }
+      ],
+      "priceFrom": 399,
+      "includes": [
+        "Qualified, experienced skipper and crew",
+        "Maximum 9 swimmers in the water, accompanied by an experienced guide",
+        "Swim and snorkel gear (mask, fins, snorkel), wetsuits and reef safe sunscreen",
+        "In-water crew support and flotation devices available",
+        "Commentary on humpback whales, other marine life, Aboriginal and European history and the local area",
+        "All photos and videos of the trip",
+        "Fresh fruit after the swim"
+      ],
+      "bring": [
+        "Beanie and a warm jumper or jacket",
+        "Spray jacket or rain coat (basic ponchos are provided)",
+        "Sunglasses and hat",
+        "Camera or GoPro",
+        "Towel",
+        "Water bottle"
+      ],
+      "requirements": "Minimum age 15; anyone under 18 must be accompanied by a parent or guardian. Must be able to swim unassisted, and snorkelling experience is necessary. Not suitable for pregnant women or anyone with a back injury.",
+      "offer": null,
+      "images": [
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-swim-with-whales-02-1.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-swim-with-whales-01.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-swim-with-whales-04.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-swim-with-whales-03.jpg"
+      ],
+      "bookingLinks": [
+        "https://coolyecoadventures.rezdy.com/454978/swim-with-whales-gold-coast"
+      ],
+      "sourceUrl": "https://coolyecoadventures.com.au/tour/swim-with-whales/",
+      "checkNotes": "Price, times and duration are from the tour page. Two departure times (6:30am and 11am, weather and tide dependent) are listed, yet the same page says only one whale swim tour runs a day, in the early morning; check which is right. Operating dates are not stated: the tour page says whales migrate May to November, the FAQ says June to November, with August to October best for swimming. The page says a swim is not guaranteed; Terms clause 5.5 allows a free rebook within 12 months if no whales are seen from the boat. The page offers flotation devices and in-water support, while Terms clause 2.6 says swimmers must swim unassisted without a buoyancy aid. The page also makes a first-operator claim and gives its sighting guarantee as a percentage; the percentage is not repeated here. The Rezdy link on the page carried a PHPSESSID session id, which was removed; the Rezdy page was not opened."
+    },
+    {
+      "title": "Whale Watching",
+      "kind": "tour",
+      "summary": "A small-group whale watching trip from Chinderah on a 32ft safari-style open ocean boat with room for 12 guests, so everyone watches from close to eye level. An on-board naturalist talks about whales and ocean conservation, and eagles, dolphins, turtles and flying fish may also be seen. The operator guarantees whale sightings from the boat, or you return for free.",
+      "highlights": [
+        "Groups of up to 12 passengers",
+        "Safari-style boat with eye-level viewing",
+        "On-board naturalist commentary on whales and ocean conservation",
+        "Departs via the Tweed River to the Pacific Ocean"
+      ],
+      "duration": "approximately 2.5 hours",
+      "durationMinutes": 150,
+      "departureTimes": [
+        "07:00",
+        "10:30",
+        "14:00"
+      ],
+      "season": "Whale season June to November (best time to see whales, per the FAQ)",
+      "departsFrom": "139 Chinderah Bay Dr, Chinderah NSW 2487 (look for the big trailer parked along the river)",
+      "prices": [
+        {
+          "label": "Per adult or child (minimum age 6)",
+          "amount": 129,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Private charter (up to 12 guests)",
+          "amount": 1400,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 129,
+      "includes": [
+        "Whale sighting guarantee, or return for free",
+        "Small groups, up to 12 passengers per tour",
+        "Experienced, knowledgeable crew",
+        "Commentary from an on-board naturalist on whales and ocean conservation",
+        "Coastline and wildlife viewing, with the possibility of eagles, dolphins, turtles and flying fish"
+      ],
+      "bring": [
+        "Beanie and a warm jumper or jacket",
+        "Spray jacket or rain coat (basic ponchos are provided)",
+        "Sunglasses and hat",
+        "Camera or GoPro",
+        "Towel",
+        "Water bottle"
+      ],
+      "requirements": "Minimum age 6; anyone under 18 must be accompanied by a parent or guardian. Not suitable for pregnant women or anyone with a back injury.",
+      "offer": null,
+      "images": [
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-whale-watching-gold-coast.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/05/IMG_7992-2-e1747879200658.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-whale-watching-gold-coast-02.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-whale-watching-gold-coast-03.jpg"
+      ],
+      "bookingLinks": [
+        "https://coolyecoadventures.rezdy.com/455090/safari-style-whale-watching-gold-coast"
+      ],
+      "sourceUrl": "https://coolyecoadventures.com.au/tour/whale-watching/",
+      "checkNotes": "Price, times and duration are from the tour page; times are weather and tide dependent. The adult and child price is a single figure. The page says whale sightings are guaranteed or return for free, but the conditions for a return are only written in the Terms for the swim tour (a free rebook within 12 months). Operating dates are not stated for this tour; the season shown is from the FAQ on the best time to see whales. The Rezdy link on the page carried a useTransparentSessions query, which was removed; the Rezdy page was not opened."
+    },
+    {
+      "title": "Swim with Turtles",
+      "kind": "snorkel",
+      "summary": "A guided snorkel with sea turtles at Cook Island Aquatic Reserve, about 600 metres off Fingal Head, reached by a 20 minute boat ride from Chinderah. A maximum of 12 swimmers are in the water at a time with an experienced guide, and snorkel instruction is given. The operator guarantees turtle sightings from the boat, or you return for free.",
+      "highlights": [
+        "20 minute boat ride to Cook Island Aquatic Reserve",
+        "Maximum 12 swimmers in the water with an experienced guide",
+        "Wetsuit, mask, snorkel and fins provided",
+        "Previous snorkelling experience not necessary"
+      ],
+      "duration": "approximately 2.5 hours",
+      "durationMinutes": 150,
+      "departureTimes": [
+        "07:00",
+        "10:00",
+        "13:00"
+      ],
+      "season": null,
+      "departsFrom": "139 Chinderah Bay Dr, Chinderah NSW 2487 (look for the big trailer parked along the river)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 149,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (6 to 12 years)",
+          "amount": 129,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family, 2 adults and 2 children",
+          "amount": 539,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family, 2 adults and 1 child",
+          "amount": 410,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Private charter (12 passengers max)",
+          "amount": 1600,
+          "currency": "AUD",
+          "note": "Call to book"
+        }
+      ],
+      "priceFrom": 149,
+      "includes": [
+        "Turtle sighting guarantee from the boat, or return trip for free",
+        "Qualified, experienced skipper and crew",
+        "Maximum 12 swimmers in the water, accompanied by an experienced guide",
+        "Swim and snorkel gear (mask, fins, snorkel), wetsuits and reef safe sunscreen",
+        "Flotation devices available",
+        "Commentary on turtles, dolphins, other marine life and the history of the local area",
+        "Snorkel instruction and tips"
+      ],
+      "bring": [
+        "Jumper, in case it is cool",
+        "Spray jacket or rain coat (basic ponchos are provided)",
+        "Sunglasses and hat",
+        "Camera or GoPro",
+        "Towel",
+        "Water bottle",
+        "Seasickness tablets if required"
+      ],
+      "requirements": "Must be able to swim unassisted. Minimum age 6 (from the Terms and Conditions); anyone under 18 must be accompanied by a parent or guardian. Not suitable for pregnant women or anyone with a pre-existing back injury. Anyone with asthma should bring an inhaler and tell the crew.",
+      "offer": null,
+      "images": [
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-big-turtles-in-gold-coast-12-min.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-swim-with-the-turtle-cooly-eco-adventures-gold-coast-01-min.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-turtle-in-gold-coast-09-min.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-turtle-in-gold-coast-cooly-eco-adventures-14-min.jpg"
+      ],
+      "bookingLinks": [
+        "https://coolyecoadventures.rezdy.com/415851/swim-with-turtles"
+      ],
+      "sourceUrl": "https://coolyecoadventures.com.au/tour/swim-with-turtles/",
+      "checkNotes": "Prices, times and duration are from the tour page; the page says tour times are subject to change with tide and wind. Minimum age 6 comes from the Terms and Conditions (the tour page gives only the child price band of 6 to 12 and says under 18s need a parent or guardian). The tour page says previous snorkelling experience is not necessary, while the Terms list snorkelling experience as necessary (that line looks written for the whale swim); the tour page was used. The page gives a sighting guarantee and a chance of swimming with turtles as percentages; they are not repeated here. No operating season is stated. The Rezdy link on the page carried a useTransparentSessions query, which was removed; the Rezdy page was not opened."
+    },
+    {
+      "title": "Dolphin & Turtle Safari",
+      "kind": "tour",
+      "summary": "A boat trip to watch turtles and dolphins from a 32ft open ocean boat carrying up to 12 passengers. It heads out through the Tweed River entrance to Cook Island Aquatic Reserve, then follows the Fingal Head and Tweed Heads coast looking for dolphins. The operator guarantees turtle sightings, or you return for free.",
+      "highlights": [
+        "Maximum 12 passengers",
+        "Cook Island Aquatic Reserve, then the Fingal Head and Tweed Heads coast",
+        "Dolphin and turtle watching from the boat",
+        "Sunscreen provided"
+      ],
+      "duration": "approximately 1.5 to 2 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "139 Chinderah Bay Dr, Chinderah NSW 2487 (look for the big trailer parked along the river)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 99,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Kids",
+          "amount": 89,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 99,
+      "includes": [
+        "Turtle sighting guarantee, or return for free",
+        "Qualified, experienced skipper and crew",
+        "Maximum 12 passengers on board",
+        "Commentary on turtles, dolphins and other marine life",
+        "Sunscreen provided"
+      ],
+      "bring": [
+        "Warm jumper or jacket, if you feel the cold",
+        "Spray jacket or rain coat (some are provided free)",
+        "Sunglasses and hat",
+        "Camera or GoPro",
+        "Water bottle"
+      ],
+      "requirements": "Minimum age 6; anyone under 18 must be accompanied by a parent or guardian. Not suitable for pregnant women or anyone with a back injury.",
+      "offer": null,
+      "images": [
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-dolphin-and-turtle-safaris-01.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-dolphin-and-turtle-safaris-03.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-dolphin-and-turtle-safaris-05.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-dolphin-and-turtle-safaris-06.png"
+      ],
+      "bookingLinks": [
+        "https://coolyecoadventures.rezdy.com/530560/dolphin-turtle-safari"
+      ],
+      "sourceUrl": "https://coolyecoadventures.com.au/tour/dolphin-turtle-safari-gold-coast-tweed-heads/",
+      "checkNotes": "The departure time is given only as 'Early or late afternoon', with no clock times, so departureTimes is empty. The Kids price has no age band on the tour page (the Terms treat a child as 6 to 12). The page gives turtle and dolphin sighting rates as percentages and says dolphins are not guaranteed; the percentages are not repeated here. The Terms and Conditions list of tours does not mention this trip. No operating season is stated, and 'up to 3 different species of dolphins and turtles' on the page is unclear, so it was left out. The Rezdy link on the page ended in a bare question mark, which was removed; the Rezdy page was not opened."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Sighting guarantee: whale sightings from the boat on the Swim with Whales and Whale Watching tours, and turtle sightings on the Swim with Turtles and Dolphin & Turtle Safari tours, are guaranteed or you return for free",
+      "conditions": "A swim with a whale, the time spent with it and its distance are not guaranteed. Terms clause 5.5: if no whales are seen from the boat on the swim tour, the booking can be moved to a date within 12 months of the original date at no charge. Dolphin sightings are not guaranteed.",
+      "validUntil": null,
+      "sourceUrl": "https://coolyecoadventures.com.au/terms-conditions/"
+    },
+    {
+      "text": "Private charters by arrangement: Swim with Whales $3299 (1 to 9 passengers), Whale Watching $1400 (up to 12 guests), Swim with Turtles $1600 (up to 12 passengers)",
+      "conditions": "Call or email for availability. No booking link is shown for private charters.",
+      "validUntil": null,
+      "sourceUrl": "https://coolyecoadventures.com.au/faq/"
+    },
+    {
+      "text": "$20 off tours: a promo code is given to people who sign up to the newsletter",
+      "conditions": "The code can be used for tours booked on the operator's website only.",
+      "validUntil": null,
+      "sourceUrl": "https://coolyecoadventures.com.au/"
+    },
+    {
+      "text": "Flash sale discount code shown in a banner at the top of every page",
+      "conditions": "Banner says it ends 26 Dec at 11:59pm AEDT; the year is not stated. The discount is shown on the site as a percentage, which is not repeated here.",
+      "validUntil": null,
+      "sourceUrl": "https://coolyecoadventures.com.au/"
+    },
+    {
+      "text": "Gift cards",
+      "conditions": "Valid for 5 years from the purchase date. Vouchers and gift cards cannot be refunded.",
+      "validUntil": null,
+      "sourceUrl": "https://coolyecoadventures.com.au/terms-conditions/"
+    }
+  ],
+  "checkNotes": "All four tours are read from their own pages on the operator's site, and every Book Now button on those pages points to a Rezdy page under coolyecoadventures.rezdy.com; no Rezdy page was opened. Prices are in Australian dollars and include GST where applicable (Terms clause 4.2), and the Terms say the full amount is paid when booking on the website. State and town: all trips leave from Chinderah NSW (contact page and every tour page), but the Terms name a Queensland-based trustee company (LTA Investments Pty Ltd, ABN 71 705 693 549) and Queensland law, and the list says Gold Coast; NSW follows the departure address. The address shown is the departure point, not a postal address. Conflicts: the FAQ page says to see mothers and calves in September or October, while the other pages say late October and November; whale season is May to November on the tour pages and June to November in the FAQ. Copyright: the Terms (Part B, clause 2) say all images, logos and designs are owned by the operator and may not be reused without written authorisation, so get the operator's consent before publishing their photos. The site banner and Terms mention percentages (a flash sale, sighting rates, emission claims) that are not repeated here; the sustainability claims on the site (emissions, hydrogen fuel system) were left out because they are the operator's own unverified figures. No gift card purchase link was found. The award badges are known only from image descriptions on the home page (Sustainability Awards Winner 2025, Best of Queensland Experience 2026, and a Tweed Business Awards logo with no result shown), so check what each one says before using them. Customer review names and quotes on the pages were not used. The contact page form has a CAPTCHA field but every page loaded normally and no bot check was met."
+}

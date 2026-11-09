@@ -1,0 +1,74 @@
+{
+  "slug": "bluefin-fishing-barbados",
+  "logo": "https://static.wixstatic.com/media/a694d9_611ba223263248bf816d12a3fa44e4a9~mv2.png",
+  "gallery": [
+    "https://static.wixstatic.com/media/a694d9_1e1bfa2e3fad43adb6d483c7e5551a5a~mv2_d_4128_3096_s_4_2.jpg",
+    "https://static.wixstatic.com/media/a694d9_d9a4d26ce308419fa92b14d00ad31e03~mv2_d_3920_2204_s_2.jpg",
+    "https://static.wixstatic.com/media/a694d9_f0882683c9b340fc991f7148b916a506~mv2.jpg",
+    "https://static.wixstatic.com/media/a694d9_69f89df6e4c14c1284285f6d16f83cf6.jpg",
+    "https://static.wixstatic.com/media/a694d9_ffe0f6e9249f42048b1af5a208ed4fbd.jpg",
+    "https://static.wixstatic.com/media/a694d9_00f7a5eb66af4940949f80df99f36c23~mv2_d_4000_3000_s_4_2.jpg",
+    "https://static.wixstatic.com/media/a694d9_0cfacabfa6f945149c2ec1e8885862b9~mv2_d_3264_2448_s_4_2.jpg",
+    "https://static.wixstatic.com/media/a694d9_d178122651284e98b974aa0da7d34162.jpg",
+    "https://static.wixstatic.com/media/a694d9_8da7474cc2c0485384842b3648868ed5~mv2_d_3264_2448_s_4_2.jpg",
+    "https://static.wixstatic.com/media/a694d9_db2c48af4eb3479588298df70fa108f2~mv2_d_2258_1533_s_2.jpg",
+    "https://static.wixstatic.com/media/a694d9_d256e188e7ef44a7a41c23034e2f2cfe~mv2.jpg",
+    "https://static.wixstatic.com/media/a694d9_f7d083b7c8224caab3932fa655ed980a~mv2_d_4128_3096_s_4_2.jpg",
+    "https://static.wixstatic.com/media/a694d9_885f305de2874565b27656d553aa1eeb~mv2_d_3264_2448_s_4_2.jpg",
+    "https://static.wixstatic.com/media/a694d9_3fb1b3c95f60493992279e81e342eaa6.jpg",
+    "https://static.wixstatic.com/media/a694d9_75bd92d3166c4399b8581ab7b7706d9c~mv2_d_4128_3096_s_4_2.jpg",
+    "https://static.wixstatic.com/media/a694d9_4cb165f000244288a2a218e9323f92f5~mv2_d_4160_3120_s_4_2.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://video.wixstatic.com/video/a694d9_0b4cab9e7f164aaba604e1640515995f/1080p/mp4/file.mp4",
+      "title": "Fishing with Bluefin Fishing",
+      "sourceUrl": "https://www.bluefinfishingbarbados.com/"
+    },
+    {
+      "url": "https://video.wixstatic.com/video/a694d9_1802d10beb1c4a798364351d20218b8e/1080p/mp4/file.mp4",
+      "title": "Our boats, clip one",
+      "sourceUrl": "https://www.bluefinfishingbarbados.com/our-boats"
+    },
+    {
+      "url": "https://video.wixstatic.com/video/a694d9_1f84b45de22f4ee4b3a7c57bae186990/1080p/mp4/file.mp4",
+      "title": "Our boats, clip two",
+      "sourceUrl": "https://www.bluefinfishingbarbados.com/our-boats"
+    },
+    {
+      "url": "https://video.wixstatic.com/video/a694d9_d500a17f8f58429aa5c2a929062186ab/480p/mp4/file.mp4",
+      "title": "Four hour fishing charter",
+      "sourceUrl": "https://www.bluefinfishingbarbados.com/4-hour-fishing-charter"
+    }
+  ],
+  "trips": [
+    {
+      "title": "3-hour Fishing Special",
+      "images": [
+        "https://static.wixstatic.com/media/a694d9_37e9287a8d654b50aa2fa6a2f5a6e721~mv2_d_1600_1200_s_2.jpeg"
+      ]
+    },
+    {
+      "title": "4-Hour Fishing Charter",
+      "images": []
+    },
+    {
+      "title": "5-hour Fish and Swim Special",
+      "images": [
+        "https://static.wixstatic.com/media/a694d9_37e9287a8d654b50aa2fa6a2f5a6e721~mv2_d_1600_1200_s_2.jpeg",
+        "https://static.wixstatic.com/media/a694d9_d256e188e7ef44a7a41c23034e2f2cfe~mv2.jpg"
+      ]
+    },
+    {
+      "title": "6-Hour Fishing Charter",
+      "images": []
+    },
+    {
+      "title": "8 Hour-Fishing Charter",
+      "images": [
+        "https://static.wixstatic.com/media/a694d9_2feeeadf50ca4c1ebaa10787d48c5b1b~mv2_d_2592_1944_s_2.jpg"
+      ]
+    }
+  ],
+  "notes": "Wix site; photos are on static.wixstatic.com under the operator's own media id (a694d9). Videos are the operator's own Wix-hosted mp4 files with no titles given, so titles are plain descriptions of where they sit. Left out a Wix stock video (11062b_ prefix) and Wix stock icons. The About page gallery of catches has about 40 photos; 16 picked here, others include a694d9_b1970390b9a54d6bbbd3ea9da0808d04, a694d9_290f506cb2e440bda2f6c1d49904d880, a694d9_ef69387a883449248d306e7c0e2629f6, a694d9_5b5d36349fbc4033a185c3e3ef00a646. Logo file is named 'bulgati trans 2.png' on the site; a white version (a694d9_f41a43a92ca244e2acc34da7d6442a38~mv2.png) is on the Our Boats page. Most trip pages have no photo of their own."
+}

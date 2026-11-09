@@ -1,0 +1,62 @@
+{
+  "slug": "bodies-school-of-surf",
+  "logo": "https://www.barbadossos.com/uploads/1/2/6/7/12674244/editor/barbados-sos-logo.jpg",
+  "gallery": [
+    "https://www.barbadossos.com/uploads/1/2/6/7/12674244/background-images/399150601.jpg",
+    "https://www.barbadossos.com/uploads/1/2/6/7/12674244/background-images/325559554.jpg",
+    "https://www.barbadossos.com/uploads/1/2/6/7/12674244/beginner-surfing-lessons-in-barbados.jpg",
+    "https://www.barbadossos.com/uploads/1/2/6/7/12674244/barbados-surfing-lessons-3.jpg",
+    "https://www.barbadossos.com/uploads/1/2/6/7/12674244/bodie-surf-school-barbados-3.jpg",
+    "https://www.barbadossos.com/uploads/1/2/6/7/12674244/barbados-windsurfing-lessons-bodie-school-of-surf.jpg",
+    "https://www.barbadossos.com/uploads/1/2/6/7/12674244/advanced-windsurfing-lessons-barbados-4.jpg",
+    "https://www.barbadossos.com/uploads/1/2/6/7/12674244/learn-windsurfing-in-barbados-4.jpg",
+    "https://www.barbadossos.com/uploads/1/2/6/7/12674244/windsurfing-barbados-lessons.jpg",
+    "https://www.barbadossos.com/uploads/1/2/6/7/12674244/windsurfing-in-barbados-3.jpg",
+    "https://www.barbadossos.com/uploads/1/2/6/7/12674244/windsurfing-in-barbados-4.jpg",
+    "https://www.barbadossos.com/uploads/1/2/6/7/12674244/windsurfing-lessons-barbados-4.jpg",
+    "https://www.barbadossos.com/uploads/1/2/6/7/12674244/bodie-s-school-of-surf-23-orig_orig.jpg",
+    "https://www.barbadossos.com/uploads/1/2/6/7/12674244/bodie-s-school-of-surf-43-orig_orig.jpg",
+    "https://www.barbadossos.com/uploads/1/2/6/7/12674244/surf-school-barbados-1_orig.jpg",
+    "https://www.barbadossos.com/uploads/1/2/6/7/12674244/foil-wing-surfing-barbados-1_orig.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.barbadossos.com/uploads/1/2/6/7/12674244/bodies_school_of_surf_619.mp4",
+      "title": "Bodie's School of Surf",
+      "sourceUrl": "https://www.barbadossos.com/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Surfing Lessons",
+      "images": [
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/surfing-lessons-barbados_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/beginner-surf-lessons-barbados_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/beginner-surf-lessons-in-barbados_orig.png",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/4-year-old-surfer-barbados_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/barbados-school-of-surf-1_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/barbados-surf-school-1-bodie_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/barbados-surf-school-1_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/barbados-surfing-lessons_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/bodie-school-of-surf-1_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/bodie-school-of-surf-2_orig.jpg"
+      ]
+    },
+    {
+      "title": "Windsurfing Lessons",
+      "images": [
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/barbados-windsurfing-lessons_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/6854308_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/4913760_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/5371262_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/rusty-demonstrating-proper_1_orig.jpg",
+        "https://www.barbadossos.com/uploads/1/2/6/7/12674244/8647967_orig.jpg"
+      ]
+    },
+    {
+      "title": "Windsurfing Rentals",
+      "images": []
+    }
+  ],
+  "notes": "Logo is only served as a small JPG. The video is a self-hosted MP4 (about 53 MB) on the home page. The wing foil photo in the gallery is a home page tile; wing surfing lessons are referred to another instructor. The windsurf rentals section has no photos of its own. The Read Reviews page links to TripAdvisor, not opened."
+}

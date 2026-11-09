@@ -1,0 +1,293 @@
+{
+  "slug": "blue-dolphin-marine-tours",
+  "name": "Blue Dolphin Marine Tours",
+  "website": "https://bluedolphintours.com.au",
+  "rezdyAlias": "bluedolphintours",
+  "state": "QLD",
+  "town": "Hervey Bay",
+  "category": "Whale and dolphin sailing",
+  "summary": "Blue Dolphin Marine Tours is a family-run business sailing an 11.6m catamaran out of Urangan in Hervey Bay. It runs full-day whale watching from July to October, half-day dolphin trips and sunset sails for the rest of the year, and private charters. Numbers are kept to around 24 and the skipper gives the commentary himself.",
+  "standouts": [
+    "ECO Certified (Ecotourism) by Ecotourism Australia",
+    "Maximum of 24 passengers on an 11.6m sailing catamaran",
+    "Skipper Peter Lynch has over 40 years experience with marine mammals",
+    "Family owned and operated"
+  ],
+  "contact": {
+    "phone": "+61 7 4124 9600",
+    "email": "info@bluedolphintours.com.au",
+    "address": "Berth B5 Great Sandy Straits Marina, Buccaneer Drive, Urangan, Hervey Bay 4655, Queensland, Australia"
+  },
+  "heroImage": "https://www.bluedolphintours.com.au/wp-content/uploads/dolphins-1.jpg",
+  "sourceUrls": [
+    "https://bluedolphintours.com.au",
+    "https://www.bluedolphintours.com.au/sitemap.xml",
+    "https://www.bluedolphintours.com.au/tours/",
+    "https://www.bluedolphintours.com.au/tours/whale-watching-tours-hervey-bay/",
+    "https://www.bluedolphintours.com.au/tours/dolphinecoadventure/",
+    "https://www.bluedolphintours.com.au/tours/champagne-sunset-sail/",
+    "https://www.bluedolphintours.com.au/tours/private-sailing-charters/",
+    "https://www.bluedolphintours.com.au/tours/kgari-exclusive-tours/",
+    "https://www.bluedolphintours.com.au/tours/gift-vouchers/",
+    "https://www.bluedolphintours.com.au/news/gift-vouchers/",
+    "https://www.bluedolphintours.com.au/faqs/",
+    "https://www.bluedolphintours.com.au/about/",
+    "https://www.bluedolphintours.com.au/about/our-boat/",
+    "https://www.bluedolphintours.com.au/about/ecotourism-accreditation/",
+    "https://www.bluedolphintours.com.au/contact/",
+    "https://www.bluedolphintours.com.au/wp-content/uploads/Blue-Dolphin-Offpeack-Brochure.pdf"
+  ],
+  "trips": [
+    {
+      "title": "Exclusive Whale Watching Encounter",
+      "kind": "cruise",
+      "summary": "A full day on the water in Hervey Bay during humpback whale season, on a sailing catamaran with no more than 24 guests. The skipper takes the boat to where the whales are resting and playing, and a hydrophone lets you hear them sing. Morning tea, a buffet lunch, a drink and pick-up from your accommodation are included.",
+      "highlights": [
+        "Full day on the water, giving more time with the whales",
+        "Hydrophone on board to listen to the whales",
+        "In-water platform for an opportunistic whale immersion at no extra cost, weather and whales permitting",
+        "Courtesy pick-up and drop-off from your accommodation"
+      ],
+      "duration": "Full day",
+      "durationMinutes": null,
+      "departureTimes": ["07:30"],
+      "season": "July to October 2026",
+      "departsFrom": "Great Sandy Straits Marina, Urangan, Hervey Bay",
+      "prices": [
+        { "label": "Adult", "amount": 210, "currency": "AUD", "note": null },
+        { "label": "Child (8 - 14 years)", "amount": 170, "currency": "AUD", "note": null },
+        { "label": "Family: 2 adults + 2 children (over 8yrs old)", "amount": 700, "currency": "AUD", "note": null },
+        { "label": "Family: 2 adults + 3 children (over 8yrs old)", "amount": 810, "currency": "AUD", "note": null },
+        { "label": "Extra children in family", "amount": 110, "currency": "AUD", "note": "Each" },
+        { "label": "Private Charter", "amount": null, "currency": "AUD", "note": "Contact us directly for pricing" }
+      ],
+      "priceFrom": 210,
+      "includes": [
+        "Expert commentary with over 39 years experience with marine mammals",
+        "Multi award winning sail vessel",
+        "Morning and afternoon tea",
+        "Full buffet lunch",
+        "Complimentary beverage (beer, wine or soft drink)",
+        "Courtesy pick-up and drop-off from your accommodation",
+        "Free WiFi on board"
+      ],
+      "bring": [
+        "Camera",
+        "Hat with a wide brim",
+        "Sunglasses",
+        "Jacket",
+        "Sensible non-slip shoes (please avoid black soled shoes)"
+      ],
+      "requirements": "Best suited for children aged 8 years and above. Arrive 15 minutes before departure. Non-smoking, non-vaping vessel.",
+      "offer": null,
+      "images": [
+        "https://www.bluedolphintours.com.au/wp-content/uploads/Exclusive-Whale-Encounters.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-whale-watching-tours-humpback-whale-belly.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/blue-dolphin-tours-hervey-bay-whale-watching-tours.jpg"
+      ],
+      "bookingLinks": [
+        "https://bluedolphintours.rezdy.com/calendarWidget/2633?iframe=true&targetFrame=_new_modal"
+      ],
+      "sourceUrl": "https://www.bluedolphintours.com.au/tours/whale-watching-tours-hervey-bay/",
+      "checkNotes": "The page heading says July - October 2026, but the price table says 'Prices valid for the 2025 whale season'; confirm 2026 prices with the operator. Itinerary times (arrive 7:00am, depart 7:30am, back about 3:30pm) are marked approximate, so durationMinutes is null. Experience is stated as 'over 39 years' in the inclusions and 'over 40 years' elsewhere on the same page. In-water platform detail comes from the FAQ page. Group prices for 6 or more people on request."
+    },
+    {
+      "title": "Dolphin Eco Adventure",
+      "kind": "cruise",
+      "summary": "A morning sail across the Great Sandy Strait to find wild bottlenose and Australian humpback dolphins along the south-west coast of K'gari. Turtles, dugongs and seabirds are often seen too. In summer, weather permitting, there is time to swim off a sand bank, ride the aqua mat or try the boom net.",
+      "highlights": [
+        "Bottlenose and Australian humpback dolphins along the Great Sandy Strait",
+        "Swim, AquaMat or boom net at Pelican Banks or Moon Point, K'gari, weather permitting",
+        "Morning tea and a fruit platter on the way back",
+        "Maximum of 24 passengers"
+      ],
+      "duration": "Half day, approximately four hours",
+      "durationMinutes": 240,
+      "departureTimes": ["08:30"],
+      "season": "November to July",
+      "departsFrom": "Great Sandy Straits Marina, Urangan, Hervey Bay",
+      "prices": [
+        { "label": "Adult", "amount": 120, "currency": "AUD", "note": null },
+        { "label": "Child (4 - 14 years)", "amount": 80, "currency": "AUD", "note": null },
+        { "label": "Family: 2 Adults + 2 Children", "amount": 350, "currency": "AUD", "note": null },
+        { "label": "Family: 2 Adults + 3 Children", "amount": 420, "currency": "AUD", "note": null },
+        { "label": "Infant (0-4yrs)", "amount": 0, "currency": "AUD", "note": "Free" },
+        { "label": "Per Person Group Rate 8-12 pax", "amount": null, "currency": "AUD", "note": "Contact us" },
+        { "label": "Per Person Group Rate 13-19 pax", "amount": null, "currency": "AUD", "note": "Contact us" },
+        { "label": "Private Charters", "amount": 1800, "currency": "AUD", "note": "Starting at" }
+      ],
+      "priceFrom": 120,
+      "includes": [
+        "Expert commentary with over 40 years experience with marine mammals",
+        "Multi award winning sail vessel",
+        "Morning tea",
+        "Free WiFi on board"
+      ],
+      "bring": [
+        "Camera",
+        "Hat with a wide brim",
+        "Sunglasses",
+        "Jacket",
+        "Sensible non-slip shoes (please avoid black soled shoes)"
+      ],
+      "requirements": "Arrive 15 minutes before departure. Non-smoking, non-vaping vessel.",
+      "offer": null,
+      "images": [
+        "https://www.bluedolphintours.com.au/wp-content/uploads/dolphin-watching-tours-hervey-bay-header.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-dolphin-watching-tours-dolphins-up-close.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-tours-fraser-island-kgari-eco-sailing-adventure-drone-view.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/fraser-island-tours-boom-netting@2x.jpg"
+      ],
+      "bookingLinks": [
+        "https://bluedolphintours.rezdy.com/calendarWidget/2630?iframe=true&targetFrame=_new_modal"
+      ],
+      "sourceUrl": "https://www.bluedolphintours.com.au/tours/dolphinecoadventure/",
+      "checkNotes": "Prices are labelled 'Prices valid 2025'. Season shown as November - July in the heading, but the body text says 'late October to very early July'. The homepage and menu also call this tour the 'K'gari (Fraser Island) Dolphin Sailing Adventure' and 'Eco-Sailing Adventure'. Itinerary times (depart 8:30am, back about 12:30pm) are approximate. The page states a dolphin success rate as a percentage; not used. Group prices for 6 or more people on request."
+    },
+    {
+      "title": "Champagne Sunset Sail",
+      "kind": "sail",
+      "summary": "A 90-minute evening sail on the Great Sandy Strait with views across Hervey Bay to K'gari as the sun goes down. Canapes, finger food and drinks are included. It runs from November to June.",
+      "highlights": [
+        "90 minutes on the water at sunset",
+        "Canapes and finger food",
+        "Beer, sparkling wine, wine, cider or soft drink included",
+        "Maximum of 24 passengers"
+      ],
+      "duration": "90 minutes",
+      "durationMinutes": 90,
+      "departureTimes": ["17:15", "16:00"],
+      "season": "November to June",
+      "departsFrom": "Great Sandy Straits Marina, Urangan, Hervey Bay",
+      "prices": [
+        { "label": "Adult", "amount": 100, "currency": "AUD", "note": null },
+        { "label": "Child (4 - 17 years)", "amount": 60, "currency": "AUD", "note": null },
+        { "label": "Infant (0-4yrs)", "amount": 0, "currency": "AUD", "note": "Free" },
+        { "label": "Family (2 Adults + 2 Children)", "amount": 260, "currency": "AUD", "note": null },
+        { "label": "Family (2 Adults + 3 Children)", "amount": 300, "currency": "AUD", "note": null },
+        { "label": "Private Charters", "amount": 1500, "currency": "AUD", "note": "Starting at" },
+        { "label": "Group Pricing", "amount": null, "currency": "AUD", "note": "Group Pricing Available" }
+      ],
+      "priceFrom": 100,
+      "includes": [
+        "Multi award winning sail vessel",
+        "Canapes and finger food",
+        "Complimentary beverages (beer, sparkling wine, wine, cider or soft drink)",
+        "Free WiFi on board"
+      ],
+      "bring": [
+        "Camera",
+        "Jacket",
+        "Sensible non-slip shoes (please avoid black soled shoes)"
+      ],
+      "requirements": "Arrive 15 minutes before departure. Non-smoking, non-vaping vessel.",
+      "offer": null,
+      "images": [
+        "https://www.bluedolphintours.com.au/wp-content/uploads/champagne-sunset-cruise-hervey-bay-header.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-tours-champagne-sunset-sail-red-sky.jpg"
+      ],
+      "bookingLinks": [
+        "https://bluedolphintours.rezdy.com/calendarWidget/2629?iframe=true&targetFrame=_new_modal"
+      ],
+      "sourceUrl": "https://www.bluedolphintours.com.au/tours/champagne-sunset-sail/",
+      "checkNotes": "Departure is 5:15 pm in summer and 4:00 pm in winter per the tour page; the off-peak PDF brochure says 4:30pm in winter. Used the tour page. Prices are labelled 'Prices valid for the 2025 season'."
+    },
+    {
+      "title": "Private Sailing Charters",
+      "kind": "charter",
+      "summary": "Exclusive use of the sailing catamaran for birthdays, weddings, staff parties, conferences and other events. The boat is surveyed for up to 30 passengers and works best for groups of 10 or more. Meals can be arranged for most dietary needs.",
+      "highlights": [
+        "Up to 30 passengers, ideal group size 10 or more",
+        "Fully licensed, with meals on request",
+        "In-water platform and hydrophone on board",
+        "Available all year round"
+      ],
+      "duration": "Various",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "All year round",
+      "departsFrom": "Great Sandy Straits Marina, Urangan, Hervey Bay",
+      "prices": [
+        { "label": "Private charter (sunset sail)", "amount": 1500, "currency": "AUD", "note": "Starting at; shown on the Champagne Sunset Sail page, not the charter page" },
+        { "label": "Private charter (dolphin eco adventure)", "amount": 1800, "currency": "AUD", "note": "Starting at; shown on the Dolphin Eco Adventure page, not the charter page" },
+        { "label": "Private charter (whale season)", "amount": null, "currency": "AUD", "note": "Contact us directly for pricing; from the whale watching page" }
+      ],
+      "priceFrom": 1500,
+      "includes": [
+        "Expert commentary with over 40 years experience with marine mammals",
+        "Multi award winning sail vessel",
+        "Free WiFi on board",
+        "240v power"
+      ],
+      "bring": [
+        "Camera",
+        "Hat with a wide brim",
+        "Sunglasses",
+        "Jacket",
+        "Sensible non-slip shoes (please avoid black soled shoes)"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.bluedolphintours.com.au/wp-content/uploads/private-sailing-charter-venue-hervey-bay-header.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-tours-private-sailing-catamaran-ocean.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/boat.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.bluedolphintours.com.au/tours/private-sailing-charters/",
+      "checkNotes": "The charter page itself shows no prices and asks you to contact the operator. The 'starting at' figures come from the sunset sail and dolphin tour pages. priceFrom is a whole-boat price, not per person. No charter-specific booking link on the page."
+    },
+    {
+      "title": "K'gari (formerly Fraser Island) Exclusive Tours",
+      "kind": "tour",
+      "summary": "A two-day package that pairs a one-day 4WD tour of K'gari with a whale watching or dolphin cruise. Choose a 17-seat bus, a 6-seat Landcruiser or a 4-seat Discovery tour. Stops include Central Station rainforest, Lake McKenzie, 75 Mile Beach, Eli Creek, the Coloured Sands and the Maheno shipwreck.",
+      "highlights": [
+        "One-day K'gari tour combined with a whale watching or dolphin cruise",
+        "Three options: 17 seat bus, 6 seat Landcruiser or 4 seat Discovery",
+        "Central Station rainforest, Lake McKenzie, 75 Mile Beach, Eli Creek, the Coloured Sands, the Maheno shipwreck",
+        "Departs Hervey Bay every day except 25 and 26 December"
+      ],
+      "duration": "2 Day Packages",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "All year round",
+      "departsFrom": "Hervey Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.bluedolphintours.com.au/wp-content/uploads/blue-dolphin-tours-hervey-bay-fraser-island-tours.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/PILEVALLEY.jpg"
+      ],
+      "bookingLinks": [
+        "https://bluedolphintours.rezdy.com/calendarWidget/7120?iframe=true&targetFrame=_new_modal"
+      ],
+      "sourceUrl": "https://www.bluedolphintours.com.au/tours/kgari-exclusive-tours/",
+      "checkNotes": "No prices on the page ('Package price varies', 'Contact us for full package details'). Departure time shown as 'Not Available'. The site does not say who runs the K'gari land tour; the footer calls it 'K'gari (Fraser Island) Hummer Tours' while the page describes Landrover Discovery, Landcruiser and bus options, and says both 'maximum of 4 guests per tour' and a 17 seat bus option. Package availability presumably depends on whether whale or dolphin season is running; not stated."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers for whale watching, dolphin watching and champagne sunset tours",
+      "conditions": "Contact the operator for details",
+      "validUntil": null,
+      "sourceUrl": "https://www.bluedolphintours.com.au/news/gift-vouchers/"
+    },
+    {
+      "text": "Group prices for 6 or more people",
+      "conditions": "Contact the operator for details",
+      "validUntil": null,
+      "sourceUrl": "https://www.bluedolphintours.com.au/tours/whale-watching-tours-hervey-bay/"
+    },
+    {
+      "text": "Free Fraser Coast visitor guide with coupon codes",
+      "conditions": "Sign up with first name and email on the website",
+      "validUntil": null,
+      "sourceUrl": "https://bluedolphintours.com.au"
+    }
+  ],
+  "checkNotes": "All tour price tables are labelled 2025 while the whale season is advertised for 2026. The gift voucher page in the sitemap (/tours/gift-vouchers/) returns 'page does not exist'; the only voucher mention is a March 2024 blog post. Skipper experience is stated as over 35 years (homepage), over 39 years (whale inclusions) and over 40 years (about and tour pages); standouts use the about page. The boat is surveyed for 30 but scheduled tours are limited to around 24. Eco certification level read from the logo image on the accreditation page ('ECO Certified Ecotourism'); the text does not name the level. The site header also links to the general Rezdy store https://bluedolphintours.rezdy.com/ (not opened)."
+}

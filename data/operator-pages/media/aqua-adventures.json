@@ -1,0 +1,143 @@
+{
+  "slug": "aqua-adventures",
+  "logo": "https://aquaadventures.com.au/wp-content/uploads/2025/11/Aqua-Adventures-Logo-2025-02.png",
+  "heroImage": "https://aquaadventures.com.au/wp-content/uploads/2021/02/swim-with-whales-gold-coast-1.jpg",
+  "gallery": [
+    "https://aquaadventures.com.au/wp-content/uploads/2021/02/swim-with-whales-gold-coast-1.jpg",
+    "https://aquaadventures.com.au/wp-content/uploads/2023/11/19-aqua-adventures-gold-coast-australia.jpg",
+    "https://aquaadventures.com.au/wp-content/uploads/2025/09/DJI_20250525105332_0487_D-2.jpg",
+    "https://aquaadventures.com.au/wp-content/uploads/2023/06/BigBlue1.jpg",
+    "https://aquaadventures.com.au/wp-content/uploads/2022/03/cruise-5-aqua-adventures-gold-coast-australia.jpg",
+    "https://aquaadventures.com.au/wp-content/uploads/2022/03/cruise-4-aqua-adventures-gold-coast-australia.jpg",
+    "https://aquaadventures.com.au/wp-content/uploads/2022/03/cruise-6-aqua-adventures-gold-coast-australia.jpg",
+    "https://aquaadventures.com.au/wp-content/uploads/2022/03/cruise-8-aqua-adventures-gold-coast-australia.jpg",
+    "https://aquaadventures.com.au/wp-content/uploads/2023/10/6-sea-the-gold-coast-tours-australia-1024x640-2.jpg",
+    "https://aquaadventures.com.au/wp-content/uploads/2023/10/5-sea-the-gold-coast-tours-australia-1024x606-2.jpg",
+    "https://aquaadventures.com.au/wp-content/uploads/2023/10/broadwater-north-1024x576-2.jpg",
+    "https://aquaadventures.com.au/wp-content/uploads/2023/10/img_6548-1024x663-1.jpg",
+    "https://aquaadventures.com.au/wp-content/uploads/2022/03/dive-6-aqua-adventures-gold-coast-australia.jpg",
+    "https://aquaadventures.com.au/wp-content/uploads/2023/11/18-aqua-adventures-gold-coast-australia.jpg",
+    "https://aquaadventures.com.au/wp-content/uploads/2023/11/20-aqua-adventures-gold-coast-australia.jpg",
+    "https://aquaadventures.com.au/wp-content/uploads/2022/03/marina-a-aqua-adventures-gold-coast-australia.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=fGNn-7Zwh5M",
+      "title": "Swimming with whales on the Gold Coast",
+      "sourceUrl": "https://aquaadventures.com.au/whale-watching-gold-coast/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7EdWAQhZm_U",
+      "title": "Swimming with whales",
+      "sourceUrl": "https://www.youtube.com/channel/UCGrIZUwvemXGISAJ8uyPezw"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0-NNQx6Pchs",
+      "title": "Boutique whale watching on the Gold Coast",
+      "sourceUrl": "https://www.youtube.com/channel/UCGrIZUwvemXGISAJ8uyPezw"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=a2B2M8XTIOk",
+      "title": "Whale watching small boat tours",
+      "sourceUrl": "https://www.youtube.com/channel/UCGrIZUwvemXGISAJ8uyPezw"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=666oKL13nlg",
+      "title": "Discover scuba diving with Aqua Adventures",
+      "sourceUrl": "https://www.youtube.com/channel/UCGrIZUwvemXGISAJ8uyPezw"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3w7uAUH4GbU",
+      "title": "About Aqua Adventures",
+      "sourceUrl": "https://www.youtube.com/channel/UCGrIZUwvemXGISAJ8uyPezw"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Boutique Whale Watching Tour",
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/elementor/thumbs/IMG_9001_lg-q6wvj99idrthx1jj313ltb59bs2rn2affgieozrhag.jpg"
+      ]
+    },
+    {
+      "title": "Swim with Whales",
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2021/02/swim-with-whales-gold-coast-1.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2023/11/19-aqua-adventures-gold-coast-australia.jpg"
+      ]
+    },
+    {
+      "title": "Private Charter",
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/cruise-5-aqua-adventures-gold-coast-australia.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/cruise-4-aqua-adventures-gold-coast-australia.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2021/02/swim-with-whales-gold-coast-1.jpg"
+      ]
+    },
+    {
+      "title": "South Stradbroke Island Eco Cruise",
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2025/09/DJI_20250525105332_0487_D-2.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2023/10/img_6548-1024x663-1.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2023/10/6-sea-the-gold-coast-tours-australia-1024x640-2.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2023/10/5-sea-the-gold-coast-tours-australia-1024x606-2.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2023/10/broadwater-north-1024x576-2.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2023/10/img_4687-1.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2023/10/img_1614-1024x811-2.jpg"
+      ]
+    },
+    {
+      "title": "Swim with Turtles",
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2023/10/broadwater-north-1024x576-2.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2023/10/img_4687-1.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2023/10/img_1614-1024x811-2.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2023/10/6-sea-the-gold-coast-tours-australia-1024x640-2.jpg"
+      ]
+    },
+    {
+      "title": "Wave Break Island Snorkel Tour",
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/dive-6-aqua-adventures-gold-coast-australia.jpg"
+      ]
+    },
+    {
+      "title": "Wave Break Island Dive",
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/dive-intro-2-aqua-adventures-gold-coast-australia.jpg"
+      ]
+    },
+    {
+      "title": "Wave Break Island Guided Fun Dive",
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/dive-cert-2-aqua-adventures-gold-coast-australia.jpg"
+      ]
+    },
+    {
+      "title": "Scottish Prince Wreck Dive",
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/sp-1.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/dive-cert-2-aqua-adventures-gold-coast-australia.jpg"
+      ]
+    },
+    {
+      "title": "Gold Coast Seaway Boat Drift Dive",
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/dive-cert-2-aqua-adventures-gold-coast-australia.jpg"
+      ]
+    },
+    {
+      "title": "Offshore Reef & Wreck Dive",
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/dive-cert-2-aqua-adventures-gold-coast-australia.jpg"
+      ]
+    },
+    {
+      "title": "Bubblemaker Kids Dive Course",
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/dive-kids-2-aqua-adventures-gold-coast-australia.jpg"
+      ]
+    }
+  ],
+  "notes": "Logo is the header logo (class logo-dark) in the 2025 PNG set; the header also serves a light version, Aqua-Adventures-Logo-2025-03-04.png, and the site's schema logo is an older SVG, aqua-adventures-logo.svg. Hero: the homepage banner is AQUA_BRANDGUIDES_00-29-scaled.png, a 2560 by 540 brand graphic, so it was left out; the hero chosen is swim-with-whales-gold-coast-1.jpg, picked from its file name, the operator's whale pages and its wide shape (original served at 937 by 550 and 1024 by 601). It was not viewed, so a person should check it shows real whale or guest scenes. Gallery leads with whale swim and whale tour photos, then boats and Broadwater scenes from the Aqua Cruise (formerly Sea the Gold Coast) pages, then dive and marina photos. All are files with the operator's own naming (for example 19-aqua-adventures-gold-coast-australia.jpg). None was viewed. Videos: seven videos are on the YouTube channel the site links to (Aqua Adventures, UCGrIZUwvemXGISAJ8uyPezw); six are listed. The first, fGNn-7Zwh5M, is also embedded on the whale watching hub page. They are three to five years old, so boats and details may have changed. The seventh, 'Sunrise on the Gold Coast', was left out. Left out and why: the Google reviews photos stored under uploads (file names starting ChIJ-46EcOsPkWsRP0iXpQD-bxY) are customers' review photos, not the operator's; bigstock-humpback-whale-breach-29254409-1.jpg on the boutique whale tour page is a Bigstock stock photo; IMG_3749 on the hub is the card for the Aria Cruises partner trip, a different business; PADI-style course images (aware-fish-id, open-water-diver_0, coral-reef-conservation-diver_0, Sidemount, bubble-maker, padi-scuba-diver_0, discover-scuba-diving_0, divemaster, assistant-instructor-development_0, wreck-diver) look like PADI's own course artwork rather than the operator's photos; banners and graphics: AQUA_BRANDGUIDES_00-29-scaled.png, Slide2.png (a slide graphic on the Dive and Snorkel tile), PADI-5-STAR.png and TC_Badge.png (badges), the wave divider PNGs, dive-drift-2-logo-aqua-adventures-gold-coast-australia.jpg (the site's share image, name suggests a logo overlay), SWIM-WATCH-*.jpg (hub charter card, possibly a comparison graphic) and the Whale-Watching-vs.-Whale-Swimming thumbnail; 241214355_10159311487835629_2129126003745952334_n.jpeg and 154554542_116473270428981_4471975450084947529_n-1.jpg have Facebook style file names, so their ownership is unclear; the first is the Motorised Watersports tile and the second is on the eco cruise page. Per trip photos: most trip pages carry only a header image or a PADI image. Where a trip page had no usable photo, the section header (dive-intro-2, dive-cert-2, dive-kids-2) is listed and is not specific to the trip. The Eco Cruise page photos are not labelled by trip, so the Swim with Turtles list reuses some of them. The boutique whale tour has only the card image from the hub because its own page carries a stock photo. The images list entries from /elementor/thumbs/ are resized card copies and may be small. Original full-size files were not tested. No bot check was met."
+}

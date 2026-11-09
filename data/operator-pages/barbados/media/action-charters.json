@@ -1,0 +1,50 @@
+{
+  "slug": "action-charters",
+  "logo": null,
+  "heroImage": "https://actioncharters.org/images/cover/01.jpg",
+  "gallery": [
+    "https://actioncharters.org/images/cover/01.jpg",
+    "https://actioncharters.org/images/cover/02.jpg",
+    "https://actioncharters.org/images/cover/03.jpg",
+    "https://actioncharters.org/images/cover/04.jpg",
+    "https://actioncharters.org/images/cover/05.jpg",
+    "https://actioncharters.org/images/cover/06.jpg",
+    "https://actioncharters.org/images/cover/07.jpg",
+    "https://actioncharters.org/images/content/stiletto_supercats.jpg",
+    "https://actioncharters.org/images/content/graham_daughters.jpg",
+    "https://actioncharters.org/images/content/swimming-turtles-bajan-buffet.jpg",
+    "https://actioncharters.org/images/content/stiletto_supercats2.jpg",
+    "https://actioncharters.org/images/photos/16.jpg",
+    "https://actioncharters.org/images/photos/15.jpg",
+    "https://actioncharters.org/images/photos/14.jpg",
+    "https://actioncharters.org/images/photos/13.jpg",
+    "https://actioncharters.org/images/photos/12.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "5 Hour Turtle-Snorkel-Lunch Cruise",
+      "images": [
+        "https://actioncharters.org/images/content/snorkel_turtle.jpg",
+        "https://actioncharters.org/images/content/swimming-turtles-bajan-buffet.jpg"
+      ]
+    },
+    {
+      "title": "3 Hour Turtle-Snorkel Cruise",
+      "images": [
+        "https://actioncharters.org/images/content/stiletto_carlisle_bay.jpg"
+      ]
+    },
+    {
+      "title": "3 Hour Sunset Cruise",
+      "images": []
+    },
+    {
+      "title": "Private Charters",
+      "images": [
+        "https://actioncharters.org/images/content/stiletto.jpg"
+      ]
+    }
+  ],
+  "notes": "No separate logo file: the header is a 980x262 banner (https://actioncharters.org/images/header.png) with the alt text 'Sail Barbados aboard our Catamarans Stiletto and Supercats', so logo is null. The photos page has 16 photos at /images/photos/01.jpg to 16.jpg; only five are in the gallery to stay within 16. All trips share one page, so trip photos are the ones placed beside each cruise. No YouTube, Vimeo or hosted videos found."
+}

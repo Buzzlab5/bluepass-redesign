@@ -1,0 +1,248 @@
+{
+  "slug": "horizon-boat-tours-barbados",
+  "name": "Horizon Boat Tours Barbados",
+  "website": "https://www.horizonboattoursbarbados.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Holetown",
+  "category": "Glass-bottom boat snorkel tours",
+  "summary": "A glass-bottom boat running two-hour snorkel trips along the west coast near Holetown. Trips stop with the hawksbill turtles, over the shipwreck in Folkestone Marine Reserve and, when they are around, with stingrays. The boat can pick you up from the beach in front of a west coast hotel or villa.",
+  "standouts": [
+    "Glass-bottom boat with a water slide and dive platform",
+    "Pick-up by boat from the beach side of west coast hotels",
+    "Drinks, snacks and snorkel gear included on every tour"
+  ],
+  "contact": {
+    "phone": "+1 246 257 6527",
+    "email": "horizongbb@hotmail.com",
+    "address": "Holetown, Saint James, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/12/barbados-boat-tours.jpg",
+  "sourceUrls": [
+    "https://www.horizonboattoursbarbados.com/",
+    "https://www.horizonboattoursbarbados.com/tours/",
+    "https://www.horizonboattoursbarbados.com/booking/morning-tours/",
+    "https://www.horizonboattoursbarbados.com/booking/afternoon-tours/",
+    "https://www.horizonboattoursbarbados.com/booking/sunset-tours/",
+    "https://www.horizonboattoursbarbados.com/booking/late-afternoon-tours/",
+    "https://www.horizonboattoursbarbados.com/booking/private-charters/",
+    "https://www.horizonboattoursbarbados.com/about/",
+    "https://www.horizonboattoursbarbados.com/contact/",
+    "https://www.horizonboattoursbarbados.com/terms-conditions/",
+    "https://www.horizonboattoursbarbados.com/gallery/"
+  ],
+  "trips": [
+    {
+      "title": "MORNING TOURS",
+      "kind": "snorkel",
+      "summary": "A morning trip along the west coast on the glass-bottom boat. The first stop is with the hawksbill turtles, the second is a snorkel over the shipwreck in Folkestone Marine Reserve. A third stop is added when stingrays and tarpons are around.",
+      "highlights": [
+        "Turtle stop and a snorkel over the Folkestone Marine Reserve shipwreck",
+        "Third stop when stingrays and tarpons are around",
+        "Pick-up from Folkstone Marine Park or a west coast beach",
+        "Max Guests 25"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": ["10:00"],
+      "season": null,
+      "departsFrom": "Folkstone Marine Park & Visitor Centre, or the beach in front of your west coast hotel or villa",
+      "prices": [
+        { "label": "From", "amount": 60, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 60,
+      "includes": [
+        "Rum punch, beers, soft drinks and bottled water",
+        "Snacks",
+        "Music onboard",
+        "Life jackets and snorkeling equipment"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/2.webp",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/70319929_1234403520065315_2648586308582113280_n.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/340096763_1442813426255379_6309441445830908707_n-1.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/60724126_1145419965630338_7533495980054806528_n.jpg"
+      ],
+      "bookingLinks": ["https://www.horizonboattoursbarbados.com/booking/morning-tours/"],
+      "sourceUrl": "https://www.horizonboattoursbarbados.com/booking/morning-tours/",
+      "checkNotes": "Advertises turtle feeding. Also advertises feeding fish over the wreck. Currency not stated, shown as $. The page text says the tour runs between 10 and 12, but the booking widget's only time slot is 09:00. The widget data also carries a second guest rate of 45 with no label shown on the page; not recorded. No ground transport; the page says they can arrange it. The page also says to WhatsApp or call +1 246 257 6527 to book."
+    },
+    {
+      "title": "AFTERNOON TOURS",
+      "kind": "snorkel",
+      "summary": "An early afternoon trip on the glass-bottom boat along the west coast. You stop with the hawksbill turtles and then snorkel over the shipwreck in Folkestone Marine Reserve. A third stop is added when stingrays and tarpons are around.",
+      "highlights": [
+        "Runs 12:30 to 2:30 pm",
+        "Turtle stop and a snorkel over the Folkestone Marine Reserve shipwreck",
+        "Third stop when stingrays and tarpons are around",
+        "Max Guests 25"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": ["12:30"],
+      "season": null,
+      "departsFrom": "Folkstone Marine Park & Visitor Centre, or the beach in front of your west coast hotel or villa",
+      "prices": [
+        { "label": "From", "amount": 60, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 60,
+      "includes": [
+        "Rum punch, beers, soft drinks and bottled water",
+        "Snacks",
+        "Music onboard",
+        "Life jackets and snorkeling equipment"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/1.webp",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/62091583_1158894970949504_720662428135718912_n.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/340096763_1442813426255379_6309441445830908707_n.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/463440197_2719166081589044_1946733573756556776_n.jpg"
+      ],
+      "bookingLinks": ["https://www.horizonboattoursbarbados.com/booking/afternoon-tours/"],
+      "sourceUrl": "https://www.horizonboattoursbarbados.com/booking/afternoon-tours/",
+      "checkNotes": "Advertises turtle feeding. Also advertises feeding fish over the wreck. Currency not stated, shown as $. The booking widget shows no named time slot. Widget data also carries an unlabelled second guest rate of 45; not recorded. The page also says to WhatsApp or call to book."
+    },
+    {
+      "title": "LATE AFTERNOON TOURS",
+      "kind": "snorkel",
+      "summary": "A later afternoon trip on the glass-bottom boat along the west coast. It follows the same route: the hawksbill turtles, then a snorkel over the shipwreck in Folkestone Marine Reserve, with a third stop when stingrays and tarpons are around.",
+      "highlights": [
+        "Runs 3 to 5 pm",
+        "Turtle stop and a snorkel over the Folkestone Marine Reserve shipwreck",
+        "Third stop when stingrays and tarpons are around",
+        "Max Guests 25"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": ["15:00"],
+      "season": null,
+      "departsFrom": "Folkstone Marine Park & Visitor Centre, or the beach in front of your west coast hotel or villa",
+      "prices": [
+        { "label": "From", "amount": 60, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 60,
+      "includes": [
+        "Life jackets and snorkeling equipment",
+        "Use of slide and dive platform",
+        "Unlimited drinks (rum punch, vodka and rum mixes, soft drinks and bottled water)",
+        "2 to 3 snorkeling stops"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/img2.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/469805722_2771286089710376_5385602877738648842_n-1.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/480292892_1143402551129363_4061819191253463200_n-1.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/480669079_1142791974523754_4003159153715996363_n-1.jpg"
+      ],
+      "bookingLinks": ["https://www.horizonboattoursbarbados.com/booking/late-afternoon-tours/"],
+      "sourceUrl": "https://www.horizonboattoursbarbados.com/booking/late-afternoon-tours/",
+      "checkNotes": "Advertises turtle feeding. Also advertises feeding fish over the wreck. Currency not stated, shown as $. This page's Included section is empty; inclusions are from the home page list 'Included in all tours'. This tour (3 to 5 pm) overlaps with the Sunset Tour (3:30 to 5:30 pm); check whether both still run. Widget data also carries an unlabelled second guest rate of 45; not recorded."
+    },
+    {
+      "title": "SUNSET TOURS",
+      "kind": "snorkel",
+      "summary": "The last trip of the day, with three stops: the hawksbill turtles, the shipwreck in Folkestone Marine Reserve and a stingray site. You head back to your drop-off point as the sun goes down.",
+      "highlights": [
+        "Runs 3:30 to 5:30 pm, sometimes to 6 pm",
+        "Turtle stop of about 35 minutes",
+        "Snorkel above the wreck, about 35 minutes",
+        "Stingray snorkel, about 25 minutes"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": ["15:30"],
+      "season": null,
+      "departsFrom": "Folkstone Marine Park & Visitor Centre, or the beach in front of your west coast hotel or villa",
+      "prices": [
+        { "label": "From", "amount": 60, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 60,
+      "includes": [
+        "Rum punch, beers, soft drinks and bottled water",
+        "Snacks",
+        "Music onboard",
+        "Life jackets and snorkeling equipment"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/22.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/77.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/7.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/777.jpg"
+      ],
+      "bookingLinks": ["https://www.horizonboattoursbarbados.com/booking/sunset-tours/"],
+      "sourceUrl": "https://www.horizonboattoursbarbados.com/booking/sunset-tours/",
+      "checkNotes": "Advertises turtle feeding. Also advertises feeding fish (bread or biscuits) and feeding stingrays. Currency not stated, shown as $. Duration field says 2 hours; the text says 3 stops over 2 to 2 1/2 hours. Widget data also carries an unlabelled second guest rate of 45; not recorded."
+    },
+    {
+      "title": "PRIVATE CHARTERS",
+      "kind": "charter",
+      "summary": "A private trip on the glass-bottom boat, priced by the size of your group rather than the size of the boat. You choose the time, the length (between 2 and 8 hours), the stops and where you go, including a beach or a beach bar stop. The standard private route visits the turtles, the shipwreck and the stingrays.",
+      "highlights": [
+        "Priced by group size, from 1 to 2 people",
+        "Choose your own time slot and length, 2 to 8 hours",
+        "Optional beach stop or beach bar and restaurant stop",
+        "Ask about the after-tour Bajan Beach BBQ"
+      ],
+      "duration": "Between 2-8 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "The beach side of your west coast hotel, guest house or condominium",
+      "prices": [
+        { "label": "Private charter, from", "amount": 250, "currency": "USD", "note": "Priced according to the size of the group" }
+      ],
+      "priceFrom": 250,
+      "includes": [
+        "Rum punch, beers, soft drinks and bottled water",
+        "Snacks",
+        "Music onboard",
+        "Life jackets and snorkeling equipment"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/123.webp",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/59550253_1132655926906742_4066767849543172096_n.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/59599334_1132655980240070_8008062563155705856_n.jpg"
+      ],
+      "bookingLinks": ["https://www.horizonboattoursbarbados.com/booking/private-charters/"],
+      "sourceUrl": "https://www.horizonboattoursbarbados.com/booking/private-charters/",
+      "checkNotes": "Advertises turtle feeding. Also advertises feeding fish and stingrays. Currency not stated, shown as $. The $250 is a per-charter starting price; the page does not say what group size it covers. The duration field says 1 hour, while the text says 2 to 8 hours and '3 stops, 2.5 to 3 hours'; used the text."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Group discounts",
+      "conditions": "Ask the operator",
+      "validUntil": null,
+      "sourceUrl": "https://www.horizonboattoursbarbados.com/"
+    },
+    {
+      "text": "Private after-tour Bajan Beach BBQ",
+      "conditions": "Ask the operator",
+      "validUntil": null,
+      "sourceUrl": "https://www.horizonboattoursbarbados.com/booking/private-charters/"
+    },
+    {
+      "text": "Party cruises, corporate functions and special events, with boat decorating on request",
+      "conditions": "Ask the operator",
+      "validUntil": null,
+      "sourceUrl": "https://www.horizonboattoursbarbados.com/"
+    }
+  ],
+  "checkNotes": "Every tour page has its own booking widget (WordPress plugin BA Book Everything), with dates open to April 2028, but the pages also say to WhatsApp or call +1 246 257 6527 to book. No wa.me link on the site; the WhatsApp number is the main phone. The contact page gives the office as Holetown and a second address, Taylors Gap, The Garden, St. James. The home page lists other tour types with no page or price: fishing trips, private lunch cruise, private breakfast, party cruises; it also uses 'luxury yacht' wording that does not match the single glass-bottom boat described elsewhere. Years in business differ (about page: 19 years and 16 years; home: 20+ years). About page says tours are no more than 15 persons on a 40-person boat, while the booking pages say Max Guests 25. All tours advertise turtle feeding. Site copyright 2026 and uploads from late 2025, so trading."
+}

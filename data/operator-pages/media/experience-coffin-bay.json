@@ -1,0 +1,64 @@
+{
+  "slug": "experience-coffin-bay",
+  "logo": "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/1595470362041-PY35VAFEH2BG4YSAUN1L/Experience+Coffin+Bay+-+Navy+Round+Wave.png",
+  "heroImage": "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/32bad3a2-a86e-4467-9285-40d87ec32246/ExperienceCoffinBay141221-436.jpg",
+  "gallery": [
+    "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/32bad3a2-a86e-4467-9285-40d87ec32246/ExperienceCoffinBay141221-436.jpg",
+    "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/f550be47-a2c6-4bb6-8a54-9a2e54c2c574/20211214-DJI_0609.jpg",
+    "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/7e640b2a-673a-46be-ade7-347ecd871a28/20211214-DJI_0312.jpg",
+    "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/2e3a424d-6ff3-4669-8dbf-67fcf6f23ae8/20211214-DJI_0621.jpg",
+    "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/27586453-6b5e-4ce1-87a1-c837e0a8b23b/RB1-3.jpg",
+    "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/71f91ff1-c5aa-472e-8255-b441ef32bfe8/ECB7.jpg",
+    "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/376bba61-040d-4d55-b07c-0ce45d828c07/ExperienceCoffinBay141221-110.jpg",
+    "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/1660096259139-3BWVUT50IDCDFGHHSIQ4/ExperienceCoffinBay141221-285.jpg",
+    "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/1660097392943-M33QKD7JP6WVMENHCRN8/20211214-DJI_0385.jpg",
+    "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/1660096618891-7XVOOBA2VQ03CG2SPT0P/20211214-DJI_0191.jpg",
+    "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/498818a0-b740-4ea5-a886-7ab07e77090b/20211214-DJI_0179.jpg",
+    "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/cb95c5ae-70b5-429c-b480-be06e3e6eaa0/ExperienceCoffinBay141221-7.jpg",
+    "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/d2445c2c-7d2f-47be-bfbf-b1d26553a4ac/ExperienceCoffinBay141221-97.jpg",
+    "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/1614150424611-T22WGQ5P3AI67VF9ANL2/_DSC9407.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=DcGP2-KhpcE",
+      "title": "Home page background video",
+      "sourceUrl": "https://experiencecoffinbay.com.au/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Farm & Bay Tour",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/7e640b2a-673a-46be-ade7-347ecd871a28/20211214-DJI_0312.jpg",
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/f550be47-a2c6-4bb6-8a54-9a2e54c2c574/20211214-DJI_0609.jpg",
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/2e3a424d-6ff3-4669-8dbf-67fcf6f23ae8/20211214-DJI_0621.jpg",
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/27586453-6b5e-4ce1-87a1-c837e0a8b23b/RB1-3.jpg",
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/71f91ff1-c5aa-472e-8255-b441ef32bfe8/ECB7.jpg",
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/32bad3a2-a86e-4467-9285-40d87ec32246/ExperienceCoffinBay141221-436.jpg"
+      ]
+    },
+    {
+      "title": "Short & Sweet Tour",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/376bba61-040d-4d55-b07c-0ce45d828c07/ExperienceCoffinBay141221-110.jpg",
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/71f91ff1-c5aa-472e-8255-b441ef32bfe8/ECB7.jpg",
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/32bad3a2-a86e-4467-9285-40d87ec32246/ExperienceCoffinBay141221-436.jpg"
+      ]
+    },
+    {
+      "title": "Private Tours",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/376bba61-040d-4d55-b07c-0ce45d828c07/ExperienceCoffinBay141221-110.jpg",
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/498818a0-b740-4ea5-a886-7ab07e77090b/20211214-DJI_0179.jpg"
+      ]
+    },
+    {
+      "title": "Coach Group Bookings",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/cb95c5ae-70b5-429c-b480-be06e3e6eaa0/ExperienceCoffinBay141221-7.jpg",
+        "https://images.squarespace-cdn.com/content/v1/59d429f58419c21463f901bb/d2445c2c-7d2f-47be-bfbf-b1d26553a4ac/ExperienceCoffinBay141221-97.jpg"
+      ]
+    }
+  ],
+  "notes": "Site is Squarespace; no bot check or captcha was hit, about 20 pages read. Logo is the header logo (navy round wave) at its original size, which loads as WebP. Hero is ExperienceCoffinBay141221-436, from the operator's own December 2021 shoot, also used on the Contact page. Gallery and trip photos are the shoot files named ExperienceCoffinBay141221-N and 20211214-DJI_N (drone, 1080 wide), plus RB1-3.jpg and ECB7.jpg from the home page. The Chris and Linda portrait (_DSC9407.jpg) is last in the gallery. Left out on purpose: the five award and membership badge graphics on the home and logos pages (TiCSA, EYR, Sustainable Tourism, TTT Winners); the eight 'image-asset.jpeg' files in the home page slideshow, which are social post graphics with sale text (one alt text mentions a Black Friday voucher sale) and vertical phone clips; the two square tour cards Experience-Coffin-Bay-Farm+Bay-Tour-NEW.jpg and Experience-Coffin-Bay-Short+Sweet-Tour-NEW.jpg (2601 by 2601), which look like designed graphics and could not be viewed; the page header images Web+1-1.jpg, Web+2-1.jpg and Web+7-1.jpg (2048 wide), which are probably plain photos but could not be checked for printed text; Hunter+Gatherer+Day-4.jpg, the home page hero, whose source is unclear; PTK_SEAFOOD-0019.jpg (About Us) and PCBO_web-0006.jpg (Vouchers), whose names suggest another business; the three phone photos of the boat being built in 2020 and a 2018 Tasting Australia screenshot. Video: the only video found is the YouTube background video on the home page hero (DcGP2-KhpcE), recorded as the operator's own because it is part of its home page, but its content and channel were not checked. Left out: the Tasting Australia video on the 2018 blog post (YouTube vYbvAUg8tFY), which the site credits to another videographer and Alliance Airlines. The site links no YouTube or Vimeo channel."
+}

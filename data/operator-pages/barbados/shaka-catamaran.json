@@ -1,0 +1,103 @@
+{
+  "slug": "shaka-catamaran",
+  "name": "Che's Surf and Snorkel",
+  "website": "https://chesurflessonsbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Drill Hall Beach",
+  "category": "Snorkel trips and surf lessons",
+  "summary": "A small, locally owned outfit run by surfer Ché Allan from a shop at Drill Hall Beach. It runs semi private catamaran trips to snorkel with sea turtles and over shipwrecks, and gives surf lessons for beginners and improving surfers.",
+  "standouts": [
+    "Locally owned",
+    "Founder Ché Allan has surfed since age 6 and placed 5th at the WSL world junior championship at 17",
+    "Snorkel guide Che is certified in water rescue",
+    "Small semi private snorkel tour with underwater GoPro photos included"
+  ],
+  "contact": {
+    "phone": "+1 246 253 4834",
+    "email": "Chesurflessons@gmail.com",
+    "address": "Drill Hall Beach",
+    "whatsapp": "https://wa.me/12462534834"
+  },
+  "heroImage": "https://img1.wsimg.com/isteam/ip/e7090de6-8f69-4a2c-bfe1-be5c0103e2d5/GOPR0900.JPG",
+  "sourceUrls": [
+    "https://chesurflessonsbarbados.com/",
+    "https://chesurflessonsbarbados.com/snorkel-with-turtles-2",
+    "https://chesurflessonsbarbados.com/surf-lessons-1",
+    "https://chesurflessonsbarbados.com/sitemap.website.xml"
+  ],
+  "trips": [
+    {
+      "title": "Snorkel with turtles",
+      "kind": "snorkel",
+      "summary": "A small, semi private catamaran trip that picks you up, boards from the beach and heads out to snorkel with sea turtles. The boat then sails to the shipwrecks or a coral reef to see tropical fish, with Che guiding and sharing the history of the wrecks.",
+      "highlights": [
+        "Snorkel with wild sea turtles",
+        "Sail on to the shipwrecks or a coral reef",
+        "Underwater GoPro photos included",
+        "Free transport within the transportation zone"
+      ],
+      "duration": "~3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Per person", "amount": 75, "currency": "USD", "note": "US$75 per person" }
+      ],
+      "priceFrom": 75,
+      "includes": [
+        "Free transportation within transportation zone",
+        "Catamaran",
+        "Underwater GoPro photos",
+        "Snorkel gear",
+        "Life jackets"
+      ],
+      "bring": [],
+      "requirements": "Must be able to swim and climb the boat's boarding ladder",
+      "offer": null,
+      "images": [
+        "https://img1.wsimg.com/isteam/ip/e7090de6-8f69-4a2c-bfe1-be5c0103e2d5/GOPR0900.JPG",
+        "https://img1.wsimg.com/isteam/ip/e7090de6-8f69-4a2c-bfe1-be5c0103e2d5/10b45591-2e47-4da6-832b-65c7aa89cf3d.jpg",
+        "https://img1.wsimg.com/isteam/ip/e7090de6-8f69-4a2c-bfe1-be5c0103e2d5/GOPR0932.jpg",
+        "https://img1.wsimg.com/isteam/ip/e7090de6-8f69-4a2c-bfe1-be5c0103e2d5/IMG_1922.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://chesurflessonsbarbados.com/snorkel-with-turtles-2",
+      "checkNotes": "The 'Click Here to Book' button goes to a Tripadvisor product page (marketplace, not recorded); otherwise WhatsApp or email. Departure beach and times not stated; the site says guests are picked up and board from the beach. The site notes turtles are wild and sightings cannot be guaranteed. No turtle feeding is advertised."
+    },
+    {
+      "title": "Surf Lessons",
+      "kind": "course",
+      "summary": "Surf lessons for all levels, from first waves to coaching for more experienced surfers. Lessons are based at Drill Hall Beach and sometimes move to another break depending on the day's wave report.",
+      "highlights": [
+        "Lessons for all levels",
+        "Run by Ché Allan, a former WSL world junior championship competitor",
+        "Based at Drill Hall Beach, with other breaks used to suit the waves and your level"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Drill Hall Beach",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://img1.wsimg.com/isteam/ip/e7090de6-8f69-4a2c-bfe1-be5c0103e2d5/627DA164-1C90-4BE3-AF1A-54B5D9611BDE.jpeg",
+        "https://img1.wsimg.com/isteam/ip/e7090de6-8f69-4a2c-bfe1-be5c0103e2d5/P1013583.JPG",
+        "https://img1.wsimg.com/isteam/ip/e7090de6-8f69-4a2c-bfe1-be5c0103e2d5/IMG_7446.JPG",
+        "https://img1.wsimg.com/isteam/ip/e7090de6-8f69-4a2c-bfe1-be5c0103e2d5/C3C7F084-3DD7-4183-BDAF-01477B3B5D1D.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://chesurflessonsbarbados.com/surf-lessons-1",
+      "checkNotes": "No price or lesson length on the site. The 'Book Here' button goes to a Tripadvisor attraction page (marketplace, not recorded); otherwise WhatsApp."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "The list names this operator Shaka Catamaran; the site's header and copyright use Che's Surf and Snorkel and Che's Surf Lessons, and only the logo file name says shaka. Phone taken from the site's WhatsApp link (wa.me/12462534834); no separate phone number is shown. Copyright line still reads 2024, but the snorkel page gallery has 2025 images. The site also sells T-shirts at the surf shop for $30USD (not a trip). Home page meta description mentions surf coaching, surf tours, surf guiding and board rentals, but no page describes them, so they are not listed as trips."
+}

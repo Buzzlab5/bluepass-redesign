@@ -1,0 +1,73 @@
+{
+  "slug": "kings-ningaloo-reef-tours",
+  "logo": "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/KINGS-NINGALOO-REEF-TOURS-28.webp",
+  "heroImage": "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/02/KINGS-NINGALOO-REEF-TOURS-9.webp",
+  "gallery": [
+    "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/02/KINGS-NINGALOO-REEF-TOURS-9.webp",
+    "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/KINGS-NINGALOO-REEF-TOURS-29-2.webp",
+    "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/KINGS-NINGALOO-REEF-TOURS-30.webp",
+    "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/KINGS-NINGALOO-REEF-TOURS-31.webp",
+    "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/02/KINGS-NINGALOO-REEF-TOURS-2.webp",
+    "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/02/KINGS-NINGALOO-REEF-TOURS-10.webp",
+    "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/02/KINGS-NINGALOO-REEF-TOURS-11.webp",
+    "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/02/WHALE-SHARK-SWIM-KINGS-NINGALOO-REEF-TOURS-5.webp",
+    "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/02/HUMPBACK-WHALE-SWIM-KINGS-NINGALOO-REEF-TOURS-18.webp",
+    "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/HUMPBACK-WHALE-SWIM-KINGS-NINGALOO-REEF-TOURS-9.webp",
+    "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/02/ECO-SEALIFE-TOURS-KINGS-NINGALOO-REEF-TOURS.webp",
+    "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/HUMPBACK-WHALE-SWIM-KINGS-NINGALOO-REEF-TOURS-15.webp",
+    "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/EXCLUSIVE-CHARTERS-KINGS-NINGALOO-REEF-TOURS-9.webp",
+    "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/02/EXCLUSIVE-CHARTERS-KINGS-NINGALOO-REEF-TOURS-12.webp",
+    "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/OUR-BOAT-KINGS-NINGALOO-REEF-TOURS-4.webp",
+    "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/OUR-CREW-KINGS-NINGALOO-REEF-TOURS-12.webp"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=NhI8Im22RAM",
+      "title": "Ningaloo Reef home page video",
+      "sourceUrl": "https://www.kingsningalooreeftours.com.au/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tKdwpVHwx-Y",
+      "title": "360 degree whale shark swim footage",
+      "sourceUrl": "https://www.kingsningalooreeftours.com.au/tours/whale-shark-swim/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Whale Shark Swim",
+      "images": [
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/02/WHALE-SHARK-SWIM-KINGS-NINGALOO-REEF-TOURS-5.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/KINGS-NINGALOO-REEF-TOURS-29-2.webp"
+      ]
+    },
+    {
+      "title": "Whale Shark & Humpback Whale Eco Sealife Tour",
+      "images": [
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/KINGS-NINGALOO-REEF-TOURS-30.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/02/HUMPBACK-WHALE-SWIM-KINGS-NINGALOO-REEF-TOURS-18.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/HUMPBACK-WHALE-SWIM-KINGS-NINGALOO-REEF-TOURS-9.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/02/ECO-SEALIFE-TOURS-KINGS-NINGALOO-REEF-TOURS.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/HUMPBACK-WHALE-SWIM-KINGS-NINGALOO-REEF-TOURS-15.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/HUMPBACK-WHALE-SWIM-KINGS-NINGALOO-REEF-TOURS-11.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/HUMPBACK-WHALE-SWIM-KINGS-NINGALOO-REEF-TOURS-13.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/HUMPBACK-WHALE-SWIM-KINGS-NINGALOO-REEF-TOURS-12.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/HUMPBACK-WHALE-SWIM-KINGS-NINGALOO-REEF-TOURS-17.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/HUMPBACK-WHALE-SWIM-KINGS-NINGALOO-REEF-TOURS-10.webp"
+      ]
+    },
+    {
+      "title": "Exclusive Charters",
+      "images": [
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/KINGS-NINGALOO-REEF-TOURS-31.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/EXCLUSIVE-CHARTERS-KINGS-NINGALOO-REEF-TOURS-9.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/02/EXCLUSIVE-CHARTERS-KINGS-NINGALOO-REEF-TOURS-12.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/EXCLUSIVE-CHARTERS-KINGS-NINGALOO-REEF-TOURS-10.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/EXCLUSIVE-CHARTERS-KINGS-NINGALOO-REEF-TOURS-11.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/EXCLUSIVE-CHARTERS-KINGS-NINGALOO-REEF-TOURS-6.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/EXCLUSIVE-CHARTERS-KINGS-NINGALOO-REEF-TOURS-7.webp",
+        "https://www.kingsningalooreeftours.com.au/wp-content/uploads/2025/01/EXCLUSIVE-CHARTERS-KINGS-NINGALOO-REEF-TOURS-8.webp"
+      ]
+    }
+  ],
+  "notes": "Logo: the header logo (2025/01/KINGS-NINGALOO-REEF-TOURS-28.webp, a WebP of about 6.5 KB); the mobile logo variant is 2024/03/KINGS-NINGALOO-REEF-TOURS.webp. No bot check was met and the site has no YouTube channel link (footer links go to Facebook, Instagram and TripAdvisor only). No image was downloaded or looked at: photos were picked from the page markup (image tiles and section backgrounds) and each file was only checked with a HEAD request for status and size, so a person should look at the hero and gallery before publishing. heroImage is the largest of the home page section photos; confirm it is a wide landscape photo. Videos: the home page hero is a YouTube background video (NhI8Im22RAM) and the whale shark swim page embeds 360 degree footage (tKdwpVHwx-Y); YouTube was not opened, so ownership and titles are taken from the page context. A third embed on the Whale Shark Research page (YouTube Ft9DdoFF2TU) was left out because it may belong to a research partner. Whale Shark Swim has only one photo on its own page (the section background); the home page card photo for that tour was added after it. The same was done for the other two trips: the first photo in each trip list is its home page card. The Exclusive Charters tiles ending -6, -7 and -8 have identical file sizes to the Our Boat photos ending -4, -5 and -6, so they are the same boat photos reused. Left out as banners, graphics or badges: home page 2024/03/KINGS-NINGALOO-REEF-TOURS-25-1.webp (a 1200 by 62 strip in the hero), -4, 2024/04/-27, 2025/02/-34 (brochure button), 2025/08 and 2025/02/kings-ningaloo-reef-tours-1 (TripAdvisor tiles) and -13, -14-1, -15-1; the small tile that repeats on many pages with the same file size of about 16 KB (home -4, Whale Shark Swim 2024/03 -5, Humpback -6, Exclusive Charters with no number, Our Boat -1), which looks like a decorative graphic; each page's small share image (HUMPBACK-WHALE-SWIM -4, WHALE-SHARK-SWIM -4, EXCLUSIVE-CHARTERS -3 and similar, 6 to 18 KB); the Eco Tourism Australia badges; the 2019 PNG infographics on Passenger Information, What's Included and Our Boat; the Marine Calendar tiles; the Things to Do and Other Activities photos, which may show other businesses; social icons; TripAdvisor reviewer avatars. Photo rights: the 2025 brochure PDF credits its cover photo to Brooke Pyke Photography, who is named in guest reviews as the onboard photographer, while the website photos carry no credit. A person should confirm with the operator that the website photos are theirs to use. Eco Sealife Tour photos also exist on the older /humpback-whale-swim/ page (one extra file, HUMPBACK-WHALE-SWIM -16 and a different background); not added."
+}

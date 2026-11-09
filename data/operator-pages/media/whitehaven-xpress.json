@@ -1,0 +1,58 @@
+{
+  "slug": "whitehaven-xpress",
+  "logo": "https://www.whitehavenexpress.com.au/wp-content/uploads/2021/06/whitehaven-xpress-logo-optimised.png",
+  "heroImage": null,
+  "gallery": [
+    "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/11/whitehaven-beach-aerial-view.jpg",
+    "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/11/driftwood-tree-at-hill-inlet.jpg",
+    "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/12/whitehaven-beach-tour-from-airlie-beach.jpg",
+    "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/07/Go-To-Whitehaven-Beach.jpg",
+    "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/12/airlie-beach-to-hill-inlet.jpg",
+    "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/12/airlie-beach-to-hill-inlet-1.jpg",
+    "https://www.whitehavenexpress.com.au/wp-content/uploads/2019/03/Whitehaven-Xpress-Whitehaven-Beach-Tours.jpg",
+    "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/02/WhitehavenXpress-135.jpg",
+    "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/12/hill-inlet-lookout-whitehaven-xpress.jpg",
+    "https://www.whitehavenexpress.com.au/wp-content/uploads/2021/07/whitehaven-xpress-boat.jpg",
+    "https://www.whitehavenexpress.com.au/wp-content/uploads/2025/09/Crew-on-Whitehaven-Xpress.jpg",
+    "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/12/We-Bring-The-BBQ.jpg",
+    "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/07/whitehaven-xpress-whitehaven-beach.jpeg",
+    "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/12/catch-a-fish-whitehaven.jpg",
+    "https://www.whitehavenexpress.com.au/wp-content/uploads/2020/08/whitehaven-beach-grey-nomads.jpg",
+    "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/07/Captain-Dan-Whitehaven-Xpress.jpeg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=0lCu9zLqjNc",
+      "title": "Go to Whitehaven Beach with Whitehaven Xpress",
+      "sourceUrl": "https://www.youtube.com/channel/UC5z286ej-i1HRUrIhaNXOOQ/videos"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kmVmiXQSXVs",
+      "title": "Whitehaven Beach tour",
+      "sourceUrl": "https://www.youtube.com/channel/UC5z286ej-i1HRUrIhaNXOOQ/videos"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jeXi9SNVyec",
+      "title": "Aerial view of Whitehaven Beach",
+      "sourceUrl": "https://www.youtube.com/channel/UC5z286ej-i1HRUrIhaNXOOQ/videos"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Hill Inlet & Whitehaven Beach Tour from Airlie Beach",
+      "images": [
+        "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/11/whitehaven-beach-aerial-view.jpg",
+        "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/11/driftwood-tree-at-hill-inlet.jpg",
+        "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/12/whitehaven-beach-tour-from-airlie-beach.jpg",
+        "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/07/Go-To-Whitehaven-Beach.jpg",
+        "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/12/airlie-beach-to-hill-inlet.jpg",
+        "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/12/airlie-beach-to-hill-inlet-1.jpg",
+        "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/12/hill-inlet-lookout-whitehaven-xpress.jpg",
+        "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/02/WhitehavenXpress-135.jpg",
+        "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/12/We-Bring-The-BBQ.jpg",
+        "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/07/whitehaven-xpress-whitehaven-beach.jpeg"
+      ]
+    }
+  ],
+  "notes": "The site is a small WordPress (Divi) site with one tour, so every tour photo comes from the home, Whitehaven Beach, Hill Inlet, BBQ and Inclusions pages. All URLs are the original files as printed on the pages (no size suffix). No images were downloaded or opened, so banners could not be checked by eye; choices come from where each file sits on the page, its alt text and its file name, and the importer should measure them. Logo is the full-size original of the header logo (the footer uses a smaller cropped copy). heroImage left null: the facts file uses the home page header photo (whitehaven_hero2_1280.jpg, a 2019 background with the headline typed over it as live text); the aerial photo of Whitehaven Beach and Whitehaven-Xpress-Whitehaven-Beach-Tours.jpg (the site's 1443 by 754 share image) are the other wide candidates. Videos are the three on the YouTube channel the site footer links to (youtube.com/channel/UC5z286ej-i1HRUrIhaNXOOQ); titles are short plain descriptions of each video (the second is titled 'Best Whitehaven Beach Tour!' on the channel). Left out: the QTIC, GBRMPA Eye on the Reef and BOQE logos (badges); whitehaven-xpress-layout.jpg (a diagram of the boat layout); Airlie-Beach-Tours-Whitehaven-Xpress.jpg (the site's metadata lists it as the business logo, so it may carry printed logos or text); Captain-of-Whitehaven-Xpress.png and airlie-beach-day-tours.jpg (crew portraits, the first a PNG that may be a cut-out); nw2614-Whitehaven-beach-tours-bbq-beer-whitehav.jpg (BBQ page photo whose file name starts with what looks like an agency or photographer reference number, so a person should confirm it is the operator's own before it is used); section background files on the BBQ, Hill Inlet, FAQ, Contact and Whitehaven Beach pages (whitehaven-beach-bbq.jpg, whitehaven-xpress-beach-bbq.jpg, swirling-sands-whitehaven-xpress-hill-inlet-footer.jpg, best-day-tour-to-whitehaven-1.jpg, WhitehavenXpress-050-e1648627901781.jpg, Our-Story-Whitehaven-Xpress.jpg, Whitsunday-Island.jpg) because they are page backdrops, not feature photos; the generic Airlie Beach and pet pages' pictures (things-to-do-airlie-beach.jpg, top-things-to-do-airlie-beach.jpg, airlie-beach-pet-friendly.jpeg, pet-01.jpg), which are not photos of the tour; and the stinger-suit YouTube video linked from the FAQ (prEwJDsfWMo), because its owner was not established and it was not on the operator's channel listing. Facebook and Instagram were not opened. No captcha, bot check or 403 was hit on whitehavenexpress.com.au or YouTube; the listed domain whitehavenxpress.com.au redirects to whitehavenexpress.com.au."
+}

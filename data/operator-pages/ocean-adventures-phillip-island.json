@@ -1,0 +1,112 @@
+{
+  "slug": "ocean-adventures-phillip-island",
+  "name": "Ocean Adventures Phillip Island",
+  "website": "https://oceanadventures.co",
+  "rezdyAlias": "oceanadventures",
+  "state": "VIC",
+  "town": "San Remo",
+  "category": "Thundercat boat tours",
+  "summary": "Ocean Adventures Phillip Island runs 30 minute Thundercat boat tours along the granite cliffs and caves of Cape Woolamai. Tours leave from San Remo Jetty and are open to children aged 5 and over. Owner Brendon Jones, a lifelong Phillip Island resident and former fisherman, has run the business since 2022.",
+  "standouts": [
+    "Tours reach granite cliffs and caves at Cape Woolamai that the site says are only accessible by boat",
+    "Owned and run by Brendon Jones, a lifelong Phillip Island resident and former fisherman",
+    "The business started in 2008 and has been run by Brendon Jones since 2022"
+  ],
+  "contact": {
+    "phone": "+61 433 137 320",
+    "email": null,
+    "address": "San Remo Jetty, San Remo VIC (all tours depart here)"
+  },
+  "heroImage": "https://oceanadventures.co/wp-content/uploads/2024/12/homepage1.jpg",
+  "sourceUrls": [
+    "https://oceanadventures.co/",
+    "https://oceanadventures.co/about-us/",
+    "https://oceanadventures.co/our-story/",
+    "https://oceanadventures.co/our-boats/",
+    "https://oceanadventures.co/phillip-island/",
+    "https://oceanadventures.co/faq/",
+    "https://oceanadventures.co/contact/",
+    "https://oceanadventures.co/jet-boat-rides/",
+    "https://oceanadventures.co/phillip-island-copy/",
+    "https://oceanadventures.co/covid-19-information/",
+    "https://oceanadventures.co/news/",
+    "https://oceanadventures.co/blog/",
+    "https://oceanadventures.co/ocean-adventures-tidal-seafood-festival/",
+    "https://oceanadventures.co/your-ultimate-day-trip-destination-ocean-adventures/",
+    "https://oceanadventures.co/september-school-holidays-a-thrilling-phillip-island-adventure-with-ocean-adventures/",
+    "https://oceanadventures.co/sitemap.xml",
+    "https://oceanadventures.co/page-sitemap.xml",
+    "https://oceanadventures.co/post-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Thundercat Boat Tour",
+      "kind": "tour",
+      "summary": "A 30 minute guided ride on the Thundercat, a high-speed inflatable catamaran, along the granite cliffs and caves of Cape Woolamai that can only be reached by boat. The tour stops at a number of places around Phillip Island, with commentary on the landscape and history from Captain Risky. It leaves from San Remo Jetty, and children must be 5 or over.",
+      "highlights": [
+        "Granite cliffs and caves of Cape Woolamai, only accessible by boat",
+        "Stops at a number of locations around Phillip Island",
+        "Commentary on the island's landscape and history from Captain Risky",
+        "Private or group bookings available (minimum of 2 people per private booking)"
+      ],
+      "duration": "30 minutes",
+      "durationMinutes": 30,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "San Remo Jetty, San Remo (staff meet guests in the car park)",
+      "prices": [
+        {
+          "label": "Adult ticket",
+          "amount": 89,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child ticket (5-16)",
+          "amount": 69,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family ticket",
+          "amount": 269,
+          "currency": "AUD",
+          "note": "Number of people in a family ticket is not stated on the site"
+        }
+      ],
+      "priceFrom": 89,
+      "includes": [
+        "Commentary from Captain Risky on the island's landscape and history",
+        "Life jackets, safety seating and handgrips on the Thundercat",
+        "Safety instructions from the crew before departure",
+        "Plastic ponchos available on request"
+      ],
+      "bring": [
+        "A jacket, as spray from the water is likely (plastic ponchos are available on request)",
+        "Arrive 10 minutes before departure time"
+      ],
+      "requirements": "Children must be 5 and over to ride.",
+      "offer": null,
+      "images": [
+        "https://oceanadventures.co/wp-content/uploads/2024/12/homepage1.jpg",
+        "https://oceanadventures.co/wp-content/uploads/2023/09/oceanadventures2.jpg",
+        "https://oceanadventures.co/wp-content/uploads/2023/09/capewooli.jpg",
+        "https://oceanadventures.co/wp-content/uploads/2023/09/Oceanadventuresclose.jpg"
+      ],
+      "bookingLinks": [
+        "https://oceanadventures.rezdy.com/210724/thundercat-the-ride"
+      ],
+      "sourceUrl": "https://oceanadventures.co/",
+      "checkNotes": "The Thundercat has no page of its own; it is a section of the home page, where the price, duration, age rule and departure point were read. Departure times are not shown on the site (it says to arrive 10 minutes before departure time); times sit in the booking system, which was not opened. Name used is the home page card ('Thundercat Boat tour'); the section heading reads 'The THUNDERCAT TOUR' and the booking link slug is 'thundercat-the-ride'. The child ticket is 5-16; the site does not say what applies at 17 or whether the family ticket has a set number of people. 'Only accessible by boat' is the site's own wording. The Our Boats page describes the Thundercat as a high-speed inflatable catamaran with life jackets, safety seating and handgrips; an unlisted page (/phillip-island-copy/) calls it twin-engine, which was not repeated. FAQ policy: all tickets, including gift certificates and group booking vouchers, are non-refundable; cancellations requested within 2 days before the booking are subject to approval and may be transferable; in bad weather the operator emails a standby notice and, if a tour cannot run and the guest cannot take the next time slot, gives a voucher to use later. The hero image is the site's own wide home page section background (Dec 2024); it was not viewed because images are not downloaded, so a person should look at it."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers available from $50, emailed to the buyer after online purchase",
+      "conditions": "Valid for three years from purchase date. All tickets, including gift certificates and group booking vouchers, are non-refundable. Voucher page: https://oceanadventures.rezdy.com/catalog/556661/vouchers",
+      "validUntil": null,
+      "sourceUrl": "https://oceanadventures.co/faq/"
+    }
+  ],
+  "checkNotes": "Only the Thundercat Boat Tour is shown to visitors. The home page code also holds sections for other tours, but the site's styling hides every one of them on desktop, tablet and mobile, so they are not currently shown to anyone, and they were left out as trips. Please confirm with the operator whether any of them still run. What those hidden sections say: (1) The Waverider Tour, adult $89.00, child (5 - 16) $59.00, family $259.00, own booking link https://oceanadventures.rezdy.com/520455/the-waverider, described as a new boat with plenty of room for groups and 'perfect for families travelling with small children' with motorbike style seating (the sentence is cut off in the code); (2) Guided Sea Scooter Tour (guided snorkel tour with a PADI qualified professional, Yamaha Sea Scooter), $159.00; (3) PADI Discover Scuba, no experience required, $299.00; (4) Scuba School, a pool based activity for kids and families, no price ('Contact'), and pool only so not a sea trip; (5) Island Escape self catered, approx 3 hours, secluded swim beach at Cape Woolamai with a bell tent, snorkel gear for hire, $175.00; (6) Island Escape catered private tour, approx 2 hours, catered picnic for two at the private Cape Woolamai granite quarry, $440.00. The Sea Scooter, Scuba and Island Escape 'BOOK NOW' buttons go only to the root of the booking system (https://oceanadventures.rezdy.com/), not to a trip, and no certification wording is shown for the dive items. The FAQ still says all equipment for 'above and below water tours' is provided, which matches the hidden dive items. No email address appears anywhere on the site; contact is by phone (the voicemail is checked because the crew is often on the water) or the enquiry form. The home page location map shows two places: 'VAN - San Remo' (map pin: San Remo Fishermans Co-op) and 'BOOTH - cowes' (map address 89 Thompson Avenue, Cowes VIC); the FAQ says all tours depart from San Remo Jetty, so only San Remo was used as the departure point, and whether the Cowes booth is staffed is not stated. The Our Boats page describes two vessels, the Thundercat and a Jetboat (the footer says 'Thundercat and Drift Jet Boat'), but only the Thundercat tour is on sale. The About, Our Boats and Phillip Island pages make general eco and fleet claims ('eco-friendly fleet', 'cutting-edge technology that reduces emissions') with no certification or detail, so none were used. The business name is written 'Ocean Adventures Phillip Island' (footer copyright adds 'Australia'; the footer blurb misspells it 'Adentures'). The Our Story page says the business began in 2008 and that Brendon Jones 'acquired the business and has been operating since 2022'. A COVID-19 page from October 2021 (vaccination and mask rules) is still published at /covid-19-information/ and was not used. The News page is a short intro and the three blog posts (2023) repeat the tour descriptions with no extra prices or times."
+}

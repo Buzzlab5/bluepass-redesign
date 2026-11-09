@@ -1,0 +1,35 @@
+{
+  "slug": "russells-jet-ski-barbados",
+  "logo": null,
+  "gallery": [
+    "https://static.wixstatic.com/media/0b340f_a678a165d2c841fc9a0bd161ae577b41~mv2.jpg",
+    "https://static.wixstatic.com/media/0b340f_a096f12e5cd842918e533ff38da0718d~mv2.jpg",
+    "https://static.wixstatic.com/media/0b340f_8f33cf5211d24459b643dc75f2348d48~mv2.jpg",
+    "https://static.wixstatic.com/media/0b340f_6a52568dafb544b6a4e7fc99eef96ad0~mv2.jpg",
+    "https://static.wixstatic.com/media/0b340f_426940973c0f468ea11ed2048647b9a0~mv2.jpg",
+    "https://static.wixstatic.com/media/0b340f_db4fc023562c4e9aaba97b73381453c8~mv2.jpg",
+    "https://static.wixstatic.com/media/0b340f_f56e1e7a30bd4242a784f66075883ddf~mv2.jpg",
+    "https://static.wixstatic.com/media/0b340f_296c1ff0dfe44bc0b069bc166ea91fe3~mv2.jpg",
+    "https://static.wixstatic.com/media/0b340f_1113e14fa654471c9439a4988fc364cc~mv2.jpg",
+    "https://static.wixstatic.com/media/0b340f_9fdec2f5752d401d81775609b85fac42~mv2.jpg",
+    "https://static.wixstatic.com/media/0b340f_0d1ab852ddde4f09a1e244c2aa3c37a0~mv2.png"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Jet Ski Rentals",
+      "images": [
+        "https://static.wixstatic.com/media/0b340f_a096f12e5cd842918e533ff38da0718d~mv2.jpg",
+        "https://static.wixstatic.com/media/0b340f_8f33cf5211d24459b643dc75f2348d48~mv2.jpg",
+        "https://static.wixstatic.com/media/0b340f_6a52568dafb544b6a4e7fc99eef96ad0~mv2.jpg",
+        "https://static.wixstatic.com/media/0b340f_426940973c0f468ea11ed2048647b9a0~mv2.jpg",
+        "https://static.wixstatic.com/media/0b340f_db4fc023562c4e9aaba97b73381453c8~mv2.jpg",
+        "https://static.wixstatic.com/media/0b340f_f56e1e7a30bd4242a784f66075883ddf~mv2.jpg",
+        "https://static.wixstatic.com/media/0b340f_296c1ff0dfe44bc0b069bc166ea91fe3~mv2.jpg",
+        "https://static.wixstatic.com/media/0b340f_1113e14fa654471c9439a4988fc364cc~mv2.jpg",
+        "https://static.wixstatic.com/media/0b340f_9fdec2f5752d401d81775609b85fac42~mv2.jpg"
+      ]
+    }
+  ],
+  "notes": "Wix site with a text logo, so no logo file. Gallery photos are from the Gallery page, plus a wide 4667 by 2000 PNG used as a background on the home page (content not checked by eye). Left out: Unsplash stock photos (file names starting nsplsh_, credited to Shaah Shahidh and Ishan @seefromthesky) and images from a second media account (74cca0_) whose names read like edited stock photos (\"two people on a jet ski in the water\", \"blue textile with silver glitters\"). No YouTube, Vimeo or hosted video found. The trip has no page of its own, so the trip photos are the Gallery page photos."
+}

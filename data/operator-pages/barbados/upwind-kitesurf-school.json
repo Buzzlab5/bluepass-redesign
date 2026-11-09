@@ -1,0 +1,201 @@
+{
+  "slug": "upwind-kitesurf-school",
+  "name": "Upwind Kitesurf School",
+  "website": "https://upwindkitesurfschool.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Silver Sands",
+  "category": "Kitesurf lessons and rentals",
+  "summary": "A kitesurf school on the south coast, teaching at Silver Rock Beach, Long Beach and Sandy Beach in Christ Church. Group and private lessons take beginners from flying the kite to riding upwind, and progression coaching covers freestyle, wave riding, strapless and hydrofoil. Experienced riders can rent kites and boards.",
+  "standouts": [
+    "IKO certified instructors",
+    "Opened in 2016 by Simon Joosten, whose father Rolf Joosten began kitesurfing in Barbados in 1998",
+    "Lessons include all equipment, using North Kiteboarding and ION gear",
+    "Teaches at three spots: Silver Rock Beach, Long Beach and Sandy Beach"
+  ],
+  "contact": {
+    "phone": "+1 246 243 6683 or +1 246 233 3334",
+    "email": "info@upwindkitesurfschool.com",
+    "address": null,
+    "whatsapp": null
+  },
+  "heroImage": "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/KitesurfingBarbados1.jpg",
+  "sourceUrls": [
+    "https://upwindkitesurfschool.com/",
+    "https://upwindkitesurfschool.com/lessons/",
+    "https://upwindkitesurfschool.com/rentals/",
+    "https://upwindkitesurfschool.com/spots/",
+    "https://upwindkitesurfschool.com/history/",
+    "https://upwindkitesurfschool.com/contact/",
+    "https://upwindkitesurfschool.com/gallery/",
+    "https://upwindkitesurfschool.com/wp-json/wp/v2/pages"
+  ],
+  "trips": [
+    {
+      "title": "Group Lessons",
+      "kind": "course",
+      "summary": "Kitesurf lessons in a group with IKO certified instructors, with all equipment included. Beginners start with kite setup, safety and kite control, then body dragging, water starts and first rides, working towards riding upwind. Most group lessons are held at Long Beach, a quiet and spacious beach in Christ Church.",
+      "highlights": [
+        "Packages of 2, 4, 6 or 10 hours",
+        "Learning usually takes about 6 to 10 hours, depending on the student",
+        "All equipment included",
+        "Most group lessons held at Long Beach"
+      ],
+      "duration": "2, 4, 6 or 10 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Long Beach, Christ Church",
+      "prices": [
+        { "label": "Group lessons, 2 hours", "amount": 125, "currency": "USD", "note": null },
+        { "label": "Group lessons, 4 hours", "amount": 240, "currency": "USD", "note": null },
+        { "label": "Group lessons, 6 hours", "amount": 350, "currency": "USD", "note": null },
+        { "label": "Group lessons, 10 hours", "amount": 550, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 125,
+      "includes": [
+        "IKO Certified Instructors",
+        "All equipment"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": {
+        "text": "Discount if you bring your own equipment",
+        "conditions": "Discount amount as stated on the rates page",
+        "validUntil": null
+      },
+      "images": [
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/At-Long-Beach.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/At-Long-Beach2.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/Bodydrag.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/untitled-2-of-16.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://upwindkitesurfschool.com/rentals/",
+      "checkNotes": "Prices are on the page titled Rates (URL /rentals/), last edited September 2017 according to the site's own page data, so they may be out of date. The site does not say whether group prices are per person. Enquiry only: contact form, email, phone or WhatsApp. Long Beach as the usual group lesson spot is from the Spots page."
+    },
+    {
+      "title": "Private Lessons",
+      "kind": "course",
+      "summary": "One to one kitesurf lessons with an IKO certified instructor, with all equipment included. They follow the same steps as the group course, from kite control and body dragging to water starts, riding and upwind technique, at a pace set by the student.",
+      "highlights": [
+        "Packages of 2, 4, 6 or 10 hours",
+        "All equipment included",
+        "Lessons held at Silver Rock Beach, Long Beach or Sandy Beach depending on conditions"
+      ],
+      "duration": "2, 4, 6 or 10 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Private lessons, 2 hours", "amount": 190, "currency": "USD", "note": null },
+        { "label": "Private lessons, 4 hours", "amount": 360, "currency": "USD", "note": null },
+        { "label": "Private lessons, 6 hours", "amount": 510, "currency": "USD", "note": null },
+        { "label": "Private lessons, 10 hours", "amount": 800, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 190,
+      "includes": [
+        "IKO Certified Instructors",
+        "All equipment"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": {
+        "text": "Discount if you bring your own equipment",
+        "conditions": "Discount amount as stated on the rates page",
+        "validUntil": null
+      },
+      "images": [
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/Rolf-Lesson.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/photo3.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/untitled-5-of-6.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/untitled-6-of-6.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://upwindkitesurfschool.com/rentals/",
+      "checkNotes": "Prices from the Rates page (URL /rentals/), last edited September 2017 according to the site's own page data. No single departure beach stated for private lessons; the Spots page lists Silver Rock Beach, Long Beach and Sandy Beach. Enquiry only."
+    },
+    {
+      "title": "Progression Lessons (for advanced riders)",
+      "kind": "course",
+      "summary": "Coaching for riders who can already kitesurf. Options cover twin tip freestyle and unhooked tricks, moving to a directional surfboard and riding waves, strapless riding, and hydrofoiling from first rides to tacks, jibes and downwind foiling.",
+      "highlights": [
+        "Twin tip freestyle, including jumps, backrolls and unhooked tricks",
+        "Directional surfboard: jibes, tacks, bottom turns and wave riding",
+        "Strapless wave riding and strapless freestyle",
+        "Hydrofoil: from safe first rides to tacks, jibes and downwind foiling"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "For advanced riders",
+      "offer": null,
+      "images": [
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/Hydrofoil-2.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/Hydrofoil.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/10511531_10203770948741734_1901381868135503794_o.jpg",
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/17015885_1354956164524628_6529285875974076530_o.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://upwindkitesurfschool.com/lessons/",
+      "checkNotes": "No separate price for progression lessons; the Rates page only lists group and private lesson hours. Enquiry only."
+    },
+    {
+      "title": "Rentals Available for Experienced Riders",
+      "kind": "other",
+      "summary": "Kite and board rental for riders who can comfortably ride upwind in any conditions. Gear is North Kiteboarding and ION, with North Neo kites from 6m to 12m, twin tips, strapped directional boards and strapless surfboards.",
+      "highlights": [
+        "Full setup, kite only or board only",
+        "Hire for 3 hours, 1 day, 6 days or 13 days",
+        "North Neo kites from 6m to 12m"
+      ],
+      "duration": "3 hours, 1 day, 6 days or 13 days",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Full setup, 3 hrs", "amount": 75, "currency": "USD", "note": "Shown as U$" },
+        { "label": "Full setup, 1 day", "amount": 95, "currency": "USD", "note": "Shown as U$" },
+        { "label": "Full setup, 6 days", "amount": 295, "currency": "USD", "note": "Shown as U$" },
+        { "label": "Full setup, 13 days", "amount": 550, "currency": "USD", "note": "Shown as U$" },
+        { "label": "Kite only, 3 hrs", "amount": 60, "currency": "USD", "note": "Shown as U$" },
+        { "label": "Kite only, 1 day", "amount": 75, "currency": "USD", "note": "Shown as U$" },
+        { "label": "Kite only, 6 days", "amount": 235, "currency": "USD", "note": "Shown as U$" },
+        { "label": "Kite only, 13 days", "amount": 440, "currency": "USD", "note": "Shown as U$" },
+        { "label": "Board only, 3 hrs", "amount": 40, "currency": "USD", "note": "Shown as U$" },
+        { "label": "Board only, 1 day", "amount": 50, "currency": "USD", "note": "Shown as U$" },
+        { "label": "Board only, 6 days", "amount": 155, "currency": "USD", "note": "Shown as U$" },
+        { "label": "Board only, 13 days", "amount": 285, "currency": "USD", "note": "Shown as U$" }
+      ],
+      "priceFrom": 40,
+      "includes": [],
+      "bring": [],
+      "requirements": "Riders must be comfortably able to ride upwind in any conditions",
+      "offer": null,
+      "images": [
+        "https://upwindkitesurfschool.com/wp-content/uploads/2017/07/Secret-Spot-4-of-8.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://upwindkitesurfschool.com/rentals/",
+      "checkNotes": "Rental prices shown as 'U$', read as US dollars. Rates page last edited September 2017 according to the site's own page data. Enquiry only."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Lesson discount if you bring your own equipment",
+      "conditions": "Applies to group and private lessons; amount as stated on the rates page",
+      "validUntil": null,
+      "sourceUrl": "https://upwindkitesurfschool.com/rentals/"
+    }
+  ],
+  "checkNotes": "Site appears compromised: the home page and every page footer carry injected spam posts (online casino, sports betting, a crypto donation appeal with wallet addresses) dated 8 Aug 2023. Flag to the operator; nothing from those posts is used here. Operator content is mostly from 2017 (the history page says 'Today in 2017'); per the site's own page data the lessons and rates pages were last edited September 2017, the gallery and spots pages in 2018, and the contact page in June 2024, which is the newest operator edit found. No 2025 or 2026 prices or dates. No booking engine: enquiry form, email, and two numbers listed as Phone/Whatsapp (no wa.me link). No street address on the site. The list also names this business SJ Watersports Barbados and mentions wing foil; neither appears on the site. The rates page states the bring-your-own-equipment discount as a percentage, not repeated here."
+}

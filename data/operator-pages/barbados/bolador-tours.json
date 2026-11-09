@@ -1,0 +1,503 @@
+{
+  "slug": "bolador-tours",
+  "name": "Bolador Tours",
+  "website": "https://boladortours.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": null,
+  "category": "Catamaran cruises and charters",
+  "summary": "Bolador Tours is a family business run by Geoff and Sharon Coyle, with two catamarans: Bolador, a 57ft catamaran built in Barbados, and Imagine, a 42ft leisure catamaran. Shared cruises are kept to small groups and visit the shipwrecks to snorkel and swim with turtles, with hotel transfers and an open bar included. Both boats are also available for private charters.",
+  "standouts": [
+    "Bolador was designed and built in Barbados and launched on 31 August 1989",
+    "Shared cruises capped at 18 guests on Bolador and 14 on Imagine",
+    "Transfers to and from the catamaran included on shared cruises",
+    "Family owned by Geoff and Sharon Coyle"
+  ],
+  "contact": {
+    "phone": "+1 (246) 823-5661",
+    "email": "contact@boladortours.com",
+    "address": "BTI Carpark, Cavans Lane, Bridgetown, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://boladortours.com/img/first.jpg",
+  "sourceUrls": [
+    "https://boladortours.com/",
+    "https://boladortours.com/Bolador.html",
+    "https://boladortours.com/Imagine.html",
+    "https://boladortours.com/Experiences.html",
+    "https://boladortours.com/About.html",
+    "https://boladortours.com/contact.html"
+  ],
+  "trips": [
+    {
+      "title": "Bolador 3-hour cruise",
+      "kind": "sail",
+      "summary": "A drinks-only cruise on Bolador, with the captain's rum punch made to an old family recipe. It visits the shipwrecks to snorkel and stops to swim with turtles.",
+      "highlights": [
+        "Snorkel over shipwrecks",
+        "Swim with turtles",
+        "Open bar",
+        "Shared cruises capped at 18 guests"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [
+        "09:30",
+        "15:00"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 75,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child (12 and under)",
+          "amount": 50,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child under 3",
+          "amount": 0,
+          "currency": "USD",
+          "note": "Complimentary"
+        }
+      ],
+      "priceFrom": 75,
+      "includes": [
+        "Snorkelling over shipwrecks",
+        "Swimming with the turtles",
+        "Open Bar",
+        "Transfers to and from catamaran"
+      ],
+      "bring": [],
+      "requirements": "Not wheelchair accessible. Not suitable for guests with walking or mobility issues.",
+      "offer": null,
+      "images": [
+        "https://boladortours.com/img/bolador3.jpg",
+        "https://boladortours.com/img/bolador4.jpg",
+        "https://boladortours.com/img/bolador1.jpg",
+        "https://boladortours.com/img/bolador_head.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://boladortours.com/Bolador.html",
+      "checkNotes": "Booked by enquiry: the contact page has a form (sent through Formspree to contact@boladortours.com), plus email and phone. No online booking. Departure point not stated; transfers to and from the catamaran are included. Times 9:30 AM - 12:30 PM and 3:00 PM - 6:00 PM; other time slots may be available."
+    },
+    {
+      "title": "Bolador 5-hour cruise",
+      "kind": "sail",
+      "summary": "The operator's most popular cruise visits the shipwrecks and snorkels with turtles, then stops in a west coast bay for a Barbadian buffet lunch. The lunch stop lasts about an hour.",
+      "highlights": [
+        "Snorkel over shipwrecks",
+        "Swim with turtles",
+        "1-hour lunch stop in a west coast bay",
+        "Open bar and Bajan buffet"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [
+        "09:30"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 115,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child (12 and under)",
+          "amount": 80,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child under 4",
+          "amount": 0,
+          "currency": "USD",
+          "note": "Complimentary"
+        }
+      ],
+      "priceFrom": 115,
+      "includes": [
+        "Snorkelling over shipwrecks",
+        "Swimming with the turtles",
+        "1-hour lunch stop",
+        "Open Bar",
+        "Delicious Bajan buffet",
+        "Transfers to and from catamaran"
+      ],
+      "bring": [],
+      "requirements": "Not wheelchair accessible. Not suitable for guests with walking or mobility issues.",
+      "offer": null,
+      "images": [
+        "https://boladortours.com/img/bolador1.jpg",
+        "https://boladortours.com/img/bolador2.jpg",
+        "https://boladortours.com/img/bolador3.jpg",
+        "https://boladortours.com/img/bolador4.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://boladortours.com/Bolador.html",
+      "checkNotes": "Booked by enquiry: the contact page has a form (sent through Formspree to contact@boladortours.com), plus email and phone. No online booking. Departure point not stated; transfers to and from the catamaran are included. Time 9:30 AM - 2:30 PM; other time slots may be available."
+    },
+    {
+      "title": "Bolador 4-hour dinner cruise",
+      "kind": "sail",
+      "summary": "An afternoon sail down the west coast into the sunset on Bolador, with a stop at the shipwrecks to snorkel and swim with turtles. Dinner is a Barbadian buffet served at anchor in a west coast bay.",
+      "highlights": [
+        "Sunset sail down the west coast",
+        "Snorkel over shipwrecks and swim with turtles",
+        "Dinner stop with Bajan buffet",
+        "Open bar"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "15:00"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 115,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child (12 and under)",
+          "amount": 80,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child under 4",
+          "amount": 0,
+          "currency": "USD",
+          "note": "Complimentary"
+        }
+      ],
+      "priceFrom": 115,
+      "includes": [
+        "Snorkelling over shipwrecks",
+        "Swimming with the turtles",
+        "Dinner stop",
+        "Open Bar",
+        "Delicious Bajan buffet",
+        "Transfers to and from catamaran"
+      ],
+      "bring": [],
+      "requirements": "Not wheelchair accessible. Not suitable for guests with walking or mobility issues.",
+      "offer": null,
+      "images": [
+        "https://boladortours.com/img/bolador7.jpg",
+        "https://boladortours.com/img/bolador6.jpg",
+        "https://boladortours.com/img/bolador_head.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://boladortours.com/Bolador.html",
+      "checkNotes": "Booked by enquiry: the contact page has a form (sent through Formspree to contact@boladortours.com), plus email and phone. No online booking. Departure point not stated; transfers to and from the catamaran are included. Time 3:00 PM - 7:00 PM; other time slots may be available."
+    },
+    {
+      "title": "Bolador Private Charters",
+      "kind": "charter",
+      "summary": "Bolador can be chartered for a private cruise planned around the group, suited to wedding parties, sports teams and other large groups. Beach pick-ups are possible depending on weather and sea conditions.",
+      "highlights": [
+        "57ft x 30ft catamaran built in Barbados",
+        "Licensed capacity 45 for private charters",
+        "Minimum of 3 hours recommended",
+        "Beach pick-ups available, weather permitting"
+      ],
+      "duration": "A minimum of 3 hours is recommended",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "Not wheelchair accessible. Not suitable for guests with walking or mobility issues.",
+      "offer": null,
+      "images": [
+        "https://boladortours.com/img/bolador_head.jpg",
+        "https://boladortours.com/img/bolador7.jpg",
+        "https://boladortours.com/img/bolador6.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://boladortours.com/Bolador.html",
+      "checkNotes": "No private charter prices on the site; contact the operator to plan. Cruise times based on the group's requirements."
+    },
+    {
+      "title": "Imagine 3-hour cruise",
+      "kind": "sail",
+      "summary": "A shorter leisure cruise on Imagine for guests with less time, with the captain's rum punch and light snacks. It visits the shipwrecks to snorkel and stops to swim with turtles.",
+      "highlights": [
+        "Snorkel over shipwrecks",
+        "Swim with turtles",
+        "Light snacks and open bar",
+        "Shared cruises capped at 14 guests"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [
+        "09:30",
+        "15:00"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 90,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child (12 and under)",
+          "amount": 70,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child under 3",
+          "amount": 0,
+          "currency": "USD",
+          "note": "Complimentary"
+        }
+      ],
+      "priceFrom": 90,
+      "includes": [
+        "Snorkelling over shipwrecks",
+        "Swimming with the turtles",
+        "Light Snacks",
+        "Open Bar",
+        "Transfers to and from catamaran"
+      ],
+      "bring": [],
+      "requirements": "Not wheelchair accessible. Not suitable for guests with walking or mobility issues.",
+      "offer": null,
+      "images": [
+        "https://boladortours.com/img/imagine3.jpg",
+        "https://boladortours.com/img/exper4.jpg",
+        "https://boladortours.com/img/imagine-head.jpg",
+        "https://boladortours.com/img/imagine2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://boladortours.com/Imagine.html",
+      "checkNotes": "Booked by enquiry: the contact page has a form (sent through Formspree to contact@boladortours.com), plus email and phone. No online booking. Departure point not stated; transfers to and from the catamaran are included. Times 9:30 AM - 12:30 PM and 3:00 PM - 6:00 PM; other time slots may be available."
+    },
+    {
+      "title": "Imagine 5-hour cruise",
+      "kind": "sail",
+      "summary": "A longer cruise on Imagine that visits the shipwrecks and swims with turtles, then stops in a bay for a Barbadian lunch with desserts. Coffee, tea and coconut bread are served on board.",
+      "highlights": [
+        "Snorkel over shipwrecks",
+        "Swim with turtles",
+        "1-hour lunch stop",
+        "Coffee, tea and freshly baked coconut bread"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [
+        "09:30"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 150,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child (12 and under)",
+          "amount": 90,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child under 4",
+          "amount": 0,
+          "currency": "USD",
+          "note": "Complimentary"
+        }
+      ],
+      "priceFrom": 150,
+      "includes": [
+        "Snorkelling over shipwrecks",
+        "Swimming with the turtles",
+        "1-hour lunch stop",
+        "Coffee, tea and freshly baked coconut bread",
+        "Open Bar",
+        "Delicious Bajan buffet complimented by sweet treats",
+        "Transfers to and from catamaran"
+      ],
+      "bring": [],
+      "requirements": "Not wheelchair accessible. Not suitable for guests with walking or mobility issues.",
+      "offer": null,
+      "images": [
+        "https://boladortours.com/img/second.jpg",
+        "https://boladortours.com/img/imagine2.jpg",
+        "https://boladortours.com/img/imagine3.jpg",
+        "https://boladortours.com/img/exper4.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://boladortours.com/Imagine.html",
+      "checkNotes": "Booked by enquiry: the contact page has a form (sent through Formspree to contact@boladortours.com), plus email and phone. No online booking. Departure point not stated; transfers to and from the catamaran are included. Time 9:30 AM - 2:30 PM; other time slots may be available."
+    },
+    {
+      "title": "Imagine 4-hour dinner cruise",
+      "kind": "sail",
+      "summary": "An end-of-day sail on Imagine timed for the sunset, with a stop to snorkel the shipwrecks and swim with turtles. Dinner is a Barbadian buffet served in a bay along the coast.",
+      "highlights": [
+        "Sunset sail",
+        "Snorkel over shipwrecks and swim with turtles",
+        "Dinner stop with Bajan buffet",
+        "Open bar"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "15:00"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 150,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child (12 and under)",
+          "amount": 90,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Child under 4",
+          "amount": 0,
+          "currency": "USD",
+          "note": "Complimentary"
+        }
+      ],
+      "priceFrom": 150,
+      "includes": [
+        "Snorkelling over shipwrecks",
+        "Swimming with the turtles",
+        "Dinner stop",
+        "Open Bar",
+        "Delicious Bajan buffet",
+        "Transfers to and from catamaran"
+      ],
+      "bring": [],
+      "requirements": "Not wheelchair accessible. Not suitable for guests with walking or mobility issues.",
+      "offer": null,
+      "images": [
+        "https://boladortours.com/img/imagine5.jpg",
+        "https://boladortours.com/img/imagine6.jpg",
+        "https://boladortours.com/img/imagine-head.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://boladortours.com/Imagine.html",
+      "checkNotes": "Booked by enquiry: the contact page has a form (sent through Formspree to contact@boladortours.com), plus email and phone. No online booking. Departure point not stated; transfers to and from the catamaran are included. Time 3:00 PM - 7:00 PM; other time slots may be available."
+    },
+    {
+      "title": "Imagine Private Charters",
+      "kind": "charter",
+      "summary": "Imagine can be chartered for a private cruise for groups of up to 16 people, such as wedding parties or sports teams. Beach pick-ups are possible depending on weather and sea conditions.",
+      "highlights": [
+        "42ft x 22ft catamaran with 4 double cabins",
+        "Maximum of 16 people for private charters",
+        "Minimum of 3 hours recommended",
+        "Beach pick-ups available, weather permitting"
+      ],
+      "duration": "A minimum of 3 hours is recommended",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "Not wheelchair accessible. Not suitable for guests with walking or mobility issues.",
+      "offer": null,
+      "images": [
+        "https://boladortours.com/img/imagine-head.jpg",
+        "https://boladortours.com/img/imagine6.jpg",
+        "https://boladortours.com/img/imagine5.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://boladortours.com/Imagine.html",
+      "checkNotes": "No private charter prices on the site. The page gives a licensed capacity of 25 but a maximum of 16 people for private charters; used 16."
+    },
+    {
+      "title": "Grenadine Island Charters",
+      "kind": "charter",
+      "summary": "A private charter through the Grenadines, the chain of more than 32 islands and cays, visiting islands for their sights, culture and food. Each charter is planned with the guests.",
+      "highlights": [
+        "Private charter through the Grenadines",
+        "Custom planned for each group",
+        "Over 32 islands and cays in the chain"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://boladortours.com/img/exper3.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://boladortours.com/Experiences.html#Grenadines",
+      "checkNotes": "No prices, duration or boat named on the Experiences section; the Imagine page links to it for 'weekend and private Grenadine Islands charters'. Contact the operator directly to plan."
+    },
+    {
+      "title": "Weekend Charters",
+      "kind": "charter",
+      "summary": "A private weekend aboard Imagine on the west coast, with time to swim, read, walk the beach or watch the sunset from the water. Guests can also visit secluded bays or stroll through historic Speightstown.",
+      "highlights": [
+        "Weekend aboard Imagine",
+        "West coast bays and beaches",
+        "Option to visit Speightstown and the Arlington House Museum",
+        "Planned with each group"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://boladortours.com/img/exper4new.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://boladortours.com/Experiences.html#Weekends",
+      "checkNotes": "No prices or length given; planned with each client."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Still trading: pages were last modified in March and April 2026 and the footer reads 'Copyright 2018-26'. Booking is by enquiry only (contact form, email or phone); no booking engine found. The site does not say where cruises leave from; the business address is Cavans Lane, Bridgetown, and transfers are included, so town is left null. Not included as trips: 'Fishing Tours - Coming Soon!' (light tackle fishing on the 25ft Bertram 'Bite Me', not yet offered), villa, cottage and studio rentals booked through Airbnb, and wedding planning through partner Dawn Smith. No turtle feeding advertised."
+}

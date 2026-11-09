@@ -1,0 +1,228 @@
+{
+  "slug": "speartime-luxury-charters-barbados",
+  "name": "Speartime Luxury Charters",
+  "website": "https://speartimeluxurychartersbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": null,
+  "category": "Fishing and snorkel charters",
+  "summary": "Speartime Luxury Charters runs private fishing, snorkelling and coastal trips on the Wicked Wahoo, a Luhrs 41 sport fisherman captained by Barbados-born Geoffrey Tryhane. Trips run for 4, 6 or 8 hours at one price for up to six people, and the longer trips stop in a quiet bay for a swim and a lunch cooked from the catch. You send a booking request online and pay the captain at the end of the trip.",
+  "standouts": [
+    "Wicked Wahoo, a Luhrs 41 express sport fisherman with an air-conditioned bridge deck seating up to 10",
+    "Captain Geoffrey Tryhane was born and raised in Barbados and trained each crew member himself",
+    "Captain is an experienced free diver who teaches snorkelling technique",
+    "Pay at the end of the charter, in cash, VISA or debit"
+  ],
+  "contact": {
+    "phone": "+1 (246) 266 4100",
+    "email": "speartimeluxurycharters@gmail.com",
+    "address": "Sunset View, Bucks, St. Thomas, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/Luxury-Charters-Speartime-Luxury-Charters-2.jpg",
+  "sourceUrls": [
+    "https://speartimeluxurychartersbarbados.com/",
+    "https://speartimeluxurychartersbarbados.com/deep-sea-fishing/",
+    "https://speartimeluxurychartersbarbados.com/fishing-with-kids/",
+    "https://speartimeluxurychartersbarbados.com/snorkeling-tours/",
+    "https://speartimeluxurychartersbarbados.com/coastal-tours/",
+    "https://speartimeluxurychartersbarbados.com/fishing-tournaments/",
+    "https://speartimeluxurychartersbarbados.com/tailored-charters/",
+    "https://speartimeluxurychartersbarbados.com/online-booking/",
+    "https://speartimeluxurychartersbarbados.com/contact-about-us/"
+  ],
+  "trips": [
+    {
+      "title": "Deep Sea Fishing",
+      "kind": "charter",
+      "summary": "A private offshore fishing trip of 4, 6 or 8 hours, with the crew explaining the gear and what to expect once a fish is on. Targets include blue and white marlin, sailfish, tuna, mahi mahi, wahoo and great barracuda. On the 6 and 8 hour trips the boat anchors for about an hour so guests can swim near turtles while lunch is cooked from the catch.",
+      "highlights": [
+        "Targets marlin, spearfish, sailfish, tuna, mahi mahi, wahoo and great barracuda",
+        "Some of the catch filleted for you to take home",
+        "Lunch cooked from the catch on 6 and 8 hour trips",
+        "All charters can be customised with the captain"
+      ],
+      "duration": "4, 6 or 8 hours",
+      "durationMinutes": 240,
+      "departureTimes": ["07:00", "07:30", "08:00", "12:00", "12:30", "13:00"],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "4 hour day trip fishing, up to 6 persons", "amount": 900, "currency": "USD", "note": "Extra person US$100" },
+        { "label": "6 hour day trip fishing, up to 6 persons", "amount": 1350, "currency": "USD", "note": "Extra person US$150; lunch included" },
+        { "label": "8 hour day trip fishing, up to 6 persons", "amount": 1800, "currency": "USD", "note": "Extra person US$200; lunch included" }
+      ],
+      "priceFrom": 900,
+      "includes": ["Tackle", "Bait", "Life vests", "Snacks and drinks", "Lunch (6 and 8 hour trips)"],
+      "bring": ["Cameras"],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Deep-Sea-Fishing-Speartime-Luxury-Charters.jpg",
+        "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/wicked-wahoo-food-and-snacks.webp"
+      ],
+      "bookingLinks": ["https://speartimeluxurychartersbarbados.com/online-booking/"],
+      "sourceUrl": "https://speartimeluxurychartersbarbados.com/deep-sea-fishing/",
+      "checkNotes": "Prices are for up to 6 persons with an extra-person rate; the booking form allows 1 to 10 persons. Departure times are the six options in the booking form, offered for every package, so not every time may suit every length. Booking is a pre-booking request that the captain confirms; payment is to the captain at the end of the charter. Departure point is not stated anywhere on the site. The site mentions swimming with turtles, not feeding them. Transport from your location can be arranged at extra cost."
+    },
+    {
+      "title": "Fishing with Kids",
+      "kind": "charter",
+      "summary": "The same private fishing packages, set up for families with young children. The trip starts with a short introduction to offshore fishing before the lines go out, and the crew can fillet some of the catch to take back to your holiday home.",
+      "highlights": [
+        "Short introduction to offshore fishing first",
+        "Aimed at families with young children",
+        "Some of the catch filleted to take home",
+        "Lunch cooked from the catch on 6 and 8 hour trips"
+      ],
+      "duration": "4, 6 or 8 hours",
+      "durationMinutes": 240,
+      "departureTimes": ["07:00", "07:30", "08:00", "12:00", "12:30", "13:00"],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "4 hour day trip fishing, up to 6 persons", "amount": 900, "currency": "USD", "note": "Extra person US$100" },
+        { "label": "6 hour day trip fishing, up to 6 persons", "amount": 1350, "currency": "USD", "note": "Extra person US$150; lunch included" },
+        { "label": "8 hour day trip fishing, up to 6 persons", "amount": 1800, "currency": "USD", "note": "Extra person US$200; lunch included" }
+      ],
+      "priceFrom": 900,
+      "includes": ["Tackle", "Bait", "Life vests", "Snacks and drinks", "Lunch (6 and 8 hour trips)"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Fishing-with-Family-Speartime-Luxury-Charters.jpg",
+        "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/wicked-wahoo-food-and-snacks.webp"
+      ],
+      "bookingLinks": ["https://speartimeluxurychartersbarbados.com/online-booking/"],
+      "sourceUrl": "https://speartimeluxurychartersbarbados.com/fishing-with-kids/",
+      "checkNotes": "Packages and prices are identical to Deep Sea Fishing; listed separately on the site and on the online booking page. No minimum age is stated. Booking is a pre-booking request confirmed by the captain. Departure point not stated."
+    },
+    {
+      "title": "Snorkeling Tours",
+      "kind": "snorkel",
+      "summary": "A private snorkelling trip around the reefs, wrecks and coastal spots of Barbados, often combined with some fishing. The captain is an experienced free diver and covers technique, tips and tricks, so first-timers are welcome.",
+      "highlights": [
+        "Reefs, wrecks and coastal areas",
+        "Captain is an experienced free diver",
+        "First-timers welcome",
+        "Lunch on the 6 and 8 hour trips"
+      ],
+      "duration": "4, 6 or 8 hours",
+      "durationMinutes": 240,
+      "departureTimes": ["07:00", "07:30", "08:00", "12:00", "12:30", "13:00"],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "4 hour day trip snorkeling, up to 6 persons", "amount": 900, "currency": "USD", "note": "Extra person US$100" },
+        { "label": "6 hour day trip snorkeling, up to 6 persons", "amount": 1350, "currency": "USD", "note": "Extra person US$100; lunch included" },
+        { "label": "8 hour day trip snorkeling, up to 6 persons", "amount": 1800, "currency": "USD", "note": "Extra person US$100; lunch included" }
+      ],
+      "priceFrom": 900,
+      "includes": ["Snorkels", "Masks", "Life vests", "Snacks and drinks", "Lunch (6 and 8 hour trips)"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Snorkeling-Tours-Speartime-Luxury-Charters.jpg",
+        "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/wicked-wahoo-food-and-snacks.webp"
+      ],
+      "bookingLinks": ["https://speartimeluxurychartersbarbados.com/online-booking/"],
+      "sourceUrl": "https://speartimeluxurychartersbarbados.com/snorkeling-tours/",
+      "checkNotes": "Extra-person rate is US$100 on all three snorkelling lengths (fishing and coastal use US$150 and US$200 for the longer trips). The home page also lists 'Turtle Tours' with no page or detail of its own; the shared food section says guests can swim with turtles before lunch, with no mention of feeding. Booking is a pre-booking request confirmed by the captain. Departure point not stated."
+    },
+    {
+      "title": "Coastal Tours",
+      "kind": "cruise",
+      "summary": "A relaxed private cruise along the coast, past beaches and seafront homes, with an evening sunset option. There is a sound system on board, and the captain, who grew up on the island, shares local knowledge along the way.",
+      "highlights": [
+        "Coastline, beaches and seafront properties",
+        "Evening sunset cruise option",
+        "Sound system on board",
+        "Snorkelling gear on board"
+      ],
+      "duration": "4, 6 or 8 hours",
+      "durationMinutes": 240,
+      "departureTimes": ["07:00", "07:30", "08:00", "12:00", "12:30", "13:00"],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "4 hour day trip, up to 6 persons", "amount": 900, "currency": "USD", "note": "Extra person US$100" },
+        { "label": "6 hour day trip, up to 6 persons", "amount": 1350, "currency": "USD", "note": "Extra person US$150; lunch included" },
+        { "label": "8 hour day trip, up to 6 persons", "amount": 1800, "currency": "USD", "note": "Extra person US$200; lunch included" }
+      ],
+      "priceFrom": 900,
+      "includes": ["Life vests", "Snacks and drinks", "Snorkeling gear and accessories", "Lunch (6 and 8 hour trips)"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Luxury-Charters-Speartime-Luxury-Charters.jpg",
+        "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/wicked-wahoo-food-and-snacks.webp"
+      ],
+      "bookingLinks": ["https://speartimeluxurychartersbarbados.com/online-booking/"],
+      "sourceUrl": "https://speartimeluxurychartersbarbados.com/coastal-tours/",
+      "checkNotes": "The page mentions an evening sunset cruise but the booking form only offers departures from 07:00 to 13:00; check sunset timing with the operator. Booking is a pre-booking request confirmed by the captain. Departure point not stated."
+    },
+    {
+      "title": "Tailored Charters",
+      "kind": "charter",
+      "summary": "A private charter planned around a birthday, anniversary, proposal or corporate event. Length is 4, 6 or 8 hours and the price depends on what is arranged.",
+      "highlights": [
+        "Birthdays, anniversaries and corporate events",
+        "Proposal spots on the water",
+        "4, 6 or 8 hour options",
+        "Lunch on the 6 and 8 hour trips"
+      ],
+      "duration": "4, 6 or 8 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": ["Life vests", "Snacks and drinks", "Lunch (6 and 8 hour trips)"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Tailor-Made-Charters-Speartime-Luxury-Charters.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://speartimeluxurychartersbarbados.com/tailored-charters/",
+      "checkNotes": "Price is 'depending on the arrangements'; booked through the contact form, phone or email, not the pre-booking form."
+    },
+    {
+      "title": "Fishing Tournaments",
+      "kind": "charter",
+      "summary": "Charters during Barbados fishing tournaments, which run in the season from October to April. Because each competition and its fees differ, bookings are handled by hand.",
+      "highlights": [
+        "Charters during Barbados fishing tournaments",
+        "Tournament season October to April",
+        "Long hours on the water"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "October to April",
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Fishing-Tournaments-Speartime-Luxury-Charters.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://speartimeluxurychartersbarbados.com/fishing-tournaments/",
+      "checkNotes": "No price or dates; handled by contacting the operator."
+    }
+  ],
+  "offers": [
+    { "text": "Transportation from your location can be arranged", "conditions": "Extra cost", "validUntil": null, "sourceUrl": "https://speartimeluxurychartersbarbados.com/deep-sea-fishing/" }
+  ],
+  "checkNotes": "The site never says where trips leave from. The address shown is Sunset View, Bucks, St. Thomas, which is inland; the batch list gives Port Ferdinand, Six Mens, St. Peter, which the site does not confirm, so town and departsFrom are null. Pages were last modified in December 2023 and there are no 2025 or 2026 dates, but the pre-booking form is live and the site runs a current WordPress version, so it is treated as trading. The online booking page shows an unrendered calendar shortcode (a Google Calendar feed) above the form. The site says it accepts Barbados dollars at 1 USD = 2 BBD. The 'reCAPTCHA' line on each page belongs to the site's forms and did not block reading. No WhatsApp link on the site."
+}

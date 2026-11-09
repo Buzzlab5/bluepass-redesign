@@ -1,0 +1,663 @@
+{
+  "slug": "adelaide-scuba",
+  "name": "Adelaide Scuba",
+  "website": "https://adelaidescuba.com.au",
+  "rezdyAlias": "adelaidescuba",
+  "state": "SA",
+  "town": "Glenelg North",
+  "category": "Boat dives and courses",
+  "summary": "Adelaide Scuba is an SSI dive centre in Glenelg North with two dive boats berthed behind the shop. It runs guided boat dives to reefs and wrecks off Adelaide, and a double dive on the Ex-HMAS Hobart from Wirrina Cove. Courses run from Try Dive and Open Water to Advanced, Rescue and a range of specialties, taught in an on-site heated pool and on the boats.",
+  "standouts": [
+    "SSI Dive Centre with its own dive boats berthed behind the shop",
+    "Two vessels: Reefknot (a 1986 Randell) and Abracadabra (a 2002 Steber twinscrew)",
+    "Private on-site heated dive pool, with classes of 4 students",
+    "A double boat dive is guaranteed with every Open Water course"
+  ],
+  "contact": {
+    "phone": "+61 8 8294 7744",
+    "email": "diving@adelaidescuba.com.au",
+    "address": "3 Cygnet Ct, Glenelg North SA 5045"
+  },
+  "heroImage": "https://adelaidescuba.com.au/wp-content/uploads/2022/10/LJH_5062-1-scaled.jpg",
+  "sourceUrls": [
+    "https://adelaidescuba.com.au/",
+    "https://adelaidescuba.com.au/boat-diving/",
+    "https://adelaidescuba.com.au/book-a-boat-dive/",
+    "https://adelaidescuba.com.au/ex-hmas-hobart/",
+    "https://adelaidescuba.com.au/courses/",
+    "https://adelaidescuba.com.au/courses/try-dive/",
+    "https://adelaidescuba.com.au/courses/open-water-diver-scuba-lessons/",
+    "https://adelaidescuba.com.au/courses/junior-open-water-diver/",
+    "https://adelaidescuba.com.au/courses/advanced-open-water-diver/",
+    "https://adelaidescuba.com.au/courses/rescue-diver/",
+    "https://adelaidescuba.com.au/courses/enriched-air-nitrox-diver/",
+    "https://adelaidescuba.com.au/courses/wreck-diver/",
+    "https://adelaidescuba.com.au/courses/deep-diver/",
+    "https://adelaidescuba.com.au/courses/drysuit-diver/",
+    "https://adelaidescuba.com.au/courses/sidemount-diver/",
+    "https://adelaidescuba.com.au/courses/underwater-navigator/",
+    "https://adelaidescuba.com.au/courses/refresher/",
+    "https://adelaidescuba.com.au/courses/pool-workshops/",
+    "https://adelaidescuba.com.au/our-facilities/",
+    "https://adelaidescuba.com.au/diving-in-sa/",
+    "https://adelaidescuba.com.au/about-us/",
+    "https://adelaidescuba.com.au/contact-us/",
+    "https://adelaidescuba.com.au/shop/",
+    "https://adelaidescuba.com.au/terms-conditions/"
+  ],
+  "trips": [
+    {
+      "title": "Boat Diving",
+      "kind": "dive",
+      "summary": "Guided boat dives from Glenelg North on Reefknot or Abracadabra, both berthed behind the Adelaide Scuba dive centre. Guests arrive at the private car park, check in, set up their equipment and board. Reef sites such as Seacliff Reef and Craggle Rock suit Open Water divers, wrecks such as The Dredge and MV Seawolf are also listed, and deeper sites are marked for Advanced Open Water divers.",
+      "highlights": [
+        "Reef and wreck sites marked for Open Water or Advanced Open Water divers",
+        "Led by Adelaide Scuba instructors and dive guides",
+        "Private car park, with the boats berthed behind the dive centre",
+        "Toilets, hot and cold showers, tea and coffee and Shark Shields on board"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Adelaide Scuba, 3 Cygnet Ct, Glenelg North (boats are berthed behind the shop)",
+      "prices": [
+        {
+          "label": "Gear hire add-on, per day: full kit (one tank, BCD, regulators, wetsuit, boots, fins, weights)",
+          "amount": 80,
+          "currency": "AUD",
+          "note": "Optional extra, not the dive price"
+        },
+        {
+          "label": "Gear hire add-on, per day: air cylinder (12L or 10L Faber steel)",
+          "amount": 25,
+          "currency": "AUD",
+          "note": "Optional extra, not the dive price"
+        },
+        {
+          "label": "Gear hire add-on, per day: Nitrox cylinder (12L or 10L Faber steel)",
+          "amount": 32,
+          "currency": "AUD",
+          "note": "Optional extra, not the dive price"
+        },
+        {
+          "label": "Gear hire add-on, per day: regulator set",
+          "amount": 25,
+          "currency": "AUD",
+          "note": "Optional extra, not the dive price"
+        },
+        {
+          "label": "Gear hire add-on, per day: BCD (jacket or backplate and wing)",
+          "amount": 25,
+          "currency": "AUD",
+          "note": "Optional extra, not the dive price"
+        },
+        {
+          "label": "Gear hire add-on, per day: 7mm wetsuit",
+          "amount": 20,
+          "currency": "AUD",
+          "note": "Optional extra, not the dive price"
+        },
+        {
+          "label": "Gear hire add-on, per day: boots and fins",
+          "amount": 20,
+          "currency": "AUD",
+          "note": "Optional extra, not the dive price"
+        },
+        {
+          "label": "Gear hire add-on, per day: lead weights",
+          "amount": 15,
+          "currency": "AUD",
+          "note": "Optional extra, not the dive price"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Guided by Adelaide Scuba instructors and dive guides",
+        "On board: toilets, hot and cold water showers, drinking water, tea and coffee, light snacks",
+        "Shark Shields, large entry and exit ladders, first aid kits, emergency oxygen, life rafts and float free EPIRBs"
+      ],
+      "bring": [
+        "Your own dive gear, or hire it at the dive centre before departure"
+      ],
+      "requirements": "Certified divers of all levels. Each dive site is marked as suitable for Open Water or Advanced Open Water divers.",
+      "offer": null,
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2024/07/LJH_2505-12-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/12/LJH_0100-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/12/LJH_0092-scaled-e1702531974102.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_4435-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://adelaidescuba.rezdy.com/productsMonthlyCalendar/657278"
+      ],
+      "sourceUrl": "https://adelaidescuba.com.au/boat-diving/",
+      "checkNotes": "The site gives no dive price, duration, departure time or season for boat dives. The BOOK buttons open a Rezdy monthly calendar (productsMonthlyCalendar/657278), which was not opened, so it is not known which products it lists. The price options here are daily gear hire rates from the Services & Facilities page, recorded as optional add-ons (hire needs proof of certification and a credit card hold; mask and snorkel sets are not hired); priceFrom is left null because there is no dive price. Booking conditions on the page: minimum numbers are needed for each tour (reschedule or full refund if not met 3 days before), payment in full is due 24 hours before, a cancellation fee applies up to 7 days before and there is no refund inside 7 days, and weather postponements are rescheduled without a fee. Sites named on the page. Open Water reefs: Seacliff Reef, Craggle Rock, Pipeline, Broken Bottom, Devil's Elbow, Milkies Reef, Mac's Ground, Blackbirds Reef, Leatherjacket Alley. Advanced reefs: Northern Outer Reef, Fred's Rock, Mum's Reef. Open Water wrecks: The Dredge, The Barge, MV Seawolf, HA Lumb, The Norma. Advanced wrecks: The Ex-HMAS Hobart, The Claris, Stanvac Barges, The Saurian (the page heads this list 'Advanced Open Water suitable reef dives' but it lists wrecks). The vessel is spelled Reefknot on this page and Reef Knot on the Services & Facilities page. The separate Dive Calendar page (/book-a-boat-dive/) carries the same boat and conditions text."
+    },
+    {
+      "title": "Diving the Ex-HMAS Hobart",
+      "kind": "dive",
+      "summary": "A double boat dive on the Ex-HMAS Hobart, a former Royal Australian Navy guided missile destroyer scuttled as a dive wreck in 2002. The boat leaves from the Wirrina Cove fuel jetty rather than Glenelg, and divers must have logged a dive in the past 3 months. Any rental gear, including cylinders, has to be collected from the dive centre before the tour.",
+      "highlights": [
+        "Double dive on the Ex-HMAS Hobart wreck",
+        "Departs from the Wirrina Cove fuel jetty",
+        "A dive logged within the past 3 months is required",
+        "Rental gear and cylinders are collected from the shop beforehand"
+      ],
+      "duration": "A double dive is usually a full day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Wirrina Cove fuel jetty",
+      "prices": [
+        {
+          "label": "Gear hire add-on, per day: full kit (one tank, BCD, regulators, wetsuit, boots, fins, weights)",
+          "amount": 80,
+          "currency": "AUD",
+          "note": "Optional extra, not the dive price"
+        },
+        {
+          "label": "Gear hire add-on, per day: air cylinder (12L or 10L Faber steel)",
+          "amount": 25,
+          "currency": "AUD",
+          "note": "Optional extra, not the dive price"
+        },
+        {
+          "label": "Gear hire add-on, per day: Nitrox cylinder (12L or 10L Faber steel)",
+          "amount": 32,
+          "currency": "AUD",
+          "note": "Optional extra, not the dive price"
+        },
+        {
+          "label": "Gear hire add-on, per day: regulator set",
+          "amount": 25,
+          "currency": "AUD",
+          "note": "Optional extra, not the dive price"
+        },
+        {
+          "label": "Gear hire add-on, per day: BCD (jacket or backplate and wing)",
+          "amount": 25,
+          "currency": "AUD",
+          "note": "Optional extra, not the dive price"
+        },
+        {
+          "label": "Gear hire add-on, per day: 7mm wetsuit",
+          "amount": 20,
+          "currency": "AUD",
+          "note": "Optional extra, not the dive price"
+        },
+        {
+          "label": "Gear hire add-on, per day: boots and fins",
+          "amount": 20,
+          "currency": "AUD",
+          "note": "Optional extra, not the dive price"
+        },
+        {
+          "label": "Gear hire add-on, per day: lead weights",
+          "amount": 15,
+          "currency": "AUD",
+          "note": "Optional extra, not the dive price"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Boat with toilets, hot and cold water showers, drinking water, tea and coffee and Shark Shields",
+        "Safety equipment including emergency oxygen, life rafts and float free EPIRBs"
+      ],
+      "bring": [
+        "Your gear ready to load onto the boat at the tour start time (late arrivals cannot be accommodated)",
+        "A logbook or evidence of your last logged dive",
+        "Snacks or a light lunch"
+      ],
+      "requirements": "Every diver must have logged a dive within the past 3 months and bring a logbook or evidence of it. The Boat Diving page lists the Ex-HMAS Hobart among its Advanced Open Water suitable wreck dives, and the booking link is named 'ex-hmas-hobart-double-dive-aow'.",
+      "offer": null,
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/12/LJH_0092-scaled-e1702531974102.jpg"
+      ],
+      "bookingLinks": [
+        "https://adelaidescuba.rezdy.com/617614/ex-hmas-hobart-double-dive-aow"
+      ],
+      "sourceUrl": "https://adelaidescuba.com.au/ex-hmas-hobart/",
+      "checkNotes": "No price, start time or season on the site. The price options are the same optional daily gear hire rates as on Boat Diving (the page says rental gear, including cylinders, must be picked up from the shop beforehand); there is no tour price, so priceFrom is null. The page's history text says the ship was scuttled off Port Lincoln in the Neptune Islands, which does not fit a boat leaving from Wirrina Cove, so only the ship type and the 2002 scuttling date were taken from that history and its location was dropped; it also gives the wreck depth as around 32 metres (105 feet). The page itself states no certification level, only the recent logged dive; the Advanced Open Water wording comes from the Boat Diving page and the booking link name. The Deep Diver course also includes two boat dives on the Ex-HMAS Hobart."
+    },
+    {
+      "title": "Private Boat Charters",
+      "kind": "charter",
+      "summary": "Reefknot or Abracadabra can be chartered privately for up to 23 passengers. The site suggests a private group of swimmers, a sunset cruise or scattering ashes, and asks people to enquire about anything else. Both boats have toilets, hot and cold showers, tea and coffee and safety equipment.",
+      "highlights": [
+        "Up to 23 passengers",
+        "Choice of Reefknot or Abracadabra",
+        "Suits private swim groups, sunset cruises and scattering ashes",
+        "Toilets, hot showers, tea and coffee and safety equipment on board"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Boat with toilets, hot and cold water showers, tea and coffee and safety equipment"
+      ],
+      "bring": [],
+      "requirements": "Maximum 23 passengers",
+      "offer": null,
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2024/07/LJH_2505-12-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://adelaidescuba.rezdy.com/651465/private-boat-charter"
+      ],
+      "sourceUrl": "https://adelaidescuba.com.au/our-facilities/",
+      "checkNotes": "The page says to enquire about chartering and gives no price, duration, times or departure point (the boats are berthed behind the dive centre). Its 'Private Charters' button links to a Rezdy product (651465, private-boat-charter), which was not opened, so it is not clear whether that takes bookings or only enquiries; if it is enquiry only, remove the link. The contact page has an enquiry form, phone and email."
+    },
+    {
+      "title": "Open Water Diver",
+      "kind": "course",
+      "summary": "The SSI Open Water Diver course, the entry-level certification, run over three days after SSI eLearning at home. Day one is a private session in the on-site heated pool, and days two and three are two boat dives each from the dive boats berthed behind the shop. Classes are limited to 4 students, and certified divers can dive to 18 metres.",
+      "highlights": [
+        "SSI Open Water Diver certification, to a depth of 18 metres",
+        "SSI eLearning at home, one pool day and four boat dives",
+        "Private heated pool with no lane sharing",
+        "Classes of 4 students"
+      ],
+      "duration": "3 days after SSI eLearning at home; each day starts at 9am and finishes about 3pm",
+      "durationMinutes": null,
+      "departureTimes": [
+        "09:00"
+      ],
+      "season": null,
+      "departsFrom": "Adelaide Scuba, 3 Cygnet Ct, Glenelg North (boats are berthed behind the shop)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All scuba equipment (wetsuit, BCD, regulator, fins and boots, tank, weights)",
+        "Private on-site heated dive pool with no lane sharing",
+        "Boats have freshwater showers, toilets, snacks and shelter",
+        "Small class sizes for personalised instruction (4 students)"
+      ],
+      "bring": [
+        "Your own mask and snorkel (strongly recommended; all other gear is provided)"
+      ],
+      "requirements": "Aged 14+ (ages 12 to 14: Junior Open Water Diver). Must be able to swim 200 metres and float for 10 minutes. A medical waiver must be completed.",
+      "offer": null,
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2024/09/FB_IMG_1724285521385.jpg"
+      ],
+      "bookingLinks": [
+        "https://adelaidescuba.com.au/courses/open-water-diver-scuba-lessons/"
+      ],
+      "sourceUrl": "https://adelaidescuba.com.au/courses/open-water-diver-scuba-lessons/",
+      "checkNotes": "Booked through a Rezdy booking widget embedded on this course page, so the page URL is recorded as the booking link (widget: calendarWidget/491973). No price is shown on the page. The menu link /courses/open-water-diver/ redirects to /courses/open-water-diver-scuba-lessons/. Course days: a Wednesday start runs Wednesday to Friday, a Friday start runs Friday to Sunday, and a Saturday start is written as Saturday, Sunday, Saturday. The home page says a double boat dive is guaranteed with every Open Water course. Rescheduling within 14 days of the start costs $100 and eLearning is not refundable once started (FAQ shared by all course pages)."
+    },
+    {
+      "title": "Junior Open Water Diver",
+      "kind": "course",
+      "summary": "The SSI Junior Open Water Diver certification for younger divers, with the same core skills and safety rules as the Open Water Diver course but set depth and supervision limits. Training is SSI eLearning at home, pool or confined water sessions, then open water dives with an SSI instructor. Junior divers can upgrade to Open Water Diver on turning 15 without retaking the course.",
+      "highlights": [
+        "Same core skills as the Open Water Diver course",
+        "Depth and supervision limits for younger divers",
+        "Certified juniors can dive with a buddy and from a boat",
+        "Upgrades to Open Water Diver at age 15 with no need to retake the course"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "Ages 12 to 14 on the course page (the courses list says aged between 12 and 15).",
+      "offer": null,
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/06/IMG_1243.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://adelaidescuba.com.au/courses/junior-open-water-diver/"
+      ],
+      "sourceUrl": "https://adelaidescuba.com.au/courses/junior-open-water-diver/",
+      "checkNotes": "Booked through a Rezdy booking widget embedded on this course page, so the page URL is recorded as the booking link (widget: calendarWidget/515691). No price is shown on the page. The page gives no duration, days, inclusions, depth limits or where the sessions are held; the course photo caption mentions Port Boarlunga. The age range is inconsistent: the courses list says 12 to 15, this page says 12 to 14 and upgrades at 15, and the Open Water page says 14+ for Open Water. Confirm the age range and depth limits with the operator."
+    },
+    {
+      "title": "Advanced Open Water Diver",
+      "kind": "course",
+      "summary": "The SSI Advanced Open Water Diver course, run over one weekend as five boat dives with SSI eLearning done at home. Day one covers three dives (Peak Performance Buoyancy, Navigation, and Fish ID or Boat) and day two covers Deep and Wreck dives. Divers can go to 30 metres once certified, in classes of 4 students.",
+      "highlights": [
+        "SSI Advanced Open Water Diver certification, to a depth of 30 metres",
+        "Five boat dives over a Saturday and Sunday",
+        "Day one: three dives. Day two: Deep and Wreck dives",
+        "Classes of 4 students"
+      ],
+      "duration": "One weekend (Saturday and Sunday), approx 9am to 3pm",
+      "durationMinutes": null,
+      "departureTimes": [
+        "09:00"
+      ],
+      "season": null,
+      "departsFrom": "Adelaide Scuba, 3 Cygnet Ct, Glenelg North (the course starts on the dive boats)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All scuba equipment (wetsuit, BCD, regulator, fins and boots, tank, weights)",
+        "Boats have freshwater showers, toilets, snacks and shelter",
+        "Small class sizes for personalised instruction (4 students)"
+      ],
+      "bring": [
+        "Your own mask and snorkel (strongly recommended; all other gear is provided)"
+      ],
+      "requirements": "Must already be qualified as an Open Water level diver (or hold an equivalent certification from another training organisation). Minimum age 12; divers under 15 receive the Junior Advanced Open Water certification (the page also says 'Be 15 years old (12 for Junior Advanced Open Water Diver)'). Under 18s need a parent or guardian consent form. A dive medical questionnaire must be completed first, with doctor clearance if needed.",
+      "offer": null,
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/06/LJH_6756-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://adelaidescuba.com.au/courses/advanced-open-water-diver/"
+      ],
+      "sourceUrl": "https://adelaidescuba.com.au/courses/advanced-open-water-diver/",
+      "checkNotes": "Booked through a Rezdy booking widget embedded on this course page, so the page URL is recorded as the booking link (widget: calendarWidget/495809). No price is shown on the page. The start time is given as approximately 9am to 3pm, so 09:00 is approximate. The page says the first day is 3 dives and lists the course as 5 boat dives in total."
+    },
+    {
+      "title": "Rescue Diver",
+      "kind": "course",
+      "summary": "The SSI Diver Stress and Rescue Specialty, leading to SSI Rescue Diver certification, run over one weekend after SSI eLearning at home. Day one is a pool session in the heated on-site pool followed by a quick boat dive if time allows, and day two is two boat dives running rescue scenarios. A current First Aid certificate is needed.",
+      "highlights": [
+        "SSI Rescue Diver certification",
+        "Pool session, then rescue scenarios on boat dives",
+        "Private heated pool with no lane sharing",
+        "Needs current First Aid certification (HLTAID 011)"
+      ],
+      "duration": "Two days (one weekend), after SSI eLearning at home",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Adelaide Scuba, 3 Cygnet Ct, Glenelg North (boats are berthed behind the shop)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All scuba equipment (wetsuit, BCD, regulator, fins and boots, tank, weights)",
+        "Private on-site heated dive pool with no lane sharing",
+        "Boats have freshwater showers, toilets, snacks and shelter",
+        "Small class sizes for personalised instruction (4 students)"
+      ],
+      "bring": [
+        "Your own mask and snorkel (strongly recommended; all other gear is provided)"
+      ],
+      "requirements": "SSI Advanced Open Water Diver (or equivalent qualifying certification from another training organisation). Current First Aid certification (First Aid HLTAID 011). 15 years old.",
+      "offer": null,
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2022/10/LJH_4691-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://adelaidescuba.com.au/courses/rescue-diver/"
+      ],
+      "sourceUrl": "https://adelaidescuba.com.au/courses/rescue-diver/",
+      "checkNotes": "Booked through a Rezdy booking widget embedded on this course page, so the page URL is recorded as the booking link (widget: calendarWidget/500448). No price is shown on the page. No start time is stated. The page notes Master Scuba Diver as the next step (Rescue Diver plus 5 SSI specialty certifications and 50 logged dives)."
+    },
+    {
+      "title": "Enriched Air Nitrox Diver",
+      "kind": "course",
+      "summary": "The SSI Enriched Air (Nitrox) Diver specialty, a dry course made up of SSI eLearning at home and about an hour of practical work with an instructor. It covers planning dives on enriched air, analysing the oxygen content of a tank, labelling Nitrox cylinders and programming a dive computer for the mix.",
+      "highlights": [
+        "SSI eLearning at home, then about 1 hour with your instructor",
+        "Dry course, no dive required",
+        "Analysing and labelling Nitrox cylinders",
+        "Programming your dive computer for the right mix"
+      ],
+      "duration": "About 1 hour of practical with your instructor, plus SSI eLearning at home",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "SSI eLearning",
+        "Practical session with your instructor"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2022/10/nitrox-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://adelaidescuba.com.au/courses/enriched-air-nitrox-diver/"
+      ],
+      "sourceUrl": "https://adelaidescuba.com.au/courses/enriched-air-nitrox-diver/",
+      "checkNotes": "Booked through a Rezdy booking widget embedded on this course page, so the page URL is recorded as the booking link (widget: calendarWidget/500289). No price is shown on the page. The page states no prerequisite, minimum age or where the practical session is held. The courses list describes this course with text that reads as copied from another course."
+    },
+    {
+      "title": "Wreck Diver",
+      "kind": "course",
+      "summary": "The SSI Wreck Diver specialty (the page also calls it the SSI Advanced Wreck Diver course), run over two days with four wreck dives from the on-site dive boats after SSI eLearning at home. It covers mapping, drawing, navigating and safe penetration techniques, including wreck penetration lines.",
+      "highlights": [
+        "Two wreck dives on each of two days",
+        "Mapping, drawing and wreck penetration techniques",
+        "Wreck penetration lines used in zero visibility situations",
+        "Classes of 4 students"
+      ],
+      "duration": "Two days of two wreck dives, after SSI eLearning at home",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Adelaide Scuba, 3 Cygnet Ct, Glenelg North (boats are berthed behind the shop)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All scuba equipment (wetsuit, BCD, regulator, fins and boots, tank, weights)",
+        "Boats have freshwater showers, toilets, snacks and shelter",
+        "Small class sizes for personalised instruction (4 students)"
+      ],
+      "bring": [
+        "Diving mask and snorkel",
+        "Dive reel",
+        "Line cutting device",
+        "Underwater slate"
+      ],
+      "requirements": "15 years old. Open Water certificate.",
+      "offer": null,
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2022/10/wreck-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://adelaidescuba.com.au/courses/wreck-diver/"
+      ],
+      "sourceUrl": "https://adelaidescuba.com.au/courses/wreck-diver/",
+      "checkNotes": "Booked through a Rezdy booking widget embedded on this course page, so the page URL is recorded as the booking link (widget: calendarWidget/496717). No price is shown on the page. The page title is Wreck Diver but the text calls it 'SSI Advanced Wreck Diver Diver certification' and 'SSI Wreck Diver Specialist Course'. Which wrecks are dived is not stated. No start time is stated."
+    },
+    {
+      "title": "Deep Diver",
+      "kind": "course",
+      "summary": "The SSI Deep Diver specialty for divers who want to go past 18 metres, to a maximum of 40 metres. It runs over two days of boat dives from the on-site dive boats after SSI eLearning at home, and includes two boat dives on the Ex-HMAS Hobart. Divers learn deep dive planning, gas management and the use of a pony bottle.",
+      "highlights": [
+        "SSI Deep Diver certification, to a depth of 40 metres",
+        "Two boat dives on the Ex-HMAS Hobart included",
+        "Two days of two boat dives each",
+        "Deep dive planning, gas management and pony bottle use"
+      ],
+      "duration": "Two days of two boat dives, after SSI eLearning at home",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Adelaide Scuba, 3 Cygnet Ct, Glenelg North (boats are berthed behind the shop)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Two boat dives on the Ex-HMAS Hobart",
+        "All scuba equipment (wetsuit, BCD, regulator, fins and boots, tank, weights)",
+        "Boats have freshwater showers, toilets, snacks and shelter",
+        "Small class sizes for personalised instruction (4 students)"
+      ],
+      "bring": [
+        "Your own mask and snorkel (strongly recommended; all other gear is provided)"
+      ],
+      "requirements": "SSI Advanced Open Water Diver (or equivalent certification).",
+      "offer": null,
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2022/10/LJH_5436-1-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://adelaidescuba.com.au/courses/deep-diver/"
+      ],
+      "sourceUrl": "https://adelaidescuba.com.au/courses/deep-diver/",
+      "checkNotes": "Booked through a Rezdy booking widget embedded on this course page, so the page URL is recorded as the booking link (widget: calendarWidget/506230). No price is shown on the page. The course structure lists two boat dives a day for two days, while the description also mentions one theory and pool session, sling tanks, air fills and gear hire. The Hobart dives may depart from Wirrina Cove rather than Glenelg (see the Ex-HMAS Hobart trip); confirm where this course meets."
+    },
+    {
+      "title": "Drysuit Diver",
+      "kind": "course",
+      "summary": "The SSI Drysuit Diver specialty, completed in one day after SSI eLearning at home. A quick pool session in the morning is followed by a double boat dive. Divers must bring their own drysuit and undergarments, as the dive centre does not hire them.",
+      "highlights": [
+        "Quick pool session, then a double boat dive in one day",
+        "Hire equipment included, but not the drysuit or undergarments",
+        "Certification delivered as an eCard",
+        "Classes of 4 students"
+      ],
+      "duration": "One day, after SSI eLearning at home",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Adelaide Scuba, 3 Cygnet Ct, Glenelg North (boats are berthed behind the shop)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Hire equipment (not including the drysuit or undergarments)",
+        "Double boat dive",
+        "Tuition from a qualified instructor",
+        "Air fills",
+        "SSI eLearning",
+        "Certification with an eCard"
+      ],
+      "bring": [
+        "Your own drysuit and appropriate undergarments (none are available for hire)"
+      ],
+      "requirements": "SSI Open Water or equivalent. Your own drysuit and appropriate undergarments. 12 years old.",
+      "offer": null,
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2024/09/FB_IMG_1724285521385.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://adelaidescuba.com.au/courses/drysuit-diver/",
+        "https://adelaidescuba.rezdy.com/496273/padi-drysuit-course"
+      ],
+      "sourceUrl": "https://adelaidescuba.com.au/courses/drysuit-diver/",
+      "checkNotes": "No price on the page. The course page embeds the Rezdy product 496273 in an iframe; the link is recorded without the iframe query. The Rezdy link is named 'padi-drysuit-course' and the hero photo's caption says PADI instructor, but the page text says SSI; confirm the agency. The page header banner is the Try Dive banner image (left out). The page's What's Included list also says drysuits are not included or available for rent."
+    },
+    {
+      "title": "Sidemount Diver",
+      "kind": "course",
+      "summary": "A Sidemount Diver course teaching how to dive with cylinders mounted at your sides. Day one is a 2 hour theory session and exam, equipment configuration and a pool session, followed by two days of two boat dives each. Divers need their own sidemount equipment.",
+      "highlights": [
+        "Day one: theory and exam, equipment configuration and pool session",
+        "Two days of two boat dives each",
+        "Private heated pool with no lane sharing",
+        "Classes of 4 students"
+      ],
+      "duration": "Three days, with theory learned at home beforehand",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Adelaide Scuba, 3 Cygnet Ct, Glenelg North (boats are berthed behind the shop)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Private on-site heated dive pool with no lane sharing",
+        "Boats have freshwater showers, toilets, snacks and shelter",
+        "Small class sizes for personalised instruction (4 students)"
+      ],
+      "bring": [
+        "Full personal sidemount harness and wing (XDeep Stealth 2.0 recommended)",
+        "Two cylinders with independent regulators with 1m and 1.5 or 2.1m hoses",
+        "SMB with a 15m minimum spool",
+        "Line cutting device"
+      ],
+      "requirements": "Aged 18+. Open Water Diver. A medical waiver must be completed.",
+      "offer": null,
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2023/06/skoober.jpeg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://adelaidescuba.com.au/courses/sidemount-diver/"
+      ],
+      "sourceUrl": "https://adelaidescuba.com.au/courses/sidemount-diver/",
+      "checkNotes": "Booked through a Rezdy booking widget embedded on this course page, so the page URL is recorded as the booking link (widget: calendarWidget/664868). No price is shown on the page. The page does not name the certifying agency or say whether gear is provided; its listed prerequisites are the equipment above. The courses list describes this course with text about freediving, which reads as a copy error."
+    },
+    {
+      "title": "Navigation Specialty Diver",
+      "kind": "course",
+      "summary": "The SSI Navigation Specialty course, run over two days of two boat dives each after SSI eLearning at home. Divers learn to use a compass, estimate distances, follow natural navigation clues and make dive maps. Classes are limited to 4 students.",
+      "highlights": [
+        "Compass use, distance estimation and natural navigation",
+        "Creating detailed dive maps",
+        "Two days of two boat dives each",
+        "Classes of 4 students"
+      ],
+      "duration": "Two days of two boat dives, after SSI eLearning at home",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Adelaide Scuba, 3 Cygnet Ct, Glenelg North (boats are berthed behind the shop)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All scuba equipment (wetsuit, BCD, regulator, fins and boots, tank, weights)",
+        "Boats have freshwater showers, toilets, snacks and shelter",
+        "Small class sizes for personalised instruction (4 students)"
+      ],
+      "bring": [
+        "Your own mask and snorkel (strongly recommended; all other gear is provided)"
+      ],
+      "requirements": "Certified SSI Open Water Diver (or PADI, SDI etc.). Aged 14+ (the page adds '12-14 - Junior Open Water Diver'). A medical waiver must be completed.",
+      "offer": null,
+      "images": [
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1742711869304.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/10/FB_IMG_1744339862287.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2025/03/LJH_7510_1-scaled.jpg",
+        "https://adelaidescuba.com.au/wp-content/uploads/2024/09/FB_IMG_1724285521385.jpg"
+      ],
+      "bookingLinks": [
+        "https://adelaidescuba.com.au/courses/underwater-navigator/"
+      ],
+      "sourceUrl": "https://adelaidescuba.com.au/courses/underwater-navigator/",
+      "checkNotes": "Booked through a Rezdy booking widget embedded on this course page, so the page URL is recorded as the booking link (widget: calendarWidget/681201). No price is shown on the page. The course is called Navigation Specialty Diver on the courses list and Underwater Navigator on the page text. The Before you book list repeats Open Water page wording (14+, 12-14 Junior Open Water), so the minimum age may be wrong. The page's only own image is a banner with text (left out)."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Vouchers can be put towards a Learn To Dive course",
+      "conditions": "Vouchers must be redeemed within the expiry date and will not be extended.",
+      "validUntil": null,
+      "sourceUrl": "https://adelaidescuba.com.au/courses/open-water-diver-scuba-lessons/"
+    }
+  ],
+  "checkNotes": "No trip or course price appears anywhere on the site: prices sit inside Rezdy booking widgets and calendars, which were not opened, so prices is empty for every trip. The only dollar amounts on the site are daily gear hire rates, gas fill and servicing prices on the Services & Facilities page, and a $100 reschedule fee in the course FAQ. Gear hire rates are recorded as optional add-on price options on the two boat trips where divers hire gear, with priceFrom null. Course FAQ (identical on all 13 course pages): rescheduling within 14 days of the course start costs $100, eLearning is not refundable once started, and vouchers can be put towards a Learn To Dive course. All booking links are on adelaidescuba.rezdy.com. The boat dive BOOK buttons go to a Rezdy monthly calendar (productsMonthlyCalendar/657278). The menu 'Calendar' (productsMonthlyCalendar/557971) and 'Join the Dive Club' (rezdy.com/667321/dive-club) were left out because they are menu links into the booking system with no described trip. Course pages embed Rezdy widgets in iframes, so those trips carry the course page URL as the booking link. SSI or PADI: the courses are SSI and the Boat Diving page calls the centre an SSI Dive Centre, but the footer logo is a PADI logo (alt text 'PADI Logo'), the drysuit booking link is named 'padi-drysuit-course', one photo caption mentions a PADI instructor and the team list includes an SDI/TDI instructor; confirm which agencies they teach. The home page calls the centre award winning without naming an award, so it is not repeated. Left out as not trips: gear rental, servicing, gas fills, pool hire for film and photo shoots, retail (the Shop page says coming soon) and the Dive Club. Try Dive, Refresher and Pool Workshops are swimming pool sessions with no ocean dive and are flagged on each trip in case they should be dropped. Shop hours: closed Monday and Tuesday, 9:00 to 17:00 Wednesday to Sunday. The Terms and Conditions page is unfilled template text ('Company Name', 'Website.com'). The email address is hidden behind Cloudflare obfuscation on the pages and was decoded from the page source; it matches on the home, contact and Services & Facilities pages. No YouTube or Vimeo channel is linked from the site. Left off the page as pool-only, not on the sea: Try Dive, Refresher, Pool Workshops."
+}

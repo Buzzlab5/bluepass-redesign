@@ -1,0 +1,129 @@
+{
+  "slug": "marine-adventures-lord-howe",
+  "name": "Marine Adventures Lord Howe",
+  "website": "https://marineadventureslordhowe.com",
+  "rezdyAlias": "lordhoweislandmarineadventuresptyltd",
+  "state": "NSW",
+  "town": "Lord Howe Island",
+  "category": "Glass bottom boat tours",
+  "summary": "Glass bottom boat tours and private charters in the Lord Howe Island Marine Park, run on the new vessel Adventure Blue. Trips cover turtle spotting, snorkelling and a visit to North Bay, with commentary on the island's marine life. Tours run daily from September to May, and times change each week with the tides.",
+  "standouts": [
+    "Glass bottom boat Adventure Blue, with large viewing panels (the site calls them the largest on the island)",
+    "Snorkelling equipment provided on both public tours",
+    "Guided seabird walk at North Bay with Anthony",
+    "New Expedition Adventure charters beyond the lagoon and reef, for up to 12 people"
+  ],
+  "contact": {
+    "phone": "+61 476 513 202",
+    "email": "turtletourslhi@gmail.com",
+    "address": null
+  },
+  "heroImage": "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/3eaa8b7b-1a5b-48f9-aa3b-2e6f552b826e/IMG_4603.jpeg",
+  "sourceUrls": [
+    "https://www.marineadventureslordhowe.com/",
+    "https://www.marineadventureslordhowe.com/home",
+    "https://www.marineadventureslordhowe.com/sitemap.xml",
+    "https://www.marineadventureslordhowe.com/about",
+    "https://www.marineadventureslordhowe.com/contact-us",
+    "https://www.marineadventureslordhowe.com/take-action",
+    "https://www.marineadventureslordhowe.com/store",
+    "https://www.marineadventureslordhowe.com/new-home-page-1"
+  ],
+  "trips": [
+    {
+      "title": "North Bay Turtle & Nature Tour",
+      "kind": "tour",
+      "summary": "A three hour trip on the glass bottom boat Adventure Blue to North Bay, with turtle spotting, a wreck snorkel and commentary on the island's marine life. At North Bay guests can climb Mt Eliza, explore the Old Gulch, see the seabird rookery in season and join a guided seabird walk with Anthony. Guests can also swim or simply relax on the beach. Snorkelling equipment is provided.",
+      "highlights": [
+        "Glass bottom boat with large viewing panels",
+        "Spot turtles and snorkel the wreck",
+        "Time at North Bay: climb Mt Eliza, explore the Old Gulch, guided seabird walk with Anthony",
+        "Snorkelling equipment provided"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": "Daily, September to May",
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Snorkelling equipment provided"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/1580108729671-0PEA0BKE2FO6LHCBVYXM/_MG_2356.jpg"
+      ],
+      "bookingLinks": [
+        "https://marineadventureslordhowe.com/"
+      ],
+      "sourceUrl": "https://www.marineadventureslordhowe.com/",
+      "checkNotes": "No price, departure time or meeting point on the site. Prices and times sit inside the Rezdy booking widget embedded at the foot of the home page (carousel widget, not opened), and the site says tour times change weekly according to the tides. No product-specific booking link is on the page, so bookingLinks is empty. The title is shown on two lines, with 'Glass Bottom Boat' above 'North Bay Turtle & Nature Tour'; the second line is used as the title. 'Snorkel the wreck' does not name the wreck. Whether the guided seabird walk costs extra is not stated. The seabird rookery is described as seasonal, with no months given. The site calls the viewing panel the largest on the island; not repeated in the summary. Booked through the Rezdy widget on the home page, so the booking link is the home page."
+    },
+    {
+      "title": "Turtle Tour & Two Spot Snorkel Experience",
+      "kind": "snorkel",
+      "summary": "A two hour tour on Adventure Blue centred on the island's turtles and marine life. Guests look through the large glass viewing panels, snorkel off the boat, or do both, and the crew guide them to the best spots in the marine park. Snorkelling equipment is provided.",
+      "highlights": [
+        "Tour dedicated to turtles and marine life",
+        "View the reef through large glass panels and/or snorkel off the boat",
+        "Crew guide you to the best spots in the marine park",
+        "Snorkelling equipment provided"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": "Daily, September to May",
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Snorkelling equipment provided",
+        "Crew guide to the best spots in the marine park"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/3eaa8b7b-1a5b-48f9-aa3b-2e6f552b826e/IMG_4603.jpeg"
+      ],
+      "bookingLinks": [
+        "https://marineadventureslordhowe.com/"
+      ],
+      "sourceUrl": "https://www.marineadventureslordhowe.com/",
+      "checkNotes": "No price, departure time or meeting point on the site; prices and times are only in the embedded Rezdy widget (not opened) and change weekly with the tides. The title is shown on two lines, with 'Glass Bottom Boat' above 'Turtle Tour & Two Spot Snorkel Experience'; the second line is used as the title. The site does not say which two spots are snorkelled. Booked through the Rezdy widget on the home page, so the booking link is the home page."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "Private tours on Adventure Blue for family and friends, with room for up to 24 people in the sheltered waters of the lagoon, or 12 on the new Expedition Adventures beyond the lagoon and reef. Charters run for 2 or 3 hours, or can be tailored, and Anthony can build a custom tour or arrange drop offs and pick ups. Options include North Bay, snorkelling, seabird talks and an expedition. Enquiries go direct by email.",
+      "highlights": [
+        "Up to 24 people in the lagoon",
+        "Up to 12 people on Expedition Adventures beyond the lagoon and reef",
+        "2 hour and 3 hour charters, or a tailored trip",
+        "Custom tours, drop offs and pick ups"
+      ],
+      "duration": "2 hours or 3 hours, or tailored",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "Maximum 24 people within the lagoon; maximum 12 on Expedition Adventures beyond the lagoon and reef.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/1580507273300-2DIY3SZAU7AGTP6MXFCF/snorkel+tour-copy.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.marineadventureslordhowe.com/",
+      "checkNotes": "Enquiry only: the page says to contact turtletourslhi@gmail.com direct. No prices on the site. Season is not stated for charters (the site says its tours operate daily September to May), so left null. The home page banner mentions 'New Expedition Adventure Charters' to the southernmost coral reef; the Private Charters text describes Expedition Adventures as a 12 person option beyond the lagoon and reef, so they are covered here rather than listed as a separate trip. Whether Expedition Adventures are sold as a separate bookable product is not known."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Only the home page carries real content. The About, Contact Us, Take Action, Store and New Home Page pages are unedited Squarespace template pages with placeholder text (for example 'email@example.com' and '123 Demo Street, New York'), so no contact details or copy were taken from them. The site shows no prices anywhere: bookings and times are handled by a Rezdy carousel widget embedded in the home page (https://lordhoweislandmarineadventuresptyltd.rezdy.com/carouselWidget/428227?iframe=true), which was not opened under the Rezdy rule. The widget may list products, vouchers or extra tours that the page text does not, so a person should look at the live widget before publishing. The Rezdy account name suggests the company is Lord Howe Island Marine Adventures Pty Ltd; the site itself says 'Marine Adventures' and its header title is just a full stop, with no logo. Phone is shown on the site as 0476 513 202. No address on the site. Departure point, meeting place and departure times are not stated; the site says tour times change weekly according to the tides. Sitemap shows the home page last changed 2026-08-03. The home page text says the Marine Park has over 500 fish species and more than 80 coral species; not used as a standout because it describes the park, not the operator."
+}

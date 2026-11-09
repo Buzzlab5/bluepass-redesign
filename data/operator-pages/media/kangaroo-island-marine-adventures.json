@@ -1,0 +1,59 @@
+{
+  "slug": "kangaroo-island-marine-adventures",
+  "logo": "https://kimarineadventures.com.au/lib/yerfa9/ki-logo-new-3-small-wide-strike-m3io1bfx.png",
+  "gallery": [
+    "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_2/move7y0k/element_102/dolphins-2.webp",
+    "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_2/move7y0k/element_104/Dolphins.webp",
+    "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_5/move7x98/element_186/rwdMode_1/2400x482/IMG_3181.jpg",
+    "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_1/move7y82/element_38/Celeb1.webp",
+    "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_7/move7wzg/element_225/dolphins.png",
+    "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_2/move7y0k/element_105/dolphins-profile.png",
+    "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_1/move7y82/element_16/rwdMode_1/553x343/image0.jpeg",
+    "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_2/move7y0k/element_119/Screenshot-2024-11-15-221403.png",
+    "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_2/move7y0k/element_127/Screenshot-2024-11-14-171345.png",
+    "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_2/move7y0k/element_128/Screenshot-2024-11-14-171534.png",
+    "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_1/move7y82/element_314/Screenshot-2024-11-14-171508.png",
+    "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_2/move7y0k/element_126/Screenshot-2024-11-15-221628.png",
+    "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_2/move7y0k/element_103/Screenshot-2024-11-16-141309.png",
+    "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_1/move7y82/element_24/rwdMode_3/400x240/kids1.webp"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=kugcKggVZM4",
+      "title": "Kangaroo Island Marine Adventures commercial",
+      "sourceUrl": "https://kimarineadventures.com.au/video-library"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4Rb9GtgRN8Y",
+      "title": "Full video tour",
+      "sourceUrl": "https://kimarineadventures.com.au/kangaroo-island-tours--kima-full-video-tour"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=81BrqJut6WM",
+      "title": "A sneak peek into the world of the dolphins",
+      "sourceUrl": "https://kimarineadventures.com.au/kangaroo-island-tours--a-sneek-peak-into-the-world-of-the-dolphins"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=frp8DewQR1M",
+      "title": "Swimming with the dolphins",
+      "sourceUrl": "https://kimarineadventures.com.au/kangaroo-island-marine-adventures-swimming-with-the-dolphins"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Island Explorer and Dolphin Swim Tour",
+      "images": [
+        "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_5/move7x98/element_186/rwdMode_1/2400x482/IMG_3181.jpg",
+        "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_5/move7x98/element_164/Marine-with-dolphins.webp",
+        "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_2/move7y0k/element_104/Dolphins.webp",
+        "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_5/move7x98/element_165/dolphins-profile.png",
+        "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_1/move7y82/element_38/Celeb1.webp",
+        "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_1/move7y82/element_314/Screenshot-2024-11-14-171508.png",
+        "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_5/move7x98/element_163/Screenshot-2024-11-15-221628.png",
+        "https://kimarineadventures.com.au/files/dynamicContent/sites/yerfa9/images/en/webpage_1/move7y82/element_16/rwdMode_1/553x343/image0.jpeg",
+        "https://kimarineadventures.com.au/lib/yerfa9/Screenshot-2024-11-25-194308-m3wt9bl8.png"
+      ]
+    }
+  ],
+  "notes": "Site is built on WebWave, which serves only resized copies (the path without the rwdMode size folder returns 404), so the largest served copy of each photo is recorded. Several 'Screenshot-2024-...' PNGs are stills the operator uses as photos (skipper, boat, dolphins). On the trip page Dolphins.webp and Celeb1.webp are only small thumbnails; the same files at full size from the about and home pages are recorded instead. Left out: dolphin-386744_640.jpg and dolphin-8652757_640.png (Pixabay-style stock file names), unsplash-image.jpg on the island information page (Unsplash), the Quicki direct-booking banners, award and partner badges, and the Island Explorer gift card graphic. All four videos are embedded on the site's own video pages and sit on the operator's channel youtube.com/@kimarineadventures; the site has no link to the channel, so it was not browsed. No captcha or bot check met. Booking calendars are Rezdy widgets and were not opened."
+}

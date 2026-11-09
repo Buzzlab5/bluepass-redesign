@@ -1,0 +1,766 @@
+{
+  "slug": "therapy-charters",
+  "name": "Therapy Charters",
+  "website": "https://therapychartersbb.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Fishing and turtle charters",
+  "summary": "A family owned Barbadian charter company running two Pro-Line boats, the 26 ft Dad's Therapy and the 33 ft Mom's Therapy, from a dock in Bridgetown. Every fishing charter is private, from three-hour light tackle trips to full days after marlin and wahoo. They also run two-hour turtle swim and shipwreck snorkel trips.",
+  "standouts": [
+    "Family owned and operated, Barbadian owned",
+    "All fishing charters are private, no shared fishing trips",
+    "Each boat has its own private restroom",
+    "Caters for non-swimmers, special needs and mothers with infants on turtle trips"
+  ],
+  "contact": {
+    "phone": "+1 246-234-3433",
+    "email": "info@therapychartersbb.com",
+    "address": "#34 House of Pillars, Cavans Lane Bridgetown Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://therapychartersbb.com/wp-content/uploads/2020/03/Edit-DJI_0037.jpg",
+  "sourceUrls": [
+    "https://therapychartersbb.com/",
+    "https://therapychartersbb.com/dads-therapy-fishing-charter/",
+    "https://therapychartersbb.com/moms-therapy/",
+    "https://therapychartersbb.com/dads-therapy/",
+    "https://therapychartersbb.com/moms-therapy-turtle-trip/",
+    "https://therapychartersbb.com/wp-json/wp/v2/pages?per_page=50&_fields=id,link,modified,status"
+  ],
+  "trips": [
+    {
+      "title": "3hr Lite Tackle Fishing Charter - Private (Dad's Therapy, 26 ft)",
+      "kind": "charter",
+      "summary": "A private light tackle trip in shallow water off the south and west coasts, recommended for families and small groups. It suits people who want a hands-on fishing trip without heading out for big game.",
+      "highlights": [
+        "Light tackle fishing in shallow water",
+        "Targets amberjack, great barracuda, snapper and grouper",
+        "Recommended for families and small groups",
+        "Round trip transport option available"
+      ],
+      "duration": "3 Hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": "All months",
+      "departsFrom": "Docking point in Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter, up to 4 people",
+          "amount": 350,
+          "currency": "USD",
+          "note": "Per boat"
+        },
+        {
+          "label": "Additional person",
+          "amount": 50,
+          "currency": "USD",
+          "note": "Per additional person"
+        }
+      ],
+      "priceFrom": 350,
+      "includes": [
+        "Sandwiches and refreshments"
+      ],
+      "bring": [],
+      "requirements": "Age 2+. Max availability 6",
+      "offer": null,
+      "images": [
+        "https://therapychartersbb.com/wp-content/uploads/2020/03/A61031D8-6836-4936-80D4-7BAE9309DA22-e1584652481269.jpeg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/b5ff1fbd-4048-4979-9a51-8ba023612232/BY3Wy"
+      ],
+      "sourceUrl": "https://therapychartersbb.com/dads-therapy-fishing-charter/",
+      "checkNotes": null
+    },
+    {
+      "title": "4Hr Half Day Fishing Charter - Private (Dad's Therapy, 26 ft)",
+      "kind": "charter",
+      "summary": "A private half day of fishing for barracuda, wahoo, tuna and other species, open to beginners and experienced anglers. The crew uses trolling, jigging and live baiting, and your catch can be cleaned to take away or grilled for you.",
+      "highlights": [
+        "For all experience levels",
+        "Trolling, jigging and live baiting",
+        "Less than 10 minutes to the fishing grounds",
+        "Catch cleaned to take away, or grilled for you"
+      ],
+      "duration": "4 Hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": "All months",
+      "departsFrom": "Docking point in Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter, up to 4 people",
+          "amount": 400,
+          "currency": "USD",
+          "note": "Per boat"
+        },
+        {
+          "label": "Additional person",
+          "amount": 50,
+          "currency": "USD",
+          "note": "Per additional person"
+        }
+      ],
+      "priceFrom": 400,
+      "includes": [
+        "All required equipment",
+        "Light refreshments, drinks and sandwiches"
+      ],
+      "bring": [],
+      "requirements": "Age 2+. Max availability 6",
+      "offer": null,
+      "images": [
+        "https://therapychartersbb.com/wp-content/uploads/2020/03/E49BD4B9-92FA-4BB1-B15D-F9B9FEF8157D-e1584653311713.jpeg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/b5ff1fbd-4048-4979-9a51-8ba023612232/Rxv9a"
+      ],
+      "sourceUrl": "https://therapychartersbb.com/dads-therapy-fishing-charter/",
+      "checkNotes": "Price shown as \"400 USd\" without a dollar sign."
+    },
+    {
+      "title": "5hr Fish n Swim Charter - Private (Dad's Therapy, 26 ft)",
+      "kind": "charter",
+      "summary": "A private trip that mixes fishing for barracuda, wahoo and other species with time for a swim, aimed at families and friends. All experience levels are welcome and the catch can be cleaned to take away or grilled.",
+      "highlights": [
+        "Fishing and swimming in one trip",
+        "For all experience levels",
+        "Trolling, jigging and live baiting",
+        "Catch cleaned to take away, or grilled for you"
+      ],
+      "duration": "5 Hours",
+      "durationMinutes": 300,
+      "departureTimes": [],
+      "season": "All months",
+      "departsFrom": "Docking point in Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter, up to 4 people",
+          "amount": 450,
+          "currency": "USD",
+          "note": "Per boat"
+        },
+        {
+          "label": "Additional person",
+          "amount": 50,
+          "currency": "USD",
+          "note": "Per additional person"
+        }
+      ],
+      "priceFrom": 450,
+      "includes": [
+        "Sandwiches and refreshments"
+      ],
+      "bring": [],
+      "requirements": "Age 2+. Max availability 6",
+      "offer": null,
+      "images": [
+        "https://therapychartersbb.com/wp-content/uploads/2020/03/3201B6DC-6A7C-4069-9338-3D50733D511D-1-e1584653258188.jpeg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/b5ff1fbd-4048-4979-9a51-8ba023612232/kxpW1"
+      ],
+      "sourceUrl": "https://therapychartersbb.com/dads-therapy-fishing-charter/",
+      "checkNotes": null
+    },
+    {
+      "title": "6 hr Hardcore Fishing Charter - Private (Dad's Therapy, 26 ft)",
+      "kind": "charter",
+      "summary": "A private charter for experienced anglers that targets big game such as marlin, sailfish and bluefin tuna. A local Barbadian lunch is prepared and served on board.",
+      "highlights": [
+        "For experienced anglers",
+        "Targets marlin, sailfish and bluefin tuna",
+        "Local Barbadian lunch served",
+        "Less than 10 minutes to the fishing grounds"
+      ],
+      "duration": "6 Hours",
+      "durationMinutes": 360,
+      "departureTimes": [],
+      "season": "All months",
+      "departsFrom": "Docking point in Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter, up to 4 people",
+          "amount": 550,
+          "currency": "USD",
+          "note": "Per boat"
+        },
+        {
+          "label": "Additional person",
+          "amount": 50,
+          "currency": "USD",
+          "note": "Per additional person"
+        }
+      ],
+      "priceFrom": 550,
+      "includes": [
+        "Sandwiches and refreshments",
+        "Local Barbadian lunch"
+      ],
+      "bring": [],
+      "requirements": "Age 16+. Max availability 6",
+      "offer": null,
+      "images": [
+        "https://therapychartersbb.com/wp-content/uploads/2020/03/BE9BF4BC-9E04-48AC-A506-F9ED10BB7103-e1584652630653.jpeg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/b5ff1fbd-4048-4979-9a51-8ba023612232/1vY29"
+      ],
+      "sourceUrl": "https://therapychartersbb.com/dads-therapy-fishing-charter/",
+      "checkNotes": null
+    },
+    {
+      "title": "8hr Whole Day Fishing Charter - Private (Dad's Therapy, 26 ft)",
+      "kind": "charter",
+      "summary": "A private full day out after big game such as marlin, sailfish and bluefin tuna, set up for experienced anglers. A local Barbadian lunch is prepared and served on board.",
+      "highlights": [
+        "For experienced anglers",
+        "Targets marlin, sailfish and bluefin tuna",
+        "Local Barbadian lunch served",
+        "Less than 10 minutes to the fishing grounds"
+      ],
+      "duration": "8 Hours",
+      "durationMinutes": 480,
+      "departureTimes": [],
+      "season": "All months",
+      "departsFrom": "Docking point in Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter, up to 4 people",
+          "amount": 750,
+          "currency": "USD",
+          "note": "Per boat"
+        },
+        {
+          "label": "Additional person",
+          "amount": 50,
+          "currency": "USD",
+          "note": "Per additional person"
+        }
+      ],
+      "priceFrom": 750,
+      "includes": [
+        "Sandwiches and refreshments",
+        "Local Barbadian lunch"
+      ],
+      "bring": [],
+      "requirements": "Age 16+. Max availability 6",
+      "offer": null,
+      "images": [
+        "https://therapychartersbb.com/wp-content/uploads/2020/03/59C06EA2-A999-4888-8ABD-D53D4AD62283-e1584652336598.jpeg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/b5ff1fbd-4048-4979-9a51-8ba023612232/ZrV9p?gaClientId=1081585765.1582813916"
+      ],
+      "sourceUrl": "https://therapychartersbb.com/dads-therapy-fishing-charter/",
+      "checkNotes": null
+    },
+    {
+      "title": "3hr Lite Tackle Fishing Charter - Private (Mom's Therapy, 33 ft)",
+      "kind": "charter",
+      "summary": "A private light tackle trip in shallow water off the south and west coasts, recommended for families and small groups. It suits people who want a hands-on fishing trip without heading out for big game.",
+      "highlights": [
+        "Light tackle fishing in shallow water",
+        "Targets amberjack, great barracuda, snapper and grouper",
+        "Recommended for families and small groups",
+        "Round trip transport option available"
+      ],
+      "duration": "3hr in the title, 4 Hours in the trip details",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "All months",
+      "departsFrom": "Docking point in Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter, up to 6 people",
+          "amount": 499,
+          "currency": "USD",
+          "note": "Per boat"
+        },
+        {
+          "label": "Additional person",
+          "amount": 50,
+          "currency": "USD",
+          "note": "Per additional person"
+        }
+      ],
+      "priceFrom": 499,
+      "includes": [
+        "Sandwiches and refreshments"
+      ],
+      "bring": [],
+      "requirements": "Age 2+. Max availability 8",
+      "offer": null,
+      "images": [
+        "https://therapychartersbb.com/wp-content/uploads/2020/03/WhatsApp-Image-2019-07-20-at-20.54.46-500x500-1.jpeg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/b5ff1fbd-4048-4979-9a51-8ba023612232/avjb3"
+      ],
+      "sourceUrl": "https://therapychartersbb.com/moms-therapy/",
+      "checkNotes": "Title says 3hr but the trip details line says 4 Hours; durationMinutes left null."
+    },
+    {
+      "title": "4Hr Half Day Fishing Charter - Private (Mom's Therapy, 33 ft)",
+      "kind": "charter",
+      "summary": "A private half day of fishing for barracuda, wahoo, tuna and other species, open to beginners and experienced anglers. The crew uses trolling, jigging and live baiting, and your catch can be cleaned to take away or grilled for you.",
+      "highlights": [
+        "For all experience levels",
+        "Trolling, jigging and live baiting",
+        "Less than 10 minutes to the fishing grounds",
+        "Catch cleaned to take away, or grilled for you"
+      ],
+      "duration": "4 Hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": "All months",
+      "departsFrom": "Docking point in Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter, up to 6 people",
+          "amount": 550,
+          "currency": "USD",
+          "note": "Per boat"
+        },
+        {
+          "label": "Additional person",
+          "amount": 50,
+          "currency": "USD",
+          "note": "Per additional person"
+        }
+      ],
+      "priceFrom": 550,
+      "includes": [
+        "All required equipment",
+        "Light refreshments, drinks and sandwiches"
+      ],
+      "bring": [],
+      "requirements": "Age 2+. Max availability 8",
+      "offer": null,
+      "images": [
+        "https://therapychartersbb.com/wp-content/uploads/2020/03/IMG_4749.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/b5ff1fbd-4048-4979-9a51-8ba023612232/zgLeb"
+      ],
+      "sourceUrl": "https://therapychartersbb.com/moms-therapy/",
+      "checkNotes": null
+    },
+    {
+      "title": "5hr Fish n Swim Charter - Private (Mom's Therapy, 33 ft)",
+      "kind": "charter",
+      "summary": "A private trip that mixes fishing for barracuda, wahoo and other species with time for a swim, aimed at families and friends. All experience levels are welcome and the catch can be cleaned to take away or grilled.",
+      "highlights": [
+        "Fishing and swimming in one trip",
+        "For all experience levels",
+        "Trolling, jigging and live baiting",
+        "Catch cleaned to take away, or grilled for you"
+      ],
+      "duration": "5 Hours",
+      "durationMinutes": 300,
+      "departureTimes": [],
+      "season": "All months",
+      "departsFrom": "Docking point in Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter, up to 6 people",
+          "amount": 600,
+          "currency": "USD",
+          "note": "Per boat"
+        },
+        {
+          "label": "Additional person",
+          "amount": 50,
+          "currency": "USD",
+          "note": "Per additional person"
+        }
+      ],
+      "priceFrom": 600,
+      "includes": [
+        "Sandwiches and refreshments"
+      ],
+      "bring": [],
+      "requirements": "Age 2+. Max availability 8",
+      "offer": null,
+      "images": [
+        "https://therapychartersbb.com/wp-content/uploads/2020/03/IMG_0373.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/b5ff1fbd-4048-4979-9a51-8ba023612232/jopv6"
+      ],
+      "sourceUrl": "https://therapychartersbb.com/moms-therapy/",
+      "checkNotes": null
+    },
+    {
+      "title": "6 hr Hardcore Fishing Charter - Private (Mom's Therapy, 33 ft)",
+      "kind": "charter",
+      "summary": "A private charter for experienced anglers that targets big game such as marlin, sailfish and bluefin tuna. A local Barbadian lunch is prepared and served on board.",
+      "highlights": [
+        "For experienced anglers",
+        "Targets marlin, sailfish and bluefin tuna",
+        "Local Barbadian lunch served",
+        "Less than 10 minutes to the fishing grounds"
+      ],
+      "duration": "6 Hours",
+      "durationMinutes": 360,
+      "departureTimes": [],
+      "season": "All months",
+      "departsFrom": "Docking point in Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter, up to 6 people",
+          "amount": 750,
+          "currency": "USD",
+          "note": "Per boat"
+        },
+        {
+          "label": "Additional person",
+          "amount": 50,
+          "currency": "USD",
+          "note": "Per additional person"
+        }
+      ],
+      "priceFrom": 750,
+      "includes": [
+        "Sandwiches and refreshments",
+        "Local Barbadian lunch"
+      ],
+      "bring": [],
+      "requirements": "Age 16+. Max availability 8",
+      "offer": null,
+      "images": [
+        "https://therapychartersbb.com/wp-content/uploads/2020/03/59C06EA2-A999-4888-8ABD-D53D4AD62283-e1584652336598.jpeg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/b5ff1fbd-4048-4979-9a51-8ba023612232/xqE8O"
+      ],
+      "sourceUrl": "https://therapychartersbb.com/moms-therapy/",
+      "checkNotes": null
+    },
+    {
+      "title": "8hr Whole Day Fishing Charter - Private (Mom's Therapy, 33 ft)",
+      "kind": "charter",
+      "summary": "A private full day out after big game such as marlin, sailfish and bluefin tuna, set up for experienced anglers. A local Barbadian lunch is prepared and served on board.",
+      "highlights": [
+        "For experienced anglers",
+        "Targets marlin, sailfish and bluefin tuna",
+        "Local Barbadian lunch served",
+        "Less than 10 minutes to the fishing grounds"
+      ],
+      "duration": "8 Hours",
+      "durationMinutes": 480,
+      "departureTimes": [],
+      "season": "All months",
+      "departsFrom": "Docking point in Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter, up to 6 people",
+          "amount": 1150,
+          "currency": "USD",
+          "note": "Per boat"
+        },
+        {
+          "label": "Additional person",
+          "amount": 50,
+          "currency": "USD",
+          "note": "Per additional person"
+        }
+      ],
+      "priceFrom": 1150,
+      "includes": [
+        "Sandwiches and refreshments",
+        "Local Barbadian lunch"
+      ],
+      "bring": [],
+      "requirements": "Age 16+. Max availability 8",
+      "offer": null,
+      "images": [
+        "https://therapychartersbb.com/wp-content/uploads/2020/03/unnamed-1-e1584739470146.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/b5ff1fbd-4048-4979-9a51-8ba023612232/pMpBB"
+      ],
+      "sourceUrl": "https://therapychartersbb.com/moms-therapy/",
+      "checkNotes": null
+    },
+    {
+      "title": "\"Shared\" Turtle Swim & Shipwreck Snorkeling Experience (Dad's Therapy, 26 ft)",
+      "kind": "snorkel",
+      "summary": "A two-hour boat trip from Bridgetown to swim with the resident turtles, then snorkel over shipwrecks that are home to many reef fish. This is the shared option, for guests who do not want to book the whole boat.",
+      "highlights": [
+        "Turtle swim and shipwreck snorkel",
+        "Captain swims with guests and takes underwater photos",
+        "Caters for non-swimmers, special needs and mothers with infants",
+        "Round trip transport option available"
+      ],
+      "duration": "2 Hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": "All months",
+      "departsFrom": "Docking point in Bridgetown, with a gangway",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 60,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Children under 12",
+          "amount": 0,
+          "currency": "USD",
+          "note": "Children under 12 are free"
+        }
+      ],
+      "priceFrom": 60,
+      "includes": [
+        "All equipment",
+        "Snacks and light refreshments"
+      ],
+      "bring": [],
+      "requirements": "Age 1+. Max availability 8",
+      "offer": null,
+      "images": [
+        "https://therapychartersbb.com/wp-content/uploads/2020/03/1476193411-700x466-1-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/b5ff1fbd-4048-4979-9a51-8ba023612232/MqO9p"
+      ],
+      "sourceUrl": "https://therapychartersbb.com/dads-therapy/",
+      "checkNotes": "Advertises turtle feeding. The shared trip's description repeats the private-trip wording about reserving the boat exclusively."
+    },
+    {
+      "title": "\"Private\" Turtle Swim & Shipwreck Snorkeling Experience (Dad's Therapy, 26 ft)",
+      "kind": "snorkel",
+      "summary": "A two-hour turtle swim and shipwreck snorkel with the boat reserved for your group and a guide with you from start to finish. The captain joins you in the water and takes underwater photos.",
+      "highlights": [
+        "Turtle swim and shipwreck snorkel",
+        "Captain swims with guests and takes underwater photos",
+        "Caters for non-swimmers, special needs and mothers with infants",
+        "Round trip transport option available"
+      ],
+      "duration": "2 Hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": "All months",
+      "departsFrom": "Docking point in Bridgetown, with a gangway",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 75,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Children under 12",
+          "amount": 0,
+          "currency": "USD",
+          "note": "Children under 12 are free"
+        }
+      ],
+      "priceFrom": 75,
+      "includes": [
+        "All equipment",
+        "Snacks and light refreshments"
+      ],
+      "bring": [],
+      "requirements": "Age 1+. Max availability 8",
+      "offer": null,
+      "images": [
+        "https://therapychartersbb.com/wp-content/uploads/2020/03/1476193519-700x466-1-2.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/b5ff1fbd-4048-4979-9a51-8ba023612232/yxd6z"
+      ],
+      "sourceUrl": "https://therapychartersbb.com/dads-therapy/",
+      "checkNotes": "Advertises turtle feeding. Priced per person although described as a private trip."
+    },
+    {
+      "title": "\"Shared\" Turtle Swim & Shipwreck Snorkeling Experience (Mom's Therapy, 33 ft)",
+      "kind": "snorkel",
+      "summary": "A two-hour boat trip from Bridgetown to swim with the resident turtles, then snorkel over shipwrecks that are home to many reef fish. This is the shared option, for guests who do not want to book the whole boat.",
+      "highlights": [
+        "Turtle swim and shipwreck snorkel",
+        "Captain swims with guests and takes underwater photos",
+        "Caters for non-swimmers, special needs and mothers with infants",
+        "Round trip transport option available"
+      ],
+      "duration": "2 Hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": "All months",
+      "departsFrom": "Docking point in Bridgetown, with a gangway",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 60,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Children under 12",
+          "amount": 0,
+          "currency": "USD",
+          "note": "Children under 12 are free"
+        }
+      ],
+      "priceFrom": 60,
+      "includes": [
+        "All equipment",
+        "Snacks and light refreshments"
+      ],
+      "bring": [],
+      "requirements": "Age 1+. Max availability 16",
+      "offer": null,
+      "images": [
+        "https://therapychartersbb.com/wp-content/uploads/2020/03/A9D3934D-F8BF-4F30-BD60-E4322BC0DECF-e1584652802864.jpeg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/b5ff1fbd-4048-4979-9a51-8ba023612232/K1J9g"
+      ],
+      "sourceUrl": "https://therapychartersbb.com/moms-therapy-turtle-trip/",
+      "checkNotes": "Advertises turtle feeding. The shared trip's description repeats the private-trip wording about reserving the boat exclusively."
+    },
+    {
+      "title": "\"Private\" Turtle & Shipwreck Snorkeling Experience (Mom's Therapy, 33 ft)",
+      "kind": "snorkel",
+      "summary": "A two-hour turtle swim and shipwreck snorkel with the boat reserved for your group and a guide with you from start to finish. The captain joins you in the water and takes underwater photos.",
+      "highlights": [
+        "Turtle swim and shipwreck snorkel",
+        "Captain swims with guests and takes underwater photos",
+        "Caters for non-swimmers, special needs and mothers with infants",
+        "Round trip transport option available"
+      ],
+      "duration": "2 Hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": "All months",
+      "departsFrom": "Docking point in Bridgetown, with a gangway",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 75,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Children under 12",
+          "amount": 0,
+          "currency": "USD",
+          "note": "Children under 12 are free"
+        }
+      ],
+      "priceFrom": 75,
+      "includes": [
+        "All equipment",
+        "Snacks and light refreshments"
+      ],
+      "bring": [],
+      "requirements": "Age 1+. Max availability 16",
+      "offer": null,
+      "images": [
+        "https://therapychartersbb.com/wp-content/uploads/2020/03/B75F182D-01C9-4CA4-A96A-1C631FC4AE44-e1584652930896.jpeg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/b5ff1fbd-4048-4979-9a51-8ba023612232/2bY2e"
+      ],
+      "sourceUrl": "https://therapychartersbb.com/moms-therapy-turtle-trip/",
+      "checkNotes": "Advertises turtle feeding. Priced per person although described as a private trip."
+    },
+    {
+      "title": "Create Your Personalized Charter (Dad's Therapy, 26 ft)",
+      "kind": "charter",
+      "summary": "Book the boat by the hour and tell the crew how you want to spend your time on the water. The listing describes a turtle swim and shipwreck snorkel with a dedicated guide, and the crew will try to fit the trip to your plans.",
+      "highlights": [
+        "Boat booked by the hour",
+        "Trip planned around your group",
+        "Turtle swim and shipwreck snorkel described in the listing"
+      ],
+      "duration": "2 Hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": "All months",
+      "departsFrom": "Docking point in Bridgetown, with a gangway",
+      "prices": [
+        {
+          "label": "Charter per hour",
+          "amount": 100,
+          "currency": "USD",
+          "note": "Per boat, per hour"
+        },
+        {
+          "label": "Additional person",
+          "amount": 50,
+          "currency": "USD",
+          "note": "Per additional person"
+        }
+      ],
+      "priceFrom": 100,
+      "includes": [
+        "All equipment",
+        "Snacks and light refreshments"
+      ],
+      "bring": [],
+      "requirements": "Age 2+. Max availability 8",
+      "offer": null,
+      "images": [
+        "https://therapychartersbb.com/wp-content/uploads/2020/03/Edit-DJI_0015-700x466-1-1-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/b5ff1fbd-4048-4979-9a51-8ba023612232/yxd6z"
+      ],
+      "sourceUrl": "https://therapychartersbb.com/dads-therapy/",
+      "checkNotes": "Advertises turtle feeding. Priced per hour; the listing also states 2 Hours. The site does not say how many people the hourly rate covers before the additional person charge. Its Book Now link is the same Peek link as the Dad's Therapy private turtle trip."
+    },
+    {
+      "title": "Create Your Personalized Charter (Mom's Therapy, 33 ft)",
+      "kind": "charter",
+      "summary": "Book the boat by the hour and tell the crew how you want to spend your time on the water. The listing describes a turtle swim and shipwreck snorkel with a dedicated guide, and the crew will try to fit the trip to your plans.",
+      "highlights": [
+        "Boat booked by the hour",
+        "Trip planned around your group",
+        "Turtle swim and shipwreck snorkel described in the listing"
+      ],
+      "duration": "2 Hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": "All months",
+      "departsFrom": "Docking point in Bridgetown, with a gangway",
+      "prices": [
+        {
+          "label": "Charter per hour",
+          "amount": 150,
+          "currency": "USD",
+          "note": "Per boat, per hour"
+        },
+        {
+          "label": "Additional person",
+          "amount": 50,
+          "currency": "USD",
+          "note": "Per additional person"
+        }
+      ],
+      "priceFrom": 150,
+      "includes": [
+        "All equipment",
+        "Snacks and light refreshments"
+      ],
+      "bring": [],
+      "requirements": "Age 2+. Max availability 16",
+      "offer": null,
+      "images": [
+        "https://therapychartersbb.com/wp-content/uploads/2020/03/5EA1CDE5-9D27-4D68-8664-6FC12D2FE5D7-e1584653000222.jpeg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/b5ff1fbd-4048-4979-9a51-8ba023612232/4K8ND"
+      ],
+      "sourceUrl": "https://therapychartersbb.com/moms-therapy-turtle-trip/",
+      "checkNotes": "Advertises turtle feeding. Priced per hour; the listing also states 2 Hours. The site does not say how many people the hourly rate covers before the additional person charge. There is also a free-text personalized charter enquiry form on every page."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Site content looks old: the site's own WordPress page list shows every page last modified in March 2020 and all photos are 2020 uploads, so prices may be out of date. The site software is current (WordPress 6.9.4) and its page cache was rebuilt in April 2026, so it is still maintained; status in our list is active. Reservations phone is 246-234-3433 (Leisa); support line 246-232-0477. Every trip books through a Peek link (book.peek.com, not opened). The home page also lists Tournament Fishing, Coastal Cruises, Sunset Cruises, Land & Sea Tours, Accommodations and Group Private Tours with no details or prices, so they are not built as trips. Mentions a Captain's Special with no details. Turtle trip and personalized charter listings advertise turtle feeding."
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "edmo-watersports",
+  "name": "Edmo Watersports",
+  "website": "https://edmowatersportsbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Speightstown",
+  "category": "Jet ski and boat rentals",
+  "summary": "A small watersports business on Heywoods Beach near Speightstown, renting jet skis, an 18 foot Hobie catamaran and an 18 foot speedboat. Sessions run 15 minutes, 30 minutes or an hour, with water skiing and wakeboarding lessons for beginners. Bookings are taken by email or in person at the beach, by the lifeguard hut.",
+  "standouts": [
+    "Independently owned since 2004",
+    "Equipment insured with Sun General for personal injury, accident and third party",
+    "Water ski and wakeboard instruction for beginners, intermediate and advanced riders",
+    "Open 7 days a week, 8am to 5pm"
+  ],
+  "contact": {
+    "phone": "+1 246 439 2717",
+    "email": "pamela_edmo@hotmail.com",
+    "address": "Heywoods Estate, Speightstown, St Peter, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": null,
+  "sourceUrls": [
+    "http://edmowatersportsbarbados.com/",
+    "http://edmowatersportsbarbados.com/about-us/",
+    "http://edmowatersportsbarbados.com/insurance/",
+    "http://edmowatersportsbarbados.com/other-offers/",
+    "http://edmowatersportsbarbados.com/rules/",
+    "http://edmowatersportsbarbados.com/our-craft/",
+    "http://edmowatersportsbarbados.com/our-craft-2/",
+    "http://edmowatersportsbarbados.com/our-craft-3/",
+    "http://edmowatersportsbarbados.com/contact-us/",
+    "http://edmowatersportsbarbados.com/2017/09/08/jetski-sailing-waterski-barbados/",
+    "http://edmowatersportsbarbados.com/wp-json/wp/v2/pages?per_page=50&_fields=link,modified,date,title"
+  ],
+  "trips": [],
+  "offers": [],
+  "checkNotes": "Looks closed: the website, not necessarily the business. Nothing on the site is newer than October 2017: the only blog post is dated 8 September 2017 with one comment from 3 October 2017, the newest photo uploads are from 2017/10, and the site's own page index shows every page last modified between July 2015 and 24 October 2017. No prices are shown anywhere, the Other Offers page is empty, and page-builder code shows as raw text on several pages, so plugins are broken. There is no booking page; the site says to book by email (PayPal and invoice for pre-booking) or walk up at Heywoods Beach by the lifeguard hut. HTTPS serves a self-signed certificate, so the site was read over plain http. The batch list marks the operator active and sold on Viator, so it may still trade; confirm with the operator before building a page. Other numbers on the contact page: mobile 001-246-258-9041 (also shown as 001-246-2589041) and jet ski operator 001-246-2410950. The site also lists private tours (deep sea fishing, reef fishing, turtle spotting, snorkelling) and help arranging glass bottom boat tours, with no prices or details."
+}

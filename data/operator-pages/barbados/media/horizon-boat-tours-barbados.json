@@ -1,0 +1,78 @@
+{
+  "slug": "horizon-boat-tours-barbados",
+  "logo": "https://www.horizonboattoursbarbados.com/wp-content/uploads/2023/01/horiconboat-logo.png",
+  "gallery": [
+    "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/12/barbados-boat-tours.jpg",
+    "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/12/barbados-boat-snorkeling-cruise-tours.webp",
+    "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/469334910_2767713930067592_6613180258076431221_n-1.jpg",
+    "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/475220579_2809370722568579_4945056374799402354_n-1.jpg",
+    "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/332946582_1277760566139292_532788208177565004_n-1.jpg",
+    "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/297036713_2131014927070832_3755793961839746555_n-1.jpg",
+    "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/291704496_2111783888993936_4724217271566847263_n-1.jpg",
+    "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/357411074_722350179901271_4389380092917156105_n-1.jpg",
+    "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/206512978_1823726324466362_4965352519965364831_n-1.jpg",
+    "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/470192351_2774759012696417_7611692449464781469_n-1.jpg",
+    "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/120332015_1568730809965916_5638922834086150897_n-1.jpg",
+    "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/476423516_2818346115004373_7987235745776362066_n-1.jpg",
+    "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/81283808_1338092419696424_1522027721260007424_n-1.jpg",
+    "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/11.jpg",
+    "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/26.jpg",
+    "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/32.jpg"
+  ],
+  "videos": [
+    { "url": "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/04/file.mp4", "title": "Home page video", "sourceUrl": "https://www.horizonboattoursbarbados.com/" },
+    { "url": "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/03/VID_38170531_020405_551.mp4", "title": "Boat tour clip", "sourceUrl": "https://www.horizonboattoursbarbados.com/" },
+    { "url": "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/03/VID_38590628_161135_169.mp4", "title": "Boat tour clip", "sourceUrl": "https://www.horizonboattoursbarbados.com/" },
+    { "url": "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/03/20220828_143301.mp4", "title": "Boat tour clip", "sourceUrl": "https://www.horizonboattoursbarbados.com/" },
+    { "url": "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/03/VID-20240704-WA0021.mp4", "title": "Boat tour clip", "sourceUrl": "https://www.horizonboattoursbarbados.com/" },
+    { "url": "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/03/VID_44180221_095218_297.mp4", "title": "Tours page video", "sourceUrl": "https://www.horizonboattoursbarbados.com/tours/" }
+  ],
+  "trips": [
+    {
+      "title": "MORNING TOURS",
+      "images": [
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/2.webp",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/70319929_1234403520065315_2648586308582113280_n.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/340096763_1442813426255379_6309441445830908707_n-1.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/60724126_1145419965630338_7533495980054806528_n.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/463744782_2723211577851161_8200975809653003945_n.jpg"
+      ]
+    },
+    {
+      "title": "AFTERNOON TOURS",
+      "images": [
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/1.webp",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/62091583_1158894970949504_720662428135718912_n.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/340096763_1442813426255379_6309441445830908707_n.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/463440197_2719166081589044_1946733573756556776_n.jpg"
+      ]
+    },
+    {
+      "title": "LATE AFTERNOON TOURS",
+      "images": [
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/img2.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/469805722_2771286089710376_5385602877738648842_n-1.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/480292892_1143402551129363_4061819191253463200_n-1.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/480669079_1142791974523754_4003159153715996363_n-1.jpg"
+      ]
+    },
+    {
+      "title": "SUNSET TOURS",
+      "images": [
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/22.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/77.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/7.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/777.jpg"
+      ]
+    },
+    {
+      "title": "PRIVATE CHARTERS",
+      "images": [
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/123.webp",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/59550253_1132655926906742_4066767849543172096_n.jpg",
+        "https://www.horizonboattoursbarbados.com/wp-content/uploads/2025/02/59599334_1132655980240070_8008062563155705856_n.jpg"
+      ]
+    }
+  ],
+  "notes": "The gallery page links its photos at an old web-designer staging domain (horizonboattours.greatweb.website); the same files load on the operator's own domain, so those URLs are used. Left out a set of phone screenshots on the gallery page (some named as Instagram screenshots) and promo graphics named 'we-have-upgraded-to-our' and 'caption'. Videos are mp4 files hosted on the operator's own site; titles are generic because the pages give none and the clips were not downloaded. Many photo file names look like they came from the operator's Facebook page, but they are hosted on their own site. Facebook, Instagram, TikTok and TripAdvisor links not opened."
+}

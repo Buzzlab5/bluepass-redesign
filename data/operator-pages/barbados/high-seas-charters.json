@@ -1,0 +1,150 @@
+{
+  "slug": "high-seas-charters",
+  "name": "High Seas Fishing Charters",
+  "website": "https://sportfishingbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Fishing charters",
+  "summary": "A family owned, owner operated fishing charter running from the Careenage in Bridgetown on Ocean Hunter, a 42 foot custom built sportfisher. Trips of 4, 6 or 8 hours go after marlin, sailfish, wahoo, barracuda and mahi-mahi, for novices and experienced anglers alike. Tackle, bait, drinks and snacks are supplied.",
+  "standouts": [
+    "42 foot custom built sportfisher Ocean Hunter, takes up to 6 people",
+    "Family owned and owner operated",
+    "Captain Robbie has qualified for and fished the Rolex/IGFA Offshore Championship in Cabo San Lucas",
+    "Fully licensed, carrying all required safety gear and electronics"
+  ],
+  "contact": {
+    "phone": "+1 246 233 2598",
+    "email": null,
+    "address": "The Careenage, Bridgetown, St Michael, Barbados"
+  },
+  "heroImage": "https://sportfishingbarbados.com/images/fish18.jpg",
+  "sourceUrls": [
+    "https://sportfishingbarbados.com/",
+    "https://sportfishingbarbados.com/aboutus.asp",
+    "https://sportfishingbarbados.com/services.asp",
+    "https://sportfishingbarbados.com/boats.asp",
+    "https://sportfishingbarbados.com/contactus.asp",
+    "https://sportfishingbarbados.com/map.asp"
+  ],
+  "trips": [
+    {
+      "title": "4 hour fishing charter",
+      "kind": "charter",
+      "summary": "A four hour charter on Ocean Hunter from the Careenage in Bridgetown, tailored to the group. It can be a hard fishing session or a relaxed morning on the water with family and friends.",
+      "highlights": [
+        "Private boat for up to 6 people",
+        "Targets marlin, sailfish, wahoo, barracuda and mahi-mahi",
+        "Captain and mate on board",
+        "Tackle, bait, drinks and snacks supplied"
+      ],
+      "duration": "4 hour",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "The Careenage, Bridgetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Tackle",
+        "Bait",
+        "Drinks",
+        "Snacks"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://sportfishingbarbados.com/images/fish19.jpg",
+        "https://sportfishingbarbados.com/images/fish18.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://sportfishingbarbados.com/aboutus.asp",
+      "checkNotes": "Trip is not named on the site; it says only 'Choose from 4, 6 or 8 hour fishing charters'. No prices or times shown. Booking by phone or the contact form. The site has no trip pages; the same two boat photos are used for all three charters."
+    },
+    {
+      "title": "6 hour fishing charter",
+      "kind": "charter",
+      "summary": "A six hour charter on Ocean Hunter from the Careenage in Bridgetown, with more time to reach deeper water. The captain and mate pick the grounds and bait for the day.",
+      "highlights": [
+        "Private boat for up to 6 people",
+        "Targets marlin, sailfish, wahoo, barracuda and mahi-mahi",
+        "Captain and mate on board",
+        "Tackle, bait, drinks and snacks supplied"
+      ],
+      "duration": "6 hour",
+      "durationMinutes": 360,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "The Careenage, Bridgetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Tackle",
+        "Bait",
+        "Drinks",
+        "Snacks"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://sportfishingbarbados.com/images/fish19.jpg",
+        "https://sportfishingbarbados.com/images/fish18.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://sportfishingbarbados.com/aboutus.asp",
+      "checkNotes": "Trip is not named on the site; it says only 'Choose from 4, 6 or 8 hour fishing charters'. No prices or times shown. Booking by phone or the contact form. The site has no trip pages; the same two boat photos are used for all three charters."
+    },
+    {
+      "title": "8 hour fishing charter",
+      "kind": "charter",
+      "summary": "A full day charter on Ocean Hunter from the Careenage in Bridgetown, suited to anglers after big game fish such as blue marlin. The trip is shaped around what the group wants to catch.",
+      "highlights": [
+        "Private boat for up to 6 people",
+        "Full day for blue marlin and other big game fish",
+        "Captain and mate on board",
+        "Tackle, bait, drinks and snacks supplied"
+      ],
+      "duration": "8 hour",
+      "durationMinutes": 480,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "The Careenage, Bridgetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Tackle",
+        "Bait",
+        "Drinks",
+        "Snacks"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://sportfishingbarbados.com/images/fish19.jpg",
+        "https://sportfishingbarbados.com/images/fish18.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://sportfishingbarbados.com/aboutus.asp",
+      "checkNotes": "Trip is not named on the site; it says only 'Choose from 4, 6 or 8 hour fishing charters'. No prices or times shown. Booking by phone or the contact form. The site has no trip pages; the same two boat photos are used for all three charters."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Accommodation and fishing package with Barbados Beach Cottages on Carlisle Bay",
+      "conditions": "Ask the operator for a package deal",
+      "validUntil": null,
+      "sourceUrl": "https://sportfishingbarbados.com/"
+    },
+    {
+      "text": "Fishing trips for cruise ship passengers on a day in port",
+      "conditions": "Contact well in advance",
+      "validUntil": null,
+      "sourceUrl": "https://sportfishingbarbados.com/"
+    }
+  ],
+  "checkNotes": "Site looks unmaintained but does not say the business has closed: no prices, no dates anywhere, no booking page (contact form and phone only), old Google Maps and Flash-era YouTube embeds, image files last modified 2020. The site's TLS certificate expired on 10 June 2026, so browsers show a security warning; pages were read past the certificate error only, no bot check involved. The census lists the business as active; confirm it is trading before publishing. Second number on the contact page: Robbie's cell (246) 253-4175. No email address shown; the Email Us link goes to the contact form."
+}

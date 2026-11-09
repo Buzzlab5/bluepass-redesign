@@ -1,0 +1,40 @@
+{
+  "slug": "small-cats-catamaran-cruises",
+  "logo": null,
+  "gallery": [
+    "https://smallcatscruises.com/wp-content/uploads/2020/09/Small-Cats-on-West-Coast.jpg",
+    "https://smallcatscruises.com/wp-content/uploads/2020/09/Woman-on-Small-Cats-Ladder.jpg",
+    "https://smallcatscruises.com/wp-content/uploads/2020/09/Couple-on-Small-Cats.jpg",
+    "https://smallcatscruises.com/wp-content/uploads/2020/10/IMG_9807-1.jpg",
+    "https://smallcatscruises.com/wp-content/uploads/2020/10/IMG_9831-1.jpg",
+    "https://smallcatscruises.com/wp-content/uploads/2020/10/IMG_9814.jpg",
+    "https://smallcatscruises.com/wp-content/uploads/2020/10/IMG_9837.jpg",
+    "https://smallcatscruises.com/wp-content/uploads/2020/10/IMG_9810-1.jpg",
+    "https://smallcatscruises.com/wp-content/uploads/2020/10/IMG_9819-1.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "5-Hour Turtle & Shipwreck Lunch Cruise",
+      "images": [
+        "https://smallcatscruises.com/wp-content/uploads/2020/10/IMG_9807-1.jpg",
+        "https://smallcatscruises.com/wp-content/uploads/2020/10/IMG_9831-1.jpg"
+      ]
+    },
+    {
+      "title": "3-Hour Snorkeling Cruise",
+      "images": [
+        "https://smallcatscruises.com/wp-content/uploads/2020/10/IMG_9814.jpg",
+        "https://smallcatscruises.com/wp-content/uploads/2020/10/IMG_9837.jpg"
+      ]
+    },
+    {
+      "title": "Private Charter Cruises",
+      "images": [
+        "https://smallcatscruises.com/wp-content/uploads/2020/10/IMG_9810-1.jpg",
+        "https://smallcatscruises.com/wp-content/uploads/2020/10/IMG_9819-1.jpg"
+      ]
+    }
+  ],
+  "notes": "WordPress site, no bot checks. The header shows the business name as text with no logo image; the only brand image is the site icon (https://smallcatscruises.com/wp-content/uploads/2016/09/sc_featured_3.png), not confirmed as a logo, so logo is null. Left out the Unsplash stock photos used as page backgrounds (leemar-gaskin, carolina-garcia, kris-mikael-krister, tincho-franco, analia-ferrario, sebastien-gabriel) and the theme's template images. The site has only nine of its own photos, all from 2020. No videos and no YouTube or Vimeo links."
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "princess-aurora-cruises",
+  "name": "Princess Aurora Cruises",
+  "website": "https://princessaurorabarbados.com/book-now/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": null,
+  "category": null,
+  "summary": null,
+  "standouts": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "address": null,
+    "whatsapp": null
+  },
+  "heroImage": null,
+  "sourceUrls": [
+    "https://princessaurorabarbados.com/"
+  ],
+  "trips": [],
+  "offers": [],
+  "checkNotes": "Bot check: on 19 Oct 2026 the home page answered HTTP 403 with a Cloudflare Just a moment... challenge (cf-mitigated: challenge), so research stopped on this site and nothing was read. Not a closure signal. The batch lists base Bridgetown (Careenage), phone +1 246-842-8586, email princessaurorabarbados@gmail.com and a Bokun plugin on the site; none of this was confirmed from the site. Needs a person to check in a normal browser."
+}

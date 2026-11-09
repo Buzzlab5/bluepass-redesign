@@ -1,0 +1,53 @@
+{
+  "slug": "zeds-surfing-adventures",
+  "logo": "https://static.wixstatic.com/media/9ee854_9149143eba124f059043f71c64abb8cc~mv2.png",
+  "gallery": [
+    "https://static.wixstatic.com/media/b9d90a_9b708f0c01a54d5ca70c628662d17d77~mv2.jpg",
+    "https://static.wixstatic.com/media/9ee854_16470531f3504922a61dd5210503df68~mv2.jpg",
+    "https://static.wixstatic.com/media/b9d90a_a065d37f55994042bf64fb85cca351b5~mv2.jpg",
+    "https://static.wixstatic.com/media/b9d90a_12f18471f45a4eaababa7daaf0079f9f~mv2.jpg",
+    "https://static.wixstatic.com/media/9ee854_a8253af5435c4479a61296dac7d0ec5b~mv2.jpg",
+    "https://static.wixstatic.com/media/9ee854_9e3c2d1b6f3a46fabac234176113cee8~mv2.jpg",
+    "https://static.wixstatic.com/media/9ee854_8d71a65c7e684afcbda36a3ad5b73246~mv2.png",
+    "https://static.wixstatic.com/media/9ee854_046b8395c1564ed18a67025d43b9313a~mv2.jpg",
+    "https://static.wixstatic.com/media/b9d90a_50bda89811a64159b77bb8021e71ef97~mv2.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Surf Lessons",
+      "images": [
+        "https://static.wixstatic.com/media/b9d90a_a065d37f55994042bf64fb85cca351b5~mv2.jpg",
+        "https://static.wixstatic.com/media/b9d90a_12f18471f45a4eaababa7daaf0079f9f~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Surf Tours",
+      "images": [
+        "https://static.wixstatic.com/media/b9d90a_a065d37f55994042bf64fb85cca351b5~mv2.jpg",
+        "https://static.wixstatic.com/media/b9d90a_12f18471f45a4eaababa7daaf0079f9f~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Private Coaching",
+      "images": [
+        "https://static.wixstatic.com/media/b9d90a_a065d37f55994042bf64fb85cca351b5~mv2.jpg",
+        "https://static.wixstatic.com/media/b9d90a_12f18471f45a4eaababa7daaf0079f9f~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Surfboard Rentals",
+      "images": [
+        "https://static.wixstatic.com/media/9ee854_6e163ebe23144ee892d8f90028c8acd1~mv2.jpg",
+        "https://static.wixstatic.com/media/b9d90a_b3a947ac34e34a97a81aaf69c3a8b01b~mv2.jpg",
+        "https://static.wixstatic.com/media/b9d90a_3b16ff7c95374f049d85515449ea895a~mv2.jpg",
+        "https://static.wixstatic.com/media/b9d90a_062589563ef444bfb66053e091c22796~mv2.jpg",
+        "https://static.wixstatic.com/media/b9d90a_55dde8e3fcd84644918e112e97654252~mv2.jpg",
+        "https://static.wixstatic.com/media/b9d90a_2aea9a13a53045e58fcb0bc1a2b2c735~mv2.jpg",
+        "https://static.wixstatic.com/media/b9d90a_de178f762d374b0eab81d7c08e63e4d4~mv2.jpg",
+        "https://static.wixstatic.com/media/b9d90a_563f640c276a4f939a3c9b8b22c1f2f3~mv2.jpg"
+      ]
+    }
+  ],
+  "notes": "Wix site. Surf Lessons, Surf Tours and Private Coaching share one page, so they share its two photos. Board rental photos come from the Shortboards, MidLength and Longboards pages. Left out: fishing photos credited to partner charter companies (Remember Me Now Charters, Eclipse Barbados), car rental photos, room photos and Wix library icons. No YouTube, Vimeo or hosted video found. No wide landscape photo found, so no heroImage is suggested. Logo is the light version from the footer; a rectangle version is at https://static.wixstatic.com/media/9ee854_488c6a1d40db4187b8885a343481dcf6~mv2.png."
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "salty-safaris",
+  "name": "Whale Swim Safaris (Salty Safaris)",
+  "website": "https://salty-safaris.com.au",
+  "rezdyAlias": null,
+  "state": "QLD",
+  "town": "Hervey Bay",
+  "category": "Humpback whale swims",
+  "summary": "Small-group humpback whale swim safaris from Urangan in Hervey Bay, with a maximum of 10 guests per boat. The crew watches the whales first and puts guests in the water on a line only when a whale shows interest and conditions allow. The season runs from mid July to mid September.",
+  "standouts": [
+    "Maximum of 10 guests per boat, with two boats working together on the water",
+    "No swims with mothers and calves, or with injured, sick, entangled or distressed whales",
+    "Guests stay connected to the boat by a line, with the engines switched off for an in-water encounter",
+    "Mask, snorkel and wetsuit hire included in the price"
+  ],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "address": "Hervey Bay, Queensland, Australia"
+  },
+  "heroImage": "https://whaleswimsafaris.com/wp-content/uploads/2026/09/Whale-swim-safaris-swim-with-whales-hervey-bay-2048x1042.png",
+  "sourceUrls": [
+    "https://salty-safaris.com.au/",
+    "https://salty-safaris.com.au/swim-with-whales/",
+    "https://salty-safaris.com.au/contact-us/",
+    "https://salty-safaris.com.au/accessibility/",
+    "https://salty-safaris.com.au/sustainability-conservation/",
+    "https://salty-safaris.com.au/wp-sitemap.xml",
+    "https://salty-safaris.com.au/wp-sitemap-posts-page-1.xml",
+    "https://salty-safaris.com.au/wp-sitemap-posts-post-1.xml",
+    "https://whaleswimsafaris.com/",
+    "https://whaleswimsafaris.com/swim-with-whales/",
+    "https://whaleswimsafaris.com/what-to-expect/",
+    "https://whaleswimsafaris.com/why-hervey-bay/",
+    "https://whaleswimsafaris.com/about-us/",
+    "https://whaleswimsafaris.com/humpback-whales/",
+    "https://whaleswimsafaris.com/terms-and-conditions/",
+    "https://whaleswimsafaris.com/sustainability-conservation/",
+    "https://whaleswimsafaris.com/sitemap_index.xml",
+    "https://whaleswimsafaris.com/page-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Whale Swim Safari",
+      "kind": "swim",
+      "summary": "A small-group humpback whale safari from Urangan in Hervey Bay, with a maximum of 10 guests per boat. The crew watches the whales first and puts guests in the water on a line only when a whale shows interest and conditions allow. If a swim is not possible, the safari carries on as small-group whale watching.",
+      "highlights": [
+        "Maximum of 10 guests per boat",
+        "Morning departure at 7:30am or afternoon departure at 12:30pm",
+        "Guests stay connected to the boat by a line, with the engines off for an in-water encounter",
+        "Packages for two, three and five safaris across the season"
+      ],
+      "duration": "Morning safari 7:30am to 12 noon; afternoon safari 12:30pm to 5:00pm",
+      "durationMinutes": 270,
+      "departureTimes": [
+        "07:30",
+        "12:30"
+      ],
+      "season": "Every day from mid July to mid September",
+      "departsFrom": "Great Sandy Straits Marina, Urangan, Hervey Bay",
+      "prices": [
+        {
+          "label": "1 Safari",
+          "amount": 300,
+          "currency": "AUD",
+          "note": "Per person. Mask, snorkel and wetsuit hire included. Listed as 2027 whale swim pricing."
+        },
+        {
+          "label": "2 Safari Package",
+          "amount": 570,
+          "currency": "AUD",
+          "note": "Per person. Use across the season, non-transferable. Choose AM or PM departures. Saves $30."
+        },
+        {
+          "label": "3 Safari Package",
+          "amount": 810,
+          "currency": "AUD",
+          "note": "Per person. Use across the season, non-transferable. Choose AM or PM departures. Saves $90."
+        },
+        {
+          "label": "5 Safari Package",
+          "amount": 1250,
+          "currency": "AUD",
+          "note": "Per person. Use across the season, non-transferable. Choose AM or PM departures. Saves $250."
+        }
+      ],
+      "priceFrom": 300,
+      "includes": [
+        "Mask, snorkel and wetsuit hire (fins are not needed)",
+        "Equipment fitting and safety briefing before departure",
+        "GST and applicable marine park fees"
+      ],
+      "bring": [
+        "Swimmers",
+        "Towel",
+        "Sun protection, hat and sunglasses",
+        "Reusable water bottle",
+        "Warm layer or windproof jacket",
+        "Camera or phone"
+      ],
+      "requirements": "Minimum age 16 for every passenger, including guests who do not enter the water. Must be a confident swimmer, comfortable in open water, and able to get in and out of the water and the boat without assistance, with a reasonable level of fitness and mobility. Not suitable during pregnancy or for guests with back, neck or mobility issues. Not wheelchair accessible. Every guest completes a participation waiver and medical declaration before boarding. Arrive 30 minutes before departure. No dogs or other animals aboard.",
+      "offer": null,
+      "images": [
+        "https://whaleswimsafaris.com/wp-content/uploads/2026/09/Swim-with-Whales-2-1.jpg",
+        "https://whaleswimsafaris.com/wp-content/uploads/2026/09/Whale-swim-safaris-swim-with-whales-hervey-bay-2048x1042.png",
+        "https://whaleswimsafaris.com/wp-content/uploads/2026/09/swim-with-whales-hervey-bay-2.jpg",
+        "https://whaleswimsafaris.com/wp-content/uploads/2026/09/whale-swim-safaris-hervey-bay-scaled-1.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://whaleswimsafaris.com/swim-with-whales/",
+      "checkNotes": "The 2026 season has ended and the Contact page on salty-safaris.com.au says 2027 bookings go live in November, so these are 2027 details to confirm once bookings open. Prices come from the '2027 Whale Swim Pricing' block on whaleswimsafaris.com/swim-with-whales/ (the rebranded domain of the same business, linked from the salty-safaris.com.au homepage); the swim page on salty-safaris.com.au shows no prices. Every 'Book Now' button on whaleswimsafaris.com has no link behind it yet, so there is no booking link and the site does not say what system bookings will use. Duration is not stated: 270 minutes is worked out from the stated departure and return times (7:30am to 12 noon and 12:30pm to 5:00pm) on the What to Expect page; check it. Season wording varies: the homepage shows 'July-Sept', the swim page says mid-July to mid-September, and What to Expect says every day from mid July to mid September. Packages are shown with dollar savings and percentage savings; only the dollar savings are used here. Guests check in 30 minutes before departure; a minimum of four paying guests is needed for a scheduled tour to run; the terms page sets out a part refund for cancellations made 7 or more days ahead and no refund inside 7 days. An in-water encounter is never guaranteed and no refund is given if one does not happen (swim page, What to Expect and terms); the site also claims its 2026 season sold out by early August and that it is Hervey Bay's only dedicated whale swim operator, neither repeated here. PERMIT: the site does not state a permit or licence for in-water whale swims; it refers only to whale swim regulations, 'permitted' encounters and operating in the Great Sandy Marine Park, so confirm the operator's Queensland swim permit before publishing. Platypus Bay (on our list) is not mentioned anywhere on the site; it says the safaris run in the waters between the mainland and K'gari. Photos are not captioned or credited on the page."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Multi-safari packages: 2 safaris $570, 3 safaris $810 or 5 safaris $1,250 per person, a lower price per safari than booking one at a time",
+      "conditions": "Per person, non-transferable, to be used across the season, AM or PM departures. Whale swims are never guaranteed, so the site suggests booking more than one safari.",
+      "validUntil": null,
+      "sourceUrl": "https://whaleswimsafaris.com/swim-with-whales/"
+    }
+  ],
+  "checkNotes": "REBRAND: the site on our list, salty-safaris.com.au, is now a short holding site (home, swim with whales, contact, accessibility) saying Salty Safaris is becoming Whale Swim Safaris. whaleswimsafaris.com carries the same copy plus the pricing, departure times, terms and sustainability page. The business is the same (the homepage says 'Whale Swim Safaris, formerly Salty Safaris'; whaleswimsafaris.com is linked from salty-safaris.com.au and hosts the photos), so both were read as the operator's own website; please confirm before publishing. The footer names Whale Swim Safaris Pty Ltd. STATUS: the Contact page says the 2026 whale season has wrapped up and 2027 bookings open in November, so nothing can be booked today. NO CONTACT DETAILS: neither site shows a phone number, email address or street address, only an enquiry form and 'Hervey Bay, Queensland, Australia', so contact.phone and contact.email are null and the address is only the town; nothing was taken from the contact hint on our list. One trip only: the site sells a single product (the whale swim safari, in AM or PM departures) with no private charters, vouchers or other tours. The About Us and Humpback Whales pages on whaleswimsafaris.com are empty apart from a contact form, and the Sustainability link in the salty-safaris.com.au footer points back to the homepage, although the page exists at /sustainability-conservation/ on both domains (Great Sandy Marine Park, Happywhale fluke photos, digital paperwork, no single-use plastic bottles, sponsorship of the local Marine Rescue). Owners named on the site: Thomasin Lockwood and Bradley Kerslake. The site's own YouTube link (youtube.com/saltysafaris) returns a 404, so no videos were taken. Facebook and Instagram links were not opened."
+}

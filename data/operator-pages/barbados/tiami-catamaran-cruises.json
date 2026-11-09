@@ -1,0 +1,153 @@
+{
+  "slug": "tiami-catamaran-cruises",
+  "name": "Tiami Catamaran Cruises",
+  "website": "https://tiamicatamaransbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Catamaran day and sunset cruises",
+  "summary": "Tiami Catamaran Cruises sails from the Shallow Draught in Bridgetown on a fleet of custom-built catamarans. The lunch cruise heads up the west coast to snorkel with turtles and over shipwrecks, with a buffet lunch, an open bar and hotel transfers included. There are also sunset cruises, a steel pan sunset sail twice a week, and private charters for weddings and events.",
+  "standouts": [
+    "Fleet of eight catamarans",
+    "Round-trip hotel transfers on scheduled cruises",
+    "Live steel pan show on Tuesday and Saturday sunset cruises",
+    "Private charters with live music, barbecues and catering"
+  ],
+  "contact": {
+    "phone": "+1 246 430 0900",
+    "email": "reservations@amazing-attractions.com",
+    "address": "The Shallow Draught, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/10/DJI_0826-scaled-1.jpg",
+  "sourceUrls": [
+    "https://tiamicatamaransbarbados.com/",
+    "https://tiamicatamaransbarbados.com/5-star-lunch-cruise/",
+    "https://tiamicatamaransbarbados.com/tiami-at-sunset/",
+    "https://tiamicatamaransbarbados.com/pan-on-the-sea/",
+    "https://tiamicatamaransbarbados.com/private-charters/",
+    "https://tiamicatamaransbarbados.com/contact-us/",
+    "https://tiamicatamaransbarbados.com/the-gallery/"
+  ],
+  "trips": [
+    {
+      "title": "5 Star Lunch Cruise",
+      "kind": "cruise",
+      "summary": "A day on a large custom-built catamaran along the west coast, snorkelling with turtles and over shipwrecks. A swim stop and buffet lunch come last, before an easy sail back down the coast.",
+      "highlights": [
+        "Swim and snorkel stops with turtles and shipwrecks",
+        "Buffet lunch",
+        "Full open bar",
+        "Round-trip transfers"
+      ],
+      "duration": "9:30 am to 2:30 pm",
+      "durationMinutes": 300,
+      "departureTimes": ["09:30"],
+      "season": null,
+      "departsFrom": "The Shallow Draught, Bridgetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": ["Round-trip transfers", "Buffet lunch", "Full open bar", "Swim and snorkel stops"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/10/DJI_0843-scaled-1.jpg",
+        "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/09/File1597-2-scaled-1.jpg"
+      ],
+      "bookingLinks": ["https://book.peek.com/s/d9e5409e-49c3-403f-8449-e1bfda286ff0/Xj0Xq"],
+      "sourceUrl": "https://tiamicatamaransbarbados.com/5-star-lunch-cruise/",
+      "checkNotes": "No price on the site; prices are only inside the Peek booking page (not opened). Unclear whether 9:30 am to 2:30 pm includes the hotel transfers."
+    },
+    {
+      "title": "Tiami at Sunset",
+      "kind": "cruise",
+      "summary": "An evening cruise along the coast with a swim with the turtles shortly before sunset. Dinner is a full buffet, with an open bar and cocktails, and hotel transfers both ways.",
+      "highlights": [
+        "Sunset swim, with the chance to swim with turtles",
+        "Full buffet dinner",
+        "Full open bar and cocktails",
+        "Round-trip hotel transfers"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "The Shallow Draught, Bridgetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": ["Round-trip hotel transfers", "Full buffet dinner", "Full open bar and cocktails"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/09/DJI_0763-1-scaled-1.jpg",
+        "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/09/P1112866-scaled-1.jpg"
+      ],
+      "bookingLinks": ["https://book.peek.com/s/d9e5409e-49c3-403f-8449-e1bfda286ff0/qL47b"],
+      "sourceUrl": "https://tiamicatamaransbarbados.com/tiami-at-sunset/",
+      "checkNotes": "No price, time or duration on the site; prices are only inside the Peek booking page (not opened)."
+    },
+    {
+      "title": "Pan on the Sea",
+      "kind": "cruise",
+      "summary": "A sunset cruise on Tuesdays and Saturdays with a live steel pan show on board. It includes a beach stop, a full buffet dinner and an open bar, with transfers both ways.",
+      "highlights": [
+        "Live steel pan music",
+        "Runs Tuesdays and Saturdays",
+        "Beach stop",
+        "Full buffet dinner and open bar"
+      ],
+      "duration": "3:30 pm to 7:00 pm",
+      "durationMinutes": 210,
+      "departureTimes": ["15:30"],
+      "season": null,
+      "departsFrom": "The Shallow Draught, Bridgetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": ["Live steel pan music", "Round trip transfers", "Beach stop", "Full buffet dinner", "Open bar"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://tiamicatamaransbarbados.com/wp-content/uploads/2025/02/DSC00955-Edit-scaled.jpg",
+        "https://tiamicatamaransbarbados.com/wp-content/uploads/2025/02/DSC00418-1-scaled.jpg",
+        "https://tiamicatamaransbarbados.com/wp-content/uploads/2024/03/Pan-Shots-1.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://tiamicatamaransbarbados.com/pan-on-the-sea/",
+      "checkNotes": "Book Now on this page goes to the contact form, so it is recorded as enquiry only; the general Peek link in the site header may also sell it. No price on the site. Days are Tuesdays and Saturdays."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "Private hire of one of the catamarans for a wedding, a corporate function or a family celebration. The team can arrange live music, a barbecue and catering to suit.",
+      "highlights": [
+        "Weddings and corporate functions",
+        "Live music, barbecues and specialised catering",
+        "Custom-built catamarans"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "The Shallow Draught, Bridgetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/10/DJI_0860-scaled-1.jpg",
+        "https://tiamicatamaransbarbados.com/wp-content/uploads/2020/10/DJI_0826-copy.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://tiamicatamaransbarbados.com/private-charters/",
+      "checkNotes": "Enquiry form on the page, or email privatecharters@amazing-attractions.com. No prices shown."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "No prices anywhere on the site; scheduled cruises are sold through Peek (book.peek.com links, not opened), and the header Book Online button goes to a general Peek page: https://book.peek.com/s/d9e5409e-49c3-403f-8449-e1bfda286ff0/Rx6X4. Contact emails use the amazing-attractions.com domain (reservations@, contact@ and privatecharters@), so Tiami appears to be run under Amazing Attractions; confirm the trading entity. Home page says the fleet is eight catamarans. Footer copyright 2024, gallery photos uploaded February 2025, home page modified January 2026; the Google review widget shows reviews from October 2022 only."
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "small-cats-catamaran-cruises",
+  "name": "Small Cats Catamaran Cruises",
+  "website": "https://smallcatscruises.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Small-group sailing cruises",
+  "summary": "Small Cats is a Barbadian-owned company that began in 1997 with one man and one catamaran. It sails a 30 foot catamaran from the Careenage in Bridgetown with no more than 12 guests, stopping to snorkel with sea turtles and over shipwrecks. Shared cruises include transfers from hotels, villas and cruise ships on the west and south coasts.",
+  "standouts": [
+    "Barbadian owned and operated since 1997",
+    "No more than 12 guests on a 30 foot sailing catamaran",
+    "Two 45 minute snorkel stops: turtles and shipwrecks",
+    "Transfers from west and south coast hotels, villas and cruise ships included on shared cruises"
+  ],
+  "contact": {
+    "phone": "+1 246 421 6419",
+    "email": null,
+    "address": "Cavans Lane, Bridgetown, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://smallcatscruises.com/wp-content/uploads/2020/09/Small-Cats-on-West-Coast.jpg",
+  "sourceUrls": [
+    "https://smallcatscruises.com/",
+    "https://smallcatscruises.com/our-cruises/",
+    "https://smallcatscruises.com/our-cruises/5-hour-cruises/",
+    "https://smallcatscruises.com/our-cruises/3-hour-cruises/",
+    "https://smallcatscruises.com/our-cruises/private-charter/",
+    "https://smallcatscruises.com/home/about-us/",
+    "https://smallcatscruises.com/home/about-us/faqs/",
+    "https://smallcatscruises.com/home/reservations-inquiry/",
+    "https://smallcatscruises.com/home/reviews/"
+  ],
+  "trips": [
+    {
+      "title": "5-Hour Turtle & Shipwreck Lunch Cruise",
+      "kind": "cruise",
+      "summary": "Sail up the coast from the Careenage with the crew working the catamaran, then stop twice to swim and snorkel: once with sea turtles and once over shipwrecks and reef fish. Lunch is a Bajan buffet served on board in a quiet bay, with banana bread after.",
+      "highlights": [
+        "Two swim and snorkel stops: sea turtles, and historical shipwrecks",
+        "Bajan buffet lunch on board, banana bread for dessert",
+        "Unlimited alcoholic and non-alcoholic drinks",
+        "No more than 12 guests"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": ["10:00"],
+      "season": null,
+      "departsFrom": "The Careenage, Bridgetown",
+      "prices": [
+        { "label": "Adult", "amount": 110, "currency": "USD", "note": null },
+        { "label": "Adult", "amount": 220, "currency": "BBD", "note": null },
+        { "label": "Child (3 to 12 years)", "amount": 90, "currency": "USD", "note": null },
+        { "label": "Child (3 to 12 years)", "amount": 180, "currency": "BBD", "note": null }
+      ],
+      "priceFrom": 110,
+      "includes": [
+        "Unlimited drinks (alcoholic and non-alcoholic)",
+        "Snorkel and safety gear",
+        "Traditional Bajan buffet lunch",
+        "Banana bread",
+        "On board marine toilet",
+        "Deck space and shade",
+        "Transportation to and from hotels, select villas and cruise ships on the West and South coasts"
+      ],
+      "bring": ["Swimwear (under your clothing, for easy changing)", "Beach towels", "Sunscreen", "Camera"],
+      "requirements": "No age limit for children. Maximum 12 people.",
+      "offer": null,
+      "images": [
+        "https://smallcatscruises.com/wp-content/uploads/2020/10/IMG_9807-1.jpg",
+        "https://smallcatscruises.com/wp-content/uploads/2020/10/IMG_9831-1.jpg"
+      ],
+      "bookingLinks": ["https://widgets.bokun.io/online-sales/8dbfc279-bdbe-4b15-87e8-79b17d85f7ca/experience/984840?partialView=1"],
+      "sourceUrl": "https://smallcatscruises.com/our-cruises/5-hour-cruises/",
+      "checkNotes": "Returns to the Careenage at 3:00 pm. Gratuity not included. The Bokun link opens from a Book button on the page (not opened)."
+    },
+    {
+      "title": "3-Hour Snorkeling Cruise",
+      "kind": "snorkel",
+      "summary": "A morning sail with two swim and snorkel stops, one with sea turtles and one over historical shipwrecks with tropical fish. Afterwards you anchor in a quiet bay with a rum punch before heading back.",
+      "highlights": [
+        "Two swim and snorkel stops: sea turtles, and historical shipwrecks",
+        "Unlimited alcoholic and non-alcoholic drinks",
+        "Sailing catamaran handled by the crew",
+        "No more than 12 guests"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": ["10:00"],
+      "season": null,
+      "departsFrom": "The Careenage, Bridgetown",
+      "prices": [
+        { "label": "Adult", "amount": 85, "currency": "USD", "note": null },
+        { "label": "Adult", "amount": 170, "currency": "BBD", "note": null },
+        { "label": "Child (3 to 12 years)", "amount": 70, "currency": "USD", "note": null },
+        { "label": "Child (3 to 12 years)", "amount": 140, "currency": "BBD", "note": null }
+      ],
+      "priceFrom": 85,
+      "includes": [
+        "Unlimited drinks (alcoholic and non-alcoholic)",
+        "Snorkel and safety gear",
+        "On board marine toilet",
+        "Deck space and shade",
+        "Transportation to and from hotels, select villas and cruise ships on the West and South coasts"
+      ],
+      "bring": ["Swimwear (under your clothing, for easy changing)", "Beach towels", "Sunscreen", "Camera"],
+      "requirements": "No age limit for children. Maximum 12 people.",
+      "offer": null,
+      "images": [
+        "https://smallcatscruises.com/wp-content/uploads/2020/10/IMG_9814.jpg",
+        "https://smallcatscruises.com/wp-content/uploads/2020/10/IMG_9837.jpg"
+      ],
+      "bookingLinks": ["https://widgets.bokun.io/online-sales/8dbfc279-bdbe-4b15-87e8-79b17d85f7ca/experience/987328?partialView=1"],
+      "sourceUrl": "https://smallcatscruises.com/our-cruises/3-hour-cruises/",
+      "checkNotes": "Guests leave the catamaran at 1:00 pm; a beach drop off may be possible depending on shared or private cruise. Gratuity not included."
+    },
+    {
+      "title": "Private Charter Cruises",
+      "kind": "charter",
+      "summary": "The catamaran for your group alone, for three or five hours, for families, couples, friends or a work day. You set the plan, or follow the classic route with turtle and shipwreck snorkel stops and an optional Bajan buffet lunch.",
+      "highlights": [
+        "Private 3 hour or 5 hour cruise",
+        "Up to 12 people",
+        "Turtle and shipwreck snorkel stops on the suggested route",
+        "Drinks, lunch and transfers available if selected"
+      ],
+      "duration": "3 hours or 5 hours",
+      "durationMinutes": null,
+      "departureTimes": ["10:00"],
+      "season": null,
+      "departsFrom": "The Careenage, Bridgetown",
+      "prices": [
+        { "label": "Private 3 hour cruise, per boat", "amount": 645, "currency": "USD", "note": "Starting from" },
+        { "label": "Private 3 hour cruise, per boat", "amount": 1290, "currency": "BBD", "note": "Starting from" },
+        { "label": "Private 5 hour cruise, per boat", "amount": 965, "currency": "USD", "note": "Starting from" },
+        { "label": "Private 5 hour cruise, per boat", "amount": 1800, "currency": "BBD", "note": "Starting from" }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Snorkel and safety gear",
+        "On board marine toilet",
+        "Deck space and shade",
+        "Unlimited drinks (if selected)",
+        "Traditional Bajan buffet lunch and banana bread (if selected)",
+        "Shared guest shuttle to and from select hotels, villas and cruise ships on the West and South Coasts (if selected)"
+      ],
+      "bring": ["Swimwear (under your clothing, for easy changing)", "Beach towels", "Sunscreen", "Camera"],
+      "requirements": "Maximum 12 people.",
+      "offer": null,
+      "images": [
+        "https://smallcatscruises.com/wp-content/uploads/2020/10/IMG_9810-1.jpg",
+        "https://smallcatscruises.com/wp-content/uploads/2020/10/IMG_9819-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://widgets.bokun.io/online-sales/8dbfc279-bdbe-4b15-87e8-79b17d85f7ca/experience/988586?partialView=1",
+        "https://widgets.bokun.io/online-sales/8dbfc279-bdbe-4b15-87e8-79b17d85f7ca/experience/991989?partialView=1"
+      ],
+      "sourceUrl": "https://smallcatscruises.com/our-cruises/private-charter/",
+      "checkNotes": "First booking link is the private 3 hour cruise, second the private 5 hour. Per-boat prices, so priceFrom is null. The 5 hour Barbados dollar figure ($1,800 BBD) does not match the 2 to 1 conversion used everywhere else on the site ($965 USD would be $1,930 BBD); page also says to contact them for accurate pricing. The page points groups over 12 to a sister company, El Tigre Catamaran Cruises."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Online booking through Bokun buttons on each cruise page (widgets.bokun.io, not opened), plus a reservation request form. No email address is shown; the Email Us links go to the request form. The reservation form allows children 2 to 12 years, while the rate tables say Child (3-12 years). Several page backgrounds are Unsplash stock photos and were left out. Footer copyright 1997 to 2025; Tripadvisor reviews on the reviews page run to March 2026, so the business looks active."
+}

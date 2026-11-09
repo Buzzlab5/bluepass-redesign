@@ -1,0 +1,314 @@
+{
+  "slug": "trident-freedivers-barbados",
+  "name": "Trident Freedivers",
+  "website": "https://www.tridentfreedivers.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Carlisle Bay",
+  "category": "Freediving and spearfishing",
+  "summary": "A small freediving school run by Hanna Allen, a Barbadian national freediving record holder and PADI freediving instructor. Courses, fun dives and underwater photo sessions take place around the shipwrecks of Carlisle Bay, and guided spearfishing trips go out from the beach or offshore.",
+  "standouts": [
+    "Run by Johanna Loch-Allen (Hanna), Barbadian freediving record holder in Free Immersion and Constant Weight",
+    "PADI Freediving instructor and Emergency First Response instructor",
+    "All instructors are Emergency First Response instructors",
+    "Rescue techniques taught on all freediving courses"
+  ],
+  "contact": {
+    "phone": "+1 (246) 234-7778",
+    "email": "trident.freedivers@gmail.com",
+    "address": "Hastings, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://res.cloudinary.com/dsr9bgg8i/image/upload/q_100/v1561743347/HomePage.jpg",
+  "sourceUrls": [
+    "https://www.tridentfreedivers.com/",
+    "https://www.tridentfreedivers.com/about_us",
+    "https://www.tridentfreedivers.com/freediving",
+    "https://www.tridentfreedivers.com/spearfishing",
+    "https://www.tridentfreedivers.com/underwater_photo",
+    "https://www.tridentfreedivers.com/contact"
+  ],
+  "trips": [
+    {
+      "title": "PADI certification course (2 days)",
+      "kind": "course",
+      "summary": "A two day PADI Freediver course covering static, dynamic and deep freediving, with breathing, equalisation and rescue skills. Day one starts with classroom work and moves into the water, and day two focuses on equalisation and depth. You finish with a PADI freediver card.",
+      "highlights": [
+        "PADI certified freediver card on completion",
+        "Online learning materials for all 3 PADI freediver courses",
+        "Static, dynamic and deep freediving",
+        "Usually finishes with a fun dive on the Carlisle Bay shipwrecks"
+      ],
+      "duration": "2 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Carlisle Bay",
+      "prices": [
+        { "label": "Per person", "amount": 270, "currency": "USD", "note": null },
+        { "label": "GoPro footage add-on", "amount": 20, "currency": "USD", "note": "Optional extra" }
+      ],
+      "priceFrom": 270,
+      "includes": [
+        "Gear rental: long freediving fins, mask and snorkel",
+        "Weight belt and weights",
+        "Rash guard tops available in a variety of sizes",
+        "Online learning materials for all 3 PADI freediver courses",
+        "PADI certified freediver card"
+      ],
+      "bring": [],
+      "requirements": "Minimum age 15. Must be a competent swimmer in good physical health. No prior experience required.",
+      "offer": null,
+      "images": [
+        "https://res.cloudinary.com/dsr9bgg8i/image/upload/q_100/v1561743951/hanna-line2.jpg",
+        "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571759467/freedive_card.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.tridentfreedivers.com/freediving",
+      "checkNotes": "Booked by a request form on the site (Book Now pop-up and contact page) or by phone and email; no online booking. The GoPro add-on is shown as $20 on this card and $20 USD on the one day card; footer says all prices are in US dollars."
+    },
+    {
+      "title": "Freediving course (1 day)",
+      "kind": "course",
+      "summary": "A one day condensed version of the two day course, without the PADI certification. It covers static and deep freediving, equalisation, breathing and rescue, but not dynamic freediving.",
+      "highlights": [
+        "Static and deep freediving",
+        "Equalisation, breathing techniques and rescue",
+        "Usually finishes with a fun dive on the Carlisle Bay shipwrecks"
+      ],
+      "duration": "1 day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Carlisle Bay",
+      "prices": [
+        { "label": "Per person", "amount": 150, "currency": "USD", "note": null },
+        { "label": "Per person", "amount": 300, "currency": "BBD", "note": "Barbados dollar figure given alongside the US dollar price" },
+        { "label": "GoPro footage add-on", "amount": 20, "currency": "USD", "note": "Optional extra" }
+      ],
+      "priceFrom": 150,
+      "includes": [
+        "Gear rental: long freediving fins, mask and snorkel",
+        "Weight belt and weights"
+      ],
+      "bring": [],
+      "requirements": "Must be a competent swimmer in good physical health. No prior experience required.",
+      "offer": {
+        "text": "Discount when booking a one day freediving course and a spearfishing tour together",
+        "conditions": "Ask the operator for details",
+        "validUntil": null
+      },
+      "images": [
+        "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571759467/freedive_card.jpg",
+        "https://res.cloudinary.com/dsr9bgg8i/image/upload/q_100/v1561743951/hanna-line2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.tridentfreedivers.com/freediving",
+      "checkNotes": "Gear inclusion and swimming requirement are stated for the course generally on the freediving page; check they apply to the one day course too. Booked by request form, phone or email."
+    },
+    {
+      "title": "Fun Dives",
+      "kind": "dive",
+      "summary": "Guided freedives on the Carlisle Bay shipwrecks, with turtles, or at night. Run on request when a minimum number of people is met.",
+      "highlights": [
+        "Shipwrecks, marine life and night dives",
+        "Group rates available",
+        "Run on request when minimum numbers are met"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Carlisle Bay",
+      "prices": [
+        { "label": "Per person, from", "amount": 120, "currency": "USD", "note": "Freediving page says from $120 USD; home page card says $150 USD per person, group rates available" }
+      ],
+      "priceFrom": 120,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.tridentfreedivers.com/freediving",
+      "checkNotes": "Price conflict: home page card shows $150 USD per person, freediving page shows from $120 USD; used the freediving page. Available on request if minimum numbers are met. Booked by request form, phone or email."
+    },
+    {
+      "title": "PADI Advanced Freediver course",
+      "kind": "course",
+      "summary": "The next level of PADI freediver training, offered on request. Contact the school for details.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.tridentfreedivers.com/freediving",
+      "checkNotes": "Only mentioned as available on request; no price, duration or content stated."
+    },
+    {
+      "title": "Coastal Spearfishing Tour",
+      "kind": "tour",
+      "summary": "A guided shore spearfishing trip for selective, sustainable fishing on the reefs. It starts with breath hold, equalisation and safety teaching and an introduction to spearguns and pole spears, then you swim out from the beach. Afterwards the guide shows you how to fillet the catch over tea and a snack on the beach.",
+      "highlights": [
+        "Targets lobster, lionfish, barracuda, mackerel and snappers",
+        "Morning or afternoon tours",
+        "Pick up or meet at a set location",
+        "GoPro footage of the tour included"
+      ],
+      "duration": "About 3 to 4 hours (depending on location)",
+      "durationMinutes": null,
+      "departureTimes": ["09:00", "13:00"],
+      "season": null,
+      "departsFrom": "Pick up from your accommodation or a designated meeting point",
+      "prices": [
+        { "label": "Per person", "amount": 150, "currency": "USD", "note": null },
+        { "label": "Per person", "amount": 300, "currency": "BBD", "note": "Barbados dollar figure given alongside the US dollar price" }
+      ],
+      "priceFrom": 150,
+      "includes": [
+        "All gear",
+        "Instruction and safety demonstration",
+        "Transportation",
+        "GoPro footage",
+        "Hot tea and a snack on the beach"
+      ],
+      "bring": [],
+      "requirements": "Experience required. A freediving course beforehand is highly recommended.",
+      "offer": {
+        "text": "Discount when booking a one day freediving course and a spearfishing tour together",
+        "conditions": "Ask the operator for details",
+        "validUntil": null
+      },
+      "images": [
+        "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571941520/spear_bg.jpg",
+        "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571759635/spear_card.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.tridentfreedivers.com/spearfishing",
+      "checkNotes": "Duration given as 3 to 4 hours on the card and about 4 hours in the text; morning tours 9am to 1pm, afternoon tours 1pm to 5pm. Booked by request form, phone or email."
+    },
+    {
+      "title": "Blue water Tour",
+      "kind": "tour",
+      "summary": "An offshore spearfishing trip for pelagic fish, for experienced spear fishers only. Spearfishing gear is available, though many guests bring their own.",
+      "highlights": [
+        "Targets larger pelagic fish offshore",
+        "Runs year round",
+        "Rob Allen 130 guns with breakaway spear, float line and pressurised float available",
+        "GoPro footage included"
+      ],
+      "duration": "4 hours, with options for extra hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": "Year round",
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All gear",
+        "Ice, bait and flasher",
+        "Transportation",
+        "Snacks",
+        "GoPro footage"
+      ],
+      "bring": [],
+      "requirements": "Experienced spearfishers only",
+      "offer": null,
+      "images": [
+        "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571941520/spear_bg.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.tridentfreedivers.com/spearfishing",
+      "checkNotes": "Price on enquiry. Booked by request form, phone or email."
+    },
+    {
+      "title": "Spearfishing at night",
+      "kind": "tour",
+      "summary": "A night spearfishing trip under the stars. The site gives few other details.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Per person", "amount": 150, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 150,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571941520/spear_bg.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.tridentfreedivers.com/spearfishing",
+      "checkNotes": "Very little detail on the site. Booked by request form, phone or email."
+    },
+    {
+      "title": "Photography Tour",
+      "kind": "tour",
+      "summary": "An easy introduction to freediving with a photographer in the water. It includes Freediving 101 with Hanna, and you receive photos and videos of yourself freediving among the Carlisle Bay shipwrecks and marine life, delivered digitally.",
+      "highlights": [
+        "Singles, couples or groups",
+        "Photos taken with a professional camera",
+        "Images and videos delivered in digital format",
+        "Group rates available"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Carlisle Bay",
+      "prices": [
+        { "label": "Per person", "amount": 150, "currency": "USD", "note": "Group rates available on request" },
+        { "label": "Per person", "amount": 300, "currency": "BBD", "note": "Barbados dollar figure given alongside the US dollar price" }
+      ],
+      "priceFrom": 150,
+      "includes": [
+        "All gear",
+        "Instruction and safety demonstration",
+        "Freediving 101 with Hanna",
+        "Photos and videos in digital format"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571673096/UW_PHotoPageMainImage.jpg",
+        "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571759474/photo_card.jpg",
+        "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571671995/TridentFreedivers_KyleMaryam-0071_acj2vq.jpg",
+        "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571673018/TridentFreedivers_amaia-0528_copy_qxi267.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.tridentfreedivers.com/underwater_photo",
+      "checkNotes": "Booked by request form, phone or email."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Discount when booking a one day freediving course and a spearfishing tour together",
+      "conditions": "Ask the operator for details",
+      "validUntil": null,
+      "sourceUrl": "https://www.tridentfreedivers.com/spearfishing"
+    },
+    {
+      "text": "Underwater images available for purchase, print and licence to use",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://www.tridentfreedivers.com/underwater_photo"
+    }
+  ],
+  "checkNotes": "No online booking: trips are requested through a form on the site (Book Now pop-up and contact page, asking for accommodation and fin size) or by phone and email. Site footer still says 2019, but the YouTube channel the site links to has videos posted in October 2026, so the business looks active. About page also mentions surf survival breath-hold courses for surfers on request (no price or detail). Footer states all prices are quoted in US dollars."
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "imagine-cruises",
+  "logo": null,
+  "gallery": [],
+  "videos": [],
+  "trips": [
+    {
+      "title": "3hr Whale + Dolphin Watch Cruise",
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2023/11/Whale-1071-x-965.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2015/11/Whales-2-2000-x-861.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2021/04/whales-imagine-600-x-399.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2023/05/Whale-14-390-x-244.jpg"
+      ]
+    },
+    {
+      "title": "1.5hr Dolphin Watch Cruise + Sail",
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2023/11/Dolphins-1071-x-965.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2018/01/Dolphins-2-2000-x-861.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2015/11/Dolphin-3-390-x-244.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2015/11/Dolphin-2-390-x-244-1.jpg"
+      ]
+    },
+    {
+      "title": "Wild Dolphin Swim & Watch: 4hr Dolphin Adventure",
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2021/10/dsa.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2018/01/Home-2-2000-x-1263.jpg"
+      ]
+    },
+    {
+      "title": "3.5hr Marine Discovery Cruise",
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2023/11/Snorkel-1071-x-965.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2015/11/Snorkelling-2-2000-x-861.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2015/11/Snorkel-3-390-x-244.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2015/11/Snorkel-4-390-x-244.jpg"
+      ]
+    },
+    {
+      "title": "Sunset Dinner Cruise",
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2015/11/Sunset-Cruise-1-800-x-534.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2021/06/Specialty-1-2000-x-1263.jpg"
+      ]
+    },
+    {
+      "title": "Sunset Sizzle",
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2025/12/Sunset-Sizzle.jpg"
+      ]
+    },
+    {
+      "title": "Valentine's Day Sunset Dinner Cruise",
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2025/02/Valentines-2-800-x-534.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2025/02/Valentines-1-800-x-534.jpg"
+      ]
+    },
+    {
+      "title": "Pelagic Bird Watching Tours",
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2025/02/Pelagic-4-800-x-534.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2025/02/Pelagic-5-800-x-534.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2025/02/Pelagic-2-800-x-534.jpg"
+      ]
+    },
+    {
+      "title": "Celebration of Life Ceremony at Sea",
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2025/02/Ceremony-2-800-x-534.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2025/02/Ceremony-1-800-x-534.jpg"
+      ]
+    },
+    {
+      "title": "Private Charters",
+      "images": [
+        "https://imaginecruises.com.au/wp-content/uploads/2019/02/charter-4-800-x-292.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2018/01/Dinner-2000-x-861.jpg",
+        "https://imaginecruises.com.au/wp-content/uploads/2019/02/charter-1-800-x-292.jpg"
+      ]
+    },
+    {
+      "title": "Educational Adventure Excursions",
+      "images": []
+    }
+  ],
+  "notes": "Blocked. On 13 Oct 2026 the first request to https://imaginecruises.com.au/ got a SiteGround bot check: an HTTP 202 page that redirects to /.well-known/sgcaptcha/. Per the rules the work stopped there and the check was not bypassed, so no logo, gallery or videos were collected and no YouTube or Vimeo channel could be confirmed from the site. The trip images below are copied from the facts file only (collected earlier from the trip pages), not newly found. Educational Adventure Excursions has none. Retry later from a network the host allows, or ask the operator for their logo and photos at claim."
+}

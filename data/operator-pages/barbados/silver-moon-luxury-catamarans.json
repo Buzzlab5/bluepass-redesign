@@ -1,0 +1,461 @@
+{
+  "slug": "silver-moon-luxury-catamarans",
+  "name": "Silver Moon Barbados",
+  "website": "https://silvermoonbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Small-group catamaran cruises",
+  "summary": "Silver Moon has sailed from the Shallow Draught in Bridgetown since 2002, run by owners Nick and Nicky Parker. Each cruise takes about 12 guests on one of four catamarans, with two snorkel stops for turtles and a shipwreck or reef, an open bar and a family-style Bajan meal. Lunch and afternoon cruises run all year, and every boat can be chartered privately.",
+  "standouts": [
+    "Sailing from Bridgetown since 2002, owned by Nick and Nicky Parker",
+    "About 12 guests per sailing on catamarans certified for around 40",
+    "Tripadvisor Certificate of Excellence every year from 2011 to 2019",
+    "Fleet includes a Leopard 62, one of only four ever built"
+  ],
+  "contact": {
+    "phone": "+1 246 435 5285",
+    "email": "reservations@silvermoonbarbados.com",
+    "address": "Shallow Draught, Bridgetown, Barbados",
+    "whatsapp": "https://wa.me/12464355285"
+  },
+  "heroImage": "https://silvermoonbarbados.com/_astro/silver-moon-bow.BSkOGsHR_2kzXxU.webp",
+  "sourceUrls": [
+    "https://silvermoonbarbados.com/",
+    "https://silvermoonbarbados.com/llms.txt",
+    "https://silvermoonbarbados.com/llms-full.txt",
+    "https://silvermoonbarbados.com/catamaran-cruises/",
+    "https://silvermoonbarbados.com/catamaran-cruises/lunch-cruise/",
+    "https://silvermoonbarbados.com/catamaran-cruises/afternoon-cruise/",
+    "https://silvermoonbarbados.com/catamaran-cruises/the-11-oclock/",
+    "https://silvermoonbarbados.com/private-charters/",
+    "https://silvermoonbarbados.com/book-online/",
+    "https://silvermoonbarbados.com/for-ai-assistants/",
+    "https://silvermoonbarbados.com/for-ai-assistants/availability/adults/1/children/1/infants/1/",
+    "https://silvermoonbarbados.com/catamaran-fleet/silver-moon/",
+    "https://silvermoonbarbados.com/catamaran-fleet/silver-dancer/",
+    "https://silvermoonbarbados.com/catamaran-fleet/silver-moon-3/",
+    "https://silvermoonbarbados.com/catamaran-fleet/honey-moon/",
+    "https://silvermoonbarbados.com/snorkelling-in-barbados/",
+    "https://silvermoonbarbados.com/awards/",
+    "https://silvermoonbarbados.com/deck-pass/"
+  ],
+  "trips": [
+    {
+      "title": "The Lunch Cruise",
+      "kind": "cruise",
+      "summary": "Five hours along the sheltered coast with about 12 guests. You swim with sea turtles, then snorkel a shipwreck or reef with the crew in the water beside you. Lunch is a family-style Bajan buffet with fish grilled on board, and the bar is open all day.",
+      "highlights": [
+        "Two snorkel stops: turtles, and a shipwreck or reef",
+        "Family-style Bajan lunch with fish grilled on board",
+        "Open bar with rum punch, cocktails, wine and soft drinks",
+        "About 12 guests per sailing"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [
+        "09:00"
+      ],
+      "season": "Year round",
+      "departsFrom": "Shallow Draught, Bridgetown",
+      "prices": [
+        {
+          "label": "Adult (13+), Standard",
+          "amount": 165,
+          "currency": "USD",
+          "note": "Shown as $165 and up"
+        },
+        {
+          "label": "Child (3 to 12), Standard",
+          "amount": 125,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Infant (under 3), Standard",
+          "amount": 55,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Adult (13+), Premium",
+          "amount": 195,
+          "currency": "USD",
+          "note": "Premium adds Prosecco, Scotch, Tequila and premium spirits, and a trio of desserts"
+        },
+        {
+          "label": "Child (3 to 12), Premium",
+          "amount": 145,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Infant (under 3), Premium",
+          "amount": 75,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Private, whole boat, Standard tier on Silver Moon 3",
+          "amount": 1980,
+          "currency": "USD",
+          "note": "Per boat, up to 12 guests, shown as $1,980 and up"
+        },
+        {
+          "label": "Hotel transport, per person",
+          "amount": 15,
+          "currency": "USD",
+          "note": "Added by default, removed if you make your own way"
+        }
+      ],
+      "priceFrom": 165,
+      "includes": [
+        "Two snorkel stops, turtles and a shipwreck or reef",
+        "Open bar with rum punch, cocktails, wine and soft drinks",
+        "Family style Bajan lunch",
+        "Canapés and light bites",
+        "Mask and fins for snorkelling, noodles and floaties",
+        "Expert crew in the water with you"
+      ],
+      "bring": [
+        "Comfortable beachwear",
+        "Towels",
+        "A hat",
+        "Sunglasses"
+      ],
+      "requirements": "Children of all ages welcome. Some Premium sailings are adults only (18 and over). Scheduled cruises sail once 6 guests are booked.",
+      "offer": null,
+      "images": [
+        "https://silvermoonbarbados.com/_astro/Silver-Moon-3-Trampoline-Barbados.D4lda_Zu.jpg",
+        "https://silvermoonbarbados.com/_astro/leave-your-cares-behind-silvermoon.oGHKNdwC.jpg",
+        "https://silvermoonbarbados.com/_astro/Hawskbill-Turtle-Barbados.CiMyt9EV.jpg",
+        "https://silvermoonbarbados.com/_astro/silvermoon-snorkel-guides.ZbA-hVTs.jpg"
+      ],
+      "bookingLinks": [
+        "https://silvermoonbarbados.com/book-online/",
+        "https://silvermoonbarbados.com/book-online/private/standard/"
+      ],
+      "sourceUrl": "https://silvermoonbarbados.com/catamaran-cruises/lunch-cruise/",
+      "checkNotes": "Child, infant and Premium rates were read from the site's live availability page (for-ai-assistants) for October 2026 sailings; the cruise page itself shows only \"$165 and up\". Government tax is added at checkout. Returns around 2 PM."
+    },
+    {
+      "title": "The Afternoon Cruise",
+      "kind": "cruise",
+      "summary": "Four hours in the softer afternoon light with about 12 guests. Swim with sea turtles and snorkel a reef or shipwreck, then eat a family-style Bajan dinner on deck as the sun sets. The bar is open throughout.",
+      "highlights": [
+        "Two snorkel stops: turtles, and a shipwreck or reef",
+        "Family-style Bajan dinner on deck",
+        "On the water at sunset",
+        "Open bar throughout"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "14:45"
+      ],
+      "season": "Year round",
+      "departsFrom": "Shallow Draught, Bridgetown",
+      "prices": [
+        {
+          "label": "Adult, Standard",
+          "amount": 155,
+          "currency": "USD",
+          "note": "Shown as $155 and up"
+        },
+        {
+          "label": "Adult (13+), Premium",
+          "amount": 175,
+          "currency": "USD",
+          "note": "Premium adds Prosecco, Scotch, Tequila and premium spirits, and a trio of desserts"
+        },
+        {
+          "label": "Child (3 to 12), Premium",
+          "amount": 135,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Infant (under 3), Premium",
+          "amount": 65,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Private, whole boat, Standard tier on Silver Moon 3",
+          "amount": 1860,
+          "currency": "USD",
+          "note": "Per boat, up to 12 guests, shown as $1,860 and up"
+        },
+        {
+          "label": "Hotel transport, per person",
+          "amount": 15,
+          "currency": "USD",
+          "note": "Added by default, removed if you make your own way"
+        }
+      ],
+      "priceFrom": 155,
+      "includes": [
+        "Two snorkel stops, turtles and a shipwreck or reef",
+        "Open bar with rum punch, cocktails, wine and soft drinks",
+        "Family style Bajan dinner",
+        "Canapés and light bites",
+        "Mask and fins for snorkelling, noodles and floaties",
+        "Expert crew in the water with you"
+      ],
+      "bring": [
+        "Comfortable beachwear",
+        "Towels",
+        "A hat",
+        "Sunglasses"
+      ],
+      "requirements": "Children of all ages welcome. Some Premium sailings are adults only (18 and over). Scheduled cruises sail once 6 guests are booked.",
+      "offer": null,
+      "images": [
+        "https://silvermoonbarbados.com/_astro/couple-on-deck.C8byMQ50.jpg",
+        "https://silvermoonbarbados.com/_astro/silver-moon-3-daybed-with-wine.CnZOy1oe.jpg",
+        "https://silvermoonbarbados.com/_astro/captain-with-baby-and-turtles.BxIgG6sL.jpg",
+        "https://silvermoonbarbados.com/_astro/sitting-on-the-bow-courtesy-of-eylee.yDwZzHSl.jpg"
+      ],
+      "bookingLinks": [
+        "https://silvermoonbarbados.com/book-online/",
+        "https://silvermoonbarbados.com/book-online/private/standard/"
+      ],
+      "sourceUrl": "https://silvermoonbarbados.com/catamaran-cruises/afternoon-cruise/",
+      "checkNotes": "Standard child and infant rates for this cruise were not shown (only Premium afternoon sailings were listed in the October 2026 availability). Premium rates come from the live availability page. Government tax is added at checkout. Returns around 6:45 PM."
+    },
+    {
+      "title": "The 11 O'Clock",
+      "kind": "cruise",
+      "summary": "A six hour summer day on Honey Moon, a 50ft Leopard sailing catamaran, with 12 guests and four crew. It follows the Lunch Cruise plan with an extra hour: two snorkel stops, a family-style Bajan lunch with the day's catch grilled on board, and the open bar.",
+      "highlights": [
+        "Sails only in summer, only on Honey Moon",
+        "Six hours, the longest cruise",
+        "Two snorkel stops: turtles, and a shipwreck or reef",
+        "Family-style Bajan lunch and open bar"
+      ],
+      "duration": "6 hours",
+      "durationMinutes": 360,
+      "departureTimes": [
+        "11:00"
+      ],
+      "season": "Summer season only",
+      "departsFrom": "Shallow Draught, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 250,
+          "currency": "USD",
+          "note": "Shown as $250 and up"
+        },
+        {
+          "label": "Hotel transport, per person",
+          "amount": 15,
+          "currency": "USD",
+          "note": "Added by default, removed if you make your own way"
+        }
+      ],
+      "priceFrom": 250,
+      "includes": [
+        "Two snorkel stops, turtles and a shipwreck or reef",
+        "Family-style Bajan lunch",
+        "Open bar with rum punch, cocktails, wine and soft drinks",
+        "Canapés and light bites",
+        "Mask and fins for snorkelling, noodles and floaties",
+        "Expert crew in the water with you"
+      ],
+      "bring": [
+        "Comfortable beachwear",
+        "Towels",
+        "A hat",
+        "Sunglasses"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://silvermoonbarbados.com/_astro/honey-moon-aerial.C3zGrbhb.jpg",
+        "https://silvermoonbarbados.com/_astro/honey-moon-foredeck-dusk.5y5RR5PT.jpg",
+        "https://silvermoonbarbados.com/_astro/honey-moon-sailing.DLAnH2g_.jpg",
+        "https://silvermoonbarbados.com/_astro/honey-moon-cockpit.D5khTIT2.jpg"
+      ],
+      "bookingLinks": [
+        "https://silvermoonbarbados.com/book-online/the-11-oclock/"
+      ],
+      "sourceUrl": "https://silvermoonbarbados.com/catamaran-cruises/the-11-oclock/",
+      "checkNotes": "Private hire of the whole boat for up to 12 guests is by enquiry, no price shown. Summer months are not defined on the site. Child and infant rates not shown. Returns around 5 PM. Government tax is added at checkout."
+    },
+    {
+      "title": "Private Excursion",
+      "kind": "charter",
+      "summary": "The whole catamaran for your group at the regular departure times, with the open bar, a family-style Bajan buffet and snorkel gear included. Standard sails on Silver Moon 3; Premium is available on every boat and adds premium spirits and a trio of desserts.",
+      "highlights": [
+        "Morning 9 AM to 2 PM, or afternoon 2:45 to 6:45 PM",
+        "Prices cover up to 12 guests, up to 18 can book online",
+        "Standard on Silver Moon 3, Premium on any of the four catamarans",
+        "Open bar, Bajan buffet and snorkel gear included"
+      ],
+      "duration": "5 hours (morning) or 4 hours (afternoon)",
+      "durationMinutes": null,
+      "departureTimes": [
+        "09:00",
+        "14:45"
+      ],
+      "season": null,
+      "departsFrom": "Shallow Draught, Bridgetown",
+      "prices": [
+        {
+          "label": "Standard, morning, 5 hours, per boat",
+          "amount": 1980,
+          "currency": "USD",
+          "note": "Silver Moon 3, up to 12 guests"
+        },
+        {
+          "label": "Standard, afternoon, 4 hours, per boat",
+          "amount": 1860,
+          "currency": "USD",
+          "note": "Silver Moon 3, up to 12 guests"
+        },
+        {
+          "label": "Premium, morning, 5 hours, per boat",
+          "amount": 2340,
+          "currency": "USD",
+          "note": "Any vessel, up to 12 guests"
+        },
+        {
+          "label": "Premium, afternoon, 4 hours, per boat",
+          "amount": 2100,
+          "currency": "USD",
+          "note": "Any vessel, up to 12 guests"
+        },
+        {
+          "label": "Land transfer, per person",
+          "amount": 15,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Open bar with rum punch, cocktails, wine, beer and soft drinks",
+        "Family-style Bajan buffet",
+        "Snorkelling gear, noodles and floaties"
+      ],
+      "bring": [
+        "Comfortable beachwear",
+        "Towels",
+        "A hat",
+        "Sunglasses"
+      ],
+      "requirements": "Groups of 9 to 18 guests book privately online; more than 18 by custom charter. Reduced rates for children aged 3 to 12.",
+      "offer": null,
+      "images": [
+        "https://silvermoonbarbados.com/_astro/suntanning-on-trampoline-courtesy-charcorb.BXFfW11Q.jpg",
+        "https://silvermoonbarbados.com/_astro/silver-moon-3.CdKqYSDm.jpg",
+        "https://silvermoonbarbados.com/_astro/silvermoon-aerial-093.1DKMDbaJ.jpg",
+        "https://silvermoonbarbados.com/_astro/silver-dancer-on-water.ClBewKrq.jpg"
+      ],
+      "bookingLinks": [
+        "https://silvermoonbarbados.com/book-online/private/standard/",
+        "https://silvermoonbarbados.com/book-online/private/premium/"
+      ],
+      "sourceUrl": "https://silvermoonbarbados.com/private-charters/",
+      "checkNotes": "Per-boat prices, so priceFrom is null. Guests beyond 12 join at the per-person rate. Government tax is added at checkout."
+    },
+    {
+      "title": "Custom Charter",
+      "kind": "charter",
+      "summary": "Choose the boat, the departure time, the route and the length of the day, from three hours up. Bar and food packages are added per person, and beach pickup is free for charters of five hours or more. Used for weddings, birthdays and corporate days.",
+      "highlights": [
+        "Silver Moon 3 takes up to 40 guests, the other boats up to 24",
+        "Minimum three hours",
+        "Free beach pickup for charters of five hours or more",
+        "Bar, canapé and catering packages per person"
+      ],
+      "duration": "Minimum three hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Shallow Draught, Bridgetown, or beach pickup along the coast",
+      "prices": [
+        {
+          "label": "Silver Moon 3, per hour, per boat",
+          "amount": 550,
+          "currency": "USD",
+          "note": "Up to 40 guests"
+        },
+        {
+          "label": "Silver Moon, per hour, per boat",
+          "amount": 700,
+          "currency": "USD",
+          "note": "Up to 24 guests"
+        },
+        {
+          "label": "Silver Dancer, per hour, per boat",
+          "amount": 700,
+          "currency": "USD",
+          "note": "Up to 24 guests"
+        },
+        {
+          "label": "Honey Moon, per hour, per boat",
+          "amount": 700,
+          "currency": "USD",
+          "note": "Up to 24 guests"
+        },
+        {
+          "label": "Standard bar, per person",
+          "amount": 20,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Premium bar, per person",
+          "amount": 50,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Canapés and light bites, per person",
+          "amount": 20,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Catering, per person",
+          "amount": 20,
+          "currency": "USD",
+          "note": "From $20, for charters of four hours or more"
+        },
+        {
+          "label": "Land transfers, per person",
+          "amount": 15,
+          "currency": "USD",
+          "note": "Minimum US$60, covering up to five guests"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Dedicated crew",
+        "Snorkelling and swimming stops"
+      ],
+      "bring": [
+        "Comfortable beachwear",
+        "Towels",
+        "A hat",
+        "Sunglasses"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://silvermoonbarbados.com/_astro/silvermoon-aerial-074.CAW_EptU.jpg",
+        "https://silvermoonbarbados.com/_astro/honey-moon-aerial.C3zGrbhb.jpg",
+        "https://silvermoonbarbados.com/_astro/silver-dancer-bow.CAgZP6q2.jpg",
+        "https://silvermoonbarbados.com/_astro/sm3-aerial-49.CxTBA2dZ.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://silvermoonbarbados.com/private-charters/",
+      "checkNotes": "Quoted by the reservations team after an enquiry (contact form, phone, WhatsApp or email). Per-boat hourly prices, so priceFrom is null. For shorter charters a beach pickup costs one additional hour. Government tax is added at checkout."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Online booking runs through a Bookeo widget on the site's own /book-online/ page (bookeo.com not opened). The site publishes llms-full.txt and a live availability page for AI assistants; facts were cross-checked against the cruise pages, and child, infant and Premium rates come from the availability page for October 2026 sailings. That text asks agents to send guests to /book-online/?source=agent; the plain /book-online/ link is recorded instead. The business name on the site is Silver Moon Barbados. A US$15 per person hotel transport fee is added to every booking by default, and government tax is added at checkout. A deposit is taken at booking and the balance is due before departure. The Deck Pass page is a content creator programme, not a guest offer, so it is not listed."
+}

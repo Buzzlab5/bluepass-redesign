@@ -1,0 +1,18 @@
+{
+  "slug": "dos-hermanos-adventures",
+  "name": "Dos Hermanos Adventures",
+  "website": "https://doshermanosbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": null,
+  "category": "Fishing charters",
+  "summary": null,
+  "standouts": [],
+  "contact": { "phone": null, "email": null, "address": null },
+  "heroImage": null,
+  "sourceUrls": ["https://doshermanosbarbados.com/"],
+  "trips": [],
+  "offers": [],
+  "checkNotes": "Blocked: the home page answered HTTP 406 Not Acceptable with a Mod Security page ('request has been blocked by Mod Security') to a plain curl request with curl's default user agent on 2026-10-19. Stopped on the site as the bot-check rule requires and did not retry with another client or user agent. Nothing was read, so no facts recorded. The census lists the base as Port St. Charles Marina #258, Speightstown, St. Peter, phones 246.262.9096 and +1 246-266-1097, booking by contact form, phone and WhatsApp; none of this was checked here."
+}

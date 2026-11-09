@@ -1,0 +1,406 @@
+{
+  "slug": "pilgrim-sailing",
+  "name": "Pilgrim Sailing",
+  "website": "https://pilgrimsailing.com.au",
+  "rezdyAlias": null,
+  "state": "QLD",
+  "town": "Nelly Bay (Magnetic Island)",
+  "category": "Sailing cruises and charters",
+  "summary": "Sunset and lunchtime sailing cruises and private charters on Pilgrim, a 58-foot sailing yacht, from Nelly Bay on Magnetic Island near Townsville. Shared cruises carry a maximum of 12 guests, with local food and drinks included. Paul and Clare Ley started Pilgrim Sailing on Sydney Harbour in 2010 and have run it from Magnetic Island since 2020.",
+  "standouts": [
+    "EarthCheck certified (verified August 2024)",
+    "Family owned and operated, started in 2010 by Paul and Clare Ley",
+    "Shared cruises limited to 12 guests",
+    "Real sailing on a classic 58-foot yacht, sails up and engine off"
+  ],
+  "contact": {
+    "phone": "+61 424 296 406",
+    "email": "info@pilgrimsailing.com.au",
+    "address": "123 Sooning St, Nelly Bay, QLD 4819"
+  },
+  "heroImage": "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/682f2bdf-6883-470a-94b2-450e61c72ee6/Pilgrim-Magnetic-Island-Aerial-view-of-Pilgrim.jpg",
+  "sourceUrls": [
+    "https://www.pilgrimsailing.com.au/",
+    "https://www.pilgrimsailing.com.au/all-experiences",
+    "https://www.pilgrimsailing.com.au/tours-and-experiences",
+    "https://www.pilgrimsailing.com.au/experiences/p/lunchtime-cruise",
+    "https://www.pilgrimsailing.com.au/experiences/p/sunset-cruise",
+    "https://www.pilgrimsailing.com.au/experiences/p/day-charter",
+    "https://www.pilgrimsailing.com.au/experiences/p/sunset-charter",
+    "https://www.pilgrimsailing.com.au/experiences/p/circumnavigate-tour",
+    "https://www.pilgrimsailing.com.au/experiences/p/three-bays-tour",
+    "https://www.pilgrimsailing.com.au/on-the-island",
+    "https://www.pilgrimsailing.com.au/private-charters",
+    "https://www.pilgrimsailing.com.au/families-friends-celebrations",
+    "https://www.pilgrimsailing.com.au/corporate-charters",
+    "https://www.pilgrimsailing.com.au/special-offers",
+    "https://www.pilgrimsailing.com.au/gift-shop",
+    "https://www.pilgrimsailing.com.au/for-locals",
+    "https://www.pilgrimsailing.com.au/the-locals-list",
+    "https://www.pilgrimsailing.com.au/about-us",
+    "https://www.pilgrimsailing.com.au/plan-your-experience",
+    "https://www.pilgrimsailing.com.au/horseshoe-bay-departures",
+    "https://www.pilgrimsailing.com.au/amphibious-tours",
+    "https://www.pilgrimsailing.com.au/christmas-parties2",
+    "https://www.pilgrimsailing.com.au/contact-us",
+    "https://www.pilgrimsailing.com.au/terms-conditions",
+    "https://www.pilgrimsailing.com.au/blog/pilgrim-the-yacht",
+    "https://www.pilgrimsailing.com.au/sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Lunchtime Sailing Cruise",
+      "kind": "sail",
+      "summary": "A four hour shared sailing cruise on Pilgrim from Nelly Bay to a sheltered bay on Magnetic Island, usually Radical, Florence or Arthur Bay. At anchor there is time to swim, float on an inflatable mat, walk the beach or relax on board while a local prawn and antipasto lunch is served. Wine, local beer and soft drinks are included.",
+      "highlights": [
+        "Sailing along the island coast, then time at anchor in a bay",
+        "Local prawn and antipasto lunch, with vegetarian and gluten free options",
+        "Wine, local beer and soft drinks included",
+        "Shared with other guests, maximum 12 on board"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "10:15"
+      ],
+      "season": null,
+      "departsFrom": "Peppers Blue on Blue Resort, Nelly Bay, Magnetic Island (deck outside the Boardwalk Restaurant)",
+      "prices": [
+        {
+          "label": "Per person, from",
+          "amount": 229,
+          "currency": "AUD",
+          "note": "Price includes the environmental management charge of $8.50 per person"
+        },
+        {
+          "label": "Public holiday supplement, per person",
+          "amount": 20,
+          "currency": "AUD",
+          "note": "Added on public holidays"
+        }
+      ],
+      "priceFrom": 229,
+      "includes": [
+        "Four hour sailing cruise with time to sail, swim and relax in a secluded bay",
+        "Locally sourced prawn and antipasto lunch (dietary requirements can be accommodated)",
+        "Wine, local beer and soft or non-alcoholic drinks",
+        "Stinger suits (November to May)",
+        "Environmental management charge of $8.50 per person"
+      ],
+      "bring": [
+        "Swimmers, a towel, a hat and sunscreen (reef-friendly preferred)",
+        "A reusable water bottle (chilled drinking water is on board)",
+        "Something warm for after swimming in winter",
+        "Your own snorkel and mask if you want to snorkel (no snorkel gear is carried on board)"
+      ],
+      "requirements": "Minimum 4 guests, maximum 12 (mixed groups). Child prices apply to children up to 14 years inclusive. Snorkelling is only possible in suitable conditions, for confident swimmers with previous snorkelling experience, and needs a signed waiver. There are steps to board, a steep staircase to the toilet and a ladder to enter the water.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/77782751-8d64-4013-8334-7be4d2729e01/Pilgrim-Magnetic-Island-Lunch-Couple%2Bin%2Bthe%2Bcockpit%2Bcheers.jpg",
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/1749522098622-V2K6HBOPGZSHSUFXF0ZN/Pilgrim-Magnetic-Island-Lunch-Pilgrim+at+anchor+in+Arthur+Bay.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/1749522163961-OEYU64G561SWXJEJPB45/Pilgrim-Magnetic-Island-Lunch-TEL-Magnetic-Island0092.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/1749522181373-WNZ0PG82CNIEOWLUA6J8/Pilgrim-Magnetic-Island-Lunch-Somersaults+off+the+side.jpeg"
+      ],
+      "bookingLinks": [
+        "https://bookings.pilgrimsailing.com.au/BookingProduct/DateAndFares/?&Product=LUN-DAY-M",
+        "https://bookings.pilgrimsailing.com.au/BookingProduct/DateAndFares/?&Product=LUN-DAY-T"
+      ],
+      "sourceUrl": "https://www.pilgrimsailing.com.au/experiences/p/lunchtime-cruise",
+      "checkNotes": "Itinerary on the trip page: meet the crew 10:00, set sail 10:15, at anchor 11:15 to 1:15, back at Nelly Bay by about 2:15pm. The FAQ on the Plan Your Experience and All Experiences pages says around an hour and a half at anchor, the trip page itinerary shows two hours. Child price amounts are not shown on the page (only the child age limit), so only the adult from price is recorded; the exact prices sit in the booking calendar, which was not opened. Minimum numbers conflict: the trip page says minimum 4 guests, the Terms page says minimum six adults for Lunchtime Cruises. Two booking links on the page: LUN-DAY-M is the Book Now button, LUN-DAY-T is Book Now Departing Townsville (adds optional return SeaLink ferry tickets, guests catch the 9.30am ferry). Both go to the operator's own booking subdomain, not Rezdy, and were not opened. Page says to call 0424 296406 for next day bookings when the calendar shows no availability. When southeasterly winds blow, cruises can leave from Horseshoe Bay instead (see operator notes). Not a snorkel tour: the site states it does not offer snorkelling tours."
+    },
+    {
+      "title": "Sip & Sail Sunset Cruise",
+      "kind": "sail",
+      "summary": "A shared sunset sail of 1.5 to 2 hours on Pilgrim across Cleveland Bay, leaving from Nelly Bay on Magnetic Island. Wine, local beer or non-alcoholic drinks are included, with a local cheese platter and the crew's pumpkin chutney. Once a month the cruise runs about 30 minutes longer to watch the full moon rise.",
+      "highlights": [
+        "Sunset sail in Cleveland Bay, no anchoring",
+        "Unlimited Australian organic wines, local beers or non-alcoholic drinks",
+        "Local cheese platter with homemade pumpkin chutney",
+        "Maximum 12 guests, shared with others"
+      ],
+      "duration": "1.5 to 2 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Peppers Blue on Blue Resort, Nelly Bay, Magnetic Island (deck outside the Boardwalk Restaurant)",
+      "prices": [
+        {
+          "label": "Per person, from",
+          "amount": 139,
+          "currency": "AUD",
+          "note": "Price includes the environmental management charge of $4.25 per person"
+        },
+        {
+          "label": "Supplement per person",
+          "amount": 6,
+          "currency": "AUD",
+          "note": "Fridays, Saturdays, public holidays, full moon cruises and peak season; see the booking calendar for each day"
+        },
+        {
+          "label": "Sip, Sail & Dine package, per person",
+          "amount": 75,
+          "currency": "AUD",
+          "note": "Two-course meal at the Boardwalk Restaurant, Peppers Blue on Blue, with main, side to share, dessert and a drink on arrival"
+        }
+      ],
+      "priceFrom": 139,
+      "includes": [
+        "1.5 to 2 hour sailing cruise in Cleveland Bay",
+        "Unlimited Australian organic wines, local beers or non-alcoholic drinks",
+        "Local cheese platter with accompaniments including pumpkin chutney",
+        "Environmental management charge of $4.25 per person"
+      ],
+      "bring": [
+        "Something warm in the cooler months (June to September)",
+        "Optional: a few pre-mix drinks if you do not drink wine or beer (no spirits, red wine or large eskies)"
+      ],
+      "requirements": "Minimum 4 guests, maximum 12 (mixed groups). Generally adults only; children are welcome during school holidays. Arrive 15 minutes before the cruise starts.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/1745728378164-JLGWCJTLFRK0FJRS8JZ0/DSC07953-large%2B%25281%2529.jpg",
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/1748577947729-H60DJMM6NEOWWJEE9MKY/Pilgrim-Sailing-Sunset-Cruise-Cheese-platter.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/1745728378140-Q73X7MDRZPV655TA3WED/Pilgrim%2BSailing%2B%25282%2529.jpg",
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/1750808823425-SQ6TOYHBZ77TALLTQECI/Pilgrim-Magnetic-Island-Sunset-Ladies+selfie+next+to+the+jib+2.png"
+      ],
+      "bookingLinks": [
+        "https://bookings.pilgrimsailing.com.au/BookingProduct/DateAndFares/?&Product=SIP-SUN-M",
+        "https://bookings.pilgrimsailing.com.au/BookingProduct/DateAndFares/?&Product=SIP-SUN-T"
+      ],
+      "sourceUrl": "https://www.pilgrimsailing.com.au/experiences/p/sunset-cruise",
+      "checkNotes": "Start time is not fixed: the page says cruises start between 4:30pm and 5:45pm depending on the time of year, with the exact time in the booking calendar, which was not opened. The page header and the experience cards show $145.00 while the text says from $139 per person plus a $6 supplement on busy days, so $145 is probably the busy-day price; used $139. No child price is shown. The Plan Your Experience FAQ describes the sail as 90 minutes and the page says 1.5 to 2 hours. The Sip, Sail & Dine price of $75 per person is from this page; the private charter page also lists a poolside option from $85 per person. Full moon dates for 2026 and 2027 are listed on the page, and the weekday names for some dates differ from the Private Sunset Charter page (for example 26 September 2026 is a Saturday here and a Sunday on the charter page), so confirm any date before publishing. Two booking links: SIP-SUN-M is the Book Now button, SIP-SUN-T is Book Now Departing Townsville (adds optional SeaLink ferry tickets). Both are on the operator's own booking subdomain, not Rezdy, and were not opened."
+    },
+    {
+      "title": "Private Day Charter",
+      "kind": "charter",
+      "summary": "Exclusive use of Pilgrim for a four hour, five hour or Day to Dusk charter from Nelly Bay on Magnetic Island. The day includes a sail along the coast, a couple of hours at anchor in a quiet bay, and a local prawn and antipasto lunch with drinks. Day to Dusk charters finish with a sunset sail. Groups of up to 16 are catered for online, and the yacht is licensed for 24.",
+      "highlights": [
+        "Four hour, five hour or Day to Dusk formats",
+        "Local prawn and antipasto lunch with wine, local beer and soft drinks",
+        "Time at anchor to swim, take the dinghy ashore or float on an inflatable mat",
+        "Optional extras include champagne, snorkel hire, a beach cabana and a guided walk with a sail"
+      ],
+      "duration": "4 hours, 5 hours or Day to Dusk",
+      "durationMinutes": null,
+      "departureTimes": [
+        "09:15",
+        "10:15"
+      ],
+      "season": null,
+      "departsFrom": "Peppers Blue on Blue Resort, Nelly Bay, Magnetic Island (deck outside the Boardwalk Restaurant)",
+      "prices": [
+        {
+          "label": "Four-hour charter (10:15 start), up to 10 guests",
+          "amount": 2290,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Four-hour charter, each additional adult",
+          "amount": 229,
+          "currency": "AUD",
+          "note": "Per person"
+        },
+        {
+          "label": "Four-hour charter, each additional child (ages 1 to 14)",
+          "amount": 149,
+          "currency": "AUD",
+          "note": "Per person"
+        },
+        {
+          "label": "Five-hour charter (9:15 start), up to 10 guests",
+          "amount": 2790,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Five-hour charter, each additional adult",
+          "amount": 279,
+          "currency": "AUD",
+          "note": "Per person"
+        },
+        {
+          "label": "Five-hour charter, each additional child (ages 1 to 14)",
+          "amount": 149,
+          "currency": "AUD",
+          "note": "Per person"
+        },
+        {
+          "label": "Day to Dusk charter (afternoon start), up to 10 guests",
+          "amount": 2890,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Day to Dusk charter, each additional adult",
+          "amount": 279,
+          "currency": "AUD",
+          "note": "Per person"
+        },
+        {
+          "label": "Day to Dusk charter, each additional child (ages 1 to 14)",
+          "amount": 149,
+          "currency": "AUD",
+          "note": "Per person"
+        },
+        {
+          "label": "Infants under one",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        }
+      ],
+      "priceFrom": 229,
+      "includes": [
+        "Four or five hours on the water, or a Day to Dusk charter finishing at sunset",
+        "Locally sourced prawn and antipasto lunch (dietary requirements can be accommodated)",
+        "Wine, local beers and soft or non-alcoholic drinks",
+        "Stinger suits (November to May)",
+        "A bottle of champagne on board for private bookings of two",
+        "Environmental management charge of $8.50 per person"
+      ],
+      "bring": [
+        "Swimmers, a towel, a hat and sunscreen",
+        "Your own snorkel gear if you want to snorkel (snorkel hire can be arranged as an extra)"
+      ],
+      "requirements": "Online booking covers up to 16 guests; contact the operator for larger groups. The yacht is licensed for 24 guests and 16 is recommended. Child prices apply to ages 1 to 14. Snorkelling depends on conditions and needs previous snorkelling experience.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/586ba432-65d2-43b2-a5d3-f275b37f79fd/Pilgrim-Magnetic-IslandLunchtime-Sailing-Cruise-IMG_3115%2B2.jpg",
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/1749876985919-PLTU6BL7MSTYPC75R0RX/Pilgrim-Magnetic-Island-Lunch-Pilgrim+at+anchor+with+mat+and+swimmers.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/1749877000630-73JXWQ0E47BHXXP1842P/Pilgrim-Magnetic-IslandLunchtime-Sailing-Cruise-Locally+Caught+Prawns.jpg",
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/1749877013967-PXQTBAVS103PXE5VARJP/Pilgrim-Magnetic-IslandLunchtime-Sailing-Cruise-Diving+off+the+mat+next+to+partner+and+baby+on+the+mat.jpeg"
+      ],
+      "bookingLinks": [
+        "https://bookings.pilgrimsailing.com.au/BookingProduct/List/?&category=PRIVATE"
+      ],
+      "sourceUrl": "https://www.pilgrimsailing.com.au/experiences/p/day-charter",
+      "checkNotes": "The Book Now button goes to the Private category list on the operator's booking subdomain, not to a single product page, and it was not opened. The page header shows $0.00; the text says from $229 per person, so priceFrom is the additional adult price on the four-hour charter. The price tables give a price for up to 10 guests plus a per person price for extra guests; the Private Charters FAQ says the minimum charge equals 10 guests. The Day to Dusk start time varies with sunset. Other start times are available on request. The Private Charters page recommends 10 to 16 guests for this charter and the trip page says up to 16. A deposit secures the date and the balance and final numbers are due 14 days before (Terms page, which gives the deposit as a percentage). Private charter cancellation terms are on the Terms page. Larger groups over 16 are handled by contact, and the page mentions a discount for larger bookings. Corporate and family pages describe tailored versions (Sail & Beach, Trek & Sail with a partner, beach cabana); no separate prices for these on the live pages."
+    },
+    {
+      "title": "Private Sunset Charter",
+      "kind": "charter",
+      "summary": "Exclusive use of Pilgrim for a sunset sail of 1.5 to 2 hours on Cleveland Bay, leaving from Nelly Bay on Magnetic Island. Drinks and a local cheese platter with pumpkin chutney are included. Once a month the charter runs about 30 minutes longer to watch the full moon rise.",
+      "highlights": [
+        "Private use of the 58-foot yacht, skippered by Paul or Clayton",
+        "Unlimited local beers, Australian organic wines or non-alcoholic drinks",
+        "Local cheese platter with pumpkin chutney",
+        "Optional tastings, champagne and dinner at Peppers Blue on Blue after the sail"
+      ],
+      "duration": "1.5 to 2 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Peppers Blue on Blue Resort, Nelly Bay, Magnetic Island (deck outside the Boardwalk Restaurant)",
+      "prices": [
+        {
+          "label": "Per person, from",
+          "amount": 139,
+          "currency": "AUD",
+          "note": "Minimum charge equals 10 guests; price includes the environmental management charge of $4.25 per person"
+        },
+        {
+          "label": "Supplement per person",
+          "amount": 6,
+          "currency": "AUD",
+          "note": "Fridays, Saturdays, public holidays, full moons and peak season; see the booking calendar for each day"
+        },
+        {
+          "label": "Sip, Sail & Dine, two-course meal in the Boardwalk Restaurant, per person",
+          "amount": 75,
+          "currency": "AUD",
+          "note": "Main, side to share, dessert and a drink on arrival"
+        },
+        {
+          "label": "Sip, Sail & Dine, private poolside dining, per person",
+          "amount": 85,
+          "currency": "AUD",
+          "note": "Starts from; two courses with your own waiter"
+        }
+      ],
+      "priceFrom": 139,
+      "includes": [
+        "1.5 to 2 hour sail in Cleveland Bay",
+        "Unlimited local beers, Australian organic wines or non-alcoholic drinks",
+        "Local cheese platter with accompaniments including pumpkin chutney",
+        "A bottle of champagne on board for private bookings of two",
+        "Environmental management charge of $4.25 per person"
+      ],
+      "bring": [
+        "Something warm in the cooler months"
+      ],
+      "requirements": "No minimum number of guests, but a minimum charge equal to 10 guests applies. Up to 16 guests on the online booking; contact the operator for larger groups. Children of all ages are welcome on private sunset charters. Arrive 15 minutes before the sail begins.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/0f3f7a54-fbe6-4e53-9449-10692c55e726/P1170379.png",
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/1749524114707-T311JULZBKWTRVHR6ZIG/Pilgrim-Magnetic-Island-Sunset-Far-away-drone-shot-of-Pilgrim-sailing2.png",
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/1749524131847-PQ21ABW2PX0A56DN1P6V/Pilgrim-Magnetic-Island-Sunset-Sunset+behind+the+island.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/1749524163753-ACW3KHW86QQH3U9QTH3H/Pilgrim-Magnetic-Island-Sunset-Platters+on+the+Deck+top+view+2+copy.jpeg"
+      ],
+      "bookingLinks": [
+        "https://bookings.pilgrimsailing.com.au/BookingProduct/List/?&category=PRIVATE"
+      ],
+      "sourceUrl": "https://www.pilgrimsailing.com.au/experiences/p/sunset-charter",
+      "checkNotes": "The Book Now button goes to the Private category list on the operator's booking subdomain, not to a single product page, and it was not opened. The page header shows $145.00 and the text says from $139 per person with a $6 supplement on busy days, so $145 is probably the busy-day price; used $139. Start time is not fixed (between 4:30pm and 5:45pm depending on the time of year, see the booking calendar). Group size is stated three ways: up to 16 on this page, 10 to 20 on the Private Charters hub page, and up to 24 (16 recommended) in the unlinked Christmas page. Full moon dates on this page differ in weekday names from the Sip & Sail page for some dates and include 28 August 2026, so confirm before publishing."
+    },
+    {
+      "title": "Gourmet Picnic on a Remote Beach (Guided)",
+      "kind": "other",
+      "summary": "A small, fast boat takes guests from Nelly Bay to a quiet beach on Magnetic Island, where the crew sets up a gourmet picnic with beverages, a rug and cabana shade. Guests spend about two hours on the beach to swim and relax, and the skipper returns to pack up and bring them back. It is arranged by email or phone.",
+      "highlights": [
+        "Boat transfer to a remote beach on the island",
+        "About two hours on the beach with the setup done for you",
+        "Gourmet picnic and beverages, cabana shade and picnic rug",
+        "Picnic menus can be adjusted for dietary requirements"
+      ],
+      "duration": "Approximately two hours on the beach",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Nelly Bay, Magnetic Island",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Gourmet picnic and beverages",
+        "Boat transfer to a remote beach",
+        "Approximately two hours on the beach",
+        "Cool cabana shade, picnic rug and full setup",
+        "Time to swim, relax and enjoy the setting"
+      ],
+      "bring": [
+        "Sunscreen, hats, swimmers and water if you plan to swim or stay a little longer"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/4bdcdbc7-69b2-423f-8949-2d0d022600b3/IMG_2380.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/3084686d-cf36-450f-96ee-a8fef6140fe8/Pilgrim-Magnetic-Island-adventure-Cheers+on+Picnic+Rug.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/e4f33568-b1e6-4416-b63a-1501c98920a1/Pilgrim-Magnetic-Island-adventure-Clayton-and-Sandy.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/680db373dcd8c5395f4ec242/e87df3d8-2ff9-41a9-901b-cfce7b118c13/Pilgrim-Magnetic-Island-Picnic+on+a+rug.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.pilgrimsailing.com.au/on-the-island",
+      "checkNotes": "Sold by enquiry only: the Contact Us to Book button opens an email to info@pilgrimsailing.com.au, so there is no booking link. No price, departure time or group size is shown for the guided version. The page says picnics are available every day and describes the picnic as for two; the All Experiences page says the small boat, Sandy, carries up to four guests. The Plan Your Experience page lists a 9:30am Townsville ferry and a 1:35pm return ferry for this experience, which suggests a morning start, but no start time is stated. The self-guided picnic on the same page (collect or delivery on land) is not on the water and is not included as a trip."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers, delivered by email or posted as a printed keepsake",
+      "conditions": "Valid for 3 years. A voucher can be used toward a different experience by paying any balance. Sold through the booking subdomain (BookingGiftCard link on the Gift Shop page).",
+      "validUntil": null,
+      "sourceUrl": "https://www.pilgrimsailing.com.au/gift-shop"
+    },
+    {
+      "text": "The Locals List: a free rewards program for Townsville and Magnetic Island residents with weekday cruise discounts, seasonal offers, last-minute deals and a $20 gift voucher on your birthday",
+      "conditions": "Proof of a local address (postcodes 4810 to 4819) is required. Discounts apply Monday to Friday, excluding school and public holidays and Valentine's Day. The member must be on board and show photo ID at check-in.",
+      "validUntil": null,
+      "sourceUrl": "https://www.pilgrimsailing.com.au/the-locals-list"
+    },
+    {
+      "text": "Sip, Sail & Dine: a two-course dinner at the Boardwalk Restaurant, Peppers Blue on Blue, after a sunset sail, $75 per person",
+      "conditions": "Added to the Sip & Sail Sunset Cruise or Private Sunset Charter. Private poolside dining is listed from $85 per person on the Private Sunset Charter page.",
+      "validUntil": null,
+      "sourceUrl": "https://www.pilgrimsailing.com.au/experiences/p/sunset-cruise"
+    }
+  ],
+  "checkNotes": "LOCATION MISMATCH: our list described this operator as Airlie Beach and the Whitsundays with small-boat snorkel charters. The website is for Magnetic Island, off Townsville (Nelly Bay), and says it does not offer snorkelling tours (guests may snorkel with their own gear when conditions allow). Please confirm this is the right operator. BOOKING SYSTEM: bookings run on bookings.pilgrimsailing.com.au, the operator's own booking subdomain, which resolves to a customlinc.com.au host. It is not Rezdy, so rezdyAlias is null. Those booking pages were not opened. The two sailing cruises have their own per-trip links (LUN-DAY-M, LUN-DAY-T, SIP-SUN-M, SIP-SUN-T); the private charters link only to the Private category list. NOT INCLUDED AS TRIPS: (1) Pilgrim Adventures small boat tours on Sandy, a 5.2 metre RIB. The Tours & Cruises page describes Circumnavigate Magnetic Island (five hours, adds a full circuit and a morning tea stop) and Three Bays in Three Ways (four hours, three stops to swim, snorkel or explore, local prawn and antipasto picnic, a drink, snorkel gear, stinger suits, picnic rug and cabana), both private only for 2 to 4 guests. However their own pages (/experiences/p/circumnavigate-tour and /experiences/p/three-bays-tour) return 404, they are missing from the All Experiences list, and no price is shown, so it is unclear whether they are currently sold. The Terms and Plan Your Experience pages still mention Pilgrim Adventures (morning 8:15 or 8:30 and afternoon 2pm departures, minimum two adults). Ask the operator. (2) Picnic on the Island (self-guided), a gourmet picnic for two collected or delivered on land, ordered by 5pm the night before; no price shown; not on the water. (3) Amphibious Tours: a vessel under construction with a Queensland Government grant, expected launch mid 2027, not bookable. (4) An unlinked Christmas parties page (/christmas-parties2) lists corporate charter packages with prices (for example Signature Day Charter $3,750 for up to 8, Executive Entertainer Charter $279 per person, Day to Dusk $299 per person, Trek & Sail $279 per person, Sail & Beach $329 per person, Sip & Sail with Tan Lines $159 per person). It uses the promo code XMAS25 and a booking cut-off of 31 October, so it looks like last season's page; not captured. Trek & Sail is run with a partner, Destination Adventure. WEATHER AND DEPARTURE POINT: when southeasterly winds blow, all cruises and charters can run from Horseshoe Bay instead of Nelly Bay, boarding by tender (see /horseshoe-bay-departures). Guests are told by the operator. SEASON: no operating season is stated. The contact page says they sail most days, weather permitting, and stinger suits are provided from November to May, so season is null on every trip. ROUTE: Pilgrim does not pick up from Townsville; ferry tickets with SeaLink (about 20 to 25 minutes) can be added as an extra on the cruises, and the meeting point is a short walk from the ferry terminal. CANCELLATION (Terms page): shared cruises can be refunded or rescheduled once if cancelled 48 hours or more before departure; private charters take a deposit with final payment 14 days before, with deposit and refund rules at 14 days and 7 days (the Terms page states the deposit as a percentage). The operator cancels with refund, credit or reschedule for weather or safety. CERTIFICATIONS AND BADGES: the home page shows badge images (EarthCheck certified and Earth Rating 2024, Best of Queensland Experience 2025 and 2026 Gold, 2025 Tourism Awards winner badges for Excellence in Sustainability and New Tourism Experience, Tripadvisor Awards, Master Reef Guide, Eco Guide certified, Sustainable Tourism Accredited Business). Only the EarthCheck certification (August 2024) is repeated in the text; the other badges are image only and were not used as standouts. The home page also says 5-star guest reviews; not repeated. OTHER: the site shows a drinks and food list by named local suppliers and charities it supports, which is not used. The yacht Pilgrim is a 58 foot (17.7 metre) sloop built in 1992 and licensed for 24 guests; shared cruises are capped at 12. Phone is shown as +61 424 296 406 and 0424 296406; the contact page offers WhatsApp and text; clare@pilgrimsailing.com.au appears as the email on the private charter and picnic enquiry links; the general address is info@pilgrimsailing.com.au. The address 123 Sooning St, Nelly Bay is the footer location; guests meet at Peppers Blue on Blue Resort, Nelly Bay, beside the Boardwalk Restaurant."
+}

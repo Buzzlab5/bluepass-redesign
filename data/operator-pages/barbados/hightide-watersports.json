@@ -1,0 +1,428 @@
+{
+  "slug": "hightide-watersports",
+  "name": "Dive Hightide Watersports",
+  "website": "https://www.divehightide.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Holetown",
+  "category": "Scuba diving and PADI courses",
+  "summary": "A PADI dive centre on the beach at Coral Reef Club on the west coast, running since 1993. They run boat dives to west and south coast reefs and wrecks, and teach PADI courses from first try dives to Divemaster. The crew sets up, loads and washes your gear for you.",
+  "standouts": [
+    "Member of PIRA, the PADI International Resort Association (#17146)",
+    "Established in 1993 at Coral Reef Club",
+    "Founding member of the Barbados Dive Operators Association",
+    "No more than 4 students to one instructor on beginner courses"
+  ],
+  "contact": {
+    "phone": "+1 246 432 0931",
+    "email": null,
+    "address": "Coral Reef Club, St. James, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://www.divehightide.com/wp-content/uploads/2016/10/2015-Hightides-257.jpg",
+  "sourceUrls": [
+    "https://www.divehightide.com/",
+    "https://www.divehightide.com/dive-shop/",
+    "https://www.divehightide.com/reservations/",
+    "https://www.divehightide.com/learn-to-dive/",
+    "https://www.divehightide.com/learn-to-dive/discover-scuba-diving/",
+    "https://www.divehightide.com/learn-to-dive/padi-open-water-diver/",
+    "https://www.divehightide.com/learn-to-dive/speciality-dives/",
+    "https://www.divehightide.com/about-us/",
+    "https://www.divehightide.com/about-us/about-barbados/",
+    "https://www.divehightide.com/dive-sites/",
+    "https://www.divehightide.com/partners/"
+  ],
+  "trips": [
+    {
+      "title": "Dives – Includes All Equipment",
+      "kind": "dive",
+      "summary": "Boat dives from Coral Reef Club, sold as packages of 1 to 20 dives with all equipment included. Sites run from the shallow Carlisle Bay wrecks to the Stavronikita, a 365 ft freighter sitting upright off the west coast. Night dives and Enriched Air Nitrox are available at extra cost.",
+      "highlights": [
+        "Packages of 1 to 20 dives",
+        "All equipment included",
+        "Night dives with a surcharge, minimum 4 people",
+        "Enriched Air Nitrox dive at $15 per tank"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coral Reef Club, St. James",
+      "prices": [
+        { "label": "1 Dive", "amount": 108, "currency": "USD", "note": null },
+        { "label": "2 Dives", "amount": 182, "currency": "USD", "note": null },
+        { "label": "3 Dives", "amount": 263, "currency": "USD", "note": null },
+        { "label": "4 Dives", "amount": 343, "currency": "USD", "note": null },
+        { "label": "5 Dives", "amount": 402, "currency": "USD", "note": null },
+        { "label": "6 Dives", "amount": 471, "currency": "USD", "note": null },
+        { "label": "7 Dives", "amount": 530, "currency": "USD", "note": null },
+        { "label": "8 Dives", "amount": 600, "currency": "USD", "note": null },
+        { "label": "9 Dives", "amount": 664, "currency": "USD", "note": null },
+        { "label": "10 Dives", "amount": 714, "currency": "USD", "note": null },
+        { "label": "20 Dives", "amount": 1356, "currency": "USD", "note": null },
+        { "label": "Night Dives Surcharge", "amount": 30, "currency": "USD", "note": "Per diver; minimum 4 people, min surcharge $120, prorata max 4 divers" },
+        { "label": "Enriched Air Nitrox Dive", "amount": 15, "currency": "USD", "note": "Per tank" },
+        { "label": "Night Dive Lights", "amount": 25, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 108,
+      "includes": ["All equipment"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.divehightide.com/wp-content/uploads/2016/10/2015-Hightides-166.jpg",
+        "https://www.divehightide.com/wp-content/uploads/2016/10/2015-Hightides-247.jpg",
+        "https://www.divehightide.com/wp-content/uploads/2016/10/2015-Hightides-245.jpg",
+        "https://www.divehightide.com/wp-content/uploads/2017/02/IMG-20170104-WA0000.jpg"
+      ],
+      "bookingLinks": ["https://www.divehightide.com/reservations/"],
+      "sourceUrl": "https://www.divehightide.com/dive-shop/",
+      "checkNotes": "Price list says all prices in US Dollars, as of Feb 2026 (valid through to Jan 2029), subject to change. The page does not say whether package prices are per diver. Dive packages are paid in advance and non-refundable. Booking is a reservation request form on their own site that asks for card details."
+    },
+    {
+      "title": "Dives – Tanks and Weights only",
+      "kind": "dive",
+      "summary": "The same boat dives for divers who bring their own gear, with tanks and weights supplied. Packages run from 1 to 20 dives and cost less than the all-equipment rate.",
+      "highlights": [
+        "Packages of 1 to 20 dives",
+        "Tanks and weights supplied",
+        "Lower rate than the all-equipment packages"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coral Reef Club, St. James",
+      "prices": [
+        { "label": "1 Dive", "amount": 94, "currency": "USD", "note": null },
+        { "label": "2 Dives", "amount": 158, "currency": "USD", "note": null },
+        { "label": "3 Dives", "amount": 229, "currency": "USD", "note": null },
+        { "label": "4 Dives", "amount": 298, "currency": "USD", "note": null },
+        { "label": "5 Dives", "amount": 349, "currency": "USD", "note": null },
+        { "label": "6 Dives", "amount": 410, "currency": "USD", "note": null },
+        { "label": "7 Dives", "amount": 461, "currency": "USD", "note": null },
+        { "label": "8 Dives", "amount": 522, "currency": "USD", "note": null },
+        { "label": "9 Dives", "amount": 578, "currency": "USD", "note": null },
+        { "label": "10 Dives", "amount": 621, "currency": "USD", "note": null },
+        { "label": "20 Dives", "amount": 1179, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 94,
+      "includes": ["Tanks and weights"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.divehightide.com/wp-content/uploads/2016/10/2015-Hightides-247.jpg",
+        "https://www.divehightide.com/wp-content/uploads/2016/10/2015-Hightides-245.jpg"
+      ],
+      "bookingLinks": ["https://www.divehightide.com/reservations/"],
+      "sourceUrl": "https://www.divehightide.com/dive-shop/",
+      "checkNotes": "The site heading also states a discount figure for this rate, left out here. Same price list notes as the all-equipment packages (USD, Feb 2026, paid in advance and non-refundable)."
+    },
+    {
+      "title": "Discover Scuba Diving",
+      "kind": "dive",
+      "summary": "A first try at scuba with a PADI instructor, starting with a short briefing and practice in the pool. You then go out on the dive boat for an ocean dive to a maximum of 40 feet, with your instructor close by. You leave with a certificate that lets you join further dives at a reduced price.",
+      "highlights": [
+        "Pool session before the ocean dive",
+        "Ocean dive to a depth of up to 40 feet / 12 metres",
+        "No more than 4 students to one instructor",
+        "Certificate of completion at the end"
+      ],
+      "duration": "Half Day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coral Reef Club, St. James",
+      "prices": [
+        { "label": "DSD – Half Day Resort Course", "amount": 150, "currency": "USD", "note": "Including eLearning course code" }
+      ],
+      "priceFrom": 150,
+      "includes": [
+        "English-speaking instructor",
+        "All equipment, including optional wetsuit",
+        "Restroom and changing room",
+        "Drinking water",
+        "Freshwater shower"
+      ],
+      "bring": ["Bathing suit", "Dry clothes to change back into", "Towel", "Sunscreen"],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.divehightide.com/wp-content/uploads/2016/10/2015-Hightides-90.jpg",
+        "https://www.divehightide.com/wp-content/uploads/2016/10/2015-Hightides-93.jpg",
+        "https://www.divehightide.com/wp-content/uploads/2015/03/IMG_0276.jpg"
+      ],
+      "bookingLinks": ["https://www.divehightide.com/reservations/"],
+      "sourceUrl": "https://www.divehightide.com/learn-to-dive/discover-scuba-diving/",
+      "checkNotes": "Price taken from the Feb 2026 price list on /dive-shop/. The Speciality Dives page still shows $110 for this course; used the dated price list."
+    },
+    {
+      "title": "Bubblemaker",
+      "kind": "course",
+      "summary": "A first taste of scuba for children, in water shallower than 2 metres. Kids use scuba gear sized for children under the direct care of a PADI professional. No experience is needed, but they must be comfortable in the water.",
+      "highlights": [
+        "For children aged 8 and up",
+        "Water shallower than 2 metres / 6 feet",
+        "Scuba equipment made for children",
+        "Supervised by a PADI professional"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coral Reef Club, St. James",
+      "prices": [
+        { "label": "Bubble Maker", "amount": 150, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 150,
+      "includes": [],
+      "bring": [],
+      "requirements": "At least 8 years old, comfortable in the water; parental approval required",
+      "offer": null,
+      "images": [
+        "https://www.divehightide.com/wp-content/uploads/2016/10/2015-Hightides-63.jpg"
+      ],
+      "bookingLinks": ["https://www.divehightide.com/reservations/"],
+      "sourceUrl": "https://www.divehightide.com/learn-to-dive/speciality-dives/",
+      "checkNotes": "Price taken from the Feb 2026 price list on /dive-shop/. The Speciality Dives page still shows $75; used the dated price list."
+    },
+    {
+      "title": "PADI SCUBA Diver Course",
+      "kind": "course",
+      "summary": "A shorter PADI certification over two days with two dives. It is priced as a course fee plus two package dives and a crew pack. A separate one-day upgrade option is also listed.",
+      "highlights": [
+        "2 days, 2 dives",
+        "Upgrade option: 1 day, 2 dives"
+      ],
+      "duration": "2 Days, 2 Dives",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coral Reef Club, St. James",
+      "prices": [
+        { "label": "PADI SCUBA Diver Course (2 Days, 2 Dives)", "amount": 170, "currency": "USD", "note": "Plus 2 package dives and crew pack $70" },
+        { "label": "PADI SCUBA Diver Upgrade (1 Days, 2 Dives)", "amount": 100, "currency": "USD", "note": "Plus 2 package dives and crew pack $70" }
+      ],
+      "priceFrom": 170,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": ["https://www.divehightide.com/reservations/"],
+      "sourceUrl": "https://www.divehightide.com/dive-shop/",
+      "checkNotes": "Course fee does not include the 2 package dives; the package dive price is listed separately on the same page. The page does not say what the upgrade leads to."
+    },
+    {
+      "title": "PADI Open Water Diver Course",
+      "kind": "course",
+      "summary": "The full PADI Open Water certification: dive theory, pool skills, then four ocean dives from the dive boat. Pool sessions run in the mornings and ocean dives in the afternoons over two days. You can do the theory online or with a dive centre at home before you travel.",
+      "highlights": [
+        "4 ocean dives over 2 days",
+        "eLearning and referral options to save holiday time",
+        "Ages 10 to 12 certify as PADI Junior Open Water Divers",
+        "Small groups with direct instructor help"
+      ],
+      "duration": "2 Days, 4 Dives",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coral Reef Club, St. James",
+      "prices": [
+        { "label": "Open Water course (2 Days, 4 Dives)", "amount": 650, "currency": "USD", "note": "Including eLearning course code" },
+        { "label": "Open Water referral (2 Days, 4 Dives)", "amount": 650, "currency": "USD", "note": "Including eLearning course code" },
+        { "label": "PADI Open Water Course Referral (2 Days, 4 Dives)", "amount": 650, "currency": "USD", "note": null },
+        { "label": "PADI Open Water Course Referral (2 Days, 4 Dives)", "amount": 170, "currency": "USD", "note": "Plus 4 package dives" },
+        { "label": "PADI Open water Course e-learning referral, including pool (2 Days, 4 Dives)", "amount": 100, "currency": "USD", "note": "Plus 4 package dives" }
+      ],
+      "priceFrom": 650,
+      "includes": [],
+      "bring": [],
+      "requirements": "Minimum age 10, adequate swimming skills and good physical health. No prior scuba experience needed. Junior Open Water Divers (ages 10 to 12) are certified to a maximum of 40 feet / 12 metres.",
+      "offer": null,
+      "images": [
+        "https://www.divehightide.com/wp-content/uploads/2016/10/2015-Hightides-49.jpg"
+      ],
+      "bookingLinks": ["https://www.divehightide.com/reservations/"],
+      "sourceUrl": "https://www.divehightide.com/learn-to-dive/padi-open-water-diver/",
+      "checkNotes": "Prices taken from the Feb 2026 price list on /dive-shop/, which repeats some referral lines with different prices. The course page itself shows older prices ($450 for 3 days including all materials, $350 referral including pool, $320 e-learning referral, $320 referral). priceFrom is the lowest all-in course price; the $100 and $170 referral options also need 4 package dives."
+    },
+    {
+      "title": "Advanced Open Water",
+      "kind": "course",
+      "summary": "The next PADI level after Open Water, run over two days with five dives. You can also do single Adventure Dives, or the one-day Adventure Diver course and upgrade it later.",
+      "highlights": [
+        "2 days, 5 dives",
+        "Includes eLearning course code",
+        "Single Adventure Dives also offered",
+        "Adventure Diver can be upgraded to Advanced Open Water"
+      ],
+      "duration": "2 Days, 5 Dives",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coral Reef Club, St. James",
+      "prices": [
+        { "label": "Advanced Open Water (2 Days, 5 Dives)", "amount": 660, "currency": "USD", "note": "Including eLearning course code" },
+        { "label": "PADI Adventure Dive – Single Dive", "amount": 85, "currency": "USD", "note": "Plus 1 package dive and manual $50" },
+        { "label": "PADI Adventure Diver, including manual (1 Day, 3 Dives)", "amount": 85, "currency": "USD", "note": "Plus 3 package dives and manual $50" },
+        { "label": "PADI Adventure Diver Upgrade to PADI Advanced Open Water (1 Day, 2 Dives)", "amount": 85, "currency": "USD", "note": "Plus 2 package dives and manual $50" }
+      ],
+      "priceFrom": 660,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": ["https://www.divehightide.com/reservations/"],
+      "sourceUrl": "https://www.divehightide.com/dive-shop/",
+      "checkNotes": "priceFrom is the all-in Advanced Open Water price; the $85 Adventure options also need package dives and a manual."
+    },
+    {
+      "title": "PADI Rescue Diver",
+      "kind": "course",
+      "summary": "The PADI Rescue Diver course, run over four days. The price includes the eLearning course code.",
+      "highlights": ["4 days", "Includes eLearning course code"],
+      "duration": "4 Days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coral Reef Club, St. James",
+      "prices": [
+        { "label": "PADI Rescue Diver (4 Days)", "amount": 640, "currency": "USD", "note": "Including eLearning course code" }
+      ],
+      "priceFrom": 640,
+      "includes": ["eLearning course code"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": ["https://www.divehightide.com/reservations/"],
+      "sourceUrl": "https://www.divehightide.com/dive-shop/",
+      "checkNotes": "The Speciality Dives page lists an Emergency First Response course (1 day, $150) at an older price; it is not on the Feb 2026 price list."
+    },
+    {
+      "title": "PADI Divemaster",
+      "kind": "course",
+      "summary": "The first professional PADI level, run over eight days. The price includes the eLearning course code.",
+      "highlights": ["8 days", "Includes eLearning course code"],
+      "duration": "8 Days only",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coral Reef Club, St. James",
+      "prices": [
+        { "label": "PADI Divemaster (8 Days only)", "amount": 2350, "currency": "USD", "note": "Including eLearning course code" }
+      ],
+      "priceFrom": 2350,
+      "includes": ["eLearning course code"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": ["https://www.divehightide.com/reservations/"],
+      "sourceUrl": "https://www.divehightide.com/dive-shop/",
+      "checkNotes": null
+    },
+    {
+      "title": "PADI DSD Leader",
+      "kind": "course",
+      "summary": "A PADI rating for leading Discover Scuba Diving sessions, run over four half days.",
+      "highlights": ["4 half days"],
+      "duration": "4 half days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coral Reef Club, St. James",
+      "prices": [
+        { "label": "PADI DSD Leader (4 half days)", "amount": 600, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 600,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": ["https://www.divehightide.com/reservations/"],
+      "sourceUrl": "https://www.divehightide.com/dive-shop/",
+      "checkNotes": "The site gives no description of this course beyond its name and price."
+    },
+    {
+      "title": "Speciality Courses",
+      "kind": "course",
+      "summary": "PADI specialty courses for certified divers, from underwater photography and buoyancy to night, wreck and deep diving. Most run over one or two days, and some are priced as a course fee plus package dives.",
+      "highlights": [
+        "Deep Specialty trains for dives to 40 metres / 130 feet",
+        "Wreck Specialty covers surveying, mapping and penetration lines",
+        "Night Diver over 3 nights, 3 dives",
+        "Enriched Air (Nitrox) Diver over 2 days, 2 dives"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coral Reef Club, St. James",
+      "prices": [
+        { "label": "Digital Underwater Photography (1 Day, 2 Dives)", "amount": 420, "currency": "USD", "note": "Including eLearning course code" },
+        { "label": "Peak Performance Buoyancy (1 Day, 2 Dives)", "amount": 420, "currency": "USD", "note": "Including eLearning course code" },
+        { "label": "Enriched Air (Nitrox) Diver (2 Days, 2 Dives)", "amount": 490, "currency": "USD", "note": "Including eLearning course code" },
+        { "label": "Night Diver (3 Nights, 3 Dives)", "amount": 500, "currency": "USD", "note": "Plus surcharge (max surcharge $360, max 4 divers or $90 per diver)" },
+        { "label": "Underwater Navigator Specialty (2 Days, 3 Dives)", "amount": 170, "currency": "USD", "note": "Plus 3 package dives and manual $30" },
+        { "label": "Wreck Specialty (2 Days, 4 Dives)", "amount": 170, "currency": "USD", "note": "Plus 4 package dives and manual $30" },
+        { "label": "Deep Specialty (2 Days, 4 Dives)", "amount": 170, "currency": "USD", "note": "Plus 4 package dives and manual $30" }
+      ],
+      "priceFrom": 420,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.divehightide.com/wp-content/uploads/2016/10/2015-Hightides-63.jpg"
+      ],
+      "bookingLinks": ["https://www.divehightide.com/reservations/"],
+      "sourceUrl": "https://www.divehightide.com/dive-shop/",
+      "checkNotes": "Prices from the Feb 2026 price list on /dive-shop/. The Speciality Dives page shows older prices for the same courses and also lists an Underwater Naturalist Specialty (1 day, 2 dives, $225) that is not on the current list. priceFrom is the lowest all-in specialty price; the $170 courses also need package dives and a manual."
+    },
+    {
+      "title": "SCUBA Tune Up/Refresher (Theory & Pool)",
+      "kind": "course",
+      "summary": "A short refresher for divers who have not been in the water for a while. It covers theory and a pool session before you join a dive.",
+      "highlights": ["Theory and pool session", "Taken with 1 package dive"],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Coral Reef Club, St. James",
+      "prices": [
+        { "label": "SCUBA Tune Up/Refresher (Theory & Pool)", "amount": 30, "currency": "USD", "note": "Plus 1 package dive" }
+      ],
+      "priceFrom": 30,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": ["https://www.divehightide.com/reservations/"],
+      "sourceUrl": "https://www.divehightide.com/dive-shop/",
+      "checkNotes": "Price from the Feb 2026 price list; the Speciality Dives page still shows $25."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Group discount: I go free in 11 divers",
+      "conditions": "Travelling as a group, applies per person to the purchase of 2 days of 2 tank dives. Offered year-round, subject to availability.",
+      "validUntil": null,
+      "sourceUrl": "https://www.divehightide.com/about-us/"
+    },
+    {
+      "text": "American Airlines AAdvantage Dive for Miles program",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://www.divehightide.com/about-us/"
+    }
+  ],
+  "checkNotes": "No email address appears on the site (the list has info@divehightide.com, not confirmed on their pages). Booking is a reservation request form on /reservations/ that collects card details; packages are paid in advance and non-refundable, and the cancellation policy charges part of the dive cost for late cancellations in winter and summer periods. Course pages carry older prices than the dated Feb 2026 price list; the dated list was used throughout. The Partners page says 'over 24 years', which reads as old text. The sea turtle tagging dives described on the About Barbados page have been discontinued according to the About page. Also listed on PADI Adventures per our list, not checked."
+}

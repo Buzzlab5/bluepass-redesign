@@ -1,0 +1,98 @@
+{
+  "slug": "three-islands-whale-shark-dive",
+  "logo": "https://www.whalesharkdive.com/wp-content/uploads/2022/02/Three-Islands-Whale-Shark-Dive-Exmouth.png",
+  "gallery": [
+    "https://www.whalesharkdive.com/wp-content/uploads/2026/06/Swimming-with-whale-sharks-Exmouth-Draw-Card-Vessel.webp",
+    "https://www.whalesharkdive.com/wp-content/uploads/2021/11/about-home-img-1.jpg",
+    "https://www.whalesharkdive.com/wp-content/uploads/2026/09/three-islands-whale-shark-dive-boat-ningaloo-reef.png",
+    "https://www.whalesharkdive.com/wp-content/uploads/2021/10/Whale-Shark-28-scaled-1.webp",
+    "https://www.whalesharkdive.com/wp-content/uploads/2026/06/swim-with-whale-sharks-exmouth-tour-guide-boat.webp",
+    "https://www.whalesharkdive.com/wp-content/uploads/2026/06/family-swim-with-whale-sharks-exmouth-tour-boat.webp",
+    "https://www.whalesharkdive.com/wp-content/uploads/2026/06/Swim-with-Whale-Sharks-Exmouth-Seafari-Vessel.webp",
+    "https://www.whalesharkdive.com/wp-content/uploads/2021/10/tour-1.jpg",
+    "https://www.whalesharkdive.com/wp-content/uploads/2024/07/swimming-with-humpback-whales-exmouth-close-up.webp",
+    "https://www.whalesharkdive.com/wp-content/uploads/2026/09/three-islands-whale-shark-dive-tour-boat-exmouth.png",
+    "https://www.whalesharkdive.com/wp-content/uploads/2025/11/kids-learning-about-marine-life-before-whale-shark-tour.jpg",
+    "https://www.whalesharkdive.com/wp-content/uploads/2021/12/Seafari-1.jpg",
+    "https://www.whalesharkdive.com/wp-content/uploads/2021/11/fleet-1-2.jpg",
+    "https://www.whalesharkdive.com/wp-content/uploads/2021/11/Our-Boats-Plane-Three-Islands-Whale-Shark-Dive.jpg",
+    "https://www.whalesharkdive.com/wp-content/uploads/2021/10/Marlin-Board-Seafari-1-1-scaled-1.webp"
+  ],
+  "videos": [
+    {
+      "url": "https://www.whalesharkdive.com/wp-content/uploads/2021/12/3-Islands-Whale-Shark-Dive-2-min-promo-2-DC-1.mp4",
+      "title": "Two minute whale shark tour promo",
+      "sourceUrl": "https://www.whalesharkdive.com/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=v1FkPaeum0Q",
+      "title": "Swimming with whale sharks in Exmouth",
+      "sourceUrl": "https://www.whalesharkdive.com/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Nn1ij4p_oKU",
+      "title": "Swimming with humpbacks, made with Destination WA",
+      "sourceUrl": "https://www.whalesharkdive.com/tours/swim-with-humpback-whales-exmouth/"
+    },
+    {
+      "url": "https://www.whalesharkdive.com/wp-content/uploads/2024/07/Humpback-Video-Edits-2.mp4",
+      "title": "Humpback whale swim clips",
+      "sourceUrl": "https://www.whalesharkdive.com/tours/swim-with-humpback-whales-exmouth/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=L5GZOWPKnZw",
+      "title": "Swimming with whale sharks in Exmouth (mobile cut)",
+      "sourceUrl": "https://www.whalesharkdive.com/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BB3byffNjv8",
+      "title": "3 Islands Whale Shark Dive",
+      "sourceUrl": "http://www.youtube.com/user/whalesharkdive"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Whale Shark Tour Exmouth",
+      "images": [
+        "https://www.whalesharkdive.com/wp-content/uploads/2021/10/whale-shark-tours-exmouth-snorkelling.webp.webp",
+        "https://www.whalesharkdive.com/wp-content/uploads/2021/10/swimming-with-whale-shark-exmouth.png",
+        "https://www.whalesharkdive.com/wp-content/uploads/2021/10/whale-shark-tour-exmouth-ningaloo-reef.png",
+        "https://www.whalesharkdive.com/wp-content/uploads/2021/10/whale-shark-swimming-ningaloo-reef-exmouth.png",
+        "https://www.whalesharkdive.com/wp-content/uploads/2021/10/whale-shark-snorkellers-ningaloo-reef-exmouth.png",
+        "https://www.whalesharkdive.com/wp-content/uploads/2021/10/best-whale-shark-tour-exmouth-snorkelling.webp",
+        "https://www.whalesharkdive.com/wp-content/uploads/2021/10/family-whale-shark-tours-exmouth.webp",
+        "https://www.whalesharkdive.com/wp-content/uploads/2021/10/best-whale-shark-tour-exmouth-manta-ray.webp",
+        "https://www.whalesharkdive.com/wp-content/uploads/2021/10/exmouth-whale-shark-tours-tender-boat.webp",
+        "https://www.whalesharkdive.com/wp-content/uploads/2021/10/best-whale-shark-tour-exmouth-experience.webp"
+      ]
+    },
+    {
+      "title": "Humpback Whale Tour",
+      "images": [
+        "https://www.whalesharkdive.com/wp-content/uploads/2024/07/humpback-whale-underwater-ningaloo-reef-exmouth.webp",
+        "https://www.whalesharkdive.com/wp-content/uploads/2024/07/humpback-whales-swimming-ningaloo-reef-exmouth.webp",
+        "https://www.whalesharkdive.com/wp-content/uploads/2024/07/swimming-with-humpback-whales-exmouth-close-up.webp",
+        "https://www.whalesharkdive.com/wp-content/uploads/2024/07/breaching-humpback-whale-exmouth-western-australia.webp",
+        "https://www.whalesharkdive.com/wp-content/uploads/2024/07/spyhopping-humpback-whale-exmouth-western-australia.webp",
+        "https://www.whalesharkdive.com/wp-content/uploads/2024/07/breaching-humpback-whale-exmouth-ningaloo-coast.webp",
+        "https://www.whalesharkdive.com/wp-content/uploads/2024/07/two-snorkelers-smiling-in-ocean.webp",
+        "https://www.whalesharkdive.com/wp-content/uploads/2024/07/sea-turtle-swimming-with-fish.webp",
+        "https://www.whalesharkdive.com/wp-content/uploads/2024/07/draw-card-boat-on-blue-water.webp",
+        "https://www.whalesharkdive.com/wp-content/uploads/2024/07/humpback-whale-breaching-coastal.webp"
+      ]
+    },
+    {
+      "title": "Private Charters",
+      "images": [
+        "https://www.whalesharkdive.com/wp-content/uploads/2026/03/ningaloo-reef-private-charter-boat-exmouth.png",
+        "https://www.whalesharkdive.com/wp-content/uploads/2026/03/whale-shark-private-charter-ningaloo-reef.png",
+        "https://www.whalesharkdive.com/wp-content/uploads/2026/03/snorkelling-ningaloo-reef-private-charter.png",
+        "https://www.whalesharkdive.com/wp-content/uploads/2026/03/dolphin-encounter-ningaloo-private-charter.png",
+        "https://www.whalesharkdive.com/wp-content/uploads/2026/03/guests-relaxing-ningaloo-private-charter.png",
+        "https://www.whalesharkdive.com/wp-content/uploads/2026/03/private-charter-departure-exmouth.png",
+        "https://www.whalesharkdive.com/wp-content/uploads/2026/03/return-to-exmouth-private-charter.png"
+      ]
+    }
+  ],
+  "notes": "Logo is the organisation logo the site declares in its schema data (184 x 57 PNG, same size as the footer logo); the header uses a smaller one at /wp-content/uploads/2021/10/three-islands-logo.png (122 x 38). The site serves no SVG or larger logo, and the footer version may be the white one, so check it on a light background. Videos: the two minute promo mp4 (about 223 MB) is self-hosted and opens from the menu; v1FkPaeum0Q and L5GZOWPKnZw are the home page banner video (desktop and mobile cuts); the humpback page embeds Nn1ij4p_oKU and hosts a humpback mp4; BB3byffNjv8 is from the older YouTube channel the footer links to (youtube.com/user/whalesharkdive, also 2020, 2013 and 2009 uploads). A banner webm on res.cloudinary.com (the web agency's account) was left out. The Whale Shark Tour photo best-whale-shark-tour-exmouth-experience.webp has text over it (kept last because the facts file has it). Left out: award badges, accreditation logos, icons, the Perth to Exmouth route map, a manta ray image named imagegen.jpeg on the sustainability page (looks generated), and the blog and wildlife-guide images (illustrative, not clearly the operator's own). Forms use reCAPTCHA but every page loaded normally; no bot check was hit."
+}

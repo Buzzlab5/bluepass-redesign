@@ -1,0 +1,96 @@
+{
+  "slug": "ningaloo-blue-dive",
+  "name": "Ningaloo Blue Dive",
+  "website": "https://ningalooblue.com.au",
+  "rezdyAlias": "ningaloobluediveexmouth",
+  "state": "WA",
+  "town": "Exmouth",
+  "category": "Whale shark swim tours",
+  "summary": "Ningaloo Blue Dive is a privately owned charter business in Exmouth, Western Australia, running full day whale shark swims on Ningaloo Reef aboard the 18 metre vessel Venture IV. A safety zodiac stays in the water while guests snorkel, and a courtesy bus collects guests from their accommodation. The business also offers swims with humpback whales in season.",
+  "standouts": [
+    "Certified Eco Tourism Business, accredited by the Tourism Council of Western Australia",
+    "4.5 metre safety zodiac in the water with crew during swims",
+    "Takes part in ECOCEAN whale shark research, providing vessels for tagging, telemetry and photo ID programs",
+    "Professional videographer on board, with the photos free"
+  ],
+  "contact": {
+    "phone": "+61 8 9949 1119",
+    "email": "tours@ningalooblue.com.au",
+    "address": "Driftwood Centre Shop 2, 1 Kennedy St, Exmouth WA 6707"
+  },
+  "heroImage": "https://ningalooblue.com.au/wp-content/uploads/2021/01/shark.jpg",
+  "sourceUrls": [
+    "https://ningalooblue.com.au/",
+    "https://ningalooblue.com.au/exmouth-whale-shark-tours/",
+    "https://ningalooblue.com.au/book-now/",
+    "https://ningalooblue.com.au/rezdy-items/",
+    "https://ningalooblue.com.au/gallery/",
+    "https://ningalooblue.com.au/exmouth/",
+    "https://ningalooblue.com.au/wildlife/",
+    "https://ningalooblue.com.au/contact-us/",
+    "https://ningalooblue.com.au/clients/",
+    "https://ningalooblue.com.au/wp-content/uploads/2021/01/Ningaloo-Blue-Dive-terms-and-conditions.pdf",
+    "https://ningalooblue.com.au/sitemap.xml",
+    "https://ningalooblue.com.au/page-sitemap.xml",
+    "https://www.youtube.com/@petermckissock105/videos"
+  ],
+  "trips": [
+    {
+      "title": "Whale Shark Eco Tour",
+      "kind": "swim",
+      "summary": "A full day boat trip from Exmouth to snorkel with whale sharks on Ningaloo Reef, aboard Venture IV, an 18 metre vessel with a marlin board at water level. Guides and a dive master are on board, a 4.5 metre safety zodiac stays in the water, and a spotter plane helps find the sharks. Morning tea, a buffet lunch, snorkelling gear and wetsuits are provided, and a courtesy bus collects guests from their accommodation.",
+      "highlights": [
+        "Courtesy bus pick up and drop off, around 7:00 to 7:30am from accommodation in Exmouth township",
+        "4.5 metre safety zodiac in the water with crew watching over swimmers",
+        "Snorkelling gear, wetsuits and stinger suits provided, or bring your own gear",
+        "Morning tea, buffet lunch and a free photo package from the on-board videographer"
+      ],
+      "duration": "Full day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "March to August (the whale shark season stated on the site)",
+      "departsFrom": "Exmouth, WA. Courtesy bus from your accommodation in Exmouth township; if you drive yourself, meet the bus at Tantabiddi by 8:00am",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Courtesy bus pick up and drop off from your accommodation",
+        "Full day boat trip",
+        "Morning tea: tea, coffee and treats",
+        "Gourmet buffet lunch made fresh daily, including cold meat, bread, salads, fruit and refreshments",
+        "Snorkelling gear (or bring your own), prescription masks if required, wetsuits and stinger suits",
+        "Whale shark briefing by a certified guide, plus safety and snorkel site briefings and roll calls",
+        "Extra in-water support if required, such as buoyancy aids, noodles and snorkel tuition",
+        "4.5 metre safety zodiac in the water at all times",
+        "Spotter plane to assist with sightings",
+        "Professional videographer on board, with the photos free",
+        "Complimentary glass of champagne at the end of the day while cruising around the reef",
+        "Complimentary gift pack with a certificate stating the day and date of your first whale shark swim, and stickers",
+        "Defibrillators, Oxy Viva and fully stocked medical kits on board",
+        "All DPaW fees and taxes included in the fare (GST and $18.50 DPaW fee per person)"
+      ],
+      "bring": [
+        "Bathers, towel, sunglasses, hat, sunscreen and sun-smart clothing",
+        "A warm top, as the wind can cool the day even when it is hot",
+        "Seasickness tablets from a pharmacy if you think you may need them",
+        "Wallet or credit card",
+        "Optional: your own snorkelling gear",
+        "Optional: your camera, taken care of on board at your own risk"
+      ],
+      "requirements": "Age is no barrier: qualified guides and swim aids help in the water. Every passenger signs a waiver of liability to enter the water; a passenger who declines cannot enter the water at any time during the trip.",
+      "offer": null,
+      "images": [
+        "https://ningalooblue.com.au/wp-content/uploads/2019/08/cropped-blue-media-exmouth-photographer-violetajbrosig-ningaloobluetours-45.jpg",
+        "https://ningalooblue.com.au/wp-content/uploads/2021/01/whale-shark-tour10-de-maio-de-2016-Blue-Media-Exmouth1.jpg",
+        "https://ningalooblue.com.au/wp-content/uploads/2019/06/blue-media-exmouth-photographer-violetajbrosig-ningaloobluetours-44-2.jpg",
+        "https://ningalooblue.com.au/wp-content/uploads/2019/06/blue-media-exmouth-photographer-violetajbrosig-ningaloobluetours-62-2.jpg"
+      ],
+      "bookingLinks": [
+        "https://ningalooblue.com.au/book-now/"
+      ],
+      "sourceUrl": "https://ningalooblue.com.au/exmouth-whale-shark-tours/",
+      "checkNotes": "The site has one tour page and names no individual products, so the title 'Whale Shark Eco Tour' comes from the tours page wording ('your Whale Shark Eco Tour with Ningaloo Blue'); align it with the product names in the Rezdy catalog. No prices, times or per-trip booking links appear on the operator's pages. Booking is a Rezdy catalog embedded on the Book Now page (ningaloobluediveexmouth.rezdy.com/catalog/276379/tours), so that page is recorded as the booking link and prices are empty; the Rezdy page was not opened under the fetch rules. DPaW fee ($18.50 per person) is stated as included in the fare, so it is listed under includes and not as a price. Season: the home page and Exmouth page say whale sharks are there March to August; the Wildlife page says April to July; used March to August, and the site does not state the tour operating calendar separately. Duration is only 'full day boat trip'. Pick up around 7:00 to 7:30am comes from the terms and conditions PDF; the boat's departure point is not stated (Tantabiddi appears only as where self-drive guests meet the bus). The tours page mentions 'both vessels' but names only Venture IV. Tours depart subject to weather and a minimum number of passengers (terms PDF). Sighting claims are not repeated here: the site headlines a 'guaranteed' best swim and a no sighting policy, and the policy is worded three ways (tours page: free tour on the next available day or a transferable voucher valid for two years; home page: go again within 2 years free; terms PDF: go again the next day free, otherwise a voucher valid for two years). Experience figures also conflict across pages (skipper 22 years, over 18 years, over 20 years and over 30 years of tours), so none are used."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "The site describes one trip, a full day whale shark swim. Everything bookable sits in a Rezdy catalog embedded on the Book Now page (and home page), under the operator's own account ningaloobluediveexmouth (catalog 276379); it was not opened, so any other products, all prices and all times are unknown and prices are empty. Left out of trips: (1) Humpback whale swims. The tours page says 'now swim with the Humpbacks', the terms PDF says humpback in-water interactions are part of the seasonal tours, and a YouTube video shows one, but there are no dates, price, duration or separate description on the site; the Exmouth page lists humpback watching August to December as a general Exmouth activity, not as this business's trip. Check the Rezdy catalog for it. (2) Diving. Despite the business name and the list note about reef diving, the site describes no dive trips, courses or certification requirements; the Exmouth page mentions diving (Muiron Islands, Lighthouse Bay, Navy Pier) only as regional attractions. (3) Turtle, fishing, glass bottom boat and other items on the Exmouth page are a general list of things to do in Exmouth, not this business's trips. The site looks dated: the sitemap shows pages last edited 1 January 2024, and it cites a TripAdvisor ranking and review count, COVID Clean practices and DPaW (now DBCA) fees. Today (16 October 2026) is outside the stated whale shark season. Other contact details on the site: free call 1800 811 338 (from Australia), fax +61 8 9949 4129, postal PO Box 793 Exmouth WA 6707, office open 7 days 9am to 5pm; the contact page names Peter McKissock, licence number HQ67531WS. Terms PDF: full refund for individuals up to two weeks before, with a deposit held for groups of 5 or more; half of the payment held from a week to 24 hours before; the full fee for cancellation within 24 hours or no shows. A card surcharge applies to Visa and Mastercard payments, and American Express and Diners Club are not accepted. The site's home page headline and wording make absolute claims ('guaranteed', 'best in the world', 'surpass all other companies'); none are used. The /clients/ page is a client portal login and was not used."
+}

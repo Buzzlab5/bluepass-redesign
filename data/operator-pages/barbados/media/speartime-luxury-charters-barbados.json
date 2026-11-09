@@ -1,0 +1,82 @@
+{
+  "slug": "speartime-luxury-charters-barbados",
+  "logo": "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/Speartime-Luxury-Charters-logo.png",
+  "gallery": [
+    "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/Luxury-Charters-Speartime-Luxury-Charters-2.jpg",
+    "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/wicked-wahoo-video-poster.jpg",
+    "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Deep-Sea-Fishing-Speartime-Luxury-Charters.jpg",
+    "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Snorkeling-Tours-Speartime-Luxury-Charters.jpg",
+    "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Luxury-Charters-Speartime-Luxury-Charters.jpg",
+    "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Fishing-with-Family-Speartime-Luxury-Charters.jpg",
+    "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Fishing-Tournaments-Speartime-Luxury-Charters.jpg",
+    "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Tailor-Made-Charters-Speartime-Luxury-Charters.jpg",
+    "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Greetings-From-The-Captain-Speartime-Luxury-Charters.jpg",
+    "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Online-Booking-Speartime-Luxury-Charters.jpg",
+    "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/wicked-wahoo-food-and-snacks.webp",
+    "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/Fishing-with-Family-Speartime-Luxury-Charters.jpg",
+    "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/Snorkeling-Tours-Speartime-Luxury-Charters.jpg",
+    "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/Deep-Sea-Fishing-Speartime-Luxury-Charters.jpg",
+    "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/Luxury-Charters-Speartime-Luxury-Charters.jpg",
+    "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/Miikka-From-Finland-Speartime-Luxury-Charters.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/Speartime-Wicked-Wahoo.mp4",
+      "title": "The Wicked Wahoo",
+      "sourceUrl": "https://speartimeluxurychartersbarbados.com/"
+    },
+    {
+      "url": "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/WickedWahoo-video.mp4",
+      "title": "On board the Wicked Wahoo",
+      "sourceUrl": "https://speartimeluxurychartersbarbados.com/contact-about-us/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Deep Sea Fishing",
+      "images": [
+        "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Deep-Sea-Fishing-Speartime-Luxury-Charters.jpg",
+        "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/wicked-wahoo-food-and-snacks.webp",
+        "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/Miikka-From-Finland-Speartime-Luxury-Charters.jpg"
+      ]
+    },
+    {
+      "title": "Fishing with Kids",
+      "images": [
+        "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Fishing-with-Family-Speartime-Luxury-Charters.jpg",
+        "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/wicked-wahoo-food-and-snacks.webp",
+        "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/George-From-England-Speartime-Luxury-Charters.jpg"
+      ]
+    },
+    {
+      "title": "Snorkeling Tours",
+      "images": [
+        "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Snorkeling-Tours-Speartime-Luxury-Charters.jpg",
+        "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/wicked-wahoo-food-and-snacks.webp",
+        "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/Jill-From-England-Speartime-Luxury-Charters.jpg"
+      ]
+    },
+    {
+      "title": "Coastal Tours",
+      "images": [
+        "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Luxury-Charters-Speartime-Luxury-Charters.jpg",
+        "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/wicked-wahoo-food-and-snacks.webp",
+        "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/Brian-From-United-States-Speartime-Luxury-Charters.jpg"
+      ]
+    },
+    {
+      "title": "Tailored Charters",
+      "images": [
+        "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Tailor-Made-Charters-Speartime-Luxury-Charters.jpg",
+        "https://speartimeluxurychartersbarbados.com/wp-content/themes/Speartime/img/wicked-wahoo-food-and-snacks.webp"
+      ]
+    },
+    {
+      "title": "Fishing Tournaments",
+      "images": [
+        "https://speartimeluxurychartersbarbados.com/wp-content/uploads/2022/05/Fishing-Tournaments-Speartime-Luxury-Charters.jpg"
+      ]
+    }
+  ],
+  "notes": "Custom WordPress theme; most photos are served from the theme folder (/wp-content/themes/Speartime/img/) and each trip page's banner from /wp-content/uploads/2022/05/. The home page tiles use the theme-folder copies of the same banner names, so some gallery entries may be repeats. Both videos are .mp4 files hosted on the operator's own domain: a home page clip (about 10 MB) and a longer clip on the about page (about 64 MB). The Miikka, George, Jill and Brian images sit beside guest testimonials and may show those guests. No YouTube or Vimeo links. The header logo also exists with a slogan (Speartime-Luxury-Charters-logo-with-slogan.png)."
+}

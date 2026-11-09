@@ -1,0 +1,422 @@
+{
+  "slug": "view-ningaloo",
+  "name": "View Ningaloo",
+  "website": "https://viewningaloo.com.au",
+  "rezdyAlias": "subsea-explorer",
+  "state": "WA",
+  "town": "Exmouth",
+  "category": "Reef viewing and snorkelling",
+  "summary": "Family-run reef tours from Exmouth on Ningaloo Reef. SubSea Explorer is a semi-submersible catamaran with 16 large windows below the waterline, with one, two and three hour trips and optional snorkelling. Turquoise Girle is a power catamaran for half day snorkelling, and all tours leave from Tantabiddi Boat Ramp.",
+  "standouts": [
+    "Eco-certified by Ecotourism Australia",
+    "The site describes SubSea Explorer as the only semi-submersible catamaran in Western Australia",
+    "Crew hold Bronze Medallion, First Aid and Master Reef Guide certifications",
+    "Locally owned family business operating from Exmouth since 2021"
+  ],
+  "contact": {
+    "phone": "+61 483 206 197",
+    "email": "contact@viewningaloo.com.au",
+    "address": "Shop 3/2 Ross St Mall, Exmouth WA 6707, Australia"
+  },
+  "heroImage": "https://viewningaloo.com.au/wp-content/uploads/2023/10/boat-on-water-scaled.jpg",
+  "sourceUrls": [
+    "https://viewningaloo.com.au/",
+    "https://viewningaloo.com.au/about/",
+    "https://viewningaloo.com.au/exmouth/",
+    "https://viewningaloo.com.au/semi-submarine/",
+    "https://viewningaloo.com.au/power-catamaran/",
+    "https://viewningaloo.com.au/semi-submarine-book-now/",
+    "https://viewningaloo.com.au/power-catamaran-book-now/",
+    "https://viewningaloo.com.au/book-now/",
+    "https://viewningaloo.com.au/faq/",
+    "https://viewningaloo.com.au/contact/",
+    "https://viewningaloo.com.au/video-tour/",
+    "https://viewningaloo.com.au/shop/",
+    "https://viewningaloo.com.au/terms/",
+    "https://viewningaloo.com.au/blog/",
+    "https://viewningaloo.com.au/turquoise-girle-power-catamaran/",
+    "https://viewningaloo.com.au/semi-submarine-tours-visitor-guide/",
+    "https://viewningaloo.com.au/ningaloo-reef-tour-packing-checklist/",
+    "https://viewningaloo.com.au/wp-json/wp/v2/media"
+  ],
+  "trips": [
+    {
+      "title": "Coral Viewing Tour",
+      "kind": "tour",
+      "summary": "A one hour trip on SubSea Explorer, a semi-submersible catamaran with 16 large windows below the waterline. Guests stay dry in the lower deck and watch the coral and fish go by while a marine biologist gives live commentary. No swimming is needed, so it suits young children and older guests.",
+      "highlights": [
+        "16 large glass windows below the waterline",
+        "Stays dry, no swimming needed",
+        "Live marine biologist commentary",
+        "Carpeted lower deck seating, sheltered from sun and wind"
+      ],
+      "duration": "1 hour",
+      "durationMinutes": 60,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Tantabiddi Boat Ramp (25 minute drive from Exmouth town centre)",
+      "prices": [
+        {
+          "label": "From price",
+          "amount": 65,
+          "currency": "AUD",
+          "note": "Shown as 'From AUD $65.00'. The page does not say whether this is per person, and gives no child or other fares."
+        }
+      ],
+      "priceFrom": 65,
+      "includes": [
+        "Coral viewing from the lower deck",
+        "Personalised reef commentary",
+        "Toilet on board"
+      ],
+      "bring": [
+        "Swimwear, water bottle, towel, camera or phone",
+        "Own snacks are welcome on the 1 hour and 2 hour tours",
+        "National park day pass for guests driving themselves to Tantabiddi Boat Ramp through Cape Range National Park"
+      ],
+      "requirements": "No swimming ability needed and no strict age restrictions. The site recommends this tour for families with very young children or older guests who prefer a shorter trip. Boarding involves stepping down into the lower cabin from the jetty.",
+      "offer": null,
+      "images": [
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/coral-through-window-scaled.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/2023low-deck-boy-with-turtle.jpeg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/teen-viewing-lower-deck-scaled.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/lower-deck-scaled.webp"
+      ],
+      "bookingLinks": [
+        "https://subsea-explorer.rezdy.com/227410/coral-viewing-tour-exmouth-1hr?iframe=1"
+      ],
+      "sourceUrl": "https://viewningaloo.com.au/semi-submarine/",
+      "checkNotes": "Titled 'Coral Viewing Tour' on the home, All Tours and booking pages and '1 Hour SubSea Explorer Coral Viewing Tour' on the SubSea Explorer page; the booking pages also call it the 'Hour of Power'. Price is the 'From' figure only; fares by guest type are in the booking system, which was not opened. No departure times or season dates on the site (About page says SubSea Explorer runs daily tours)."
+    },
+    {
+      "title": "Coral Viewing & Snorkel Tour",
+      "kind": "snorkel",
+      "summary": "A two hour trip on SubSea Explorer that starts with coral viewing and live commentary, then a guided snorkel at one of the sites in the Tantabiddi Sanctuary. Snorkelling is optional, so non-swimmers and mixed groups can stay on board and watch through the windows. The site suggests it for young families, including babies.",
+      "highlights": [
+        "Coral viewing plus an optional guided snorkel",
+        "Snorkel site in the Tantabiddi Sanctuary",
+        "Masks, snorkels and fins provided",
+        "Trip is split into sections for young children"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Tantabiddi Boat Ramp (25 minute drive from Exmouth town centre)",
+      "prices": [
+        {
+          "label": "From price",
+          "amount": 99,
+          "currency": "AUD",
+          "note": "Shown as 'From AUD $99.00'. The page does not say whether this is per person, and gives no child or other fares."
+        }
+      ],
+      "priceFrom": 99,
+      "includes": [
+        "Coral viewing and live marine biologist commentary",
+        "A guided snorkel",
+        "Masks, snorkels and fins"
+      ],
+      "bring": [
+        "Swimwear, water bottle, towel, camera or phone",
+        "Own snacks are welcome on the 1 hour and 2 hour tours",
+        "Wetsuits are not supplied; the site points guests to Exmouth Surf Centre for 24 hour wetsuit hire",
+        "Optional: own snorkelling gear, labelled with your name",
+        "National park day pass for guests driving themselves to Tantabiddi Boat Ramp through Cape Range National Park"
+      ],
+      "requirements": "Guests who snorkel or swim must be able to swim, and the crew can keep anyone out of the water at their discretion. No strict age restrictions. Toddlers should not snorkel independently but can play in the shallows in a life jacket under constant parental supervision.",
+      "offer": null,
+      "images": [
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/2023snork-french.jpeg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/2023snork-with-granma.jpeg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/02/jade-snorkelling.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/glass-bottom-boat-snorkeller-.jpg"
+      ],
+      "bookingLinks": [
+        "https://subsea-explorer.rezdy.com/434902/coral-viewing-snorkel-tour-exmouth-2hrs"
+      ],
+      "sourceUrl": "https://viewningaloo.com.au/semi-submarine/",
+      "checkNotes": "Titled 'Coral Viewing & Snorkel Tour' on the home page, '2HR Coral Viewing + Snorkelling' on the booking pages and '2 Hour SubSea Explorer Tour: Snorkelling + Coral Viewing' on the SubSea Explorer page. The same Rezdy link appears with '?iframe=1' on the booking pages. Price is the 'From' figure only. No departure times or season dates on the site. The home page FAQ and SubSea page say equipment is supplied; the FAQ adds that wetsuits are not."
+    },
+    {
+      "title": "Half Day Snorkel + Coral Viewing",
+      "kind": "snorkel",
+      "summary": "A three hour half day on SubSea Explorer with two snorkelling sites, coral viewing and commentary from the crew. A drift snorkel is added when conditions allow. Guest numbers are capped, there are two deck areas, and a light refreshment is served on the top deck before returning to the jetty.",
+      "highlights": [
+        "Two snorkelling sites, plus a drift snorkel when conditions allow",
+        "Guest numbers capped for extra space",
+        "Two deck areas",
+        "Light refreshment at the end of the tour"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Tantabiddi Boat Ramp (25 minute drive from Exmouth town centre)",
+      "prices": [
+        {
+          "label": "From price",
+          "amount": 160,
+          "currency": "AUD",
+          "note": "Shown as 'From AUD $160.00'. The page does not say whether this is per person, and gives no child or other fares."
+        }
+      ],
+      "priceFrom": 160,
+      "includes": [
+        "Coral viewing and live marine biologist commentary",
+        "Two snorkelling sites",
+        "Snorkelling equipment (masks, snorkels and fins)",
+        "Light refreshment at the end of the tour"
+      ],
+      "bring": [
+        "Swimwear, water bottle, towel, camera or phone",
+        "Wetsuits are not supplied; the site points guests to Exmouth Surf Centre for 24 hour wetsuit hire",
+        "Optional: own snorkelling gear, labelled with your name",
+        "National park day pass for guests driving themselves to Tantabiddi Boat Ramp through Cape Range National Park"
+      ],
+      "requirements": "Guests who snorkel or swim must be able to swim, and the crew can keep anyone out of the water at their discretion. No strict age restrictions. The site suggests this tour for families with older children and keen snorkellers.",
+      "offer": null,
+      "images": [
+        "https://viewningaloo.com.au/wp-content/uploads/2022/04/snorkellers.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/turtle.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/sea-spoonge-scaled.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/2023top-deck.jpeg"
+      ],
+      "bookingLinks": [
+        "https://subsea-explorer.rezdy.com/442688/half-day-snorkel-coral-viewing-exmouth",
+        "https://subsea-explorer.rezdy.com/442688/half-day-snorkel-coral-viewing-exmouth-approx-3-5-4hrs?iframe=1"
+      ],
+      "sourceUrl": "https://viewningaloo.com.au/semi-submarine/",
+      "checkNotes": "Titled 'Half Day Snorkel + Coral Viewing' on the home page and '3 Hour Half Day SubSea Explorer Tour: Snorkelling + Coral Viewing' on the SubSea Explorer page. Both Rezdy links share product 442688 but with different slugs; the booking page slug reads 'approx 3.5-4hrs' while every page text says 3 hours, so confirm the real length. Price is the 'From' figure only. No departure times or season dates on the site. Capacity on this tour is reduced from the vessel's 30, number not stated."
+    },
+    {
+      "title": "SubSea Explorer Private Tour",
+      "kind": "charter",
+      "summary": "A private tour on SubSea Explorer for a family or group, tailored to what the group wants to do. The boat suits all ages and swimming abilities, and the site notes private tours are popular with large extended families. Prices are set by group size and are based on a 3 hour tour.",
+      "highlights": [
+        "Itinerary tailored to the group",
+        "Suits all ages and swimming abilities",
+        "Snorkelling equipment included",
+        "Courtesy bus from Exmouth to Tantabiddi can be arranged"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Tantabiddi Boat Ramp (25 minute drive from Exmouth town centre)",
+      "prices": [
+        {
+          "label": "Private tour, 2 to 14 guests (based on a 3 hour tour)",
+          "amount": 2099,
+          "currency": "AUD",
+          "note": "Listed as '$2099' against the guest range"
+        },
+        {
+          "label": "Private tour, 15 to 20 guests (based on a 3 hour tour)",
+          "amount": 2499,
+          "currency": "AUD",
+          "note": "Listed as '$2499' against the guest range"
+        },
+        {
+          "label": "Private tour, 21 to 25 guests (based on a 3 hour tour)",
+          "amount": 2999,
+          "currency": "AUD",
+          "note": "Listed as '$2999' against the guest range"
+        }
+      ],
+      "priceFrom": 2099,
+      "includes": [
+        "All snorkelling equipment",
+        "A light refreshment: cake, fruit, dip, a cool drink or a glass of bubbles",
+        "Catering from an outside provider can be organised on request"
+      ],
+      "bring": [
+        "Swimwear, water bottle, towel, camera or phone"
+      ],
+      "requirements": "Guests who snorkel or swim must be able to swim, and the crew can keep anyone out of the water at their discretion.",
+      "offer": {
+        "text": "Discounted rate in off-peak periods",
+        "conditions": "Off-peak is outside April to October. The discounted amount is not stated.",
+        "validUntil": null
+      },
+      "images": [
+        "https://viewningaloo.com.au/wp-content/uploads/2021/10/group-view-from-above.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/2022-cousins-on-sub.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/cousins-low-deck.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/2023top-deck.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://viewningaloo.com.au/semi-submarine-book-now/",
+      "checkNotes": "Sold by enquiry only: the 'Book Now' button on the home, SubSea Explorer and booking pages goes to the contact page, so there is no booking link. The site names this simply 'Private Tours'; the title here distinguishes it from the Turquoise Girle private tour. Amounts are listed against guest ranges with no 'per person' wording, so they read as a total for the group (confirm). The table stops at 25 guests although the vessel holds 30. Amounts are on the SubSea Explorer booking page and the All Tours booking page; the home page shows only 'Enquire'. The site says to call to chat."
+    },
+    {
+      "title": "Total Ningaloo Experience",
+      "kind": "snorkel",
+      "summary": "A half day on Turquoise Girle, a purpose-built power catamaran, with a courtesy bus from Exmouth to Tantabiddi Boat Ramp. The crew choose snorkel sites to suit the day's conditions, and a guide shares local stories on the drive. Wetsuits, all snorkelling equipment and light refreshments are included.",
+      "highlights": [
+        "Courtesy bus transfer from Exmouth, or meet at Tantabiddi Boat Ramp",
+        "Guided snorkelling at sites chosen for the day's conditions",
+        "Wetsuits and all snorkelling equipment included",
+        "Small group, maximum of 27 passengers on the boat"
+      ],
+      "duration": "Approx. 4.5 to 5 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Courtesy bus pickup in Exmouth to Tantabiddi Boat Ramp, or meet at Tantabiddi Boat Ramp",
+      "prices": [
+        {
+          "label": "From price, per person",
+          "amount": 220,
+          "currency": "AUD",
+          "note": "Shown as 'From $220 per person'"
+        }
+      ],
+      "priceFrom": 220,
+      "includes": [
+        "Courtesy bus transfer from Exmouth",
+        "Guided snorkelling",
+        "All snorkelling equipment, including wetsuits",
+        "Live reef interpretation",
+        "Light refreshments"
+      ],
+      "bring": [
+        "Swimwear, towel, water bottle, camera or phone",
+        "Hat and reef-safe sunscreen",
+        "Optional: own snorkelling equipment"
+      ],
+      "requirements": "Guests who snorkel or swim must be able to swim, and the crew can keep anyone out of the water at their discretion.",
+      "offer": null,
+      "images": [
+        "https://viewningaloo.com.au/wp-content/uploads/2026/09/tg-boatview-pt.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2026/08/power-catamaran-underway.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/turtle.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2022/04/snorkellers.jpg"
+      ],
+      "bookingLinks": [
+        "https://subsea-explorer.rezdy.com/773835/half-day-total-ningaloo-new-boat-turtles-snorkelling-courtesy-bus?iframe=1"
+      ],
+      "sourceUrl": "https://viewningaloo.com.au/power-catamaran/",
+      "checkNotes": "Titled 'Total Ningaloo Experience' on the home page, 'Half Day Tour TOTAL NINGALOO' and 'Half Day SNORKELLING tour (bus transfer)' on the Power Catamaran page. Length is given as 'Approx. 4.5 hours' in one place and 'Approx. 4.5-5 hours' in others, while the Turquoise Girle blog post describes both half days as three hours. Pickup is 'your Exmouth accommodation' on the Power Catamaran page and 'Exmouth Town Centre' on the All Tours page and blog; the cancellation policy mentions meeting the bus at Exmouth Marina for cruise ship guests. Price is the 'From' figure only (shown with $ and no currency, read as AUD). No departure times or season dates on the site. Turquoise Girle is marked 'NEW' and 'Launching in 2026' on its tour page, but the 2026 blog post says it is already taking guests and bookings."
+    },
+    {
+      "title": "Half Day Turtle Tour",
+      "kind": "snorkel",
+      "summary": "A half day on Turquoise Girle that starts at Tantabiddi Boat Ramp, with no bus transfer. The crew look for turtles and other marine life, and guests can snorkel or stay on deck. Snorkelling equipment, wetsuits and light refreshments are included.",
+      "highlights": [
+        "Starts and ends at Tantabiddi Boat Ramp, no bus transfer",
+        "Guided turtle watching and snorkelling",
+        "Wetsuits and all snorkelling equipment included",
+        "Option to relax on deck instead of snorkelling"
+      ],
+      "duration": "Approx. 3 to 3.5 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Tantabiddi Boat Ramp",
+      "prices": [
+        {
+          "label": "From price, per person",
+          "amount": 199,
+          "currency": "AUD",
+          "note": "Shown as 'From $199 per person'"
+        }
+      ],
+      "priceFrom": 199,
+      "includes": [
+        "Guided turtle watching and snorkelling",
+        "All snorkelling equipment, including wetsuits",
+        "Light refreshments"
+      ],
+      "bring": [
+        "Swimwear, towel, water bottle, camera or phone",
+        "Hat and reef-safe sunscreen",
+        "Optional: own snorkelling equipment",
+        "Bus transfer from Exmouth is not included"
+      ],
+      "requirements": "Guests who snorkel or swim must be able to swim, and the crew can keep anyone out of the water at their discretion.",
+      "offer": null,
+      "images": [
+        "https://viewningaloo.com.au/wp-content/uploads/2026/08/power-catamaran-underway.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2026/09/tg-boatview-pt.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/10/turtle.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2021/10/chill-turtle.jpg"
+      ],
+      "bookingLinks": [
+        "https://subsea-explorer.rezdy.com/773858/half-day-turtle-tour-new-boat-turtles-snorkelling-self-drive?iframe=1"
+      ],
+      "sourceUrl": "https://viewningaloo.com.au/power-catamaran/",
+      "checkNotes": "Titled 'Half Day Turtle Tour' on the home page and 'Half Day SNORKELLING TOUR (NO BUS TRANSFER)' on the Power Catamaran page. Length is 'Approx. 3-3.5 hours' on the tour pages; the blog post says three hours. Price is the 'From' figure only (shown with $ and no currency, read as AUD). No departure times or season dates on the site. Same 'NEW' and 'Launching in 2026' wording as the Total Ningaloo Experience."
+    },
+    {
+      "title": "Turquoise Girle Private Tour",
+      "kind": "charter",
+      "summary": "A private half day on Turquoise Girle for family, friends or a special occasion, for up to 27 guests. The itinerary can be built around reef viewing, snorkelling and time on the water, and the catamaran can reach beaches and areas many boats cannot. Prices are set by group size and are based on a 3 hour tour.",
+      "highlights": [
+        "Up to 27 guests",
+        "Itinerary tailored to the group",
+        "Snorkelling equipment, including wetsuit jackets, included",
+        "Bus transfer from Exmouth available at extra cost"
+      ],
+      "duration": "To be confirmed with booking (prices are based on a 3 hour tour)",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Tantabiddi Boat Ramp",
+      "prices": [
+        {
+          "label": "Private tour, 2 to 14 guests (based on a 3 hour tour)",
+          "amount": 2590,
+          "currency": "AUD",
+          "note": "Listed as '$2,590' against the guest range"
+        },
+        {
+          "label": "Private tour, 15 to 20 guests (based on a 3 hour tour)",
+          "amount": 2999,
+          "currency": "AUD",
+          "note": "Listed as '$2,999' against the guest range"
+        },
+        {
+          "label": "Private tour, 21 to 27 guests (based on a 3 hour tour)",
+          "amount": 3999,
+          "currency": "AUD",
+          "note": "Listed as '$3,999' against the guest range; the booking page reads 21 to 25 guests"
+        }
+      ],
+      "priceFrom": 2590,
+      "includes": [
+        "Snorkelling equipment, including wetsuit jackets",
+        "A light refreshment: cake, fruit, cracker and dip, a cool drink or a glass of bubbles",
+        "Catering from an outside provider can be organised on request"
+      ],
+      "bring": [
+        "Swimwear, towel, water bottle, camera or phone",
+        "Hat and reef-safe sunscreen"
+      ],
+      "requirements": "Guests who snorkel or swim must be able to swim, and the crew can keep anyone out of the water at their discretion.",
+      "offer": {
+        "text": "Discounted rate in off-peak periods",
+        "conditions": "Off-peak is outside April to October. The discounted amount is not stated.",
+        "validUntil": null
+      },
+      "images": [
+        "https://viewningaloo.com.au/wp-content/uploads/2026/09/tg-boatview-pt.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2026/08/power-catamaran-underway.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2022/04/snorkellers.jpg",
+        "https://viewningaloo.com.au/wp-content/uploads/2023/02/jade-snorkelling.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://viewningaloo.com.au/power-catamaran/",
+      "checkNotes": "Sold by enquiry only: the Power Catamaran booking page has an 'Enquire' button to the contact page, and the blog says 'call to book', so there is no booking link. The home page labels it 'Private Tours'; the title here distinguishes it from the SubSea Explorer private tour. The Power Catamaran page lists 21 to 27 guests at $3,999 while the shared booking page lists 21 to 25 guests at $3999; used the Power Catamaran page. Amounts are listed against guest ranges with no 'per person' wording, so they read as a total for the group (confirm). The bus transfer is described as 'at an additional cost' with no amount, so it is not a price option here. The page says duration is to be confirmed with the team."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift cards from $100 to $500 in $50 steps, redeemable on any tour",
+      "conditions": "Remaining credit stays valid for 12 months",
+      "validUntil": null,
+      "sourceUrl": "https://viewningaloo.com.au/shop/"
+    }
+  ],
+  "checkNotes": "No redirect: the site stays on viewningaloo.com.au and calls itself 'View Ningaloo'. Rezdy alias 'subsea-explorer' is taken from the per-trip booking buttons on the operator's own pages; it is named after the SubSea Explorer vessel, not the business, and also carries the two Turquoise Girle tours. No Rezdy page was opened, so there are no departure times and no fares by guest type, only 'From' prices. Phone is shown on the site as 0483 206 197 (phone enquiries 7am to 9pm, 7 days; shop open 9am to 5pm). Turquoise Girle is marked 'NEW' and 'Launching in 2026' on its tour page but the 2026 blog post says it is taking guests, so its three trips are included; confirm it is running before publishing. Conflicts to check: SubSea Explorer tours do not supply wetsuits (FAQ, visitor guide) while the Turquoise Girle tours include them; the Total Ningaloo Experience length differs between pages (about 4.5 to 5 hours on tour pages, three hours in the blog); the 3 hour SubSea half day booking slug says 'approx 3.5-4hrs'. Left out of trips: a merchandise shop (13 items, not trips), the site's cancellation and refunds policy (tiered fees by notice period and special rules for cruise ship guests, not summarised here; see the terms page), a dog sitter list with private phone numbers on the FAQ, and whale shark tours (the site says it does not run them). The visitor guide says humpback whales are regularly seen from the SubSea Explorer upper deck from July to October; not repeated as a trip fact. The site makes strong claims such as 'WA's only semi-submersible glass bottom boat'; these were kept out of copy except one standout phrased as the site's own claim."
+}

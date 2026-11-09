@@ -1,0 +1,490 @@
+{
+  "slug": "aquascene-magnetic-island",
+  "name": "Aquascene Magnetic Island",
+  "website": "https://aquascenemagneticisland.com.au",
+  "rezdyAlias": "aquascenecharters",
+  "state": "QLD",
+  "town": "Nelly Bay, Magnetic Island",
+  "category": "Snorkel and eco tours",
+  "summary": "A family-run operator on Magnetic Island, off Townsville in North Queensland, running small-group snorkel and eco tours with Master Reef Guides. Day tours leave from Nelly Bay Marina, with a Townsville departure on set days, and there are sunset, whale watching and private charter options. Snorkel gear, a floating pontoon and morning tea are provided on the day tours.",
+  "standouts": [
+    "Advanced Eco Certified through Ecotourism Australia",
+    "Owners Adam and Steph Hinks are Master Reef Guides and are on board to share the reef's stories",
+    "Gold for Adventure Tourism at the Queensland Tourism Awards",
+    "Family owned and run on Magnetic Island since 2004"
+  ],
+  "contact": {
+    "phone": "+61 460 312 585",
+    "email": "hello@aquascenemagneticisland.com.au",
+    "address": "Shop 3/4 Arcadia Road, Nelly Bay, Magnetic Island QLD 4819"
+  },
+  "heroImage": "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/dji-fly-20240701-103342-962-1719794205273-photo_orig.jpg",
+  "sourceUrls": [
+    "https://www.aquascenemagneticisland.com.au/",
+    "https://www.aquascenemagneticisland.com.au/discovery-snorkel-eco-tour.html",
+    "https://www.aquascenemagneticisland.com.au/discovery-snorkel-eco-tour-698992.html",
+    "https://www.aquascenemagneticisland.com.au/circumnavigation-explorer-tour.html",
+    "https://www.aquascenemagneticisland.com.au/sunset-shipwreck-tour.html",
+    "https://www.aquascenemagneticisland.com.au/funset-tour.html",
+    "https://www.aquascenemagneticisland.com.au/whales-sunset-tour.html",
+    "https://www.aquascenemagneticisland.com.au/circumnavigation-explorer-tour-288804.html",
+    "https://www.aquascenemagneticisland.com.au/private-charters.html",
+    "https://www.aquascenemagneticisland.com.au/faqs.html",
+    "https://www.aquascenemagneticisland.com.au/contact-details.html",
+    "https://www.aquascenemagneticisland.com.au/departure-location-info.html",
+    "https://www.aquascenemagneticisland.com.au/terms--conditions.html",
+    "https://www.aquascenemagneticisland.com.au/mobility--accessibility.html",
+    "https://www.aquascenemagneticisland.com.au/eco.html",
+    "https://www.aquascenemagneticisland.com.au/awards--media.html",
+    "https://www.aquascenemagneticisland.com.au/the-aquascene-story.html",
+    "https://www.aquascenemagneticisland.com.au/office--shop.html",
+    "https://www.aquascenemagneticisland.com.au/edu-tourism--schools.html",
+    "https://www.aquascenemagneticisland.com.au/school-groups.html",
+    "https://www.aquascenemagneticisland.com.au/gift-vouchers.html",
+    "https://www.aquascenemagneticisland.com.au/snorkel-safety-video.html",
+    "https://www.aquascenemagneticisland.com.au/gallery.html",
+    "https://www.aquascenemagneticisland.com.au/sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Discovery Eco Tour",
+      "kind": "snorkel",
+      "summary": "A morning snorkel tour of Magnetic Island's bays and fringing reefs, led by Master Reef Guides who talk about the reef, the wildlife and the island's history. It leaves from Nelly Bay Marina each morning, stops for morning tea at a beach chosen on the day, and focuses on the best snorkel spots on the eastern side of the island. Whale watching is part of the trip from July to September.",
+      "highlights": [
+        "Snorkelling on fringing reefs, with a snorkel lesson and briefing",
+        "Master Reef Guides on board",
+        "Morning tea at a secluded beach chosen on the day",
+        "Paddleboards, viewing boogie boards and a floating pontoon provided"
+      ],
+      "duration": "About 5 hours (departs 8:30 am, returns 1:15 pm)",
+      "durationMinutes": 300,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": "Daily",
+      "departsFrom": "Magnetic Island Marina, Nelly Bay (meet in front of Peppers Resort Restaurant on the boardwalk, a short walk to the left of the Nelly Bay ferry terminal)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 175,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (2 to 14 years)",
+          "amount": 135,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0 to 23 months)",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free of charge"
+        }
+      ],
+      "priceFrom": 175,
+      "includes": [
+        "Morning tea and refreshments: sweet morning tea, seasonal fruit, tea, coffee and water",
+        "Snorkel gear (mask, snorkel and fins)",
+        "UV stinger suits (October to end April) and wetsuits (June to September)",
+        "Stand up paddle boards, viewing boogie boards, flotation aids and a moveable flotation pontoon",
+        "Snorkel lesson and briefings",
+        "Master Reef Guide talks on the environment and wildlife",
+        "Whale watching (July to September)",
+        "Reef tax (Environmental Management Charge) included in the ticket"
+      ],
+      "bring": [
+        "Swimmers and a towel",
+        "Hat",
+        "Camera",
+        "Jacket or jumper in the cooler months (May to September)",
+        "Water bottle (there is a refill station on board)",
+        "Any extra snacks you would like",
+        "Optional: GoPro and prescription masks can be rented, arranged when booking"
+      ],
+      "requirements": "Suitable for all ages and abilities, and some swimming ability is recommended (flotation aids and a floating pontoon are available). Young children must be accompanied by 2 adults. Guests complete an emailed waiver form before the tour and must tell the crew about any medical condition. The ferry ticket to Magnetic Island is not included.",
+      "offer": null,
+      "images": [
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/aquascene-magnetic-island-master-reef-guides_orig.jpeg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/adam-batfish-florence-002_orig.jpg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/aquascene-2-fish-kiss_orig.jpg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/aquascene-melia-red-swimmers-snorkel-pic_orig.jpeg"
+      ],
+      "bookingLinks": [
+        "https://www.aquascenemagneticisland.com.au/discovery-snorkel-eco-tour.html"
+      ],
+      "sourceUrl": "https://www.aquascenemagneticisland.com.au/discovery-snorkel-eco-tour.html",
+      "checkNotes": "Sold through a Rezdy calendar widget embedded on this page, so the page URL is recorded as the booking link. Times on this page (8:30 am to 1:15 pm) are slightly under the 5 hours the FAQ page gives; used 5 hours as stated and kept the exact times in the duration text. Whale watching is given as July to September here and as June to September on other pages. Minimum 8 adults per departure (Terms page), otherwise a full refund or reschedule. Guests coming from Townsville are told to catch the 7.45 am Sealink ferry. The first photo on this page (aquascene-magnetic-island-teq.jpeg) was left out because its file name suggests it came from a tourism body."
+    },
+    {
+      "title": "Townsville Departure Discovery Eco Tour",
+      "kind": "snorkel",
+      "summary": "The Discovery Eco Tour run from Townsville instead of Nelly Bay, on Tuesdays, Thursdays and Saturdays. The boat leaves from the Breakwater Marina in Townsville at 7:30 am, spends the day snorkelling and exploring Magnetic Island's bays with Master Reef Guides, and returns at 2 pm. Guests who want to stay on the island afterwards can tell the skipper and take the Sealink ferry back.",
+      "highlights": [
+        "Departs and returns from Breakwater Marina, Townsville",
+        "Tuesday, Thursday and Saturday",
+        "Snorkelling and Master Reef Guide talks, with morning tea on the way",
+        "Option to stay on Magnetic Island and catch the Sealink ferry back"
+      ],
+      "duration": "Departs 7:30 am, returns 2 pm",
+      "durationMinutes": 390,
+      "departureTimes": [
+        "07:30"
+      ],
+      "season": "Tuesday, Thursday and Saturday",
+      "departsFrom": "Breakwater Marina Fuel Wharf, 26 Mariners Drive, Townsville City QLD 4810",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 205,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (2 to 14 years)",
+          "amount": 155,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0 to 23 months)",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free of charge"
+        }
+      ],
+      "priceFrom": 205,
+      "includes": [
+        "Departure and return from Townsville",
+        "Morning tea and refreshments: sweet morning tea, seasonal fruit, tea, coffee and water",
+        "Snorkel gear (mask, snorkel and fins)",
+        "UV stinger suits (October to end April) and wetsuits (June to September)",
+        "Stand up paddle boards, viewing boogie boards, flotation aids and a moveable flotation pontoon",
+        "Snorkel lesson and briefings",
+        "Master Reef Guide talks on the environment and wildlife",
+        "Whale watching (July to September)",
+        "Reef tax (Environmental Management Charge) included in the ticket"
+      ],
+      "bring": [
+        "Swimmers and a towel",
+        "Hat",
+        "Camera",
+        "Jacket or jumper in the cooler months (May to September)",
+        "Water bottle (there is a refill station on board)",
+        "Any extra snacks you would like",
+        "Optional: GoPro and prescription masks can be rented, arranged when booking"
+      ],
+      "requirements": "Young children must be accompanied by 2 adults. Guests complete an emailed waiver form before the tour and must tell the crew about any medical condition. There is no parking inside the Breakwater Marina, so guests park on the Strand and walk to the Fuel Wharf.",
+      "offer": null,
+      "images": [
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/aquascene-magnetic-island-master-reef-guides_1_orig.jpeg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/adam-batfish-florence-002_1_orig.jpg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/aquascene-2-fish-kiss_1_orig.jpg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/aquascene-melia-red-swimmers-snorkel-pic_1_orig.jpeg"
+      ],
+      "bookingLinks": [
+        "https://www.aquascenemagneticisland.com.au/discovery-snorkel-eco-tour-698992.html"
+      ],
+      "sourceUrl": "https://www.aquascenemagneticisland.com.au/discovery-snorkel-eco-tour-698992.html",
+      "checkNotes": "Sold through a Rezdy calendar widget embedded on this page, so the page URL is recorded as the booking link. The page says to check the Discovery Tour page if this product is not available, so confirm it is currently running. Duration is worked out from the stated times (7:30 am to 2 pm); no duration is written. Minimum 8 adults per departure (Terms page). The page text says the tour picks up guests from Magnetic Island; no stop or pick-up time is given. A departure-information page mentions a ticket type with Sealink ferry tickets from Townsville; no price or page for that was found. Page photos left out: a screenshot, a meeting-point image (website_orig.jpg) and breakwater.jpg, which could not be judged without opening them."
+    },
+    {
+      "title": "Circumnavigation Explorer Tour",
+      "kind": "tour",
+      "summary": "A full lap of Magnetic Island by boat, leaving Nelly Bay Marina at 8:30 am on selected days each week. The route takes in the northern side of the island, including the Five Bays when weather allows, with time to swim, snorkel and spend on beaches using paddle boards and other water toys. Guides share stories and history along the way, and morning tea is provided.",
+      "highlights": [
+        "Full lap of Magnetic Island",
+        "Visits the Five Bays on the northern side, weather permitting",
+        "Swim, snorkel and beach time with water activities",
+        "Stories and history from the crew"
+      ],
+      "duration": "5 hours (8:30 am to 1:30 pm)",
+      "durationMinutes": 300,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": "Selected days each week",
+      "departsFrom": "Magnetic Island Marina, Nelly Bay (meet in front of Peppers Resort Restaurant on the boardwalk, a short walk to the left of the Nelly Bay ferry terminal)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 175,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (2 to 14 years)",
+          "amount": 135,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0 to 23 months)",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free of charge"
+        }
+      ],
+      "priceFrom": 175,
+      "includes": [
+        "Morning tea, tea and coffee",
+        "Snorkel gear (mask, snorkel and fins)",
+        "Wetsuits (June to September) and UV stinger suits (seasonal)",
+        "Stand up paddle board, glass bottom boogie boards and flotation aids",
+        "Whale watching (seasonal, June to September)",
+        "Magnetic Island history, cultural connections, reef and wildlife interpretation",
+        "Reef tax (Environmental Management Charge) included in the ticket"
+      ],
+      "bring": [
+        "Comfortable beach clothing, swimwear and a towel",
+        "Sunscreen and a hat",
+        "Camera",
+        "Jacket or jumper in the cooler months (May to September)",
+        "Water bottle (there is a refill station on board)",
+        "Any other snacks or refreshments you would like",
+        "Optional: GoPro and prescription masks can be rented"
+      ],
+      "requirements": "Suitable for all ages and abilities. Young children must be accompanied by 2 adults. Guests complete an emailed waiver form before the tour and must tell the crew about any medical condition. The ferry ticket to Magnetic Island is not included.",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://www.aquascenemagneticisland.com.au/circumnavigation-explorer-tour.html"
+      ],
+      "sourceUrl": "https://www.aquascenemagneticisland.com.au/circumnavigation-explorer-tour.html",
+      "checkNotes": "Sold through a Rezdy calendar widget embedded on this page, so the page URL is recorded as the booking link. The page gives no days; it says selected days each week. The FAQ says a light lunch may come with morning tea; the tour page lists morning tea only. This page has no photos of its own (only a map and award badges), so images is empty. Minimum 8 adults per departure (Terms page). Whale watching is June to September here and July to September on the Discovery page."
+    },
+    {
+      "title": "Sunset & Shipwreck Tour",
+      "kind": "cruise",
+      "summary": "A two hour sunset cruise from Nelly Bay Marina along the coast towards Cockle Bay, ending at the wreck of the S.S. City of Adelaide. Guests stay on the boat while the crew tells the ship's story and some of the island's maritime history, with birdlife and photo stops at sunset. It runs only on selected dates when the tide and sunset line up, and guests bring their own drinks and nibbles.",
+      "highlights": [
+        "Visits the S.S. City of Adelaide wreck at sunset",
+        "Maritime stories and shipwreck history",
+        "Birdlife at sunset",
+        "BYO drinks and nibbles"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [
+        "16:15"
+      ],
+      "season": "Selected dates only each month, tide dependent (page states April to August)",
+      "departsFrom": "Magnetic Island Marina, Nelly Bay",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 109,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (5 to 14 years)",
+          "amount": 75,
+          "currency": "AUD",
+          "note": "Not recommended for toddlers and very young children; contact Aquascene about individual situations"
+        }
+      ],
+      "priceFrom": 109,
+      "includes": [
+        "Scenic coastline between Nelly Bay and Cockle Bay",
+        "Stories and history of shipwrecks along the way",
+        "Birdlife at sunset",
+        "Photo opportunities at the S.S. City of Adelaide"
+      ],
+      "bring": [
+        "Comfortable clothing",
+        "Your own alcoholic drinks and nibbles",
+        "Camera",
+        "Jacket or jumper in the cooler months (May to September)"
+      ],
+      "requirements": "A non-swimming tour: guests stay on the boat. Not recommended for toddlers and very young children. The ferry ticket to Magnetic Island is not included.",
+      "offer": null,
+      "images": [
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/img-5294_orig.jpg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/photo-output_orig.jpeg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/img-9182_orig.jpeg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/img-9181_orig.jpeg"
+      ],
+      "bookingLinks": [
+        "https://www.aquascenemagneticisland.com.au/sunset-shipwreck-tour.html"
+      ],
+      "sourceUrl": "https://www.aquascenemagneticisland.com.au/sunset-shipwreck-tour.html",
+      "checkNotes": "Sold through a Rezdy calendar widget embedded on this page, so the page URL is recorded as the booking link. Runs on selected tide-dependent dates only; the page gives 4:15 pm to 6:15 pm for April to August and says times vary with sunset, so confirm dates and that it is running now. The FAQ describes the route as Geoffrey Bay to Cockle Bay and lists a complimentary drink on arrival and music, while this page says Nelly Bay to Cockle Bay and BYO drinks; used this page. Minimum 6 guests (Terms page). The first photo on this page (137907-402132-56.jpg) was left out because its numbered file name suggests a tourism library image. A 2019 award graphic and a map were also left out."
+    },
+    {
+      "title": "Funset Tour",
+      "kind": "tour",
+      "summary": "A three hour afternoon trip along Magnetic Island's coast, with time to swim and paddle board at sunset and an afternoon tea at a secluded beach. The crew points out their favourite sunset spots and wildlife along the way. It runs on select days of the week and is not a snorkelling tour.",
+      "highlights": [
+        "Swim and paddle board at sunset",
+        "Explore secluded beaches and coves",
+        "Tropical afternoon tea at a secluded beach",
+        "Not a snorkelling tour"
+      ],
+      "duration": "3 hours (runs 3 pm to 6 pm, shifting slightly with sunset times)",
+      "durationMinutes": 180,
+      "departureTimes": [
+        "15:00"
+      ],
+      "season": "Select days of the week",
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Tropical afternoon tea"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/img-9822_orig.jpg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/6e184309c01a3ff8-photo_orig.jpg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/aquascene-group-private-charter-sunset-cruise_orig.jpg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/tempimageimzq8c_orig.jpg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/photo-31-2_orig.jpg"
+      ],
+      "bookingLinks": [
+        "https://aquascenecharters.rezdy.com/562385/funset-with-aquascene"
+      ],
+      "sourceUrl": "https://www.aquascenemagneticisland.com.au/funset-tour.html",
+      "checkNotes": "No price on the page; any price is inside the Rezdy booking widget, which was not opened. The booking link was found as an embedded frame on this page (with an iframe parameter, removed here). Departure point is not stated; other tours leave from Nelly Bay Marina but this page does not say so. Start time taken from 'Runs 3-6pm', which the page says changes with the season. Minimum 8 adults per departure (Terms page). One page photo (149151-2022-tsv-magneticisland-aquascen-1-2.jpg) was left out because its file name suggests a tourism library image."
+    },
+    {
+      "title": "Whales at Sunset Tour",
+      "kind": "cruise",
+      "summary": "A three hour sunset whale watching cruise on the vessel Kanyini, with afternoon tea and live whale song played through onboard listening equipment. Guests hear the story of Kanyini, a whale with a special place in Aquascene's story. It runs from July to September, timed to the humpback migration past Magnetic Island's coast.",
+      "highlights": [
+        "Live whale songs through onboard technology",
+        "The story of Kanyini the whale",
+        "Afternoon tea at sunset",
+        "3 hours on a custom built vessel"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": "July to September",
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Afternoon tea at sunset",
+        "Live whale song through onboard technology"
+      ],
+      "bring": [
+        "Warm clothing (the trip runs in the winter months)",
+        "Flat shoes for moving around the vessel",
+        "Camera"
+      ],
+      "requirements": "Drones are not permitted in the air during a commercial whale watching tour.",
+      "offer": null,
+      "images": [
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/14_orig.jpeg"
+      ],
+      "bookingLinks": [
+        "https://www.aquascenemagneticisland.com.au/whales-sunset-tour.html"
+      ],
+      "sourceUrl": "https://www.aquascenemagneticisland.com.au/whales-sunset-tour.html",
+      "checkNotes": "Sold through a Rezdy calendar widget embedded on this page, so the page URL is recorded as the booking link. No price, start time or departure point on the page; any of these are inside the booking widget, which was not opened. The season is July to September, so it is not running at the date of this check. The page says that if no whales are seen the guests still get the 3 hours, sunset and afternoon tea; no refund or sighting claim is stated here. Minimum 8 adults per departure (Terms page). A second image on the page (15_orig.png) was left out because it may be a graphic."
+    },
+    {
+      "title": "Northern Islands Adventure",
+      "kind": "tour",
+      "summary": "A small-group day trip north of Magnetic Island to Acheron Island, with snorkelling, swimming and beach time. The day runs from 8:30 am to 3 pm on selected dates and includes morning tea and lunch, reef education and citizen science. It is a new tour for Aquascene in the Townsville region.",
+      "highlights": [
+        "Journey north to Acheron Island",
+        "Snorkel, swim and beach time with water activities",
+        "Morning tea and lunch",
+        "Reef education and citizen science"
+      ],
+      "duration": "8:30 am to 3 pm",
+      "durationMinutes": 390,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": "Selected dates",
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Morning tea and lunch"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.aquascenemagneticisland.com.au/circumnavigation-explorer-tour-288804.html",
+      "checkNotes": "Enquiry only: the page offers email and phone and has no booking widget, so there is no booking link. No price, dates or departure point are given. The page has no photos. The page's browser title still reads Circumnavigation Explorer Tour. Duration is worked out from the stated times (8:30 am to 3 pm)."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "Private charters of Aquascene's custom catamarans from Nelly Bay Marina, for social, corporate, school, wedding and birthday groups of up to 50 guests using both vessels. The day is built around the group, with reef snorkelling, paddle boards, glass bottom boogie boards and talks about the island, adjusted to weather and tides. A skipper and host come with the boat.",
+      "highlights": [
+        "Up to 50 guests using both vessels",
+        "Itinerary tailored to the group, weather and tides",
+        "Reef snorkelling, paddle boards and glass bottom boogie boards",
+        "Skipper and host included"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Magnetic Island Marina, Nelly Bay (meet in front of Peppers Resort Restaurant on the boardwalk, a short walk to the left of the Nelly Bay ferry terminal)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Private vessel charter with skipper and host",
+        "Personalised itinerary",
+        "Tea, coffee, soft drinks, water and ice",
+        "Fruit platter and cakes or cookies",
+        "Snorkel equipment, flotation aids, stand up paddle boards and glass bottom boogie boards",
+        "UV stinger suits or wetsuits (seasonal)",
+        "Talks on Magnetic Island, its history, the reef and wildlife",
+        "Optional: catch and release fishing activity",
+        "Optional: private acoustic singer for an extra fee, subject to availability"
+      ],
+      "bring": [
+        "Swimmers, towel, sunscreen and a hat",
+        "Camera",
+        "Your own water bottle if you prefer",
+        "A jumper or jacket in the cooler months (June to September)",
+        "Snacks or platters of your choice",
+        "BYO alcohol is permitted; glasses are not allowed on board and cups are provided"
+      ],
+      "requirements": "Suitable for all ages and abilities. The boats are described as mobility friendly, with a toilet and change room on board.",
+      "offer": null,
+      "images": [
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/aquascene-charters-private-charter-group1-magnetic-island_orig.jpg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/aquascene-charters-private-charter-3_2_orig.jpg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/aquascene-charters-private-charter-wedding-3_orig.jpg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/aquascene-charters-on-tour-on-magnetic-island_2_orig.jpg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/dji-fly-20240420-160546-797-1713593280316-photo_orig.jpg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/aquascene-and-batfish_orig.jpg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/snorkelling-pic_orig.jpg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/g5821147_orig.jpg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/img-0161_orig.jpg",
+        "https://www.aquascenemagneticisland.com.au/uploads/8/9/2/3/89230996/tempimagex6fdm7_orig.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.aquascenemagneticisland.com.au/private-charters.html",
+      "checkNotes": "Enquiry only: the page asks for an email enquiry and has no booking widget and no prices, so there is no booking link. The page says groups over 50 can be split into a morning and an afternoon charter. The Terms page says a deposit is required for charters and final payment is due 7 days before, with no minimum number of guests; the deposit amount is not repeated here. The mobility page says guests step up one step onto the vessel and that motorised wheelchairs cannot be taken. A brochure graphic (sunset-brochure_2.jpg) and a map were left out of the photos."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Credit vouchers of $50 or $100 to put towards a tour",
+      "conditions": "The recipient chooses the tour. Sold through Rezdy: aquascenecharters.rezdy.com/396130 ($50) and /396133 ($100).",
+      "validUntil": null,
+      "sourceUrl": "https://www.aquascenemagneticisland.com.au/gift-vouchers.html"
+    },
+    {
+      "text": "Carers discount available",
+      "conditions": "Contact Aquascene for details",
+      "validUntil": null,
+      "sourceUrl": "https://www.aquascenemagneticisland.com.au/mobility--accessibility.html"
+    }
+  ],
+  "checkNotes": "BOOKING: Every tour page except Funset sells through a Rezdy calendar widget embedded on the page (account aquascenecharters), so the page URL is each trip's booking link. Funset has a per-trip Rezdy link (562385) in an embedded frame. The home page embeds an all-products Rezdy calendar. No Rezdy or FareHarbor page was opened, so prices or times that live only in a widget are missing: Funset, Whales at Sunset, Northern Islands Adventure and Private Charters have no price on the site. NOT INCLUDED AS TRIPS: School groups and educational programs (the Be a Marine Biologist for a Day program) are enquiry only with no itinerary or price, and /school-groups.html is blank. A departure-information page refers to a ticket type that includes Sealink ferry tickets from Townsville, with no price or page. The shop hires and sells snorkel gear. The sitemap also lists older or unlinked pages (indigenous tours, a cultural connections cruise, a music cruise, snorkel school, a brochure page) that were not opened. VOUCHERS: /gift-vouchers.html is not in the menu and shows older tour voucher prices than the tour pages, so only its 50 and 100 dollar credit vouchers are recorded; their Rezdy links are aquascenecharters.rezdy.com/396130/50-gift-voucher-aquascene-magnetic-island and /396133/100-gift-voucher-aquascene-magnetic-island. CONFLICTS: Master Reef Guides are two on the tour pages and three on the schools page. Cancellation wording differs: the Terms page says free cancellation up to 24 hours before a tour; the FAQ page mentions an admin fee within 2 days; the Terms page also says within 48 hours is full payment; percentages are not repeated here. Minimum numbers (Terms page): 8 adults for tours, 6 guests for Sunset & Shipwreck, none for private charters. The reef tax (Environmental Management Charge) is stated as 8.50 dollars per person and is included in ticket prices. CONTACT: the email was read from the site's protected email link on the contact page; the phone is shown on the site as 0460 312 585. Office hours: Monday to Friday 9 am to 4 pm, Saturday and Sunday 10 am to 3 pm. Boat location: Magnetic Island Marina, 123 Sooning Street, Nelly Bay. The site shows award and ranking badges for 2026; they were not repeated as standouts beyond the Queensland Tourism Awards gold, which is on the awards page. Hero image (a drone photo) was chosen by file name and has not been viewed."
+}

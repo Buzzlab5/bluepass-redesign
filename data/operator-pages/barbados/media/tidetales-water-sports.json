@@ -1,0 +1,75 @@
+{
+  "slug": "tidetales-water-sports",
+  "logo": "https://tidetaleswatersports.com/wp-content/uploads/2025/07/TT-Submark-3-black-1-e1751457858651.png",
+  "gallery": [
+    "https://tidetaleswatersports.com/wp-content/uploads/2025/12/ITS07217-scaled.jpg",
+    "https://tidetaleswatersports.com/wp-content/uploads/2025/12/Private-Charter.jpeg",
+    "https://tidetaleswatersports.com/wp-content/uploads/2026/02/Sunset-Dinner-Cruise-40-1.jpg",
+    "https://tidetaleswatersports.com/wp-content/uploads/2025/01/123.jpeg",
+    "https://tidetaleswatersports.com/wp-content/uploads/2024/11/Untitled-14.jpg",
+    "https://tidetaleswatersports.com/wp-content/uploads/2024/11/etht.jpg",
+    "https://tidetaleswatersports.com/wp-content/uploads/2024/11/rthtth1.jpg",
+    "https://tidetaleswatersports.com/wp-content/uploads/2024/11/etrheth.jpg",
+    "https://tidetaleswatersports.com/wp-content/uploads/2024/11/wegerh.jpg",
+    "https://tidetaleswatersports.com/wp-content/uploads/2024/11/dgjhtdh.jpg",
+    "https://tidetaleswatersports.com/wp-content/uploads/2024/11/efev.jpg",
+    "https://tidetaleswatersports.com/wp-content/uploads/2024/11/rthtryh.jpg",
+    "https://tidetaleswatersports.com/wp-content/uploads/2024/11/wertrg.jpg",
+    "https://tidetaleswatersports.com/wp-content/uploads/2024/11/ergtreg-1.jpg",
+    "https://tidetaleswatersports.com/wp-content/uploads/2024/11/rtytyjtry.jpg",
+    "https://tidetaleswatersports.com/wp-content/uploads/2024/11/tehh.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Brunch Cruise (Morning Cruise)",
+      "images": [
+        "https://tidetaleswatersports.com/wp-content/uploads/2025/12/Private-Charter.jpeg"
+      ]
+    },
+    {
+      "title": "Sunset Cruise (Evening Cruise)",
+      "images": [
+        "https://tidetaleswatersports.com/wp-content/uploads/2026/02/Sunset-Dinner-Cruise-40-1.jpg"
+      ]
+    },
+    {
+      "title": "Private 4 Hour Charter",
+      "images": [
+        "https://tidetaleswatersports.com/wp-content/uploads/2025/12/Private-Charter.jpeg",
+        "https://tidetaleswatersports.com/wp-content/uploads/2024/11/Untitled-14.jpg"
+      ]
+    },
+    {
+      "title": "Private Charter Booking",
+      "images": [
+        "https://tidetaleswatersports.com/wp-content/uploads/2024/11/Untitled-14.jpg"
+      ]
+    },
+    {
+      "title": "Drinks Package",
+      "images": [
+        "https://tidetaleswatersports.com/wp-content/uploads/2025/12/ITS07217-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Food-Only Package",
+      "images": [
+        "https://tidetaleswatersports.com/wp-content/uploads/2025/08/Wraps-Salads.jpg"
+      ]
+    },
+    {
+      "title": "Boat Rental Only",
+      "images": []
+    },
+    {
+      "title": "LED-Lit Kayaking Night Adventure",
+      "images": []
+    },
+    {
+      "title": "Glow Night Paddle Tours",
+      "images": []
+    }
+  ],
+  "notes": "No YouTube or Vimeo videos found. The home page plays a self-hosted video named 6037753_Person_People_1920x1080.mp4, a stock-library style file name, so it is left out. Left out of the gallery: beautiful-surfer-girl-riding-board (stock-style name, About page background) and 2023/12/Untitled-41.jpg (uploaded with the site template's demo files, may not be the operator's own). Many 2024 photos have keyboard-mash file names (etht, rthtth1, wertrg and so on) and are the water-toy and slider images; they could not be confirmed as the operator's own photos and should be checked by eye. Logo is the header wordmark; a square teal and white submark is also served at /wp-content/uploads/2025/07/cropped-TT-Submark-4-teal-white.png."
+}

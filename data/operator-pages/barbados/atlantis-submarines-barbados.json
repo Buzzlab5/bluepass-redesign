@@ -1,0 +1,275 @@
+{
+  "slug": "atlantis-submarines-barbados",
+  "name": "Atlantis Submarines Barbados",
+  "website": "https://www.barbados.atlantissubmarines.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Submarine tours",
+  "summary": "Atlantis Submarines Barbados runs passenger submarine tours from the Shallow Draught in Bridgetown, diving up to 150 feet past coral reef and the Lord Willoughby shipwreck. Guests stay dry in an air-conditioned cabin with large viewports while the co-pilot narrates. Day and night dives run on the same battery powered submarine, which carries up to 48 guests.",
+  "standouts": [
+    "Operating in Barbados since 15 February 1987",
+    "Battery powered submarine that dives to 150 feet",
+    "Green Globe certified since 2012",
+    "Free cancellation up to 24 hours before check-in"
+  ],
+  "contact": {
+    "phone": "+1 (246) 436-8929",
+    "email": "bdsres@atlantissubmarines.com",
+    "address": "P.O. Box 394, The Shallow Draught, Bridgetown, BB 11142, Barbados",
+    "whatsapp": "https://wa.me/+12462431069"
+  },
+  "heroImage": "https://www.barbados.atlantissubmarines.com/cdn/caches/1585x695/2024-08-07-02-55-28-submarine-day-dive.webp",
+  "sourceUrls": [
+    "https://www.barbados.atlantissubmarines.com/",
+    "https://www.barbados.atlantissubmarines.com/our-tours-in-barbados/submarine-day-dive",
+    "https://www.barbados.atlantissubmarines.com/our-tours-in-barbados/submarine-night-dive",
+    "https://www.barbados.atlantissubmarines.com/our-tours-in-barbados/down-under-cave-combo",
+    "https://www.barbados.atlantissubmarines.com/our-tours-in-barbados/tour-upgrade",
+    "https://www.barbados.atlantissubmarines.com/hot-deals",
+    "https://www.barbados.atlantissubmarines.com/payment-method",
+    "https://www.barbados.atlantissubmarines.com/reservation?varCATourID=1",
+    "https://www.barbados.atlantissubmarines.com/faqs",
+    "https://www.barbados.atlantissubmarines.com/contact-us",
+    "https://www.barbados.atlantissubmarines.com/video-gallery",
+    "https://www.barbados.atlantissubmarines.com/photo-gallery"
+  ],
+  "trips": [
+    {
+      "title": "Submarine Day Dive",
+      "kind": "tour",
+      "summary": "A daytime submarine tour from Bridgetown that descends up to 150 feet to see coral reef, tropical fish and the Lord Willoughby shipwreck. A shuttle boat takes guests out to the submarine, where they sit in an air-conditioned cabin facing large viewports. No swimming is needed.",
+      "highlights": [
+        "Dives up to 150 feet",
+        "Views the Lord Willoughby shipwreck at 120 feet",
+        "40 to 45 minutes underwater",
+        "Live narration from the crew"
+      ],
+      "duration": "Approximately 1 hour and 45 minutes (40-45 minutes spent entirely underwater)",
+      "durationMinutes": 105,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "The Shallow Draught, Bridgetown",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 120,
+          "currency": "USD",
+          "note": "Adult Fare"
+        },
+        {
+          "label": "Adult, web deal",
+          "amount": 91,
+          "currency": "USD",
+          "note": "With promo code WEB2026D; government levy to be added"
+        },
+        {
+          "label": "Child (3ft tall to age 17), web deal",
+          "amount": 45.5,
+          "currency": "USD",
+          "note": "With promo code WEB2026D; government levy to be added"
+        },
+        {
+          "label": "Optional roundtrip hotel transfer, Zone 1 (between Atlantis and Oistins on the south coast)",
+          "amount": 12,
+          "currency": "USD",
+          "note": "Per person, added to the tour price"
+        },
+        {
+          "label": "Optional roundtrip hotel transfer, Zone 2 (beyond Oistins on the south coast and all west coast)",
+          "amount": 18,
+          "currency": "USD",
+          "note": "Per person, added to the tour price"
+        }
+      ],
+      "priceFrom": 120,
+      "includes": [
+        "Shuttle boat ride to the submarine",
+        "Narrated commentary"
+      ],
+      "bring": [
+        "Light jacket if you feel the cold in air conditioning",
+        "Comfortable, secure footwear",
+        "Camera (no flash)"
+      ],
+      "requirements": "Children must be at least 3 feet tall. Not wheelchair accessible: guests must be able to climb 11 ladder-type steps on their own. Shirts and shoes required.",
+      "offer": {
+        "text": "Web deal: adults US$91 (was US$120), children 3ft tall to age 17 US$45.50",
+        "conditions": "Use promo code WEB2026D. Government levy to be added. Hotel transfer extra.",
+        "validUntil": null
+      },
+      "images": [
+        "https://www.barbados.atlantissubmarines.com/cdn/caches/1585x695/2024-08-07-02-55-28-submarine-day-dive.webp",
+        "https://www.barbados.atlantissubmarines.com/cdn/caches/805x538/2023-11-03-06-46-20-SubmarineDayDive1.webp",
+        "https://www.barbados.atlantissubmarines.com/cdn/caches/805x538/2023-11-03-06-46-20-SubmarineDayDive2.webp",
+        "https://www.barbados.atlantissubmarines.com/cdn/caches/805x538/2023-11-03-06-46-20-SubmarineDayDive3.webp"
+      ],
+      "bookingLinks": [
+        "https://www.barbados.atlantissubmarines.com/reservation?varCATourID=1"
+      ],
+      "sourceUrl": "https://www.barbados.atlantissubmarines.com/our-tours-in-barbados/submarine-day-dive",
+      "checkNotes": "Duration differs: the tour page says about 1 hour 45 minutes, its fare box says 02:00 Hours and the FAQs say ninety minutes from office departure to return; used the tour text. Departure times are given only as 'Morning and early afternoon departures; seasonal frequency subject to change'. A standard child fare is not shown; child prices appear only with the web deal (hot deals page). The web deal is stated as a discount on the hot deals page; priceFrom uses the standard adult fare. Transfer prices from the hot deals page; the FAQs instead quote a shuttle at $20 BBD per person round trip ($35 BBD for some zones)."
+    },
+    {
+      "title": "Submarine Night Dive",
+      "kind": "tour",
+      "summary": "An evening submarine tour that starts around sunset, when the submarine's lights show the reef's colour and night creatures such as lobsters, eels and lionfish. It dives up to 150 feet off the west coast and spends about 45 minutes underwater.",
+      "highlights": [
+        "Lit by the submarine's LED floodlights",
+        "Night creatures such as eels, lobsters and lionfish",
+        "Dives up to 150 feet",
+        "Runs on designated nights, timed to sunset"
+      ],
+      "duration": "Approximately 2 hours in total, including a 45-minute underwater tour",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "The Shallow Draught, Bridgetown",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 130,
+          "currency": "USD",
+          "note": "Adult Fare"
+        },
+        {
+          "label": "Adult, web deal",
+          "amount": 101,
+          "currency": "USD",
+          "note": "With promo code WEB2026N; government levy to be added"
+        },
+        {
+          "label": "Child (3ft tall to age 12), web deal",
+          "amount": 45.5,
+          "currency": "USD",
+          "note": "With promo code WEB2026N; government levy to be added"
+        },
+        {
+          "label": "Optional roundtrip hotel transfer, Zone 1 (between Atlantis and Oistins on the south coast)",
+          "amount": 12,
+          "currency": "USD",
+          "note": "Per person, added to the tour price"
+        },
+        {
+          "label": "Optional roundtrip hotel transfer, Zone 2 (beyond Oistins on the south coast and all west coast)",
+          "amount": 18,
+          "currency": "USD",
+          "note": "Per person, added to the tour price"
+        }
+      ],
+      "priceFrom": 130,
+      "includes": [
+        "Shuttle boat ride to the submarine",
+        "Narrated commentary"
+      ],
+      "bring": [
+        "Camera (no flash)"
+      ],
+      "requirements": "Children must be at least 3 feet tall. Not wheelchair accessible: guests must be able to climb 11 ladder-type steps on their own. Shirts and shoes required.",
+      "offer": {
+        "text": "Web deal: adults US$101 (was US$130), children 3ft tall to age 12 US$45.50",
+        "conditions": "Use promo code WEB2026N. Government levy to be added. Hotel transfer extra.",
+        "validUntil": null
+      },
+      "images": [
+        "https://www.barbados.atlantissubmarines.com/cdn/caches/1585x695/2024-08-07-02-55-28-submarine-night-dive.webp",
+        "https://www.barbados.atlantissubmarines.com/cdn/caches/805x538/2023-11-03-06-59-05-SubmarineNightDive1.webp",
+        "https://www.barbados.atlantissubmarines.com/cdn/caches/805x538/2023-11-03-06-59-05-SubmarineNightDive2.webp",
+        "https://www.barbados.atlantissubmarines.com/cdn/caches/805x538/2023-11-03-07-00-52-SubmarineNightDive3.webp"
+      ],
+      "bookingLinks": [
+        "https://www.barbados.atlantissubmarines.com/reservation?varCATourID=3"
+      ],
+      "sourceUrl": "https://www.barbados.atlantissubmarines.com/our-tours-in-barbados/submarine-night-dive",
+      "checkNotes": "Departure time 'Varies with sunset'; the FAQs say night dives usually fall between 5 pm and 8 pm. FAQs give ninety minutes total; used the tour page's 2 hours. Standard child fare not shown. The night page's Book Now goes to /reservation?varCATourID=3, while the reservation page's own Night Tour button uses tour id 28."
+    },
+    {
+      "title": "Down & Under Cave Combo",
+      "kind": "tour",
+      "summary": "A one-day package pairing the Atlantis submarine dive with a guided electric tram tour of Harrison's Cave in the centre of the island. RCR Tours drives guests from the submarine to the cave.",
+      "highlights": [
+        "Atlantis submarine dive",
+        "Transfer to Harrison's Cave by RCR Tours",
+        "Guided electric tram ride through Harrison's Cave",
+        "Stalactites, stalagmites and limestone streams"
+      ],
+      "duration": "04:00 Hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "The Shallow Draught, Bridgetown",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 250,
+          "currency": "USD",
+          "note": "Adult Fare"
+        },
+        {
+          "label": "Child",
+          "amount": 180,
+          "currency": "USD",
+          "note": "Child Fare"
+        }
+      ],
+      "priceFrom": 250,
+      "includes": [
+        "Atlantis submarine tour",
+        "Transport from the submarine to Harrison's Cave",
+        "Guided electric tram tour of Harrison's Cave"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.barbados.atlantissubmarines.com/cdn/caches/1585x695/2023-11-03-07-14-58-down-under-cave-combobanner.webp",
+        "https://www.barbados.atlantissubmarines.com/cdn/caches/845x560/2024-11-05-06-32-23-ComboImageLeft.webp"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.barbados.atlantissubmarines.com/our-tours-in-barbados/down-under-cave-combo",
+      "checkNotes": "Booked by email: the page's button is 'Email Us' (contact page) and the combo is commented out of the online reservation page. Child age range for this fare not stated."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "Groups can charter the submarine for a private standard expedition tour for up to 48 guests. Other group options are Tea Under the High Seas, a Five Star Champagne Tour for up to 22 guests, and Sushi Under the Sea, with sushi served in bento boxes during the dive.",
+      "highlights": [
+        "Standard Expedition Tour, 48 guests max",
+        "Five Star Champagne Tour, 22 guests max",
+        "Sushi Under the Sea, 12 person minimum payment",
+        "Tea Under the High Seas"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "The Shallow Draught, Bridgetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.barbados.atlantissubmarines.com/faqs",
+      "checkNotes": "Only described in the FAQs; no prices or page of its own. Reservations and queries by email to bdsres@atlantissubmarines.com."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Priority Seating upgrade at the front of the submarine, next to the pilot's front viewport, US $50.00",
+      "conditions": "Subject to seats being free. The upgrade page currently says 'This tour is currently not available'.",
+      "validUntil": null,
+      "sourceUrl": "https://www.barbados.atlantissubmarines.com/our-tours-in-barbados/tour-upgrade"
+    },
+    {
+      "text": "Discounted rates for children, teens, families and honeymooners on request",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://www.barbados.atlantissubmarines.com/faqs"
+    }
+  ],
+  "checkNotes": "Still trading: the home page shows an October 2026 deal and 2026 promo codes, and the video gallery has a 2026 video. The home page code contains a hidden pop-up saying 'We are temporarily closed in order to complete our annual re-certification', but its trigger is commented out, so it is not shown. Own booking engine at /reservation (choose a date, then check out); cruise ship guests are sent to their cruise line's shore excursion pages. A government levy is added to tickets. After-hours number +1 (246) 243-1069 (also the WhatsApp number). The FAQs say the submarine carries a maximum of 48 guests."
+}

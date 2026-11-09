@@ -1,0 +1,21 @@
+{
+  "slug": "lady-musgrave-experience",
+  "name": "Lady Musgrave Experience",
+  "website": "https://ladymusgraveexperience.com.au",
+  "rezdyAlias": null,
+  "state": "QLD",
+  "town": null,
+  "category": null,
+  "summary": null,
+  "standouts": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "address": null
+  },
+  "heroImage": null,
+  "sourceUrls": [],
+  "trips": [],
+  "offers": [],
+  "checkNotes": "No facts captured. The website answered every request with a captcha challenge (response header sg-captcha: challenge, followed by a redirect to /.well-known/sgcaptcha/) instead of page content, on the homepage with curl's default user agent and again through the page fetcher, which returned an empty page. Per the rules the site was not tried again and no workaround was used, so no pages were read. Name and state are as given in the brief; town, category, summary, contact details, trips, prices, booking links, Rezdy alias and photos are all unknown and left empty. Our list says Lady Musgrave Island lagoon reef day tours and a pontoon from Bundaberg; none of that is confirmed from the site. A person should either open the site in a browser and add the trips by hand, or ask the operator to allow Bluepass to read the site."
+}

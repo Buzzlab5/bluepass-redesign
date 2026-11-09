@@ -1,0 +1,37 @@
+{
+  "slug": "the-scuba-guy-barbados",
+  "logo": "https://images.squarespace-cdn.com/content/v1/6619c302dbce7b2c9046a7be/160e6324-b346-479c-a575-f3835bcec2b0/ScubaGuyLogo1-removebg-preview.png",
+  "gallery": [
+    "https://images.squarespace-cdn.com/content/v1/6619c302dbce7b2c9046a7be/c752bfa2-bca6-4727-b248-3652a6cfbe44/IMG-20240410-WA0002.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6619c302dbce7b2c9046a7be/b7d7268d-a413-4583-a1f5-e21fff195755/IMG-20240410-WA0022.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6619c302dbce7b2c9046a7be/5aeda133-b6e9-40b0-9313-546bd15c5128/7809ECAD-E86A-4008-96E4-501EB98CBF1E.jpeg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "PADI Discover Scuba Diving",
+      "images": []
+    },
+    {
+      "title": "PADI Open Water Course",
+      "images": []
+    },
+    {
+      "title": "PADI Advance Open Water Course",
+      "images": []
+    },
+    {
+      "title": "PADI Rescue Diver Course",
+      "images": []
+    },
+    {
+      "title": "PADI Speciality Courses",
+      "images": []
+    },
+    {
+      "title": "PADI Dive Master Course",
+      "images": []
+    }
+  ],
+  "notes": "Very few own photos. Left out: six Unsplash stock photos on the courses page (file names unsplash-image-*), a PADI promotional photo (Destination_PADI 6.jpg), the PADI logo, and two printed dive maps from other publishers. The aerial pier photo (7809ECAD...jpeg, 800x600) has no credit; check it is the operator's own. The Dive Sites page embeds six YouTube videos, but YouTube lists them under other channels (Wanderlusters, Caribbean Aerial Photography, Barbados Fisheries Division, Geoffrey Morrison and others), so none are recorded. Logo is a 499x499 PNG preview with background removed."
+}

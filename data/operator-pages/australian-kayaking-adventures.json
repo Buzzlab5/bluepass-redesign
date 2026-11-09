@@ -1,0 +1,412 @@
+{
+  "slug": "australian-kayaking-adventures",
+  "name": "Australian Kayaking Adventures",
+  "website": "https://australiankayakingadventures.com.au",
+  "rezdyAlias": "australiankayakingadventures",
+  "state": "QLD",
+  "town": "Surfers Paradise",
+  "category": "Kayak and snorkel tours",
+  "summary": "Guided kayak, snorkel and stand-up paddle board tours on the Gold Coast, including morning and midday dolphin kayak and snorkel trips on the Broadwater and sunset paddles from Budds Beach in Surfers Paradise. Guests use stable sit-on-top kayaks and no experience is needed. Kayak and paddle board hire is also available.",
+  "standouts": [
+    "Family-run, with owner and head guide Steven Vah running kayak and snorkel tours on the Gold Coast for more than 20 years",
+    "Rated 4.9 out of 5 by guests, according to the operator's site",
+    "Aqua II sit-on-top kayaks described as very stable and beginner friendly",
+    "Dolphins regularly sighted on the Broadwater tours"
+  ],
+  "contact": {
+    "phone": "+61 412 940 135",
+    "email": "info@australiankayakingadventures.com.au",
+    "address": "15 River Drive, Surfers Paradise QLD 4217"
+  },
+  "heroImage": "https://www.australiankayakingadventures.com.au/wp-content/uploads/2025/10/IMG_7071-scaled.jpg",
+  "sourceUrls": [
+    "https://www.australiankayakingadventures.com.au/",
+    "https://www.australiankayakingadventures.com.au/kayak-and-snorkel-tours/",
+    "https://www.australiankayakingadventures.com.au/kayak-and-snorkel-tours/morning-dolphin-kayak-snorkel-beach-island-kayak-tour/",
+    "https://www.australiankayakingadventures.com.au/kayak-and-snorkel-tours/broadwater-dolphin-kayaking-snorkeling-tour/",
+    "https://www.australiankayakingadventures.com.au/kayak-and-snorkel-tours/sunset-adventure-kayak-tour/",
+    "https://www.australiankayakingadventures.com.au/kayak-and-snorkel-tours/stand-up-paddle-board-tour/",
+    "https://www.australiankayakingadventures.com.au/kayak-and-snorkel-tours/team-building/",
+    "https://www.australiankayakingadventures.com.au/kayak-and-snorkel-tours/surfer-paradise-kayak-tour/",
+    "https://www.australiankayakingadventures.com.au/kayak-sup-hire/",
+    "https://www.australiankayakingadventures.com.au/book-now/",
+    "https://www.australiankayakingadventures.com.au/gift-vouchers/",
+    "https://www.australiankayakingadventures.com.au/about-us/",
+    "https://www.australiankayakingadventures.com.au/location/",
+    "https://www.australiankayakingadventures.com.au/contact/",
+    "https://www.australiankayakingadventures.com.au/terms-and-conditions/",
+    "https://www.australiankayakingadventures.com.au/reviews/",
+    "https://www.australiankayakingadventures.com.au/blog/",
+    "https://www.australiankayakingadventures.com.au/careers/",
+    "https://www.australiankayakingadventures.com.au/sitemap_index.xml",
+    "https://www.australiankayakingadventures.com.au/page-sitemap.xml",
+    "https://www.australiankayakingadventures.com.au/wp-json/wp/v2/media"
+  ],
+  "trips": [
+    {
+      "title": "Morning Dolphin Kayaking & Snorkeling Tour",
+      "kind": "kayak",
+      "summary": "A three hour guided paddle across the Broadwater on the Gold Coast, keeping an eye out for dolphins, turtles and stingrays. The tour stops at Wavebreak Island for a light continental breakfast on the beach and a snorkel among sub-tropical fish. The guide teaches kayaking and snorkelling first, and life jackets are provided.",
+      "highlights": [
+        "Light continental breakfast on the beach",
+        "Snorkel off the beach at Wavebreak Island",
+        "Dolphins, turtles and stingrays often seen",
+        "Kayak and snorkel instruction from the guide"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [
+        "07:30"
+      ],
+      "season": "Daily, excluding Christmas and New Year",
+      "departsFrom": "464 Marine Parade, Biggera Waters (look for the Australian Kayaking Adventures mini van and kayak trailer)",
+      "prices": [
+        {
+          "label": "Adult, ages 16+",
+          "amount": 119,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child, ages 5-16",
+          "amount": 109,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family",
+          "amount": 429,
+          "currency": "AUD",
+          "note": "Shown as 4 x child price"
+        }
+      ],
+      "priceFrom": 119,
+      "includes": [
+        "Kayak and snorkel instruction from the guide",
+        "Life jackets",
+        "Light continental breakfast on the beach",
+        "All kayaking and snorkelling equipment"
+      ],
+      "bring": [
+        "Swimmers",
+        "Sunglasses",
+        "Footwear that can get wet (thongs or sandals are fine)",
+        "Hat",
+        "Towel",
+        "Sunblock",
+        "Bottle of water"
+      ],
+      "requirements": "Low fitness requirement. Adults 16+, children 5-16. Weight limit 110kg per person and 200kg per kayak. Not recommended from 20 weeks pregnant; get a doctor's advice first. Everyone wears a life jacket, and non-swimmers should tell the guide.",
+      "offer": null,
+      "images": [
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Image-Kayakers-Ocean.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Image-Kayakers.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Kayaker.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Woman-Swimming.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.australiankayakingadventures.com.au/book-now/"
+      ],
+      "sourceUrl": "https://www.australiankayakingadventures.com.au/kayak-and-snorkel-tours/morning-dolphin-kayak-snorkel-beach-island-kayak-tour/",
+      "checkNotes": "No per-trip booking link. The tour page's Book Now buttons go to the site's online booking page, which embeds the operator's booking widget, so that page is recorded in bookingLinks; the widget itself was not opened, so widget prices, times and availability are unchecked. The page also embeds a booking pop-up for Rezdy product 2914 'half-day-dolphin-and-stradbroke-island-tour', an older name that the gift voucher and team building pages still use; this tour page itself does not mention Stradbroke Island. Family price is shown as 4 x child price but the amount is 429, while 4 x 109 is 436. Age bands overlap (adult 16+, child 5-16). Duration (3 hours) is from the Our Tours page and the 7:30am to 10:30am time on the tour page. Title taken from the page heading; the menu adds '7:30am' in front."
+    },
+    {
+      "title": "Broadwater Dolphin Kayaking & Snorkeling Tour",
+      "kind": "kayak",
+      "summary": "A two hour guided paddle on the Southern Moreton Bay waters of the Broadwater, with a kayak lesson before heading to Wavebreak Island. Guests snorkel with sub-tropical fish just off the beach and watch for dolphins, turtles and stingrays on the way. It runs at 11:00am and 1:30pm.",
+      "highlights": [
+        "Kayak lesson from the tour guides",
+        "Snorkel with sub-tropical fish at Wavebreak Island",
+        "Look out for dolphins, turtles and stingrays",
+        "Two departures a day, at 11:00am and 1:30pm"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [
+        "11:00",
+        "13:30"
+      ],
+      "season": "Daily, excluding Christmas and New Year",
+      "departsFrom": "464 Marine Parade, Biggera Waters",
+      "prices": [
+        {
+          "label": "Adult, ages 16+",
+          "amount": 97,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child, ages 5-16",
+          "amount": 89,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 97,
+      "includes": [
+        "Kayak and snorkel instruction from the guide",
+        "Life jackets",
+        "All kayaking and snorkelling equipment"
+      ],
+      "bring": [
+        "Swimmers",
+        "Sunglasses",
+        "Footwear that can get wet (thongs or sandals are fine)",
+        "Hat",
+        "Towel",
+        "Sunblock",
+        "Bottle of water"
+      ],
+      "requirements": "Low fitness requirement. Children 5-16 are priced, but the FAQ says children 6 years and older. Kayak weight limit 110kg per person. Everyone wears a life jacket, and non-swimmers should tell the guide. The tour is subject to weather conditions.",
+      "offer": null,
+      "images": [
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Image-Kayakers-Ocean.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Kayaker.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Woman-Swimming.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Women-Learning-to-Kayak-02.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.australiankayakingadventures.com.au/book-now/"
+      ],
+      "sourceUrl": "https://www.australiankayakingadventures.com.au/kayak-and-snorkel-tours/broadwater-dolphin-kayaking-snorkeling-tour/",
+      "checkNotes": "No per-trip booking link; the Book buttons go to the site's online booking page (booking widget, not opened), recorded in bookingLinks. Duration is worked out from the two time windows on the page (11:00am to 1:00pm and 1:30pm to 3:30pm); the page does not state a duration. This tour is in the menu and has its own page but is not on the Our Tours cards, the home page cards or the gift voucher page, so confirm it is still running. Minimum age conflicts: children 5-16 are priced but the FAQ says 6 years and older. Departure point is '464 Marine Parade Biggera Waters' in the description and 'Marine Parade and Parr Street Biggera Waters' in the FAQ. The dolphin sighting rate the site quotes is a percentage and is not repeated here."
+    },
+    {
+      "title": "Surfers Paradise Sunset Kayak Adventure",
+      "kind": "kayak",
+      "summary": "A guided sunset paddle along the Nerang River in Surfers Paradise, leaving from and returning to Budds Beach. Guests learn to kayak with the guide, paddle past waterfront homes and cross to Macintosh Island to see the peacocks, with the Surfers Paradise skyline in view from the water.",
+      "highlights": [
+        "Departs and returns to Budds Beach",
+        "Learn to kayak with your guide",
+        "Macintosh Island and its local peacocks",
+        "Surfers Paradise skyline from the water"
+      ],
+      "duration": "1.5 hours",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": "Daily, excluding Christmas and New Year",
+      "departsFrom": "Budds Beach, Surfers Paradise (13 River Drive, Surfers Paradise)",
+      "prices": [
+        {
+          "label": "Adult, ages 14+",
+          "amount": 89,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child, ages 5-13",
+          "amount": 79,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family",
+          "amount": 319,
+          "currency": "AUD",
+          "note": "Shown as 4 x child price"
+        }
+      ],
+      "priceFrom": 89,
+      "includes": [
+        "Kayak instruction from the guide",
+        "Life jackets",
+        "All equipment"
+      ],
+      "bring": [
+        "Sunglasses",
+        "Hat",
+        "Bottled water",
+        "Sunblock",
+        "Shoes that can get wet",
+        "Towel",
+        "Swimmers"
+      ],
+      "requirements": "Low fitness requirement. Adults 14+, children 5-13. Everyone wears a life jacket, and non-swimmers should tell the guide.",
+      "offer": null,
+      "images": [
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/6.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/1.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/2.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/3.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.australiankayakingadventures.com.au/book-now/"
+      ],
+      "sourceUrl": "https://www.australiankayakingadventures.com.au/kayak-and-snorkel-tours/sunset-adventure-kayak-tour/",
+      "checkNotes": "Start times are not stated: the page says times vary and to call 0412 940 135 to confirm; the Location page says the same. No per-trip booking link; the Book buttons go to the site's online booking page (booking widget, not opened), recorded in bookingLinks. Duration (1.5 hours) is from the Our Tours and home page cards, not the tour page. The tour page FAQ was copied from another tour: it says tours depart from Marine Pde, Labrador northern boat ramp, in front of the Grand Hotel, and mentions snorkelling equipment. The page description and the Location page both say Budds Beach, so that is used. Family price is shown as 4 x child price but 4 x 79 is 316, not 319. The menu calls this 'Sunset Adventure Kayak Tour'; the page heading is used as the title."
+    },
+    {
+      "title": "Stand-Up Paddle Board Tour",
+      "kind": "tour",
+      "summary": "A guided stand-up paddle board tour on the calm Nerang River, from Budds Beach to Macintosh Island. It suits beginners, with personal coaching in small groups, views of the Surfers Paradise skyline and birdlife along the way. Boards, paddles and life jackets are included.",
+      "highlights": [
+        "Beginner friendly, with personal coaching in small groups",
+        "Surfers Paradise skyline views from the river",
+        "Visit Macintosh Island's waterways and birdlife",
+        "Premium stand-up paddle boards provided"
+      ],
+      "duration": "90 minutes to 2 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Daily, excluding Christmas and New Year",
+      "departsFrom": "Budds Beach, Surfers Paradise (arrive 10 minutes early; street parking nearby)",
+      "prices": [
+        {
+          "label": "Ages 12+",
+          "amount": 89,
+          "currency": "AUD",
+          "note": "Under 16 to be accompanied by an adult"
+        }
+      ],
+      "priceFrom": 89,
+      "includes": [
+        "Premium stand-up paddle board",
+        "Paddle",
+        "Life jacket (PFD)",
+        "Guided tour",
+        "Safety briefing"
+      ],
+      "bring": [
+        "Swimwear or active wear",
+        "Towel",
+        "Sunscreen, hat and sunglasses (with a strap)",
+        "Water bottle",
+        "Light jacket in cooler months"
+      ],
+      "requirements": "Ages 12 and over; under 16s must be accompanied by an adult. Participants should be comfortable in water.",
+      "offer": null,
+      "images": [
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2025/10/IMG_7071-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.australiankayakingadventures.com.au/book-now/"
+      ],
+      "sourceUrl": "https://www.australiankayakingadventures.com.au/kayak-and-snorkel-tours/stand-up-paddle-board-tour/",
+      "checkNotes": "Start times are not stated. Duration is a range from the FAQ (90 minutes to 2 hours); the cards say 1.5 hours. No per-trip booking link; the Book buttons go to the site's online booking page (booking widget, not opened), recorded in bookingLinks. Cancellation text on the page: not refunded if cancelled within 24 hours of the booking time (48 hours for groups); rescheduled or refunded if conditions are unsafe. The page has a short self-hosted video of this tour. The home page's own 'from' wording for this tour is 1.5 hr from $89."
+    },
+    {
+      "title": "Team Building Events",
+      "kind": "tour",
+      "summary": "Group days on the Gold Coast waterways for workplaces, schools, social groups, sporting groups and hens and bucks parties. Options are a half day adventure for up to 18 people, a sunset tour for up to 22 and paddle board and kayak hire for up to 28. Team building tours start from $45 per person with a minimum of 15 people.",
+      "highlights": [
+        "Half day adventure for up to 18 people",
+        "Sunset tour for up to 22 people",
+        "Kayak and paddle board hire for up to 28 people",
+        "Also for schools, sporting groups, social groups and hens and bucks parties"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Team building tour, per person (minimum 15 people)",
+          "amount": 45,
+          "currency": "AUD",
+          "note": "From price"
+        }
+      ],
+      "priceFrom": 45,
+      "includes": [
+        "Half day adventure: light breakfast, snorkelling at Wavebreak Island, a guided walk on South Stradbroke Island and a visit to a surf beach",
+        "Sunset tour: guided paddle around the Surfers Paradise waterways, and a glass of white wine on return if desired"
+      ],
+      "bring": [
+        "Sunglasses",
+        "Hat",
+        "Bottled water",
+        "Sunblock",
+        "Shoes that can get wet",
+        "Towel",
+        "Swimmers"
+      ],
+      "requirements": "Low fitness requirement. From price applies to a minimum of 15 people.",
+      "offer": null,
+      "images": [
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/13.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/11.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/14.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/17.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.australiankayakingadventures.com.au/kayak-and-snorkel-tours/team-building/",
+      "checkNotes": "Booked by phone only ('Call To Book: 0412 940 135'); no booking link. The description mentions both 'a 1 hour, day out' and the three options, so no single duration is recorded. The half day option describes a South Stradbroke Island walk and surf beach visit that the current morning tour page does not mention. Departure points are not stated for this page: its FAQ says Marine Pde, Labrador northern boat ramp, in front of the Grand Hotel, which conflicts with the Location page (half day from 464 Marine Parade, Biggera Waters; sunset and hire from Budds Beach), so departsFrom is left empty. The FAQ also mentions courtesy hotel pick up from Biggera Waters to Mermaid Beach, which no other page repeats."
+    },
+    {
+      "title": "Kayak & Stand Up Paddleboard Hire",
+      "kind": "other",
+      "summary": "Self-guided kayak and stand-up paddle board hire from Budds Beach in Surfers Paradise, with basic safety instructions and suggestions on where to paddle. Single and double kayaks, paddle boards and fishing kayaks with rod holders are available. Hire is booked by phone.",
+      "highlights": [
+        "Single and double kayaks and stand-up paddle boards",
+        "Fishing kayaks with rod holders available",
+        "Life jackets provided",
+        "Paddle to HOTA for a coffee or to Macintosh Island to see peacocks, swans and geese"
+      ],
+      "duration": "1 or 2 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Daily, excluding Christmas and New Year",
+      "departsFrom": "Budds Beach, Surfers Paradise (13 River Drive, Surfers Paradise)",
+      "prices": [
+        {
+          "label": "Single kayak, 2 hours",
+          "amount": 47,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Double kayak, 2 hours",
+          "amount": 67,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Stand-up paddle board, 1 hour",
+          "amount": 37,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Stand-up paddle board, 2 hours",
+          "amount": 57,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 37,
+      "includes": [
+        "Life jackets",
+        "Basic kayak safety instructions and suggested places to visit",
+        "All equipment"
+      ],
+      "bring": [
+        "Sunglasses",
+        "Hat",
+        "Bottled water",
+        "Sunblock",
+        "Shoes that can get wet (thongs or sandals are fine)"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/SUP.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2020/09/sup-page.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-Kayaker.jpg",
+        "https://www.australiankayakingadventures.com.au/wp-content/uploads/2021/08/AKA-People-Walking-on-Beach.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.australiankayakingadventures.com.au/kayak-sup-hire/",
+      "checkNotes": "Booked by phone ('Call To Book: 0412 940 135', 'Call us 7 days a week to book your hire'); no booking link recorded. The page's last button says Book Online Now and goes to the general booking page, but the page text says to call, and the Location page asks guests to call before arrival to check hire availability. This is a self-guided hire, not a guided trip. 'From' price on the cards is 1 hr from $37, which is the one hour paddle board price. Departure address 13 River Drive is from the page FAQ and Location page; the Contact page lists 15 River Drive."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers for the dolphin kayaking and snorkelling tour, the Surfers Paradise sunset kayaking tour, and kayak and stand-up paddle board hire",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://www.australiankayakingadventures.com.au/gift-vouchers/"
+    }
+  ],
+  "checkNotes": "Booking: online booking is a booking widget embedded on the site's own booking page (https://www.australiankayakingadventures.com.au/book-now/); every tour page's Book button goes there, so that page is recorded in bookingLinks for the four tours that show Book Online (morning, Broadwater, sunset, stand-up paddle board). The widget's catalog is on the operator's Rezdy account (rezdyAlias 'australiankayakingadventures'); no Rezdy page was opened, so what it sells, and its prices and times, are unchecked. Team building and hire are phone-only. Not included as a trip: /kayak-and-snorkel-tours/surfer-paradise-kayak-tour/ is in the sitemap but not in the menu or on any card; it mixes text from the morning and sunset tours (snorkelling and breakfast, 'Departs 8am and 1030am', adult 14+ $89, child 5-13 $79, family '2A + 2C' $319) so it looks like an old page. Also not included: a 'Half-Day Dolphin Kayaking & Stradbroke Island Tour' named on the gift voucher page and in the booking pop-up on the morning tour page, which looks like the old name of the morning tour. A pop-up on the home page advertises a discount code with end dates of 15 September 2026 in one line and 31 July 2026 in the terms line; both dates have passed, so it is left out. Conflicts for a person to check: years in business (home page says over 20 years, About page says over 22, tour pages say 15 years and counting; copy says more than 20); review count (header says 128 reviews, home text says over 150); street address (Contact page says 15 River Drive, Location page and hire FAQ say 13 River Drive; Contact page value used for contact.address); FAQs on the sunset and team building pages say tours leave from the Labrador northern boat ramp and offer hotel pick up from Biggera Waters to Mermaid Beach, which conflicts with the Location page. town is set to Surfers Paradise (sunset, paddle board and hire); the two dolphin tours leave from Biggera Waters. Phone shown on the site as 0412 940 135. The site quotes a dolphin sighting rate as a percentage; it is not repeated. Standout about guest rating uses the 4.9 out of 5 shown in the site header. Terms page: prices can change without notice, return times are approximate, itineraries can change with weather and safety, and a cancellation within 24 hours is not refunded. A liability waiver is linked from the footer (not opened). Facebook and Instagram were not read. Pages not read: covid-19 and privacy-policy."
+}

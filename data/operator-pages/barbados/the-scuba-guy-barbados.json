@@ -1,0 +1,278 @@
+{
+  "slug": "the-scuba-guy-barbados",
+  "name": "The Scuba Guy Barbados",
+  "website": "https://www.scubaguybarbados.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Carlisle Bay",
+  "category": "Scuba diving and PADI courses",
+  "summary": "A small PADI dive operation on Brownes Beach in Carlisle Bay, run by owner and lead instructor Rajiv Grant. It teaches PADI courses from a first try-dive through to Dive Master, with dives in Carlisle Bay Marine Park and its six shallow shipwrecks. Groups are kept small.",
+  "standouts": [
+    "Owner and lead instructor Rajiv Grant is a PADI Master Scuba Diver Trainer with over 15 years of diving experience",
+    "PADI courses from Discover Scuba Diving to Dive Master",
+    "Small group sizes",
+    "Course prices include all gear"
+  ],
+  "contact": {
+    "phone": "+1 246 233 3652",
+    "email": "admin@scubaguybarbados.com",
+    "address": "Brownes Beach, Bridgetown, Barbados",
+    "whatsapp": "https://wa.me/message/NN2F2OSCIPT5J1"
+  },
+  "heroImage": "https://images.squarespace-cdn.com/content/v1/6619c302dbce7b2c9046a7be/c752bfa2-bca6-4727-b248-3652a6cfbe44/IMG-20240410-WA0002.jpg",
+  "sourceUrls": [
+    "https://www.scubaguybarbados.com/",
+    "https://www.scubaguybarbados.com/divesites",
+    "https://www.scubaguybarbados.com/about",
+    "https://www.scubaguybarbados.com/contact",
+    "https://www.scubaguybarbados.com/padiscubacourses",
+    "https://www.scubaguybarbados.com/sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "PADI Discover Scuba Diving",
+      "kind": "dive",
+      "summary": "A half-day introduction to scuba for people with no experience. Instructors teach the basic skills in a safe setting before guests dive among fish and wrecks. All gear is provided.",
+      "highlights": [
+        "Half-day session",
+        "No experience needed",
+        "Taught by PADI instructors",
+        "All gear included"
+      ],
+      "duration": "Half-day session",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Brownes Beach, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Discover Scuba Diving, per person",
+          "amount": 125,
+          "currency": "USD",
+          "note": "This price includes all gear"
+        },
+        {
+          "label": "Discover Scuba Diving, per person",
+          "amount": 250,
+          "currency": "BBD",
+          "note": "This price includes all gear"
+        }
+      ],
+      "priceFrom": 125,
+      "includes": [
+        "All gear"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.scubaguybarbados.com/padiscubacourses",
+      "checkNotes": "Prices do not include the online portions of the courses (stated on the courses page). Booking by contact form, email, phone or WhatsApp; no online booking. Course page photos are Unsplash stock, so no trip images recorded."
+    },
+    {
+      "title": "PADI Open Water Course",
+      "kind": "course",
+      "summary": "The PADI entry-level certification, with pool skills practice and open water dives. On completion divers are certified to dive to 18 metres (60 feet) anywhere in the world. All gear is included.",
+      "highlights": [
+        "Pool skills and open water dives",
+        "Certifies divers to 18 metres (60 feet)",
+        "PADI certification recognised worldwide",
+        "All gear included"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Brownes Beach, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Open Water Course, per person",
+          "amount": 380,
+          "currency": "USD",
+          "note": "This price includes all gear"
+        },
+        {
+          "label": "Open Water Course, per person",
+          "amount": 760,
+          "currency": "BBD",
+          "note": "This price includes all gear"
+        }
+      ],
+      "priceFrom": 380,
+      "includes": [
+        "All gear"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.scubaguybarbados.com/padiscubacourses",
+      "checkNotes": "Prices do not include the online portions of the courses (stated on the courses page). Booking by contact form, email, phone or WhatsApp; no online booking. Course page photos are Unsplash stock, so no trip images recorded."
+    },
+    {
+      "title": "PADI Advance Open Water Course",
+      "kind": "course",
+      "summary": "A next-step PADI course built from adventure dives such as wreck, night, navigation or buoyancy dives. It certifies divers to 30 metres (100 feet). All gear is included.",
+      "highlights": [
+        "Choose adventure dives such as wreck, night or peak performance buoyancy",
+        "Certifies divers to 30 metres (100 feet)",
+        "Navigation skills",
+        "All gear included"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Brownes Beach, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Advanced Open Water Course, per person",
+          "amount": 400,
+          "currency": "USD",
+          "note": "This price includes all gear"
+        },
+        {
+          "label": "Advanced Open Water Course, per person",
+          "amount": 800,
+          "currency": "BBD",
+          "note": "This price includes all gear"
+        }
+      ],
+      "priceFrom": 400,
+      "includes": [
+        "All gear"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.scubaguybarbados.com/padiscubacourses",
+      "checkNotes": "Prices do not include the online portions of the courses (stated on the courses page). Booking by contact form, email, phone or WhatsApp; no online booking. Course page photos are Unsplash stock, so no trip images recorded."
+    },
+    {
+      "title": "PADI Rescue Diver Course",
+      "kind": "course",
+      "summary": "A PADI course on preventing and handling problems in the water, from managing stress to emergency scenarios and rescue techniques. All gear is included.",
+      "highlights": [
+        "Recognising and managing stress in yourself and others",
+        "Emergency scenarios and rescue techniques",
+        "All gear included"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Brownes Beach, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Rescue Diver Course, per person",
+          "amount": 450,
+          "currency": "USD",
+          "note": "This price includes all gear"
+        },
+        {
+          "label": "Rescue Diver Course, per person",
+          "amount": 900,
+          "currency": "BBD",
+          "note": "This price includes all gear"
+        }
+      ],
+      "priceFrom": 450,
+      "includes": [
+        "All gear"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.scubaguybarbados.com/padiscubacourses",
+      "checkNotes": "Prices do not include the online portions of the courses (stated on the courses page). Booking by contact form, email, phone or WhatsApp; no online booking. Course page photos are Unsplash stock, so no trip images recorded."
+    },
+    {
+      "title": "PADI Speciality Courses",
+      "kind": "course",
+      "summary": "PADI specialty courses such as underwater photography, wreck diving, night diving and Enriched Air Diver. Prices depend on the specialty. All gear is included.",
+      "highlights": [
+        "Underwater photography, wreck diving, night diving and Enriched Air Diver among the options",
+        "Price depends on the course",
+        "All gear included"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Brownes Beach, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Specialty course, from",
+          "amount": 200,
+          "currency": "USD",
+          "note": "Range shown as $200.00us /$400.00bb to $400us / $800bb; this price includes all gear"
+        },
+        {
+          "label": "Specialty course, from",
+          "amount": 400,
+          "currency": "BBD",
+          "note": "Range shown as $200.00us /$400.00bb to $400us / $800bb"
+        },
+        {
+          "label": "Specialty course, up to",
+          "amount": 400,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Specialty course, up to",
+          "amount": 800,
+          "currency": "BBD",
+          "note": null
+        }
+      ],
+      "priceFrom": 200,
+      "includes": [
+        "All gear"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.scubaguybarbados.com/padiscubacourses",
+      "checkNotes": "Prices do not include the online portions of the courses (stated on the courses page). Booking by contact form, email, phone or WhatsApp; no online booking. Course page photos are Unsplash stock, so no trip images recorded."
+    },
+    {
+      "title": "PADI Dive Master Course",
+      "kind": "course",
+      "summary": "The first professional level in PADI diving, covering dive theory, rescue skills, assisting instructors and leading guided dives. All gear is included.",
+      "highlights": [
+        "Learn to assist instructors and lead guided dives",
+        "Dive theory and rescue skills",
+        "All gear included"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Brownes Beach, Carlisle Bay, Bridgetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All gear"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.scubaguybarbados.com/padiscubacourses",
+      "checkNotes": "No price shown on the page. Prices do not include the online portions of the courses (stated on the courses page). Booking by contact form, email, phone or WhatsApp; no online booking. Course page photos are Unsplash stock, so no trip images recorded."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "The site lists PADI courses only; it does not price or describe fun dives for certified divers, though the home page talks about guided dives in Carlisle Bay Marine Park. Two emails: rajiv@scubaguybarbados.com in the footer and admin@scubaguybarbados.com on the contact page (used here). Hours Monday to Saturday, 8:30am to 4pm. Pages were last updated between May 2024 and March 2025 (sitemap dates) and the About page still has template placeholders ('[Your Location]', '[Your Dive Company Name]'); the batch lists the business as active, so it is built, but trading status is worth confirming."
+}

@@ -1,0 +1,189 @@
+{
+  "slug": "albany-ocean-adventures",
+  "name": "Albany Ocean Adventures",
+  "website": "https://whales.com.au",
+  "rezdyAlias": "whales",
+  "state": "WA",
+  "town": "Albany",
+  "category": "Whale watching cruises",
+  "summary": "Whale watching and scenic cruises out of Albany, Western Australia, hosted by skipper Paul Guest on a 19.6m catamaran. Whale watching cruises leave the town marina at 9.30am and 1pm daily from June to October, with a hydrophone on board to hear whales underwater. Scenic cruises pass historic sites around Albany and come with commentary on its maritime history.",
+  "standouts": [
+    "Hydrophone on board to listen to whales underwater",
+    "19.6m aluminium catamaran with a protected viewing deck and club lounges",
+    "Wheelchair and pram access",
+    "Full commentary from skipper Paul Guest on the whales and Albany's maritime history"
+  ],
+  "contact": {
+    "phone": "+61 428 429 876",
+    "email": "info@whales.com.au",
+    "address": "5/A Toll Place, Albany WA (near the town marina)"
+  },
+  "heroImage": "https://static.wixstatic.com/media/989851_557eb0fa5f264c59b119a3e3575ac8fa~mv2.jpg",
+  "sourceUrls": [
+    "https://www.whales.com.au/",
+    "https://www.whales.com.au/about",
+    "https://www.whales.com.au/contact",
+    "https://www.whales.com.au/buy-a-ticket",
+    "https://www.whales.com.au/product-page/whale-watching-tour",
+    "https://www.whales.com.au/product-page/child-whale-tour",
+    "https://www.whales.com.au/product-page/pensioner-whale-watching-tour",
+    "https://www.whales.com.au/product-page/family-whale-watching-tour",
+    "https://www.whales.com.au/whale-info",
+    "https://www.whales.com.au/sightings",
+    "https://www.whales.com.au/video",
+    "https://www.whales.com.au/testimonials",
+    "https://www.whales.com.au/2015-whale-pics",
+    "https://www.whales.com.au/2016-whale-pics",
+    "https://www.whales.com.au/gallery",
+    "https://www.whales.com.au/single-post/2018/06/11/a-southern-right-cow",
+    "https://www.whales.com.au/single-post/2018/06/13/whales-breaching-but-swell-running",
+    "https://www.whales.com.au/single-post/2018/06/14/9-humpbacks-for-todays-cruise",
+    "https://www.whales.com.au/single-post/2018/06/16/humpback-highway",
+    "https://www.whales.com.au/single-post/2018/06/17/someone-is-looking-after-us",
+    "https://www.whales.com.au/single-post/2018/06/21/30-plus-whales-today",
+    "https://www.whales.com.au/single-post/2018/06/22/misty-day-making-photography-hard",
+    "https://www.whales.com.au/single-post/2018/06/23/a-little-show-off",
+    "https://www.whales.com.au/single-post/2019/07/17/humpback-highway",
+    "https://www.whales.com.au/single-post/2019/07/18/no-tail-flukes",
+    "https://www.whales.com.au/sitemap.xml",
+    "https://www.whales.com.au/pages-sitemap.xml",
+    "https://www.whales.com.au/store-products-sitemap.xml",
+    "https://www.youtube.com/user/AlbanyOceanAdventure/videos"
+  ],
+  "trips": [
+    {
+      "title": "Whale Watching Tour",
+      "kind": "cruise",
+      "summary": "A whale watching cruise of 2.5 to 3 hours on a 19.6m catamaran, leaving Albany's new marina at 9.30am and 1pm daily from June to October, subject to numbers and weather. There is seating in club lounges with tables and on a protected viewing deck, and a hydrophone picks up whale sounds underwater. Captain Paul gives commentary on the whales and Albany's whaling history, and locally roasted coffee or tea and cake come with the cruise.",
+      "highlights": [
+        "Departs 9.30am and 1pm daily in season, subject to numbers and weather",
+        "Hydrophone to listen to whales underwater",
+        "Protected viewing deck and club lounges with tables",
+        "Family friendly, with wheelchair and pram access"
+      ],
+      "duration": "2.5 - 3 hours",
+      "durationMinutes": null,
+      "departureTimes": [
+        "09:30",
+        "13:00"
+      ],
+      "season": "June to October",
+      "departsFrom": "Albany's new marina, off Princess Royal Drive near the town centre (booking office at 5/A Toll Place, closest to the Due South car park)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 130,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Senior",
+          "amount": 120,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (5 to 16 years)",
+          "amount": 65,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family 2+2",
+          "amount": 350,
+          "currency": "AUD",
+          "note": "Children 5 to 16 years of age"
+        },
+        {
+          "label": "Under 5 years",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free (stated beside the family price)"
+        }
+      ],
+      "priceFrom": 130,
+      "includes": [
+        "Locally roasted plunger coffee or tea and chocolate or carrot cake",
+        "Full commentary from Captain Paul",
+        "Hydrophone to listen to whales underwater"
+      ],
+      "bring": [],
+      "requirements": "Wheelchair and pram access available.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/989851_193d1477020e4ef9863837d78ef1654f.jpg",
+        "https://static.wixstatic.com/media/989851_36dfd27b6e324cedbd0120439c737ce9.jpg",
+        "https://static.wixstatic.com/media/989851_9d2d8a2143f947a78ff93afdaab8f67f.jpg",
+        "https://static.wixstatic.com/media/989851_3f8179fb69aa42668e3d1d1f689167f8.jpg"
+      ],
+      "bookingLinks": [
+        "https://whales.rezdy.com/catalog/277735/tours"
+      ],
+      "sourceUrl": "https://www.whales.com.au/",
+      "checkNotes": "PRICE CONFLICT: the Home page ticket list shows Adult $130, Seniors 120.00 (printed with no dollar sign), Children $65, Family 2+2 $350 (children 5 to 16, under 5 free). The Buy a Ticket page and the four product pages show lower prices for a 'Whale Watching Adventure': Adults $100, Seniors $90, Children $60, Family 2+2 $285, marked 'prices subject to change without prior notice'. Could not tell which is current; used the Home page because it lists every trip and the family and under 5 terms. Confirm with the operator before publishing. Booking link is the shared Rezdy catalog button (whales.rezdy.com/catalog/277735/tours) on every page, not a per-trip link; it was not opened, so product IDs and the prices and times inside it are unchecked. The Buy a Ticket page is a pay-after-booking store ('Have you booked your seat? Great! Now buy a ticket') where guests type their group size, date and time; the product pages give a booking phone number of 0428 42 9876. Duration is shown as '2.5 - 3 hours'. Departures are 'subject to numbers and weather' with no minimum number stated. Refunds are given if the trip is cancelled due to weather. 'Family 2+2' is not defined on the site beyond the children's ages. The site says payment by credit card is accepted and a PayPal account is not needed. The Home page also calls the vessel the most stable whale watching vessel of its size in WA waters, and the Whale Info and Sightings pages give sighting accounts and counts; none of these are repeated here."
+    },
+    {
+      "title": "Scenic Cruises",
+      "kind": "cruise",
+      "summary": "A scenic cruise past the decommissioned whale chaser Cheynes II, Camp Quaranup, Point King Lighthouse and the whale museum. The skipper talks through highlights of Albany's maritime history, and the crew serve complimentary tea and coffee.",
+      "highlights": [
+        "Passes the decommissioned whale chaser Cheynes II",
+        "Camp Quaranup and Point King Lighthouse",
+        "Skipper's commentary on Albany's maritime history",
+        "Complimentary tea and coffee"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 100,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Senior",
+          "amount": 90,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (5 to 16 years)",
+          "amount": 50,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family 2+2",
+          "amount": 280,
+          "currency": "AUD",
+          "note": "Children 5 to 16 years of age"
+        },
+        {
+          "label": "Under 5 years",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free (stated beside the family price)"
+        }
+      ],
+      "priceFrom": 100,
+      "includes": [
+        "Complimentary tea and coffee"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://whales.rezdy.com/catalog/277735/tours"
+      ],
+      "sourceUrl": "https://www.whales.com.au/",
+      "checkNotes": "The site says only 'Scenic Cruises Also Available'. No duration, departure times, season or departure point is stated, so all are null. Prices are from the Home page ticket list (Adult $100, Seniors $90, Children $50, Family 2+2 $280, children 5 to 16, under 5 free); the Buy a Ticket store has no scenic cruise product. Booking link is the shared Rezdy catalog button, not a per-trip link; it was not opened. No photo on the site is labelled for this cruise."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "SITE AGE: this is an old Wix site (footer 2015, newest blog post July 2019, the About page has a blank 'Since ........' placeholder). The sitemap shows pages republished 20 July 2026, but nothing confirms the prices, times or season are current for 2026. LEFT OUT: 'Summer Sun-Downer' appears only in the Home page ticket list (Adults $70, Seniors $65, Children $40, Family 2+2 $200) with no description, time, duration, season or departure point, so it is not listed as a trip; confirm whether it runs. The About page says Paul has also operated dolphin watching, scuba diving and functions onboard, but no page describes or prices these, so they are not included. Our list described a fast vessel; the site's visible text calls the boat stable, while the site's search description calls it the largest and fastest whale watching vessel. Neither is repeated. VESSEL: the Home page calls the boat 'Albany Ocean Adventures'; the About page names it Silver Star II, an aluminium catamaran built in 1990 and refitted in 2007, 2 x 360 hp Volvo engines, cruising 15 to 18 knots (maximum 21), with passenger surveys 1-C for 60 and 1-D for 100. BOOKING: every 'BUY YOUR TICKET HERE' button links to the shared Rezdy catalog at whales.rezdy.com/catalog/277735/tours; no per-trip Rezdy links appear on the site and the catalog was not opened. See the price conflict on the Whale Watching Tour. Bookings and information also by phone and WhatsApp (+61 428 429 876) and the email address. SIGHTINGS: the Whale Info page and the Sightings blog describe when humpback and southern right whales pass Albany and give counts; none repeated. Facebook, Instagram, TripAdvisor and Google Plus links were not opened. The business name is used as Albany Ocean Adventures in the page title and address; the Home page heading and the YouTube channel say Albany Whale Adventures."
+}

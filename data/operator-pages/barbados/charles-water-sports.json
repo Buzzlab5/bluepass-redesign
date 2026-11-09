@@ -1,0 +1,471 @@
+{
+  "slug": "charles-water-sports",
+  "name": "Charles Water Sports",
+  "website": "https://watersportsbb.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "St Lawrence Gap",
+  "category": "Beach watersports rentals",
+  "summary": "A beach watersports business on Dover Beach run by Charles Pilgrim, who has over thirty-five years in sea sports and says he was the first Barbadian to introduce windsurfing to the island. It hires out sailing dinghies, small catamarans, windsurfers, surfboards, paddle boards, kayaks, snorkel gear and jet skis, with instructors for sailing and windsurfing, and sells a turtle swimming trip. Book by phone or at the beach.",
+  "standouts": [
+    "Charles Pilgrim has over thirty-five years of experience in sea sports",
+    "Says he was the first Barbadian to introduce windsurfing to the island",
+    "Sailing and windsurfing with an instructor",
+    "Two live webcams of Dover Beach linked from the site"
+  ],
+  "contact": {
+    "phone": "+1 246 240 0463",
+    "email": null,
+    "address": "Charles Water Sports - Dover Beach, Dover Christ Church, BB15020, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://watersportsbb.com/images/main_bg.jpeg",
+  "sourceUrls": [
+    "https://watersportsbb.com/",
+    "https://watersportsbb.com/terms-and-conditions.html",
+    "https://watersportsbb.com/css/custom.css"
+  ],
+  "trips": [
+    {
+      "title": "Turtle Trip (Swimming with Turtles)",
+      "kind": "snorkel",
+      "summary": "A trip to swim with sea turtles, priced per person. The site gives no times, duration or meeting details.",
+      "highlights": [
+        "Swimming with turtles",
+        "Priced per person"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Dover Beach, Christ Church",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 60,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 60,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://watersportsbb.com/",
+      "checkNotes": "From the home page price list ('* all prices quoted in US dollars'). Book by phone or at the beach; no online booking. No duration, times, inclusions or turtle feeding claim on the site; check how the trip runs and where it goes."
+    },
+    {
+      "title": "Jet Ski",
+      "kind": "other",
+      "summary": "Jet ski hire from Dover Beach in 30 minute sessions.",
+      "highlights": [
+        "30 minute sessions"
+      ],
+      "duration": "30 mins",
+      "durationMinutes": 30,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Dover Beach, Christ Church",
+      "prices": [
+        {
+          "label": "30 mins",
+          "amount": 80,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://watersportsbb.com/",
+      "checkNotes": "Jet ski tour. From the home page price list ('* all prices quoted in US dollars'). Book by phone or at the beach; no online booking. Price appears to be per jet ski for 30 minutes; the site does not say per person or per ski, so priceFrom left null. No age rules stated."
+    },
+    {
+      "title": "Sailing (Sunfish)",
+      "kind": "sail",
+      "summary": "Hire a Sunfish sailing dinghy from the beach by the hour or the day.",
+      "highlights": [
+        "By the hour or the day"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Dover Beach, Christ Church",
+      "prices": [
+        {
+          "label": "An hour",
+          "amount": 45,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "A day",
+          "amount": 160,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://watersportsbb.com/",
+      "checkNotes": "From the home page price list ('* all prices quoted in US dollars'). Book by phone or at the beach; no online booking. Rental prices, not per person; priceFrom left null."
+    },
+    {
+      "title": "Sailing (Topper)",
+      "kind": "sail",
+      "summary": "Hire a Topper sailing dinghy by the hour, day or week, or in seven hour blocks, with the option of sailing with an instructor.",
+      "highlights": [
+        "By the hour, day or week",
+        "7 hour blocks",
+        "Instructor option"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Dover Beach, Christ Church",
+      "prices": [
+        {
+          "label": "An hour",
+          "amount": 35,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "A day",
+          "amount": 150,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "A week",
+          "amount": 600,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "7 hour blocks",
+          "amount": 175,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "With instructor",
+          "amount": 315,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://watersportsbb.com/",
+      "checkNotes": "From the home page price list ('* all prices quoted in US dollars'). Book by phone or at the beach; no online booking. The site does not say what time period the 'With instructor' price covers. Rental prices, not per person; priceFrom left null."
+    },
+    {
+      "title": "Sailing (Hobbie Cat)",
+      "kind": "sail",
+      "summary": "Hire a small catamaran for a 30 to 45 minute sail, a full day or a seven hour block, with an instructor option.",
+      "highlights": [
+        "30 to 45 minute sails",
+        "Day hire and 7 hour blocks",
+        "Instructor option"
+      ],
+      "duration": "30-45 minutes",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Dover Beach, Christ Church",
+      "prices": [
+        {
+          "label": "30-45 minutes",
+          "amount": 75,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "A day",
+          "amount": 275,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "7 hour blocks",
+          "amount": 255,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "With instructor",
+          "amount": 300,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://watersportsbb.com/",
+      "checkNotes": "From the home page price list ('* all prices quoted in US dollars'). Book by phone or at the beach; no online booking. Spelled 'Hobbie Cat' on the site. The 7 hour block is priced lower than a day. The site does not say what the 'with instructor' price covers. Rental prices, not per person; priceFrom left null."
+    },
+    {
+      "title": "Windsurfing",
+      "kind": "other",
+      "summary": "Windsurf board hire by the hour, day or seven hour block, with the option of an instructor.",
+      "highlights": [
+        "By the hour or day",
+        "7 hour blocks",
+        "Instructor option"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Dover Beach, Christ Church",
+      "prices": [
+        {
+          "label": "An hour",
+          "amount": 35,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "A day",
+          "amount": 120,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "7 hour blocks",
+          "amount": 160,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "With instructor",
+          "amount": 275,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://watersportsbb.com/",
+      "checkNotes": "From the home page price list ('* all prices quoted in US dollars'). Book by phone or at the beach; no online booking. The site does not say what the 'with instructor' price covers. Rental prices, not per person; priceFrom left null."
+    },
+    {
+      "title": "Surf Boards",
+      "kind": "other",
+      "summary": "Surfboard hire from Dover Beach by the hour, day or week.",
+      "highlights": [
+        "By the hour, day or week"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Dover Beach, Christ Church",
+      "prices": [
+        {
+          "label": "An hour",
+          "amount": 25,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "A day",
+          "amount": 80,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "A week",
+          "amount": 220,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://watersportsbb.com/",
+      "checkNotes": "From the home page price list ('* all prices quoted in US dollars'). Book by phone or at the beach; no online booking. Rental prices; priceFrom left null."
+    },
+    {
+      "title": "Paddle Board",
+      "kind": "other",
+      "summary": "Stand up paddle board hire from Dover Beach, priced per person.",
+      "highlights": [
+        "Priced per person"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Dover Beach, Christ Church",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 30,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 30,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://watersportsbb.com/",
+      "checkNotes": "From the home page price list ('* all prices quoted in US dollars'). Book by phone or at the beach; no online booking. Time period for the paddle board price not stated."
+    },
+    {
+      "title": "Kayaks",
+      "kind": "kayak",
+      "summary": "Single and double kayak hire from Dover Beach for 30 to 45 minutes, a day or a seven hour block.",
+      "highlights": [
+        "Single or double kayaks",
+        "30 to 45 minutes, a day or 7 hour blocks"
+      ],
+      "duration": "30-45 min",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Dover Beach, Christ Church",
+      "prices": [
+        {
+          "label": "Single, 30-45 min",
+          "amount": 15,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Double, 30-45 min",
+          "amount": 25,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Single, a day",
+          "amount": 75,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Double, a day",
+          "amount": 100,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Single, 7 hour block",
+          "amount": 100,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Double, 7 hour block",
+          "amount": 150,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://watersportsbb.com/",
+      "checkNotes": "From the home page price list ('* all prices quoted in US dollars'). Book by phone or at the beach; no online booking. The 7 hour block is priced higher than a day for kayaks. Rental prices per kayak; priceFrom left null."
+    },
+    {
+      "title": "Snorkeling (Mask/Snorkel)",
+      "kind": "snorkel",
+      "summary": "Mask and snorkel hire for swimming off Dover Beach, by the hour, day or week.",
+      "highlights": [
+        "By the hour, day or week"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Dover Beach, Christ Church",
+      "prices": [
+        {
+          "label": "An hour",
+          "amount": 15,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "A day",
+          "amount": 25,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "A week",
+          "amount": 60,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Mask",
+        "Snorkel"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://watersportsbb.com/",
+      "checkNotes": "From the home page price list ('* all prices quoted in US dollars'). Book by phone or at the beach; no online booking. Gear hire only, not a guided trip. Masks are also sold at $10 each. priceFrom left null."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift Cards Available",
+      "conditions": "Sold through the Carib Market shop linked from the site (https://charleswatersports.carib.market/shop)",
+      "validUntil": null,
+      "sourceUrl": "https://watersportsbb.com/"
+    }
+  ],
+  "checkNotes": "Single page site with no dates or years anywhere, so it cannot confirm current trading on its own; the list marks it active. The email address is hidden by Cloudflare email protection on the page and was not decoded. Town set to St Lawrence Gap as the area around Dover Beach; the site gives 'Dover Christ Church'. All prices are stated in US dollars on the price list; it also sells masks ($10 each) and T-shirts ($19 each). The site says 'Hikes, Tours and Camping are available at Carib Market Shop' (another site, not read). The header logo's alt text reads 'Smart Media', the web developer's name."
+}

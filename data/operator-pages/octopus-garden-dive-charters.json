@@ -1,0 +1,375 @@
+{
+  "slug": "octopus-garden-dive-charters",
+  "name": "Octopus Garden Dive Charters",
+  "website": "https://octopusgardendivecharters.com.au",
+  "rezdyAlias": null,
+  "state": "WA",
+  "town": "Bunbury",
+  "category": "Dive charters and cruises",
+  "summary": "Scuba dive charters and cruises from Casuarina Boat Harbour in Bunbury, on Cross Country, a 36 foot aluminium vessel that carries a maximum of 10 passengers. Most dives are on the FV Lena wreck, sunk in December 2003 in 18 metres, and on local reefs. Skipper Kim is a PADI Dive Master with over 40 years of boating and diving experience.",
+  "standouts": [
+    "Quality Tourism Accredited Business (badge shown on the website)",
+    "Skipper Kim is a PADI Dive Master with over 40 years' experience in boating and scuba diving",
+    "A maximum of 10 guests on each dive charter",
+    "All cruises and dive charters are eco tours, with no fishing or spear fishing"
+  ],
+  "contact": {
+    "phone": "+61 417 794 008",
+    "email": "allseacharters@gmail.com",
+    "address": "Service Wharf, Bunbury Casuarina Harbour (next to Bailey's Marine Fuel Depot), Bunbury WA"
+  },
+  "heroImage": "https://octopusgardendivecharters.com.au/cruises/wp-content/uploads/2020/09/cruises.jpg",
+  "sourceUrls": [
+    "https://octopusgardendivecharters.com.au/",
+    "https://octopusgardendivecharters.com.au/about/",
+    "https://octopusgardendivecharters.com.au/our-boat/",
+    "https://octopusgardendivecharters.com.au/dive/",
+    "https://octopusgardendivecharters.com.au/the-lena/",
+    "https://octopusgardendivecharters.com.au/contact/",
+    "https://octopusgardendivecharters.com.au/testimonials/",
+    "https://octopusgardendivecharters.com.au/sitemap_index.xml",
+    "https://octopusgardendivecharters.com.au/page-sitemap.xml",
+    "https://octopusgardendivecharters.com.au/post-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Dive Charters",
+      "kind": "dive",
+      "summary": "Group dive charters from Casuarina Boat Harbour on Cross Country, a 36 foot aluminium vessel carrying a maximum of 10 divers. A trip is a double dive that includes at least one dive on the FV Lena wreck in 18 metres, except on the Blade Coral Reef, Bouvard Reef and Peppermint Grove Reef options. Skipper Kim is a PADI Dive Master and does not supervise divers in the water unless asked.",
+      "highlights": [
+        "Double dive with at least one dive on the FV Lena wreck, in 18 metres",
+        "Maximum 10 divers on each charter",
+        "Enclosed cabin, bathroom and easy diving access",
+        "Complimentary light refreshments on board"
+      ],
+      "duration": "Departs by 8.30am and normally returns no later than 1.30pm",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": "Main dive season is October to April (inclusive); other months on demand and weather permitting",
+      "departsFrom": "Service wharf, Casuarina Boat Harbour, Bunbury",
+      "prices": [
+        {
+          "label": "Dive charter, 1 diver, per diver (excluding gear)",
+          "amount": 150,
+          "currency": "AUD",
+          "note": "Dives within 45 minutes of Casuarina Boat Harbour, maximum depth 18 metres"
+        },
+        {
+          "label": "Dive charter, 2 divers, per head",
+          "amount": 145,
+          "currency": "AUD",
+          "note": "Dives within 45 minutes of Casuarina Boat Harbour; excluding gear"
+        },
+        {
+          "label": "Dive charter, 3 divers, per head",
+          "amount": 140,
+          "currency": "AUD",
+          "note": "Dives within 45 minutes of Casuarina Boat Harbour; excluding gear"
+        },
+        {
+          "label": "Dive charter, 4 divers, per head",
+          "amount": 135,
+          "currency": "AUD",
+          "note": "Dives within 45 minutes of Casuarina Boat Harbour; excluding gear"
+        },
+        {
+          "label": "Dive charter, 5 divers or more, per head",
+          "amount": 130,
+          "currency": "AUD",
+          "note": "Maximum 10 divers; dives within 45 minutes of Casuarina Boat Harbour; excluding gear"
+        },
+        {
+          "label": "Supplement: dives further than 45 minutes from Casuarina Boat Harbour, per head",
+          "amount": 20,
+          "currency": "AUD",
+          "note": "Added to the per-diver price"
+        },
+        {
+          "label": "Gear hire: scuba tank, per tank",
+          "amount": 15,
+          "currency": "AUD",
+          "note": "Other dive gear is available from local dive shops"
+        }
+      ],
+      "priceFrom": 130,
+      "includes": [
+        "Double dive, with at least one dive on the FV Lena (unless the Blade Coral Reef, Bouvard Reef or Peppermint Grove Reef option is chosen)",
+        "Complimentary light refreshments: tea, coffee, cake, cold meat, tomatoes, cheese, fresh bread and chutney",
+        "On many days 3 dives are completed on 2 tanks: one long dive of up to 60 minutes and 2 shorter dives of 20 to 30 minutes each, maximum depth 18 metres",
+        "When a reef dive is included, fresh crayfish are regularly caught and added to the lunch menu at no extra charge"
+      ],
+      "bring": [
+        "Your dive ticket (certification card), and preferably your diving logbooks",
+        "Your own lunch, if you want something more substantial than the light refreshments",
+        "Dive gear: the operator has limited gear for hire; dive shops in Mandurah, Perth and Rockingham can supply other gear, and the Bunbury dive shop no longer hires gear"
+      ],
+      "requirements": "All divers must have a minimum of “Open Water” diving qualification for dives 18 metres and less and a minimum of “Advanced Open Water” for dives over 18 metres. Your “dive ticket” must be available to view, and preferably your diving logbooks. If you are inexperienced (recently qualified with less than 5 boat dives or “rusty” and have not dived within 24 months), then a dive guide will accompany you for an additional fee. We cater for experienced divers and do NOT provide in water dive supervision unless specifically requested.",
+      "offer": null,
+      "images": [
+        "https://octopusgardendivecharters.com.au/cruises/wp-content/uploads/2020/09/diver-at-lena.jpg",
+        "https://octopusgardendivecharters.com.au/cruises/wp-content/uploads/2020/09/corals-and-fish-1.jpg",
+        "https://octopusgardendivecharters.com.au/cruises/wp-content/uploads/2020/09/the-lena-3.jpg",
+        "https://octopusgardendivecharters.com.au/cruises/wp-content/uploads/2020/09/dive-2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://octopusgardendivecharters.com.au/dive/",
+      "checkNotes": "Prices are on the About page; the Dive page and The Lena page show none and say to call (Paul on 0417794008 in the page text). Sold by phone or email only. The Book Now buttons on the Dive and home pages open a Rezdy booking window for whalewatchingcharters.rezdy.com, an account link with no product in it. That name suggests a different business, so it was not opened or recorded as a booking link; a person should check whose account it is and whether it sells these dive charters. priceFrom 130 is the rate for 5 or more divers; one diver pays 150. Group size is not consistent: the home page says a group of a minimum of 4 up to a maximum of 10 and that individuals are matched with a buddy, while the About page prices groups of 2 and 3. Depth is not consistent: the price and the three-dive description say maximum depth 18 metres, but the dive site list includes Blade Coral Reef at 30 to 33 metres (needs Advanced Open Water) and the price for these deeper sites is not stated. Dive sites listed on the Dive page: FV Lena Dive Wreck 18 metres; Blade Coral Reef 30 to 33 metres; Horseshoe Coral Reefs 15 to 20 metres; Lena Coral Reef 15 to 20 metres; Trevor's Horseshoe Reef 15 metres; Busselton 4-mile reef 15 to 18 metres; Gibbs South Reef Formation 10 to 12 metres; Peter's North and South Reefs 10 to 12 metres; Leather Jacket Caves 10 to 12 metres; Coral Lumps North of Bunbury 10 to 18 metres; the Huts Coral Lumps 10 to 18 metres; Peppy Beach Coral Lumps 10 to 18 metres; Busselton Jetty 8 metres. The fee for a dive guide is not stated. Departure is stated as 'depart by 0830', not a fixed time. The page says no fish or crayfish spearing; crayfish may only be caught by hand or loop and eaten on board. The site says the Lena has 107 species recorded on the home page and more than 110 on the Dive and Lena pages; not repeated here."
+    },
+    {
+      "title": "Scenic Cruises",
+      "kind": "cruise",
+      "summary": "A 1.5 hour cruise from Casuarina Boat Harbour past Bunbury's back beaches, Koombana Bay and the three harbours (Inner, Outer and Boat). Local dolphins regularly approach the boat. It is run for group bookings only, with a maximum of 10 passengers, and longer cruises are priced by negotiation.",
+      "highlights": [
+        "Bunbury's back beaches, Koombana Bay and the Inner, Outer and Boat Harbours",
+        "Local dolphins regularly approach the boat",
+        "Group bookings only, maximum 10 passengers",
+        "Private/Boutique option with no other passengers on board"
+      ],
+      "duration": "1.5 hours",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Service wharf, Casuarina Boat Harbour, Bunbury",
+      "prices": [
+        {
+          "label": "Scenic cruise, per person",
+          "amount": 60,
+          "currency": "AUD",
+          "note": "Minimum rate $120"
+        },
+        {
+          "label": "Children under 5",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "No charge"
+        },
+        {
+          "label": "Scenic cruise, group of 2 passengers (minimum), total",
+          "amount": 120,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Scenic cruise, group of 3 passengers, total",
+          "amount": 160,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Scenic cruise, group of 4 passengers, total",
+          "amount": 200,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Scenic cruise, group of 5 passengers, total",
+          "amount": 240,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Scenic cruise, group of 6 passengers, total",
+          "amount": 280,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Scenic cruise, group of 7 passengers, total",
+          "amount": 320,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Scenic cruise, group of 8 passengers or more (maximum 10), total",
+          "amount": 330,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Supplement: private cruise with no other passengers besides the group, extra (total)",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "The Private/Boutique totals below include this extra, up to the $330 maximum"
+        },
+        {
+          "label": "Private/Boutique scenic cruise, group of 2 passengers (minimum), total",
+          "amount": 220,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Private/Boutique scenic cruise, group of 3 passengers, total",
+          "amount": 260,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Private/Boutique scenic cruise, group of 4 passengers, total",
+          "amount": 300,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Private/Boutique scenic cruise, group of 5 passengers, total",
+          "amount": 330,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Private/Boutique scenic cruise, group of 6 passengers, total",
+          "amount": 330,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Private/Boutique scenic cruise, group of 7 passengers, total",
+          "amount": 330,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Private/Boutique scenic cruise, group of 8 passengers or more (maximum 10), total",
+          "amount": 330,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 60,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://octopusgardendivecharters.com.au/cruises/wp-content/uploads/2020/09/dolphin-1.jpg",
+        "https://octopusgardendivecharters.com.au/cruises/wp-content/uploads/2020/09/dolpin-cruise.jpg",
+        "https://octopusgardendivecharters.com.au/cruises/wp-content/uploads/2020/09/Sight-Seeing-Cruise.jpg",
+        "https://octopusgardendivecharters.com.au/cruises/wp-content/uploads/2020/09/sightseeing.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://octopusgardendivecharters.com.au/about/",
+      "checkNotes": "Sold by phone or email only; the Book Now buttons on the About page are phone links (0417794008). No booking link. The page says $60 per person (minimum rate $120), but the group table does not follow $60 per person beyond 2 passengers (3 passengers $160, 8 or more $330); both are recorded as shown. In the table the first figure is the standard group total and the bold figure is the Private/Boutique total. The Our Boat page prices a Twilight Cruise differently ($80 each for the first 2 adults); recorded as a separate trip. Season is not stated for cruises; the About page only says there are many pleasant days to cruise even in the winter months. Departure times are not stated. Longer cruises are 'price by negotiation'."
+    },
+    {
+      "title": "Twilight Cruise",
+      "kind": "cruise",
+      "summary": "A sunset cruise on Cross Country, leaving about 2 hours before sunset and returning just after. If the sea is rough, the cruise stays in the sheltered waters of Koombana Bay with a short trip out into the Indian Ocean. Guests bring bathers for a twilight dip and their own drinks and nibbles. Morning cruises can be arranged, with times by negotiation.",
+      "highlights": [
+        "Leaves approximately 2 hours before sunset and returns just after sunset",
+        "Sheltered Koombana Bay if the sea is rough",
+        "BYO drinks and nibbles; the operator is not licensed to sell alcohol",
+        "Maximum 10 passengers"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Service wharf, Casuarina Boat Harbour, Bunbury",
+      "prices": [
+        {
+          "label": "Adult, first 2 adults (minimum of 2), each",
+          "amount": 80,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Each additional adult after the first 2",
+          "amount": 40,
+          "currency": "AUD",
+          "note": "Additional-person charge"
+        },
+        {
+          "label": "Children under 12",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "No charge"
+        },
+        {
+          "label": "Maximum charge for the cruise",
+          "amount": 440,
+          "currency": "AUD",
+          "note": "Maximum 10 passengers"
+        },
+        {
+          "label": "Deposit per group booked",
+          "amount": 50,
+          "currency": "AUD",
+          "note": "Booking is essential"
+        },
+        {
+          "label": "Optional extra: 200 litre ice box with 20 kg of ice, each",
+          "amount": 20,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 80,
+      "includes": [],
+      "bring": [
+        "Bathers, for a twilight dip",
+        "Your own drinks and nibbles"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://octopusgardendivecharters.com.au/cruises/wp-content/uploads/2020/09/sunset.jpg",
+        "https://octopusgardendivecharters.com.au/cruises/wp-content/uploads/2020/09/Koombana-Bay-Dolphin-Cruises-Twilight-Cruises.jpg",
+        "https://octopusgardendivecharters.com.au/cruises/wp-content/uploads/2020/09/sunset-Cruise.jpg",
+        "https://octopusgardendivecharters.com.au/cruises/wp-content/uploads/2020/09/cruises.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://octopusgardendivecharters.com.au/our-boat/",
+      "checkNotes": "Enquiry only: the page says booking is essential and to call Kim on 0438 925 011; there is no booking link. Prices come from the Our Boat page. The About page prices Scenic Cruises differently ($60 per person, minimum rate $120, 1.5 hours); it is not clear whether the two are the same outing under two pricing rules, so they are recorded as separate trips. Duration and clock times are not stated (the cruise follows sunset). The $440 maximum charge matches the boat rate on the Functions line, and the ice box line sits under the Functions text on the page. Alcohol: the page says the operator is not licensed to sell alcohol (BYO) and that anyone selling, supplying or consuming alcohol in a public place on the boat needs an Occasional Liquor Licence (about $50, applied for at least 14 days before the event)."
+    },
+    {
+      "title": "Private Functions",
+      "kind": "charter",
+      "summary": "Functions can be held aboard Cross Country at a boat rate of $440 for up to 10 passengers. Guests can bring their own food or have outside caterers deliver it aboard. The vessel is BYO for alcohol because it is not licensed to sell it.",
+      "highlights": [
+        "Boat rate $440 for up to 10 passengers",
+        "Your own food or outside caterers; supply your own crockery and cutlery",
+        "BYO alcohol, with an Occasional Liquor Licence needed if alcohol is sold or supplied",
+        "200 litre ice boxes with 20 kg of ice available"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Service wharf, Casuarina Boat Harbour, Bunbury",
+      "prices": [
+        {
+          "label": "Boat rate for the charter",
+          "amount": 440,
+          "currency": "AUD",
+          "note": "Maximum 10 passengers"
+        },
+        {
+          "label": "Optional extra: 200 litre ice box with 20 kg of ice, each",
+          "amount": 20,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 440,
+      "includes": [],
+      "bring": [
+        "Your own food, or outside caterers can deliver it aboard (crockery and cutlery are not stored on the boat)",
+        "Your own alcohol (BYO)"
+      ],
+      "requirements": "Maximum 10 passengers. The operator is not licensed to sell alcohol. If you or your guests intend to sell/supply or consume alcoholic drinks in a public place (the boat on the water) you will need an Occasional Liquor Licence from the department, at about $50, applied for at least 14 days before the event.",
+      "offer": null,
+      "images": [
+        "https://octopusgardendivecharters.com.au/cruises/wp-content/uploads/2020/09/cruises.jpg",
+        "https://octopusgardendivecharters.com.au/cruises/wp-content/uploads/2020/09/sunset.jpg",
+        "https://octopusgardendivecharters.com.au/cruises/wp-content/uploads/2020/09/sightseeing.jpg",
+        "https://octopusgardendivecharters.com.au/cruises/wp-content/uploads/2020/09/Sight-Seeing-Cruise.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://octopusgardendivecharters.com.au/our-boat/",
+      "checkNotes": "Enquiry only, no booking link. The Our Boat page says to call Kim on 0438 925 011 for bookings. Only the boat rate and the ice box line are priced; duration, start times and season are not stated. The page says the Cross Country was designed for other uses such as sunset cruises, river cruises, scientific survey and commercial dive support; only the functions and cruises above were recorded as trips. The $50 deposit per group is stated in the Twilight Cruise text, so it is recorded there, not here."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Name: the footer reads 'Koombana Bay Dolphin Cruises & Octopus Garden Dive Charters, Bunbury WA' and the site calls the cruises 'Koombana Bay Dolphin Cruises'; the Google Maps listing in the contact page is 'Octopus Garden Marine Charters'. It is one site, one vessel (SPV 344 Cross Country) and one set of contacts, so it is treated as one operator under the name on our list. The site does not redirect to another domain. Booking: there is no per-trip booking link anywhere. The Book Now buttons on the home and Dive pages open a Rezdy window for whalewatchingcharters.rezdy.com (an account link, no product), which was not opened. The account name suggests a different business, so rezdyAlias is null and no booking links are recorded; a person should confirm whose account it is. Every other Book Now button is a phone link (0417794008). Contacts: the Contact page gives 0417794008. The Dive page says call Paul on 0417794008 and call Kim on 0438 925 011; the Our Boat page says call Kim on 0438 925 011. The email address is shown on the site only in Cloudflare's protected form and was decoded from it. The Contact page has a form as well. Prices: the Dive, home and Lena pages show none; the dive prices and Scenic Cruises prices are on the About page and the Twilight Cruise and function prices are on the Our Boat page. No price is dated on the site. Left out of trips: Commercial / Scientific Dive Charters (named on the home page with no description or price); morning cruises by negotiation (folded into the Twilight Cruise text); the FV Lena, which is a dive site on the Dive charters, not a separate trip; limited dive gear and tank hire, which are price lines on the dive trip. No dive courses, pool sessions or retail were found. The Quality Tourism badge links to qualitytourismaustralia.com and no accreditation number or year is shown; check it is current. The About page links to an older domain, octopusgardendive.com, which was not read. The Facebook page linked from the site was not read. The FV Lena species count differs between pages (107 on the home page, more than 110 on the Dive and Lena pages), so it is not stated here."
+}

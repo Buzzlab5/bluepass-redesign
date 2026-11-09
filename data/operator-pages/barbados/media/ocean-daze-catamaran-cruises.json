@@ -1,0 +1,28 @@
+{
+  "slug": "ocean-daze-catamaran-cruises",
+  "logo": "https://static.wixstatic.com/media/452765_a63c690822764ec4a2b99aa8c7f80992~mv2_d_7200_1586_s_2.png",
+  "gallery": [
+    "https://static.wixstatic.com/media/452765_92c34faec2eb4b93ac9cb6340739797e~mv2_d_2688_1792_s_2.jpg",
+    "https://static.wixstatic.com/media/452765_9aede68b7e0b492991b2d5a1de360694~mv2_d_2689_1701_s_2.jpg",
+    "https://static.wixstatic.com/media/452765_de735fbebe134edeb50433543cd5c04b~mv2_d_5547_2909_s_4_2.jpg",
+    "https://static.wixstatic.com/media/452765_2ffc3ec174aa4f469c66b842643e0c85~mv2_d_1903_1486_s_2.jpg",
+    "https://static.wixstatic.com/media/452765_c4643cf8a7374de2a08abe77b061aac9~mv2_d_2731_1379_s_2.jpg",
+    "https://static.wixstatic.com/media/7d5361_f89b4d6457f643cda134807e394aca61~mv2.jpg",
+    "https://static.wixstatic.com/media/7d5361_10d7dbb288b247c19a5e65d77353bc5a~mv2.jpg",
+    "https://static.wixstatic.com/media/7d5361_fb105bc0de56483395b19a45cbe585d4~mv2.jpeg",
+    "https://static.wixstatic.com/media/7d5361_0ee8332b0cd7409690bb40cf13d0c0ca~mv2.jpeg",
+    "https://static.wixstatic.com/media/7d5361_d8fe4a930b8d4107bb71ca9be65e1d23~mv2.jpeg",
+    "https://static.wixstatic.com/media/7d5361_20be3511bc07483a99ca2e634b86e19d~mv2.jpg",
+    "https://static.wixstatic.com/media/7d5361_f311bf2e86ef42fda6f67adcaf39be34~mv2.jpg",
+    "https://static.wixstatic.com/media/7d5361_3737fb5d9ca64a7fa0aab082f5319bc5~mv2.jpg",
+    "https://static.wixstatic.com/media/7d5361_9846984621b24c4189efd94d96d5e009~mv2.jpg",
+    "https://static.wixstatic.com/media/7d5361_2c28dfa2283f41069deada74a6c9a29e~mv2.jpg",
+    "https://static.wixstatic.com/media/7d5361_55a50df99b7f47228fb6afb673254c36~mv2.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    { "title": "Breakfast & Lunch Cruise", "images": ["https://static.wixstatic.com/media/7d5361_ad05b1cb0b5e4d1c9cee807158b8128c~mv2.jpg"] },
+    { "title": "Sunset Cruise", "images": ["https://static.wixstatic.com/media/7d5361_a1abd63ce78042479db1eac3820d161b~mv2.jpg"] }
+  ],
+  "notes": "Wix site. Gallery photos come from the home slideshow and the gallery page; image originals are the static.wixstatic.com media URLs without the resize path. Each package on the Our Packages page has one photo. No videos or YouTube links on the site. No heroImage set beyond the facts file's choice."
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "top-cat-cruises-barbados",
+  "logo": "https://topcatcruisesbarbados.com/wp-content/uploads/2024/09/Asset-4.png",
+  "gallery": [
+    "https://topcatcruisesbarbados.com/wp-content/uploads/2025/02/DSC_1400.jpg",
+    "https://topcatcruisesbarbados.com/wp-content/uploads/2025/02/DSC_1438.jpg",
+    "https://topcatcruisesbarbados.com/wp-content/uploads/2025/02/DSC_1412.jpg",
+    "https://topcatcruisesbarbados.com/wp-content/uploads/2025/02/DSC_1423.jpg",
+    "https://topcatcruisesbarbados.com/wp-content/uploads/2025/02/DSC_1425.jpg",
+    "https://topcatcruisesbarbados.com/wp-content/uploads/2025/02/DSC_1462.jpg",
+    "https://topcatcruisesbarbados.com/wp-content/uploads/2025/02/DSC_1490.jpg",
+    "https://topcatcruisesbarbados.com/wp-content/uploads/2025/02/DSC_1544.jpg",
+    "https://topcatcruisesbarbados.com/wp-content/uploads/2025/02/DSC_1547c.jpg",
+    "https://topcatcruisesbarbados.com/wp-content/uploads/2025/02/DSC_1565c.jpg",
+    "https://topcatcruisesbarbados.com/wp-content/uploads/2025/02/DSC_1588.jpg",
+    "https://topcatcruisesbarbados.com/wp-content/uploads/2025/02/DSC_1627.jpg",
+    "https://topcatcruisesbarbados.com/wp-content/uploads/2025/07/Lunch-Cruises-Plain-1.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=khpD-e_DEsM",
+      "title": "Top Cat catamaran",
+      "sourceUrl": "https://topcatcruisesbarbados.com/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Lunch Cruises",
+      "images": [
+        "https://topcatcruisesbarbados.com/wp-content/uploads/2025/07/Lunch-Cruises-Plain-1.jpg"
+      ]
+    },
+    {
+      "title": "Sunset Bliss Cruise",
+      "images": [
+        "https://topcatcruisesbarbados.com/wp-content/uploads/2025/02/DSC_1400.jpg"
+      ]
+    },
+    {
+      "title": "Private Charter Cruise",
+      "images": []
+    },
+    {
+      "title": "Snorkel & Swim with Turtles Tour",
+      "images": [
+        "https://topcatcruisesbarbados.com/wp-content/uploads/2025/02/Screenshot-2025-02-22-090434.jpg"
+      ]
+    },
+    {
+      "title": "Family Fun Day Cruise",
+      "images": [
+        "https://topcatcruisesbarbados.com/wp-content/uploads/2025/02/DSC_1438-1.jpg"
+      ]
+    }
+  ],
+  "notes": "The home page has two YouTube background videos. khpD-e_DEsM (titled TOP CAT 06, posted by the site's developer Teague James) is kept. 8U_nLVItqdw (titled OCEAN LOOP, from the Blue Ocean Fitness channel) is generic ocean footage from another channel and is left out. Left out: happy-multiracial-friends-having-fun-eating-fruits-2023-11-27-05-20-28-utc-1.jpg beside the Private Charter Cruise (stock-library file name) and turle.png on the FAQ page (small graphic). The turtle tour photo is a screenshot file (Screenshot-2025-02-22-090434.jpg, 1200 by 702). Header logo is Asset-4.png; a white version is served at /wp-content/uploads/2024/09/logowhite.png. Gallery page is a grid of DSC photos from February 2025."
+}

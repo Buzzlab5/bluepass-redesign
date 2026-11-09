@@ -1,0 +1,203 @@
+{
+  "slug": "action-charters",
+  "name": "Action Charters",
+  "website": "https://actioncharters.org",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": null,
+  "category": "Catamaran cruises and charters",
+  "summary": "Action Charters is a small family business run by brothers Peter and Graham Allen, who sail the catamarans Stiletto and Supercats. Day cruises stop to swim with turtles and snorkel a reef and the Carlisle Bay shipwrecks, with hotel transport, an open bar and snorkel gear included. The boats are also available for private charters.",
+  "standouts": [
+    "Run by brothers Peter and Graham Allen, with over 30 years sailing experience",
+    "Small boats: Stiletto takes up to 26 people and Supercats up to 12",
+    "Transport to and from the catamarans included on cruises",
+    "Pay on board in cash or by Visa, Mastercard, American Express or Discover"
+  ],
+  "contact": {
+    "phone": "+1 246-231-1234",
+    "email": "info@actioncharters.org",
+    "address": "Aberfoyle, Maxwell Main Road, Christ Church, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://actioncharters.org/images/cover/01.jpg",
+  "sourceUrls": [
+    "https://actioncharters.org/",
+    "https://actioncharters.org/cruises",
+    "https://actioncharters.org/booking",
+    "https://actioncharters.org/about",
+    "https://actioncharters.org/contact",
+    "https://actioncharters.org/photos",
+    "https://actioncharters.org/guestbook"
+  ],
+  "trips": [
+    {
+      "title": "5 Hour Turtle-Snorkel-Lunch Cruise",
+      "kind": "snorkel",
+      "summary": "The operator's most popular cruise sails along the coast to swim with turtles, then stops to snorkel a coral reef and a shipwreck. The catamaran then anchors closer to shore for a Bajan buffet lunch, with time to swim or walk the beach.",
+      "highlights": [
+        "Swim and snorkel with turtles",
+        "Snorkel a coral reef and shipwreck",
+        "Bajan buffet lunch on board",
+        "Open bar for the whole cruise"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [
+        "10:00"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 105,
+          "currency": "USD",
+          "note": "Per person"
+        },
+        {
+          "label": "Child (ages 3 to 12)",
+          "amount": 65,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 105,
+      "includes": [
+        "Transport",
+        "Bajan buffet lunch",
+        "Open bar",
+        "Snorkel equipment",
+        "Inflatable swim vests"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://actioncharters.org/images/content/snorkel_turtle.jpg"
+      ],
+      "bookingLinks": [
+        "https://actioncharters.org/booking"
+      ],
+      "sourceUrl": "https://actioncharters.org/cruises",
+      "checkNotes": "Advertises turtle feeding. Also advertises hand feeding tropical fish. Booking page is a request form (JotForm, form.jotform.com/jsform/233464353168863); payment is taken on the boat."
+    },
+    {
+      "title": "3 Hour Turtle-Snorkel Cruise",
+      "kind": "snorkel",
+      "summary": "A shorter morning cruise along the coast to swim with turtles and snorkel a reef and a wreck. A light snack is served and the bar is open throughout.",
+      "highlights": [
+        "Swim and snorkel with turtles",
+        "Snorkel a reef and wreck",
+        "Light snack served",
+        "Open bar"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [
+        "10:00"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 85,
+          "currency": "USD",
+          "note": "Per person"
+        },
+        {
+          "label": "Child (ages 3 to 12)",
+          "amount": 55,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 85,
+      "includes": [
+        "Transport",
+        "Light snack",
+        "Open bar",
+        "Snorkel gear",
+        "Swim vests"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://actioncharters.org/images/content/stiletto_carlisle_bay.jpg"
+      ],
+      "bookingLinks": [
+        "https://actioncharters.org/booking"
+      ],
+      "sourceUrl": "https://actioncharters.org/cruises",
+      "checkNotes": "Advertises turtle feeding. Booking page is a request form (JotForm); payment is taken on the boat."
+    },
+    {
+      "title": "3 Hour Sunset Cruise",
+      "kind": "cruise",
+      "summary": "An evening version of the 3 hour turtle and snorkel cruise, timed to catch the sunset. It runs from 3pm to 6pm.",
+      "highlights": [
+        "Evening sail timed for sunset",
+        "Same route as the 3 hour turtle and snorkel cruise"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [
+        "15:00"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Transport",
+        "Light snack",
+        "Open bar",
+        "Snorkel gear",
+        "Swim vests"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://actioncharters.org/booking"
+      ],
+      "sourceUrl": "https://actioncharters.org/cruises",
+      "checkNotes": "No price shown for this cruise. The site says it is the same as the 3 Hour Turtle-Snorkel day cruise except it sails in the evening, so inclusions are copied from that cruise; it may also share that cruise's USD$85 / USD$55 prices, but the site does not say so. That cruise advertises turtle feeding."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "A private cruise on Stiletto or Supercats, planned around the group, for families, couples, birthdays, anniversaries and corporate events. Guests staying on the west coast can be collected from the beach in front of their hotel or guesthouse.",
+      "highlights": [
+        "Stiletto: 45 foot catamaran, max. 26 people",
+        "Supercats: 30 foot catamaran, max. 12 people",
+        "Minimum 3 hours, or 5 hours for a lunch or dinner cruise",
+        "Beach pickup in front of west coast hotels"
+      ],
+      "duration": "Your choice (minimum 3 hours) 5 hours for a dinner or lunch cruise",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://actioncharters.org/images/content/stiletto.jpg"
+      ],
+      "bookingLinks": [
+        "https://actioncharters.org/booking"
+      ],
+      "sourceUrl": "https://actioncharters.org/cruises",
+      "checkNotes": "No private charter prices on the site. Weather and sea conditions permitting."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Boat sizes conflict: the cruises page says Stiletto 45 foot and Supercats 30 foot; the about page says '50 and 45 foot luxury cats'. Used the cruises page. The site does not say where the boats leave from (transport is included and west coast guests can be collected from their beach), so town is null. Email is shown through a script on the contact page and decodes to info@actioncharters.org. Fax 246-418-0002. No dated content on the site beyond the ©2026 footer; the guestbook is empty. Booking is a request form embedded from JotForm on /booking, with payment on board."
+}

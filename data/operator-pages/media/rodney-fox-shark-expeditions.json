@@ -1,0 +1,251 @@
+{
+  "slug": "rodney-fox-shark-expeditions",
+  "logo": "https://rodneyfox.com.au/wp-content/themes/rfoxbeta/images/logo.png",
+  "heroImage": "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving.jpeg",
+  "gallery": [
+    "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg",
+    "https://rodneyfox.com.au/wp-content/uploads/2021/08/8vFjcw4A_2200x1464.jpeg",
+    "https://rodneyfox.com.au/wp-content/uploads/2021/08/YV-k63kg_2200x1464.jpeg",
+    "https://rodneyfox.com.au/wp-content/uploads/2021/08/5j-KUd9Q_2200x1464.jpeg",
+    "https://rodneyfox.com.au/wp-content/uploads/2021/08/I67GT7Nw_2200x1464.jpeg",
+    "https://rodneyfox.com.au/wp-content/uploads/2021/08/5_j3FA8A_2200x1464.jpeg",
+    "https://rodneyfox.com.au/wp-content/uploads/2021/08/NkhCQrOQ_1_2200x1464.jpeg",
+    "https://rodneyfox.com.au/wp-content/uploads/2021/08/OVdzUrDQ-scaled.jpeg",
+    "https://rodneyfox.com.au/wp-content/uploads/2021/08/wxqzqhEQ.jpeg",
+    "https://rodneyfox.com.au/wp-content/uploads/2021/08/0jdenjQw.jpeg",
+    "https://rodneyfox.com.au/wp-content/uploads/2021/08/n_if8yVQ.jpeg",
+    "https://rodneyfox.com.au/wp-content/uploads/2021/08/resized.jpeg",
+    "https://rodneyfox.com.au/wp-content/uploads/2021/08/BqbIMIug-scaled.jpeg",
+    "https://rodneyfox.com.au/wp-content/uploads/2021/08/eQNpuIHg-scaled.jpeg",
+    "https://rodneyfox.com.au/wp-content/uploads/2021/08/zi3WlfCg.jpeg",
+    "https://rodneyfox.com.au/wp-content/uploads/2021/08/J2opyi7Q.jpeg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=AUbeYRH3gHI",
+      "title": "Rodney Fox Shark Expeditions promotional film",
+      "sourceUrl": "https://rodneyfox.com.au/"
+    },
+    {
+      "url": "https://rodneyfox.com.au/wp-content/uploads/2021/08/Website9Seconds.mp4",
+      "title": "Homepage film",
+      "sourceUrl": "https://rodneyfox.com.au/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=E9qJ0I5uPB8",
+      "title": "Great white shark dive",
+      "sourceUrl": "https://rodneyfox.com.au/gallery/videos/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IHOy9-jTbEI",
+      "title": "Rodney Fox expedition highlights",
+      "sourceUrl": "https://rodneyfox.com.au/gallery/videos/"
+    },
+    {
+      "url": "https://rodneyfox.com.au/wp-content/uploads/2021/08/3_islands_website_banner_2020.mp4",
+      "title": "Neptune Islands banner film",
+      "sourceUrl": "https://rodneyfox.com.au/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yVgZNuciPxk",
+      "title": "Fox Shark Research Foundation",
+      "sourceUrl": "https://rodneyfox.com.au/gallery/videos/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Great White Expedition (4 days/3 Nights)",
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Rodneyfoxsharkfromoceanfloorcage-.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Face-Off.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Crew-helping-guest-out-of-surface-cage-web.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Rodney-Fox-Shark-Expeditions-Sea-Lion-Swim.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Vessel-Rodney-Fox-1.jpeg",
+        "https://rodneyfox.com.au/wp-content/themes/rfoxbeta/images/inner_banner.jpg"
+      ]
+    },
+    {
+      "title": "Great White Shark Expedition (4 days/4 Nights)",
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Surface-Diving-Fun.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Guest-after-surface-cage-diving-web.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Meet-The-Sharks-Bubba.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Hopkins-Island.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-The-Vessel-Rodney-Fox.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Topside-Viewing.jpg"
+      ]
+    },
+    {
+      "title": "Great White Shark Expedition 6 Day/5 Night",
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Majestic-Flat-Top.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Surface-Double-Fun.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Australian-Sea-Lions.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Island-Exploration.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-New-Zealand-fur-seal-pup.jpg",
+        "https://rodneyfox.com.au/wp-content/themes/rfoxbeta/images/inner_banner.jpg"
+      ]
+    },
+    {
+      "title": "Andrew Fox hosted Great White Shark Expedition 6 Day/5 Night",
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-rodneyfoxshark-andrewtopsideshark.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Jet-Wash.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Curious-George.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Island-Exploration.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Dorsal-Slice.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Main-Dive-Deck.jpg"
+      ]
+    },
+    {
+      "title": "50th Anniversary Cage Diving Adventurers with Andrew Fox (Featuring Rodney Fox Welcome Night)",
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-rodneyfoxshark-andrewtopsideshark.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Release-The-Kraken.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Well-Hello.....jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Up-Up-and-Away.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Rodney-Fox-Saloon2.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Welcome-Smooch.jpg"
+      ]
+    },
+    {
+      "title": "Speciality Expedition, hosted by Dr. Barbara Wueringer from Sharks & Rays Australia",
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Meet-The-Sharks-Kallel.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Meet-The-Sharks-Cherub.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Topside-Viewing.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Dorsal-Dynamic.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Family-Portrait.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Lower-Deck-Twin-Single-Cabin.jpg"
+      ]
+    },
+    {
+      "title": "Great White Christmas 2026 Expedition (4 Nights/5 Days)",
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Neptune-Island-Serenity.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Surface-Patrol.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Meet-The-Sharks-Casper.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Super-Sleek-Fly-By.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Top-Deck-Twin-Double-Cabin.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Dazzling-Departure.jpg"
+      ]
+    },
+    {
+      "title": "Great White New Year Expedition (4 Nights/5 Days) 2027",
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-The-Laughing-Shark.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Flying-High.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Shark-and-Ray-on-Reef.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Little-Cutie-Pie.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Rodney-Fox-Saloon2.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Dolphin-Frolics.jpg"
+      ]
+    },
+    {
+      "title": "Pro Photographer Matty Smith Hosted Great White Shark Expedition (5 Nights/6 days) with Jayne Jenkins",
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Pearly-Whites.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Gday.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Trouble-Comes-in-Threes.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Today-We-Are-Gathered-Here.....jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Meet-The-Sharks-Square-Dot.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Mako-Magic.jpg"
+      ]
+    },
+    {
+      "title": "Big Girl Season Opener, April 2027 8-Nights",
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Flat-Top-2014.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Flat-Top.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Meet-The-Sharks-Cuddles.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Road-To-Nowhere.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Down-On-The-Reef-with-Leatherjackets.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Big-Fish-Little-Fish-Bronze-Whaler.jpg"
+      ]
+    },
+    {
+      "title": "Lions, Dragons, Giants & Sharks",
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Leafy-Sea-Dragon.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Cuttlefish.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Meet-The-Giants-Cuttlefish-Courting.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-10533169-10152749141401427-1622823010149244842-o.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Rory.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-juv-scalyfin.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Cuttlefish-1.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Rodney-Fox-Shark-Expeditions-Sea-Lion-Swim.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Australian-Sea-Lions.jpg"
+      ]
+    },
+    {
+      "title": "Jacques Cousteau Tribute Tour 2027 - 6 Days/5 Nights– Hosted by Mark Tozer",
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/d6fFxyhw.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Ocean-Floor.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Meet-The-Sharks-Bentley.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Hopkins-Island.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Island-Exploration.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Top-Deck-Master-Ensuite-Cabin1.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Meet-The-Sharks-Casper.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Super-Sleek-Fly-By.jpg"
+      ]
+    },
+    {
+      "title": "Private Charters",
+      "images": [
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Vessel-Rodney-Fox-1.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-The-Vessel-Rodney-Fox.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Main-Dive-Deck.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Top-Deck-Master-Ensuite-Cabin1.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2020/03/CroppedFocusedImage74041650-50-Rodney-Fox-Saloon2.jpg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/zi3WlfCg.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/H6UkC-kw_2200x1464.jpeg",
+        "https://rodneyfox.com.au/wp-content/uploads/2021/08/Shark-diving.jpeg"
+      ]
+    }
+  ],
+  "notes": "heroImage is the full-size original of the current hero (Shark-diving-1024x685.jpeg), same photo at a larger size. Logo: theme header logo logo.png (logo_blk.png is a dark variant of the same mark). The itinerary pages carry no photos of their own (only the shared theme banner inner_banner.jpg) and the Tour Dates page (/bookings/), which most departures point to, shows only small season tab images. So trip photos come from the operator's own themed gallery pages, matched to what each itinerary does: surface and ocean floor cage diving (/gallery/surface-diving/, /gallery/ocean-floor-diving/), topside viewing, the Hopkins Island sea lion swim (/gallery/australian-sea-lions/), island shore parties and fur seals (/gallery/island-shore-parties/), the vessel and cabins (/gallery/expedition-vessel/), and for Lions, Dragons, Giants & Sharks the sea dragon, cuttlefish and sea lion photos on /gallery/lions-dragons-giants-and-sharks-tours/. The hosted Andrew Fox departures lead with the gallery photo captioned as Andrew topside with a shark. The dated departures without their own page share the same shark diving photo pool, spread so each trip has different photos. Shark-diving and d6fFxyhw use the full-size files (the -1024x size versions are on the pages); The Private Charters page's own photo (PrivateCharter-1024x681.jpg) is broken on the live site (404, as is the original), so that trip uses the vessel gallery photos. Gallery is from the home page slider, the Neptune Islands, tours, about and vessel pages. Videos: AUbeYRH3gHI is on the operator's own YouTube channel; the three on /gallery/videos/ are embedded by the operator but uploaded by another account (jentinkertaylor); the two mp4 files are self-hosted homepage films. The site links to no YouTube or Vimeo channel. Not used: the White Shark Lodge Port Lincoln page photos (accommodation, not a trip), deck plan drawings, award and certification logos. No bot checks met."
+}

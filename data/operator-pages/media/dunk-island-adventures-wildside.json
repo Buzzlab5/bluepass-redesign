@@ -1,0 +1,71 @@
+{
+  "slug": "dunk-island-adventures-wildside",
+  "logo": "https://wildsideadventures.com.au/wp-content/themes/wildside-child/assets/images/logos/wildside-logo-landscape-dark.svg",
+  "heroImage": "https://wildsideadventures.com.au/wp-content/uploads/wildside/heroes/snorkelling-hero.webp",
+  "gallery": [
+    "https://wildsideadventures.com.au/wp-content/uploads/wildside/gallery/reef-6.webp",
+    "https://wildsideadventures.com.au/wp-content/uploads/wildside/gallery/reef-3.webp",
+    "https://wildsideadventures.com.au/wp-content/uploads/wildside/gallery/reef-2.webp",
+    "https://wildsideadventures.com.au/wp-content/uploads/wildside/reef/dunk-island-water.webp",
+    "https://wildsideadventures.com.au/wp-content/uploads/wildside/gallery/reef-1.webp",
+    "https://wildsideadventures.com.au/wp-content/uploads/wildside/gallery/reef-5.webp",
+    "https://wildsideadventures.com.au/wp-content/uploads/wildside/reef/underwater-reef.webp",
+    "https://wildsideadventures.com.au/wp-content/uploads/wildside/gallery/reef-4.webp",
+    "https://wildsideadventures.com.au/wp-content/uploads/wildside/reef/snorkelling-coral.webp",
+    "https://wildsideadventures.com.au/wp-content/uploads/wildside/rainforest/sustainability-reef.webp",
+    "https://wildsideadventures.com.au/wp-content/uploads/wildside/gallery/rapids-1.webp",
+    "https://wildsideadventures.com.au/wp-content/uploads/wildside/gallery/rapids-2.webp",
+    "https://wildsideadventures.com.au/wp-content/uploads/wildside/rapids/tully-canyon.webp",
+    "https://wildsideadventures.com.au/wp-content/uploads/wildside/heroes/about-hero.webp"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=5Z381Hihjdo",
+      "title": "Wildside Adventures overview (2015)",
+      "sourceUrl": "https://www.youtube.com/channel/UCLzv-_vwGXDq638-kmywceg"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Mncp-DleYvY",
+      "title": "Take a paddle on the wildside (2016)",
+      "sourceUrl": "https://www.youtube.com/channel/UCLzv-_vwGXDq638-kmywceg"
+    },
+    {
+      "url": "https://wildsideadventures.com.au/wp-content/themes/wildside-child/assets/video/dunk-island-hero.mp4",
+      "title": "Dunk Island background loop",
+      "sourceUrl": "https://wildsideadventures.com.au/dunk-island/"
+    },
+    {
+      "url": "https://wildsideadventures.com.au/wp-content/themes/wildside-child/assets/video/rafting-hero.mp4",
+      "title": "Rafting background loop",
+      "sourceUrl": "https://wildsideadventures.com.au/white-water-rafting/"
+    },
+    {
+      "url": "https://wildsideadventures.com.au/wp-content/themes/wildside-child/assets/video/hero-bg.mp4",
+      "title": "Home page background loop",
+      "sourceUrl": "https://wildsideadventures.com.au/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Dunk Island Snorkelling Tours",
+      "images": [
+        "https://wildsideadventures.com.au/wp-content/uploads/wildside/heroes/snorkelling-hero.webp",
+        "https://wildsideadventures.com.au/wp-content/uploads/wildside/reef/boat-snorkelling.webp",
+        "https://wildsideadventures.com.au/wp-content/uploads/wildside/reef/underwater-closeup.webp",
+        "https://wildsideadventures.com.au/wp-content/uploads/wildside/reef/seasonal-marine-life.webp",
+        "https://wildsideadventures.com.au/wp-content/uploads/wildside/reef/snorkelling-coral.webp",
+        "https://wildsideadventures.com.au/wp-content/uploads/wildside/reef/underwater-reef.webp"
+      ]
+    },
+    {
+      "title": "Dunk Island Private Charters",
+      "images": [
+        "https://wildsideadventures.com.au/wp-content/uploads/wildside/heroes/private-charters-hero.webp",
+        "https://wildsideadventures.com.au/wp-content/uploads/wildside/reef/private-charter-snorkel.webp",
+        "https://wildsideadventures.com.au/wp-content/uploads/wildside/reef/private-charter-boat.webp",
+        "https://wildsideadventures.com.au/wp-content/uploads/wildside/reef/snorkelling-crosssell.webp"
+      ]
+    }
+  ],
+  "notes": "PLEASE VIEW THESE PHOTOS BEFORE PUBLISHING. No image was opened or downloaded (only file headers were checked, all return 200), so none could be confirmed as a real photo of this operator's trips. There are signs they may be placeholders or generated pictures: the files sit in a single /wildside/ folder with file dates of 7 March and 1 April 2026 on those checked, the alt text reads like picture descriptions (golden hour, genuine expressions, at scale), the Gallery page still shows PHOTO placeholder text beside them, and one gallery image is labelled Real guests on Wildside boat, which suggests the others may not be. None carry a credit to another business or photographer and none look like stock file names, so they are recorded as the operator's own. Hero is the Snorkelling Tours page header (1600 by 900); the home page hero poster (themes/wildside-child/assets/video/hero-bg-poster.jpg, 1920 by 1080) and the Dunk Island page poster (dunk-island-hero-poster.jpg) are alternatives not used because their content is unknown. Logo: used the landscape dark version named as the logo in the site's structured data; the header actually shows wildside-logo-stacked-reversed.svg (a reversed version made for a dark header, likely light on transparent), same folder, as the fallback. Trip photos: the Snorkelling Tours page has four of its own (hero, boat, close-up, seasonal marine life); snorkelling-crosssell.webp on that page shows the private charter boat, so it is listed under Private Charters, and snorkelling-coral and underwater-reef are from the Dunk Island overview page. sports-raft-crosssell.webp has the same file size as sports-raft-close.webp, probably the same picture, so it is left out. Gallery is led by the Dunk Island pictures, with two rafting pictures, a canyon view, a healthy-reef picture from the Sustainability page and the team picture from the About page last. Left out: the badge graphics (best-of-queensland.svg, sustainable-tourism.svg, tripadvisor-travellers-choice.svg, family-owned.svg) and favicons, which are logos or text graphics; the guide portraits (team/allan.webp, johnny-mac.webp, leon.webp); about/three-worlds.webp, which may carry text; about/founding.webp, an early-days photo; the blog images on the home page, including the cassowary picture, because their source is not credited and they are not trip photos; and the Adventure Centre photos, which are land based. Videos: the site's structured data lists a YouTube channel (Wildside Adventures, youtube.com/channel/UCLzv-_vwGXDq638-kmywceg), though no visible link to it was found on the pages; it was read through its public feed and has three videos dated 2015 and 2016, which by title are about the business, rafting and a media interview, none about Dunk Island. Left out the third, a 2016 interview with a federal member of parliament and a radio host (PXWb5rJTidw). The two channel videos were not watched, so check they suit the page. The three .mp4 files are the site's own background loops (6 to 11 MB each) and were not opened. No bot check, captcha or block was hit on the operator's site."
+}

@@ -1,0 +1,303 @@
+{
+  "slug": "region-x",
+  "logo": "https://regionx.com.au/wp-content/uploads/2021/07/region-x-logo-white-stacked.svg",
+  "gallery": [
+    "https://regionx.com.au/wp-content/uploads/2021/07/hero-kayak-01.jpg",
+    "https://regionx.com.au/wp-content/uploads/2022/07/seal-swim-1.jpg",
+    "https://regionx.com.au/wp-content/uploads/2022/12/Oyster_smile.jpg",
+    "https://regionx.com.au/wp-content/uploads/2022/10/glass_bottom_hero.jpg",
+    "https://regionx.com.au/wp-content/uploads/2022/10/Pizza_03.jpg",
+    "https://regionx.com.au/wp-content/uploads/2022/10/HalfDay_HERO.jpg",
+    "https://regionx.com.au/wp-content/uploads/2022/10/Tollgates_HERO.jpg",
+    "https://regionx.com.au/wp-content/uploads/2022/10/overnight-hero.jpg",
+    "https://regionx.com.au/wp-content/uploads/2022/10/clyde-river-hero.jpg",
+    "https://regionx.com.au/wp-content/uploads/2022/10/Walks_01-1-e1691382772521.jpg",
+    "https://regionx.com.au/wp-content/uploads/2021/07/stingray.jpg",
+    "https://regionx.com.au/wp-content/uploads/2022/10/children-kayak-found-stingray.jpg",
+    "https://regionx.com.au/wp-content/uploads/2022/10/RXPC_HERO.jpg",
+    "https://regionx.com.au/wp-content/uploads/2022/07/52021053033_54a4ace3c3_o.jpg",
+    "https://regionx.com.au/wp-content/uploads/2021/08/josh-kate.jpg",
+    "https://regionx.com.au/wp-content/uploads/2022/10/Pizza_01.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://regionx.com.au/wp-content/uploads/2022/10/region-x-hero-video.mp4",
+      "title": "Homepage film",
+      "sourceUrl": "https://regionx.com.au/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=j4DtEbYYRJs",
+      "title": "Half day sea kayak tour, Batemans Bay",
+      "sourceUrl": "https://regionx.com.au/tours/half-day-tours/half-day-sea-kayak-tour/"
+    },
+    {
+      "url": "https://vimeo.com/854561099",
+      "title": "Oyster tasting kayak tour",
+      "sourceUrl": "https://regionx.com.au/tours/short-tours/clyde-river-oyster-tasting-kayak-tour/"
+    },
+    {
+      "url": "https://vimeo.com/854561282",
+      "title": "Glass bottom kayak tour",
+      "sourceUrl": "https://regionx.com.au/tours/short-tours/glass-bottom-kayak-tour-batemans-bay/"
+    },
+    {
+      "url": "https://vimeo.com/820408524",
+      "title": "Sunset pizza paddle",
+      "sourceUrl": "https://regionx.com.au/tours/short-tours/sunset-pizza-paddle/"
+    },
+    {
+      "url": "https://vimeo.com/303190109",
+      "title": "Sea kayaking the Tollgate Islands",
+      "sourceUrl": "https://regionx.com.au/tours/half-day-tours/sea-kayak-tour-the-tollgate-islands-batemans-bay/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Oyster Tasting Kayak Tour – Batemans Bay",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/10/Oysters_HERO.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Oyster_01.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/Copy-of-Oyster_smile.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/oysterdrone2.jpg",
+        "https://regionx.com.au/wp-content/uploads/2021/08/st-oyster-02.jpg"
+      ]
+    },
+    {
+      "title": "Glass Bottom Kayak Tour, Batemans Bay",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/10/glass_bottom_hero_bigger.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/DSCN1595.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/52203756921_89944ea657_o-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Pizza Paddle – Sunset Kayak Tour",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/10/Pizza_HERO.jpg",
+        "https://regionx.com.au/wp-content/uploads/2021/10/Pizza_Suntset_2021.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/51112379673_ddea0c23bf_o-scaled.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/51842709110_457ba45512_o.jpg"
+      ]
+    },
+    {
+      "title": "Half Day Sea Kayak Tour, Batemans Bay",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2021/07/hero-beach-01.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/Solo_Half_Day.jpg",
+        "https://regionx.com.au/wp-content/uploads/2021/07/hero-kayak-01.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/seal-swim-1.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/150AEFD2-01A0-48BA-8A24-A5DBAD315B38-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Sea Kayak Tollgate Islands",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/10/Tollgates_HERO.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/Solo_Half_Day.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Tollgates_Caves.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Tollgates_01.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/150AEFD2-01A0-48BA-8A24-A5DBAD315B38-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Snorkel from a kayak – Batemans Bay",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/12/IMG_0917-1.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/Solo_Half_Day.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/12/IMG_1625.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/seal-swim-1.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/12/GOPR0502.jpg"
+      ]
+    },
+    {
+      "title": "Canberra to Coast Day Tour with Oyster Tasting Kayak Experiences",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/10/canberra_to_coast_hero.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/IMG_8482.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Walks_Kanga.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Oysters_HERO.jpg"
+      ]
+    },
+    {
+      "title": "Day Walk with kayak lake crossing – Murramarang National Park",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/10/day-walk-hero.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Walks_03.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Walks_sandstone.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Walks_Kanga.jpg"
+      ]
+    },
+    {
+      "title": "Day Walk – Pigeon House Mountain Morton National Park",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/10/pigeon_house-mountain_hero.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/50318869641_daf13e1dcf_o.jpg"
+      ]
+    },
+    {
+      "title": "Overnight Kayak Camping Tour, Batemans Bay",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/07/JDS_0073.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/51657745696_a7349ce39b_o.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/kayak6-scaled.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/DSC3597-2.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/IMG_7385.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/Coastal_Camp1.jpg"
+      ]
+    },
+    {
+      "title": "3 Day Clyde River Guided Kayak Camping",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/12/jds_0506_51878710418_o.jpg",
+        "https://regionx.com.au/wp-content/uploads/2023/09/IMG_3569-2-scaled.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/12/jds_0451_51877676487_o.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/12/DSCN0061-1.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Overnighter_HERO-1.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/12/jds_0448_51878642421_o.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/12/7ca8d65e-e9a5-4d17-af8f-5cb975a5353b_51878649161_o.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/12/9f0abd08-0d17-444f-94e6-a79cb161a181_51878648556_o.jpg"
+      ]
+    },
+    {
+      "title": "Overnight Kayak Camping, from Canberra",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/07/IMG_7385.jpg",
+        "https://regionx.com.au/wp-content/uploads/2021/10/Pizza_Suntset_2021.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/51112379673_ddea0c23bf_o-scaled.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/51842709110_457ba45512_o.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/overnight-from-canberra-hero.jpg"
+      ]
+    },
+    {
+      "title": "3 Day Murramarang Premium Journey – Departing Batemans Bay",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/10/canberra_to_coast_hero.jpg",
+        "https://regionx.com.au/wp-content/uploads/2024/04/IMG_6684-scaled.jpg",
+        "https://regionx.com.au/wp-content/uploads/2026/08/22.jpg",
+        "https://regionx.com.au/wp-content/uploads/2026/08/20.jpg",
+        "https://regionx.com.au/wp-content/uploads/2026/08/unnamed-1.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Walks_03.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Walks_01-1-e1691382772521.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Walks_02.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/IMG_8432.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/day-walk-hero.jpg"
+      ]
+    },
+    {
+      "title": "3.5 Day Murramarang Coast Journey – Departing Canberra",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/10/Day-Walk_HERO.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/DSC3597-2.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/IMG_8388.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/51908122856_7603618001_o.jpg"
+      ]
+    },
+    {
+      "title": "Run Wild – a Trail run experience in Murramarang National Park",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2026/08/55452739427_183ba616e0_k.jpg",
+        "https://regionx.com.au/wp-content/uploads/2023/09/mini-bus-pickup.jpg",
+        "https://regionx.com.au/wp-content/uploads/2026/08/55453029962_a2d046bb97_c.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Walks_02.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/IMG_8432.jpg",
+        "https://regionx.com.au/wp-content/uploads/2023/10/DSC3597-2.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/IMG_8482.jpg"
+      ]
+    },
+    {
+      "title": "Multi-Day Clyde River Self Guided Paddle",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/12/DSCN0061-1.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/12/7ca8d65e-e9a5-4d17-af8f-5cb975a5353b_51878649161_o.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Overnighter_HERO-1.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/12/jds_0448_51878642421_o.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/SelfGuided_Clyde_01.jpg"
+      ]
+    },
+    {
+      "title": "Shuttle Service, Murramarang South Coast Walk",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2023/09/mini-bus-pickup.jpg"
+      ]
+    },
+    {
+      "title": "Kayak Hire – the boatshed, Mossy Point",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/07/hire_groups.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Hire_02.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/hero-01.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/glass_bottom_hero_bigger.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/children-kayak-found-stingray.jpg"
+      ]
+    },
+    {
+      "title": "Equipment Hire – collection Batemans Bay",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/07/hire_groups.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/glass_bottom_hero_bigger.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/children-kayak-found-stingray.jpg"
+      ]
+    },
+    {
+      "title": "Ningaloo, Western Australia",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/07/Great-View.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/8F52F7CB-A795-47D6-83E5-4A19E56A0B72.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/5-day-ultimate-safari-june-23-27-2019_48175106461_o.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/E74FEEAC-B88D-4C27-8BA9-D9F343D45BA5.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/52194785110_ee94303281_o.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/52184888142_9b0a535b73_o.jpg"
+      ]
+    },
+    {
+      "title": "Fiji – Yasawa Islands",
+      "images": []
+    },
+    {
+      "title": "Hinchinbrook – Far North Queensland",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/07/yo-4.png",
+        "https://regionx.com.au/wp-content/uploads/2022/12/Hinch_2022_01.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/12/20180813-En-route-to-Zoe-Bay-2-2.jpeg",
+        "https://regionx.com.au/wp-content/uploads/2022/12/20180815-Gould-camping-2.jpeg"
+      ]
+    },
+    {
+      "title": "The Arctic: Svalbard",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2023/12/Arctic-Hero.jpg",
+        "https://regionx.com.au/wp-content/uploads/2024/01/arctic-06.jpg",
+        "https://regionx.com.au/wp-content/uploads/2024/01/arctic-14.jpg",
+        "https://regionx.com.au/wp-content/uploads/2024/01/arctic-02.jpg",
+        "https://regionx.com.au/wp-content/uploads/2024/01/arctic-12.jpg",
+        "https://regionx.com.au/wp-content/uploads/2024/01/arctic-11.jpg",
+        "https://regionx.com.au/wp-content/uploads/2024/01/arctic-07.jpg",
+        "https://regionx.com.au/wp-content/uploads/2024/01/arctic-16.jpg",
+        "https://regionx.com.au/wp-content/uploads/2024/01/arctic-01.jpg"
+      ]
+    },
+    {
+      "title": "Costa Rica",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2026/05/Costa-Rica-Kayaking-3743-scaled.jpg",
+        "https://regionx.com.au/wp-content/uploads/2026/05/IMG_2730.jpg",
+        "https://regionx.com.au/wp-content/uploads/2026/05/20240108_084505-scaled.jpg",
+        "https://regionx.com.au/wp-content/uploads/2023/08/Costa-Rica-Kayaking-3787-scaled.jpg",
+        "https://regionx.com.au/wp-content/uploads/2023/08/Costa-Rica-Kayaking-3687-scaled.jpg",
+        "https://regionx.com.au/wp-content/uploads/2026/05/IMG_5855-scaled.jpg",
+        "https://regionx.com.au/wp-content/uploads/2023/08/Costa-Rica-Kayaking-3997-scaled.jpg",
+        "https://regionx.com.au/wp-content/uploads/2023/08/Costa-Rica-Kayaking-4-scaled.jpg",
+        "https://regionx.com.au/wp-content/uploads/2023/08/Costa-Rica-Kayaking--scaled-e1706492216340.jpg",
+        "https://regionx.com.au/wp-content/uploads/2026/05/IMG_0210-scaled-e1778470689455.jpg"
+      ]
+    },
+    {
+      "title": "Get more from your Sit on top – part 1",
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2021/10/p9716a3ff-0f9a-447e-8b9b-1ff7559db3ef_0dc21b6b-b4b8-45e4-8f90-738ac0348d94_m.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/GlassBottom_04.jpg"
+      ]
+    }
+  ],
+  "notes": "Logo: the only logo the site serves is region-x-logo-white-stacked.svg (white artwork, needs a dark background). Gallery is from the home page tour cards and hero, the /photos/ page and the about page (owners Josh and Kate). The site's 'Photos' page sends guests to a Flickr album, which is outside the operator's site and was not opened. The YouTube channel linked in the footer (UCuBdW5lwIEVG5Dysy2fQyTw) no longer exists, so videos are the embeds on the tour pages plus the self-hosted homepage film (region-x-hero-video.mp4). Not used for space: Vimeo 245992158 (Pigeon House Mountain walk page) and the kayak hire film https://regionx.com.au/wp-content/uploads/2022/07/Boatshed-vid-Landscape-with-glitch.mp4. A YouTube embed on the Murramarang day walk page (FVLbUqQxKy4) is no longer available. Vimeo titles could not be checked from here (vimeo.com does not load on this network); titles describe the page each video sits on. Left out on purpose: Fiji page photos, all named after Southern Sea Ventures (Fiji-Southern-Sea-Ventures-*, SSV-*, EDITEDDRONEsSV-*), so they look like another company's photos; the facts file currently lists four of them for Fiji and they should be checked before use. Costa Rica: PalminwildPlayaSanJosecitoGolfoDulceCostaRica.jpg (the facts file's first image) and 3.Foto-Portada-3-0164-scaled.jpg look like a partner lodge's photos and were left out. Pigeon House Mountain page: its itinerary block reuses the half day sea kayak and oyster tour photos (kayaks, seal swim, oysters), so only the two walk photos were kept. Left out as page furniture: the stamp icons (FERN, DOUBLE-YAK and similar PNGs), review avatars, the winter promo popup, footer collage and certification logos. Several pages share the same multi-day and walk photos; each trip lists what its own page shows. No bot checks met."
+}

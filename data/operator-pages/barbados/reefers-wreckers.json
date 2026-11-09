@@ -1,0 +1,288 @@
+{
+  "slug": "reefers-wreckers",
+  "name": "Reefers and Wreckers",
+  "website": "https://scubadiving.bb",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Speightstown",
+  "category": "Scuba diving and PADI courses",
+  "summary": "A family-owned dive shop at the bottom of Church Street in Speightstown, run by the Mahy family for more than two decades. They dive over 20 west coast sites from their 32 ft boat Conqueror II, from shallow reefs to the Stavronikita wreck. Courses run from a first try dive to Divemaster.",
+  "standouts": [
+    "Family owned and in operation for well over two decades",
+    "Over 20 dive sites, for beginner to advanced divers",
+    "32 ft dive boat Conqueror II carries VHF radio, oxygen and first-aid equipment",
+    "One-to-one or small group diving available"
+  ],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "address": "Bottom of Church Street, Speightstown, Barbados (less than 100 metres from the Speightstown jetty)",
+    "whatsapp": null
+  },
+  "heroImage": "https://scubadiving.bb/wp-content/uploads/revslider/notgeneric1/slider.jpg",
+  "sourceUrls": [
+    "https://scubadiving.bb/",
+    "https://scubadiving.bb/dive/",
+    "https://scubadiving.bb/our-services/",
+    "https://scubadiving.bb/special-dive-show-deals/",
+    "https://scubadiving.bb/about/",
+    "https://scubadiving.bb/contact/",
+    "https://scubadiving.bb/sitemap_index.xml",
+    "https://scubadiving.bb/page-sitemap.xml",
+    "https://scubadiving.bb/attachment-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Dive With Us",
+      "kind": "dive",
+      "summary": "Guided boat dives on the west coast for certified divers, as single dives, two-tank dives or packages of five or ten. Sites include Maycocks Bay, Brightledge, the Pamir wreck and the Stavronikita, a 356 ft freighter sitting upright in 130 ft of water. The morning boat leaves at 10 am and the afternoon boat at 2 pm.",
+      "highlights": [
+        "Morning boat 10:00 to 13:30, shop arrival 9:00",
+        "Afternoon boat 14:00 to 15:30",
+        "Sunset dive on request",
+        "Over 20 dive sites, intact wrecks and reefs"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": ["10:00", "14:00"],
+      "season": null,
+      "departsFrom": "Reefers and Wreckers dive shop, bottom of Church Street, Speightstown",
+      "prices": [
+        { "label": "Single Dive", "amount": 90, "currency": "USD", "note": null },
+        { "label": "Two Tank Dive", "amount": 160, "currency": "USD", "note": null },
+        { "label": "Five Dive Package", "amount": 340, "currency": "USD", "note": null },
+        { "label": "Ten Dive Package", "amount": 640, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 90,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://scubadiving.bb/wp-content/uploads/2016/06/dive-with-us-bg.jpg"
+      ],
+      "bookingLinks": ["https://scubadiving.bb/dive/"],
+      "sourceUrl": "https://scubadiving.bb/dive/",
+      "checkNotes": "Title is the page heading; the site sells these as separate products. Prices are not printed on the page: they come from the product list in the booking request form, which shows a Total (USD) when a product is chosen. The page does not say which products go on the morning or afternoon boat, or whether prices include equipment. Booking is a request form (name, email, date, product), no payment taken on the page."
+    },
+    {
+      "title": "Night Dive",
+      "kind": "dive",
+      "summary": "A guided night dive for certified divers. The site lists it as a separate product but gives no time or details.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Reefers and Wreckers dive shop, bottom of Church Street, Speightstown",
+      "prices": [
+        { "label": "Night Dive", "amount": 105, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 105,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": ["https://scubadiving.bb/dive/"],
+      "sourceUrl": "https://scubadiving.bb/dive/",
+      "checkNotes": "Price from the booking request form's product list (Total shown in USD). The daily schedule also lists a 'Sunset Dive: On Request'; unclear if this is the same product."
+    },
+    {
+      "title": "One Day Resort Course",
+      "kind": "dive",
+      "summary": "A PADI Discover Scuba Diving introduction for first-timers. You start in calm, pool-like water in the bay off Port St. Charles marina to get used to breathing underwater. Then you swim from the shore on a guided dive around Boulder Rock, with a natural underwater passage and coral.",
+      "highlights": [
+        "PADI Discover Scuba Diving",
+        "Skills session in sheltered water off Port St. Charles marina",
+        "Guided shore dive around Boulder Rock",
+        "Shallow dive, 5 to 45 ft"
+      ],
+      "duration": "Half-day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Port St. Charles marina, near Speightstown",
+      "prices": [
+        { "label": "Introductory Scuba Course", "amount": 135, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 135,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": ["https://scubadiving.bb/dive/"],
+      "sourceUrl": "https://scubadiving.bb/",
+      "checkNotes": "Price is the 'Introductory Scuba Course' in the booking request form (USD); assumed to be this course from the name. The home page calls it a half-day introduction starting in the bay off Port St. Charles; the Our Services page calls it a one day introduction starting in a pool, then a shallow shore dive (5 to 45 ft). Used the home page for the route."
+    },
+    {
+      "title": "Pool Demonstrations",
+      "kind": "other",
+      "summary": "A short try of scuba gear in a pool, for anyone who wants to feel it out before heading into open water. Ages 8 and up are welcome, with at least 24 hours notice.",
+      "highlights": [
+        "Ages 8 and up",
+        "At least 24 hours notice"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "Ages 8 and up",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://scubadiving.bb/our-services/",
+      "checkNotes": "No price shown and not in the booking form's product list; book through the contact form. The site does not say where the pool is."
+    },
+    {
+      "title": "PADI Open Water",
+      "kind": "course",
+      "summary": "A three-day course covering dive theory, equipment and core skills such as buoyancy control and mask clearing. It ends with four open water dives on the reefs and certifies you to dive to 18 m anywhere in the world. A cheaper referral option is listed for those who did the theory and pool work at home.",
+      "highlights": [
+        "3 days",
+        "Four open water dives",
+        "Certifies you to dive to 18 m worldwide",
+        "Referral option available"
+      ],
+      "duration": "3 day course",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Reefers and Wreckers dive shop, bottom of Church Street, Speightstown",
+      "prices": [
+        { "label": "PADI Open Water Certification", "amount": 550, "currency": "USD", "note": null },
+        { "label": "Referral Course", "amount": 390, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 550,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": ["https://scubadiving.bb/dive/"],
+      "sourceUrl": "https://scubadiving.bb/our-services/",
+      "checkNotes": "Prices from the booking request form's product list (USD). 'Referral Course' is listed without detail; placed here as the Open Water referral by its name. priceFrom is the full certification price."
+    },
+    {
+      "title": "PADI Advanced Diver",
+      "kind": "course",
+      "summary": "The PADI Advanced Open Water course: five dives chosen from a list that includes deep, wreck, night, drift and navigation. On completion you can dive without professional supervision to 40 m.",
+      "highlights": [
+        "Five adventure dives",
+        "Choices include Deep, Wreck, Night, Drift and Underwater Navigator",
+        "Qualifies you to dive to 40 m / 132 ft"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Reefers and Wreckers dive shop, bottom of Church Street, Speightstown",
+      "prices": [
+        { "label": "PADI Advanced Open Water", "amount": 470, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 470,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": ["https://scubadiving.bb/dive/"],
+      "sourceUrl": "https://scubadiving.bb/our-services/",
+      "checkNotes": "Price from the booking request form's product list (USD)."
+    },
+    {
+      "title": "PADI Rescue Diver",
+      "kind": "course",
+      "summary": "A two-day course in diver assists and rescues, responding to dive accidents and giving first aid. It is the step before PADI leadership courses.",
+      "highlights": [
+        "2 day course",
+        "Prerequisite for PADI leadership programs"
+      ],
+      "duration": "2day course",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Reefers and Wreckers dive shop, bottom of Church Street, Speightstown",
+      "prices": [
+        { "label": "PADI Rescue Diver", "amount": 515, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 515,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": ["https://scubadiving.bb/dive/"],
+      "sourceUrl": "https://scubadiving.bb/our-services/",
+      "checkNotes": "Price from the booking request form's product list (USD). The Our Services page also offers PADI medic and First Aid, and further courses on request, without prices."
+    },
+    {
+      "title": "Dive Master Course",
+      "kind": "course",
+      "summary": "The PADI Divemaster course, the first professional level. The site lists it with a price and asks you to get in touch about further training.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Reefers and Wreckers dive shop, bottom of Church Street, Speightstown",
+      "prices": [
+        { "label": "Dive Master Course", "amount": 750, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 750,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": ["https://scubadiving.bb/dive/"],
+      "sourceUrl": "https://scubadiving.bb/dive/",
+      "checkNotes": "Price from the booking request form's product list (USD). No course length or details given."
+    },
+    {
+      "title": "Deep Diver, Night Diver and Wreck Diver",
+      "kind": "course",
+      "summary": "Three PADI specialty courses for certified divers, each at the same price. The Stavronikita and the Pamir are among the wrecks dived from the shop.",
+      "highlights": [
+        "Deep Diver",
+        "Night Diver",
+        "Wreck Diver"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Reefers and Wreckers dive shop, bottom of Church Street, Speightstown",
+      "prices": [
+        { "label": "Deep Diver", "amount": 385, "currency": "USD", "note": null },
+        { "label": "Night Diver", "amount": 385, "currency": "USD", "note": null },
+        { "label": "Wreck Diver", "amount": 385, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 385,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": ["https://scubadiving.bb/dive/"],
+      "sourceUrl": "https://scubadiving.bb/dive/",
+      "checkNotes": "Grouped under one title here; the booking form lists them as three separate products. Prices from the form's product list (USD). No course length or details given."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Special Dive Show Deals",
+      "conditions": "Details are published only as an image on the page (uploaded February 2026); the text was not read.",
+      "validUntil": null,
+      "sourceUrl": "https://scubadiving.bb/special-dive-show-deals/"
+    }
+  ],
+  "checkNotes": "No phone number or email address appears anywhere on the site; contact is by the contact form, and booking by the request form on /dive/. Our list has +1 246-234-1377 and scubadiving@caribsurf.com, not confirmed on the site. All prices come from the booking request form's product options, which show a Total in USD; none are printed as text. The Special Dive Show Deals page is a single image that was not read; someone should look at it. Site footer says 2026 and the deal image was uploaded in February 2026, so trading. Also listed on PADI Adventures per our list, not checked."
+}

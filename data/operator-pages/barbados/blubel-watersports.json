@@ -1,0 +1,180 @@
+{
+  "slug": "blubel-watersports",
+  "name": "Barbados Boat Trips by BluBel Watersports",
+  "website": "https://barbadosboattrips.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Holetown",
+  "category": "Snorkel and fishing trips",
+  "summary": "Captain Damo, born and raised in Barbados, runs snorkelling, fishing and coastal boat trips on BluBel I and BluBel II, a two-storey glass-bottom boat. Families are welcome, children five and under go free, and refreshments, life jackets and snorkel gear are provided.",
+  "standouts": [
+    "BluBel II, a two-storey glass-bottom boat, launched January 2023",
+    "Children five years old or under go free on all trips",
+    "Refreshments, life jackets and snorkel equipment provided",
+    "Bespoke packages built with the captain on request"
+  ],
+  "contact": {
+    "phone": "+1 246 242 8663",
+    "email": "barbadosboattrips@gmail.com",
+    "address": null,
+    "whatsapp": null
+  },
+  "heroImage": "https://barbadosboattrips.com/wp-content/uploads/2020/08/BarbadosBoatTrips-BluBel-scaled.jpg",
+  "sourceUrls": [
+    "https://barbadosboattrips.com/",
+    "https://barbadosboattrips.com/about/",
+    "https://barbadosboattrips.com/services/",
+    "https://barbadosboattrips.com/pricing/",
+    "https://barbadosboattrips.com/gallery/",
+    "https://barbadosboattrips.com/contact/",
+    "https://barbadosboattrips.com/wp-json/wp/v2/pages?per_page=50&_fields=link,modified,title"
+  ],
+  "trips": [
+    {
+      "title": "Snorkeling",
+      "kind": "snorkel",
+      "summary": "A boat trip to snorkel with reef fish, with a chance of swimming with turtles and stingrays at spots the captain knows. A lunch or dinner package can be added at extra cost.",
+      "highlights": [
+        "Chance to swim with turtles and stingrays",
+        "Snorkel equipment, life jackets and refreshments provided",
+        "Optional lunch or dinner package at additional cost",
+        "Children five years old or under go free"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Per person", "amount": 120, "currency": "BBD", "note": "Turtle and snorkeling trips" },
+        { "label": "Per person", "amount": 60, "currency": "USD", "note": "Turtle and snorkeling trips" },
+        { "label": "Child (five years old or under)", "amount": 0, "currency": "USD", "note": "Children go free on all trips" }
+      ],
+      "priceFrom": 60,
+      "includes": ["Refreshments", "Life jackets", "Snorkel equipment"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://barbadosboattrips.com/wp-content/uploads/2020/03/IMG-20200302-WA0000.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://barbadosboattrips.com/services/",
+      "checkNotes": "Price is listed on the pricing page as 'Turtle and snorkeling trips' in both BBD and USD; priceFrom uses the USD figure. The services page mentions a lunch or dinner add-on 'see pricing page', but the pricing page gives no price for it. Duration, departure times and departure point are not stated. Inclusions come from the About page, which applies them to all trips. Booking by phone, WhatsApp, email, text or contact form only."
+    },
+    {
+      "title": "Coastal tour",
+      "kind": "cruise",
+      "summary": "A slower trip along the Barbados coastline by boat, taking in quiet spots and the celebrity houses that can only be seen from the water. A lunch or dinner package can be added at extra cost.",
+      "highlights": [
+        "Views of coastal homes only visible from the sea",
+        "Optional lunch or dinner package at additional cost",
+        "Refreshments and life jackets provided",
+        "Children five years old or under go free"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Per person", "amount": 120, "currency": "BBD", "note": "Coastal trips" },
+        { "label": "Per person", "amount": 60, "currency": "USD", "note": "Coastal trips" },
+        { "label": "Child (five years old or under)", "amount": 0, "currency": "USD", "note": "Children go free on all trips" }
+      ],
+      "priceFrom": 60,
+      "includes": ["Refreshments", "Life jackets"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://barbadosboattrips.com/wp-content/uploads/2023/02/IMG-20230126-WA0010.jpg",
+        "https://barbadosboattrips.com/wp-content/uploads/2020/08/BarbadosBoatTrips-BluBel-scaled.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://barbadosboattrips.com/services/",
+      "checkNotes": "Prices shown in both BBD and USD on the pricing page; priceFrom uses the USD figure. Lunch or dinner add-on has no price on the pricing page. Duration, departure times and departure point are not stated."
+    },
+    {
+      "title": "Fishing trips",
+      "kind": "charter",
+      "summary": "Fishing trips set up around the group, for first-timers through to experienced anglers. Priced by the hour for a party of up to five, and the captain can fillet the catch for guests to take back for dinner.",
+      "highlights": [
+        "Priced per hour for a party of up to five",
+        "Suits novices and experienced anglers",
+        "Catch can be filleted on board to take home",
+        "Children five years old or under go free"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Per hour, whole party", "amount": 300, "currency": "BBD", "note": "Based on up to a party of five maximum" },
+        { "label": "Per hour, whole party", "amount": 150, "currency": "USD", "note": "Based on up to a party of five maximum" }
+      ],
+      "priceFrom": null,
+      "includes": ["Refreshments", "Life jackets"],
+      "bring": [],
+      "requirements": "Party of five maximum",
+      "offer": null,
+      "images": [
+        "https://barbadosboattrips.com/wp-content/uploads/2020/03/IMG-20200302-WA0001.jpg",
+        "https://barbadosboattrips.com/wp-content/uploads/2021/12/IMG-20211207-WA0004.jpg",
+        "https://barbadosboattrips.com/wp-content/uploads/2024/11/IMG-20241103-WA0001.jpg",
+        "https://barbadosboattrips.com/wp-content/uploads/2024/08/IMG-20240809-WA0019.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://barbadosboattrips.com/services/",
+      "checkNotes": "Priced per hour for the party rather than per person, so priceFrom is null. Filleting the catch comes from a gallery caption. No minimum hours, departure point or times stated."
+    },
+    {
+      "title": "Party packages",
+      "kind": "charter",
+      "summary": "Exclusive private hire of BluBel II, the glass-bottom boat, for a party or celebration. Past groups have hired it for an afternoon of swimming and cruising along the coast.",
+      "highlights": [
+        "Exclusive private hire of BluBel II",
+        "Two-storey glass-bottom boat",
+        "Children five years old or under go free"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Private hire of BluBel II", "amount": 600, "currency": "USD", "note": "Exclusive private hire for your celebration" },
+        { "label": "Private hire of BluBel II", "amount": 1200, "currency": "BBD", "note": "Exclusive private hire for your celebration" }
+      ],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://barbadosboattrips.com/wp-content/uploads/2024/10/IMG-20241015-WA0009.jpg",
+        "https://barbadosboattrips.com/wp-content/uploads/2023/02/IMG-20230126-WA0011.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://barbadosboattrips.com/pricing/",
+      "checkNotes": "Per-boat price, so priceFrom is null. Duration of the hire and group size limit are not stated. The 'afternoon swimming and cruising' detail comes from a gallery caption about one group's private hire."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Special discounts on all packages on request",
+      "conditions": "Call, WhatsApp, email or text message to ask",
+      "validUntil": null,
+      "sourceUrl": "https://barbadosboattrips.com/pricing/"
+    },
+    {
+      "text": "Bespoke packages created with Captain Damo",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://barbadosboattrips.com/about/"
+    }
+  ],
+  "checkNotes": "The site never states where trips leave from. Town 'Holetown' comes from the operator list (base Holetown Beach, St. James) and a gallery caption that mentions a manta ray 'just off Holetown'; confirm with the operator. No online booking: phone, WhatsApp, email, text or contact form only, and the site shows no wa.me link. The site looks active: the pricing page was last modified 18 Aug 2026 according to the site's own WordPress API and the gallery has 2025 photos. The header logo slot holds a cropped boat photo rather than a logo."
+}

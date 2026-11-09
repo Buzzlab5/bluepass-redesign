@@ -1,0 +1,66 @@
+{
+  "slug": "turquoise-safaris",
+  "logo": "https://static.wixstatic.com/media/ba6bd5_737cfca9059c49e2882f84eda8170efb~mv2.png",
+  "heroImage": "https://static.wixstatic.com/media/1e425d_7d42a4a2979f4a2781365fad0b45a8a8~mv2.jpg",
+  "gallery": [
+    "https://static.wixstatic.com/media/1e425d_7d42a4a2979f4a2781365fad0b45a8a8~mv2.jpg",
+    "https://static.wixstatic.com/media/1e425d_adbf386958b44663b5b17ac02b36d047~mv2.jpg",
+    "https://static.wixstatic.com/media/1e425d_7107bd76463647da995839c44362bf6b~mv2.jpg",
+    "https://static.wixstatic.com/media/1e425d_f8684e738d614515902512e85e9ac4e3~mv2.jpg",
+    "https://static.wixstatic.com/media/1e425d_e1b871bc5f9a42beb69b7e4ac3f30914~mv2.jpg",
+    "https://static.wixstatic.com/media/1e425d_9175d09541494571be3af7b94147ef4a~mv2.jpg",
+    "https://static.wixstatic.com/media/1e425d_02ce34f104b64f90a0567c017ff1ee7c~mv2.jpg",
+    "https://static.wixstatic.com/media/1e425d_ba96d89d8799497bbefcdc4a20a7030a~mv2.jpg",
+    "https://static.wixstatic.com/media/1e425d_1ef52fd134ca4139b6e5ac445d7a6245~mv2.jpg",
+    "https://static.wixstatic.com/media/1e425d_fc39383532b84345ab81e1f9e6c587ad~mv2.jpg",
+    "https://static.wixstatic.com/media/1e425d_6f01f161d74346f7bf952ccac8e9189b~mv2.jpg",
+    "https://static.wixstatic.com/media/1e425d_bf7d43eb672c4fb19eb724b17a08d190~mv2.jpg",
+    "https://static.wixstatic.com/media/ba6bd5_4164440a391a42a0ad72432cc7d51070~mv2.jpeg",
+    "https://static.wixstatic.com/media/1e425d_d5e276aedd3e4b86b17ecb5385bb756b~mv2.jpeg",
+    "https://static.wixstatic.com/media/ba6bd5_448822d22c4e427c964175ef06293cef~mv2.jpeg",
+    "https://static.wixstatic.com/media/1e425d_e890bb78d2dd47d091ab2b78ac99d98e~mv2.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=O79ArGGCKk4",
+      "title": "Jurien Bay sea lions",
+      "sourceUrl": "https://www.youtube.com/channel/UCxB5j8BKDVr-aY_Rxm6l1zA"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3hnNrueB-8A",
+      "title": "Swimming with sea lions, 360 underwater video",
+      "sourceUrl": "https://www.youtube.com/channel/UCxB5j8BKDVr-aY_Rxm6l1zA"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=P2HU6ykZgac",
+      "title": "Turquoise Safaris 360 promo video",
+      "sourceUrl": "https://www.youtube.com/channel/UCxB5j8BKDVr-aY_Rxm6l1zA"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ywzXg_nac8s",
+      "title": "Things to do in Jurien Bay, 360",
+      "sourceUrl": "https://www.youtube.com/channel/UCxB5j8BKDVr-aY_Rxm6l1zA"
+    },
+    {
+      "url": "https://video.wixstatic.com/video/1e425d_bc060a2547234a5fa5caa21925fc83ed/1080p/mp4/file.mp4",
+      "title": "Home page background footage",
+      "sourceUrl": "https://www.turquoisesafaris.com.au/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Sea Lion Tours",
+      "images": [
+        "https://static.wixstatic.com/media/1e425d_adbf386958b44663b5b17ac02b36d047~mv2.jpg",
+        "https://static.wixstatic.com/media/1e425d_7d42a4a2979f4a2781365fad0b45a8a8~mv2.jpg",
+        "https://static.wixstatic.com/media/1e425d_1ef52fd134ca4139b6e5ac445d7a6245~mv2.jpg",
+        "https://static.wixstatic.com/media/1e425d_fc39383532b84345ab81e1f9e6c587ad~mv2.jpg",
+        "https://static.wixstatic.com/media/ba6bd5_4164440a391a42a0ad72432cc7d51070~mv2.jpeg",
+        "https://static.wixstatic.com/media/1e425d_6f01f161d74346f7bf952ccac8e9189b~mv2.jpg",
+        "https://static.wixstatic.com/media/1e425d_ba96d89d8799497bbefcdc4a20a7030a~mv2.jpg",
+        "https://static.wixstatic.com/media/1e425d_86e1024d644b40afa3cfefc3364e5d79~mv2.jpg"
+      ]
+    }
+  ],
+  "notes": "No bot check, captcha or 403 on any page; the site is a Wix site and all pages answered normally. No Rezdy page was opened. Images were recorded by URL only and none were downloaded or viewed, so choices follow page position and the site's own alt text, and the importer's measuring should decide what is usable. All image URLs are the original-size Wix files (no resize suffix) and each answered a header request. Logo is the header logo (ba6bd5_737c...png), the original file; the header shows a cropped version. heroImage is the home page's own wide wildlife photo (its share image, alt text 'Swimming with Sea Lions'); no better wide shot could be judged without viewing the photos. Gallery leads with that photo and the tour page's lead photo, then the home page slideshow photos, the drone photos of Jurien Bay Marine Park, sea lion close-ups, the boat and the snorkelling photo from the tour page. The Sea Lion Tours page is the trip's only page, so the trip photos are every photo on it, best first. Left out: 1e425d_9086bc30...jpg (home page card; its file name carries a photographer's name, ShendellHayPhoto, so it may not be the operator's own); ba6bd5_084cb6...jpeg ('Pinnacles.jpeg', a land attraction and a banner strip on the About page); ba6bd5_5c530c...jpeg (alt text 'Sea Lion Close to the camera', same file size as the tour page lead photo, so treated as a repeat); the 1e425d_bc060a25...f000.jpg frame, which is the still for the home page background video; logos, badges, social icons and the favicon. For a person to check: two gallery photos come from a second Wix media library (ba6bd5_ prefix, which also holds the logo and badges) and should be confirmed as the operator's own: the snorkelling photo (alt text 'Snorkelling Family') and the first home slideshow slide. Also check 1e425d_86e1024d...jpg in the trip list, whose file name looks like a Facebook download. The site's Terms and Conditions say its images and footage are owned by the business and may not be reproduced without written permission, so photo use needs the operator's approval. Videos: the site embeds no YouTube or Vimeo videos on its pages. Its home page links to the YouTube channel UCxB5j8BKDVr-aY_Rxm6l1zA (channel name Turquoise Safaris), read through the channel's public feed. The four sea lion and Jurien Bay videos are from 2018 and 2019, so the footage may show older vessels or gear. Left out from the channel: a 2017 fishing video, 2015 fishing knot videos, a 2015 dolphin video and a 2014 octopus video, none about the sea lion tour. The last video is a file the site hosts itself: the home page background video loop (1080p, about 44 MB, a large file). Its content was not viewed."
+}

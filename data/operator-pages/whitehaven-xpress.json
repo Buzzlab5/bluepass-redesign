@@ -1,0 +1,93 @@
+{
+  "slug": "whitehaven-xpress",
+  "name": "Whitehaven Xpress",
+  "website": "https://whitehavenxpress.com.au",
+  "rezdyAlias": "whitehavenxpress",
+  "state": "QLD",
+  "town": "Airlie Beach",
+  "category": "Whitehaven Beach day tours",
+  "summary": "A full-day boat tour from Airlie Beach to Whitehaven Beach and Hill Inlet, run by a family-owned business founded in 1989 and now captained by Dan, the founders' son. Guests have time on Whitehaven Beach, a beach BBQ lunch cooked by the captain, and an optional guided walk to the Hill Inlet lookout. Return transfers from Airlie Beach accommodation are included.",
+  "standouts": [
+    "Founded in 1989 by Jill and Terry McNally and now run by their son, Captain Dan",
+    "Captain Dan has been the captain of Whitehaven Xpress since 1996",
+    "Return transfers from Airlie Beach accommodation are included in the fare",
+    "Beach BBQ lunch cooked by the captain on Whitehaven Beach"
+  ],
+  "contact": {
+    "phone": "+61 7 4946 1585",
+    "email": "bookings@whitehavenxpress.com.au",
+    "address": "Coral Sea Marina (Meeting Point B), Airlie Beach QLD"
+  },
+  "heroImage": "https://www.whitehavenexpress.com.au/wp-content/uploads/2019/03/whitehaven_hero2_1280.jpg",
+  "sourceUrls": [
+    "https://whitehavenxpress.com.au/",
+    "https://www.whitehavenexpress.com.au/",
+    "https://www.whitehavenexpress.com.au/sitemap.xml",
+    "https://www.whitehavenexpress.com.au/sitemap-pages.xml",
+    "https://www.whitehavenexpress.com.au/airlie-beach-to-whitehaven-beach/",
+    "https://www.whitehavenexpress.com.au/airlie-beach-tours-hill-inlet/",
+    "https://www.whitehavenexpress.com.au/whitehaven-beach-bbq/",
+    "https://www.whitehavenexpress.com.au/what-is-included/",
+    "https://www.whitehavenexpress.com.au/faq/",
+    "https://www.whitehavenexpress.com.au/terms-and-conditions/",
+    "https://www.whitehavenexpress.com.au/our-story/",
+    "https://www.whitehavenexpress.com.au/drop-us-a-line/",
+    "https://www.whitehavenexpress.com.au/top-things-to-do-airlie-beach-2/",
+    "https://www.whitehavenexpress.com.au/airlie-beach-pet-friendly/",
+    "https://www.youtube.com/channel/UC5z286ej-i1HRUrIhaNXOOQ/videos"
+  ],
+  "trips": [
+    {
+      "title": "Hill Inlet & Whitehaven Beach Tour from Airlie Beach",
+      "kind": "tour",
+      "summary": "A full-day boat tour from Coral Sea Marina in Airlie Beach to Whitehaven Beach and Hill Inlet on Whitsunday Island, a little over an hour by fast cruise. Guests go ashore at Whitehaven Beach for a BBQ lunch under the Whitsunday Island National Park canopy, with an optional guided bush walk to the Whitehaven Lookout. The boat then moves to the northern end for the Hill Inlet lookout and a walk down to the beach.",
+      "highlights": [
+        "BBQ lunch cooked to order by the captain on Whitehaven Beach, with vegetarian, vegan and pescatarian meals on request",
+        "Optional guided bush walks to the Whitehaven Lookout and the Hill Inlet lookout",
+        "A cruise along the full length of Whitehaven Beach",
+        "Complimentary return transfers from Airlie Beach accommodation"
+      ],
+      "duration": "Approximately 5 hours on the island (about 3 hours at Whitehaven Beach and 2 hours at Hill Inlet), plus the cruise from Airlie Beach",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Daily, except 24, 25 and 26 December and New Year's Day",
+      "departsFrom": "Coral Sea Marina, Airlie Beach (Meeting Point B, north end of the marina); return transfers from Airlie Beach accommodation included",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Beach BBQ lunch cooked to order (rump steak, sausages, chilli burgers, salads and a tropical fruit platter)",
+        "Vegetarian, vegan and pescatarian meals on request, ordered before the day",
+        "Morning tea and coffee with biscuits, and afternoon cheese and biscuits",
+        "Complimentary return transfers from Airlie Beach accommodation",
+        "Complimentary stinger suit (seasonal)",
+        "Optional guided bush walks to the Whitehaven Lookout and the Hill Inlet lookout",
+        "A cruise along the full length of Whitehaven Beach",
+        "Complimentary drinking water refills on board",
+        "Marine Park fees, National Park fees and GST are included in the fare"
+      ],
+      "bring": [
+        "Sunglasses, hat, sunscreen, swimwear, towel and walking shoes",
+        "Refillable water bottle",
+        "Camera",
+        "Cash for the bar (alcoholic and non-alcoholic drinks are sold on board and ashore)",
+        "A light jacket for cooler days and the winter months",
+        "Optional: your own snorkel mask (snorkelling is not part of the tour)"
+      ],
+      "requirements": "Suitable for all ages, from infants to seniors, with room on board for strollers. Non-smoking vessel. An electronic signed release is required from all participants before departure. Passengers must contact the operator 48 hours before travel to reconfirm the booking, bus pick-up time and location.",
+      "offer": null,
+      "images": [
+        "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/11/whitehaven-beach-aerial-view.jpg",
+        "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/11/driftwood-tree-at-hill-inlet.jpg",
+        "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/12/whitehaven-beach-tour-from-airlie-beach.jpg",
+        "https://www.whitehavenexpress.com.au/wp-content/uploads/2022/07/Go-To-Whitehaven-Beach.jpg"
+      ],
+      "bookingLinks": [
+        "https://whitehavenxpress.rezdy.com/398825/the-ultimate-whitehaven-beach-hill-inlet-experience"
+      ],
+      "sourceUrl": "https://www.whitehavenexpress.com.au/",
+      "checkNotes": "One tour only. The home page, the Whitehaven Beach page, the Hill Inlet page and the BBQ page all describe stops on this same day tour, and every Book Now button on the site goes to the same Rezdy product (398825), so they are one trip, not three. Title taken from the home page headline without the word 'Best'; the booking link calls it 'The Ultimate Whitehaven Beach & Hill Inlet Experience'. No prices anywhere on the site, and no departure or pick-up time (the Terms say to contact the operator 48 hours before to confirm the bus pick-up time), so prices are [] and departureTimes is []; both are only in the Rezdy booking page, which was not opened. Only the island time is stated, never the whole day: the Whitehaven Beach page says 'approx. 5 hours on the island', the Inclusions page says Whitehaven Beach 3 hrs and Hill Inlet 2 hrs, and the FAQ says approximately 2.5 to 3 hours on Whitehaven Beach. The cruise is 'a little over a 1 hour fast cruise' (Whitehaven Beach page). Cancellation wording conflicts: the Terms say cancellations are accepted up to 24 hours before and the fare is non-refundable inside 24 hours, while the FAQ says you can cancel for a full refund if worried about the weather; the operator cancels with a full refund for strong wind warnings or unsafe conditions. Capacity is a maximum of 47 passengers, usually capped at 37 (FAQ). Stinger suits are described as seasonal and not mandatory (FAQ). Drinks are for sale (cash) and alcohol service is at the discretion of the crew. The guided walks at Whitehaven Beach and Hill Inlet are optional. The Inclusions page also lists 'Cold beverages taken ashore for purchase', which is not an inclusion."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "The listed website whitehavenxpress.com.au redirects (301) to the real site at whitehavenexpress.com.au (with an 'e'); all pages were read there. The email address uses the xpress spelling. The site sells one day tour and nothing else: no private charters, vouchers, packages or other products were found. The Top 5 Things To Do page mentions a scenic flight over Heart Reef (linked to GSL Aviation), the Whitsunday Crocodile Safari and the Whitsunday Sailing Club; these are other businesses, so they are not included, and the Pet Friendly page is cafes, accommodation and vets, not trips. Meeting place: the Contact page says the vessel is berthed at Coral Sea Marina, Meeting Point B, and departs from the north end; car parking is a 5-minute walk away at $10 per day, or complimentary pick-up from a free parking area at Altmann Avenue, Cannonvale. The structured data in the page source (not shown to visitors) gives a mailing address of 45 Orchid Rd, Cannon Valley 4802, which is not where trips leave from, so it was not used. Phone is shown as 07 4946 1585 in the header and +617 4946 1585 on the Contact page. The footer shows QTIC, GBRMPA Eye on the Reef and '2022 BOQE' logos with no text explaining them, so no accreditation is claimed. The site calls Whitehaven Beach voted the best beach in the world (a third-party news link), says the Hill Inlet lookout is the second most photographed location in Australia, and says it offers the longest time at Hill Inlet and Whitehaven Beach of any tour; these claims were left out of the copy. Page dates in the sitemap are mostly 2022 to 2024, with the home page updated June 2026 and a 2025 crew photo on it; nothing says the tour is not running. Facebook, Instagram, X and the TripAdvisor reviews link were not opened. The FAQ links a YouTube stinger-suit video; whether it is the operator's own was not checked."
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "breezing-watersports",
+  "logo": "https://breezingwatersportsbarbados.com/wp-content/uploads/2026/03/logo7_new-e1778442159449.png",
+  "heroImage": "https://breezingwatersportsbarbados.com/wp-content/uploads/2025/12/Header-scaled.jpeg",
+  "gallery": [
+    "https://breezingwatersportsbarbados.com/wp-content/uploads/2026/02/2025-12-24-12.14.12.jpg",
+    "https://breezingwatersportsbarbados.com/wp-content/uploads/2017/07/IMG_20180603_144939_464.jpg",
+    "https://breezingwatersportsbarbados.com/wp-content/uploads/2017/07/IMG_20180603_163848_395.jpg",
+    "https://breezingwatersportsbarbados.com/wp-content/uploads/2017/07/IMG_20180610_153755_003.jpg",
+    "https://breezingwatersportsbarbados.com/wp-content/uploads/2019/01/boat.jpeg",
+    "https://breezingwatersportsbarbados.com/wp-content/uploads/2019/01/8ooi574w.jpg",
+    "https://breezingwatersportsbarbados.com/wp-content/uploads/2019/01/vlYfiTOw.jpg",
+    "https://breezingwatersportsbarbados.com/wp-content/uploads/2017/07/eutv8BAJ.jpeg",
+    "https://breezingwatersportsbarbados.com/wp-content/uploads/2017/07/received_10155044918653250.jpeg",
+    "https://breezingwatersportsbarbados.com/wp-content/uploads/2017/07/IMG_20190822_001957_515-e1566447814352.jpg",
+    "https://breezingwatersportsbarbados.com/wp-content/uploads/2026/01/LyJWAaYA.jpeg",
+    "https://breezingwatersportsbarbados.com/wp-content/uploads/2026/01/20260311_095232.jpg",
+    "https://breezingwatersportsbarbados.com/wp-content/uploads/2026/02/16807060_10154336686453059_4958923300630608312_n.jpg",
+    "https://breezingwatersportsbarbados.com/wp-content/uploads/2026/02/2018-06-16-13.08.12-e1529416781556.jpg",
+    "https://breezingwatersportsbarbados.com/wp-content/uploads/2026/01/20190612_143500-e1561032296149-500x500-1.jpg",
+    "https://breezingwatersportsbarbados.com/wp-content/uploads/2026/01/20190629_161108-e1730832568574-500x500-1.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Snorkeling Tour",
+      "images": [
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2017/07/IMG_20180603_144939_464.jpg",
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2017/07/IMG_20180603_163848_395.jpg",
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2017/07/IMG_20180610_153755_003.jpg",
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2019/01/boat.jpeg",
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2019/01/8ooi574w.jpg",
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2019/01/vlYfiTOw.jpg",
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2017/07/eutv8BAJ.jpeg",
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2017/07/received_10155044918653250.jpeg",
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2017/07/IMG_20190822_001957_515-e1566447814352.jpg"
+      ]
+    },
+    {
+      "title": "Private Charter",
+      "images": [
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2019/01/boat.jpeg"
+      ]
+    },
+    {
+      "title": "Jet Ski Rental",
+      "images": [
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2026/01/LyJWAaYA.jpeg",
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2026/01/20260311_095232.jpg",
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2026/01/20230618_133126-1-scaled-1.jpg"
+      ]
+    },
+    {
+      "title": "Clear Kayak Rental",
+      "images": [
+        "https://breezingwatersportsbarbados.com/wp-content/uploads/2026/01/WhatsApp-Image-2024-06-19-at-20.12.45_2724f214-1024x682-1.jpg"
+      ]
+    }
+  ],
+  "notes": "WordPress (Elementor) site, no bot check. Full-size files used in place of the 605x465 crops; each was checked to load. Hero is the site header background (Header-scaled.jpeg). Logo is the edited header logo shown on the site; an unedited original also exists at https://breezingwatersportsbarbados.com/wp-content/uploads/2026/03/logo7_new.png. Left out as stock or not the operator's own: iStock-1405771320 and iStock-1308885275 (stock), 51JyXycnG7L._UF10001000_QL80_ (a retail product image), cz24-clear-kayak-beach-snorkel-combo-cozumel-002 (another business in Cozumel), kayak-4-scaled-e1722005356363-768x501-1 (origin unclear) and JadaSimms-01 (named for a person, origin unclear), all on the kayak page. Also left out the Holetown parking photo (holetownparking-scaled.jpg). The last two gallery photos are small team portraits from the about page. No videos on the site."
+}

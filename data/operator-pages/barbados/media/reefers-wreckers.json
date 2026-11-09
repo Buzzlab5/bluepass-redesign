@@ -1,0 +1,69 @@
+{
+  "slug": "reefers-wreckers",
+  "logo": "https://scubadiving.bb/wp-content/uploads/2016/06/reefers-and-wreckers-logo.png",
+  "gallery": [
+    "https://scubadiving.bb/wp-content/uploads/revslider/notgeneric1/slider.jpg",
+    "https://scubadiving.bb/wp-content/uploads/revslider/notgeneric1/reefers-bg.jpg",
+    "https://scubadiving.bb/wp-content/uploads/2016/06/dive-with-us-bg.jpg",
+    "https://scubadiving.bb/wp-content/uploads/2016/01/homepage-photo.png",
+    "https://scubadiving.bb/wp-content/uploads/2016/10/dive-site-img.png"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Dive With Us",
+      "images": [
+        "https://scubadiving.bb/wp-content/uploads/2016/06/dive-with-us-bg.jpg"
+      ]
+    },
+    {
+      "title": "Night Dive",
+      "images": [
+        "https://scubadiving.bb/wp-content/uploads/2016/06/dive-with-us-bg.jpg"
+      ]
+    },
+    {
+      "title": "One Day Resort Course",
+      "images": [
+        "https://scubadiving.bb/wp-content/uploads/2016/01/homepage-photo.png"
+      ]
+    },
+    {
+      "title": "Pool Demonstrations",
+      "images": [
+        "https://scubadiving.bb/wp-content/uploads/2016/10/dive-site-img.png"
+      ]
+    },
+    {
+      "title": "PADI Open Water",
+      "images": [
+        "https://scubadiving.bb/wp-content/uploads/2016/10/dive-site-img.png"
+      ]
+    },
+    {
+      "title": "PADI Advanced Diver",
+      "images": [
+        "https://scubadiving.bb/wp-content/uploads/2016/10/dive-site-img.png"
+      ]
+    },
+    {
+      "title": "PADI Rescue Diver",
+      "images": [
+        "https://scubadiving.bb/wp-content/uploads/2016/10/dive-site-img.png"
+      ]
+    },
+    {
+      "title": "Dive Master Course",
+      "images": [
+        "https://scubadiving.bb/wp-content/uploads/2016/06/dive-with-us-bg.jpg"
+      ]
+    },
+    {
+      "title": "Deep Diver, Night Diver and Wreck Diver",
+      "images": [
+        "https://scubadiving.bb/wp-content/uploads/2016/06/dive-with-us-bg.jpg"
+      ]
+    }
+  ],
+  "notes": "The site has very few photos: a home slider image, page backgrounds, one home page photo and one services image. Trip pages do not exist; trips sit on the Dive With Us and Our Services pages, so trip images are those pages' photos. Left out the dive site map, course icons, a recommendation badge, revslider decoration files and the Special Dive Show Deals flyer (an image of text). The only video reference is a YouTube link left in the Dive With Us page's meta description, not shown on the page and posted by another channel (Un-ordinary Travels), so it is not recorded. No YouTube or Vimeo channel is linked."
+}

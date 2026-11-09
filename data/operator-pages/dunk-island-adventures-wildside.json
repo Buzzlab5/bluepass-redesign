@@ -1,0 +1,134 @@
+{
+  "slug": "dunk-island-adventures-wildside",
+  "name": "Wildside Adventures",
+  "website": "https://wildsideadventures.com.au",
+  "rezdyAlias": "wildside",
+  "state": "QLD",
+  "town": "Mission Beach",
+  "category": "Reef snorkelling and rafting",
+  "summary": "Family-owned adventure operator at Mission Beach in Far North Queensland. It runs small-group snorkel tours and private charters to Dunk Island and the Great Barrier Reef, and guided white water rafting on the Tully River. It also runs the Echo Creek Adventure Centre for school and corporate groups.",
+  "standouts": [
+    "Best of Queensland Experiences 2025, recognised by Tourism and Events Queensland",
+    "Sustainable Tourism certified operator",
+    "Describes itself as Dunk Island's preferred inner reef partner",
+    "Reef tours limited to 10 guests, with the guide in the water"
+  ],
+  "contact": {
+    "phone": "+61 7 4088 6212",
+    "email": "go@wildsideadventures.com.au",
+    "address": "Tully Mission Beach Road, Wongaling Beach QLD 4852"
+  },
+  "heroImage": "https://wildsideadventures.com.au/wp-content/uploads/wildside/heroes/snorkelling-hero.webp",
+  "sourceUrls": [
+    "https://wildsideadventures.com.au/",
+    "https://wildsideadventures.com.au/dunk-island/",
+    "https://wildsideadventures.com.au/dunk-island/snorkelling-tours/",
+    "https://wildsideadventures.com.au/dunk-island/private-charters/",
+    "https://wildsideadventures.com.au/white-water-rafting/",
+    "https://wildsideadventures.com.au/white-water-rafting/sports-rafting/",
+    "https://wildsideadventures.com.au/white-water-rafting/river-rafting/",
+    "https://wildsideadventures.com.au/gift-vouchers/",
+    "https://wildsideadventures.com.au/faq/",
+    "https://wildsideadventures.com.au/contact/",
+    "https://wildsideadventures.com.au/about/our-story/",
+    "https://wildsideadventures.com.au/about/meet-the-guides/",
+    "https://wildsideadventures.com.au/about/sustainability/",
+    "https://wildsideadventures.com.au/gallery/",
+    "https://wildsideadventures.com.au/adventure-centre/",
+    "https://wildsideadventures.com.au/adventure-centre/laser-tag/",
+    "https://wildsideadventures.com.au/sitemap_index.xml",
+    "https://wildsideadventures.com.au/page-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Dunk Island Snorkelling Tours",
+      "kind": "snorkel",
+      "summary": "A half-day small-group snorkel tour from Mission Beach to Dunk Island, a 20-minute boat ride away inside the Great Barrier Reef Marine Park. Groups are limited to 10 guests and the guide snorkels in the water with them. All snorkelling gear is provided and no experience is needed.",
+      "highlights": [
+        "Maximum 10 guests per tour",
+        "Guide snorkels in the water with the group",
+        "20-minute boat ride from Mission Beach to Dunk Island",
+        "Snorkel, mask, fins and wetsuit or stinger suit provided"
+      ],
+      "duration": "Half day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Year-round",
+      "departsFrom": "Mission Beach (the boat leaves from the beach)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Snorkel, mask and fins",
+        "Wetsuit or stinger suit (stinger suits provided November to May, wetsuits available year-round)",
+        "Guide in the water with the group",
+        "Boat trip to Dunk Island and time on the island",
+        "Snorkelling vests and flotation aids available for those who need them"
+      ],
+      "bring": [
+        "Towel",
+        "Reef-safe sunscreen",
+        "Swimmers and a hat",
+        "Water",
+        "Your own mask if you need prescription lenses",
+        "Leave valuables at your accommodation"
+      ],
+      "requirements": "No experience needed. Non-swimmers can join and should tell Wildside at booking so the right support is ready. No minimum age is stated.",
+      "offer": null,
+      "images": [
+        "https://wildsideadventures.com.au/wp-content/uploads/wildside/heroes/snorkelling-hero.webp",
+        "https://wildsideadventures.com.au/wp-content/uploads/wildside/reef/boat-snorkelling.webp",
+        "https://wildsideadventures.com.au/wp-content/uploads/wildside/reef/underwater-closeup.webp",
+        "https://wildsideadventures.com.au/wp-content/uploads/wildside/reef/seasonal-marine-life.webp"
+      ],
+      "bookingLinks": [
+        "https://wildside.rezdy.com/catalog/632851/dunk-island"
+      ],
+      "sourceUrl": "https://wildsideadventures.com.au/dunk-island/snorkelling-tours/",
+      "checkNotes": "No price appears anywhere on the site for this tour, so prices is empty; prices are only in the booking system, which was not opened. The booking link is Rezdy's Dunk Island catalog page, not a single product page. Duration and times: the tour page says half day, leaving Mission Beach in the morning and back by early afternoon, with exact times confirmed at booking. The Dunk Island page also shows a tile reading All Day, which conflicts with half day; used half day. Reef-safe sunscreen is called preferred on the tour page and required on the Sustainability page. The FAQ page still has unfinished placeholder text for this tour's duration, stingers, non-swimmers and marine life; used the tour page. Stinger season is stated as November to May. The site says the guide is in the water at all times. No minimum age is given."
+    },
+    {
+      "title": "Dunk Island Private Charters",
+      "kind": "charter",
+      "summary": "An exclusive boat charter to Dunk Island and the Great Barrier Reef for one group. Departure time and itinerary are flexible, with snorkelling, time on the island, or both. A local guide is on board and in the water, and snorkelling gear is provided.",
+      "highlights": [
+        "Boat and guide for your group only",
+        "Flexible departure time and itinerary",
+        "Snorkelling equipment provided",
+        "Catering available on enquiry"
+      ],
+      "duration": "Custom, with standard and extended options",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Year-round",
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Exclusive use of the boat",
+        "Local guide on board and in the water",
+        "Snorkel, mask, fins and wetsuit or stinger suit"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://wildsideadventures.com.au/wp-content/uploads/wildside/heroes/private-charters-hero.webp",
+        "https://wildsideadventures.com.au/wp-content/uploads/wildside/reef/private-charter-snorkel.webp",
+        "https://wildsideadventures.com.au/wp-content/uploads/wildside/reef/private-charter-boat.webp",
+        "https://wildsideadventures.com.au/wp-content/uploads/wildside/reef/snorkelling-crosssell.webp"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://wildsideadventures.com.au/dunk-island/private-charters/",
+      "checkNotes": "Sold by enquiry (phone (07) 4088 6212 or the contact form): the page says charters are enquiry-first, with availability and pricing on request, so no booking link is recorded. The page's Book Now and Book Private Charter buttons only point to the general Rezdy all-tours catalog (wildside.rezdy.com/catalog/82266/all-tours), not a charter product. No price, group size limit, duration or departure point is stated. Year-round comes from the home page card covering snorkelling tours and private charters."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers for rafting, Dunk Island reef tours and Adventure Centre activities, delivered by email",
+      "conditions": "Bought online with digital delivery and redeemed online with a voucher code within the validity period. The validity period is not stated.",
+      "validUntil": null,
+      "sourceUrl": "https://wildsideadventures.com.au/gift-vouchers/"
+    }
+  ],
+  "checkNotes": "CHECK BEFORE APPROVING: the website looks mid-rebuild ([CONTENT REQUIRED] and [PRICE REQUIRED] placeholders), times, durations and the address are unconfirmed, and the gallery may hold placeholder or generated images (the Gallery page shows [PHOTO: ...] text beside them). Left off the page as not marine: Sports Rafting, River Rafting. The site looks to be mid-rebuild: the FAQ page still has unfinished placeholder text (CONTENT REQUIRED) including the address answer, the Gallery page has PHOTO placeholders, and the Gift Vouchers page shows PRICE REQUIRED for the reef and Adventure Centre vouchers. Treat times, durations and the address as unconfirmed. The address is from the Contact page (Tully Mission Beach Road, Wongaling Beach QLD 4852) and the structured data; the footer shows only Mission Beach, Far North Queensland, Australia 4852. Phone shown as (07) 4088 6212. Name: the site trades as Wildside Adventures (also styled WiLD SiDE Adventures; company WiLD SiDE Adventures Pty Ltd); our list calls it Dunk Island Adventures. The Meet the Guides page mentions Get Dunked tours around Dunk Island, which is not used as a title on any tour page. No prices are published for the reef tour or charters; the only prices are $150 per person for rafting. The structured data gives a price range of $150 - $500 that the pages do not explain. Booking links are Rezdy catalog pages (alias wildside), none opened: catalog/632851/dunk-island for the reef tour, catalog/114760/rafting for rafting, catalog/82266/all-tours for the general Book Now button, and the Rezdy home page for gift vouchers. Not included as trips because they are land-based, by enquiry or phone: the Echo Creek Adventure Centre (school camps, corporate team building, activities such as archery, challenge course and bush walks, on-site accommodation) and outdoor laser tag (about 1 hour, 6 plus, minimum 6 and maximum 30 players, by phone or enquiry). Claims kept out of copy: the only commercial Tully operator with a minimum age of 6, guaranteed white water, the 4.9 Google rating, and the TripAdvisor Travellers' Choice badge (no year given). Best of Queensland Experiences 2025 and Sustainable Tourism certified are the site's own claims; the certifying body for Sustainable Tourism is not named. The photos listed are unverified, see the media file notes."
+}

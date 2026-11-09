@@ -1,0 +1,288 @@
+{
+  "slug": "jervis-bay-kayaks",
+  "name": "Jervis Bay Kayaks and Paddlesports",
+  "website": "https://jervisbaykayaks.com.au",
+  "rezdyAlias": "jervisbaykayaksnsw",
+  "state": "NSW",
+  "town": "Huskisson",
+  "category": "Kayak tours and hire",
+  "summary": "A small, family-owned paddling business based in Huskisson, run by Tayla and Emma Williams. It runs guided sit-on-top kayak, sea kayak and kayak and snorkel tours around Jervis Bay, plus kayak, paddleboard and snorkel hire. The team is mobile and picks the launch spot to suit the day's weather.",
+  "standouts": [
+    "Small, family-owned business run by Tayla and Emma Williams",
+    "Guided tours suitable for non-swimmers, with life jackets and a guide the whole time",
+    "Hire kayaks are dog friendly for small to medium dogs"
+  ],
+  "contact": {
+    "phone": "+61 2 4441 7157",
+    "email": "info@jervisbaykayaks.com.au",
+    "address": "Huskisson, NSW, 2540"
+  },
+  "heroImage": "https://jervisbaykayaks.com.au/cdn/shop/files/DJI_20250907090914_0056_D_JBK.jpg",
+  "sourceUrls": [
+    "https://jervisbaykayaks.com.au/",
+    "https://jervisbaykayaks.com.au/sitemap.xml",
+    "https://jervisbaykayaks.com.au/sitemap_pages_1.xml?from=122416660713&to=123676786921",
+    "https://jervisbaykayaks.com.au/sitemap_collections_1.xml?from=455594082537&to=455648968937",
+    "https://jervisbaykayaks.com.au/sitemap_agentic_discovery.xml",
+    "https://jervisbaykayaks.com.au/sitemap_metaobject_pages_1.xml",
+    "https://jervisbaykayaks.com.au/pages/guided-tours",
+    "https://jervisbaykayaks.com.au/pages/tours",
+    "https://jervisbaykayaks.com.au/pages/hire",
+    "https://jervisbaykayaks.com.au/pages/programs",
+    "https://jervisbaykayaks.com.au/pages/lessons",
+    "https://jervisbaykayaks.com.au/pages/community-and-corporate-events",
+    "https://jervisbaykayaks.com.au/pages/faq",
+    "https://jervisbaykayaks.com.au/pages/about-us",
+    "https://jervisbaykayaks.com.au/pages/contact-us",
+    "https://jervisbaykayaks.com.au/pages/contact",
+    "https://jervisbaykayaks.com.au/pages/cancellation-policy",
+    "https://jervisbaykayaks.com.au/collections/guided-tours",
+    "https://jervisbaykayaks.com.au/collections/hire"
+  ],
+  "trips": [
+    {
+      "title": "Sit-On-Top Kayak Tour",
+      "kind": "kayak",
+      "summary": "A relaxed 2 hour guided paddle on sit-on-top kayaks, mostly on Currambene Creek in Huskisson among mangroves and local wildlife. It is the introductory tour and suits beginners and non-swimmers, with life jackets and a guide alongside the whole time. Children from 4 can join with an adult.",
+      "highlights": [
+        "Launches from the Dent Street Kayak Launch, Huskisson",
+        "Mangroves and wildlife on Currambene Creek",
+        "Suitable for non-swimmers",
+        "Single kayak available for odd numbers"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Dent Street Kayak Launch, next to the JB Maritime Museum, Currambene Creek, Huskisson",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All gear",
+        "Life jackets",
+        "Safety briefing and instruction",
+        "Guide on the water the whole time"
+      ],
+      "bring": [],
+      "requirements": "Children must be at least 4 years old. Each child under 14 needs one adult (1:1). Under 14s cannot paddle a single kayak. Must be able to sit upright with legs stretched out for about 1.5 hours.",
+      "offer": null,
+      "images": [
+        "https://jervisbaykayaks.com.au/cdn/shop/files/DJI_20250411100258_0031_D_JBK.jpg",
+        "https://jervisbaykayaks.com.au/cdn/shop/files/DJI_20250411100300_0032_D_JBK.jpg",
+        "https://jervisbaykayaks.com.au/cdn/shop/files/DJI_20250221092632_0374_D_JBK_a73694c2-659d-4053-a5c1-985d1559a8a3.jpg",
+        "https://jervisbaykayaks.com.au/cdn/shop/files/DJI_20250106085654_0153_D_JBK.jpg"
+      ],
+      "bookingLinks": [
+        "https://jervisbaykayaksnsw.rezdy.com/catalog/486991/kayak-tours"
+      ],
+      "sourceUrl": "https://jervisbaykayaks.com.au/pages/guided-tours",
+      "checkNotes": "The guided tours page is only an embedded Rezdy catalog, so the tour's own name, price, times and inclusions are not on the site. Facts here come from the guided tours intro (\"2-hour Sit-On-Top Kayak tour\"), the homepage and the FAQ. The site calls it both \"Sit-On-Top Kayak Tours\" and \"2hr SOT Kayak Tour\". Location may move with the weather. Images chosen by what they show, as no photo is labelled per tour."
+    },
+    {
+      "title": "Jervis Bay Sea Kayak Adventure",
+      "kind": "kayak",
+      "summary": "A guided tour in sit-in sea kayaks on the open waters of Jervis Bay. Because it is exposed to wind and swell, the launch changes with conditions, most often Iluka Beach in Booderee National Park, Callala Bay or Vincentia. The meeting point is confirmed the day before.",
+      "highlights": [
+        "Sit-in sea kayaks",
+        "Common launches: Iluka Beach (Booderee NP), Callala Bay, Vincentia",
+        "Meeting point confirmed the day before",
+        "All gear included"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Varies with conditions: Iluka Beach in Booderee National Park, Callala Bay or Vincentia",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All gear"
+      ],
+      "bring": [],
+      "requirements": "Children must be at least 4 years old, with one adult per child under 14. Must fit the safety gear and kayak (seat width 45 cm at hip height, max 230 kg per double kayak) and sit upright with legs out for about 1.5 hours. No dogs.",
+      "offer": null,
+      "images": [
+        "https://jervisbaykayaks.com.au/cdn/shop/files/DJI_20250907090914_0056_D_JBK.jpg",
+        "https://jervisbaykayaks.com.au/cdn/shop/files/DJI_20250716111851_0063_D_JBK.jpg",
+        "https://jervisbaykayaks.com.au/cdn/shop/files/DJI_20250314084622_0331_D_JBK.jpg"
+      ],
+      "bookingLinks": [
+        "https://jervisbaykayaksnsw.rezdy.com/catalog/486991/kayak-tours"
+      ],
+      "sourceUrl": "https://jervisbaykayaks.com.au/pages/guided-tours",
+      "checkNotes": "Name taken from the guided tours intro (\"Jervis Bay Sea Kayak Adventure\"); the homepage calls the category \"Sea Kayak Tours\". Duration, price and times are only in the Rezdy widget. The minimum age shown is the FAQ's general kayak tour rule; confirm it applies to the sea kayak tour."
+    },
+    {
+      "title": "Paddle & Snorkel Tour",
+      "kind": "snorkel",
+      "summary": "A guided tour that combines sit-on-top kayaking with snorkelling in Jervis Bay Marine Park. The snorkelling stays within 200 metres of shore, and flotation aids are available for less confident swimmers. Launch sites change with the weather, similar to the sea kayak tour.",
+      "highlights": [
+        "Kayak and snorkel in Jervis Bay Marine Park",
+        "Snorkelling within 200 m of shore",
+        "Flotation aids for non-swimmers",
+        "Minimum age 7"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Varies with conditions within the bay: Iluka Beach in Booderee National Park, Callala Bay or Vincentia",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All gear",
+        "Life jackets and flotation aids"
+      ],
+      "bring": [],
+      "requirements": "Children must be at least 7 years old. Each child under 14 needs one adult (1:1). No dogs.",
+      "offer": null,
+      "images": [
+        "https://jervisbaykayaks.com.au/cdn/shop/files/DJI_20250219164838_0369_D_JBK.jpg",
+        "https://jervisbaykayaks.com.au/cdn/shop/files/DJI_20250219164943_0371_D_JBK.jpg",
+        "https://jervisbaykayaks.com.au/cdn/shop/files/DJI_20250206180311_0340_D_JBK.jpg"
+      ],
+      "bookingLinks": [
+        "https://jervisbaykayaksnsw.rezdy.com/catalog/486991/kayak-tours"
+      ],
+      "sourceUrl": "https://jervisbaykayaks.com.au/pages/faq",
+      "checkNotes": "The homepage calls this \"Paddle & Snorkel Tours\" and the FAQ calls it \"SOT and Snorkel Tour\" or \"SOT Kayak and Snorkel tours\". No page of its own; price, duration and times are only in the Rezdy widget."
+    },
+    {
+      "title": "Equipment Hire",
+      "kind": "other",
+      "summary": "Self-guided hire of single and double sit-on-top kayaks, stand-up paddleboards and snorkelling gear in Jervis Bay. Each hire includes safety gear, a short briefing and local tips, and the team can meet you at the water or let you take the gear away. Hire kayaks can take small to medium dogs.",
+      "highlights": [
+        "Single and double kayaks, SUPs and snorkel gear",
+        "Safety gear and briefing included",
+        "Meet at the water or take the gear away",
+        "Dog friendly kayaks (dog life jacket required)"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Mostly Currambene Creek, from the Dent Street Kayak Launch next to the JB Maritime Museum, Huskisson",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Safety gear",
+        "Quick briefing",
+        "Local tips"
+      ],
+      "bring": [
+        "Life jacket for your dog, doggie bags and water (if bringing a dog)"
+      ],
+      "requirements": "Must be able to swim confidently. Under 18s need adult on-water supervision at all times. Minimum age 4 for kayak or SUP hire and 13 for snorkel hire. Under 14s cannot paddle a single kayak solo.",
+      "offer": null,
+      "images": [
+        "https://jervisbaykayaks.com.au/cdn/shop/files/20250403_081445.jpg",
+        "https://jervisbaykayaks.com.au/cdn/shop/files/DJI_20250403083433_0373_D_JBK.jpg",
+        "https://jervisbaykayaks.com.au/cdn/shop/files/DJI_20250510074228_0038_D_JBK.jpg"
+      ],
+      "bookingLinks": [
+        "https://jervisbaykayaksnsw.rezdy.com/catalog/169209/kayak-hire"
+      ],
+      "sourceUrl": "https://jervisbaykayaks.com.au/pages/hire",
+      "checkNotes": "Hire prices and durations are only in the embedded Rezdy hire catalog. The hire collection page embeds the tours catalog (486991) instead of the hire catalog (169209); the Hire page uses 169209."
+    },
+    {
+      "title": "Private Lessons",
+      "kind": "course",
+      "summary": "Tailored kayaking or snorkelling lessons for individuals or groups, from first-timers to experienced paddlers. Kayak lessons use a range of sit-on-top and sit-in kayaks, and snorkel lessons can focus on water safety, technique or marine life. Group discounts are offered and all gear is provided.",
+      "highlights": [
+        "Kayaking or snorkelling",
+        "Personalised lesson plans",
+        "Sit-on-top and sit-in kayaks to try",
+        "Group discounts available"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Jervis Bay (location arranged on enquiry)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All required gear"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": {
+        "text": "Group discounts",
+        "conditions": "Amount not stated. Contact the team.",
+        "validUntil": null
+      },
+      "images": [
+        "https://jervisbaykayaks.com.au/cdn/shop/files/DJI_20250314084622_0331_D_JBK.jpg",
+        "https://jervisbaykayaks.com.au/cdn/shop/files/DJI_20250411073423_0033_D.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://jervisbaykayaks.com.au/pages/lessons",
+      "checkNotes": "Enquiry only, no price."
+    },
+    {
+      "title": "School Programs",
+      "kind": "other",
+      "summary": "Outdoor education and marine studies sessions for schools on Jervis Bay, with kayaking, snorkelling and paddleboarding. Qualified guides run the sessions and provide the gear, including snorkel sets, fins and wetsuits. Programs are tailored to the school by enquiry.",
+      "highlights": [
+        "Sit-on-top and sit-in sea kayaks",
+        "Snorkelling in Jervis Bay Marine Park",
+        "Paddleboarding, dry hire or supervised",
+        "Qualified guides"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Site chosen with the school",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All kayaking gear",
+        "Snorkel sets, fins and wetsuits",
+        "Guides"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://jervisbaykayaks.com.au/cdn/shop/files/DJI_20250403113145_0433_D_JBK_bcfd6950-1d3a-4280-93a5-7cf5db488496.jpg",
+        "https://jervisbaykayaks.com.au/cdn/shop/files/DJI_20250418125029_0079_D_JBK.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://jervisbaykayaks.com.au/pages/tours",
+      "checkNotes": "The School Programs content sits at /pages/tours. Enquiry only, no price."
+    },
+    {
+      "title": "Community and Corporate Events",
+      "kind": "other",
+      "summary": "Kayaking and snorkelling days for friends, work teams and community groups in Jervis Bay. The team caters for large groups and helps plan the day, from paddling tours to snorkel spots. Bookings are by enquiry.",
+      "highlights": [
+        "Kayaking and snorkelling",
+        "Caters for large groups",
+        "Team building or social days",
+        "Planned with the local team"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Site chosen with the group",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://jervisbaykayaks.com.au/cdn/shop/files/20250403_091342.jpg",
+        "https://jervisbaykayaks.com.au/cdn/shop/files/DJI_20250221101425_0421_D_JBK.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://jervisbaykayaks.com.au/pages/community-and-corporate-events",
+      "checkNotes": "Enquiry only, no price."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Every page shows the banner \"Looking for a sea change? We are for sale!\" linking to a business-for-sale listing on seekbusiness.com.au (not opened), so the business may change hands. No prices, durations or departure times appear anywhere on the site; all tour and hire details are inside embedded Rezdy catalogs (catalog/486991 kayak tours, catalog/169209 kayak hire; ?iframe=true removed), which were not opened. Tour names come from page text, not from product pages. No gift vouchers found. The trading hours on the contact page cover peak season 1 Sep 2025 to 19 Apr 2026 and low season 20 Apr 2026 to 1 Sep 2026, so they are out of date for the current season. Mobile operator: tours run from Callala Bay to Booderee National Park, meeting point confirmed the day before. The site writes the name as \"Jervis Bay Kayaks and Paddlesports\" (the brief had \"Jervis Bay Kayaks & Paddlesports\"); the footer says \"Jervis Bay Kayaks\". No eco certification or awards are claimed on the site."
+}

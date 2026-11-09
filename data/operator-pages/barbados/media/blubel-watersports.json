@@ -1,0 +1,66 @@
+{
+  "slug": "blubel-watersports",
+  "logo": null,
+  "gallery": [
+    "https://barbadosboattrips.com/wp-content/uploads/2024/03/20240321_114557.jpg",
+    "https://barbadosboattrips.com/wp-content/uploads/2024/10/IMG-20241015-WA0009.jpg",
+    "https://barbadosboattrips.com/wp-content/uploads/2024/10/IMG-20241025-WA0027.jpg",
+    "https://barbadosboattrips.com/wp-content/uploads/2023/02/IMG-20230126-WA0011.jpg",
+    "https://barbadosboattrips.com/wp-content/uploads/2020/08/BarbadosBoatTrips-BluBel-scaled.jpg",
+    "https://barbadosboattrips.com/wp-content/uploads/2020/08/IMG_20200610_102849_559.jpg",
+    "https://barbadosboattrips.com/wp-content/uploads/2020/08/IMG_20200627_194214_576.jpg",
+    "https://barbadosboattrips.com/wp-content/uploads/2024/11/IMG-20241103-WA0001.jpg",
+    "https://barbadosboattrips.com/wp-content/uploads/2024/08/IMG-20240809-WA0019.jpg",
+    "https://barbadosboattrips.com/wp-content/uploads/2025/02/IMG-20250213-WA0019.jpg",
+    "https://barbadosboattrips.com/wp-content/uploads/2025/02/IMG-20250213-WA0014-1.jpg",
+    "https://barbadosboattrips.com/wp-content/uploads/2025/02/IMG-20250213-WA0024.jpg",
+    "https://barbadosboattrips.com/wp-content/uploads/2023/09/IMG-20230616-WA0010-1.jpg",
+    "https://barbadosboattrips.com/wp-content/uploads/2022/11/IMG-20221114-WA0004.jpg",
+    "https://barbadosboattrips.com/wp-content/uploads/2020/08/received_254369049259112.jpeg",
+    "https://barbadosboattrips.com/wp-content/uploads/2021/12/20210808_173044-1-scaled.jpg"
+  ],
+  "videos": [
+    { "url": "https://barbadosboattrips.com/wp-content/uploads/2023/01/VID-20230123-WA0002.mp4", "title": "Clip from the gallery page", "sourceUrl": "https://barbadosboattrips.com/gallery/" },
+    { "url": "https://barbadosboattrips.com/wp-content/uploads/2022/11/ezgif.com-gif-maker.mp4", "title": "Short looping clip from the gallery page", "sourceUrl": "https://barbadosboattrips.com/gallery/" }
+  ],
+  "trips": [
+    {
+      "title": "Snorkeling",
+      "images": [
+        "https://barbadosboattrips.com/wp-content/uploads/2020/03/IMG-20200302-WA0000.jpg",
+        "https://barbadosboattrips.com/wp-content/uploads/2024/03/20240321_114557.jpg",
+        "https://barbadosboattrips.com/wp-content/uploads/2020/08/IMG_20200610_102849_559.jpg"
+      ]
+    },
+    {
+      "title": "Coastal tour",
+      "images": [
+        "https://barbadosboattrips.com/wp-content/uploads/2023/02/IMG-20230126-WA0010.jpg",
+        "https://barbadosboattrips.com/wp-content/uploads/2020/08/BarbadosBoatTrips-BluBel-scaled.jpg",
+        "https://barbadosboattrips.com/wp-content/uploads/2023/02/IMG-20230126-WA0011.jpg"
+      ]
+    },
+    {
+      "title": "Fishing trips",
+      "images": [
+        "https://barbadosboattrips.com/wp-content/uploads/2020/03/IMG-20200302-WA0001.jpg",
+        "https://barbadosboattrips.com/wp-content/uploads/2021/12/IMG-20211207-WA0004.jpg",
+        "https://barbadosboattrips.com/wp-content/uploads/2024/11/IMG-20241103-WA0001.jpg",
+        "https://barbadosboattrips.com/wp-content/uploads/2024/08/IMG-20240809-WA0019.jpg",
+        "https://barbadosboattrips.com/wp-content/uploads/2024/03/IMG-20240225-WA0005.jpg",
+        "https://barbadosboattrips.com/wp-content/uploads/2021/12/IMG-20211207-WA0003.jpg",
+        "https://barbadosboattrips.com/wp-content/uploads/2020/08/IMG_20200508_161603_107.jpg",
+        "https://barbadosboattrips.com/wp-content/uploads/2020/08/received_246854456432432.jpeg"
+      ]
+    },
+    {
+      "title": "Party packages",
+      "images": [
+        "https://barbadosboattrips.com/wp-content/uploads/2024/10/IMG-20241015-WA0009.jpg",
+        "https://barbadosboattrips.com/wp-content/uploads/2023/02/IMG-20230126-WA0011.jpg",
+        "https://barbadosboattrips.com/wp-content/uploads/2021/12/20210825_171823-scaled.jpg"
+      ]
+    }
+  ],
+  "notes": "No real logo: the header logo slot holds a cropped boat photo (cropped-cropped-IMG-20230126-WA0011.jpg), so logo is null. The site has no per-trip pages; trip photos come from the Services, Home and Pricing pages and from captioned gallery photos. Gallery skipped phone screenshots and one image whose file name suggests it was saved from Facebook. Both videos are self-hosted MP4s with no captions, so their titles are generic. No YouTube or Vimeo links found."
+}

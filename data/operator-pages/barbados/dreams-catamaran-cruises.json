@@ -1,0 +1,162 @@
+{
+  "slug": "dreams-catamaran-cruises",
+  "name": "Dreams Catamaran Cruises",
+  "website": "https://dreamscatamaranbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Catamaran cruises",
+  "summary": "A small catamaran company sailing from Wharf Road in Bridgetown, started in 2021 by Shakir Greaves. Shared cruises take 10 to 20 guests on a boat certified for about 30, with snorkel stops for turtles and shipwrecks along the west coast. Food, an open bar and snorkel gear come with every cruise.",
+  "standouts": [
+    "Started in 2021 by Shakir Greaves",
+    "Sails with 10 to 20 guests on a catamaran certified for about 30",
+    "Fountaine Pajot Athena 38 sailing catamaran, 38 ft, crew of 3",
+    "Hotel, airport and cruise port pickup offered"
+  ],
+  "contact": {
+    "phone": "+1 246 844 1113",
+    "email": "dreamscatamaran@gmail.com",
+    "address": "Wharf Road, Bridgetown, Barbados",
+    "whatsapp": "https://wa.me/12468441113"
+  },
+  "heroImage": "https://dreamscatamaranbarbados.com/uploads/cms/6a89107be10e8.png",
+  "sourceUrls": [
+    "https://dreamscatamaranbarbados.com/",
+    "https://dreamscatamaranbarbados.com/cruises",
+    "https://dreamscatamaranbarbados.com/cruises/lunch-cruise",
+    "https://dreamscatamaranbarbados.com/cruises/sunset-cruise",
+    "https://dreamscatamaranbarbados.com/cruises/private-charters",
+    "https://dreamscatamaranbarbados.com/about",
+    "https://dreamscatamaranbarbados.com/contact",
+    "https://dreamscatamaranbarbados.com/checkout?cruise=lunch-cruise&name=The+Lunch+Cruise",
+    "https://dreamscatamaranbarbados.com/checkout?cruise=afternoon-cruise&name=The+Afternoon+Cruise",
+    "https://dreamscatamaranbarbados.com/checkout?cruise=sunset-cruise&name=Sunset+Cruise"
+  ],
+  "trips": [
+    {
+      "title": "The Lunch Cruise",
+      "kind": "cruise",
+      "summary": "A five hour catamaran day along the west coast with two snorkel stops, one at Carlisle Bay for turtles and shipwrecks and one near Holetown. A family-style Bajan lunch and an open bar are served on board, and the crew guide each snorkel stop from the water.",
+      "highlights": [
+        "Two snorkel stops (turtles and shipwreck)",
+        "Stops at Carlisle Bay and Holetown",
+        "Limited to about 20 guests",
+        "Family-style Bajan lunch and open bar"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": ["09:00"],
+      "season": null,
+      "departsFrom": "Dreams Catamaran Cruises, The Wharf Rd, Bridgetown, beside the Chamberlain Bridge",
+      "prices": [
+        { "label": "Per guest", "amount": 120, "currency": "USD", "note": "Shown as $120 and up" }
+      ],
+      "priceFrom": 120,
+      "includes": [
+        "Unlimited rum punch, cocktails, wine, beers and soft drinks",
+        "Bajan buffet with fresh fish, chicken and local sides",
+        "Masks, snorkels, floating noodles and safety jackets",
+        "Experienced captain and crew",
+        "Hotel, airport and cruise port pickup offered"
+      ],
+      "bring": [
+        "Swimsuit under comfortable beach clothing",
+        "Beach towel",
+        "Sunglasses",
+        "Sunscreen (reef-safe preferred)",
+        "Hat"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://dreamscatamaranbarbados.com/uploads/cruises/6a890d06bde5e.jpg"
+      ],
+      "bookingLinks": [
+        "https://dreamscatamaranbarbados.com/checkout?cruise=lunch-cruise&name=The+Lunch+Cruise"
+      ],
+      "sourceUrl": "https://dreamscatamaranbarbados.com/cruises/lunch-cruise",
+      "checkNotes": "Currency not stated, shown as $. The cruise page tile, the lunch cruise page and the checkout all show $120; the comparison table on /cruises says $110 and up. Used $120. The FAQ says cruises leave from the Shallow Draught Harbour, but the meeting point text says Wharf Road beside the Chamberlain Bridge; used the meeting point. The checkout is a request form that says 'Payment on agreement'."
+    },
+    {
+      "title": "Sunset Cruise",
+      "kind": "cruise",
+      "summary": "An afternoon catamaran trip that leaves Bridgetown at 2:45 pm, with turtle snorkelling and dinner on board as the sun sets. A family-style Bajan dinner and an open bar are included.",
+      "highlights": [
+        "Turtle snorkelling",
+        "Sunset views",
+        "Family-style Bajan dinner and open bar",
+        "Limited to about 20 guests"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": ["14:45"],
+      "season": null,
+      "departsFrom": "Dreams Catamaran Cruises, The Wharf Rd, Bridgetown, beside the Chamberlain Bridge",
+      "prices": [
+        { "label": "Per guest", "amount": 100, "currency": "USD", "note": "Shown as $100 and up" }
+      ],
+      "priceFrom": 100,
+      "includes": [
+        "Unlimited rum punch, cocktails, wine, beers and soft drinks",
+        "Family-style Bajan dinner",
+        "Masks, snorkels, floating noodles and safety jackets",
+        "Experienced captain and crew",
+        "Hotel, airport and cruise port pickup offered"
+      ],
+      "bring": [
+        "Swimsuit under comfortable beach clothing",
+        "Beach towel",
+        "Sunglasses",
+        "Sunscreen (reef-safe preferred)",
+        "Hat",
+        "A light jacket or long sleeves for the evening"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://dreamscatamaranbarbados.com/uploads/cruises/6a890d62f0565.jpg"
+      ],
+      "bookingLinks": [
+        "https://dreamscatamaranbarbados.com/checkout?cruise=sunset-cruise&name=Sunset+Cruise"
+      ],
+      "sourceUrl": "https://dreamscatamaranbarbados.com/cruises",
+      "checkNotes": "Currency not stated, shown as $. Called 'The Afternoon Cruise' in the comparison table on /cruises. The Sunset Cruise page itself repeats the lunch cruise details (5 hours, 9:00 AM, Bajan lunch), which look copied in error; duration, departure time and meal taken from the comparison table on /cruises. The 'Book Sunset Cruise' button on /cruises opens a checkout for 'afternoon-cruise' that prices at $120; the checkout reached from the Sunset Cruise page prices at $100. Used the $100 shown on the tile, the trip page and that checkout."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "The whole catamaran for your own group, with the itinerary, timing and catering arranged to suit. A dedicated captain and crew sail with you.",
+      "highlights": [
+        "Whole boat for your private party",
+        "Personalised itinerary",
+        "Custom catering options",
+        "Dedicated captain and crew"
+      ],
+      "duration": "Customizable",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Dreams Catamaran Cruises, The Wharf Rd, Bridgetown, beside the Chamberlain Bridge",
+      "prices": [
+        { "label": "Private charter (whole boat)", "amount": 1800, "currency": "USD", "note": "Shown as $1,800 and up" }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Bespoke catering / custom options",
+        "Dedicated captain and crew"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://dreamscatamaranbarbados.com/uploads/cruises/6a8910f021df2.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://dreamscatamaranbarbados.com/cruises/private-charters",
+      "checkNotes": "Currency not stated, shown as $. Enquiry only, through the contact form at https://dreamscatamaranbarbados.com/contact?cruise=private-charters&name=Private+Charters. Price is per charter, not per person."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Prices show only '$' and never name the dollar. The home page carries Viator-style badges (free cancellation up to 24 hours before, reserve now and pay later, lowest price guarantee); not recorded as operator terms. The '6,500+ reviews on TripAdvisor' link on /cruises points to a TripAdvisor page for Silver Moon Charters, a different business, so that review count was not used. The site also links to a Viator product page, not recorded as a booking link."
+}

@@ -1,0 +1,192 @@
+{
+  "slug": "yongala-dive",
+  "name": "Yongala Dive",
+  "website": "https://yongaladive.com.au",
+  "rezdyAlias": "yongaladive",
+  "state": "QLD",
+  "town": "Alva Beach",
+  "category": "SS Yongala wreck diving",
+  "summary": "Day trips to the SS Yongala wreck from a dive centre at Alva Beach, near Ayr. Divers ride about 30 minutes by boat from a beach launch for two dives, with a maximum of 12 divers aboard. The centre also runs private charters and a PADI Divemaster internship.",
+  "standouts": [
+    "PADI 5 Star Dive Shop, established in 2003",
+    "Maximum of 12 divers on each trip, on the purpose built 10m rigid inflatable Yongala Express",
+    "Says it is the closest operator to the SS Yongala, with a boat ride of just over half an hour from Alva Beach",
+    "Says it is the only operator running Yongala trips six days a week"
+  ],
+  "contact": {
+    "phone": "+61 407 299 876 (WhatsApp, messages only; the dive centre does not take calls)",
+    "email": "info@yongaladive.com.au",
+    "address": "36 Braby Street, Alva Beach QLD 4807 (postal address: PO Box 79, Ayr QLD 4807)"
+  },
+  "heroImage": "https://images.squarespace-cdn.com/content/v1/5f713e33c793233e0493d862/1601436954372-VPH56YH85FT0RS1NUT86/YongalaDive_AlvaBeach.jpg",
+  "sourceUrls": [
+    "https://www.yongaladive.com.au/",
+    "https://www.yongaladive.com.au/ss-yongala",
+    "https://www.yongaladive.com.au/dive/privatecharters",
+    "https://www.yongaladive.com.au/padi-divemaster-courses-at-yongala",
+    "https://www.yongaladive.com.au/who-can-dive-yongala",
+    "https://www.yongaladive.com.au/frequentlyaskedquestions",
+    "https://www.yongaladive.com.au/accommodation",
+    "https://www.yongaladive.com.au/contact-us",
+    "https://www.yongaladive.com.au/about",
+    "https://www.yongaladive.com.au/ss-yongala-history",
+    "https://www.yongaladive.com.au/marine-life",
+    "https://www.yongaladive.com.au/t-cs",
+    "https://www.yongaladive.com.au/sitemap.xml",
+    "https://www.youtube.com/channel/UCnNJTzec1lq8dJU28Zshixw/videos"
+  ],
+  "trips": [
+    {
+      "title": "S.S. Yongala Dive Trip",
+      "kind": "dive",
+      "summary": "A day trip to the SS Yongala wreck with two dives, leaving by boat from the beach at Alva Beach. The ride takes about 30 minutes and the boat carries a maximum of 12 divers. The wreck lies on its side, 14 metres deep at the top and 28 metres on the sand.",
+      "highlights": [
+        "Two dives on the S.S. Yongala with qualified guides",
+        "Runs every day except Tuesdays",
+        "Beach launch on the Yongala Express, about 30 minutes to the wreck",
+        "Maximum of 12 divers on the boat"
+      ],
+      "duration": "Check-in 7:30am, last dive finishes around 1pm, day finishes at approximately 2:30pm",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Yongala Dive centre, 36 Braby Street, Alva Beach (check-in at the dive shop, then a beach boat launch)",
+      "prices": [
+        {
+          "label": "1 day diving, 2 dives",
+          "amount": 400,
+          "currency": "AUD",
+          "note": "Includes tanks, weights, taxes and the marine levy (the levy is 22 dollars, already inside this price)"
+        },
+        {
+          "label": "Gear hire per day, including dive computer (extra, not part of the trip price)",
+          "amount": 50,
+          "currency": "AUD",
+          "note": "Optional extra, per day. Full gear hire covers tanks, weights, wetsuit, mask, snorkel, BCD, computer, safety sausage and whistle. Must be added at least 24 hours before the trip"
+        },
+        {
+          "label": "PADI Advanced Open Water eLearning, bought through Yongala Dive (extra, required for Open Water divers)",
+          "amount": 240,
+          "currency": "AUD",
+          "note": "Only needed by Open Water divers who have not already bought it; PADI sells the same eLearning directly for 265 dollars. Must be added at least 24 hours before the trip"
+        },
+        {
+          "label": "PADI Deep Adventure Dive training (extra, required for Open Water divers)",
+          "amount": 50,
+          "currency": "AUD",
+          "note": "Completed with an instructor as the first dive of the trip. Must be added at least 24 hours before the trip"
+        },
+        {
+          "label": "Sea sickness tablets, each (extra)",
+          "amount": 2,
+          "currency": "AUD",
+          "note": "Sold at reception"
+        }
+      ],
+      "priceFrom": 400,
+      "includes": [
+        "30 minute boat ride from the beach to the S.S. Yongala",
+        "2 dives on the wreck",
+        "Qualified, experienced guides",
+        "Snacks and water on the vessel",
+        "Tanks and weights",
+        "Taxes and the marine levy"
+      ],
+      "bring": [
+        "Log book",
+        "Dive certification card or proof of certification (divers cannot dive without it being sighted)",
+        "Towel and jumper",
+        "Water bottle",
+        "Seasick tablets, if prone to seasickness",
+        "Your own food or snacks if you have dietary restrictions (the dive centre cannot cater for them)",
+        "Credit or debit card for merchandise and other purchases (no cash accepted)"
+      ],
+      "requirements": "Advanced Open Water certification (completed or in progress*). 10 recreational dives (Open Water & Advanced course dives do not count towards the minimum). Last dive within 12 months (if not, please book a refresher course with another dive shop prior to your SS Yongala Dive trip). 15 years of age or older. *An entry-level Open Water Certification (18m max depth) cannot dive the S.S. Yongala without beginning the Advanced Open Water certification, so Open Water divers must add the PADI Advanced Open Water eLearning and the PADI Deep Adventure Dive training to the booking. Divers only, no non-divers on the boat. Complete the digital liability and medical waiver and upload dive certification at least 24 hours before the trip.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5f713e33c793233e0493d862/7db8ff09-c508-4936-a865-44fb4c91276d/D.eebb6aa2-64f1-493f-923d-30cb1c9f4127.JPG",
+        "https://images.squarespace-cdn.com/content/v1/5f713e33c793233e0493d862/70623e23-061d-4edc-a2e2-cd2333a0984d/0ae1ceb6-a722-42d8-b7ce-dbb7e585baa4.JPG",
+        "https://images.squarespace-cdn.com/content/v1/5f713e33c793233e0493d862/85449598-49ca-45bc-986d-42b850939368/74795f28-1c62-4318-8752-f7298b16a5fb.JPG",
+        "https://images.squarespace-cdn.com/content/v1/5f713e33c793233e0493d862/1601342156028-JHEELQ9N9ZU35Q0JAGX7/YongalaDive_ShipwreckDive_GreatBarrierReef8.jpg"
+      ],
+      "bookingLinks": [
+        "https://yongaladive.rezdy.com/415300/ss-yongala-day-trip-2-dives-departing-alva-beach"
+      ],
+      "sourceUrl": "https://www.yongaladive.com.au/ss-yongala",
+      "checkNotes": "Price, inclusions and the gear hire line are from the trip page; the 22 dollar marine levy, check-in and finish times, Tuesday closure, bring list and the 24 hour pre-trip tasks are from the FAQ, and seasick tablets, full gear hire contents and own-gear rules are from the Terms and Conditions. Duration is not given as a length; times are check-in 7:30am, last dive finishes around 1pm, day ends approximately 2:30pm (FAQ). The Terms say check-in times can change with tides, and the boat departure time is not stated. The About page says trips run 6 days a week and the FAQ says every day except Tuesdays; season is not stated. Nitrox upgrade and DJI camera rental add-ons are mentioned in the FAQ but no prices are shown on the site. Requirements conflict slightly: the minimum is a last dive within 12 months, but the Who Can Dive page asks Open Water divers for a log book photo showing a dive within the last 6 months. Dive groups are guided in groups of up to 8 or self-guided with a buddy, at the crew's decision; Open Water divers must be guided. The site reads 'umper' in the bring list; taken as jumper. Rezdy link copied from the 'Check availability' button on the trip page and not opened. The site makes claims such as fastest way to the wreck and top 10 dive site; only attributed versions are used here."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "Private charters from Alva Beach to the SS Yongala wreck, designed to suit the group. The dive centre also offers a working platform for scientific or film production needs.",
+      "highlights": [
+        "Trip designed to suit your needs",
+        "Departs from Alva Beach",
+        "Explore the SS Yongala wreck on a private charter",
+        "Working platform for scientific or film production"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Alva Beach",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5f713e33c793233e0493d862/d10d9d2a-df24-43b8-b20b-d2e6592c14f2/83cfa86b-dd6d-4f90-a9a8-784f5a01c970.JPG",
+        "https://images.squarespace-cdn.com/content/v1/5f713e33c793233e0493d862/1601441884638-N71N4B1THVMSRYRF1Y2G/YongalaDive_GreatBarrierReef_AlvaBeach_QueenslandDiving-13.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5f713e33c793233e0493d862/fed53a0b-ae4d-4c3d-89ae-40f41af6e681/e07d0f75-9b36-4858-a608-84a97a2e7325.JPG",
+        "https://images.squarespace-cdn.com/content/v1/5f713e33c793233e0493d862/6fe7f8b7-1c22-40fe-86cb-bfd21263c374/71fff23a-429f-47f2-824f-d402c08f5a8e.JPG"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.yongaladive.com.au/dive/privatecharters",
+      "checkNotes": "Enquiry only: the page has no price, duration, group size or booking link. The Contact page offers a form, the email info@yongaladive.com.au and WhatsApp +61 407 299 876 (messages only). The 'Book now' button in the menu goes to the shop's general Rezdy page, not to a charter, so no booking link is recorded. Whether the usual dive requirements apply to charters is not stated."
+    },
+    {
+      "title": "PADI Divemaster Internship",
+      "kind": "course",
+      "summary": "A three month PADI Divemaster internship at the Alva Beach dive centre, with the SS Yongala as the training dive site. Interns work alongside instructors on real dive operations and build skills in guiding, leadership and dive shop work. Applications are made by emailing a resume to the dive centre.",
+      "highlights": [
+        "About 3 months, working in a professional dive centre",
+        "Dive the SS Yongala every week",
+        "Work alongside experienced instructors on real dive operations",
+        "Next step towards becoming a PADI Instructor"
+      ],
+      "duration": "About 3 months",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Dive centre at Alva Beach",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Learn to guide and supervise certified divers and organise dive activities",
+        "Fine-tune your dive skills and lead others as you supervise scuba diving activities",
+        "Management and communication skills",
+        "Dive shop operations"
+      ],
+      "bring": [],
+      "requirements": "18 years of age. Rescue Diver certification. 40 logged dives to start the DM course (If you don't have 40 dives, pre course dives will be required at additional cost depending on skill level and availability). 60 logged dives to complete the DM course. Current First Aid qualification-24 months & CPR-12 months. Dive medical.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5f713e33c793233e0493d862/1601438411782-OIODML9MH5W5ZN61CZ0R/image-asset.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.yongaladive.com.au/padi-divemaster-courses-at-yongala",
+      "checkNotes": "No price or start dates on the page. The page says to apply by emailing a resume to info@yongaladive.com.au; there is no booking link or widget, and the 'Book now' button in the menu goes to the shop's general Rezdy page, not to this course. The page uses 'Divemaster', 'Dive Master Course' and 'Divemaster Internship' for the same thing, and gives the length as ~3 months. The header photo on the page is a screenshot and a second photo shows a Museum of Underwater Art dive, both left out. Pre course dives carry an extra cost that is not stated. The page lists 'Course' beside Rescue Diver certification; taken as Rescue Diver certification."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift cards: an SS Yongala Dive Trip or a cash value gift card",
+      "conditions": "Valid for 1 year from the time of purchase (FAQ); the Terms say gift cards and promotional vouchers are valid for 1 year from the date of issue",
+      "validUntil": null,
+      "sourceUrl": "https://www.yongaladive.com.au/frequentlyaskedquestions"
+    }
+  ],
+  "checkNotes": "All pages answered normally; no captcha or bot check. Three trips are listed. The only per-trip booking link on the site is the Rezdy link on the S.S. Yongala Dive Trip page; the 'Book now' buttons in the menu and footer go to the shop's general Rezdy page (yongaladive.rezdy.com, not opened) and are not recorded as trip links. Rezdy alias taken from that link. Not included as trips: accommodation (the site says Yongala Dive does not offer any and partners with Alva Beach Tourist Park, a separate business), refresher courses (the site says it does not offer them) and trips to other dive sites (the site says it does not run them). The PADI Advanced Open Water eLearning and Deep Adventure Dive training are sold only as add-ons to the day trip, so they sit as price options on that trip, not as a separate course. Cancellation: cancellations within 48 hours of departure are charged the full trip cost, and trips can be cancelled by the dive centre for weather (generally winds above 20 knots) or low numbers, with no charge then; the card is charged the day before the trip. Contact: the dive centre takes no phone calls; WhatsApp +61 407 299 876 is messages only (the Contact page prints it as +61 04072 99876). Site copyright line says 2020 and several photos date from 2020, so confirm prices and the Tuesday closure are current. The Facebook, Instagram and Tripadvisor links were not opened."
+}

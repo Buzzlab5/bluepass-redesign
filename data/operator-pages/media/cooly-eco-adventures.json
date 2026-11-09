@@ -1,0 +1,116 @@
+{
+  "slug": "cooly-eco-adventures",
+  "logo": "https://coolyecoadventures.com.au/wp-content/uploads/2024/10/logo-cooly-eco.png",
+  "gallery": [
+    "https://coolyecoadventures.com.au/wp-content/uploads/2025/05/whale-mum-and-calf-scaled.jpg",
+    "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-swim-with-whales-01.jpg",
+    "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-swim-with-whales-04.jpg",
+    "https://coolyecoadventures.com.au/wp-content/uploads/2025/05/IMG_7992-2-e1747879200658.jpg",
+    "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-whale-watching-gold-coast-02.jpg",
+    "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-whale-watching-gold-coast-03.jpg",
+    "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-whale-watching-gold-coast-05.jpg",
+    "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-whale-watching-gold-coast-07.jpg",
+    "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-big-turtles-in-gold-coast-12-min.jpg",
+    "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-swim-with-the-turtle-cooly-eco-adventures-gold-coast-01-min.jpg",
+    "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-snorkeling-with-turtles-cooly-eco-adventures-07-min.jpg",
+    "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-captain-joe-gold-coast-swim-with-the-turtles-02-min.jpg",
+    "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-dolphin-and-turtle-safaris-03.jpg",
+    "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-dolphin-and-turtle-safaris-05.jpg",
+    "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-dolphin-and-turtle-safaris-06.png",
+    "https://coolyecoadventures.com.au/wp-content/uploads/2025/03/banner-home.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=7isKthk_pKA",
+      "title": "Humpback whale breaching beside the tour boat",
+      "sourceUrl": "https://coolyecoadventures.com.au/tour/swim-with-whales/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KP9flsf4cdE",
+      "title": "Humpback whale spy hopping near snorkellers",
+      "sourceUrl": "https://coolyecoadventures.com.au/tour/swim-with-whales/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IQ0DJ81t2wQ",
+      "title": "Pod of humpback whales swimming underwater",
+      "sourceUrl": "https://coolyecoadventures.com.au/tour/swim-with-whales/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=X6qjyk3KYwI",
+      "title": "Close up of a humpback whale underwater",
+      "sourceUrl": "https://coolyecoadventures.com.au/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=idOPW3nPiCk",
+      "title": "Sea turtle swimming underwater",
+      "sourceUrl": "https://coolyecoadventures.com.au/tour/swim-with-turtles/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yPK2yJ7x14A",
+      "title": "Pod of dolphins swimming underwater",
+      "sourceUrl": "https://coolyecoadventures.com.au/tour/dolphin-turtle-safari-gold-coast-tweed-heads/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Swim with Whales",
+      "images": [
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-swim-with-whales-02-1.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-swim-with-whales-01.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-swim-with-whales-04.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-swim-with-whales-03.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-swim-with-whales-02.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-swim-with-whales-01-1.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-swim-with-whales-03-1.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/05/IMG_7992-2-e1747879200658.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/05/10.png",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/05/11.png"
+      ]
+    },
+    {
+      "title": "Whale Watching",
+      "images": [
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-whale-watching-gold-coast.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/05/IMG_7992-2-e1747879200658.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-whale-watching-gold-coast-02.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-whale-watching-gold-coast-03.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-whale-watching-gold-coast-04.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-whale-watching-gold-coast-05.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-whale-watching-gold-coast-06.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-whale-watching-gold-coast-07.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-whale-watching-01.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-whale-watching-02.jpg"
+      ]
+    },
+    {
+      "title": "Swim with Turtles",
+      "images": [
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-big-turtles-in-gold-coast-12-min.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-swim-with-the-turtle-cooly-eco-adventures-gold-coast-01-min.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-turtle-in-gold-coast-09-min.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-turtle-in-gold-coast-cooly-eco-adventures-14-min.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-captain-joe-gold-coast-swim-with-the-turtles-02-min.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-gold-coast-snorkeling-with-turtles-04-min.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-snorkeling-with-turtles-cooly-eco-adventures-07-min.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/05/GPTempDownload-709-1.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-cooly-eco-adventure-turtles-13-min.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-gold-coast-turtles-cooly-eco-adventures-05-min.jpg"
+      ]
+    },
+    {
+      "title": "Dolphin & Turtle Safari",
+      "images": [
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-dolphin-and-turtle-safaris-01.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-dolphin-and-turtle-safaris-03.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-dolphin-and-turtle-safaris-05.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-dolphin-and-turtle-safaris-06.png",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-dolphin-and-turtle-safaris-02.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/04/img-dolphin-and-turtle-safaris-04.jpg",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/05/8.png",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/05/7.png",
+        "https://coolyecoadventures.com.au/wp-content/uploads/2025/05/6.png"
+      ]
+    }
+  ],
+  "notes": "Read 12 pages on coolyecoadventures.com.au (home, tours, four tour pages, who we are, FAQ, terms, contact, gallery, news); no bot check, captcha or block was met. Logo is the header logo (logo-cooly-eco.png), served without a size suffix. No heroImage given: the facts file uses the site's own share image (img-swim-with-whales-02-1.jpg, 1920 by 1282); whale-mum-and-calf-scaled.jpg and banner-home.jpg (the home page video poster) are other wide candidates and are in the gallery for the importer to measure. Every photo URL is the lightbox full-size file from the operator's own gallery and answered 200 to a header request; none were downloaded. Videos: the site links no YouTube channel, so these are the YouTube videos embedded on the operator's own pages (about 18 in all); titles are written from the site's thumbnail descriptions because YouTube was not opened, so a person should confirm each video belongs to the operator. X6qjyk3KYwI is also the home page background video. The Swim with Turtles page gallery also shows boat, whale and dolphin cards (img-tour-01 to 03, img-dolphin-safaris) that are not turtle photos, so they are left out of that trip. Left out: img-whale-watching-03 (kept to 10 per trip), a photo named 20b6f58f73fdc32002e2a7ef83366e5d35309d34-scaled.jpg on the turtle gallery (no description and a file name that looks downloaded from elsewhere, so ownership is unclear), the customer review photos (IMG_1509, IMG_1184, l34w9_Ie, DSC_2051, dive-copy), the Instagram feed images, the award badges, the map graphic, icons, and page background images. Two photos with mismatched file names (whale shark names on a leopard shark and on a boat) were not used. The Terms (Part B, clause 2) reserve all images and logos to the operator, so permission is needed before publishing them."
+}

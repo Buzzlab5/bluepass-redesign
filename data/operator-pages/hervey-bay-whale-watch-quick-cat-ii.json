@@ -1,0 +1,789 @@
+{
+  "slug": "hervey-bay-whale-watch-quick-cat-ii",
+  "name": "Hervey Bay Whale Watch",
+  "website": "https://www.herveybaywhalewatch.com.au",
+  "rezdyAlias": "herveybaywhalewatch",
+  "state": "QLD",
+  "town": "Hervey Bay",
+  "category": "Whale watching cruises",
+  "summary": "Humpback whale watching from Hervey Bay on Quick Cat II, an 18 metre catamaran with three levels of viewing decks, run by a family business that began whale watching here in 1987. Half-day morning and afternoon cruises run in whale season, with packages that add lunch on K'Gari, a helicopter flight or a K'Gari day tour. From November the same boat runs the Aqua Oasis day cruise, with swimming, stand up paddle boards and an inflatable slide.",
+  "standouts": [
+    "Advanced Ecotourism Certified through Ecotourism Australia",
+    "Founded in 1987 by Brian and Jill Perry, described as the first commercial whale watching company in Australia",
+    "Quick Cat II has ramps instead of stairs on the main deck, giving wheelchair and pram access",
+    "Family owned and run, with local crew"
+  ],
+  "contact": {
+    "phone": "1800 671 977",
+    "email": "whales@bigpond.net.au",
+    "address": "Berth A1, Great Sandy Straits Marina, 17 Buccaneer Drive, Urangan QLD"
+  },
+  "heroImage": "https://www.herveybaywhalewatch.com.au/storage/media/rotator-images/opkgn5/242201341_6563262127077396_2933195585423779247_n-0m90y953.jpg",
+  "sourceUrls": [
+    "https://www.herveybaywhalewatch.com.au/",
+    "https://www.herveybaywhalewatch.com.au/whales",
+    "https://www.herveybaywhalewatch.com.au/whales/half-day-whale-watch",
+    "https://www.herveybaywhalewatch.com.au/whales/afternoon-whale-watch",
+    "https://www.herveybaywhalewatch.com.au/whales/whales-and-heli",
+    "https://www.herveybaywhalewatch.com.au/whales/whales-lunch-at-fraser-island",
+    "https://www.herveybaywhalewatch.com.au/whales/whales-fraser-island-trails",
+    "https://www.herveybaywhalewatch.com.au/whales/swim-with-the-whales",
+    "https://www.herveybaywhalewatch.com.au/aquaoasiscruise",
+    "https://www.herveybaywhalewatch.com.au/aquaoasiscruise/aqua-oasis-cruise",
+    "https://www.herveybaywhalewatch.com.au/aquaoasiscruise/aqua-oasis-cruise-lunch-at-kgari",
+    "https://www.herveybaywhalewatch.com.au/aquaoasiscruise/aqua-oasis-cruise-heli-flight",
+    "https://www.herveybaywhalewatch.com.au/httpswwwherveybaywhalewatchcomauaquaoasisaqua-oasis-cruiseaqua-oasis-cruise",
+    "https://www.herveybaywhalewatch.com.au/httpswwwherveybaywhalewatchcomauaquaoasisaqua-oasis-cruiseaqua-oasis-cruise/privatecharters",
+    "https://www.herveybaywhalewatch.com.au/api/ajax/products?method=byCategory&category_id=2115&limit=12",
+    "https://www.herveybaywhalewatch.com.au/faqs",
+    "https://www.herveybaywhalewatch.com.au/aqua-oasis-cruise-faqs",
+    "https://www.herveybaywhalewatch.com.au/quickcat-ii-and-crew",
+    "https://www.herveybaywhalewatch.com.au/eco-certified-tourism",
+    "https://www.herveybaywhalewatch.com.au/accessibility-and-inclusivity",
+    "https://www.herveybaywhalewatch.com.au/gallery",
+    "https://www.herveybaywhalewatch.com.au/contact-us",
+    "https://www.herveybaywhalewatch.com.au/bookings"
+  ],
+  "trips": [
+    {
+      "title": "Morning Whale Watch",
+      "kind": "cruise",
+      "summary": "A half-day humpback whale watching cruise on Quick Cat II, leaving the marina at 7:00am and returning at 12:30pm. The boat calls at Kingfisher Bay Resort to pick up resort guests, then heads through the Great Sandy Straits to Platypus Bay. A light breakfast and morning tea are served on board, and a hydrophone lets guests listen to whale song underwater.",
+      "highlights": [
+        "Light breakfast and morning tea included",
+        "Hydrophone to listen to whale song underwater",
+        "Fully licensed bar for food and drink purchases",
+        "Optional whale swim for an extra $100 per person"
+      ],
+      "duration": "7:00am departure, 12:30pm return",
+      "durationMinutes": 330,
+      "departureTimes": [
+        "07:00"
+      ],
+      "season": "15 July to 15 October (whale season)",
+      "departsFrom": "Great Sandy Straits Marina, Berth A1, 17 Buccaneer Drive, Urangan (check in at the floating office beside Quick Cat II, near Cafe Balena)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 130,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Senior/Student",
+          "amount": 120,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (4-14)",
+          "amount": 70,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0-3)",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        },
+        {
+          "label": "Family pass, 2 adults and 2 children",
+          "amount": 350,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family pass, 2 adults and 3 children",
+          "amount": 420,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Optional whale swim, per person",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Paid on board during the tour. Weather and conditions apply and swims are not guaranteed. Age 13 and over"
+        },
+        {
+          "label": "Upgrade to Whales & Lunch at K'Gari, extra per person",
+          "amount": 40,
+          "currency": "AUD",
+          "note": "Added to the Morning Whale Watch ticket"
+        }
+      ],
+      "priceFrom": 130,
+      "includes": [
+        "Light breakfast, morning tea and refreshments",
+        "Commentary with local knowledge and history from the crew",
+        "Hydrophone to listen to whale song underwater",
+        "Non-smoking vessel"
+      ],
+      "bring": [
+        "Hat",
+        "Jacket",
+        "Sunglasses",
+        "Camera (preferably waterproof)",
+        "Swimwear and towel, if you plan to swim with the whales",
+        "Money for drinks, snacks and souvenirs (EFTPOS is available on board)"
+      ],
+      "requirements": "Children must be accompanied by an adult at all times. Optional whale swim: minimum age 13.",
+      "offer": null,
+      "images": [
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/opkgn5/242201341_6563262127077396_2933195585423779247_n-0m90y953.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/oepq66/298063062_8325289657541292_431401190202798728_n%20%281%29-8eg6zx24.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/o2wwml/_DSC8783w%20%28Custom%29-evy5zy6d.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/o2wwml/UNDER%202%20MB%20%2812%29-kxn465k9.jpg"
+      ],
+      "bookingLinks": [
+        "https://herveybaywhalewatch.rezdy.com/185028/morning-whale-watch-cruise-jul"
+      ],
+      "sourceUrl": "https://www.herveybaywhalewatch.com.au/whales/half-day-whale-watch",
+      "checkNotes": "Check in 6:45am. The Rezdy link slug ends in 'jul', so it may be a July-named product; confirm it is the current morning product. Duration is worked out from the stated 7:00am departure and 12:30pm return; the site says times may vary slightly. This cruise travels via Kingfisher Bay Resort, and resort guests must book through the resort. The page says the swim is an extra $100 paid on board and cannot be pre-booked. The page and FAQ describe a whale sighting guarantee; not repeated here. The page mentions a lunch upgrade for an extra $40."
+    },
+    {
+      "title": "Afternoon Whale Watch",
+      "kind": "cruise",
+      "summary": "A half-day humpback whale watching cruise on Quick Cat II, leaving the marina at 1:00pm and returning at 5:00pm. Tea, coffee and light nibbles are served on board, and this cruise does not make the Kingfisher Bay Resort stop that the morning cruise does. A licensed bar is open for drinks and snacks.",
+      "highlights": [
+        "Complimentary tea, coffee and light nibbles",
+        "Hydrophone to listen to whale song underwater",
+        "Fully licensed bar for food and drink purchases",
+        "Optional whale swim for an extra $100 per person"
+      ],
+      "duration": "1:00pm departure, 5:00pm return",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "13:00"
+      ],
+      "season": "15 July to 15 October (whale season)",
+      "departsFrom": "Great Sandy Straits Marina, Berth A1, 17 Buccaneer Drive, Urangan (check in at the floating office beside Quick Cat II, near Cafe Balena)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 120,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Senior/Student/Concession",
+          "amount": 110,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (4-14)",
+          "amount": 70,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0-3)",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        },
+        {
+          "label": "Family pass, 2 adults and 2 children",
+          "amount": 330,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family pass, 2 adults and 3 children",
+          "amount": 400,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Optional whale swim, per person",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Paid on board during the tour. Weather and conditions apply and swims are not guaranteed. Age 13 and over"
+        }
+      ],
+      "priceFrom": 120,
+      "includes": [
+        "Complimentary afternoon tea, tea, coffee and light nibbles",
+        "Commentary with local knowledge and history from the crew",
+        "Hydrophone to listen to whale song underwater",
+        "Non-smoking vessel"
+      ],
+      "bring": [
+        "Hat",
+        "Jacket",
+        "Sunglasses",
+        "Camera (preferably waterproof)",
+        "Swimwear and towel, if you plan to swim with the whales",
+        "Money for drinks, snacks and souvenirs (EFTPOS is available on board)"
+      ],
+      "requirements": "Children must be accompanied by an adult at all times. Optional whale swim: minimum age 13.",
+      "offer": null,
+      "images": [
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/opkgn5/246866803_6749322991804641_4798818518349090872_n-9pg95g8r.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/oepq66/298063062_8325289657541292_431401190202798728_n%20%281%29-8eg6zx24.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/opkgn5/242201341_6563262127077396_2933195585423779247_n-0m90y953.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/opkgn5/312077322_493848156101937_4714587286935400300_n-2m98e94m.jpg"
+      ],
+      "bookingLinks": [
+        "https://herveybaywhalewatch.rezdy.com/229009/afternoon-whale-watch-cruise"
+      ],
+      "sourceUrl": "https://www.herveybaywhalewatch.com.au/whales/afternoon-whale-watch",
+      "checkNotes": "Check in 12:45pm. Duration is worked out from the stated 1:00pm departure and 5:00pm return; the site says times may vary slightly. The page says guests can enjoy a glass of bubbles and sunset views on the way home but does not say whether the glass is included, so it is not listed under includes; the FAQ also mentions bubbles. The page and FAQ describe a whale sighting guarantee; not repeated here."
+    },
+    {
+      "title": "Whales & Heli Flight",
+      "kind": "tour",
+      "summary": "A package that pairs a Quick Cat II whale watch cruise, morning or afternoon, with a 10 minute helicopter flight over Hervey Bay with Great Ocean Helicopters. The flight leaves from Hervey Bay Airport and passes over Big Woody Island, Moon Point, Pelican Banks and the Urangan pier. The helicopter time is arranged with the helicopter team after booking.",
+      "highlights": [
+        "Whale watch cruise plus a 10 minute helicopter flight",
+        "Morning cruise 7:00am to 12:30pm or afternoon cruise 1:00pm to 5:00pm",
+        "Flight over Big Woody Island, Moon Point and Pelican Banks",
+        "Optional whale swim for an extra $100 per person"
+      ],
+      "duration": "Cruise 7:00am to 12:30pm or 1:00pm to 5:00pm, plus a 10 minute flight",
+      "durationMinutes": null,
+      "departureTimes": [
+        "07:00",
+        "13:00"
+      ],
+      "season": "15 July to 15 October (whale season)",
+      "departsFrom": "Great Sandy Straits Marina, Berth A1, 17 Buccaneer Drive, Urangan (check in at the floating office beside Quick Cat II, near Cafe Balena); helicopter flight departs Hervey Bay Airport",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 195,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child",
+          "amount": 105,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Optional whale swim, per person",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Paid on board during the tour. Weather and conditions apply and swims are not guaranteed. Age 13 and over"
+        }
+      ],
+      "priceFrom": 195,
+      "includes": [
+        "Half-day whale watch cruise on Quick Cat II with tea, coffee, nibbles and refreshments",
+        "Commentary with local knowledge and history from the crew",
+        "Hydrophone to listen to whale song underwater",
+        "10 minute helicopter flight with Great Ocean Helicopters from Hervey Bay Airport"
+      ],
+      "bring": [
+        "Hat",
+        "Jacket",
+        "Sunglasses",
+        "Camera (preferably waterproof)",
+        "Swimwear and towel, if you plan to swim with the whales",
+        "Money for drinks, snacks and souvenirs (EFTPOS is available on board)"
+      ],
+      "requirements": "Helicopter: maximum 3 passengers per flight, or 4 if some are small children (contact the operator directly to book 4); weight limit 135kg per person; flights depend on weather and low bookings may mean a shared flight. Children must be accompanied by an adult at all times. Optional whale swim: minimum age 13.",
+      "offer": null,
+      "images": [
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/onlg0x/290003849_384554220324744_8747300001658673533_n-jl5kw3w4.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/onlg0x/291049954_1020268788649582_3522029710039175823_n-wdrz3j3w.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/onlg0x/291097965_3155451218038525_7379437245246991922_n-wdrz3j3w.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/onlg0x/289412897_1152246575324166_6769479871151758698_n-ydnrg6g5.jpg"
+      ],
+      "bookingLinks": [
+        "https://herveybaywhalewatch.rezdy.com/506643/whales-heli-flight"
+      ],
+      "sourceUrl": "https://www.herveybaywhalewatch.com.au/whales/whales-and-heli",
+      "checkNotes": "The flight is run by Great Ocean Helicopters, who contact guests to set a morning or afternoon time. The page does not say which cruise (morning or afternoon) the package ticket covers, or whether guests pick one when booking. Child age range is not stated for this package. The page and FAQ describe a whale sighting guarantee; not repeated here."
+    },
+    {
+      "title": "Whales & Lunch at K'Gari",
+      "kind": "cruise",
+      "summary": "A full-day package that starts with the Morning Whale Watch cruise on Quick Cat II and ends at Kingfisher Bay Resort on K'Gari (Fraser Island), where lunch is included. Guests spend the afternoon at the resort and return to the mainland on the resort barge at 2:30pm or 5:00pm, then by resort bus to the marina. Activities such as kayaks and stand up paddle boards cost extra.",
+      "highlights": [
+        "Morning whale watch cruise with breakfast and morning tea",
+        "Lunch and one drink at Kingfisher Bay Resort",
+        "Use of resort facilities such as the pool, spa and showers",
+        "Return by resort barge (2:30pm or 5:00pm) and bus"
+      ],
+      "duration": "7:00am departure; return by resort barge at 2:30pm or 5:00pm",
+      "durationMinutes": null,
+      "departureTimes": [
+        "07:00"
+      ],
+      "season": "15 July to 15 October (whale season)",
+      "departsFrom": "Great Sandy Straits Marina, Berth A1, 17 Buccaneer Drive, Urangan (check in at the floating office beside Quick Cat II, near Cafe Balena)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 170,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Senior/Student",
+          "amount": 160,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (4-14)",
+          "amount": 110,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0-3)",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        },
+        {
+          "label": "Family pass, 2 adults and 2 children",
+          "amount": 510,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family pass, 2 adults and 3 children",
+          "amount": 620,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Optional whale swim, per person",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Paid on board during the tour. Weather and conditions apply and swims are not guaranteed. Age 13 and over"
+        }
+      ],
+      "priceFrom": 170,
+      "includes": [
+        "Morning whale watch cruise with a light breakfast, morning tea and refreshments",
+        "Lunch at Kingfisher Bay Resort (1 meal and 1 beer, wine or soft drink)",
+        "Use of resort facilities (pool, spa, toilets, showers)",
+        "Return transfer by resort barge and bus to the Great Sandy Straits Marina"
+      ],
+      "bring": [
+        "Hat",
+        "Jacket",
+        "Sunglasses",
+        "Enclosed shoes",
+        "Your own snacks, if you like",
+        "Camera (preferably waterproof)",
+        "Swimwear and towel, if you plan to swim with the whales",
+        "Money for drinks, snacks, souvenirs, the whale swim and resort activities"
+      ],
+      "requirements": "Guests need enough mobility for stairs at the Kingfisher Bay jetty and on the barge, which vary with the tide. Heavy power wheelchairs cannot be taken; light foldable wheelchairs and walkers can. Guests must catch the 2:30pm or 5:00pm resort barge back, as Quick Cat II does not return to collect them. Optional whale swim: minimum age 13.",
+      "offer": null,
+      "images": [
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/opkgn5/280199540_7904494876287441_8438667430844245789_n-6mg9rgk6.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/1reg3m/590407443_18387485437194695_6304555338687919611_n-rv4kzmmm.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/1reezd/DSC_0345-2j5nv00l.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/1reezd/DSC_1701%20%282%29-pdwevq36.jpg"
+      ],
+      "bookingLinks": [
+        "https://herveybaywhalewatch.rezdy.com/185256/whales-lunch-fraser-island"
+      ],
+      "sourceUrl": "https://www.herveybaywhalewatch.com.au/whales/whales-lunch-at-fraser-island",
+      "checkNotes": "Conflict: the package page says lunch includes 1 meal and 1 beer, wine or soft drink at the Sand & Wood Restaurant, while the FAQ says lunch is at The Sandbar Bistro and drinks are not included. Used the package page. Check in 6:45am. The page says the package is an extra $40 on top of the Morning Whale Watch ticket. Return time from the resort is by Kingfisher Bay Resort barge, not run by the operator. The page and FAQ describe a whale sighting guarantee; not repeated here."
+    },
+    {
+      "title": "Whales & K'Gari Trails",
+      "kind": "tour",
+      "summary": "A two-day package that combines a half-day Quick Cat II whale watch cruise, morning or afternoon, with a full-day K'Gari (Fraser Island) 4WD bus tour on another day. The order can be set around your travel dates. The island day visits Lake McKenzie, Central Station, Eli Creek, Eastern Beach, Pinnacle Coloured Sands, Seventy-Five Mile Beach and the Maheno shipwreck, with lunch and national park fees included.",
+      "highlights": [
+        "Half-day whale watch cruise plus a full-day K'Gari 4WD bus tour",
+        "Courtesy pick-up from select Hervey Bay accommodation, or meet at River Heads",
+        "Lunch, national park fees and barge transfers included on the island day",
+        "Order of the two days can be arranged to suit"
+      ],
+      "duration": "Two days: a half-day cruise and a full-day island tour",
+      "durationMinutes": null,
+      "departureTimes": [
+        "07:00",
+        "13:00"
+      ],
+      "season": "Whale season; the price tables on the page run 11 July to 17 October (year not stated)",
+      "departsFrom": "Great Sandy Straits Marina, Berth A1, 17 Buccaneer Drive, Urangan (check in at the floating office beside Quick Cat II, near Cafe Balena) for the cruise; K'Gari tour pick-up from select Hervey Bay locations (7:00am to 8:00am) or check in at the mainland reception in River Heads by 8:00am",
+      "prices": [
+        {
+          "label": "Adult, tours 11 July to 19 September and 13 to 17 October",
+          "amount": 394,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (4-14), tours 11 July to 19 September and 13 to 17 October",
+          "amount": 264,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (1-3), tours 11 July to 19 September and 13 to 17 October",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        },
+        {
+          "label": "Family pass, 2 adults and 2 children, tours 11 July to 19 September and 13 to 17 October",
+          "amount": 1128,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family pass, 2 adults and 3 children, tours 11 July to 19 September and 13 to 17 October",
+          "amount": 1396,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Adult, tours 19 September to 12 October",
+          "amount": 414,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (4-14), tours 19 September to 12 October",
+          "amount": 304,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (1-3), tours 19 September to 12 October",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        },
+        {
+          "label": "Family pass, 2 adults and 2 children, tours 19 September to 12 October",
+          "amount": 1228,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family pass, 2 adults and 3 children, tours 19 September to 12 October",
+          "amount": 1536,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Optional whale swim, per person",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Paid on board during the tour. Weather and conditions apply and swims are not guaranteed. Age 13 and over"
+        }
+      ],
+      "priceFrom": 394,
+      "includes": [
+        "Half-day whale watch cruise on Quick Cat II with tea, coffee, nibbles and refreshments",
+        "Courtesy pick-up and drop-off from your accommodation (K'Gari day)",
+        "National park fees and barge transfers to and from the island",
+        "Commentary from a K'Gari tour guide and lunch at K'Gari Beach Resort"
+      ],
+      "bring": [
+        "Hat",
+        "Sunglasses",
+        "Jacket",
+        "Towel",
+        "Swimmers",
+        "Enclosed shoes",
+        "Sunscreen",
+        "Camera (preferably waterproof)",
+        "Car seat or booster seat for children under 8",
+        "Money for drinks, snacks and souvenirs"
+      ],
+      "requirements": "K'Gari day tour: infants under 1 year are not permitted; children under 8 must travel in a car or booster seat supplied by the guest. Optional whale swim on the cruise: minimum age 13.",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://herveybaywhalewatch.rezdy.com/185259/whales-fraser-island-trails"
+      ],
+      "sourceUrl": "https://www.herveybaywhalewatch.com.au/whales/whales-fraser-island-trails",
+      "checkNotes": "The island day is described with a link to Fraser Explorer Tours' website, so it may be run by a different business; the whale cruise is the operator's own. Price tables are dated 11 July to 19 September and 13 to 17 October (one price) and 19 September to 12 October (higher price) with no year, and 19 September appears in both tables; confirm they are current. Cruise times are the same as the Morning and Afternoon Whale Watch. No photos from this page used because they appear to be the island tour operator's (file names starting 'fet' and hash-style names). The page and FAQ describe a whale sighting guarantee; not repeated here."
+    },
+    {
+      "title": "Aqua Oasis Cruise",
+      "kind": "cruise",
+      "summary": "A morning day cruise on Quick Cat II through the Great Sandy Straits to an anchorage, with about two hours of free time for swimming, stand up paddle boards, an inflatable slide and jumping platforms. Morning tea is included and all water equipment is provided. The boat is back at the marina at about 1:15pm, with a maximum of 40 guests.",
+      "highlights": [
+        "Inflatable slide, jumping platforms, air dock and stand up paddle boards",
+        "Over 2 hours of free time with water activities",
+        "Maximum 40 guests on a boat that holds 100",
+        "Beach access when tides and weather allow"
+      ],
+      "duration": "8:00am departure, back at the marina at approximately 1:15pm",
+      "durationMinutes": 315,
+      "departureTimes": [
+        "08:00"
+      ],
+      "season": "November to May",
+      "departsFrom": "Great Sandy Straits Marina, Berth A1, 17 Buccaneer Drive, Urangan (check in at the floating office beside Quick Cat II, near Cafe Balena)",
+      "prices": [
+        {
+          "label": "Adult, Aqua Oasis only",
+          "amount": 119,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child, Aqua Oasis only",
+          "amount": 79,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0-3), Aqua Oasis only",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        },
+        {
+          "label": "Upgrade to Aqua Oasis + Lunch @ K'Gari, extra per person",
+          "amount": 40,
+          "currency": "AUD",
+          "note": "The Aqua Oasis Cruise page gives $40; the Aqua Oasis Cruise + Heli Flight page gives $34"
+        }
+      ],
+      "priceFrom": 119,
+      "includes": [
+        "Scenic cruise through the Great Sandy Straits with commentary",
+        "Morning tea and refreshments",
+        "Water equipment: inflatable slide, jumping platforms, air dock, water toys, stand up paddle boards, snorkelling gear",
+        "Beach games and shade umbrellas"
+      ],
+      "bring": [
+        "Hat",
+        "Sunglasses",
+        "Sunscreen",
+        "Camera (preferably waterproof)",
+        "Swimwear and towel",
+        "Money for drinks, snacks and souvenirs (EFTPOS is available on board)"
+      ],
+      "requirements": "Access to and from the water is by a ladder at the rear swimming platform, so moderate mobility is needed. The main deck is wheelchair accessible, but there is no way to get wheelchairs into the water or onto the tender.",
+      "offer": null,
+      "images": [
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/7vrgyl/467776378_966139045539510_5354079869289869087_n-rvr35d2d.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/7vrgyl/PHOTOS-45%20-%20Copy-mdm0me4r.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/7vrgp2/371322881_6803005226462072_923558392892656767_n-mkx9de04.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/7vrgyl/PHOTOS-16-nq092wpg.jpg"
+      ],
+      "bookingLinks": [
+        "https://herveybaywhalewatch.rezdy.com/676961/aqua-oasis-cruise"
+      ],
+      "sourceUrl": "https://www.herveybaywhalewatch.com.au/aquaoasiscruise/aqua-oasis-cruise",
+      "checkNotes": "Operates November to May. Duration is worked out from the stated 8:00am departure and approximately 1:15pm return. The boat travels via Kingfisher Bay Resort (about 30 to 45 minutes) to pick up guests. The cruise is mainly boat based and beach access depends on tides and weather. Child age range is not shown on this page (the lunch version says 4-14). The lunch upgrade price differs between pages: $40 here, $34 on the Heli Flight page. The Aqua Oasis index page also mentions a 'Sunset Oasis' but there is no page, price or booking link for it."
+    },
+    {
+      "title": "Aqua Oasis Cruise + Lunch @ K'Gari",
+      "kind": "cruise",
+      "summary": "The Aqua Oasis day cruise with lunch at Kingfisher Bay Resort on K'Gari added. After the swimming, paddle boarding and slide time, guests are dropped at the resort for lunch and a drink, then choose the 2:30pm or 5:00pm resort barge back to the mainland and a bus to the marina or their accommodation.",
+      "highlights": [
+        "Aqua Oasis water activities, then lunch at Kingfisher Bay Resort",
+        "Lunch and one drink at the Sandbar Bistro",
+        "Use of resort facilities such as the pool and spa",
+        "Return transfers by resort barge and bus included"
+      ],
+      "duration": "8:00am departure; return by resort barge at 2:30pm or 5:00pm",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:00"
+      ],
+      "season": "November to May",
+      "departsFrom": "Great Sandy Straits Marina, Berth A1, 17 Buccaneer Drive, Urangan (check in at the floating office beside Quick Cat II, near Cafe Balena)",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 159,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (4-14)",
+          "amount": 119,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0-3)",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        }
+      ],
+      "priceFrom": 159,
+      "includes": [
+        "Scenic cruise through the Great Sandy Straits with commentary",
+        "Morning tea and refreshments",
+        "About 2 hours of free time with water activities and all equipment provided",
+        "Lunch and 1 drink at the Sandbar Bistro, Kingfisher Bay Resort",
+        "Return transfers by resort barge and bus to the marina or your accommodation"
+      ],
+      "bring": [
+        "Hat",
+        "Sunglasses",
+        "Sunscreen",
+        "Camera (preferably waterproof)",
+        "Swimwear and towel",
+        "Money for drinks, snacks, souvenirs and resort extras"
+      ],
+      "requirements": "Guests need enough mobility for stairs at the Kingfisher Bay jetty and on the barge, which vary with the tide. Heavy power wheelchairs cannot be taken; light foldable wheelchairs and walkers can. Guests must catch the 2:30pm or 5:00pm resort barge back, as Quick Cat II does not return to collect them.",
+      "offer": null,
+      "images": [
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/7vrgyl/467776378_966139045539510_5354079869289869087_n-rvr35d2d.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/7vrgyl/PHOTOS-45%20-%20Copy-mdm0me4r.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/oq69vq/415755564_753329636820453_1510208668264523878_n-0lq34qg9.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/oq69vq/411683344_748633917290025_2208453379411947802_n-0lq34qg9.jpg"
+      ],
+      "bookingLinks": [
+        "https://herveybaywhalewatch.rezdy.com/673689/aqua-oasis-cruise-lunch-k-gari"
+      ],
+      "sourceUrl": "https://www.herveybaywhalewatch.com.au/aquaoasiscruise/aqua-oasis-cruise-lunch-at-kgari",
+      "checkNotes": "Operates November to May. Resort extras such as kayaks and segways are not included. Return from the island is by Kingfisher Bay Resort barge and bus, not Quick Cat II."
+    },
+    {
+      "title": "Aqua Oasis Cruise + Heli Flight",
+      "kind": "tour",
+      "summary": "The Aqua Oasis day cruise on Quick Cat II paired with a helicopter flight over Hervey Bay with Great Ocean Helicopters. The flight leaves from Hervey Bay Airport and the helicopter team contact guests to set a morning or afternoon time. A lunch upgrade at Kingfisher Bay Resort is available.",
+      "highlights": [
+        "Aqua Oasis cruise plus a 10 minute helicopter flight",
+        "Swimming, stand up paddle boards, inflatable slide and jumping platforms",
+        "Flight over Big Woody Island, Moon Point and Pelican Banks",
+        "Maximum 40 guests on the cruise"
+      ],
+      "duration": "Cruise 8:00am to approximately 1:15pm, plus a 10 minute flight",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:00"
+      ],
+      "season": "November to May",
+      "departsFrom": "Great Sandy Straits Marina, Berth A1, 17 Buccaneer Drive, Urangan (check in at the floating office beside Quick Cat II, near Cafe Balena); helicopter flight departs Hervey Bay Airport",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 190,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child",
+          "amount": 150,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Upgrade to Aqua Oasis + Lunch @ K'Gari, extra per person",
+          "amount": 34,
+          "currency": "AUD",
+          "note": "This page gives $34; the Aqua Oasis Cruise page gives $40"
+        }
+      ],
+      "priceFrom": 190,
+      "includes": [
+        "Scenic cruise through the Great Sandy Straits with commentary",
+        "Morning tea and refreshments",
+        "Over 2 hours of free time with water activities and all equipment provided",
+        "10 minute helicopter flight with Great Ocean Helicopters from Hervey Bay Airport"
+      ],
+      "bring": [
+        "Hat",
+        "Sunglasses",
+        "Sunscreen",
+        "Camera (preferably waterproof)",
+        "Swimwear and towel",
+        "Money for drinks, snacks and souvenirs (EFTPOS is available on board)"
+      ],
+      "requirements": "Helicopter: maximum 3 passengers per flight, or 4 if some are small children (contact the operator directly to book 4); weight limit 135kg per person; flights depend on weather and low bookings may mean a shared flight.",
+      "offer": null,
+      "images": [
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/onlg0x/290003849_384554220324744_8747300001658673533_n-jl5kw3w4.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/onlg0x/291097965_3155451218038525_7379437245246991922_n-wdrz3j3w.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/onlg0x/291049954_1020268788649582_3522029710039175823_n-wdrz3j3w.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/onlg0x/289412897_1152246575324166_6769479871151758698_n-ydnrg6g5.jpg"
+      ],
+      "bookingLinks": [
+        "https://herveybaywhalewatch.rezdy.com/682036/aqua-oasis-cruise-heli-flight"
+      ],
+      "sourceUrl": "https://www.herveybaywhalewatch.com.au/aquaoasiscruise/aqua-oasis-cruise-heli-flight",
+      "checkNotes": "Operates November to May. The booking link on the page carries extra tracking parameters, which were removed here. Child age range is not stated. The lunch upgrade price differs between pages: $34 here, $40 on the Aqua Oasis Cruise page. The flight is run by Great Ocean Helicopters."
+    },
+    {
+      "title": "Private Charter",
+      "kind": "charter",
+      "summary": "Quick Cat II can be hired for private events such as birthday parties, Christmas parties, work functions, hens and bucks days and engagement parties, from November to June. The crew tailor the cruise to the group, and catering can be arranged through the crew or brought by the group. Alcohol cannot be brought on board.",
+      "highlights": [
+        "18 metre catamaran with three levels and indoor and outdoor seating",
+        "PA system with surround sound for music or speeches",
+        "Fully licensed vessel",
+        "Catering by the crew or your own, but no BYO alcohol"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "November to June",
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/onll42/DJI_0017%20%282%29-nd6qrvkx.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/onlldg/IMG_0056-drq4zvxd.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/oq66kj/AUSTRALIA%20DAY-rz0423j3.jpg",
+        "https://www.herveybaywhalewatch.com.au/storage/media/images/oq66kj/spa%20cruise-0mkjvrz9.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.herveybaywhalewatch.com.au/httpswwwherveybaywhalewatchcomauaquaoasisaqua-oasis-cruiseaqua-oasis-cruise/privatecharters",
+      "checkNotes": "Enquiry only: the page asks guests to email whales@bigpond.net.au. No price, group size, duration or departure point is stated for charters, so those are left blank. The charter page sits at an unusual long address and its menu list is filled by script, so the text was confirmed against the site's own product data feed."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Optional whale swim on the Morning and Afternoon Whale Watch cruises, $100 per person, paid on board",
+      "conditions": "Age 13 and over. Not a separate tour and cannot be pre-booked; interest is registered at booking or on board. Subject to weather, sea conditions and the whales present (swims are not held with mothers and calves). The swim fee is refunded in full if the swim does not happen. Mask, snorkel and life jacket are provided; no fins.",
+      "validUntil": null,
+      "sourceUrl": "https://www.herveybaywhalewatch.com.au/whales/swim-with-the-whales"
+    },
+    {
+      "text": "Upgrade the Morning Whale Watch to Whales & Lunch at K'Gari for an extra $40 per person",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://www.herveybaywhalewatch.com.au/whales/half-day-whale-watch"
+    },
+    {
+      "text": "Mates Rates: a reduced return price for adults who have already travelled with a full price ticket in the same season",
+      "conditions": "Valid only in the season of the first trip; ask staff for the price.",
+      "validUntil": null,
+      "sourceUrl": "https://www.herveybaywhalewatch.com.au/faqs"
+    },
+    {
+      "text": "Group discounts when booking a whale watch cruise directly, for groups of 10 or more",
+      "conditions": "Tiers by group size are set out on the FAQ page.",
+      "validUntil": null,
+      "sourceUrl": "https://www.herveybaywhalewatch.com.au/faqs"
+    },
+    {
+      "text": "Companion Card holders pay a full price ticket and their companion or carer travels at half price",
+      "conditions": "Companion Card must be shown at check-in.",
+      "validUntil": null,
+      "sourceUrl": "https://www.herveybaywhalewatch.com.au/faqs"
+    },
+    {
+      "text": "Locals rate for Hervey Bay residents",
+      "conditions": "Contact the office to discuss local deals.",
+      "validUntil": null,
+      "sourceUrl": "https://www.herveybaywhalewatch.com.au/faqs"
+    },
+    {
+      "text": "Gift certificates for tours, bought online and emailed",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://www.herveybaywhalewatch.com.au/faqs"
+    }
+  ],
+  "checkNotes": "Site is on herveybaywhalewatch.com.au and redirects to the www address; read with plain requests and no bot check was hit. Rezdy booking links are opened through the site's own /bookings?u= wrapper; the bare Rezdy product links are recorded and no Rezdy page was opened. The /bookings page also embeds the Rezdy booking index for herveybaywhalewatch. Whale season is stated as 15 July to 15 October on the Whale Watching page (FAQ says mid July to October) and the site says the dates move each year with projected sightings, so confirm current dates before publishing; the cruises may be near the end of the season. Aqua Oasis runs November to May and charters November to June. Swim with the Whales is not its own tour, it is an extra on the morning and afternoon cruises ($100, age 13 and over, paid on board, not bookable online), so it is recorded as an offer and a price option instead of a trip. Not included as trips: 'Sunset Oasis' (named on the Aqua Oasis index page, no page, price or booking link found) and the K'Gari day tour on its own (not on the water). Conflicts and doubts: phone 1800 671 977 is on the contact page while trip pages give (07) 4128 9611 for delays; the home page says family owned for over 38 years while other pages say over 30 years; the FAQ and the Whales & Lunch page disagree on whether lunch includes a drink and name two different resort restaurants; the lunch upgrade is $40 on one Aqua Oasis page and $34 on another; the terms text mentions 'Calypso Hervey Bay', a second vessel not described anywhere else; /aqua-oasis-cruise-faqs returned an empty page twice so the FAQ page was used instead; the Accessibility and Inclusivity page says under construction. The site repeats a whale sighting guarantee (ticket valid for later cruises if no whales are seen) and superlatives such as first, longest running and best value; none are repeated as fact here. Cancellation: the FAQ says a full refund if the office is told 48 hours before departure. Group discount tiers are shown as percentages on the FAQ page and are not copied. Photos were not downloaded or viewed, so hero and gallery choices rest on file names and page position."
+}

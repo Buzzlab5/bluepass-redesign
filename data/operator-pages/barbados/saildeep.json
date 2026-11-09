@@ -1,0 +1,307 @@
+{
+  "slug": "saildeep",
+  "name": "SailDeep",
+  "website": "https://www.saildeep.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Small-group sailing voyages",
+  "summary": "SailDeep runs small, hands-on sailing trips around Barbados on Nayru, a 36 foot Beneteau Oceanis sailboat. Trips run from a single Day Passage to liveaboard voyages of three to ten days, and guests take the helm, trim the sails and share life on board. Diving can be added for certified divers, and no sailing experience is needed.",
+  "standouts": [
+    "No more than 4 guests on liveaboard voyages and 6 on day passages",
+    "Skipper is a PADI Open Water Scuba Instructor and an American Sailing (ASA) Instructor",
+    "Diving is an optional add-on, with Discover Scuba Diving arranged for non-divers",
+    "Private voyages carry no separate private charter surcharge"
+  ],
+  "contact": {
+    "phone": "+1 246 833 9949",
+    "email": "wesaildeep@gmail.com",
+    "address": "Aquatic Avenue, Bridgetown, St. Michael, Barbados",
+    "whatsapp": "https://wa.me/12468339949"
+  },
+  "heroImage": "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/0c4bbd8b-2bee-402e-a937-0ac0102ceec2/Dolphins_Website_Header.jpg",
+  "sourceUrls": [
+    "https://www.saildeep.com/",
+    "https://www.saildeep.com/voyage",
+    "https://www.saildeep.com/join",
+    "https://www.saildeep.com/faq",
+    "https://www.saildeep.com/getintouch",
+    "https://www.saildeep.com/inform",
+    "https://www.saildeep.com/terms-conditions",
+    "https://www.saildeep.com/about",
+    "https://www.saildeep.com/why",
+    "https://www.saildeep.com/voyages",
+    "https://www.saildeep.com/docs",
+    "https://www.saildeep.com/coming-soon",
+    "https://www.saildeep.com/dive-sites",
+    "https://www.saildeep.com/featured-products",
+    "https://www.saildeep.com/sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Day Passage",
+      "kind": "sail",
+      "summary": "A full day on Nayru for up to six guests, sailing Barbados' west coast and back before nightfall. Guests learn basic manoeuvres, take turns on the helm, try fishing and stop at anchor to swim and snorkel. Light snacks and soft drinks are provided and lunch is bought ashore.",
+      "highlights": [
+        "Meet at Pebbles Beach at 08:30, sail from about 09:00, back by 16:00",
+        "Take turns on the helm and help trim the sails",
+        "Swim and snorkel at anchor, with diving if booked",
+        "A trial day for anyone thinking about a longer voyage"
+      ],
+      "duration": "1 Day (09:00- 16:00)",
+      "durationMinutes": 420,
+      "departureTimes": [
+        "09:00"
+      ],
+      "season": null,
+      "departsFrom": "Pebbles Beach (meet ashore at 08:30)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Skipper",
+        "Use of required safety equipment",
+        "Use of snorkelling equipment on board, subject to sizes and availability",
+        "Light snacks and soft drinks on board"
+      ],
+      "bring": [
+        "Small soft bag or backpack",
+        "Swimwear and a towel",
+        "Light clothing that dries quickly (shorts, t-shirt, sun shirt or rash guard)",
+        "Reef-safe sunscreen (SPF 30 or higher)",
+        "Hat and sunglasses with good UV protection",
+        "Your preferred seasickness remedy",
+        "Flip-flops for going ashore, and light non-marking shoes if you prefer not to be barefoot on deck",
+        "Packed lunch or enough cash to get some food from a local spot"
+      ],
+      "requirements": "No sailing experience needed. Must be able to swim, feel comfortable in the water, and be reasonably fit and steady on your feet. The FAQ says all guests must be 18 or older.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/6d6f2c4d-ef9b-4d97-ad12-d067f5112952/Day+Passage+Video+Still.png",
+        "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/18f90ac1-c7d3-47de-afc5-1e9c5489ae49/Woman+sitting+on+the+deck+of+Nayru.jpg",
+        "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/03ff9658-3b42-44fc-b201-923d7fb36571/a+man+at+the+helm+of+Nayru"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.saildeep.com/voyage#daypassage",
+      "checkNotes": "No price on the site. Booked by enquiry (email, phone or WhatsApp); the site's Book buttons go to /getintouch and its /coming-soon page says online booking is still in the works. durationMinutes is worked out from the stated 09:00 to 16:00. Lunch: the voyage page says lunch is not included and is bought ashore, while Terms 4.2 lists snacks and light food such as a simple lunch; used the voyage page. Alcohol is not served but guests may bring their own. Max 6 guests per the home page FAQ; the /faq page says 4 for any voyage."
+    },
+    {
+      "title": "Coastal Voyage",
+      "kind": "liveaboard",
+      "summary": "Three days and two nights living aboard Nayru along Barbados' sheltered west coast. Guests share the helm, practise sailing in calm water, swim and snorkel, and anchor overnight in quiet bays. It suits people new to sailing who want to try sleeping aboard.",
+      "highlights": [
+        "3 Days/2 Nights aboard Nayru",
+        "Sheltered west coast sailing, suited to newer sailors",
+        "Snorkel, swim, go ashore, and dive if booked",
+        "Two private cabins and a convertible salon berth"
+      ],
+      "duration": "3 Days/2 Nights",
+      "durationMinutes": null,
+      "departureTimes": [
+        "09:00"
+      ],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Skipper or captain services for the duration of the voyage",
+        "Accommodation on board Nayru in a shared cabin or berth as specified",
+        "Bedding (sheets, pillows and basic linens)",
+        "Use of required safety equipment, including lifejackets, harnesses and surface signalling devices",
+        "Use of snorkelling equipment on board, subject to sizes and availability",
+        "Breakfast and lunch on board for each full day",
+        "One main meal per full day taken ashore in a local restaurant, within a budget set by SailDeep",
+        "Soft drinks such as water, sodas, coconut water and local juices",
+        "Use of scuba equipment and guided recreational dives where diving is part of your confirmed booking"
+      ],
+      "bring": [
+        "Small soft bag or duffel, no hard suitcases",
+        "Swimwear and two light towels (one for swimming, one for showering)",
+        "Light clothing that dries quickly (shorts, t-shirts, long-sleeved sun shirt or rash guard)",
+        "Warm layer for evenings (hoodie and/or windbreaker)",
+        "Reef-safe sunscreen (SPF 30 or higher)",
+        "Hat and sunglasses with good UV protection",
+        "Your preferred seasickness remedy",
+        "Flip-flops for going ashore and light, non-marking shoes if you prefer not to be barefoot on deck",
+        "Personal toiletries and any essential medications",
+        "Bug spray for going ashore",
+        "Preferred snacks / drinks"
+      ],
+      "requirements": "No sailing experience needed. Must be 18 or older, able to swim unassisted, comfortable in the water, reasonably fit and steady on your feet. Travel and medical insurance required (with scuba cover if diving). Divers need proof of certification. A joining form and a call come before booking.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/b7bd3b7b-14ee-4fdf-8a14-702600ceb398/Divers+surfacing+after+a+dive+in+Barbados",
+        "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/46a5e9f9-da39-4f21-8938-4c59377677d8/Cleaning+a+snapper+aboard+Nayru.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.saildeep.com/voyage#coastal",
+      "checkNotes": "No price on the site; Terms say mixed group voyages are priced per person and private voyages as a total trip cost, but no figures are published. Day 1 meets at 09:00 at a designated location (not named); disembark by 16:00 on day 3. The voyage page says the route stays on the west coast, while the home page card says South & West Coasts. Booked by enquiry, joining form and call, then a deposit."
+    },
+    {
+      "title": "Island Voyage",
+      "kind": "liveaboard",
+      "summary": "Five days and four nights aboard Nayru, starting on the calm west coast and working south into livelier water. Guests steer often, learn points of sail, tacking and gybing, and help with anchoring and dinghy runs ashore. There is no night sailing.",
+      "highlights": [
+        "5 Days/4 Nights along Barbados' south and west coasts",
+        "Upwind sailing in the south, then a downwind run back toward Carlisle Bay",
+        "Snorkelling at anchor, with dives if booked",
+        "Guests stay in one of the two private cabins"
+      ],
+      "duration": "5 Days/4 Nights",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Skipper or captain services for the duration of the voyage",
+        "Accommodation on board Nayru in a shared cabin or berth as specified",
+        "Bedding (sheets, pillows and basic linens)",
+        "Use of required safety equipment, including lifejackets, harnesses and surface signalling devices",
+        "Use of snorkelling equipment on board, subject to sizes and availability",
+        "Breakfast and lunch on board for each full day",
+        "One main meal per full day taken ashore in a local restaurant, within a budget set by SailDeep",
+        "Soft drinks such as water, sodas, coconut water and local juices",
+        "Use of scuba equipment and guided recreational dives where diving is part of your confirmed booking"
+      ],
+      "bring": [
+        "Small soft bag or duffel, no hard suitcases",
+        "Swimwear and two light towels (one for swimming, one for showering)",
+        "Light clothing that dries quickly (shorts, t-shirts, long-sleeved sun shirt or rash guard)",
+        "Warm layer for evenings (hoodie and/or windbreaker)",
+        "Reef-safe sunscreen (SPF 30 or higher)",
+        "Hat and sunglasses with good UV protection",
+        "Your preferred seasickness remedy",
+        "Flip-flops for going ashore and light, non-marking shoes if you prefer not to be barefoot on deck",
+        "Personal toiletries and any essential medications",
+        "Bug spray for going ashore",
+        "Preferred snacks / drinks"
+      ],
+      "requirements": "No sailing experience needed. Must be 18 or older, able to swim unassisted, comfortable in the water, reasonably fit and steady on your feet. Travel and medical insurance required (with scuba cover if diving). Divers need proof of certification. A joining form and a call come before booking.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/566ad798-799b-499f-9322-fd908ef25fe6/Dinghy+ashore.jpg",
+        "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/6356ab0d-e55b-41e3-ad9d-ed43534d9ac3/Through+the+palm+trees+at+the+beach+in+Barbados"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.saildeep.com/voyage#island",
+      "checkNotes": "No price, start time or meeting point on the site. Booked by enquiry, joining form and call, then a deposit."
+    },
+    {
+      "title": "Deep Voyage",
+      "kind": "liveaboard",
+      "summary": "A full week aboard Nayru with time for longer passages and quieter anchorages. When the forecast allows, the boat sails up toward Barbados' north and north-west coasts, where there are more fishing boats than tour boats. Dives, if booked, are chosen to suit the conditions.",
+      "highlights": [
+        "7 Days/6 Nights on Barbados' south, west and north coasts",
+        "Longer tacks and more time on the helm",
+        "Quieter anchorages away from busier areas",
+        "No night sailing"
+      ],
+      "duration": "7 Days/6 Nights",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Skipper or captain services for the duration of the voyage",
+        "Accommodation on board Nayru in a shared cabin or berth as specified",
+        "Bedding (sheets, pillows and basic linens)",
+        "Use of required safety equipment, including lifejackets, harnesses and surface signalling devices",
+        "Use of snorkelling equipment on board, subject to sizes and availability",
+        "Breakfast and lunch on board for each full day",
+        "One main meal per full day taken ashore in a local restaurant, within a budget set by SailDeep",
+        "Soft drinks such as water, sodas, coconut water and local juices",
+        "Use of scuba equipment and guided recreational dives where diving is part of your confirmed booking"
+      ],
+      "bring": [
+        "Small soft bag or duffel, no hard suitcases",
+        "Swimwear and two light towels (one for swimming, one for showering)",
+        "Light clothing that dries quickly (shorts, t-shirts, long-sleeved sun shirt or rash guard)",
+        "Warm layer for evenings (hoodie and/or windbreaker)",
+        "Reef-safe sunscreen (SPF 30 or higher)",
+        "Hat and sunglasses with good UV protection",
+        "Your preferred seasickness remedy",
+        "Flip-flops for going ashore and light, non-marking shoes if you prefer not to be barefoot on deck",
+        "Personal toiletries and any essential medications",
+        "Bug spray for going ashore",
+        "Preferred snacks / drinks"
+      ],
+      "requirements": "No sailing experience needed. Must be 18 or older, able to swim unassisted, comfortable in the water, reasonably fit and steady on your feet. Travel and medical insurance required (with scuba cover if diving). Divers need proof of certification. A joining form and a call come before booking.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/f7088a77-6973-45c5-8c62-8a4802e7563e/Towing+the+dinghy+while+fishing.jpg",
+        "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/b0586fee-9137-4f77-b9fd-17968e2732d3/French+Angelfish+Closeup"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.saildeep.com/voyage#deep",
+      "checkNotes": "No price, start time or meeting point on the site. Booked by enquiry, joining form and call, then a deposit."
+    },
+    {
+      "title": "Horizon Voyage",
+      "kind": "liveaboard",
+      "summary": "Ten days aboard Nayru that may cross between islands and through international waters, taking weather windows as they come. Guests keep watch, share meals and help navigate, with short hops or longer blue water passages. It is the longest SailDeep trip and needs sailing experience or an earlier SailDeep voyage.",
+      "highlights": [
+        "10 Days/9 Nights",
+        "Windward Islands, 2026",
+        "Watch-keeping and longer passages, including night sailing",
+        "Dives chosen by weather and timing if booked"
+      ],
+      "duration": "10 Days/9 Nights",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Skipper or captain services for the duration of the voyage",
+        "Accommodation on board Nayru in a shared cabin or berth as specified",
+        "Bedding (sheets, pillows and basic linens)",
+        "Use of required safety equipment, including lifejackets, harnesses and surface signalling devices",
+        "Use of snorkelling equipment on board, subject to sizes and availability",
+        "Breakfast and lunch on board for each full day",
+        "One main meal per full day taken ashore in a local restaurant, within a budget set by SailDeep",
+        "Soft drinks such as water, sodas, coconut water and local juices",
+        "Use of scuba equipment and guided recreational dives where diving is part of your confirmed booking"
+      ],
+      "bring": [
+        "Small soft bag or duffel, no hard suitcases",
+        "Swimwear and two light towels (one for swimming, one for showering)",
+        "Light clothing that dries quickly (shorts, t-shirts, long-sleeved sun shirt or rash guard)",
+        "Warm layer for evenings (hoodie and/or windbreaker)",
+        "Reef-safe sunscreen (SPF 30 or higher)",
+        "Hat and sunglasses with good UV protection",
+        "Your preferred seasickness remedy",
+        "Flip-flops for going ashore and light, non-marking shoes if you prefer not to be barefoot on deck",
+        "Personal toiletries and any essential medications",
+        "Bug spray for going ashore",
+        "Preferred snacks / drinks",
+        "Passport, any required visas and copies of insurance and travel documents"
+      ],
+      "requirements": "Proof of recent sailing experience or participation in one of the other SailDeep voyages. Travel and medical insurance that covers sailing and diving activities. Cross-Border Travel Form required. Must be 18 or older and able to swim unassisted.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/026fcdef-8251-436b-9bf5-95083035510c/Frame-11-05-2026-07-22-35.jpg",
+        "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/df392cbc-9203-4f3c-880c-595993ad6750/Sailing+Nayru+From+The+Bow+Headsail+Only.jpg",
+        "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/cd486b3d-d659-4268-9421-e02326007b04/Arriving+at+SoufriereThe+Pitons+Saint+Lucia+from+Nayru+copy.jpg",
+        "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/40ca06d4-6145-460f-853b-1048d11fdd0b/DJI_20250413130611_0051_D+Alexandra+copy.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.saildeep.com/voyage#horizon",
+      "checkNotes": "No price on the site. The home page card reads THE WINDWARD ISLANDS 2026; no dates are given and the site says dates are set after discussing timing, documents and weather windows. Booked by enquiry and a call; experience alone does not guarantee a place."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Early payment discount on liveaboard voyages paid in full at least 60 days before departure",
+      "conditions": "Coastal, Island, Deep and Horizon voyages only; not Day Passage; applies to the voyage fee, not optional extras",
+      "validUntil": null,
+      "sourceUrl": "https://www.saildeep.com/terms-conditions"
+    }
+  ],
+  "checkNotes": "No prices anywhere on the site; Terms say voyage fees are shown on the website or in booking documents, but none are published. All bookings are by enquiry (wesaildeep@gmail.com, +1(246)833-9949, WhatsApp) followed by a joining form, a call and a deposit; /coming-soon says online booking is not built yet. Guest numbers conflict: home FAQ says 6 on day passages and 4 on liveaboards, /faq says 4 for any voyage, /why says no more than 5. The FAQ says all guests must be 18 or older, but /docs lists a Minor Participant Form for guests under 18 by prior agreement. The /featured-products page is a template merchandise shop (rash guards, swim trunks) with placeholder text, not trips. The batch email embark@saildeep.com appears only in site metadata; the visible email is wesaildeep@gmail.com. Active: sitemap pages modified through October 2026 and photos dated 2025."
+}

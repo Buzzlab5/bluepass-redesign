@@ -1,0 +1,160 @@
+{
+  "slug": "whale-swim-queensland",
+  "name": "Whale Swim Queensland",
+  "website": "https://whaleswimqueensland.com.au",
+  "rezdyAlias": "thepressureproject",
+  "state": "QLD",
+  "town": "Mooloolaba",
+  "category": "Humpback whale swims",
+  "summary": "Whale Swim Queensland runs small-group humpback whale swims from The Wharf in Mooloolaba, with no more than 8 guests and freediving guides in the water. Guests only get in when the whales are calm, and otherwise watch from the boat. It is part of The Pressure Project, which also runs a week-long whale swim retreat.",
+  "standouts": [
+    "Maximum of 8 guests on each whale swim",
+    "Swims guided by trained freedivers",
+    "Follows the Australian National Guidelines for Whale and Dolphin Watching (2017)",
+    "Runs its own vessel, Ocean Rose, from The Wharf Mooloolaba"
+  ],
+  "contact": {
+    "phone": "+61 412 018 250",
+    "email": "info@thepressureproject.com.au",
+    "address": "5 Nabilla St, Buddina 4575, Queensland, Australia (postal address)"
+  },
+  "heroImage": "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/by-Lise-de-Boer-The-Pressure-Project-5.jpg",
+  "sourceUrls": [
+    "https://whaleswimqueensland.com.au",
+    "https://whaleswimqueensland.com.au/sitemap-1.xml",
+    "https://whaleswimqueensland.com.au/book-whale-swim-sunshine-coast/",
+    "https://whaleswimqueensland.com.au/whale-week/",
+    "https://whaleswimqueensland.com.au/wp-content/uploads/2026/06/Welcome-To-Whale-Week.pdf",
+    "https://whaleswimqueensland.com.au/about-whale-swim-sunshine-coast/",
+    "https://whaleswimqueensland.com.au/terms-conditions/",
+    "https://whaleswimqueensland.com.au/reasons-to-swim-with-whales/",
+    "https://whaleswimqueensland.com.au/whales-from-the-sunshine-coast/",
+    "https://whaleswimqueensland.com.au/protecting-humpback-whales-queensland/",
+    "https://whaleswimqueensland.com.au/blog/"
+  ],
+  "trips": [
+    {
+      "title": "Humpback Whale Swim",
+      "kind": "swim",
+      "summary": "A four-hour morning or afternoon trip from Mooloolaba on the Ocean Rose, with no more than 8 guests. The crew searches for humpbacks, keeps a respectful distance and only lets guests into the water with a guide when the whales are calm. You do not need any certification, but you must be a confident ocean swimmer.",
+      "highlights": [
+        "Maximum of 8 guests",
+        "In-water guide teaches snorkelling technique and whale body language",
+        "Whales are never chased or touched; swims happen only on the whales' terms",
+        "Check-in at The Wharf Mooloolaba, then a short cruise out of the river to open ocean"
+      ],
+      "duration": "4 Hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": "June to October",
+      "departsFrom": "The Wharf Mooloolaba (check in between Rice Boi and The Booking Box)",
+      "prices": [
+        { "label": "Whale swim", "amount": 289, "currency": "AUD", "note": "Shown as 'Price | $289'; the page does not say per person" }
+      ],
+      "priceFrom": 289,
+      "includes": [
+        "Safety briefing before departure",
+        "Swims led by an in-water guide"
+      ],
+      "bring": [
+        "Swimwear (ideally worn under your clothes)",
+        "Towel and change of dry clothes",
+        "Reef-safe sunscreen",
+        "Water bottle and light snacks",
+        "Seasickness tablets (if needed)",
+        "Any required medications (please notify staff)"
+      ],
+      "requirements": "At least 10 years old; anyone under 18 must be supervised by a parent or legal guardian. Confident swimmer, comfortable in the open ocean and in good health, able to swim 200 metres unaided or 300 metres with snorkelling gear in ocean conditions. Medical questionnaire required; a doctor's clearance may be needed. Certified freedivers must show proof to use weights. Vessel is not wheelchair accessible.",
+      "offer": {
+        "text": "Discount on your next swim if no whales are seen at all",
+        "conditions": "Only if no whales are seen on the trip. No refund if whales are seen but do not interact, or if you choose not to enter the water.",
+        "validUntil": null
+      },
+      "images": [
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/by-Lise-de-Boer-The-Pressure-Project.jpg",
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/DSC00191-1024x754.jpg",
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/by-Lise-de-Boer-The-Pressure-Project-6-1024x674.jpg",
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/Frankies-Gelato-April-2025-2-edited-1024x1024.jpg"
+      ],
+      "bookingLinks": [
+        "https://thepressureproject.rezdy.com/638487/swim-with-humpback-whales",
+        "https://thepressureproject.rezdy.com/638487/swim-with-humpback-whales-sunshine-coast"
+      ],
+      "sourceUrl": "https://whaleswimqueensland.com.au/book-whale-swim-sunshine-coast/",
+      "checkNotes": "Season is not on the booking page; 'June to October' comes from the blog post reasons-to-swim-with-whales and the Whale Week page, while the same blog post also says 'typically from June to November'. No departure times published (homepage says 'a morning or afternoon on the water'). Gear is unclear: the booking page says guests are fitted for gear at check-in (own gear welcome), but the terms say guests 'may hire' snorkels, masks, fins and wetsuits, so gear was not listed as included. Requirements and what to bring come from the tour terms page. The terms state the no-whales discount as a percentage; amount left out. The site states sighting and swim success rates as percentages (2024 and 2025 figures differ); not used. The second Rezdy link had a Google Analytics _gl parameter, removed here."
+    },
+    {
+      "title": "Private Whale Charter",
+      "kind": "charter",
+      "summary": "A private whale swim charter on the Ocean Rose out of Mooloolaba for your own group. The website gives no details beyond a booking button, so times, group size and price need to be confirmed with the operator.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "The Wharf Mooloolaba",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/DSC00191-1024x754.jpg"
+      ],
+      "bookingLinks": [
+        "https://thepressureproject.rezdy.com/728886/private-whale-charter-half-day"
+      ],
+      "sourceUrl": "https://whaleswimqueensland.com.au/book-whale-swim-sunshine-coast/",
+      "checkNotes": "Only a 'Private Whale Charter' button on the booking page; price and details exist only in the Rezdy booking widget (not opened). The Rezdy link slug says 'half-day', while the blog post reasons-to-swim-with-whales mentions 'a full day (private charter)'; duration left null. Departure point assumed to be the same as the scheduled swim; please confirm. The link had a Google Analytics _gl parameter, removed here."
+    },
+    {
+      "title": "Whale Week Australia",
+      "kind": "swim",
+      "summary": "A seven-day retreat built around daily whale swims from Mooloolaba on the Ocean Rose, with a maximum of 6 guests. Days also include breathwork, cold immersion, yoga and talks on whales and freediving. It is led by freediver and Pressure Project founder Adam Sellars, and accommodation is not included.",
+      "highlights": [
+        "Maximum of 6 guests",
+        "Daily whale swims, weather and whales permitting",
+        "Breathwork, meditation, cold immersion and yoga sessions",
+        "Trip highlight photo and video package included"
+      ],
+      "duration": "7 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Aug 24th-30th and Sep 21st-27th (2026)",
+      "departsFrom": "Mooloolaba, Sunshine Coast",
+      "prices": [
+        { "label": "Per week", "amount": 2500, "currency": "AUD", "note": "Excl accommodation" }
+      ],
+      "priceFrom": 2500,
+      "includes": [
+        "7-Day Immersive Ocean Retreat",
+        "Swim daily with migrating humpback whales on the Sunshine Coast",
+        "Freediver and snorkeller-friendly, with expert in-water support",
+        "Breathwork and mindfulness practices",
+        "Cold immersion sessions",
+        "Movement and yoga classes",
+        "Marine life talks and ocean insights",
+        "Trip highlight media package",
+        "Local reef snorkelling / freediving",
+        "Gear: 5mm wetsuit, snorkel mask and fins",
+        "Led by experienced freedivers and an experienced local skipper"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/Whale-Week-The-Pressure-Project-12-1-1024x576.jpg",
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/Whale-Week-The-Pressure-Project-20.jpg",
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/Whale-Week-The-Pressure-Project-18-1-1024x576.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.thepressureproject.com.au/register/?selected_event=Whale%20Week%20Australia|"
+      ],
+      "sourceUrl": "https://whaleswimqueensland.com.au/whale-week/",
+      "checkNotes": "Both 2026 dates listed on the page (Aug 24th-30th and Sep 21st-27th) have already passed as of 12 Oct 2026; check whether 2027 dates exist before publishing. The Whale Week guide PDF lists a third week (Aug 3rd-9th) not shown on the page. Not included, per the PDF: accommodation, travel insurance, drinks and meals. Gear and reef snorkelling inclusions come from the PDF. The PDF says no refunds if ocean conditions stop trips on some days, since the week includes other activities. Booking goes to a registration form on thepressureproject.com.au, not Rezdy. No entry requirements stated for the retreat."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "The business trades as Whale Swim Queensland and Whale Swim Sunshine Coast, 'powered by The Pressure Project'; the Rezdy account is under The Pressure Project. The only address on the site is a postal address in Buddina; trips leave from The Wharf Mooloolaba. The about page says The Pressure Project also sells freediving courses, retreats, snorkel and fun dive tours year round, but those are on thepressureproject.com.au, a different domain that was not read. Some photos on the site are Pexels stock images (filenames 'pexels-eliannedipp-...') and one is from Tonga ('Tonga6'); these were not used."
+}

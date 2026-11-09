@@ -1,0 +1,154 @@
+{
+  "slug": "elegance-catamaran-cruises",
+  "name": "Elegance Catamaran Cruises",
+  "website": "https://www.elegancebarbados.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Catamaran cruises",
+  "summary": "An owner-operated catamaran, Elegance, sailing out of Bridgetown for lunch and sunset cruises with snorkel stops at the shipwrecks and with turtles. The lunch cruise takes no more than 12 guests, and taxi transfers, food and an open bar are part of the price. The boat can also be chartered privately for the day.",
+  "standouts": [
+    "Owner operated",
+    "Lunch cruise limited to 12 guests",
+    "Taxi transfers included on shared cruises",
+    "Private daily charters with menu choices such as lobster, lamb or sushi on request"
+  ],
+  "contact": {
+    "phone": "+1 246 830 4218",
+    "phoneAlt": "+1 246 259 2558",
+    "email": "elegancebarbados@aol.com",
+    "address": null
+  },
+  "heroImage": "https://www.elegancebarbados.com/wp-content/uploads/2018/12/boat-at-sea1.jpg",
+  "sourceUrls": [
+    "https://www.elegancebarbados.com/",
+    "https://www.elegancebarbados.com/sailing-excursions-in-barbados/",
+    "https://www.elegancebarbados.com/sitemap/",
+    "https://www.elegancebarbados.com/book-now/",
+    "https://www.elegancebarbados.com/about-elegance-catamarans-barbados/",
+    "https://www.elegancebarbados.com/elegance-catamaran-cruises-reviews/",
+    "https://www.elegancebarbados.com/contact-us/",
+    "https://www.elegancebarbados.com/catamaran-cruises-picture-gallery/"
+  ],
+  "trips": [
+    {
+      "title": "Lunch Cruise",
+      "kind": "cruise",
+      "summary": "A sail out of Bridgetown along the coast, with stops to swim, snorkel over shipwrecks and swim with turtles. The crew serve a Bajan buffet lunch in a quiet bay before the sail back. No more than 12 guests come aboard.",
+      "highlights": [
+        "Snorkel at the shipwrecks and swim with turtles",
+        "Bajan buffet lunch in a quiet bay",
+        "Maximum 12 guests",
+        "Taxi transfers included"
+      ],
+      "duration": "9.30am to 2.30pm",
+      "durationMinutes": 300,
+      "departureTimes": ["09:30"],
+      "season": null,
+      "departsFrom": "Bridgetown",
+      "prices": [
+        { "label": "Per person", "amount": 150, "currency": "USD", "note": null },
+        { "label": "Per person", "amount": 300, "currency": "BBD", "note": "Same price shown in Barbados dollars" },
+        { "label": "Children 3 to 12 yrs", "amount": 112.5, "currency": "USD", "note": null },
+        { "label": "Children 3 to 12 yrs", "amount": 225, "currency": "BBD", "note": "Same price shown in Barbados dollars" }
+      ],
+      "priceFrom": 150,
+      "includes": [
+        "Traditional bajan style buffet lunch",
+        "Open premium brand bar",
+        "Snorkeling equipment provided",
+        "Taxi transfers included"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.elegancebarbados.com/wp-content/uploads/2018/12/boat-at-sea1.jpg",
+        "https://www.elegancebarbados.com/wp-content/uploads/2018/08/turtle.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.elegancebarbados.com/book-now/"
+      ],
+      "sourceUrl": "https://www.elegancebarbados.com/sailing-excursions-in-barbados/",
+      "checkNotes": "Duration shown as a time range, 9.30am to 2.30pm; durationMinutes worked out from those times. The booking page is a request form that takes card details to secure the booking; it is not an instant online checkout."
+    },
+    {
+      "title": "Sunset Dinner Cruise",
+      "kind": "cruise",
+      "summary": "A four hour evening cruise from 3pm to 7pm, with a turtle swim and snorkelling before dinner on board as the sun goes down. Dinner, an open bar and taxi transfers are included.",
+      "highlights": [
+        "3pm to 7pm",
+        "Swim with the turtles",
+        "Dinner and drinks on board",
+        "Taxi transfers included"
+      ],
+      "duration": "4hrs",
+      "durationMinutes": 240,
+      "departureTimes": ["15:00"],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Per person", "amount": 150, "currency": "USD", "note": null },
+        { "label": "Per person", "amount": 300, "currency": "BBD", "note": "Same price shown in Barbados dollars" },
+        { "label": "Children 3 to 12 yrs", "amount": 112.5, "currency": "USD", "note": null },
+        { "label": "Children 3 to 12 yrs", "amount": 225, "currency": "BBD", "note": "Same price shown in Barbados dollars" }
+      ],
+      "priceFrom": 150,
+      "includes": [
+        "Dinner and drinks included",
+        "Open premium brand bar",
+        "Snorkeling equipment provided",
+        "Taxi transfers included"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.elegancebarbados.com/wp-content/uploads/2018/11/elegance-barbados-catamaran-sunset.jpg",
+        "https://www.elegancebarbados.com/wp-content/uploads/2012/01/sunset-catamaran12.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.elegancebarbados.com/book-now/"
+      ],
+      "sourceUrl": "https://www.elegancebarbados.com/sailing-excursions-in-barbados/",
+      "checkNotes": "Called 'Sunset Cruise' on the home page and the booking form. Departure point not stated for this cruise; the lunch cruise sails from Bridgetown. No guest limit stated for this cruise."
+    },
+    {
+      "title": "Private Cruise",
+      "kind": "charter",
+      "summary": "Elegance can be chartered privately for the day, with the plan built around your group, from a breakfast trip to a wedding, birthday or anniversary on board. A Bajan lunch, drinks and transfers are included, and other menus can be arranged for an extra charge.",
+      "highlights": [
+        "Private daily charter",
+        "Itinerary tailored to your group",
+        "Lobster, lamb or sushi menus on request at a surcharge",
+        "Weddings, birthdays and anniversaries on board"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Traditional Bajan lunch",
+        "Premium brand beverages",
+        "Transfers"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.elegancebarbados.com/wp-content/uploads/2018/08/elegance-catamaran-barbados-drone.png"
+      ],
+      "bookingLinks": [
+        "https://www.elegancebarbados.com/book-now/"
+      ],
+      "sourceUrl": "https://www.elegancebarbados.com/sailing-excursions-in-barbados/",
+      "checkNotes": "Price on application. Booked by choosing 'Private/Customised Cruise' on the booking request form, or by email or phone."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Trading check: the site's page dates run to 2021 and WordPress pages show no 2025 or 2026 prices or news. The booking form is still up and its card expiry list starts at 2024, so the form was touched after 2023; treated as trading, but worth confirming by phone. Booking form terms: cancelling with less than 48 hours notice incurs a charge, and same-day cancellation is charged in full. No street address or departure dock is given; the lunch cruise sails out of Bridgetown. The home page links to Facebook, Instagram and TripAdvisor (not opened)."
+}

@@ -1,0 +1,337 @@
+{
+  "slug": "nauti-dreams-charters",
+  "name": "Nauti Dreams Barbados",
+  "website": "https://www.nautidreamsbarbados.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Sport fishing charters",
+  "summary": "Nauti Dreams runs private fishing, snorkel and cruising charters from two Bridgetown marinas on three boats of 32, 36 and 40 feet. Every trip is for one group of up to six guests at a flat price for the whole boat. Its captains also fish billfish tournaments around the eastern Caribbean.",
+  "standouts": [
+    "Three private boats, each for up to six guests, with one flat price per boat",
+    "Captain Joshua Proverbs set the Junior World Record and Barbados record for yellowfin tuna at sixteen",
+    "8th place at the Offshore World Championship, North America",
+    "Two departures a day, at 6:30am and 12:30pm"
+  ],
+  "contact": {
+    "phone": "+1 (246) 832-1741",
+    "email": "fishinginbarbados@gmail.com",
+    "address": "The Shallow Draught Marina, Bridgetown, St. Michael (Nauti Dreams); The Careenage, Bridgetown, St. Michael (Nauti by Nature and Feelin Nauti)",
+    "whatsapp": "https://wa.me/12468321741"
+  },
+  "heroImage": "https://nautidreamsbarbados.com/images/hero-boat-turquoise.jpg",
+  "sourceUrls": [
+    "https://nautidreamsbarbados.com/",
+    "https://nautidreamsbarbados.com/charters",
+    "https://nautidreamsbarbados.com/fleet",
+    "https://nautidreamsbarbados.com/about",
+    "https://nautidreamsbarbados.com/faq",
+    "https://nautidreamsbarbados.com/contact",
+    "https://nautidreamsbarbados.com/tournaments",
+    "https://nautidreamsbarbados.com/jetski-tours",
+    "https://nautidreamsbarbados.com/fish-guide",
+    "https://nautidreamsbarbados.com/assets/index-BpWr7F00.js"
+  ],
+  "trips": [
+    {
+      "title": "3 Hour Inshore",
+      "kind": "charter",
+      "summary": "A short private trip to the calmer inshore grounds, 15 to 20 minutes from the dock, trolling and live-baiting for snapper, barracuda, mackerel and jacks. No experience is needed and the water suits families.",
+      "highlights": [
+        "15 to 20 minute run to the grounds",
+        "Calm, family-friendly water",
+        "No experience required",
+        "Targets barracuda, snapper, mackerel and jacks"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": ["06:30", "12:30"],
+      "season": null,
+      "departsFrom": "The Shallow Draught Marina or The Careenage, Bridgetown, depending on the boat",
+      "prices": [
+        { "label": "Feelin Nauti (32 ft), whole boat, up to 6 guests", "amount": 595, "currency": "USD", "note": "Per charter, no per-person charge" },
+        { "label": "Nauti Dreams (36 ft), whole boat, up to 6 guests", "amount": 695, "currency": "USD", "note": "Per charter, no per-person charge" },
+        { "label": "Nauti by Nature (40 ft), whole boat, up to 6 guests", "amount": 795, "currency": "USD", "note": "Per charter, no per-person charge" }
+      ],
+      "priceFrom": 595,
+      "includes": [
+        "Rods, reels, bait and tackle",
+        "Soft drinks and local beers",
+        "Bajan-style snacks",
+        "All licences and safety gear"
+      ],
+      "bring": [
+        "Hat, sunglasses, reef-safe sunscreen and a towel",
+        "A light jacket if you burn easily",
+        "Soft-soled shoes or bare feet",
+        "A cooler bag if you would like to take fish home"
+      ],
+      "requirements": "No age limit; children must be supervised at all times",
+      "offer": null,
+      "images": ["https://nautidreamsbarbados.com/images/scenic-anchored.jpg"],
+      "bookingLinks": ["https://book.peek.com/s/3c5deaba-5d2f-40fc-8486-16023368b397/7Dyaj"],
+      "sourceUrl": "https://nautidreamsbarbados.com/charters",
+      "checkNotes": "Prices are per boat (whole boat up to 6 guests, USD) and depend on which of the three boats is chosen. Departure times are the standard 6:30am and 12:30pm departures given for all charters. Departure marina depends on the boat: Nauti Dreams leaves the Shallow Draught Marina, the other two leave The Careenage. Booking link is a Peek page and was not opened."
+    },
+    {
+      "title": "4 Hour Inshore, Snorkel & BBQ",
+      "kind": "charter",
+      "summary": "Fish the sheltered inshore grounds for barracuda, wahoo and more, then anchor over the wrecks off Bridgetown to snorkel where turtles swim. The captain cooks the catch on board, so the trip works for groups that mix anglers and non-anglers.",
+      "highlights": [
+        "Snorkel over the wrecks off Bridgetown",
+        "Captain cooks your catch on board",
+        "Locally made banana bread on board",
+        "Listed by the operator as its most popular trip"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": ["06:30", "12:30"],
+      "season": null,
+      "departsFrom": "The Shallow Draught Marina or The Careenage, Bridgetown, depending on the boat",
+      "prices": [
+        { "label": "Feelin Nauti (32 ft), whole boat, up to 6 guests", "amount": 655, "currency": "USD", "note": "Per charter, no per-person charge" },
+        { "label": "Nauti Dreams (36 ft), whole boat, up to 6 guests", "amount": 795, "currency": "USD", "note": "Per charter, no per-person charge" },
+        { "label": "Nauti by Nature (40 ft), whole boat, up to 6 guests", "amount": 895, "currency": "USD", "note": "Per charter, no per-person charge" }
+      ],
+      "priceFrom": 655,
+      "includes": [
+        "Rods, reels, bait and tackle",
+        "Masks and snorkels onboard",
+        "Soft and alcoholic drinks",
+        "Snacks and locally-made banana bread",
+        "Cook your catch onboard"
+      ],
+      "bring": [
+        "Hat, sunglasses, reef-safe sunscreen and a towel",
+        "A swimsuit for snorkelling",
+        "A light jacket if you burn easily",
+        "Soft-soled shoes or bare feet"
+      ],
+      "requirements": "No age limit; children must be supervised at all times",
+      "offer": null,
+      "images": [
+        "https://nautidreamsbarbados.com/images/snorkel-anchorage.jpg",
+        "https://nautidreamsbarbados.com/images/catch-mahi-wahoo.jpg"
+      ],
+      "bookingLinks": ["https://book.peek.com/s/3c5deaba-5d2f-40fc-8486-16023368b397/7Dyaj"],
+      "sourceUrl": "https://nautidreamsbarbados.com/charters",
+      "checkNotes": "The site's own title is '4 Hour Inshore' and 'Snorkel & BBQ' joined by a long dash; rewritten with a comma (the site's short name uses a comma too). The site says guests swim with turtles; it does not advertise feeding or touching them. Prices are per boat and depend on the boat chosen. Booking link is a Peek page and was not opened."
+    },
+    {
+      "title": "4 Hour Offshore",
+      "kind": "charter",
+      "summary": "A half-day run straight out to the deep water bar for wahoo, mahi mahi and yellowfin tuna, with sailfish seen at times. Fish is cleaned for guests to take home.",
+      "highlights": [
+        "Deep water bar big game fishing",
+        "Shortest offshore option",
+        "Targets wahoo, mahi mahi and yellowfin tuna",
+        "Fish cleaned for you to take home"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": ["06:30", "12:30"],
+      "season": null,
+      "departsFrom": "The Shallow Draught Marina or The Careenage, Bridgetown, depending on the boat",
+      "prices": [
+        { "label": "Feelin Nauti (32 ft), whole boat, up to 6 guests", "amount": 695, "currency": "USD", "note": "Per charter, no per-person charge" },
+        { "label": "Nauti Dreams (36 ft), whole boat, up to 6 guests", "amount": 895, "currency": "USD", "note": "Per charter, no per-person charge" },
+        { "label": "Nauti by Nature (40 ft), whole boat, up to 6 guests", "amount": 995, "currency": "USD", "note": "Per charter, no per-person charge" }
+      ],
+      "priceFrom": 695,
+      "includes": [
+        "Tournament-grade rods, reels, bait and tackle",
+        "Drinks and local-style snacks",
+        "Fishing licence and safety gear",
+        "Fish cleaned for you to take home"
+      ],
+      "bring": [
+        "Hat, sunglasses, reef-safe sunscreen and a towel",
+        "A light jacket if you burn easily",
+        "Soft-soled shoes or bare feet",
+        "A cooler bag if you would like to take fish home"
+      ],
+      "requirements": "No age limit; children must be supervised at all times",
+      "offer": null,
+      "images": ["https://nautidreamsbarbados.com/images/angler-tuna-offshore.jpg"],
+      "bookingLinks": ["https://book.peek.com/s/3c5deaba-5d2f-40fc-8486-16023368b397/7Dyaj"],
+      "sourceUrl": "https://nautidreamsbarbados.com/charters",
+      "checkNotes": "Prices are per boat and depend on the boat chosen. Under the Barbados fish policy the catch belongs to the boat; the site says every guest gets at least enough cleaned fish for a meal. Booking link is a Peek page and was not opened."
+    },
+    {
+      "title": "5 Hour Offshore & Snorkel",
+      "kind": "charter",
+      "summary": "Four hours on the deep water bar for wahoo, yellowfin tuna and mahi mahi, then an hour to snorkel where turtles swim or to anchor somewhere quiet. Masks and snorkels are on board.",
+      "highlights": [
+        "Fishing plus one hour of snorkelling",
+        "Anchor at a spot of your choice",
+        "Targets wahoo, yellowfin tuna, mahi mahi and marlin",
+        "Suits groups with mixed interests"
+      ],
+      "duration": "5 hours (incl. 1 hour snorkelling)",
+      "durationMinutes": 300,
+      "departureTimes": ["06:30", "12:30"],
+      "season": null,
+      "departsFrom": "The Shallow Draught Marina or The Careenage, Bridgetown, depending on the boat",
+      "prices": [
+        { "label": "Feelin Nauti (32 ft), whole boat, up to 6 guests", "amount": 755, "currency": "USD", "note": "Per charter, no per-person charge" },
+        { "label": "Nauti Dreams (36 ft), whole boat, up to 6 guests", "amount": 955, "currency": "USD", "note": "Per charter, no per-person charge" },
+        { "label": "Nauti by Nature (40 ft), whole boat, up to 6 guests", "amount": 1095, "currency": "USD", "note": "Per charter, no per-person charge" }
+      ],
+      "priceFrom": 755,
+      "includes": [
+        "Top-quality rods, reels, bait and tackle",
+        "Fishing licence",
+        "Masks and snorkels onboard",
+        "Drinks and a range of food options"
+      ],
+      "bring": [
+        "Hat, sunglasses, reef-safe sunscreen and a towel",
+        "A swimsuit for snorkelling",
+        "A light jacket if you burn easily",
+        "Soft-soled shoes or bare feet"
+      ],
+      "requirements": "No age limit; children must be supervised at all times",
+      "offer": null,
+      "images": ["https://nautidreamsbarbados.com/images/offshore-action.jpg"],
+      "bookingLinks": ["https://book.peek.com/s/3c5deaba-5d2f-40fc-8486-16023368b397/7Dyaj"],
+      "sourceUrl": "https://nautidreamsbarbados.com/charters",
+      "checkNotes": "Prices are per boat and depend on the boat chosen. The site mentions snorkelling with turtles; it does not advertise feeding or touching them. Booking link is a Peek page and was not opened."
+    },
+    {
+      "title": "6 Hour Offshore",
+      "kind": "charter",
+      "summary": "Six hours on the open ocean for mahi mahi, yellowfin tuna and blue and white marlin, with lunch on board. This trip runs on the two larger boats only.",
+      "highlights": [
+        "A real chance at marlin",
+        "Lunch on board",
+        "Full big game tackle",
+        "Nauti Dreams or Nauti by Nature only"
+      ],
+      "duration": "6 hours",
+      "durationMinutes": 360,
+      "departureTimes": ["06:30", "12:30"],
+      "season": null,
+      "departsFrom": "The Shallow Draught Marina or The Careenage, Bridgetown, depending on the boat",
+      "prices": [
+        { "label": "Nauti Dreams (36 ft), whole boat, up to 6 guests", "amount": 1195, "currency": "USD", "note": "Per charter, no per-person charge" },
+        { "label": "Nauti by Nature (40 ft), whole boat, up to 6 guests", "amount": 1295, "currency": "USD", "note": "Per charter, no per-person charge" }
+      ],
+      "priceFrom": 1195,
+      "includes": [
+        "Full big game tackle setup",
+        "Beers, rum, vodka and soft drinks",
+        "Snacks plus your choice of sandwiches or pizza",
+        "Fishing licence and safety gear"
+      ],
+      "bring": [
+        "Hat, sunglasses, reef-safe sunscreen and a towel",
+        "A light jacket if you burn easily",
+        "Soft-soled shoes or bare feet",
+        "A cooler bag if you would like to take fish home"
+      ],
+      "requirements": "No age limit; children must be supervised at all times",
+      "offer": null,
+      "images": ["https://nautidreamsbarbados.com/images/deck-catch-aerial.jpg"],
+      "bookingLinks": ["https://book.peek.com/s/3c5deaba-5d2f-40fc-8486-16023368b397/7Dyaj"],
+      "sourceUrl": "https://nautidreamsbarbados.com/charters",
+      "checkNotes": "Not offered on Feelin Nauti. Prices are per boat. The site says the main marlin season runs December to May. Booking link is a Peek page and was not opened."
+    },
+    {
+      "title": "8 Hour Offshore",
+      "kind": "charter",
+      "summary": "A full day offshore, giving the most time to work the open ocean for blue and white marlin, sailfish and yellowfin tuna. It runs on the two larger boats only, with lunch on board.",
+      "highlights": [
+        "Most time on the fish",
+        "Tournament-style day",
+        "Lunch on board",
+        "Nauti Dreams or Nauti by Nature only"
+      ],
+      "duration": "8 hours",
+      "durationMinutes": 480,
+      "departureTimes": ["06:30", "12:30"],
+      "season": null,
+      "departsFrom": "The Shallow Draught Marina or The Careenage, Bridgetown, depending on the boat",
+      "prices": [
+        { "label": "Nauti Dreams (36 ft), whole boat, up to 6 guests", "amount": 1495, "currency": "USD", "note": "Per charter, no per-person charge" },
+        { "label": "Nauti by Nature (40 ft), whole boat, up to 6 guests", "amount": 1595, "currency": "USD", "note": "Per charter, no per-person charge" }
+      ],
+      "priceFrom": 1495,
+      "includes": [
+        "Full tournament-grade big game setup",
+        "Beers, rum, vodka and soft drinks",
+        "Snacks plus your choice of sandwiches or pizza",
+        "Fishing licence and safety gear"
+      ],
+      "bring": [
+        "Hat, sunglasses, reef-safe sunscreen and a towel",
+        "A light jacket if you burn easily",
+        "Soft-soled shoes or bare feet",
+        "A cooler bag if you would like to take fish home"
+      ],
+      "requirements": "No age limit; children must be supervised at all times",
+      "offer": null,
+      "images": ["https://nautidreamsbarbados.com/images/fish-blue-marlin-v3.jpg"],
+      "bookingLinks": ["https://book.peek.com/s/3c5deaba-5d2f-40fc-8486-16023368b397/7Dyaj"],
+      "sourceUrl": "https://nautidreamsbarbados.com/charters",
+      "checkNotes": "Not offered on Feelin Nauti. Prices are per boat. The site lists 6:30am and 12:30pm as standard departures for all charters but does not say whether the 8 hour trip runs in the afternoon slot; check. Booking link is a Peek page and was not opened."
+    },
+    {
+      "title": "Tournament Charter",
+      "kind": "charter",
+      "summary": "Any of the three boats can be chartered for a Caribbean fishing tournament, with or without the crew. The team handles entry logistics, tackle and bait.",
+      "highlights": [
+        "All three boats available for tournaments",
+        "With or without the crew",
+        "Entry logistics, tackle and bait handled",
+        "Home events run by the Barbados Game Fishing Association in April and October"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Bridgetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": ["Entry logistics, tackle and bait"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": ["https://nautidreamsbarbados.com/images/wahoo-pair.jpg"],
+      "bookingLinks": [],
+      "sourceUrl": "https://nautidreamsbarbados.com/tournaments",
+      "checkNotes": "The site's heading is 'Charter a boat for an event'; title shortened here. No price; arranged by phone, WhatsApp or the contact form."
+    },
+    {
+      "title": "Jetski Tours",
+      "kind": "tour",
+      "summary": "Guided jet ski runs along the sheltered west coast, run by the same team. Every tour has a guide, a briefing and life jackets, and no experience is needed.",
+      "highlights": [
+        "West coast route on flat, sheltered water",
+        "Guide rides with you the whole way",
+        "Briefing and life jackets",
+        "No experience needed"
+      ],
+      "duration": "Half an hour",
+      "durationMinutes": 30,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": ["Guide", "Safety briefing", "Life jackets"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": ["https://nautidreamsbarbados.com/images/open-water-wide.jpg"],
+      "bookingLinks": ["https://jetskibarbados.tours/"],
+      "sourceUrl": "https://nautidreamsbarbados.com/jetski-tours",
+      "checkNotes": "Jet ski tour. Sold through the team's separate site jetskibarbados.tours, which was not opened (different domain), so no price, departure point or times. The 'half-hour' length comes from the about page only."
+    }
+  ],
+  "offers": [
+    { "text": "Round-trip hotel or guest house shuttle for a small fee", "conditions": "Request at checkout or call the office", "validUntil": null, "sourceUrl": "https://nautidreamsbarbados.com/charters" },
+    { "text": "Custom timings and private events: sunset cruises, proposals, birthdays and multi-boat group bookings", "conditions": "Arranged by phone", "validUntil": null, "sourceUrl": "https://nautidreamsbarbados.com/charters" }
+  ],
+  "checkNotes": "The site is a single-page app: all page text, prices and image paths were read from its own script file (assets/index-BpWr7F00.js) on the same domain, which renders /charters, /fleet, /about, /faq, /contact, /tournaments, /jetski-tours and /fish-guide. The batch list gives the base as Retreat (Highway 1B), St. Lucy / St. Peter, but the site says all boats leave Bridgetown (Shallow Draught Marina and The Careenage) and gives driving directions to the Shallow Draught. The site's fish policy says the catch belongs to the boat and a share is cleaned for guests; it also states a figure for that share, which is left out here. Cancellation: more than 7 days before departure fully refundable; inside 7 days the deposit is non-refundable. The operator also runs Nauti HQ restaurant and sells apparel; neither is built as a trip. Instagram posts embedded on the home page are dated as recent as July 2026, so the business is trading."
+}

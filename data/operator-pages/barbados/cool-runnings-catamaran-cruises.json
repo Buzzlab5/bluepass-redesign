@@ -1,0 +1,151 @@
+{
+  "slug": "cool-runnings-catamaran-cruises",
+  "name": "Cool Runnings Catamaran Cruises",
+  "website": "https://www.coolrunningsbarbados.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Catamaran sail and snorkel",
+  "summary": "Captain Robert Povey and Annika Povey own and run this catamaran company from Carlisle Wharf in Bridgetown. The daily lunch cruise stops to swim with sea turtles, snorkel a shallow shipwreck and visit a quiet bay, and a sunset dinner cruise sails twice a week. Transfers from your hotel or the cruise ship terminal are included, and the boats can be chartered privately.",
+  "standouts": [
+    "Owned and run by Captain Robert Povey and Annika Povey",
+    "Custom-built catamarans that sail with a limited number of passengers",
+    "Transport to and from your hotel or the cruise ship terminal on lunch and sunset cruises",
+    "Three stops on the lunch cruise: sea turtles, a shipwreck and a beach in a secluded bay"
+  ],
+  "contact": {
+    "phone": "+1 246 436 0911",
+    "email": null,
+    "address": "Carlisle House, Carlisle Wharf, Hincks Street, Bridgetown, Barbados, West Indies",
+    "whatsapp": null
+  },
+  "heroImage": "https://www.coolrunningsbarbados.com/img/coolslide_01.jpg",
+  "sourceUrls": [
+    "https://www.coolrunningsbarbados.com/",
+    "https://www.coolrunningsbarbados.com/lunch.html",
+    "https://www.coolrunningsbarbados.com/sunset.html",
+    "https://www.coolrunningsbarbados.com/private.html",
+    "https://www.coolrunningsbarbados.com/crew.html",
+    "https://www.coolrunningsbarbados.com/reservations.php",
+    "https://www.coolrunningsbarbados.com/request_quote.php",
+    "https://www.coolrunningsbarbados.com/templates/header.html",
+    "https://www.coolrunningsbarbados.com/templates/footer.html",
+    "https://www.coolrunningsbarbados.com/about.html",
+    "https://www.coolrunningsbarbados.com/contactus.php",
+    "https://www.coolrunningsbarbados.com/cruise_packages.html",
+    "https://www.coolrunningsbarbados.com/gallery.html",
+    "https://www.coolrunningsbarbados.com/cruise_video.html",
+    "https://www.coolrunningsbarbados.com/css/main.css"
+  ],
+  "trips": [
+    {
+      "title": "Daily Snorkel Lunch Cruise",
+      "kind": "sail",
+      "summary": "A five hour daily sail to a secluded bay on the west coast, with three stops: swimming and snorkelling with sea turtles, a shallow shipwreck with tropical fish, and a beach. The crew provides snorkel gear and can teach beginners. A buffet lunch with wine and dessert is served on board at anchor.",
+      "highlights": [
+        "Three stops: sea turtles, a shipwreck and a secluded beach",
+        "Snorkel gear and snorkelling instruction",
+        "Buffet lunch with wine and dessert",
+        "Unlimited drinks"
+      ],
+      "duration": "9:30 a.m. to 2:30 p.m.",
+      "durationMinutes": 300,
+      "departureTimes": ["09:30"],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Adult", "amount": 110, "currency": "USD", "note": "per adult; also shown as BDS $220.00" },
+        { "label": "Child (ages 4 to 12 yrs)", "amount": 55, "currency": "USD", "note": "per child; also shown as BDS $110.00" },
+        { "label": "Infant (ages 3 and under)", "amount": 15, "currency": "USD", "note": "per infant; also shown as BDS $30.00" }
+      ],
+      "priceFrom": 110,
+      "includes": [
+        "Transportation to and from your hotel or the cruise ship terminal",
+        "Snorkeling equipment",
+        "Snorkeling instruction",
+        "Unlimited drinks",
+        "Buffet lunch with wine and dessert"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.coolrunningsbarbados.com/img/bg_lunch.jpg",
+        "https://www.coolrunningsbarbados.com/img/Layer15.png"
+      ],
+      "bookingLinks": ["https://www.coolrunningsbarbados.com/reservations.php"],
+      "sourceUrl": "https://www.coolrunningsbarbados.com/lunch.html",
+      "checkNotes": "Advertises feeding schools of tropical fish at the shipwreck (fish, not turtles); left out of the summary. The cruise packages page (edited Nov 2023) omits the infant price; the lunch page (edited Oct 2025) was used. Reservations page is the operator's own form: card details held, nothing charged at booking, full payment at office check-in; last-minute cancellations are charged in full. Groups over 10 adults must contact the office. Departure point not stated on the trip page; the office is at Carlisle Wharf, Bridgetown."
+    },
+    {
+      "title": "Sunset Snorkel Dinner Cruise",
+      "kind": "sail",
+      "summary": "A four hour late afternoon sail on Wednesdays and Thursdays, with two stops: swimming and snorkelling with sea turtles, then a shipwreck with tropical fish. The boat then sails along the coast for the sunset, and a buffet dinner with wine and dessert is served as night falls.",
+      "highlights": [
+        "Runs Wednesdays and Thursdays",
+        "Two snorkel stops: sea turtles and a shipwreck",
+        "Buffet dinner with wine and dessert",
+        "Unlimited drinks"
+      ],
+      "duration": "3 p.m. to 7 p.m.",
+      "durationMinutes": 240,
+      "departureTimes": ["15:00"],
+      "season": "Wednesdays & Thursdays",
+      "departsFrom": null,
+      "prices": [
+        { "label": "Adult", "amount": 100, "currency": "USD", "note": "per adult; also shown as BDS $200.00" },
+        { "label": "Child (ages 4 to 12 yrs)", "amount": 50, "currency": "USD", "note": "per child; also shown as BDS $100.00" },
+        { "label": "Infant (ages 3 and under)", "amount": 15, "currency": "USD", "note": "per infant; also shown as BDS $30.00" }
+      ],
+      "priceFrom": 100,
+      "includes": [
+        "Transportation to and from your hotel or the cruise ship terminal",
+        "Snorkeling equipment",
+        "Unlimited drinks",
+        "Buffet dinner with wine and dessert"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.coolrunningsbarbados.com/img/bg_sunset.jpg",
+        "https://www.coolrunningsbarbados.com/img/Layer16.png"
+      ],
+      "bookingLinks": ["https://www.coolrunningsbarbados.com/reservations.php"],
+      "sourceUrl": "https://www.coolrunningsbarbados.com/sunset.html",
+      "checkNotes": "The cruise packages page omits the infant price; the sunset page (edited Oct 2025) was used. Booking through the operator's own reservation form, payment at office check-in. Departure point not stated on the trip page."
+    },
+    {
+      "title": "Private Cruises",
+      "kind": "charter",
+      "summary": "A catamaran for your own group, for special occasions and gatherings of friends. The company also arranges cruises for incentive groups and corporate events.",
+      "highlights": [
+        "Exclusive sailing cruise for your group",
+        "Special occasions and celebrations",
+        "Incentive groups and corporate entertaining",
+        "Start and end times chosen on the quote form"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.coolrunningsbarbados.com/img/bg_private.jpg",
+        "https://www.coolrunningsbarbados.com/img/Layer17.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.coolrunningsbarbados.com/private.html",
+      "checkNotes": "No price shown; enquiry only through the Request Quote form (https://www.coolrunningsbarbados.com/request_quote.php) or by phone. Title taken from the page text ('our private cruises'); the page heading is just 'Private'."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Trading: the lunch and sunset pages were last modified 26 Oct 2025 (server headers) and the reservation form offers card expiry years to 2032, though the footer still reads 2002 to 2021 and other pages date from 2022. No email address on the site, only a contact form; a second number, (246) 429-2596, is listed under the address without a label. The about page says the company was voted 2nd Most Popular Attraction by the Zagat Survey; no date given, so not used as a standout. The site links to a separate luxury brand at coolrunningsluxury.com, which is another domain and was not opened. The reservation form has a reCAPTCHA on submit; pages themselves loaded without any bot check."
+}

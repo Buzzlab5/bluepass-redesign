@@ -1,0 +1,866 @@
+{
+  "slug": "sea-all-dolphin-swims",
+  "name": "Sea All Dolphin Swims",
+  "website": "https://dolphinswims.com.au",
+  "rezdyAlias": "dolphinswims",
+  "state": "VIC",
+  "town": "Queenscliff",
+  "category": "Seal and dolphin swims",
+  "summary": "Sea All Dolphin Swims runs boat trips from Queenscliff Harbour into the southern end of Port Phillip Bay. Guests snorkel with Australian fur seals and wild dolphins, or stay on deck to watch them. The business has operated since 1996 and takes all ages and swimming levels.",
+  "standouts": [
+    "Certified Green Leader with Ecotourism Australia",
+    "Recognised as one of Tourism Australia's Sustainable Storytellers",
+    "In operation since 1996",
+    "Every ticket includes a $10 environmental levy supporting Southern Ocean Environmental Link (SOEL)"
+  ],
+  "contact": {
+    "phone": "+61 3 5258 3889",
+    "email": "crew@dolphinswims.com.au",
+    "address": "Shop 3. Building 6, Queenscliff Boat Harbour, Queenscliff VIC 3225"
+  },
+  "heroImage": "https://dolphinswims.com.au/wp-content/uploads/2025/07/Original__9631795_AL41_Staff1159_SADS_Advanced_Queenscliff_30czquj.jpg",
+  "sourceUrls": [
+    "https://dolphinswims.com.au/",
+    "https://dolphinswims.com.au/tours/",
+    "https://dolphinswims.com.au/tour/seal-dolphin-swim-on-maureen/",
+    "https://dolphinswims.com.au/tour/seal-swim-snorkelling-tour-90-minutes/",
+    "https://dolphinswims.com.au/tour/wildlife-sightseeing-tours-on-maureen-or-bluebird/",
+    "https://dolphinswims.com.au/tour/seal-swim-adventure-on-bluebird/",
+    "https://dolphinswims.com.au/tour/twilight-tour-on-maureen-m/",
+    "https://dolphinswims.com.au/tours/private-tours/",
+    "https://dolphinswims.com.au/tour/private-charters/",
+    "https://dolphinswims.com.au/tour/corporate-tours/",
+    "https://dolphinswims.com.au/tours/corporate-tours/",
+    "https://dolphinswims.com.au/tour/mindfulness-yoga-wildlife-tours-southern-port-phillip-bay/",
+    "https://dolphinswims.com.au/school-programs/",
+    "https://dolphinswims.com.au/tour/school-seal-dolphin-swim-tour/",
+    "https://dolphinswims.com.au/tour/wildlife-sightseeing-education-tour/",
+    "https://dolphinswims.com.au/tour/stingray-bay-queenscliff-harbour-school-snorkel/",
+    "https://dolphinswims.com.au/tour/stingray-bay-queenscliff-harbour/",
+    "https://dolphinswims.com.au/tour/conservation-workshops/",
+    "https://dolphinswims.com.au/tour/conserve-sea-program/",
+    "https://dolphinswims.com.au/tour/surf-lessons/",
+    "https://dolphinswims.com.au/tour/custom-school-tour-experiences/",
+    "https://dolphinswims.com.au/faqs/",
+    "https://dolphinswims.com.au/contact/",
+    "https://dolphinswims.com.au/sitemap_index.xml"
+  ],
+  "trips": [
+    {
+      "title": "Seal & Dolphin Swim on Maureen",
+      "kind": "swim",
+      "summary": "A half-day trip on the boat Maureen into the southern end of Port Phillip Bay. It usually starts with a snorkel at Pope's Eye, then a swim with Australian fur seals at Chinaman's Hat, then a search for wild dolphins. Guests who prefer to stay dry can join as sightseers.",
+      "highlights": [
+        "Snorkel at Pope's Eye in the Port Phillip Heads Marine National Park",
+        "Swim with Australian fur seals at Chinaman's Hat",
+        "Swim with wild dolphins under strict approach rules",
+        "Roof jumps, boom net, duck spa and rope ride included"
+      ],
+      "duration": "3.5 hours",
+      "durationMinutes": 210,
+      "departureTimes": [
+        "08:30",
+        "13:00"
+      ],
+      "season": "Twice daily during the warmer months",
+      "departsFrom": "Queenscliff Harbour",
+      "prices": [
+        {
+          "label": "Adult Snorkel",
+          "amount": 220,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child Snorkel",
+          "amount": 185,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Sightseeing Adult",
+          "amount": 120,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Sightseeing Child",
+          "amount": 90,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child (0-4)",
+          "amount": 30,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family pass (2 adults, 2 kids), Seal & Dolphin Swim",
+          "amount": 720,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family pass (1 adult, 2 kids), Seal & Dolphin Swim",
+          "amount": 550,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family pass (2 adults, 3 kids), Seal & Dolphin Swim",
+          "amount": 885,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family pass (2 adults, 2 kids), Sightseeing",
+          "amount": 350,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 120,
+      "includes": [
+        "5mm wetsuit, snorkelling mask and flippers",
+        "Optional adventure activities: roof jumps, boom net ride, duck spa and rope ride",
+        "Light refreshments and drinks (hot drinks and soft drinks) on Maureen",
+        "Wind proof and waterproof jacket for sightseers",
+        "Marine grade toilet on board Maureen",
+        "$10 environmental levy per person supporting SOEL"
+      ],
+      "bring": [],
+      "requirements": "No minimum or maximum age. Adults need some prior swimming experience; anyone who rates themselves below 5 out of 10 must book a personal instructor. Children with low swimming ability must be accompanied by a competent adult. Minimum of 6 participants for the tour to run on Maureen. Maureen carries up to 25 swimmers.",
+      "offer": null,
+      "images": [
+        "https://dolphinswims.com.au/wp-content/uploads/2025/07/Dolphins-Swim-HEADER-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/07/snorkeling-with-dolphins-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2022/08/DSC00012-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2022/08/IMG_2975-1550x700.jpg"
+      ],
+      "bookingLinks": [
+        "https://dolphinswims.rezdy.com/320091/seal-and-dolphin-swim-tours"
+      ],
+      "sourceUrl": "https://dolphinswims.com.au/tour/seal-dolphin-swim-on-maureen/",
+      "checkNotes": "Departure times conflict on the same page: the Departure Time box says 8:30 AM or 1:00 PM, but the Local Tip text says the afternoon tour is at 1:30 pm. Used the Departure Time box. Infant price conflicts: rates list Child (0-4) $30, the FAQ says under-5s who do not swim are $25. priceFrom is the Sightseeing Adult fare ($120); the adult snorkel fare is $220. Season wording is only 'twice daily during the warmer months', no dates given. The page also lists private charter rates (Morning $4,000, Afternoon $4,400, Twilight $3,000), recorded under Private Charters. GoPro underwater camera hire is mentioned with no price."
+    },
+    {
+      "title": "Seal Swim Adventure Tour – 90 Minutes",
+      "kind": "swim",
+      "summary": "A short small-group trip on Bluebird, a 7-metre dive boat, to snorkel with wild Australian fur seals in the Port Phillip Heads Marine National Park. No snorkelling experience is needed, and the crew gives a full safety briefing. It suits people with limited time.",
+      "highlights": [
+        "Maximum of nine guests per tour",
+        "Snorkel with wild Australian fur seals",
+        "Runs on Bluebird, a purpose-built 7-metre dive vessel",
+        "No prior snorkelling experience required"
+      ],
+      "duration": "90 minutes",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": "Selected weekends and summer holidays",
+      "departsFrom": "Queenscliff Harbour",
+      "prices": [
+        {
+          "label": "Semi-private",
+          "amount": 149,
+          "currency": "AUD",
+          "note": "per person"
+        },
+        {
+          "label": "Private, up to 4 people",
+          "amount": 770,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Private, up to 8 people",
+          "amount": 1100,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 149,
+      "includes": [
+        "5mm wetsuit, snorkelling mask and flippers",
+        "Full safety instruction",
+        "$10 environmental levy per person supporting SOEL"
+      ],
+      "bring": [],
+      "requirements": "No minimum or maximum age. Adults need some prior swimming experience; anyone who rates themselves below 5 out of 10 must book a personal instructor. Children with low swimming ability must be accompanied by a competent adult. Minimum of 3 participants on Bluebird. No toilet on Bluebird.",
+      "offer": null,
+      "images": [
+        "https://dolphinswims.com.au/wp-content/uploads/2022/09/DSC09240-scaled.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2022/08/DSCN0291-scaled.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/DSC_2935-2-scaled-1.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/2019-04-24-16.jpg"
+      ],
+      "bookingLinks": [
+        "https://dolphinswims.rezdy.com/323582/seal-swim-adventure-tour"
+      ],
+      "sourceUrl": "https://dolphinswims.com.au/tour/seal-swim-snorkelling-tour-90-minutes/",
+      "checkNotes": "Departure times are not listed; the page says times vary across selected weekends and summer holidays and points to the booking page. The What's Included box repeats the Maureen adventure activities (roof jumps, boom net, duck spa, rope ride), but the homepage says those are included on Maureen's swim tours, so they are left out here; confirm with the operator. Page says maximum nine guests while the private rate tops out at 8 people. Booking link had a tracking parameter (?_ga_data=...) removed."
+    },
+    {
+      "title": "Wildlife Sightseeing Tours on Maureen or Bluebird",
+      "kind": "cruise",
+      "summary": "A 90-minute wildlife cruise in the southern part of Port Phillip Bay with no swimming. Guests look for fur seals, three kinds of dolphin, little penguins and seabirds, and humpback and southern right whales in winter. The crew picks the boat and route to suit the day's weather.",
+      "highlights": [
+        "Australian fur seals at their haul-out sites",
+        "Burrunan, bottlenose and short-beaked common dolphins",
+        "Humpback and southern right whales during the winter migration",
+        "Stays dry, suits families and short visits"
+      ],
+      "duration": "1.5 hours",
+      "durationMinutes": 90,
+      "departureTimes": [
+        "12:00"
+      ],
+      "season": null,
+      "departsFrom": "Queenscliff Harbour",
+      "prices": [
+        {
+          "label": "Sightseeing Adult",
+          "amount": 120,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Sightseeing Child",
+          "amount": 90,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Sightseeing Infant (0-4)",
+          "amount": 30,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family Pass (2 Adults + 2 Kids)",
+          "amount": 350,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family Pass (1 Adult + 2 Kids)",
+          "amount": 250,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family Pass (2 Adults + 3 Kids)",
+          "amount": 430,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 120,
+      "includes": [
+        "Expert crew interpretation",
+        "Wind proof and waterproof jacket for sightseers",
+        "$10 environmental levy per person supporting SOEL"
+      ],
+      "bring": [],
+      "requirements": "All ages. Vessel (Maureen M or Bluebird) is chosen on the day to suit the weather.",
+      "offer": null,
+      "images": [
+        "https://dolphinswims.com.au/wp-content/uploads/2025/07/5113fa0bcf3d1b2114d4cc3bc7ac8ef0_1600X1200-1550x700.jpeg",
+        "https://dolphinswims.com.au/wp-content/uploads/2022/08/Almost-Bow-dolphins--1440x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2022/08/TA_SeaAllDolphins_13313-2-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2022/08/DSCN0264-1550x700.jpg"
+      ],
+      "bookingLinks": [
+        "https://dolphinswims.rezdy.com/320094/wildlife-sightseeing-tour"
+      ],
+      "sourceUrl": "https://dolphinswims.com.au/tour/wildlife-sightseeing-tours-on-maureen-or-bluebird/",
+      "checkNotes": "Page says 'Departing 12:00PM Daily' but gives no season dates. Infant price is $30 here; the FAQ says $25 for under-5 non-swimmers."
+    },
+    {
+      "title": "Seal + Dolphin Swim Island Hopping on Bluebird",
+      "kind": "swim",
+      "summary": "A small-group seal and dolphin swim on Bluebird, limited to 8 guests. The low, shallow boat reaches quieter parts of the bay such as Mud Islands and Nepean Bay. The extra time and care suit private groups, guests with special needs and weaker swimmers.",
+      "highlights": [
+        "Small groups limited to 8 guests",
+        "Visits Mud Islands and Nepean Bay",
+        "Snorkel with Australian fur seals and dolphins",
+        "Extra flotation available if required"
+      ],
+      "duration": "2.5 hours",
+      "durationMinutes": 150,
+      "departureTimes": [
+        "07:30",
+        "09:30"
+      ],
+      "season": null,
+      "departsFrom": "Queenscliff Harbour",
+      "prices": [
+        {
+          "label": "Semi-private",
+          "amount": 220,
+          "currency": "AUD",
+          "note": "per person"
+        },
+        {
+          "label": "Private, up to 4 people",
+          "amount": 1100,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Private, up to 8 people",
+          "amount": 1320,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 220,
+      "includes": [
+        "5mm wetsuit, snorkelling mask and flippers",
+        "Extra flotation if required",
+        "$10 environmental levy per person supporting SOEL"
+      ],
+      "bring": [],
+      "requirements": "No minimum or maximum age. Adults need some prior swimming experience; anyone who rates themselves below 5 out of 10 must book a personal instructor. Children with low swimming ability must be accompanied by a competent adult. Minimum of 3 participants on Bluebird. No toilet on Bluebird.",
+      "offer": null,
+      "images": [
+        "https://dolphinswims.com.au/wp-content/uploads/2022/09/chinamans-hat-FB.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/2019-06-04-1.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/09/124995-56-scaled.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/09/dolphin-spotting-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://dolphinswims.rezdy.com/320091/seal-and-dolphin-swim-tours"
+      ],
+      "sourceUrl": "https://dolphinswims.com.au/tour/seal-swim-adventure-on-bluebird/",
+      "checkNotes": "The page's Book Here button goes to the same Rezdy product as the Maureen Seal & Dolphin Swim (320091), not a separate Bluebird product. Optional GoPro underwater camera hire mentioned with no price. No season stated."
+    },
+    {
+      "title": "Twilight Tour on Maureen M.",
+      "kind": "cruise",
+      "summary": "An evening trip on Maureen in summer, timed for sunset over the southern part of Port Phillip Bay. Guests can snorkel with Australian fur seals or stay on deck to watch seals and seabirds at dusk. Dolphins are not the focus but can turn up.",
+      "highlights": [
+        "Sunset on Port Phillip Bay",
+        "Snorkel or sightsee with Australian fur seals",
+        "Seabirds at dusk",
+        "Roof jumps, boom net, duck spa and rope ride included"
+      ],
+      "duration": "2.5 hours",
+      "durationMinutes": 150,
+      "departureTimes": [
+        "17:30"
+      ],
+      "season": "Late November to January",
+      "departsFrom": "Queenscliff Harbour",
+      "prices": [
+        {
+          "label": "Adult Snorkel (16+)",
+          "amount": 165,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Child Snorkel (4-15 yrs)",
+          "amount": 135,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Sightseeing Adult (16+)",
+          "amount": 120,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Sightseeing Child (5-15 yrs)",
+          "amount": 90,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Infant (0-4 yrs)",
+          "amount": 25,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family Pass, 2 Adults + 2 Kids (Seal & Dolphin Swim)",
+          "amount": 550,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 120,
+      "includes": [
+        "5mm wetsuit, snorkelling mask and flippers",
+        "Optional adventure activities: roof jumps, boom net ride, duck spa and rope ride",
+        "$10 environmental levy per person supporting SOEL"
+      ],
+      "bring": [],
+      "requirements": "No minimum or maximum age. Adults need some prior swimming experience; anyone who rates themselves below 5 out of 10 must book a personal instructor. Children with low swimming ability must be accompanied by a competent adult. Minimum of 6 participants for the tour to run on Maureen.",
+      "offer": null,
+      "images": [
+        "https://dolphinswims.com.au/wp-content/uploads/2022/08/roof-jump-sunset.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2022/08/twilight-tour-scaled.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2022/08/IMG_2806-scaled.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2022/08/20190402_075135.jpg"
+      ],
+      "bookingLinks": [
+        "https://dolphinswims.rezdy.com/320096/twilight-tours-summer-daylight-savings-only"
+      ],
+      "sourceUrl": "https://dolphinswims.com.au/tour/twilight-tour-on-maureen-m/",
+      "checkNotes": "Duration is stated three ways: '2.5-hour tour' (header), '2.5 -3 Hours Duration' (list), and 5:30pm departure with return approximately 8:30pm. Used 2.5 hours. Season is 'late November to January' on the page, 'summer months' in the text, and the Rezdy link slug says 'summer daylight savings only'. priceFrom is the sightseeing adult fare; adult snorkel is $165. Child snorkel age band (4-15) and child sightseeing band (5-15) differ as written. The FAQ block on this page is unrelated placeholder text about scuba courses."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "Private boat hire from Queenscliff Harbour on either Maureen M or the smaller Bluebird, planned around the group. Options include seal snorkels, dolphin watching, sightseeing at Mud Islands, South Channel Fort and Nepean Bay, transfers to the Portsea Pub and ash scatterings. Trips run from 90 minutes to a full day.",
+      "highlights": [
+        "Choose the vessel, duration and activities",
+        "Itineraries from 90 minutes to a full day",
+        "Seal snorkels, dolphin watching or sightseeing",
+        "Suits birthdays, clubs, community events and ash scatterings"
+      ],
+      "duration": "From 90 minutes to full day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Queenscliff Harbour",
+      "prices": [
+        {
+          "label": "Private Charter, Morning",
+          "amount": 4000,
+          "currency": "AUD",
+          "note": "Listed in the 2026/2027 rates on the Seal & Dolphin Swim on Maureen page"
+        },
+        {
+          "label": "Private Charter, Afternoon",
+          "amount": 4400,
+          "currency": "AUD",
+          "note": "Listed in the 2026/2027 rates on the Seal & Dolphin Swim on Maureen page"
+        },
+        {
+          "label": "Private Charter, Twilight",
+          "amount": 3000,
+          "currency": "AUD",
+          "note": "Listed in the 2026/2027 rates on the Seal & Dolphin Swim on Maureen page"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://dolphinswims.com.au/wp-content/uploads/2025/07/snorkeling-with-dolphins-scaled.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/09/124995-56-scaled.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/blub.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/attention-seeker-FB-.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://dolphinswims.com.au/tour/private-charters/",
+      "checkNotes": "Enquiry only (form and phone 5258 3889), no booking link. The charter page itself shows no prices; the Morning/Afternoon/Twilight charter rates come from the Seal & Dolphin Swim on Maureen page and likely apply to Maureen only. Bluebird private rates are on the 90-minute and Island Hopping pages. Two near-duplicate pages exist: /tour/private-charters/ and /tours/private-tours/ (the menu link); content matches. priceFrom left null because these are whole-boat prices."
+    },
+    {
+      "title": "Corporate Tours",
+      "kind": "charter",
+      "summary": "Private team days and client events on Maureen M or Bluebird. Groups can snorkel with seals and dolphins, sightsee around Mud Islands, South Channel Fort or Nepean Bay, and add hands-on conservation sessions such as plastic recycling or harbour waste removal. The crew can help pair the trip with meeting rooms and catering ashore.",
+      "highlights": [
+        "Seal and dolphin snorkel or deck viewing",
+        "Optional plastic recycling and harbour waste removal sessions",
+        "Help combining the trip with onshore venues and catering",
+        "Option to sponsor a local family or school group"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Queenscliff Harbour",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "5mm wetsuit, snorkelling mask and flippers",
+        "Optional adventure activities: roof jumps, boom net ride, duck spa and rope ride"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://dolphinswims.com.au/wp-content/uploads/2022/08/5113fa0bcf3d1b2114d4cc3bc7ac8ef0_1600X1200-1550x700.jpeg",
+        "https://dolphinswims.com.au/wp-content/uploads/2022/09/20230403_640_4_DavidDonnelly-2-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2022/09/DSC08016-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2022/08/IMG_2975-1550x700.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://dolphinswims.com.au/tour/corporate-tours/",
+      "checkNotes": "Enquiry only, no prices or times on the site (departure time is 'Custom'). Two pages exist: /tour/corporate-tours/ and /tours/corporate-tours/ (enquiry form)."
+    },
+    {
+      "title": "Mindfulness, Yoga & Wildlife Tours – Southern Port Phillip Bay",
+      "kind": "tour",
+      "summary": "Small-group trips on the bay led with local meditation, yoga and breathwork teachers. Each tour is planned with the instructors and visits quiet spots with local wildlife. Schedules depend on the partner running the session.",
+      "highlights": [
+        "Run with qualified local meditation and yoga instructors",
+        "Semi-private group setting",
+        "Low-traffic locations on Southern Port Phillip Bay"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Semi-private group setting",
+        "Qualified and experienced guides",
+        "Bespoke tour tailored to the group"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://dolphinswims.com.au/wp-content/uploads/2025/10/Screenshot-2025-10-07-at-2.46.04-pm.png"
+      ],
+      "bookingLinks": [
+        "https://dolphinswims.rezdy.com/584571/meditation-tour"
+      ],
+      "sourceUrl": "https://dolphinswims.com.au/tour/mindfulness-yoga-wildlife-tours-southern-port-phillip-bay/",
+      "checkNotes": "Not in the main Tours menu; found via the sitemap and the 'other tours' list. No price, duration, time or departure point on the page (it says schedules vary by delivery partner). Only image is a file named as a screenshot."
+    },
+    {
+      "title": "Stingray Bay Queenscliff Harbour – Snorkel or Scuba Experience",
+      "kind": "snorkel",
+      "summary": "A shore-based snorkel or scuba session in a fenced, sheltered section of Queenscliff Harbour where large smooth stingrays pass. SSI instructors guide all levels, and submerged platforms and ramps make entry easy. If no rays are seen, guests can come back within 7 days for free.",
+      "highlights": [
+        "Smooth stingrays in a fenced harbour site",
+        "Guided by SSI instructors, beginner to advanced",
+        "Stingray guarantee: free repeat within 7 days if no rays are seen",
+        "Optional night dives"
+      ],
+      "duration": "90 minutes",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Queenscliff Harbour",
+      "prices": [
+        {
+          "label": "Snorkeller Adult (15+)",
+          "amount": 99,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Snorkeller Child",
+          "amount": 88,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Scuba (12+)",
+          "amount": 165,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Snorkel & Scuba Combo (2.5 hours)",
+          "amount": 249,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Snorkel Stingrays then Dolphins & Seals, Adult",
+          "amount": 300,
+          "currency": "AUD",
+          "note": "Redeemable within 7 days"
+        },
+        {
+          "label": "Snorkel Stingrays then Dolphins & Seals, Child",
+          "amount": 260,
+          "currency": "AUD",
+          "note": "Redeemable within 7 days"
+        }
+      ],
+      "priceFrom": 99,
+      "includes": [
+        "5mm wetsuit and snorkelling or scuba equipment, including prescription masks",
+        "Qualified guides and professional rescue equipment",
+        "Dock jumps",
+        "$10 environmental levy per person supporting SOEL"
+      ],
+      "bring": [],
+      "requirements": "Scuba from age 12. Snorkel adult rate from age 15.",
+      "offer": {
+        "text": "Package: snorkel with stingrays, then join the Seal & Dolphin Swim",
+        "conditions": "Redeemable within 7 days. Adult $300, Child $260.",
+        "validUntil": null
+      },
+      "images": [
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/stingray-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/2019-03-29-4.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/2019-03-29-8.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://dolphinswims.com.au/tour/stingray-bay-queenscliff-harbour/",
+      "checkNotes": "Not in the main Tours menu; found via the sitemap. Rates are labelled '2025/2026 Season' while all other tours show 2026/2027 rates, so prices may be out of date. Enquiry button only, no Rezdy link. No departure times stated."
+    },
+    {
+      "title": "School Seal & Dolphin Swim Tour",
+      "kind": "swim",
+      "summary": "A fully private seal and dolphin swim for school groups, with a full snorkelling lesson and marine ecology talk. Students meet Australian fur seals and Burrunan dolphins and visit several snorkel sites chosen for the day's conditions. Risk assessments, insurance papers and curriculum-linked outcomes are provided.",
+      "highlights": [
+        "Up to 37 passengers",
+        "One teacher per 10 students free",
+        "Prescription masks and adaptive snorkelling aids",
+        "Roof jumps and boom netting"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Queenscliff Harbour",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Full snorkelling lesson and guided marine interpretation",
+        "5mm wetsuit, fins and mask (with prescription options)",
+        "Professional rescue gear and adaptive snorkelling aids",
+        "Adventure activities like roof jumps and boom netting",
+        "Introduction to the operator's marine conservation projects"
+      ],
+      "bring": [],
+      "requirements": "School groups only. Suitable for Grade 5 & 6 and older. Minimum tour charge applies for small groups.",
+      "offer": null,
+      "images": [
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/DSCN0352-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/07/image8-1-1080x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2022/09/VdfFG1F0-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/DSC07513-1550x700.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://dolphinswims.com.au/tour/school-seal-dolphin-swim-tour/",
+      "checkNotes": "School program, enquiry only, no prices on the site. Mentions 'Dolphin Express options' for larger groups with no detail."
+    },
+    {
+      "title": "Wildlife Sightseeing Education Tour",
+      "kind": "cruise",
+      "summary": "A private wildlife cruise for school groups in the Port Phillip Heads Marine National Park. Students look for fur seals, Burrunan dolphins and seabirds while guides explain the marine ecosystem. The boat has a roof-top viewing deck and a boom net.",
+      "highlights": [
+        "Up to 40 passengers",
+        "Roof-top viewing platform and boom net",
+        "One teacher per 10 students free",
+        "Several marine park sites per trip"
+      ],
+      "duration": "1.5 hours",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Queenscliff Harbour",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Qualified marine guides",
+        "Visits to multiple sites in the Port Phillip Heads Marine National Park",
+        "Introduction to the operator's marine conservation projects"
+      ],
+      "bring": [],
+      "requirements": "School groups only. Suitable for Grade 3 & 4 and older. Minimum tour charge applies for smaller groups.",
+      "offer": null,
+      "images": [
+        "https://dolphinswims.com.au/wp-content/uploads/2025/10/2019-12-08-13.46.11-3-scaled-1-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/6-1-961x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/DSC_2935-2-scaled-1-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2022/08/dolphin-1550x700.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://dolphinswims.com.au/tour/wildlife-sightseeing-education-tour/",
+      "checkNotes": "School program, enquiry only, no prices on the site."
+    },
+    {
+      "title": "Stingray Bay Queenscliff Harbour – School Snorkel",
+      "kind": "snorkel",
+      "summary": "A shore-based snorkel or scuba session for school groups in a private, sheltered area of Queenscliff Harbour with wild smooth stingrays. Submerged platforms help beginners get used to the gear. It works on its own or before a seal and dolphin tour.",
+      "highlights": [
+        "Up to 30 students",
+        "Snorkel or scuba",
+        "Wild smooth stingrays",
+        "Night snorkels available"
+      ],
+      "duration": "90 minutes",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Queenscliff Harbour",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "5mm wetsuit and snorkelling or scuba equipment, including prescription masks",
+        "Professional rescue gear and snorkelling aids",
+        "Qualified guides",
+        "Dock jumps"
+      ],
+      "bring": [],
+      "requirements": "School groups only. Scuba is provided through partner services.",
+      "offer": null,
+      "images": [
+        "https://dolphinswims.com.au/wp-content/uploads/2025/10/1-2-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/2019-03-29-8.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2022/08/DSC00012-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/2019-03-29-4.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://dolphinswims.com.au/tour/stingray-bay-queenscliff-harbour-school-snorkel/",
+      "checkNotes": "School program, enquiry only, no prices on the site."
+    },
+    {
+      "title": "Conservation Workshops",
+      "kind": "other",
+      "summary": "Hands-on marine conservation sessions for students. Activities include harbour waste removal with the Harbour Filter program, plastic recycling and citizen science monitoring. Workshops can be paired with a snorkel or sightseeing tour.",
+      "highlights": [
+        "Marine waste removal with the Harbour Filter program",
+        "Plastic recycling and upcycling",
+        "Citizen science monitoring"
+      ],
+      "duration": "60 minutes",
+      "durationMinutes": 60,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "School groups only.",
+      "offer": null,
+      "images": [
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/plastics4.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/Soel_June21-11-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/plastics1.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/plastic3.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://dolphinswims.com.au/tour/conservation-workshops/",
+      "checkNotes": "School program, enquiry only. No prices and no location stated."
+    },
+    {
+      "title": "Conserve & Sea Program",
+      "kind": "other",
+      "summary": "A school program that pairs a sightseeing and snorkelling trip with a conservation workshop. Students meet fur seals, Burrunan dolphins and seabirds, then help with harbour waste removal and plastic recycling.",
+      "highlights": [
+        "Up to 60 students",
+        "Wildlife tour followed by a conservation workshop",
+        "Curriculum-aligned content",
+        "All equipment provided"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Queenscliff Harbour",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All equipment",
+        "Qualified guides"
+      ],
+      "bring": [],
+      "requirements": "School groups only. Suitable for Grade 3 & 4 to Year 12.",
+      "offer": null,
+      "images": [
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/DSCN0352-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/Soel_June21-44-2-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/plastics1.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/07/image8-1-1080x700.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://dolphinswims.com.au/tour/conserve-sea-program/",
+      "checkNotes": "School program, enquiry only, no prices. Departure point not stated on this page; Queenscliff Harbour assumed from the tour component, confirm."
+    },
+    {
+      "title": "Surf School for Schools",
+      "kind": "course",
+      "summary": "Learn-to-surf lessons for school groups at Ocean Grove or Point Lonsdale Front Beach. All gear and instruction are provided, and lessons cover reading waves and spotting rips. Suits primary and secondary students.",
+      "highlights": [
+        "Up to 40 students",
+        "Ocean Grove or Point Lonsdale Front Beach",
+        "All equipment and instruction provided",
+        "Water safety: reading waves and spotting rips"
+      ],
+      "duration": "90 minutes to 2 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Ocean Grove or Point Lonsdale Front Beach",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All equipment",
+        "Expert instruction"
+      ],
+      "bring": [],
+      "requirements": "School groups only. Suitable for beginners, primary and secondary students.",
+      "offer": null,
+      "images": [
+        "https://dolphinswims.com.au/wp-content/uploads/2022/09/surfgroms__254504887_496275641392702_4341443843124022975_n-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2022/09/surfgroms__250975478_1044025633038959_3086536499097557323_n-1-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2022/09/surfgroms__273509782_900651753966701_1086389536944974303_n-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/07/the-walk-fb-1080x700.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://dolphinswims.com.au/tour/surf-lessons/",
+      "checkNotes": "School program, enquiry only, no prices. Surf photos are filenamed 'surfgroms', which may be a partner surf school's photos; confirm image rights."
+    },
+    {
+      "title": "Custom School Tour Experiences",
+      "kind": "other",
+      "summary": "Marine tours built around a school's group size, timetable and budget, including shorter trips and shore snorkels. The crew recommends snorkelling from a boat for more student support. Each trip includes a snorkelling lesson and curriculum-linked content.",
+      "highlights": [
+        "Up to 65 participants",
+        "Flexible length from 60 minutes",
+        "One teacher per 10 students free",
+        "Prescription masks and adaptive snorkelling aids"
+      ],
+      "duration": "Flexible from 60 minutes",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Queenscliff Harbour",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Full snorkelling lesson and guided marine interpretation",
+        "5mm wetsuit, fins and mask (with prescription options)",
+        "Professional rescue gear and adaptive snorkelling aids",
+        "Optional adventure activities such as boom netting and roof jumps",
+        "Curriculum-aligned marine education content"
+      ],
+      "bring": [],
+      "requirements": "School groups only.",
+      "offer": null,
+      "images": [
+        "https://dolphinswims.com.au/wp-content/uploads/2025/09/203_0393-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/09/mar19-11-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/09/dolphin-spotting-1550x700.jpg",
+        "https://dolphinswims.com.au/wp-content/uploads/2025/08/G0013291-1550x700.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://dolphinswims.com.au/tour/custom-school-tour-experiences/",
+      "checkNotes": "School program, enquiry only, no prices."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers available",
+      "conditions": "Valid for 3 years. Not redeemable for cash. If a tour is cancelled for weather, the booking can be rescheduled.",
+      "validUntil": null,
+      "sourceUrl": "https://dolphinswims.com.au/faqs/"
+    },
+    {
+      "text": "Family passes on the Seal & Dolphin Swim, Wildlife Sightseeing and Twilight tours",
+      "conditions": "Fixed prices for 2 adults + 2 kids, 1 adult + 2 kids or 2 adults + 3 kids, depending on the tour. See each tour's prices.",
+      "validUntil": null,
+      "sourceUrl": "https://dolphinswims.com.au/tour/seal-dolphin-swim-on-maureen/"
+    }
+  ],
+  "checkNotes": "Gift vouchers are sold through https://dolphinswims.rezdy.com/catalog/345045/gift-vouchers and the site-wide Book Tour button goes to https://dolphinswims.rezdy.com/catalog/326990/tours (not opened). Cancellation policy differs between the FAQ page (refund less a processing fee more than 48 hours out, plus separate group rules) and the FAQ block on tour pages (refund less booking fees); not used in this file. The FAQ gives a dolphin sighting rate as a percentage; not used. School programs (7 trips) are enquiry only and sold to schools, not individual travellers. The site also offers help planning 2 and 3 day school camps (Camp Queenscliff), not recorded as a trip. Hero image is the homepage video fallback still. No 'what to bring' list exists on the site, so bring lists are empty."
+}

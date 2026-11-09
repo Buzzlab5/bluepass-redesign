@@ -1,0 +1,745 @@
+{
+  "slug": "moonraker-dolphin-swims",
+  "name": "Moonraker Dolphin Swims",
+  "website": "https://moonrakercharters.com.au",
+  "rezdyAlias": "moonrakercharters",
+  "state": "VIC",
+  "town": "Sorrento",
+  "category": "Dolphin and seal swims",
+  "summary": "Snorkel trips from Sorrento Pier in southern Port Phillip Bay to swim with wild bottlenose dolphins, Australian fur seals and weedy sea dragons, with wetsuits, lunch and hot drinks included. There is also a non-swimming wildlife cruise, a full day tour from Melbourne, hot springs packages and private charters. The family business has run since 1990.",
+  "standouts": [
+    "Advanced Eco Certification from Ecotourism Australia",
+    "Victorian Tourism Awards Hall of Fame, Ecotourism, 2013",
+    "Australian Tourism Awards, Ecotourism Gold, 2011",
+    "Family business started in 1990"
+  ],
+  "contact": {
+    "phone": "+61 3 5984 4211",
+    "email": "info@moonrakercharters.com.au",
+    "address": "Sorrento Pier, Esplanade Road, Sorrento, VIC 3943 (postal: PO Box 180, Sorrento, VIC 3943)"
+  },
+  "heroImage": "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1596747889139-EDZ6YT8I70ZUVWSMTBRL/0L2A7297-2.jpg",
+  "sourceUrls": [
+    "https://www.moonrakerdolphinswims.com.au/",
+    "https://www.moonrakerdolphinswims.com.au/melbourne-dolphin-swim",
+    "https://www.moonrakerdolphinswims.com.au/our-tours",
+    "https://www.moonrakerdolphinswims.com.au/2-hour-seal-swim",
+    "https://www.moonrakerdolphinswims.com.au/adventure-tour",
+    "https://www.moonrakerdolphinswims.com.au/full-day-tour-ex-melbourne",
+    "https://www.moonrakerdolphinswims.com.au/seals-sea-dragons-and-peninsula-hot-springs-experience",
+    "https://www.moonrakerdolphinswims.com.au/snorkel-with-dolphins-seals-and-visit-peninsula-hot-springs",
+    "https://www.moonrakerdolphinswims.com.au/2-hour-exclusive-private-cruise",
+    "https://www.moonrakerdolphinswims.com.au/private-boat-tours",
+    "https://www.moonrakerdolphinswims.com.au/hens-party-cruises",
+    "https://www.moonrakerdolphinswims.com.au/celebrations",
+    "https://www.moonrakerdolphinswims.com.au/private-snorkel-experience-sorrento",
+    "https://www.moonrakerdolphinswims.com.au/memorials-at-sea",
+    "https://www.moonrakerdolphinswims.com.au/school-group-tours",
+    "https://www.moonrakerdolphinswims.com.au/educational-school-programs",
+    "https://www.moonrakerdolphinswims.com.au/educational-school-program",
+    "https://www.moonrakerdolphinswims.com.au/school-boat",
+    "https://www.moonrakerdolphinswims.com.au/on-land-education-beach-snorkel",
+    "https://www.moonrakerdolphinswims.com.au/specials-packages",
+    "https://www.moonrakerdolphinswims.com.au/frequently-asked-questions",
+    "https://www.moonrakerdolphinswims.com.au/terms-and-conditions",
+    "https://www.moonrakerdolphinswims.com.au/history-and-awards",
+    "https://www.moonrakerdolphinswims.com.au/contact-us",
+    "https://moonrakercharters.com.au/sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "3 hour Dolphin & Seal Swim",
+      "kind": "swim",
+      "summary": "A 3 hour snorkel trip on the Silver Fin from Sorrento Pier into southern Port Phillip Bay. Guests swim with Australian fur seals, look for weedy sea dragons in the kelp, and then float in small groups of 10 while wild bottlenose dolphins pass. Lunch, hot drinks and all snorkel gear are included.",
+      "highlights": [
+        "Snorkel with Australian fur seals",
+        "Search for weedy sea dragons in the kelp",
+        "Float with wild dolphins in groups of 10",
+        "Free return within 30 days if no dolphins are found"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Moonraker boat shed, end of Sorrento Pier, Esplanade Road, Sorrento VIC 3943",
+      "prices": [
+        {
+          "label": "From, per adult",
+          "amount": 210,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "From, per child",
+          "amount": 185,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 210,
+      "includes": [
+        "Wetsuits and flippers (all sizes)",
+        "Optical masks available",
+        "Thermal jackets",
+        "Dry bags",
+        "Lunch",
+        "Snacks throughout the cruise",
+        "Hot drinks",
+        "Marine park fees",
+        "All taxes",
+        "Expert snorkel guides"
+      ],
+      "bring": [
+        "Swimwear (wear under your wetsuit)",
+        "Towel",
+        "Sunscreen",
+        "Camera (waterproof if you'd like underwater photos)"
+      ],
+      "requirements": "Swimming ability required; guests who cannot swim should not book. Suitable for ages 5+ for swimming. Children must be with an adult.",
+      "offer": {
+        "text": "Spring Dolphin Season offer: discount on signature tours with promo code SILVERFIN at checkout",
+        "conditions": "Limited-time seasonal offer",
+        "validUntil": null
+      },
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1596747889139-EDZ6YT8I70ZUVWSMTBRL/0L2A7297-2.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1689156187680-UVU6UVVUKRYCRB1OFVCA/0L2A7510.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1689155533268-B8QX3NXE97HCRJHPJ1B7/Moonraker-5582.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1689156061113-FPYICR44WECZO6HWJU4T/CHEW9006.jpg"
+      ],
+      "bookingLinks": [
+        "https://moonrakercharters.rezdy.com/47185/3-hour-dolphin-and-seal-swim"
+      ],
+      "sourceUrl": "https://www.moonrakerdolphinswims.com.au/melbourne-dolphin-swim",
+      "checkNotes": "Prices are the 'From' prices on the homepage; the tour page shows none. Departure times are not stated on the site (only in the Rezdy widget, not opened). Guests are asked to arrive 20 minutes before departure (Terms). Dolphin Guarantee: the tour page says come back free within 30 days, but the Terms say the guarantee is valid for 3 months from the original booking date; check which applies. The homepage menu calls this the 'Signature Experience', so the SILVERFIN promo (stated on site as a percentage off signature tours) is assumed to apply. A private snorkel guide can be added during booking for weaker swimmers (price not shown). Season not stated on this page."
+    },
+    {
+      "title": "Seal & Sea Dragon Snorkel Tour",
+      "kind": "snorkel",
+      "summary": "A 2 hour snorkel trip with two stops. The first is Chinaman's Hat, a platform where over 100 Australian fur seals rest and young seals swim around the boat. The second is a kelp garden to look for weedy seadragons, followed by a hot drink on the way back to Sorrento Pier.",
+      "highlights": [
+        "Seal snorkel at Chinaman's Hat",
+        "Weedy seadragon snorkel in the kelp gardens",
+        "Giant smooth rays often seen on the sand",
+        "Lunch, snacks and hot and cold drinks included"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Sorrento Pier, Esplanade Road, Sorrento VIC 3943",
+      "prices": [
+        {
+          "label": "From, per adult",
+          "amount": 175,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "From, per child",
+          "amount": 125,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 175,
+      "includes": [
+        "Lunch, snacks, and hot & cold drinks",
+        "All snorkelling equipment (optical masks available)",
+        "Thermal jackets and dry bags",
+        "Onboard change facilities",
+        "Marine park fees and taxes"
+      ],
+      "bring": [
+        "Swimwear and towel",
+        "Sunscreen and hat",
+        "Camera (waterproof if you have one)"
+      ],
+      "requirements": "You must be able to swim to take part. Children must be with an adult.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1596773709156-HA9ZXAMH34F73JIHMI1W/Swimming+with+the+seals.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1689121238579-77VS639KGZUEJX2CJJHW/seal+image.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1689121489587-7U8ZUNYIUWZMV0RNS7C5/0L2A7401.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1689121949791-ZUH7SK8O0PMHUQOAXA6Y/smoothRayChinamansHat5474.jpeg"
+      ],
+      "bookingLinks": [
+        "https://moonrakercharters.rezdy.com/296299/2-hour-seals-seadragon-swim"
+      ],
+      "sourceUrl": "https://www.moonrakerdolphinswims.com.au/2-hour-seal-swim",
+      "checkNotes": "Prices are the 'From' prices on the homepage; the tour page shows none. Departure times are not stated on the site (only in the Rezdy widget, not opened). Guests are asked to arrive 20 minutes before departure (Terms). No minimum age stated on this page."
+    },
+    {
+      "title": "1.5 Hour Scenic Wildlife Adventure",
+      "kind": "cruise",
+      "summary": "A 1.5 hour cruise on the Peninsula Pearl for people who want to stay dry. It visits a fur seal colony and an Australasian gannet colony, runs along the Sorrento to Portsea coast, and looks out for resident bottlenose dolphins. The boat is covered and has a glass bottom section.",
+      "highlights": [
+        "Australian fur seal colony",
+        "Australasian gannet and seabird colony",
+        "Sorrento to Portsea coastline",
+        "Glass bottom viewing section"
+      ],
+      "duration": "1.5 hours",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Sorrento Pier, Esplanade Road, Sorrento VIC 3943",
+      "prices": [
+        {
+          "label": "From, per adult",
+          "amount": 75,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "From, per child",
+          "amount": 55,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 75,
+      "includes": [
+        "Local interpretive guides",
+        "Onboard bathroom"
+      ],
+      "bring": [
+        "Camera",
+        "Jacket or layers (it can be cooler on the water)",
+        "Binoculars (optional)"
+      ],
+      "requirements": "Non-swimming tour, suitable for all ages and abilities. Up to 40 guests.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/6e38204b-820a-49cb-a071-bea0440baf49/Image+7.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1596697017331-0C8ITE7RL34FHDQXQALB/Dolphin+sightsee.JPG",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1596696901385-SJ9RC7TRRIB5UR40204L/PopesEyeGannetUnderOver8676.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1596696941826-LXM3JI2RMQHM1WUOSN06/Gannet1.jpg"
+      ],
+      "bookingLinks": [
+        "https://moonrakercharters.rezdy.com/62384/1-5-hour-wildlife-adventure-cruise"
+      ],
+      "sourceUrl": "https://www.moonrakerdolphinswims.com.au/adventure-tour",
+      "checkNotes": "Page heading 'Moonraker Adventure Cruise'; the menu calls it '1.5 Hr Scenic Wildlife Cruise'. Prices are the homepage 'From' prices. Departure times are not stated on the site (only in the Rezdy widget, not opened). Guests are asked to arrive 20 minutes before departure (Terms). The private cruise page says the Peninsula Pearl joins the fleet in October 2026."
+    },
+    {
+      "title": "Full Day Tour - Ex Melbourne",
+      "kind": "tour",
+      "summary": "A full day trip from Melbourne by coach to Sorrento Pier, with 2 hours on the Moonraker to snorkel with fur seals and look for weedy sea dragons. Guests who prefer not to swim can join as sightseers. The return trip stops at Rocky Creek Strawberry Farm, the bathing boxes and Murray's Lookout.",
+      "highlights": [
+        "Return coach from four Melbourne CBD pick-up points",
+        "Snorkel with wild fur seals and look for weedy sea dragons",
+        "Lunch and snacks on board",
+        "Stops at a strawberry farm, the bathing boxes and Murray's Lookout"
+      ],
+      "duration": "Full day, back in the city at approximately 6:00pm",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:25",
+        "08:35",
+        "08:45",
+        "09:00"
+      ],
+      "season": "Every Tuesday, Thursday and Saturday; best season September to May",
+      "departsFrom": "Melbourne CBD: Mercure Melbourne Southbank, 9 Riverside Quay (8:25am); Regent Theatre, 191 Collins St (8:35am); Her Majesty's Theatre, 219 Exhibition St (8:45am); Mail Exchange Hotel / Southern Cross, 688 Bourke St (9:00am)",
+      "prices": [
+        {
+          "label": "Swim, per person",
+          "amount": 260,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Sightsee, per person",
+          "amount": 230,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 230,
+      "includes": [
+        "Return transport from Melbourne (4 CBD pick-up locations)",
+        "2 hours aboard Moonraker",
+        "Lunch and snacks",
+        "Thermal jackets and optical masks",
+        "All snorkel equipment",
+        "Stops at Rocky Creek Strawberry Farm, the bathing boxes and Murray's Lookout"
+      ],
+      "bring": [
+        "A swimsuit (worn under your clothes)",
+        "A towel",
+        "Sunscreen"
+      ],
+      "requirements": "Low to moderate fitness; swimmers need basic swimming ability and to be comfortable in the water. Non-swimmers can book as sightseeing passengers.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/62fc9ed6-d015-4344-a25b-dc0f479bbe11/CHEW7991.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1706002806134-1SYN9P92CPLF339XIHGX/Moonraker-5611.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1706002766559-67L1K4L0QHBSEJ0W6N5F/Moonraker-5970.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1706002638249-OWHJDZ0Z6VAR5I23YM32/Moonraker+low+rez.jpg"
+      ],
+      "bookingLinks": [
+        "https://moonrakercharters.rezdy.com/763687/full-day-tour-ex-melbourne"
+      ],
+      "sourceUrl": "https://www.moonrakerdolphinswims.com.au/full-day-tour-ex-melbourne",
+      "checkNotes": "Prices from the homepage ('Swim $260 Sightsee $230 per person'); the tour page shows none. priceFrom uses the sightsee price, the lowest per-person price. Coach is run by Explore Australia (named on the page). Strawberry picking cost, if any, is not stated."
+    },
+    {
+      "title": "Seals, Sea Dragons and Peninsula Hot Springs Experience",
+      "kind": "snorkel",
+      "summary": "A package that pairs the 2 hour seal and sea dragon snorkel from Sorrento Pier with an entry ticket to Peninsula Hot Springs. The hot springs ticket is handed out on board and stays valid for several months, so it can be used the same day or later. Lunch, drinks and snorkel gear are included.",
+      "highlights": [
+        "Seal snorkel at Chinaman's Hat or Popes Eye",
+        "Weedy sea dragon snorkel in the kelp gardens",
+        "Peninsula Hot Springs entry, no booking needed",
+        "Hot springs ticket valid for several months"
+      ],
+      "duration": "2 hours (snorkel tour)",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": "Best season September to May",
+      "departsFrom": "Sorrento Pier, Esplanade Road, Sorrento VIC 3943",
+      "prices": [
+        {
+          "label": "Total package, per person",
+          "amount": 260,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 260,
+      "includes": [
+        "Lunch, snacks, and hot & cold drinks",
+        "All snorkelling equipment (optical masks available)",
+        "Thermal jackets and dry bags",
+        "Private change facilities",
+        "Marine park fees and taxes",
+        "Peninsula Hot Springs entry ticket"
+      ],
+      "bring": [
+        "A swimsuit (worn under your clothes)",
+        "A towel",
+        "Sunscreen"
+      ],
+      "requirements": "Low to moderate fitness and basic swimming ability.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/62fc9ed6-d015-4344-a25b-dc0f479bbe11/CHEW7991.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1789880230671-KFPLJHXNFBHZW6S9L5F6/IMG_4009.JPG",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1706002806134-1SYN9P92CPLF339XIHGX/Moonraker-5611.jpeg"
+      ],
+      "bookingLinks": [
+        "https://moonrakercharters.rezdy.com/764367/seals-sea-dragons-and-hot-springs-experience"
+      ],
+      "sourceUrl": "https://www.moonrakerdolphinswims.com.au/seals-sea-dragons-and-peninsula-hot-springs-experience",
+      "checkNotes": "Price from the homepage ('Total package $260 per person'). Departure times are not stated on the site (only in the Rezdy widget, not opened). Guests are asked to arrive 20 minutes before departure (Terms). Rezdy link on the page carries long tracking parameters; recorded without them. Peninsula Hot Springs photos on the page were left out as they are the partner's images."
+    },
+    {
+      "title": "Snorkel with Dolphins, Seals and visit Peninsula Hot Springs",
+      "kind": "swim",
+      "summary": "A package that combines the 3 hour dolphin and seal snorkel from Sorrento Pier with a flexible entry ticket to Peninsula Hot Springs, about 15 minutes' drive away. The ticket is given out on board and can be used at any time. The Dolphin Guarantee still applies.",
+      "highlights": [
+        "3 hour dolphin and seal snorkel",
+        "Peninsula Hot Springs flexi entry, no pre-booking",
+        "Lunch, snacks and drinks on board",
+        "Dolphin Guarantee applies"
+      ],
+      "duration": "3 hours (snorkel tour)",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": "Best season September to May",
+      "departsFrom": "Sorrento Pier, Esplanade Road, Sorrento VIC 3943",
+      "prices": [
+        {
+          "label": "Total package, per person",
+          "amount": 295,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 295,
+      "includes": [
+        "3-Hour Dolphin and Seals Snorkel Tour",
+        "Peninsula Hot Springs entry, including thermal pools and bathhouses",
+        "Thermal wetsuit jacket, optical mask and dry bag",
+        "Onboard lunch, snacks and drinks"
+      ],
+      "bring": [
+        "A swimsuit (worn under your clothes)",
+        "A towel",
+        "Sunscreen"
+      ],
+      "requirements": "Low to moderate fitness and basic swimming ability.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1789880417584-NNAXPY2ZI7ME8OV2JGGB/Image+12.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1789881882507-WBJH9K4LWDHIE33ESPG3/0L2A3314+copy.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1706002806134-1SYN9P92CPLF339XIHGX/Moonraker-5611.jpeg"
+      ],
+      "bookingLinks": [
+        "https://moonrakercharters.rezdy.com/764298/dolphins-seals-and-hot-springs-experience"
+      ],
+      "sourceUrl": "https://www.moonrakerdolphinswims.com.au/snorkel-with-dolphins-seals-and-visit-peninsula-hot-springs",
+      "checkNotes": "Price from the homepage ('Total package $295 per person'). Departure times are not stated on the site (only in the Rezdy widget, not opened). Guests are asked to arrive 20 minutes before departure (Terms). Homepage card title is 'Dolphins, Seals & Hot Springs'."
+    },
+    {
+      "title": "Private Luxury Charter",
+      "kind": "charter",
+      "summary": "Private hire of a Moonraker boat with captain and crew for corporate events, birthdays and other groups. The standard charter is 2 hours from Sorrento to Portsea for up to 60 guests, any day of the year, at a time you choose. Catering and drinks packages can be added; BYO alcohol is not allowed.",
+      "highlights": [
+        "$2,500 for 2 hours, up to 60 guests",
+        "Flexible departure times, 7 days a week, year round",
+        "Catering from $18 per person and drinks from $35 per person",
+        "Can depart from Queenscliff Harbour, Blairgowrie Marina or Rye Pier"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": "Year round, 7 days per week",
+      "departsFrom": "Sorrento Pier, Esplanade Road, Sorrento VIC 3943",
+      "prices": [
+        {
+          "label": "Exclusive Charter, 2 hours",
+          "amount": 2500,
+          "currency": "AUD",
+          "note": "Up to 60 guests"
+        },
+        {
+          "label": "Basic Catering Package #1, per person",
+          "amount": 18,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Basic Catering Package #2, per person",
+          "amount": 22,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Catering Package #3, per person",
+          "amount": 30,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Basic Drinks Package, per person (2 Hours)",
+          "amount": 35,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Premium Drinks Package, per person (2 Hours)",
+          "amount": 42,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 2500,
+      "includes": [
+        "Private vessel",
+        "Professional crew and captain",
+        "Safety equipment and briefing",
+        "Bar service",
+        "Bluetooth connectivity for music and announcements"
+      ],
+      "bring": [
+        "Camera",
+        "Sunscreen, hats, and sunglasses",
+        "Jacket or layers",
+        "Any decorations or branding materials (no confetti or glitter)"
+      ],
+      "requirements": "No minimum guest number. No BYO alcohol.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1721098264350-XTJTGSYDLCYEEMXQO6C4/pointnepean.JPG",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1706003949417-Q2G1W6TRYAWSY4I8SIR8/Moonraker+low+rez.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1721038644930-FC3OUVSVGIQEL60797WF/IMG_1992.JPEG",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1721039289980-F5MVRXZ1QMJKIFZM3T6Z/bow.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.moonrakerdolphinswims.com.au/2-hour-exclusive-private-cruise",
+      "checkNotes": "Enquiry only. Menu name is 'Private Luxury Charter'; page title 'Corporate Events & Luxury Cruises Mornington Peninsula'. Capacity conflict: this page says up to 60 guests, while /private-boat-tours says Moonraker takes up to 80. Peak season and public holiday surcharges apply on December 26, 27, 28 and January 1, 25, 26 (amounts not stated). Deposit required; final numbers due 7 days before. Extensions in half hour steps by enquiry. Sample itineraries show 10:00, 14:00 and 17:00 departures but times are flexible."
+    },
+    {
+      "title": "Hens Party Cruise",
+      "kind": "charter",
+      "summary": "A private 2 hour cruise on the Peninsula Pearl for hens parties, with your own crew, bar and music along the Sorrento to Portsea coast. Food and bottomless drinks packages are added per person. Morning, afternoon and sunset times are offered.",
+      "highlights": [
+        "$2,500 private charter for 2 hours",
+        "Celebration packages from $30 per person",
+        "Bring your own decorations and playlist",
+        "Seasonal swim stops on request"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": "Year round",
+      "departsFrom": "Sorrento Pier, Esplanade Road, Sorrento VIC 3943",
+      "prices": [
+        {
+          "label": "Private Charter, 2 hours",
+          "amount": 2500,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Basic Celebration Package, per person",
+          "amount": 30,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Bottomless Celebration Package, per person",
+          "amount": 55,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Celebration Drinks Add-On, per person",
+          "amount": 25,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 2500,
+      "includes": [
+        "Private vessel for your exclusive use",
+        "Professional crew and captain",
+        "Plates, cups, napkins, ice and bar service",
+        "Onboard bathroom"
+      ],
+      "bring": [
+        "Swimwear (if you want a swim stop)",
+        "Towels and cover-ups",
+        "Sunscreen, hats, and sunnies",
+        "Camera",
+        "Decorations (no confetti, glitter or light plastic items)"
+      ],
+      "requirements": "All guests must be 18+ for bottomless alcohol packages; valid ID may be requested. No minimum group size. No BYO alcohol.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1721042315920-XFEEHGLME77V00XP76F7/party+girls.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1760353418599-CACMMTHPD6N9LCYCUD2B/IMG_5249.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1760353410582-49GWM2QQ2DDK0GFBL67D/IMG_5248.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.moonrakerdolphinswims.com.au/hens-party-cruises",
+      "checkNotes": "Enquiry only. Capacity conflict on the same page: 'Up to 60 Guests' in the list and 'Capacity: Up to 40 guests' in the pricing block. /celebrations shows the same content. Surcharges apply on December 26, 27, 28 and January 1, 25, 26."
+    },
+    {
+      "title": "Private Snorkel Experience",
+      "kind": "snorkel",
+      "summary": "A private 2 hour snorkel charter on the Moonraker for families, work groups or celebrations. The group picks two snorkel sites from seals, dolphins, the marine park and weedy sea dragons, and chooses a morning, midday or afternoon start. Gear, guides, hot showers and change rooms are included.",
+      "highlights": [
+        "Exclusive 2 hour use of Moonraker",
+        "Choose two snorkel locations",
+        "Morning, midday or afternoon departure",
+        "Hot showers and change facilities on board"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Sorrento Pier, Esplanade Road, Sorrento VIC 3943",
+      "prices": [
+        {
+          "label": "Private snorkel charter, per group",
+          "amount": 3500,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 3500,
+      "includes": [
+        "Exclusive 2-hour use of Moonraker",
+        "Choice of two snorkel locations",
+        "Wetsuits, masks, fins, and thermal jackets",
+        "Expert marine guides",
+        "Onboard hot showers and change facilities",
+        "Optical masks and dry bags",
+        "All safety equipment"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1760665814434-N4KGKCYZHWMK23OZKTMD/IMG_2066.JPG",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1760665808057-HS784IXZJFNKTCMCCV4O/IMG_3612.JPG",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1760665903694-O8FK3VO20TBH4VD0EZ3Q/P7240199.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1760665979393-7EHVLDAST4UPM5X1FOCI/IMG_9658.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.moonrakerdolphinswims.com.au/private-snorkel-experience-sorrento",
+      "checkNotes": "Enquiry only. Group size limit not stated on this page. Catering and drinks add-ons offered without prices on this page."
+    },
+    {
+      "title": "Memorials at Sea",
+      "kind": "charter",
+      "summary": "A private 1.5 hour memorial cruise for scattering ashes in southern Port Phillip Bay, for up to 50 family and friends. The crew leads a calm ceremony and gives the family the exact GPS position of the scattering. Families can bring their own celebrant and add catering.",
+      "highlights": [
+        "1.5 hour private cruise for up to 50 guests",
+        "Exact GPS coordinates of the scattering site",
+        "Own celebrant or religious figure welcome",
+        "Departs Sorrento Pier, Queenscliff Harbour or Blairgowrie Yacht Club"
+      ],
+      "duration": "1.5 hours",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Sorrento Pier, Queenscliff Harbour or Blairgowrie Yacht Club",
+      "prices": [
+        {
+          "label": "Memorial Cruise",
+          "amount": 2000,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Grazing Board (optional)",
+          "amount": 200,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Ultimate Memorial Package, per person (optional)",
+          "amount": 20,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 2000,
+      "includes": [
+        "1.5-hour private memorial cruise",
+        "Professional captain and crew",
+        "Ash scattering ceremony",
+        "Exact GPS coordinates (latitude and longitude) of the scattering location",
+        "All vessel amenities"
+      ],
+      "bring": [],
+      "requirements": "Up to 50 family and friends.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1596591653443-P9FDI206UGEVLIWXTK9W/DJI_0022.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1760350208826-RTBAUIW60GXDAETGWSB9/DSC_0892.jpeg.jpeg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1760350212233-WGAQDNZ8JTTROPNGD5DR/IMG_4493.JPG"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.moonrakerdolphinswims.com.au/memorials-at-sea",
+      "checkNotes": "Enquiry only. Morning, afternoon and late afternoon departures offered; no set times."
+    },
+    {
+      "title": "School Tours",
+      "kind": "other",
+      "summary": "Curriculum-linked marine programs for primary, secondary and tertiary groups, led by qualified guides, instructors and biologists. Options include boat snorkels with seals, dolphins and sea dragons, beach snorkels, wildlife sightseeing cruises and on-land sessions on ocean litter and rockpools. Programs run year round by enquiry.",
+      "highlights": [
+        "Boat and beach snorkels priced per student",
+        "Wildlife sightseeing cruises for whole classes",
+        "On-land sessions on ocean pollution, litter and rockpools",
+        "Free double pass dolphin swim for the booking school or group"
+      ],
+      "duration": "1 to 3 hours depending on activity",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Year round",
+      "departsFrom": "Sorrento Pier, Esplanade Road, Sorrento VIC 3943",
+      "prices": [
+        {
+          "label": "3 Hour Seals, Dolphins and Sea Dragons Snorkel, per student",
+          "amount": 80.0,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "2 Hour Seals and Dolphins Snorkel, per student",
+          "amount": 70.0,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "2 Hour Seals and Marine Park Snorkel, per student",
+          "amount": 70.0,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "2 Hour Invasive | Introduced Species Discovery Snorkel, per student (boat)",
+          "amount": 65.0,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "2 Hour Invasive | Introduced Species Discovery Snorkel, per student (beach)",
+          "amount": 40.0,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "2 Hour off the Beach Snorkel, per student",
+          "amount": 40.0,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "1 Hour Wildlife Sightsee, per hour",
+          "amount": 750.0,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "90 Minute Wildlife Sightsee, per tour",
+          "amount": 950.0,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 40,
+      "includes": [
+        "Learning program matched to the class curriculum",
+        "Qualified guides, instructors and biologists"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": {
+        "text": "Book an education cruise and receive a free double pass dolphin swim cruise",
+        "conditions": "For school or education group bookings",
+        "validUntil": null
+      },
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1596583116501-P72YSWD3C6OE8T8JEGH7/school-groups-3.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1596745585796-8BIQ77E5W0UMBKY0B0J2/1500_54ad25c28c3e6.jpg",
+        "https://images.squarespace-cdn.com/content/v1/5f17bcc4c117fb2fce70a627/1596745251918-6F2L5U742MHHVSREYEZ9/dolphin+spotting.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.moonrakerdolphinswims.com.au/school-group-tours",
+      "checkNotes": "Enquiry only. The three 2 hour on-land sessions have no prices listed. The Boat Activities page also lists a '2 Hour Marine Park and Weedy Sea Dragons Snorkel' that is not in the priced catalogue. priceFrom is the lowest per-student price."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Spring Dolphin Season offer on signature tours with promo code SILVERFIN at checkout",
+      "conditions": "Limited-time seasonal offer",
+      "validUntil": null,
+      "sourceUrl": "https://www.moonrakerdolphinswims.com.au/specials-packages"
+    },
+    {
+      "text": "School or education group bonus: free double pass dolphin swim cruise when you book an education cruise",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://www.moonrakerdolphinswims.com.au/specials-packages"
+    },
+    {
+      "text": "Gift vouchers",
+      "conditions": "Printed with a 3 year expiry and cannot be extended. Non-refundable, but can be given to another person. Redeem online or by calling 03 5984 4211.",
+      "validUntil": null,
+      "sourceUrl": "https://www.moonrakerdolphinswims.com.au/terms-and-conditions"
+    },
+    {
+      "text": "Dolphin Guarantee: if no dolphins are seen on the 3 hour public dolphin swim, come back free",
+      "conditions": "Tour page: within 30 days. Terms: valid for 3 months from the original booking date; guests who cannot travel within 30 days can rebook at a discount in the same season. Only on 3-hour public dolphin swim tours.",
+      "validUntil": null,
+      "sourceUrl": "https://www.moonrakerdolphinswims.com.au/melbourne-dolphin-swim"
+    }
+  ],
+  "checkNotes": "moonrakercharters.com.au redirects (301) to www.moonrakerdolphinswims.com.au, so all pages were read on that domain. Public tour prices appear only as 'From' prices on the homepage, not on the tour pages; child age bands are not given. Departure times for Sorrento tours are not on the site. The SILVERFIN promo is stated on the site as '20%' off signature tours (homepage says 'Signature tours', specials page says 'all signature tours'); kept out of copy as a percentage. Dolphin Guarantee wording conflicts between tour page (30 days) and Terms (3 months). Terms list minimum numbers (swim tour 10, sightsee tour 15) and a cancellation fee stated as a percentage. Vessel names vary on the site ('Silver Fin', 'Sliver Fin', 'SILVERFIN'). The site claims 'Australia's most awarded dolphin swim company' and '100% carbon offset'; not repeated. Peninsula Hot Springs photos were not used."
+}

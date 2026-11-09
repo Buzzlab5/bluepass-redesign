@@ -1,0 +1,44 @@
+{
+  "slug": "marine-adventures-lord-howe",
+  "logo": null,
+  "gallery": [
+    "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/744c21d1-c424-436b-aee9-3cefd1323dc1/IMG_6194.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/c980a535-3a7f-4234-8eea-8bb1cb57862c/GOPR0321.JPG",
+    "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/3df13da3-9083-4743-a716-20f50d018885/IMG_6484.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/1c2d16d0-266b-4c84-baae-a44df168ed8d/IMG_6753.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/1580116166258-LRIQWHA1JI199WY8SXT8/IMG_0118-copy.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/ad276112-490a-44bb-82d9-829944e00e24/IMG_3180.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/10b7590e-9291-4a33-a136-ab44424ba4b5/IMG_0425.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/949eeee9-0a31-40b8-a198-a33fba855f5d/Z60_5212+copy.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/bc443431-e433-433f-b24c-d448c06bfcc1/IMG_7485.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/40c0cf70-35b5-4e2e-829c-af5697d2f946/IMG_6994.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/06811b31-04b5-4a9a-9f98-fa3629d37ff4/IMG_9893.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/bc7a9697-64dd-4230-868e-c0fc5754f345/945A1640-1674-49E5-BE43-5BB3BE6F932A.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/1580116299013-ONKCBZ7LMI7VCOLAODWU/IMG_2413-copy.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/edd1974c-91de-4931-8d52-8624c0eb5e8a/ECCA7840-9678-43C6-945C-C723E7621836.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/eb39c02e-6f45-48e0-9803-9d3c5622a7a2/IMG_4281.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/eaab51e2-9233-4806-ae13-e03cc9933161/Lord+Howe+Clown+fish.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "North Bay Turtle & Nature Tour",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/1580108729671-0PEA0BKE2FO6LHCBVYXM/_MG_2356.jpg"
+      ]
+    },
+    {
+      "title": "Turtle Tour & Two Spot Snorkel Experience",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/3eaa8b7b-1a5b-48f9-aa3b-2e6f552b826e/IMG_4603.jpeg"
+      ]
+    },
+    {
+      "title": "Private Charters",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5e2e86742ad4b41f70b569e8/1580507273300-2DIY3SZAU7AGTP6MXFCF/snorkel+tour-copy.jpg"
+      ]
+    }
+  ],
+  "notes": "The whole site is one Squarespace page (the rest are unedited template pages), so there are no per-trip pages: each trip has the single photo shown beside it on the home page (North Bay Turtle & Nature Tour: _MG_2356.jpg; Turtle Tour & Two Spot Snorkel Experience: IMG_4603.jpeg; Private Charters: snorkel tour-copy.jpg). Gallery is the site's own 18 image gallery with two left out: IMG_4603.jpeg (used as the trip photo and as heroImage in the facts file) and 8BC4CA6D-EE28-42DA-A353-2A2574BE5B39.png, a square 1024 by 1024 PNG with a generated-looking file name that may be a graphic or render rather than a photo; a person should look at it before it is used. Gallery order puts the landscape files first, then follows the page order; none of the photos were opened (no downloads), so quality, subject and ownership are unchecked, and no photo carries a credit on the page. Left out: the favicon, and imgg-demo-ZRjbSa11.png on the New Home Page template page (Squarespace demo image). No logo: the header title is a full stop and no logo image is served. No heroImage here: the facts file uses IMG_4603.jpeg (largest landscape photo, chosen by shape, not by eye). No YouTube or Vimeo links and no social links on the site, so videos is empty. No bot check was hit."
+}

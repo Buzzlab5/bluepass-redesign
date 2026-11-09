@@ -1,0 +1,91 @@
+{
+  "slug": "smileys-surf-shop",
+  "name": "Smiley's Surf Shop",
+  "website": "https://smileyssurfshop.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Drill Hall Beach",
+  "category": "Surf lessons and guiding",
+  "summary": "A surf shop at The Garrison run by second and third generation surfers, named after Peter (Smiley) Boland, one of the Caribbean's first surfers. It teaches beginner to intermediate surfers in small groups, coaches experienced riders and can be hired as a surf guide for a day or more.",
+  "standouts": [
+    "ISA qualified surf instructors and beach lifeguards",
+    "Maximum of 4 to 5 people per instructor",
+    "Keep the board until 3:30pm after a lesson at no extra charge",
+    "Named in honour of Peter (Smiley) Boland, one of the Caribbean's first surfers"
+  ],
+  "contact": {
+    "phone": "+1 246 289 3559",
+    "email": "smileyssurfshop@hotmail.com",
+    "address": "Smileys Surf Shop, The Garrison, St Michaels, Bidgetown, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://smileyssurfshop.com/gallery/IMG_20240524_103000.jpg",
+  "sourceUrls": [
+    "https://smileyssurfshop.com/",
+    "https://smileyssurfshop.com/Shop/",
+    "https://smileyssurfshop.com/Shop/?spage=2&scpp=12",
+    "https://smileyssurfshop.com/Shop/?spage=3&scpp=12",
+    "https://smileyssurfshop.com/Shop/?spage=4&scpp=12",
+    "https://smileyssurfshop.com/Shop/?spage=5&scpp=12",
+    "https://smileyssurfshop.com/ACCOMODATION/",
+    "https://smileyssurfshop.com/sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Surf Lessons",
+      "kind": "course",
+      "summary": "Surf lessons in small groups that cover water safety, catching waves and standing up, taught by ISA qualified instructors who are also beach lifeguards. Instructors pick the best spot on the island for the day and your level, from first lessons through to coaching for experienced riders. You can keep the board until 3:30pm to keep practising.",
+      "highlights": [
+        "Maximum of 4 to 5 people per instructor",
+        "ISA qualified surf instructors and beach lifeguards",
+        "Beginner to intermediate lessons, plus coaching for experienced riders",
+        "New equipment, changed regularly"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Keep the board until 3:30pm to keep practising, no extra charge"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://smileyssurfshop.com/",
+      "checkNotes": "No price or lesson length on the site; booking by phone or email only. The site says the shop is right above Drill Hall (Brandons), Pebbles Beach and Freights Bay, and that lessons go to the best spot on the island for the day, so no single departure point is given. No lesson photos on the site."
+    },
+    {
+      "title": "Surf guide hire",
+      "kind": "tour",
+      "summary": "Hire a local surf guide to take you to the best waves on the island for a day or several days. It suits surfers who want local knowledge of the breaks, with a lesson added if you want one.",
+      "highlights": [
+        "Guide for a day or several days",
+        "Taken to the best waves on the island for the conditions",
+        "Can be combined with a lesson to suit you"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://smileyssurfshop.com/",
+      "checkNotes": "Title is descriptive: the site mentions guide hire inside the Surf Lessons section without naming it as a product. No price stated. Booking by phone or email only."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Email is shown behind Cloudflare email protection and decoded from the page (smileyssurfshop@hotmail.com). Address copied as written on the site, including 'St Michaels' and 'Bidgetown'; the list gives Brigade House, The Garrison. The online shop sells surf gear priced in BBD (boards, fins, leashes, a stand up paddle board for 1000.00 BBD), not rentals or trips. The Accommodation page promotes a studio apartment in Navy Gardens booked by phone or Airbnb, not recorded as a trip. No kayak tours or WhatsApp number appear on the site. Footer reads 2022; the one photo has a file name dated May 2024."
+}

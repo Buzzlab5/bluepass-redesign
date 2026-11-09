@@ -1,0 +1,65 @@
+{
+  "slug": "cannon-charters",
+  "logo": "https://fishingbarbados.com/wp-content/uploads/barbados-fishing-cannon-charters.png",
+  "gallery": [
+    "https://fishingbarbados.com/wp-content/uploads/barbados-fishing-catch.jpg",
+    "https://fishingbarbados.com/wp-content/uploads/barbados-fishing-catch-1.jpg",
+    "https://fishingbarbados.com/wp-content/uploads/cannon-charters-boat.jpg",
+    "https://fishingbarbados.com/wp-content/uploads/fishing-charters-barbados.jpg",
+    "https://fishingbarbados.com/wp-content/uploads/shared-charters-catch.jpg",
+    "https://fishingbarbados.com/wp-content/uploads/private-charter-catch-mahi-mahi.jpg",
+    "https://fishingbarbados.com/wp-content/uploads/private-charters-catch.jpg",
+    "https://fishingbarbados.com/wp-content/uploads/swimming-with-turtles.jpg",
+    "https://fishingbarbados.com/wp-content/uploads/sea-turtle.jpg",
+    "https://fishingbarbados.com/wp-content/uploads/fishing-in-barbados.jpg",
+    "https://fishingbarbados.com/wp-content/uploads/private-fishing-charters.jpg",
+    "https://fishingbarbados.com/wp-content/uploads/shared-fishing-charters.jpg",
+    "https://fishingbarbados.com/wp-content/uploads/fishing-questions.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Shared Fishing Charter",
+      "images": [
+        "https://fishingbarbados.com/wp-content/uploads/fishing-charters-barbados.jpg",
+        "https://fishingbarbados.com/wp-content/uploads/shared-charters-catch.jpg"
+      ]
+    },
+    {
+      "title": "4 Hour Private Charter",
+      "images": [
+        "https://fishingbarbados.com/wp-content/uploads/private-charter-catch-mahi-mahi.jpg",
+        "https://fishingbarbados.com/wp-content/uploads/private-charters-catch.jpg"
+      ]
+    },
+    {
+      "title": "5 Hour Private Charter",
+      "images": [
+        "https://fishingbarbados.com/wp-content/uploads/private-charter-catch-mahi-mahi.jpg",
+        "https://fishingbarbados.com/wp-content/uploads/private-charters-catch.jpg"
+      ]
+    },
+    {
+      "title": "6 Hour Private Charter",
+      "images": [
+        "https://fishingbarbados.com/wp-content/uploads/private-charter-catch-mahi-mahi.jpg",
+        "https://fishingbarbados.com/wp-content/uploads/private-charters-catch.jpg"
+      ]
+    },
+    {
+      "title": "8 Hour Private Charter",
+      "images": [
+        "https://fishingbarbados.com/wp-content/uploads/private-charter-catch-mahi-mahi.jpg",
+        "https://fishingbarbados.com/wp-content/uploads/private-charters-catch.jpg"
+      ]
+    },
+    {
+      "title": "Turtle Swim and Shipwreck Tour",
+      "images": [
+        "https://fishingbarbados.com/wp-content/uploads/swimming-with-turtles.jpg",
+        "https://fishingbarbados.com/wp-content/uploads/sea-turtle.jpg"
+      ]
+    }
+  ],
+  "notes": "No videos on the site and no YouTube or Vimeo channel linked. Logo is small (116 by 90). Some photos have generic file names (sea-turtle.jpg, fishing-questions.jpg) and could not be confirmed as the operator's own; no stock credits seen. Private charter trips share the same two photos from the private charters page."
+}

@@ -1,0 +1,800 @@
+{
+  "slug": "jervis-bay-wild",
+  "name": "Jervis Bay Wild",
+  "website": "https://www.jervisbaywild.com.au",
+  "rezdyAlias": null,
+  "state": "NSW",
+  "town": "Huskisson",
+  "category": "Whale & dolphin cruises",
+  "summary": "Whale and dolphin cruises, sightseeing passages, sunset cruises and in-water swims from the public wharf at Huskisson on Jervis Bay, New South Wales. The operator also runs guided kayaking, kayak, SUP and bike hire, and private charters on a sailing catamaran. Whale cruises run from mid-May to mid-November and dolphin cruises run all year.",
+  "standouts": [
+    "Holds Advanced Eco-certification, as stated on the About page",
+    "More than 15 years operating in Jervis Bay Marine Park, 365 days a year including public holidays",
+    "States it holds the permit for in-water humpback whale experiences in Jervis Bay (operator blog, September 2026)"
+  ],
+  "contact": {
+    "phone": "+61 2 4441 7002",
+    "email": "cruise@jervisbaywild.com.au",
+    "address": "Booking office: 58 Owen Street, Huskisson NSW. Cruises leave from the public wharf near Fishermens Wharf Restaurant; the site's footer address is 15 Field Street, Huskisson NSW 2540"
+  },
+  "heroImage": "https://www.jervisbaywild.com.au/images/Whales-Jumping-Jervis-Bay.webp",
+  "sourceUrls": [
+    "https://www.jervisbaywild.com.au/",
+    "https://www.jervisbaywild.com.au/our-cruises/",
+    "https://www.jervisbaywild.com.au/tours-experiences/",
+    "https://www.jervisbaywild.com.au/whale-cruise/",
+    "https://www.jervisbaywild.com.au/dolphin-cruise/",
+    "https://www.jervisbaywild.com.au/swim-with-whales/",
+    "https://www.jervisbaywild.com.au/swim-with-dolphins/",
+    "https://www.jervisbaywild.com.au/jervis-bay-passage/",
+    "https://www.jervisbaywild.com.au/south-coast-passage/",
+    "https://www.jervisbaywild.com.au/sunset-river-cruise/",
+    "https://www.jervisbaywild.com.au/sundowners-bay-cruise/",
+    "https://www.jervisbaywild.com.au/stargazing-cruise/",
+    "https://www.jervisbaywild.com.au/new-years-eve-fireworks-cruise/",
+    "https://www.jervisbaywild.com.au/guided-kayak-tour/",
+    "https://www.jervisbaywild.com.au/kayak-sup-hire/",
+    "https://www.jervisbaywild.com.au/e-bike-hire/",
+    "https://www.jervisbaywild.com.au/push-bike-hire/",
+    "https://www.jervisbaywild.com.au/luxury-private-charters/",
+    "https://www.jervisbaywild.com.au/private-tours/",
+    "https://www.jervisbaywild.com.au/charters-events/",
+    "https://www.jervisbaywild.com.au/weddings/",
+    "https://www.jervisbaywild.com.au/conferences/",
+    "https://www.jervisbaywild.com.au/faqs/",
+    "https://www.jervisbaywild.com.au/about/",
+    "https://www.jervisbaywild.com.au/contact/",
+    "https://www.jervisbaywild.com.au/terms/",
+    "https://www.jervisbaywild.com.au/sitemap/",
+    "https://www.jervisbaywild.com.au/blog/swim-with-dolphins-jervis-bay/",
+    "https://www.jervisbaywild.com.au/blog/swim-with-whales-jervis-bay-wild/",
+    "https://www.youtube.com/@jervisbaywild8049/videos"
+  ],
+  "trips": [
+    {
+      "title": "Whale Cruise",
+      "kind": "cruise",
+      "summary": "A 2 to 3 hour cruise to watch humpback whales migrating past Jervis Bay, from mid-May to mid-November. The whales head north from May to August, and from September to November mothers and calves rest in the sheltered bay. It runs seven days a week, including public holidays.",
+      "highlights": [
+        "Humpback whales on the northern migration, May to August",
+        "Mothers and calves resting in the bay, September to November",
+        "Departs 10am and 1pm, seven days including public holidays",
+        "Check in 30 minutes before departure at the vessel"
+      ],
+      "duration": "2-3 hours",
+      "durationMinutes": null,
+      "departureTimes": [
+        "10:00",
+        "13:00"
+      ],
+      "season": "Mid-May to mid-November",
+      "departsFrom": "Public wharf, Huskisson, near Fishermens Wharf Restaurant",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [
+        "Hat or beanie",
+        "Weather jacket or jumper",
+        "Sunglasses and sunscreen",
+        "Water bottle",
+        "Camera"
+      ],
+      "requirements": "Dogs cannot join the whale cruise.",
+      "offer": null,
+      "images": [
+        "https://www.jervisbaywild.com.au/images/jervis-bay-whales-2.webp",
+        "https://www.jervisbaywild.com.au/images/Whales-Jumping-Jervis-Bay.webp",
+        "https://www.jervisbaywild.com.au/images/Whale1.webp"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/jervisbaywild/items/618584/?full-items=yes&flow=1365909"
+      ],
+      "sourceUrl": "https://www.jervisbaywild.com.au/whale-cruise/",
+      "checkNotes": "No prices on the site: fares appear only inside the FareHarbor booking widget, which was not opened. Season is stated as mid-May to mid-November on the trip page and as May to November on cards and the FAQ; used the trip page. The page says cruise times may change with the tide. Dog rule is from the FAQ. The page's statement that humpbacks are what guests will see was not repeated."
+    },
+    {
+      "title": "Dolphin Cruise",
+      "kind": "cruise",
+      "summary": "A 1.5 hour cruise from Huskisson to see the resident bottlenose dolphins of Jervis Bay Marine Park, all year round. In summer, guests can add a boom net, which is towed behind the boat through the water. It runs seven days a week, including public holidays, and times change with the tide.",
+      "highlights": [
+        "Resident bottlenose dolphins that live in the bay all year",
+        "Boom net add-on in summer, added when booking on departures that run it",
+        "Check in 30 minutes before departure at the vessel",
+        "Dogs welcome on the larger boats"
+      ],
+      "duration": "1.5 hours",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": "All year round",
+      "departsFrom": "Public wharf, Huskisson, near Fishermens Wharf Restaurant",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [
+        "Hat or beanie",
+        "Weather jacket or jumper",
+        "Sunglasses and sunscreen",
+        "Water bottle",
+        "Camera",
+        "For boom netting: towel and swimmers"
+      ],
+      "requirements": "Boom net: children under 2 cannot board the net. Ages 2 to 14 must be accompanied by an adult, and at the crew's request children sit on a parent's lap. All swimming abilities can join. Dogs are welcome on the larger boats but not the smaller boats, so contact the office before booking.",
+      "offer": null,
+      "images": [
+        "https://www.jervisbaywild.com.au/images/dolpins-jervis-bay-scaled.webp",
+        "https://www.jervisbaywild.com.au/images/dolphin-jervis-bay-3-scaled.webp",
+        "https://www.jervisbaywild.com.au/images/boom-netting-guests-in-net.webp",
+        "https://www.jervisbaywild.com.au/images/dolphin-jervis-bay-2-scaled.webp"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/jervisbaywild/items/618598/?full-items=yes&flow=1365909"
+      ],
+      "sourceUrl": "https://www.jervisbaywild.com.au/dolphin-cruise/",
+      "checkNotes": "No prices on the site: fares appear only inside the FareHarbor booking widget, which was not opened. The booking box lists Boom Netting as a second line, but both buttons open the same FareHarbor item, and the page says it is not a separate booking. Departure times are not stated (they vary with the tide). Dolphin numbers conflict: the trip page says more than 100 resident dolphins, the FAQ says between 80 and 90, so no count is given here. Dog and boom net rules are from the FAQ."
+    },
+    {
+      "title": "Swim with Whales",
+      "kind": "swim",
+      "summary": "An in-water experience with migrating humpback whales off the Jervis Bay coast. Guests enter the water only when the whales' behaviour and the conditions allow it, and the swim is never guaranteed. There are three packages, including one for guests who stay on board.",
+      "highlights": [
+        "Three packages: own gear, gear supplied, or stay on board",
+        "The swim is never guaranteed",
+        "Crew look for whales along the South Coast and enter the water only when behaviour and conditions allow",
+        "Guests may also see dolphins, seals and other marine life"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Own Gear Swim",
+          "amount": 300,
+          "currency": "AUD",
+          "note": "Per person. Bring your own mask, snorkel, fins and full-length wetsuit"
+        },
+        {
+          "label": "Gear Supplied Swim",
+          "amount": 350,
+          "currency": "AUD",
+          "note": "Per person. Mask, snorkel, fins and full-length wetsuit supplied"
+        },
+        {
+          "label": "Not entering the water",
+          "amount": 250,
+          "currency": "AUD",
+          "note": "Per person. Stay on board for the whole trip, no gear needed"
+        }
+      ],
+      "priceFrom": 250,
+      "includes": [
+        "Gear Supplied Swim: mask, snorkel, fins and full-length wetsuit"
+      ],
+      "bring": [
+        "Own Gear Swim: your own mask, snorkel, fins and full-length wetsuit"
+      ],
+      "requirements": "Guests should be comfortable swimming in the ocean (from the operator's blog post). Minimum age is not stated.",
+      "offer": null,
+      "images": [
+        "https://www.jervisbaywild.com.au/images/swim-with-whales-jervis-bay-hero-v2.webp",
+        "https://www.jervisbaywild.com.au/images/swim-with-whales-jervis-bay-wide-v2.webp"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/jervisbaywild/items/743914/?full-items=yes&flow=1365909"
+      ],
+      "sourceUrl": "https://www.jervisbaywild.com.au/swim-with-whales/",
+      "checkNotes": "The page does not give duration, departure time, season or departure point; a person should confirm these with the operator. The whale cruise runs mid-May to mid-November, but the page does not say the swim does. The page does not say whether prices include GST. The swim-with-dolphins page states GST is included. Requirement and swim-ability wording is from the blog post of 11 September 2026, which also says the operator holds the permit for in-water humpback experiences in Jervis Bay; not independently checked. The three prices are per person; all three buttons open the same FareHarbor item. This experience is new (blog dated 11 September 2026)."
+    },
+    {
+      "title": "Swim with Dolphins",
+      "kind": "swim",
+      "summary": "A small-group early morning swim with the resident bottlenose dolphins of Jervis Bay, for a maximum of 12 guests. Guests enter the water only when the dolphins' behaviour and the conditions allow it, so a swim is not guaranteed. A companion package is available for guests who stay aboard.",
+      "highlights": [
+        "Maximum 12 guests",
+        "Early morning departure",
+        "All equipment provided, with tea and coffee on board",
+        "Minimum age 7"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Child",
+          "amount": 109,
+          "currency": "AUD",
+          "note": "In the water. Aged 7 and over, with an adult supervising anyone under 16. Prices include GST"
+        },
+        {
+          "label": "Adult",
+          "amount": 325,
+          "currency": "AUD",
+          "note": "In the water when the dolphins and conditions allow. Prices include GST"
+        },
+        {
+          "label": "Companion",
+          "amount": 250,
+          "currency": "AUD",
+          "note": "Stays aboard rather than entering the water. Prices include GST"
+        }
+      ],
+      "priceFrom": 250,
+      "includes": [
+        "All equipment provided",
+        "Tea and coffee on board"
+      ],
+      "bring": [],
+      "requirements": "Minimum age 7; under 16s must be supervised by a parent or guardian. Confident swimmers to enter the water, with a place aboard for those who prefer not to swim. Maximum 12 guests.",
+      "offer": null,
+      "images": [
+        "https://www.jervisbaywild.com.au/images/dolphin-jervis-bay-3-scaled.webp",
+        "https://www.jervisbaywild.com.au/images/dolpins-jervis-bay-scaled.webp"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/jervisbaywild/items/761719/?full-items=yes&flow=1365909"
+      ],
+      "sourceUrl": "https://www.jervisbaywild.com.au/swim-with-dolphins/",
+      "checkNotes": "Page says the departure is 'Early morning' with no clock time, and gives no duration, season or departure point. The page says more details will be added, so it looks recent (blog post dated 12 October 2026). priceFrom uses the Companion price (the lowest adult-type price shown); the Child price is lower at 109. All three buttons open the same FareHarbor item. Equipment, age and group-size details match the operator's blog post."
+    },
+    {
+      "title": "Jervis Bay Passage",
+      "kind": "cruise",
+      "summary": "A 2.5 hour sightseeing loop of Jervis Bay past sea cliffs, sea caves, Point Perpendicular Lighthouse and the shores of Hyams Beach, from mid-November to mid-May. The crew share local history along the way, and dolphins often join the cruise. It departs at 11am and 1:30pm, seven days a week.",
+      "highlights": [
+        "Cliffs, sea caves and ancient rock formations",
+        "Past Point Perpendicular Lighthouse and Hyams Beach",
+        "Honeymoon Bay and other hidden coves",
+        "Dolphins often seen, and sometimes seals, sea eagles, turtles and seabirds"
+      ],
+      "duration": "2.5 hours",
+      "durationMinutes": 150,
+      "departureTimes": [
+        "11:00",
+        "13:30"
+      ],
+      "season": "Mid-November to mid-May",
+      "departsFrom": "Public wharf, Huskisson, near Fishermens Wharf Restaurant",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [
+        "Hat or beanie",
+        "Weather jacket or jumper",
+        "Sunglasses and sunscreen",
+        "Water bottle",
+        "Camera"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.jervisbaywild.com.au/images/JervisBayPassage.webp",
+        "https://www.jervisbaywild.com.au/images/jervis-bay-passage-cruise-scaled.webp",
+        "https://www.jervisbaywild.com.au/images/JervisBayWild-jervisBayPassage-Honeymoon-Bay.webp",
+        "https://www.jervisbaywild.com.au/images/Jervis-Bay-Wild-Jervis-Bay-Passage-Cruise-10.webp"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/jervisbaywild/items/618612/?full-items=yes&flow=1365909"
+      ],
+      "sourceUrl": "https://www.jervisbaywild.com.au/jervis-bay-passage/",
+      "checkNotes": "No prices on the site: fares appear only inside the FareHarbor booking widget, which was not opened. Duration conflicts: the trip page and cards say 2.5 hours, the FAQ says 2 hours; used the trip page. Page says cruise times may change with the tide. Season is mid-November to mid-May on the trip page and November to May on cards."
+    },
+    {
+      "title": "South Coast Passage",
+      "kind": "cruise",
+      "summary": "A 2.5 hour trip by rigid inflatable boat along the remote sea cliffs of the Beecroft Peninsula, from November to May. The boat goes into sea caves, visits a seal colony, and bottlenose dolphins often swim at the bow. It departs at 8:30am daily and depends on wind and sea conditions.",
+      "highlights": [
+        "Rigid inflatable small enough to go inside sea caves",
+        "Visit to a seal colony",
+        "Remote sea cliffs of the Beecroft Peninsula",
+        "Departs 8:30am daily, wind and sea conditions permitting"
+      ],
+      "duration": "2.5 hours",
+      "durationMinutes": 150,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": "November to May",
+      "departsFrom": "Public wharf, Huskisson, near Fishermens Wharf Restaurant",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 135,
+          "currency": "AUD",
+          "note": "Per person"
+        },
+        {
+          "label": "Child (2-14 yrs)",
+          "amount": 80,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2 adults + 2 children)",
+          "amount": 295,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Under 2",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        }
+      ],
+      "priceFrom": 135,
+      "includes": [],
+      "bring": [
+        "Hat or beanie",
+        "Weather jacket or jumper",
+        "Sunglasses and sunscreen",
+        "Water bottle",
+        "Camera"
+      ],
+      "requirements": "Wind and sea conditions dependent.",
+      "offer": null,
+      "images": [
+        "https://www.jervisbaywild.com.au/images/9.webp",
+        "https://www.jervisbaywild.com.au/images/8.webp",
+        "https://www.jervisbaywild.com.au/images/JervisBayWild-dolphins-Sensational-John-Mortimer-DSC_4916.webp",
+        "https://www.jervisbaywild.com.au/images/south-coast-passage-boat-thumb.webp"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/jervisbaywild/items/618616/?full-items=yes&flow=1365909"
+      ],
+      "sourceUrl": "https://www.jervisbaywild.com.au/south-coast-passage/",
+      "checkNotes": "Prices are shown on the trip page and match the booking box. The page does not say whether prices include GST. One photo file name includes a person's name (John-Mortimer), which may be a photographer credit; no visible credit was found on the page. Page says cruise times may change with tide."
+    },
+    {
+      "title": "Sunset River Cruise",
+      "kind": "cruise",
+      "summary": "A 2 hour evening cruise up the sheltered Currambene Creek aboard the pontoon boat, all year round. Guests bring their own wine, drinks and nibbles. Sea eagles, kingfishers, kookaburras and pelicans are common along the creek, and a kangaroo is sometimes seen on the bank.",
+      "highlights": [
+        "BYO wine, drinks and nibbles welcome",
+        "Sheltered Currambene Creek surrounded by bush",
+        "Sea eagles, kingfishers, kookaburras and pelicans",
+        "Runs all year"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": "All year",
+      "departsFrom": "Public wharf, Huskisson, near Fishermens Wharf Restaurant",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [
+        "Your BYO wine, drinks and nibbles",
+        "Hat or beanie",
+        "Weather jacket or jumper",
+        "Sunglasses and sunscreen",
+        "Water bottle",
+        "Camera"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.jervisbaywild.com.au/images/jervis-bay-sundowner-cruise.webp",
+        "https://www.jervisbaywild.com.au/images/sundowner-cruise.webp",
+        "https://www.jervisbaywild.com.au/images/Pontoon-Shoot-Drone.webp"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/jervisbaywild/items/618610/?full-items=yes&flow=1365909"
+      ],
+      "sourceUrl": "https://www.jervisbaywild.com.au/sunset-river-cruise/",
+      "checkNotes": "No prices on the site: fares appear only inside the FareHarbor booking widget, which was not opened. Departure times are not stated ('check live times when you book'). Two hours is consistent across the site for this cruise. The aerial pontoon photo may show a vessel that belongs to the separate Huskisson Pontoons business linked from the site; a person should confirm it is the cruise pontoon."
+    },
+    {
+      "title": "Sundowners Bay Cruise",
+      "kind": "cruise",
+      "summary": "A 2 hour Saturday evening cruise on Jervis Bay as the sun sets, from November to May. Guests can bring their own nibbles or add a platter when booking. Local birdlife and resident bottlenose dolphins may be seen. Check live departure times when you book.",
+      "highlights": [
+        "Every Saturday evening, November to May",
+        "Bring your own nibbles or add a platter when booking",
+        "Cheese plate for two, $30, and prawns and oysters, $35, as optional extras",
+        "Local birdlife and possibly resident dolphins"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": "November to May, every Saturday evening",
+      "departsFrom": "Public wharf, Huskisson, near Fishermens Wharf Restaurant",
+      "prices": [
+        {
+          "label": "Cheese plate for two (optional add-on)",
+          "amount": 30,
+          "currency": "AUD",
+          "note": "Not the cruise fare. Added when booking"
+        },
+        {
+          "label": "Prawns & oysters (optional add-on)",
+          "amount": 35,
+          "currency": "AUD",
+          "note": "Not the cruise fare. Added when booking"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [
+        "Your own nibbles (welcome aboard)",
+        "Hat or beanie",
+        "Weather jacket or jumper",
+        "Sunglasses and sunscreen",
+        "Water bottle",
+        "Camera"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.jervisbaywild.com.au/images/jervis-bay-sunset-1.webp",
+        "https://www.jervisbaywild.com.au/images/cheese-plate.webp",
+        "https://www.jervisbaywild.com.au/images/prawns-oysters.webp",
+        "https://www.jervisbaywild.com.au/images/jervis-bay-sunset-cruise.webp"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/jervisbaywild/items/712197/?full-items=yes&flow=1365909"
+      ],
+      "sourceUrl": "https://www.jervisbaywild.com.au/sundowners-bay-cruise/",
+      "checkNotes": "The cruise fare is not on the site (booking widget only, not opened); the only prices shown are the two platter add-ons, so priceFrom is null. Duration conflict: the trip page, home page and cards say 2 hours, while the booking boxes on this page and on the Sunset River page say 3 hrs; used 2 hours. Departure times are not stated. The prawns and oysters line mentions a glass of wine; it is unclear whether wine is included in that add-on."
+    },
+    {
+      "title": "Stargazing Sea and Sky Cruise",
+      "kind": "cruise",
+      "summary": "A 3 hour evening cruise that leaves Huskisson at sunset, then watches the Milky Way rise with a guide from Jervis Bay Stargazing. The guide points out constellations and other features of the night sky before the boat returns to Huskisson wharf. It is listed for 7 November and depends on weather and cloud cover.",
+      "highlights": [
+        "Run in partnership with Jervis Bay Stargazing",
+        "Departs at sunset and returns after dark",
+        "Drinks bought from Fishermens Wharf Cafe before boarding",
+        "Weather and cloud cover dependent"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": "7 November (year not shown)",
+      "departsFrom": "15 Field Street, Huskisson NSW 2540 (meeting point)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Jervis Bay Stargazing guide"
+      ],
+      "bring": [
+        "A warm jacket or jumper, as it can get cool on the water after dark",
+        "A beanie",
+        "Drinks, purchased from Fishermens Wharf Cafe before you board"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.jervisbaywild.com.au/images/stargazing-cruise-night-sky.webp"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/jervisbaywild/items/752369/?full-items=yes&flow=1361031"
+      ],
+      "sourceUrl": "https://www.jervisbaywild.com.au/stargazing-cruise/",
+      "checkNotes": "No price on the site (booking widget only, not opened). The date is shown as 7 November with no year, and no clock time is given. Looks like a single listed departure rather than a regular tour; confirm whether more dates run. A second, generic Milky Way hero photo on this page was left out because it could not be confirmed as the operator's own."
+    },
+    {
+      "title": "New Year’s Eve Fireworks Cruise",
+      "kind": "cruise",
+      "summary": "A 2.5 hour cruise on the vessel Tekin on Thursday 31 December 2026 to watch the local 9pm fireworks from the water. It departs at 7:30pm, with indoor and outdoor seating and a licensed bar. One drink on arrival is included.",
+      "highlights": [
+        "Watch the 9pm fireworks from the water",
+        "Indoor and outdoor seating, covered areas and multiple viewing decks",
+        "One complimentary drink on arrival, soft drink on a child ticket",
+        "Licensed bar on board, no BYO alcohol"
+      ],
+      "duration": "2.5 hours",
+      "durationMinutes": 150,
+      "departureTimes": [
+        "19:30"
+      ],
+      "season": "Thursday 31 December 2026 only",
+      "departsFrom": "15 Field Street, Huskisson NSW 2540 (meeting point)",
+      "prices": [
+        {
+          "label": "Adults, ages 15+",
+          "amount": 95,
+          "currency": "AUD",
+          "note": "Prices include fees"
+        },
+        {
+          "label": "Children, aged 2 years up to and including 14 years",
+          "amount": 55,
+          "currency": "AUD",
+          "note": "Prices include fees"
+        },
+        {
+          "label": "Concession",
+          "amount": 90,
+          "currency": "AUD",
+          "note": "Prices include fees. Who qualifies is not stated"
+        }
+      ],
+      "priceFrom": 95,
+      "includes": [
+        "Scenic bay cruise",
+        "Waterside viewing of the 9pm fireworks",
+        "One complimentary drink on arrival (soft drink on a child ticket)",
+        "Indoor and outdoor seating, multiple viewing decks and covered areas",
+        "Professional crew"
+      ],
+      "bring": [
+        "Your own food, or pre-order food through Fishermens Wharf restaurant"
+      ],
+      "requirements": "No BYO drinks. Tell the operator in the booking comments if anyone in the group has a disability.",
+      "offer": null,
+      "images": [
+        "https://www.jervisbaywild.com.au/images/jervis-bay-wild-vessel-dusk.webp",
+        "https://www.jervisbaywild.com.au/images/huskisson-wharf-evening.webp"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/jervisbaywild/items/684247/?full-items=yes&flow=1361031"
+      ],
+      "sourceUrl": "https://www.jervisbaywild.com.au/new-years-eve-fireworks-cruise/",
+      "checkNotes": "Weather policy on the page: the fireworks are controlled by the local council or event organiser. If the display is changed, delayed or cancelled for weather or safety reasons, the cruise may still go ahead and no refunds apply. Keep that visible. The card photo of fireworks was left out because it could not be confirmed as the operator's own. priceFrom uses the Adult price; the Concession price is 90."
+    },
+    {
+      "title": "Guided Kayak Tour",
+      "kind": "kayak",
+      "summary": "A 2 hour guided paddle on Currambene Creek, suitable for beginners and families. The tour starts with a boat ride from the wharf past the sand spit to the upper creek, where guides help guests into kayaks. At high tide the paddle goes through the mangroves.",
+      "highlights": [
+        "$75 per person with all equipment included",
+        "Kayak or SUP, paddles, life jackets and an experienced guide",
+        "Arrive at least 15 minutes before departure for a safety briefing",
+        "Runs all year round"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": "All year round",
+      "departsFrom": "Fishermens Wharf Huskisson, left side of the public wharf (look for the large white umbrellas)",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 75,
+          "currency": "AUD",
+          "note": "All equipment included"
+        }
+      ],
+      "priceFrom": 75,
+      "includes": [
+        "Kayak or SUP board",
+        "Paddles and life jackets",
+        "Experienced guide",
+        "Full marine safety equipment"
+      ],
+      "bring": [
+        "Quick-dry clothing (no jeans)",
+        "Swimmers or rash vest",
+        "Enclosed water shoes or straps",
+        "Hat, sunglasses and reef-safe sunscreen",
+        "Drink bottle",
+        "Towel and change of clothes",
+        "Waterproof phone case or dry bag"
+      ],
+      "requirements": "Participants need to be able to swim confidently and follow safety instructions. Beginners welcome.",
+      "offer": null,
+      "images": [
+        "https://www.jervisbaywild.com.au/images/jervis-bay-kayak-tour.webp",
+        "https://www.jervisbaywild.com.au/images/JBW-Guided-Kayaking.webp",
+        "https://www.jervisbaywild.com.au/images/JBW-kayak-hire.webp"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/jervisbaywild/items/619472/?full-items=yes&flow=1365909"
+      ],
+      "sourceUrl": "https://www.jervisbaywild.com.au/guided-kayak-tour/",
+      "checkNotes": "Departure times are not stated; the booking widget was not opened. The page says the tour begins aboard Tripoon (a vessel name). Price is shown on the trip page, the booking box and the tours page, and all agree."
+    },
+    {
+      "title": "Kayak & SUP Hire",
+      "kind": "kayak",
+      "summary": "Kayak and stand up paddle board hire from the public wharf at Huskisson, for paddling Currambene Creek at your own pace. Hire hours are 9am to 3pm, with seven-day hire in December and January and weekends and public holidays from February to November. Guests must be confident swimmers.",
+      "highlights": [
+        "December to January: 9am to 3pm, seven days including public holidays",
+        "February to November: Saturdays, Sundays and public holidays",
+        "Subject to equipment availability on the day",
+        "Sheltered Currambene Creek"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "All year. December to January 9am to 3pm seven days including public holidays; February to November Saturdays, Sundays and public holidays",
+      "departsFrom": "Public wharf, Huskisson, left side of the wharf near Fishermens Wharf Restaurant",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [
+        "Confident swimming ability",
+        "Protective clothing and hat",
+        "Swimwear and towel",
+        "Sunglasses and sunscreen",
+        "Water bottle",
+        "Camera"
+      ],
+      "requirements": "You must be a confident swimmer to book this hire.",
+      "offer": null,
+      "images": [
+        "https://www.jervisbaywild.com.au/images/jervis-bay-kayak-tour.webp"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/jervisbaywild/items/619463/?full-items=yes&flow=1365909"
+      ],
+      "sourceUrl": "https://www.jervisbaywild.com.au/kayak-sup-hire/",
+      "checkNotes": "Hire prices and hire period lengths are not on the site (booking widget only, not opened). Hours and days are from the trip page; the page title block says 'All year, see hire days'."
+    },
+    {
+      "title": "E-Bike Hire",
+      "kind": "other",
+      "summary": "E-bike hire from the public wharf at Huskisson for the Round the Bay track, which runs from Huskisson to Plantation Point past beaches and through Huskisson and Vincentia. Hire hours are 8am to 4pm, seven days in December and January and weekends and public holidays from February to November.",
+      "highlights": [
+        "Round the Bay track from Huskisson to Plantation Point",
+        "Through the villages of Huskisson and Vincentia",
+        "December to January: 8am to 4pm, seven days including public holidays",
+        "February to November: Saturdays, Sundays and public holidays"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "All year. December to January 8am to 4pm seven days including public holidays; February to November Saturdays, Sundays and public holidays",
+      "departsFrom": "Public wharf, Huskisson, left side of the wharf near Fishermens Wharf Restaurant",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [
+        "Protective clothing and hat",
+        "Enclosed shoes",
+        "Sunglasses and sunscreen",
+        "Water bottle"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.jervisbaywild.com.au/images/JBW-ebike-hire.webp"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/jervisbaywild/items/619471/?full-items=yes&flow=1365909"
+      ],
+      "sourceUrl": "https://www.jervisbaywild.com.au/e-bike-hire/",
+      "checkNotes": "Hire prices and hire period lengths are not on the site (booking widget only, not opened). Subject to equipment availability on the day."
+    },
+    {
+      "title": "Push Bike Hire",
+      "kind": "other",
+      "summary": "Push bike hire from the public wharf at Huskisson for the White Sands Walk, a coastal path of 7km (14km return) past seven white sand beaches. Hire hours are 8am to 4pm, seven days in December and January and weekends and public holidays from February to November.",
+      "highlights": [
+        "White Sands Walk, 7km (14km return)",
+        "Seven white sand beaches along the path",
+        "December to January: 8am to 4pm, seven days including public holidays",
+        "February to November: Saturdays, Sundays and public holidays"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "All year. December to January 8am to 4pm seven days including public holidays; February to November Saturdays, Sundays and public holidays",
+      "departsFrom": "Public wharf, Huskisson, left side of the wharf near Fishermens Wharf Restaurant",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [
+        "Protective clothing and hat",
+        "Enclosed shoes",
+        "Sunglasses and sunscreen",
+        "Water bottle"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.jervisbaywild.com.au/images/huskisson-push-bike-hire.webp"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/jervisbaywild/items/688043/?full-items=yes&flow=1365909"
+      ],
+      "sourceUrl": "https://www.jervisbaywild.com.au/push-bike-hire/",
+      "checkNotes": "Hire prices and hire period lengths are not on the site (booking widget only, not opened). Subject to equipment availability on the day."
+    },
+    {
+      "title": "Luxury Private Charters",
+      "kind": "charter",
+      "summary": "Private charters for 1 to 12 guests on Discover, a 38ft Seawind 1160 sailing catamaran, with a professional skipper and crew included. Itineraries are built around the occasion and can include swim stops in secluded bays and a long lunch on the water. Bucks parties are not taken.",
+      "highlights": [
+        "Exclusive use of the vessel, skipper and crew included",
+        "Forward trampolines, galley with onboard BBQ and Bluetooth sound system",
+        "Swim stops in secluded bays",
+        "Available all year"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Available all year",
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Professional skipper and crew",
+        "Indoor and outdoor entertaining areas",
+        "Fully equipped galley and onboard BBQ",
+        "Premium Bluetooth sound system"
+      ],
+      "bring": [],
+      "requirements": "1 to 12 guests. The operator does not take bucks parties.",
+      "offer": null,
+      "images": [
+        "https://www.jervisbaywild.com.au/images/discover-swim-stop.webp",
+        "https://www.jervisbaywild.com.au/images/discover-under-sail.webp",
+        "https://www.jervisbaywild.com.au/images/discover-charter-catering.webp",
+        "https://www.jervisbaywild.com.au/images/discover.webp"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/jervisbaywild/items/742502/?full-items=yes&flow=1365909"
+      ],
+      "sourceUrl": "https://www.jervisbaywild.com.au/luxury-private-charters/",
+      "checkNotes": "No prices or charter lengths on the site (booking widget only, not opened). Guest numbers conflict: this page, the home page and the tours page say 1 to 12, while a card on the Private Tours page says 1 to 20; used 1 to 12. Departure point is not stated on this page. Described as new on the home page."
+    },
+    {
+      "title": "Private Tours",
+      "kind": "charter",
+      "summary": "Whole-vessel private tours planned around the occasion, group size and date. The vessels are Tekin III for larger groups, Adventure for up to 48 guests with beach landings, and the sailing catamaran Discover. Guests enquire with the crew, who recommend a vessel and itinerary.",
+      "highlights": [
+        "Tekin III, the main large vessel for hire",
+        "Adventure holds 48 guests and makes beach landings",
+        "Discover, a luxury sailing catamaran",
+        "Catering, photo stops and timing built around your day"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "All year round",
+      "departsFrom": "Public wharf, Huskisson, near Fishermens Wharf Restaurant",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.jervisbaywild.com.au/images/Jervis-Bay-Wild_Private-Wedding-Tours.webp",
+        "https://www.jervisbaywild.com.au/images/JervisBayWild-jervisBayPassage-Honeymoon-Bay.webp",
+        "https://www.jervisbaywild.com.au/images/JBW-Drone-22-.webp",
+        "https://www.jervisbaywild.com.au/images/discover.webp"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.jervisbaywild.com.au/private-tours/",
+      "checkNotes": "Enquiry only, with no prices or booking link on the page. Discover is listed as 1 to 12 guests in the fleet list and 1 to 20 on one card; see Luxury Private Charters. Weddings and conferences use these vessels; they are listed under offers."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Free cancellation more than 72 hours before a cruise",
+      "conditions": "Within 72 hours the full fare is charged; no show means no refund; a late guest can be moved to another day or time. Private charters: no refund if cancelled within 30 days of the departure date. Catering: the full fee is charged within 7 days. The home page marks the free cancellation line with an asterisk.",
+      "validUntil": null,
+      "sourceUrl": "https://www.jervisbaywild.com.au/terms/"
+    },
+    {
+      "text": "Gift cards",
+      "conditions": "Sold through the booking system; terms are not shown on the pages read.",
+      "validUntil": null,
+      "sourceUrl": "https://www.jervisbaywild.com.au/contact/"
+    },
+    {
+      "text": "Season Pass",
+      "conditions": "Linked from the site menu to the booking system; what it includes and its price are not shown on the pages read.",
+      "validUntil": null,
+      "sourceUrl": "https://www.jervisbaywild.com.au/"
+    },
+    {
+      "text": "Wedding cruises, with a reception option at Fishermens Wharf (fully licensed, room for 100 guests)",
+      "conditions": "Enquiry only, no prices shown. Ceremonies leave from the public wharf at Huskisson; the reception venue is at 15 Field Street.",
+      "validUntil": null,
+      "sourceUrl": "https://www.jervisbaywild.com.au/weddings/"
+    },
+    {
+      "text": "Conference and offsite cruises, with a function option at Fishermens Wharf (fully licensed, room for 100 guests)",
+      "conditions": "Enquiry only, no prices shown.",
+      "validUntil": null,
+      "sourceUrl": "https://www.jervisbaywild.com.au/conferences/"
+    }
+  ],
+  "checkNotes": "Booking is through FareHarbor, not Rezdy, so rezdyAlias is null. FareHarbor pages were not opened; every booking link above was copied from the operator's own pages, and the all-trips link is https://fareharbor.com/embeds/book/jervisbaywild/?full-items=yes. Fares for the Whale Cruise, Dolphin Cruise, Jervis Bay Passage, Sunset River Cruise, Sundowners Bay Cruise, Stargazing Sea and Sky Cruise, the three hire items and Luxury Private Charters are not on the site; they appear only inside the booking widget. Five trips have prices on the site (Swim with Whales, Swim with Dolphins, South Coast Passage, New Year's Eve cruise, Guided Kayak Tour); the page does not always say whether GST is included (stated only for Swim with Dolphins). Contact details: phone shown on the site as (02) 4441 7002. The address is inconsistent on the site: the contact page, FAQ and trip pages give the booking office as 58 Owen Street, Huskisson, the footer gives 15 Field Street, Huskisson NSW 2540 (Fishermens Wharf, used as the meeting point on some trips), and the structured data gives 58 Owen Street. Check-in time conflicts: trip pages and FAQ say 30 minutes before departure, the contact page says at least 15 minutes. Office hours: Monday to Friday 8am to 4pm, Saturday 8am to 3.30pm, Sunday 8am to 2.30pm. Not included: Pontoon Hire and Boat Hire (they link out to separate sites, huskissonpontoons.com.au and jervisbayboathire.com.au, which were not read), and the sister brands under 'The Wild Family' (Shellharbour Wild, Batemans Bay Wild, Sydney Whale Whisperer) which run other locations. The site also shows a Google review score and uses words such as award-winning and largest fleet; none of that is repeated here. Standout claims come from the site itself and have not been checked with the certifier or the permit authority. Several newer pages have long descriptive image captions and 'v2' file names, and photos could not be viewed (nothing is downloaded), so a person should look at the Swim with Whales and Swim with Dolphins photos to confirm they are the operator's own."
+}

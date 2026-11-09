@@ -1,0 +1,473 @@
+{
+  "slug": "rise-eboard-rentals",
+  "name": "Rise Eboard Rentals (Play Bay Entertainment)",
+  "website": "https://www.riseeboardrentals.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Maxwell",
+  "category": "Water sports rentals",
+  "summary": "Play Bay Entertainment, which trades online as Rise Eboard Rentals, runs a water sports base on Maxwell Coast Road in Christ Church, across from the Sun Bay Hotel. It rents Radinn electric surfboards and eFoils, which can be delivered to you, along with kayaks, paddle boards, Hobie Cat and Sunfish sailing, and towed and motorised water sports. Everything is booked online.",
+  "standouts": [
+    "Radinn electric surfboards, up to 60 km an hour",
+    "Boost Fin electric propeller for paddle boards and surfboards",
+    "Electric surfboards and eFoils delivered to you for a $50 fee",
+    "All prices in US dollars"
+  ],
+  "contact": {
+    "phone": null,
+    "email": "info@riseeboardrentals.com",
+    "address": "Maxwell Coast Road, Christ Church, Barbados (across from Sun Bay Hotel)",
+    "whatsapp": "https://api.whatsapp.com/send?phone=14168565328"
+  },
+  "heroImage": "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/36dc54ea-eba5-4825-8c48-ad01a2c89bdf/PHOTO-2024-01-31-20-41-42.jpg",
+  "sourceUrls": [
+    "https://www.riseeboardrentals.com/",
+    "https://www.riseeboardrentals.com/sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Electric Surfing",
+      "kind": "other",
+      "summary": "Ride a Radinn electric surfboard, steered and throttled with a handheld remote. The boards reach up to 60 km an hour and can be delivered to you for a fee.",
+      "highlights": [
+        "Radinn electric surfboards",
+        "Speed up to 60 km an hour",
+        "Handheld remote for speed and turns",
+        "Delivery available for a $50 fee"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Play Bay, Maxwell Coast Road, Christ Church (across from Sun Bay Hotel)",
+      "prices": [
+        {
+          "label": "Delivery fee",
+          "amount": 50,
+          "currency": "USD",
+          "note": "Delivery fee for electric board and eFoil"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/fb05c3c1-23db-42a2-b83a-852c95da0f61/electric-surf-board-2.png"
+      ],
+      "bookingLinks": [
+        "https://riseeboardrentals.as.me/schedule.php?appointmentType=category%3AElectric%20Surfboards"
+      ],
+      "sourceUrl": "https://www.riseeboardrentals.com/",
+      "checkNotes": "Prices, durations and times are only shown in the Acuity booking pages (riseeboardrentals.as.me), which are not the operator's own site and were not read. The site says all prices are in US dollars. The $50 is a delivery fee, not the rental price."
+    },
+    {
+      "title": "eFoil",
+      "kind": "other",
+      "summary": "Electric hydrofoil board rental. Like the electric surfboards, the eFoil can be delivered to you for a fee.",
+      "highlights": [
+        "Delivery available for a $50 fee"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Play Bay, Maxwell Coast Road, Christ Church (across from Sun Bay Hotel)",
+      "prices": [
+        {
+          "label": "Delivery fee",
+          "amount": 50,
+          "currency": "USD",
+          "note": "Delivery fee for electric board and eFoil"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/2d23beea-4077-46bc-970b-16b4935e0ea2/efoil3.png"
+      ],
+      "bookingLinks": [
+        "https://riseeboardrentals.as.me/efoil"
+      ],
+      "sourceUrl": "https://www.riseeboardrentals.com/",
+      "checkNotes": "Prices, durations and times are only shown in the Acuity booking pages (riseeboardrentals.as.me), which are not the operator's own site and were not read. The site says all prices are in US dollars. The $50 is a delivery fee, not the rental price."
+    },
+    {
+      "title": "Paddle Board with Boost Fin",
+      "kind": "other",
+      "summary": "Stand up paddle board rental, with the option of a Boost Fin. The Boost Fin is a remote controlled electric propeller that clips to the board to help you catch a wave or cruise along more smoothly.",
+      "highlights": [
+        "Remote controlled electric propeller",
+        "Fits a stand up paddle board or surfboard"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Play Bay, Maxwell Coast Road, Christ Church (across from Sun Bay Hotel)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/67f13716-896b-42c4-a9ba-d5ed788593ac/Paddle-Board-with-Boost-Fin.png"
+      ],
+      "bookingLinks": [
+        "https://riseeboardrentals.as.me/paddle-boards"
+      ],
+      "sourceUrl": "https://www.riseeboardrentals.com/",
+      "checkNotes": "Prices, durations and times are only shown in the Acuity booking pages (riseeboardrentals.as.me), which are not the operator's own site and were not read. The site says all prices are in US dollars."
+    },
+    {
+      "title": "Single or Double Kayak",
+      "kind": "kayak",
+      "summary": "Single and double kayak rental from the Play Bay beach base on the south coast.",
+      "highlights": [
+        "Single or double kayaks"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Play Bay, Maxwell Coast Road, Christ Church (across from Sun Bay Hotel)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/3e48108b-d8da-4bf8-aade-4180546260d8/kayaking.png"
+      ],
+      "bookingLinks": [
+        "https://riseeboardrentals.as.me/kayaks"
+      ],
+      "sourceUrl": "https://www.riseeboardrentals.com/",
+      "checkNotes": "Prices, durations and times are only shown in the Acuity booking pages (riseeboardrentals.as.me), which are not the operator's own site and were not read. The site says all prices are in US dollars."
+    },
+    {
+      "title": "Kayak Tours",
+      "kind": "kayak",
+      "summary": "Kayak tours from the Play Bay beach base. The site gives no route or length.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Play Bay, Maxwell Coast Road, Christ Church (across from Sun Bay Hotel)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/36dc54ea-eba5-4825-8c48-ad01a2c89bdf/PHOTO-2024-01-31-20-41-42.jpg"
+      ],
+      "bookingLinks": [
+        "https://riseeboardrentals.as.me/tours"
+      ],
+      "sourceUrl": "https://www.riseeboardrentals.com/",
+      "checkNotes": "Prices, durations and times are only shown in the Acuity booking pages (riseeboardrentals.as.me), which are not the operator's own site and were not read. The site says all prices are in US dollars."
+    },
+    {
+      "title": "Wing Foil",
+      "kind": "other",
+      "summary": "Wing foil sessions booked online from the Play Bay base.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Play Bay, Maxwell Coast Road, Christ Church (across from Sun Bay Hotel)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/c6adfbab-b7ce-4178-afef-3ba92015dbf4/wingfoil.png"
+      ],
+      "bookingLinks": [
+        "https://riseeboardrentals.as.me/wing-foil"
+      ],
+      "sourceUrl": "https://www.riseeboardrentals.com/",
+      "checkNotes": "Prices, durations and times are only shown in the Acuity booking pages (riseeboardrentals.as.me), which are not the operator's own site and were not read. The site says all prices are in US dollars. Site does not say whether this is a rental or a lesson."
+    },
+    {
+      "title": "Fly Board",
+      "kind": "other",
+      "summary": "Fly board sessions booked online from the Play Bay base.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Play Bay, Maxwell Coast Road, Christ Church (across from Sun Bay Hotel)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/7412a394-736f-4c1d-a308-e93f02ac3a67/Flyboard.png"
+      ],
+      "bookingLinks": [
+        "https://riseeboardrentals.as.me/fly-board"
+      ],
+      "sourceUrl": "https://www.riseeboardrentals.com/",
+      "checkNotes": "Prices, durations and times are only shown in the Acuity booking pages (riseeboardrentals.as.me), which are not the operator's own site and were not read. The site says all prices are in US dollars."
+    },
+    {
+      "title": "Jetovator",
+      "kind": "other",
+      "summary": "Jetovator sessions booked online from the Play Bay base.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Play Bay, Maxwell Coast Road, Christ Church (across from Sun Bay Hotel)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/29b3f01a-fc80-422c-9ada-911d9b17af24/jetovator.png"
+      ],
+      "bookingLinks": [
+        "https://riseeboardrentals.as.me/jetovator"
+      ],
+      "sourceUrl": "https://www.riseeboardrentals.com/",
+      "checkNotes": "Prices, durations and times are only shown in the Acuity booking pages (riseeboardrentals.as.me), which are not the operator's own site and were not read. The site says all prices are in US dollars."
+    },
+    {
+      "title": "Tarzan Boat",
+      "kind": "other",
+      "summary": "Tarzan Boat sessions booked online from the Play Bay base.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Play Bay, Maxwell Coast Road, Christ Church (across from Sun Bay Hotel)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://riseeboardrentals.as.me/tarzan-boat"
+      ],
+      "sourceUrl": "https://www.riseeboardrentals.com/",
+      "checkNotes": "Prices, durations and times are only shown in the Acuity booking pages (riseeboardrentals.as.me), which are not the operator's own site and were not read. The site says all prices are in US dollars."
+    },
+    {
+      "title": "JetSki",
+      "kind": "other",
+      "summary": "Jet ski sessions booked online from the Play Bay base.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Play Bay, Maxwell Coast Road, Christ Church (across from Sun Bay Hotel)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/4b99e469-681f-4155-9a6f-90882ee35683/image-asset.png"
+      ],
+      "bookingLinks": [
+        "https://riseeboardrentals.as.me/jetski"
+      ],
+      "sourceUrl": "https://www.riseeboardrentals.com/",
+      "checkNotes": "Prices, durations and times are only shown in the Acuity booking pages (riseeboardrentals.as.me), which are not the operator's own site and were not read. The site says all prices are in US dollars. Jet ski tour. The site does not say whether this is a rental or a guided ride."
+    },
+    {
+      "title": "Seabob",
+      "kind": "other",
+      "summary": "Seabob sessions booked online from the Play Bay base.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Play Bay, Maxwell Coast Road, Christ Church (across from Sun Bay Hotel)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/efabac32-662c-4a9d-afc9-5890e323fb59/image-asset.png"
+      ],
+      "bookingLinks": [
+        "https://riseeboardrentals.as.me/seabob"
+      ],
+      "sourceUrl": "https://www.riseeboardrentals.com/",
+      "checkNotes": "Prices, durations and times are only shown in the Acuity booking pages (riseeboardrentals.as.me), which are not the operator's own site and were not read. The site says all prices are in US dollars."
+    },
+    {
+      "title": "Wake Boarding / Water Sking / Hydrofoil",
+      "kind": "other",
+      "summary": "Towed water sports behind a boat: wakeboarding, water skiing and hydrofoil, booked online from the Play Bay base.",
+      "highlights": [
+        "Wakeboarding",
+        "Water skiing",
+        "Hydrofoil"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Play Bay, Maxwell Coast Road, Christ Church (across from Sun Bay Hotel)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/34959068-f828-48ae-9733-bbe99d9cb1f7/9-wakeboarding.png"
+      ],
+      "bookingLinks": [
+        "https://riseeboardrentals.as.me/wake-boarding"
+      ],
+      "sourceUrl": "https://www.riseeboardrentals.com/",
+      "checkNotes": "Prices, durations and times are only shown in the Acuity booking pages (riseeboardrentals.as.me), which are not the operator's own site and were not read. The site says all prices are in US dollars."
+    },
+    {
+      "title": "Hobie Cat",
+      "kind": "sail",
+      "summary": "Hobie Cat sailing booked online from the Play Bay base.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Play Bay, Maxwell Coast Road, Christ Church (across from Sun Bay Hotel)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/3a8980e9-60bc-4db8-bdb8-1e2f88135ba8/hobbieHat.jpg"
+      ],
+      "bookingLinks": [
+        "https://riseeboardrentals.as.me/hobie-cat"
+      ],
+      "sourceUrl": "https://www.riseeboardrentals.com/",
+      "checkNotes": "Prices, durations and times are only shown in the Acuity booking pages (riseeboardrentals.as.me), which are not the operator's own site and were not read. The site says all prices are in US dollars. Site does not say whether this is a rental or a skippered sail."
+    },
+    {
+      "title": "Sunfish",
+      "kind": "sail",
+      "summary": "Sunfish sailing booked online from the Play Bay base.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Play Bay, Maxwell Coast Road, Christ Church (across from Sun Bay Hotel)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/24d92821-dcc6-4e29-89b4-fab1321e8e19/image-asset.png"
+      ],
+      "bookingLinks": [
+        "https://riseeboardrentals.as.me/sunfish"
+      ],
+      "sourceUrl": "https://www.riseeboardrentals.com/",
+      "checkNotes": "Prices, durations and times are only shown in the Acuity booking pages (riseeboardrentals.as.me), which are not the operator's own site and were not read. The site says all prices are in US dollars. Site does not say whether this is a rental or a lesson."
+    },
+    {
+      "title": "Glass Bottom Boat",
+      "kind": "cruise",
+      "summary": "Glass bottom boat trips booked online from the Play Bay base.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Play Bay, Maxwell Coast Road, Christ Church (across from Sun Bay Hotel)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/b90c3d58-afed-48a6-bbb1-edf85993d101/11-glass-bottom-boat.png"
+      ],
+      "bookingLinks": [
+        "https://riseeboardrentals.as.me/glass-bottom-boat"
+      ],
+      "sourceUrl": "https://www.riseeboardrentals.com/",
+      "checkNotes": "Prices, durations and times are only shown in the Acuity booking pages (riseeboardrentals.as.me), which are not the operator's own site and were not read. The site says all prices are in US dollars."
+    },
+    {
+      "title": "Scuba Lessons",
+      "kind": "course",
+      "summary": "Scuba lessons booked online from the Play Bay base.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Play Bay, Maxwell Coast Road, Christ Church (across from Sun Bay Hotel)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/635ea2bbcdb9bb0bdd723179/689e9bd4-4ce8-450f-8d3d-e1720c75cfc3/image-asset.png"
+      ],
+      "bookingLinks": [
+        "https://riseeboardrentals.as.me/scuba-lessons"
+      ],
+      "sourceUrl": "https://www.riseeboardrentals.com/",
+      "checkNotes": "Prices, durations and times are only shown in the Acuity booking pages (riseeboardrentals.as.me), which are not the operator's own site and were not read. The site says all prices are in US dollars. Site does not say who teaches the lessons or what certification, if any, they lead to."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift cards available for purchase",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://www.riseeboardrentals.com/"
+    },
+    {
+      "text": "Beach chair packages available with water sports",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://www.riseeboardrentals.com/"
+    }
+  ],
+  "checkNotes": "The operator's own site is a single home page of activity tiles; every activity links out to an Acuity scheduler (riseeboardrentals.as.me), and /water-sports redirects there too. Those pages are not the operator's own domain, so no prices, durations or times were read and every trip has prices []. The only phone shown is a WhatsApp link to +1 416 856 5328 (a Canadian number), plus a WhatsApp group invite; our list's +1 246 254 5328 is not on the site, so phone is null. Location on the site is Maxwell Coast Road, Christ Church, across from Sun Bay Hotel, not Speightstown as in our list; the site's live cam link points to a Paynes Bay camera run by another company. Fishing tours and luxury power boat coastal tours tiles link to other businesses' websites (barbadosfishingadventures.com, unseenbarbados.com) and were left out. The site also sells burgers (Rebell Burger Bar), sunscreen and beach toys. Activity tiles are mostly graphics, so trip images may be text-on-image tiles."
+}

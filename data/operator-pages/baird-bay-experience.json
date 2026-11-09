@@ -1,0 +1,159 @@
+{
+  "slug": "baird-bay-experience",
+  "name": "Baird Bay Experience",
+  "website": "https://bairdbay.com",
+  "rezdyAlias": "bairdbaycoastalsafariptyltd",
+  "state": "SA",
+  "town": "Baird Bay",
+  "category": "Sea lion & dolphin swims",
+  "summary": "Baird Bay Experience runs small group swims with wild Australian sea lions and dolphins in Baird Bay, on the west coast of South Australia's Eyre Peninsula. Tours run Thursday to Monday from October to April, and a two-course lunch from the onsite restaurant can be added. Two self-contained seaside villas on the property are open all year.",
+  "standouts": [
+    "ECO Certified by Ecotourism Australia, inducted into its Hall of Fame in 2025",
+    "Running tours at Baird Bay since 1992",
+    "Small groups, maximum 20 passengers on board",
+    "Works with the Department for Environment and Water on counts of the endangered Australian sea lion colony"
+  ],
+  "contact": {
+    "phone": "08 8351 1489",
+    "email": "info@bairdbay.com",
+    "address": "33 Baird Bay Rd, Baird Bay SA 5671"
+  },
+  "heroImage": "https://bairdbay.com/wp-content/uploads/2025/05/Sea-Lion-Swim-Tour-Robert-Lang-Photography-AIS24-1-scaled.jpg",
+  "sourceUrls": [
+    "https://bairdbay.com/",
+    "https://bairdbay.com/ocean-tours/",
+    "https://bairdbay.com/ocean-tours/ocean-tours-faq/",
+    "https://bairdbay.com/seaside-villas/",
+    "https://bairdbay.com/fishing-the-western-eyre-peninsula/",
+    "https://bairdbay.com/about-baird-bay/",
+    "https://bairdbay.com/about-baird-bay/sustainability-and-eco-tourism/",
+    "https://bairdbay.com/contact-us/",
+    "https://bairdbay.com/terms-and-conditions/",
+    "https://bairdbay.com/homepage2/",
+    "https://bairdbay.com/page-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Sea Lion & Dolphin Swim",
+      "kind": "swim",
+      "summary": "A small group boat trip to Jones Island, where you snorkel with a colony of wild Australian sea lions in mostly shallow water, then cross the bay to look for wild dolphins and swim with them in deeper water. The animals are not fed and any contact happens on their terms. You can stay on the boat on a non-swimming fare, and a two-course lunch can be added.",
+      "highlights": [
+        "Wild Australian sea lions at Jones Island",
+        "Dolphin swim in deeper water across the bay",
+        "Maximum of 20 passengers on board",
+        "About 15 minutes by boat to the swim area"
+      ],
+      "duration": "4 to 5 hour ocean experience, about 2 to 3 hours on the water",
+      "durationMinutes": null,
+      "departureTimes": [
+        "09:45"
+      ],
+      "season": "Thursday to Monday, 1 October to 30 April, weather permitting",
+      "departsFrom": "Baird Bay Experience, 33 Baird Bay Rd, Baird Bay (arrive 9:00am to check in)",
+      "prices": [
+        {
+          "label": "Adult Swimming",
+          "amount": 300,
+          "currency": "AUD",
+          "note": "2026/27 rate, valid until 30 April 2027"
+        },
+        {
+          "label": "Adult Non-Swimming",
+          "amount": 280,
+          "currency": "AUD",
+          "note": "2026/27 rate, valid until 30 April 2027"
+        },
+        {
+          "label": "Child (Under 17) Swimming",
+          "amount": 210,
+          "currency": "AUD",
+          "note": "2026/27 rate, valid until 30 April 2027"
+        },
+        {
+          "label": "Child (Under 17) Non-Swimming",
+          "amount": 170,
+          "currency": "AUD",
+          "note": "2026/27 rate, valid until 30 April 2027"
+        },
+        {
+          "label": "Adult Swimming with Two-Course Lunch",
+          "amount": 335,
+          "currency": "AUD",
+          "note": "2026/27 rate, valid until 30 April 2027"
+        },
+        {
+          "label": "Adult Non-Swimming with Two-Course Lunch",
+          "amount": 310,
+          "currency": "AUD",
+          "note": "2026/27 rate, valid until 30 April 2027"
+        },
+        {
+          "label": "Child (Under 17) Swimming with Two-Course Lunch",
+          "amount": 230,
+          "currency": "AUD",
+          "note": "2026/27 rate, valid until 30 April 2027"
+        },
+        {
+          "label": "Child (Under 17) Non-Swimming with Two-Course Lunch",
+          "amount": 190,
+          "currency": "AUD",
+          "note": "2026/27 rate, valid until 30 April 2027"
+        },
+        {
+          "label": "Lunch added on the day, adult",
+          "amount": 60,
+          "currency": "AUD",
+          "note": "Per person"
+        },
+        {
+          "label": "Lunch added on the day, child (under 17)",
+          "amount": 30,
+          "currency": "AUD",
+          "note": "Per child"
+        }
+      ],
+      "priceFrom": 280,
+      "includes": [
+        "Small group experience with a maximum of 20 passengers onboard",
+        "Experienced local skipper and guides",
+        "Wetsuit, mask and snorkel provided (5mm wetsuits and hoods, booties available)",
+        "Safety briefing and equipment fitting",
+        "Commentary on local wildlife, marine life and the Eyre Peninsula coastline",
+        "Onboard refreshments",
+        "Secure lockers, private change rooms and hot water showers",
+        "Free onsite parking",
+        "Two-course lunch for guests who pre-purchased the lunch option"
+      ],
+      "bring": [
+        "A warm, windproof jacket for after the swim",
+        "Camera",
+        "Towel",
+        "Swimwear",
+        "Mineral-based sunscreen before swimming",
+        "A change of warm clothes (sightseers also get wet wading out to the boat)"
+      ],
+      "requirements": "Swimmers should be able to swim about 50 metres in a pool and be comfortable with a mask and snorkel. Minimum swimming age 3; infants stay on board. Children must be accompanied by an adult, no more than 2 children per adult. October and April tours are generally not recommended for children under 12. No selfie sticks or fins in the water. Swimming not recommended if pregnant or wearing a pacemaker, as guides wear shark shields.",
+      "offer": null,
+      "images": [
+        "https://bairdbay.com/wp-content/uploads/2025/05/Sea-Lion-Swim-Tour-2-Robert-Lang-Photography-AIS24-scaled.jpg",
+        "https://bairdbay.com/wp-content/uploads/2025/05/9C.jpg",
+        "https://bairdbay.com/wp-content/uploads/2025/05/Baird_Bay_Experience-131.jpg",
+        "https://bairdbay.com/wp-content/uploads/2025/05/Baird_Bay_Experience-210.jpg"
+      ],
+      "bookingLinks": [
+        "https://bairdbaycoastalsafariptyltd.rezdy.com/"
+      ],
+      "sourceUrl": "https://bairdbay.com/ocean-tours/",
+      "checkNotes": "Rates from the 'Times & Rates' section of the ocean tours page; the homepage agrees on $300 swim, $335 swim with lunch (adult) and $230 swim with lunch (child). Child age is stated three ways: 'Child, 17 and under' (homepage), 'Child (Under 17)' (rates) and 'aged 17 or younger' (terms). Lunch added on the day for children is '$30 per child aged 12 and under' on the homepage but 'Children (under 17): $30' on the ocean tours page. priceFrom is the Adult Non-Swimming fare ($280); the homepage headline is 'from $300 per adult' for swimmers. durationMinutes left null because the site gives a range (4 to 5 hours). Group size: 'maximum of 20 passengers onboard' (ocean tours) and 'fewer than 14 guests per guide' (sustainability page). Wildlife not guaranteed; if no swim happens, swim fares are refunded down to the non-swimming fare. Water is 10 to 14 degrees in spring and autumn and 16 to 18 in summer; best months mid-November to mid-March per the FAQ. Boat is described as wheelchair friendly, tide permitting. Image file names credit Robert Lang Photography."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Vouchers available for any amount, to use against the price of a booking",
+      "conditions": "Non-refundable and not redeemable for cash; expiry date shown on the voucher; can be transferred to another name with written approval",
+      "validUntil": null,
+      "sourceUrl": "https://bairdbay.com/terms-and-conditions/"
+    }
+  ],
+  "checkNotes": "One tour product on the site, sold as swimming or non-swimming fares with or without lunch; recorded as a single trip with every price option. Seaside villas (Selkie sleeps up to 6, Eko up to 8) are open all year with a minimum 2-night stay, but no villa rates are shown and the 'Book Seaside Villas' menu link goes nowhere; not recorded as a trip. The terms list 'private tours, and fishing charters' as tour types, but no page sells them; the fishing page says they connect guests with local guides. Vouchers are only mentioned in the terms; no purchase page found. The only booking link on the site is the Rezdy storefront root, no product-level links. Business name on the terms: Baird Bay Coastal Safari PTY LTD trading as Baird Bay Experience. Homepage carries a notice that Baird Bay is unaffected by the South Australian algal bloom. /homepage2/ is an old homepage still live and in the sitemap, saying the swim season is closed until October 2026; ignored. Site images are served through a NitroCDN mirror; the direct bairdbay.com/wp-content URLs used here also appear on the ocean tours page."
+}

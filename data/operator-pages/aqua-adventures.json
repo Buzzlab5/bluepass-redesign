@@ -1,0 +1,584 @@
+{
+  "slug": "aqua-adventures",
+  "name": "Aqua Adventures",
+  "website": "https://aquaadventures.com.au",
+  "rezdyAlias": "aquaadventures",
+  "state": "QLD",
+  "town": "Southport",
+  "category": "Whale tours and diving",
+  "summary": "Aqua Adventures runs whale watching and whale swim trips, island eco cruises, snorkel tours and guided dives from its centre at 95 Marine Parade, Southport on the Gold Coast. Whale trips run in the humpback season on small boats, and the dive and snorkel trips go to Wave Break Island, the Scottish Prince wreck and offshore reefs. The business was formed by combining several long-running Gold Coast ocean companies.",
+  "standouts": [
+    "Describes itself as a PADI 5 Star Instructor Development Centre, in business for more than 30 years under its earlier name Surfers Paradise Divers",
+    "Small boat whale tours with optional whale research activities for guests",
+    "Names Humpbacks and High-rises, Dolphin Research Australia and Sea Shepherd as research projects it supports",
+    "Stand-by ticket offered if no whales are spotted on a designated whale watch tour between June and September"
+  ],
+  "contact": {
+    "phone": "+61 7 5591 7117",
+    "email": "info@aquaadventures.com.au",
+    "address": "95 Marine Parade, Southport QLD 4215"
+  },
+  "heroImage": "https://aquaadventures.com.au/wp-content/uploads/2021/02/swim-with-whales-gold-coast-1.jpg",
+  "sourceUrls": [
+    "https://aquaadventures.com.au/",
+    "https://aquaadventures.com.au/book-now/",
+    "https://aquaadventures.com.au/whale-watching-gold-coast/",
+    "https://aquaadventures.com.au/whale-watching-gold-coast/whale-watching-sailboat-cruise/",
+    "https://aquaadventures.com.au/boutique-whale-watching-tour/",
+    "https://aquaadventures.com.au/whale-watching-gold-coast/private-charter-gold-coast/",
+    "https://aquaadventures.com.au/aqua-cruise-gold-coast/",
+    "https://aquaadventures.com.au/whale-watching-scuba-adventure-boat-tours-gold-coast-australia/",
+    "https://aquaadventures.com.au/scuba-diving-gold-coast/",
+    "https://aquaadventures.com.au/scuba-diving-gold-coast/beginner-dives-gold-coast/",
+    "https://aquaadventures.com.au/scuba-diving-gold-coast/snorkelling-tour-gold-coast/",
+    "https://aquaadventures.com.au/scuba-diving-gold-coast/beginner-dive-course-gold-coast/",
+    "https://aquaadventures.com.au/scuba-diving-gold-coast/kids-dive-course-gold-coast/",
+    "https://aquaadventures.com.au/scuba-diving-gold-coast/certified-diving-gold-coast/",
+    "https://aquaadventures.com.au/scuba-diving-gold-coast/wave-break-island-scuba-diving/",
+    "https://aquaadventures.com.au/scuba-diving-gold-coast/scottish-prince-wreck-dive/",
+    "https://aquaadventures.com.au/scuba-diving-gold-coast/gold-coast-seaway-drift-dive/",
+    "https://aquaadventures.com.au/scuba-diving-gold-coast/offshore-reef-and-wreck-dive/",
+    "https://aquaadventures.com.au/scuba-diving-gold-coast/open-water-diver-course/",
+    "https://aquaadventures.com.au/scuba-diving-gold-coast/diver-course-gold-coast/",
+    "https://aquaadventures.com.au/sailingandmotoryachtcruises/",
+    "https://aquaadventures.com.au/boat-hire-gold-coast/",
+    "https://aquaadventures.com.au/boat-hire-gold-coast/guided-kayak-tours-gold-coast/",
+    "https://aquaadventures.com.au/fishing-charters/",
+    "https://aquaadventures.com.au/fishing-charters/aqua-fish-fishing-charters/",
+    "https://aquaadventures.com.au/gold-coast-offers/",
+    "https://aquaadventures.com.au/faqs/",
+    "https://aquaadventures.com.au/sitemap_index.xml",
+    "https://aquaadventures.com.au/page-sitemap.xml",
+    "https://www.youtube.com/channel/UCGrIZUwvemXGISAJ8uyPezw/videos"
+  ],
+  "trips": [
+    {
+      "title": "Boutique Whale Watching Tour",
+      "kind": "cruise",
+      "summary": "A two to three hour whale watching cruise from Southport on the Gold Coast, run as a small group with a stated limit of 12 passengers. The crew look for humpback whales in the open ocean beyond the Broadwater, and guests can take part in simple whale research tasks if they want to. Tours leave on selected days in the morning or around midday.",
+      "highlights": [
+        "Small group, with a stated maximum of 12 passengers",
+        "Up to two departures a day on selected days, including a morning and a midday tour",
+        "Optional whale research activities, using survey sheets and a hydrophone",
+        "Stand-by ticket offered if no whales are spotted on a designated tour between June and September"
+      ],
+      "duration": "2.5 hours (approx.), minimum 2 hours and up to 3 hours if whales are not found early",
+      "durationMinutes": 150,
+      "departureTimes": [
+        "09:00",
+        "12:00"
+      ],
+      "season": "June to November",
+      "departsFrom": "Aqua Adventures Centre, 95 Marine Parade, Southport",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Waterproof spray jackets",
+        "Optional whale research activities (survey data sheets and a hydrophone to listen to underwater sounds)",
+        "Printed brochure about humpback whales"
+      ],
+      "bring": [
+        "Sun-smart clothes (hat, sunglasses, sunscreen)",
+        "Warm clothes",
+        "Drinking water (no glass)",
+        "Waterproof bag for phones",
+        "Camera (splash-proof recommended)",
+        "Seasickness medication if needed, taken well before departure"
+      ],
+      "requirements": "Moderate fitness and mobility are needed to board, get off and hold on while the boat is moving. Anyone with a serious medical condition, including pregnancy or a physical disability, should email the operator or check with their doctor before booking. Children under 2 are free and sit on a parent's lap.",
+      "offer": null,
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/elementor/thumbs/IMG_9001_lg-q6wvj99idrthx1jj313ltb59bs2rn2affgieozrhag.jpg"
+      ],
+      "bookingLinks": [
+        "https://aquaadventures.com.au/boutique-whale-watching-tour/"
+      ],
+      "sourceUrl": "https://aquaadventures.com.au/boutique-whale-watching-tour/",
+      "checkNotes": "No current price is shown on the page. The only prices are a '2023 Early Bird Price' of $65 per person (limited time offer) and a private charter for up to 42 people at $2200; both were left out as out of date or tied to a larger boat. Prices and dates sit inside an embedded Rezdy calendar widget (aquaadventures.rezdy.com, calendarWidget 715697, not opened), so the page URL is recorded as the booking link. The page contradicts itself about the boat: the intro says an 8.5m RIB called Big Blue 1 with 12 passengers, while the highlights and vessel text name Game Changer, a 12m catamaran for up to 42 guests. The booking steps also say tours need at least 10 participants to depart. Minimum age is stated differently across the site (12 on the whale watching page, 5 for whale watching on the Aqua Cruise page, and 'children of all ages' in another answer). Season is June to November in the FAQ, June to October in the intro text, and the sighting guarantee covers June to September only. Departure times are as stated (meet 08:30 for 09:00, meet 11:30 for 12:00) but the page says they vary with tides and are on selected days. The title is copied from the page text; the whale watching hub card calls it 'Small Boat Whale Watching Tours'."
+    },
+    {
+      "title": "Swim with Whales",
+      "kind": "swim",
+      "summary": "Swim trips with humpback whales in the Gold Coast whale season. Swimmers get into the water from the boat when whales come close, and the site says the boats have a swim platform or access points for easy entry and exit. Non-swimmers can come as observers on the larger vessel.",
+      "highlights": [
+        "Swim beside humpback whales when they come close to the boat",
+        "Observers can join on the larger boat without swimming",
+        "Minimum age 10 for swimmers",
+        "Whale swim is offered from August to October on private charters"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "August to October (as stated for the private charter swim option)",
+      "departsFrom": "Aqua Adventures Centre, 95 Marine Parade, Southport",
+      "prices": [
+        {
+          "label": "Whale swim add-on on a private charter, per person",
+          "amount": 180,
+          "currency": "AUD",
+          "note": "Optional add-on shown on the private charter page; no standalone swim price found"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "Swimmers must be at least 10 years old. One adult must accompany each child aged 10 to 16 at all times in and out of the water, and two children aged 10 to 16 need two paying adults. Boarding and getting off need a certain level of mobility, and the boats are not wheelchair friendly.",
+      "offer": null,
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2021/02/swim-with-whales-gold-coast-1.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2023/11/19-aqua-adventures-gold-coast-australia.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://aquaadventures.com.au/whale-watching-gold-coast/",
+      "checkNotes": "No booking link and no standalone page. The menu-style link /whale-watching-gold-coast/swim-with-whales-gold-coast/ redirects to the Aria Cruises sailing catamaran page, and /whale-tours-whale-watching/ redirects back to the whale watching hub. The hub lists 'Swim With Whales Tours' with 'Enquire Now' buttons and the Aqua Cruise page describes the swim, so it is treated as enquiry only. The only price is the $180 per person add-on on the private charter page; that charter page has a Rezdy calendar widget (599484) with an optional 'Add any Whale Swimmers' step, so a swim may be bookable through the charter. Minimum age conflicts: 10 for the whale swim on the Aqua Cruise page, 12 for the whale watching tour on the hub FAQ. Season conflicts: the charter page says swims run August to October, while the whale season is June to November. The site does not say what permit the operator holds for swimming with whales. Queensland allows whale swims only for licensed operators, so confirm the licence with the operator before this goes live. The text names Game Changer as the swim platform boat on the hub and Big Blue 1 for charters; boat details differ across pages. Description follows the site only; the site says swimmers can watch the whales underwater as they pass the boat."
+    },
+    {
+      "title": "Private Charter",
+      "kind": "charter",
+      "summary": "Hire Big Blue 1, an 8m semi-inflatable boat, for a private group of up to 12 guests. Options include a private whale watching trip from June to October, a whale swim for the group from August to October, a Broadwater cruise with an island stopover, or a private scuba or snorkelling outing. Charters run any day of the week with a qualified skipper.",
+      "highlights": [
+        "Exclusive use of the boat for up to 12 guests",
+        "Half day from $1190 and full day from $2200",
+        "Optional whale swim at $180 per person",
+        "Other options include a 3 hour Broadwater cruise with island stopover, lunch at Tipplers, and school or research groups"
+      ],
+      "duration": "Half day (4 hours approx.) or full day",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "12:30"
+      ],
+      "season": "Any day of the week. Private whale watching June to October, whale swim August to October",
+      "departsFrom": "Aqua Adventures Centre, 95 Marine Parade, Southport",
+      "prices": [
+        {
+          "label": "Big Blue 1, half day (max 12 people)",
+          "amount": 1190,
+          "currency": "AUD",
+          "note": "Shown as 'from'. Weekends and public holidays have a small surcharge"
+        },
+        {
+          "label": "Big Blue 1, full day (max 12 people)",
+          "amount": 2200,
+          "currency": "AUD",
+          "note": "Shown as 'from'. Weekends and public holidays have a small surcharge"
+        },
+        {
+          "label": "Swim with whales add-on, per person",
+          "amount": 180,
+          "currency": "AUD",
+          "note": "Optional"
+        }
+      ],
+      "priceFrom": 1190,
+      "includes": [
+        "Exclusive use of the boat for up to 12 guests",
+        "Fully qualified skipper"
+      ],
+      "bring": [],
+      "requirements": "Maximum 12 guests. If weather stops the trip, the operator arranges a voucher for a return visit on a future date.",
+      "offer": null,
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/cruise-5-aqua-adventures-gold-coast-australia.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/cruise-4-aqua-adventures-gold-coast-australia.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2021/02/swim-with-whales-gold-coast-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://aquaadventures.com.au/whale-watching-gold-coast/private-charter-gold-coast/"
+      ],
+      "sourceUrl": "https://aquaadventures.com.au/whale-watching-gold-coast/private-charter-gold-coast/",
+      "checkNotes": "The page says 'please call to discuss' (07 5591 7117) but also has booking steps and an embedded Rezdy calendar widget (aquaadventures.rezdy.com, calendarWidget 599484, not opened), so the page URL is recorded as the booking link. The 12:30 departure and the 4 hour length come from the sidebar example ('Arrive 12.00pm, depart 12.30pm, 4 hours approx., $1,190'); other start times were not stated. Catering and extra staff are available on request. Whale watching charter months are given as June to Oct and whale swim as Aug to Oct, which differs from the June to November season stated elsewhere. The Aqua Cruise page (/sailingandmotoryachtcruises/) has a second private charter section on the same boat with a different phone number, (07) 2102 4365, and swim with turtles from November to June; it was not made a separate trip. A card image named SWIM-WATCH.jpg on the hub is the charter card, but it was left out because it may be a graphic."
+    },
+    {
+      "title": "South Stradbroke Island Eco Cruise",
+      "kind": "cruise",
+      "summary": "A two to three hour cruise from Southport through the Gold Coast Broadwater, with a stopover at South Stradbroke Island at Tipplers Cafe or Couran Cove. Dolphins, turtles, rays and dugongs may be seen along the way, and shore birds along the island foreshore. Food and drink on the island are at your own cost.",
+      "highlights": [
+        "2 to 3 hour return Broadwater cruise with an island stopover",
+        "Stopover at South Stradbroke Island, at Tipplers Cafe or Couran Cove",
+        "Chance to see dolphins, turtles, rays and dugongs",
+        "Sheltered vessel with clears to protect from the weather"
+      ],
+      "duration": "2 to 3 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Aqua Adventures, 95 Marine Parade, Southport",
+      "prices": [
+        {
+          "label": "Eco cruise, from",
+          "amount": 119,
+          "currency": "AUD",
+          "note": "Shown as 'from $119'; passenger types are not stated"
+        }
+      ],
+      "priceFrom": 119,
+      "includes": [
+        "Return Broadwater cruise with island stopover"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2025/09/DJI_20250525105332_0487_D-2.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2023/10/img_6548-1024x663-1.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2023/10/6-sea-the-gold-coast-tours-australia-1024x640-2.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2023/10/5-sea-the-gold-coast-tours-australia-1024x606-2.jpg"
+      ],
+      "bookingLinks": [
+        "https://aquaadventures.com.au/sailingandmotoryachtcruises/"
+      ],
+      "sourceUrl": "https://aquaadventures.com.au/sailingandmotoryachtcruises/",
+      "checkNotes": "The page is titled 'Eco Cruise Gold Coast, South Stradbroke Island' and sits under the 'Party Cruise' menu item and tile, but nothing on it describes a party. One Rezdy calendar widget (aquaadventures.rezdy.com, calendarWidget 476024, not opened) sits under the 'Eco Cruise Gold Coast Tour from $119' heading, so the page URL is recorded as the booking link. Check-in is listed as 1.30pm but the departure time is not stated. Season is not stated. The page says food and drink on the island are at own expense. The page also says 'guaranteed sightings of wildlife', which was not repeated. The page mixes in a swim with turtles section and a private charter section, treated separately. This is the closest match to the dolphin eco cruise on the brief; no separate dolphin cruise page exists. The hub and Aqua Cruise page list 'Dolphin & Marine Life Cruises' without a page."
+    },
+    {
+      "title": "Swim with Turtles",
+      "kind": "swim",
+      "summary": "A small group morning trip from Southport to Cook Island to snorkel with turtles, on the 8m boat Big Blue with room for 12 guests. Snorkellers and non-swimming observers can both come. The page gives November to June as the turtle season.",
+      "highlights": [
+        "Small groups of 12 or fewer, on an 8m semi-inflatable boat",
+        "Snorkel with turtles at Cook Island",
+        "Observer tickets for guests who do not swim",
+        "Optional turtle research activities"
+      ],
+      "duration": "3 to 4 hours",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:00"
+      ],
+      "season": "November to June",
+      "departsFrom": "Aqua Adventures, 95 Marine Parade, Southport",
+      "prices": [
+        {
+          "label": "Snorkeller",
+          "amount": 199,
+          "currency": "AUD",
+          "note": "All ages; shown as 'base price' per person"
+        },
+        {
+          "label": "Observer",
+          "amount": 179,
+          "currency": "AUD",
+          "note": "All ages, per person"
+        },
+        {
+          "label": "Family (2 adults and 2 children under 12)",
+          "amount": 695,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 179,
+      "includes": [
+        "Waterproof jackets",
+        "Optional turtle research activities (survey data sheets and a hydrophone)"
+      ],
+      "bring": [
+        "Sun-smart clothes (hat, sunglasses, sunscreen)",
+        "Warm clothes",
+        "Drinking water (no glass)",
+        "Waterproof bag for phones",
+        "Camera (splash-proof recommended)",
+        "Seasickness medication if needed, taken well before departure"
+      ],
+      "requirements": "Turtle swim: minimum age 10. One adult must accompany each child aged 10 to 16 at all times in and out of the water, and two children aged 10 to 16 need two paying adults. Observer: minimum age 5, with adult supervision at all times, and the same number of adults as children if there are two or more children aged 5 to 12. Everyone wears a lifejacket as an observer. Boarding and holding on need a moderate level of fitness and mobility. Anyone with a serious medical condition, including pregnancy or a physical disability, should choose a larger vessel or check first. At least 4 participants are needed to depart.",
+      "offer": null,
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2023/10/broadwater-north-1024x576-2.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2023/10/img_4687-1.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2023/10/img_1614-1024x811-2.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2023/10/6-sea-the-gold-coast-tours-australia-1024x640-2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://aquaadventures.com.au/sailingandmotoryachtcruises/",
+      "checkNotes": "This trip has no heading of its own: it appears as an unlabelled block on the Eco Cruise page (the page and the Aqua Cruise page call it 'Swim with Turtles' and 'turtle swim'). The only booking widget on that page sits under the eco cruise price heading and the page does not say it covers this trip, so no booking link is recorded; the block does say to 'click the book now button'. Confirm whether it is bookable online. Duration is given as up to 3 to 4 hours, but the sample 8:00 itinerary runs 8:00 to 10:45. The itinerary says the boat goes to Cook Island, which is offshore. The season, November to June, is from the sighting guarantee text and the charter option; today (mid October) is outside the season. The page claims sightings are guaranteed with a stand-by ticket; not repeated. The photos on this page are not labelled by trip, so the images may show the eco cruise rather than turtles."
+    },
+    {
+      "title": "Wave Break Island Snorkel Tour",
+      "kind": "snorkel",
+      "summary": "A guided snorkel at Wave Break Island, a man-made island off the Gold Coast Broadwater that gives sheltered, calm water. The experience runs about 2.5 hours with about 2 hours in the water. Dolphins, rays and many small fish may be seen.",
+      "highlights": [
+        "Guided snorkel at Wave Break Island, with snorkel instruction",
+        "About 2 hours of water time",
+        "Dolphins, damselfish, rays and many small fish possible",
+        "No minimum age, so suitable for families"
+      ],
+      "duration": "2.5 hours, including about 2 hours in the water",
+      "durationMinutes": 150,
+      "departureTimes": [],
+      "season": "Year round",
+      "departsFrom": "Gold Coast, Queensland",
+      "prices": [
+        {
+          "label": "Snorkel tour, from",
+          "amount": 79,
+          "currency": "AUD",
+          "note": "Shown as 'from $79'; passenger types are not stated"
+        }
+      ],
+      "priceFrom": 79,
+      "includes": [
+        "Snorkel gear and snorkel instruction",
+        "Life vests and noodles",
+        "Reef safe sunscreen"
+      ],
+      "bring": [
+        "Your own mask, fins and snorkel if you prefer (the operator encourages this)"
+      ],
+      "requirements": "No minimum age. Full-face masks are not allowed on the boats.",
+      "offer": null,
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/dive-6-aqua-adventures-gold-coast-australia.jpg"
+      ],
+      "bookingLinks": [
+        "https://aquaadventures.com.au/scuba-diving-gold-coast/snorkelling-tour-gold-coast/"
+      ],
+      "sourceUrl": "https://aquaadventures.com.au/scuba-diving-gold-coast/snorkelling-tour-gold-coast/",
+      "checkNotes": "The details box says 'Duration: 3 Hours (approx.)' while the text and FAQ say a 2.5 hour experience with about 2 hours of water time; used the text. The details box shows product code WBIGST, which is the same code as the guided fun dive page. Price is shown as 'From $79'. Booking is through an embedded Rezdy calendar widget (aquaadventures.rezdy.com, calendarWidget 392181, not opened), so the page URL is recorded. Departure time and meeting point are not stated on the page. The page says the tour is daily but also says best from April to June in the FAQ, so the season is recorded as year round per the dive hub page. The hub page calls it 'Wave Break Island Snorkel Tour'. The page carries a PADI badge image, which was left out of the photos."
+    },
+    {
+      "title": "Wave Break Island Dive",
+      "kind": "dive",
+      "summary": "A Discover Scuba Diving experience for people who have not dived before, led by PADI instructors at Wave Break Island. It is an introduction, not a certification course. Divers must be at least 12 years old, and the page asks guests to allow at least 12 hours before flying afterwards.",
+      "highlights": [
+        "Discover Scuba Diving, no experience needed",
+        "Led by PADI professionals",
+        "All basic scuba gear provided",
+        "Minimum age 12"
+      ],
+      "duration": "3 hours (approx.)",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": "Year round",
+      "departsFrom": "Gold Coast, Queensland",
+      "prices": [
+        {
+          "label": "Discover Scuba Diving dive, from",
+          "amount": 129,
+          "currency": "AUD",
+          "note": "Shown as 'from $129'; passenger types are not stated"
+        }
+      ],
+      "priceFrom": 129,
+      "includes": [
+        "Mask, snorkel, fins, regulator, buoyancy control device, dive gauges and a tank",
+        "Discover Scuba Diving participant guide on sign-up"
+      ],
+      "bring": [],
+      "requirements": "Minimum age 12. Reasonable physical health. No prior diving experience needed. Allow at least 12 hours before flying after the dive.",
+      "offer": null,
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/dive-intro-2-aqua-adventures-gold-coast-australia.jpg"
+      ],
+      "bookingLinks": [
+        "https://aquaadventures.com.au/scuba-diving-gold-coast/beginner-dive-course-gold-coast/"
+      ],
+      "sourceUrl": "https://aquaadventures.com.au/scuba-diving-gold-coast/beginner-dive-course-gold-coast/",
+      "checkNotes": "The page title is 'Introductory Dive Gold Coast' and the product is shown as 'Wave Break Island Dive', also described as the 'Wave Break Island Discover SCUBA Diving Tour'; the beginner hub calls it 'Intro Dive Experience Gold Coast'. Price shown as 'From $129', product code WBIDSDT. Booking is through an embedded Rezdy calendar widget (aquaadventures.rezdy.com, calendarWidget 398031, not opened). Departure time and meeting point are not stated. The photo on this page appears to be a PADI fish identification image, so it was left out; the photo listed is the Intro Adventures section header, which is not specific to this trip."
+    },
+    {
+      "title": "Wave Break Island Guided Fun Dive",
+      "kind": "dive",
+      "summary": "A guided trip at Wave Break Island with a single dive, listed under the operator's certified diving trips. The page says it suits divers of all levels, and that snorkelling is possible alongside. Dolphins and rays may be seen.",
+      "highlights": [
+        "Guided dive at Wave Break Island",
+        "Single dive with the chance to see dolphins and rays",
+        "Premium dive gear provided",
+        "Listed under certified diving"
+      ],
+      "duration": "2.5 hours",
+      "durationMinutes": 150,
+      "departureTimes": [],
+      "season": "Year round",
+      "departsFrom": "Gold Coast, Queensland",
+      "prices": [
+        {
+          "label": "Guided fun dive, from",
+          "amount": 79,
+          "currency": "AUD",
+          "note": "Shown as 'from $79'; passenger types are not stated"
+        }
+      ],
+      "priceFrom": 79,
+      "includes": [
+        "Premium dive gear"
+      ],
+      "bring": [],
+      "requirements": "Full-face masks are not allowed on the boats.",
+      "offer": null,
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/dive-cert-2-aqua-adventures-gold-coast-australia.jpg"
+      ],
+      "bookingLinks": [
+        "https://aquaadventures.com.au/scuba-diving-gold-coast/wave-break-island-scuba-diving/"
+      ],
+      "sourceUrl": "https://aquaadventures.com.au/scuba-diving-gold-coast/wave-break-island-scuba-diving/",
+      "checkNotes": "Page title is 'Wave Break Island Scuba Diving'; the certified diving hub calls it 'Wave Break Island Guided Fun Dive'. The details box shows 'From $79', '2 Hours (approx.)' and product code WBIGST, which is identical to the snorkel tour box ($79, 3 hours, WBIGST), so the price and code may be copied from the snorkel page. The text says a 2.5 hour guided adventure; used the text. Certification level required is not stated. Booking is through an embedded Rezdy calendar widget (aquaadventures.rezdy.com, calendarWidget 398032, not opened). The page photo looks like a PADI course image and was left out; the photo listed is the certified diving section header, not specific to this trip."
+    },
+    {
+      "title": "Scottish Prince Wreck Dive",
+      "kind": "dive",
+      "summary": "A dive on the Scottish Prince, a 64 m iron barque that lies about 800 m off the Southport Spit. The hull is covered in soft corals and sponges, and crayfish, shovelnose rays, brown-banded cat sharks and wobbegong sharks are seen there. The wreck is protected under the Commonwealth Historic Shipwreck Act, so divers are asked to take nothing from it.",
+      "highlights": [
+        "Wreck of a 64 m iron barque off the Southport Spit",
+        "Soft corals, sponges, shovelnose rays and wobbegong sharks",
+        "Protected historic wreck",
+        "Listed under certified diving"
+      ],
+      "duration": "3 hours (approx.)",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": "Year round",
+      "departsFrom": "Southport, Queensland",
+      "prices": [
+        {
+          "label": "Wreck dive, from",
+          "amount": 99,
+          "currency": "AUD",
+          "note": "Shown as 'from $99'; passenger types are not stated"
+        }
+      ],
+      "priceFrom": 99,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/sp-1.jpg",
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/dive-cert-2-aqua-adventures-gold-coast-australia.jpg"
+      ],
+      "bookingLinks": [
+        "https://aquaadventures.com.au/scuba-diving-gold-coast/scottish-prince-wreck-dive/"
+      ],
+      "sourceUrl": "https://aquaadventures.com.au/scuba-diving-gold-coast/scottish-prince-wreck-dive/",
+      "checkNotes": "Price shown as 'From $99', 3 hours approx., product code SPW, location 'Southport, Qld'. Booking is through an embedded Rezdy calendar widget (aquaadventures.rezdy.com, calendarWidget 594888, not opened). Certification level, gear hire and departure time are not stated. Page says there is not much access inside the wreck. sp-1.jpg is assumed to be the operator's own photo from its name; not viewed."
+    },
+    {
+      "title": "Gold Coast Seaway Boat Drift Dive",
+      "kind": "dive",
+      "summary": "A boat drift dive at the Gold Coast Seaway, listed under the operator's certified diving trips. The page describes the Seaway as an inner-city dive site with a wide variety of large sea creatures.",
+      "highlights": [
+        "Boat drift dive at the Gold Coast Seaway",
+        "Described as an inner-city dive with large sea creatures",
+        "Listed under certified diving"
+      ],
+      "duration": "3 hours (approx.)",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": "Year round",
+      "departsFrom": "Gold Coast, Queensland",
+      "prices": [
+        {
+          "label": "Drift dive, from",
+          "amount": 65,
+          "currency": "AUD",
+          "note": "Shown as 'from $65'; passenger types are not stated"
+        }
+      ],
+      "priceFrom": 65,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/dive-cert-2-aqua-adventures-gold-coast-australia.jpg"
+      ],
+      "bookingLinks": [
+        "https://aquaadventures.com.au/scuba-diving-gold-coast/gold-coast-seaway-drift-dive/"
+      ],
+      "sourceUrl": "https://aquaadventures.com.au/scuba-diving-gold-coast/gold-coast-seaway-drift-dive/",
+      "checkNotes": "Price shown as 'From $65', 3 hours approx., product code SBDD. Booking is through an embedded Rezdy calendar widget (aquaadventures.rezdy.com, calendarWidget 406850, not opened). The page text is mostly general Gold Coast marine life copy shared with other dive pages; the 15,000 fish species claim was not repeated. Certification level, gear hire and departure time are not stated. The page photo is named Sidemount.jpg and looks like a PADI course image, so it was left out; the photo listed is the certified diving section header."
+    },
+    {
+      "title": "Offshore Reef & Wreck Dive",
+      "kind": "dive",
+      "summary": "A two dive boat trip of about 4 hours from Southport. The first dive is on Palm Beach Reef, which the page calls the largest coral reef system on the Gold Coast, and the second is on the Scottish Prince wreck.",
+      "highlights": [
+        "Two dives in one trip",
+        "First dive on Palm Beach Reef",
+        "Second dive on the Scottish Prince wreck",
+        "Listed under certified diving"
+      ],
+      "duration": "4 hours (approx.)",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": "Year round",
+      "departsFrom": "Southport, Queensland",
+      "prices": [
+        {
+          "label": "Reef and wreck dive, from",
+          "amount": 179,
+          "currency": "AUD",
+          "note": "Shown as 'from $179'; passenger types are not stated"
+        }
+      ],
+      "priceFrom": 179,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/dive-cert-2-aqua-adventures-gold-coast-australia.jpg"
+      ],
+      "bookingLinks": [
+        "https://aquaadventures.com.au/scuba-diving-gold-coast/offshore-reef-and-wreck-dive/"
+      ],
+      "sourceUrl": "https://aquaadventures.com.au/scuba-diving-gold-coast/offshore-reef-and-wreck-dive/",
+      "checkNotes": "Price shown as 'From $179', 4 hours approx., product code PBR, location 'Southport, Qld'. The title is 'Offshore Reef & Wreck Dive' on the hub card; the page heading is 'Offshore Reef and Wreck Dive Gold Coast'. Booking is through an embedded Rezdy calendar widget (aquaadventures.rezdy.com, calendarWidget 429496, not opened). Certification level, gear hire and departure time are not stated. The page photo is named coral-reef-conservation-diver_0.jpg and looks like a PADI course image, so it was left out; the photo listed is the certified diving section header."
+    },
+    {
+      "title": "Bubblemaker Kids Dive Course",
+      "kind": "course",
+      "summary": "A short scuba experience for children aged 8 and over in water shallower than 2 metres, led by a PADI professional using child-sized equipment. Parental approval is required. Parties can also be held at the operator's floating dive shop.",
+      "highlights": [
+        "For children aged 8 and over",
+        "First breaths underwater in water shallower than 2 metres",
+        "Child-sized scuba equipment",
+        "Bubblemaker parties offered"
+      ],
+      "duration": "2 hours (approx.)",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Gold Coast, Queensland",
+      "prices": [
+        {
+          "label": "Bubblemaker, from",
+          "amount": 149,
+          "currency": "AUD",
+          "note": "Shown as 'from $149'"
+        }
+      ],
+      "priceFrom": 149,
+      "includes": [
+        "Use of scuba equipment made for children",
+        "Introduction to using scuba gear and clearing a regulator and mask"
+      ],
+      "bring": [],
+      "requirements": "Minimum age 8. Children must be comfortable in the water, with no prior experience needed. Parental approval is required.",
+      "offer": null,
+      "images": [
+        "https://aquaadventures.com.au/wp-content/uploads/2022/03/dive-kids-2-aqua-adventures-gold-coast-australia.jpg"
+      ],
+      "bookingLinks": [
+        "https://aquaadventures.com.au/scuba-diving-gold-coast/kids-dive-course-gold-coast/"
+      ],
+      "sourceUrl": "https://aquaadventures.com.au/scuba-diving-gold-coast/kids-dive-course-gold-coast/",
+      "checkNotes": "Title is the page heading 'Kids Dive Course Gold Coast, Bubblemaker' shortened; the beginner hub card says 'Bubblemaker 8yrs+ Kids Dive Course'. Price shown as 'From $149', 2 hours approx., product code BM. The page says to 'contact us to schedule' a Bubblemaker session or party, but also carries an embedded Rezdy calendar widget (aquaadventures.rezdy.com, calendarWidget 399015, not opened), so the page URL is recorded; confirm which applies. The Bubblemaker Crew Pak of mementos (kid-sized beach towel, logbook, certificate, temporary tattoo, decal and a water toy) is described, but the page does not say whether it is included in the price. The page photo is named bubble-maker.jpg and looks like a PADI course image, so it was left out; the photo listed is the kids dive section header. Season and meeting point are not stated."
+    }
+  ],
+  "offers": [
+    {
+      "text": "PADI Open Water Diver course for $695, including all gear hire, learning materials, PADI fees and registration, and a free Wavebreak Island fun dive",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://aquaadventures.com.au/gold-coast-offers/"
+    },
+    {
+      "text": "Stand-by ticket on whale watching tours: if whales are not spotted on a designated whale watch tour between June and September, each passenger can return on a later tour date",
+      "conditions": "Subject to availability on the online calendar. The tour has a minimum return duration of 2 hours, extended up to 3 hours if whales are not found. Full details are in the operator's terms and conditions, which were not read.",
+      "validUntil": null,
+      "sourceUrl": "https://aquaadventures.com.au/boutique-whale-watching-tour/"
+    }
+  ],
+  "checkNotes": "Scope: this is a multi-brand Gold Coast business (Aqua Dive, Aqua Cruise, Aqua Hire, Aqua Fish, Aqua Marina) that took over older businesses, including Sea the Gold Coast, Surfers Paradise Divers and Mac's Boat Hire. Twelve trips with their own pages were captured; the brief's whale swim and dolphin eco cruise are the first five. Whale pages are out of date and contradict each other: they mix 2023, 2025 and 2026 seasons; three boats (Salty Kiss 7.66m for 10 guests, Big Blue 1 at 8m or 8.5m for 12 guests, and Game Changer at 11.99m, 12m or 40 foot for up to 42 guests); three minimum ages (12, 10 and 5); and a 2023 early bird price. Confirm current boats, prices, ages and times with the operator before publishing. Whale swim licence: the site does not say which permit the operator holds. Queensland allows swimming with whales only for licensed operators. Not captured as trips: (1) Whale watching on a sailing catamaran with partner Aria Cruises (page /whale-watching-gold-coast/whale-watching-sailboat-cruise/): $119 per person, 4 hours, 9:00 am session, 28 passengers, June to September; the page says bookings are managed by Aria Cruises, a different business, through a FareHarbor link (fareharbor.com/embeds/book/sailmoretonbay/, not opened), so it was not listed as this operator's trip. (2) Motorised Watersports: appears only as a menu and tile link into a Rezdy catalogue (aquaadventures.rezdy.com/catalog/627098/motorised-watersports, not opened) with no page. (3) Self-drive boat hire, kayak hire and stand-up paddle board hire (hire page lists 4 person and 6 to 8 person boats): these are rentals, not tours, the hire page shows half day $299 and full day $499 in one place and half day $150 and full day $180 in its FAQ, and its booking widget is a FareHarbor link to 'capriboathire', so they were left out. (4) Guided Kayak Tours: page says 'Coming Soon'. (5) Fishing charters: the page says 'Coming soon', and the inshore charter text has no price. (6) PADI courses: about thirty course pages exist under /scuba-diving-gold-coast/; only two were read. The 'Open Water Diver Course' page is written for independent PADI instructors (from $395, product code IIOWD), and the offers page's 'Book Here' button for the $695 Open Water offer redirects to the PADI Scuba Diver Course page (from $385, 2 days, minimum age 10, product code SD). Courses were not listed as trips; a person should decide whether to add them. Dive internship, dive club and Bubblemaker parties were not read. (7) 'Dolphin & Marine Life Cruises' and '3 Day Humpback Whale Research and Rescue Expeditions' appear in lists on the hub and Aqua Cruise page with no page of their own. Contact: the site shows two emails. The footer shows info@aquaadventurecentre.com.au as text but the link behind it goes to a different personal address, and a second line shows info@aquaadventures.com.au (used here). Phone is 07 5591 7117; the Aqua Cruise page shows (07) 2102 4365 for charters. Opening hours shown are Monday to Sunday 8:00 am to 5:00 pm. Prices are 'from' prices shown on product pages; passenger types and full price lists sit inside Rezdy widgets that were not opened. The site's FAQ page contains only placeholder text. Google review text on the homepage was not used. Pages read: about 34, one at a time with plain curl and WebFetch; no bot check, captcha or block was met. Several links redirected to the hub page (/whale-watching-gold-coast/gold-coast-whale-watching/, /whale-tours-whale-watching/, /gold-coast-whale-adventures/)."
+}

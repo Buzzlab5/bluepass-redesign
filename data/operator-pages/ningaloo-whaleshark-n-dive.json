@@ -1,0 +1,25 @@
+{
+  "slug": "ningaloo-whaleshark-n-dive",
+  "name": "Ningaloo Whaleshark n Dive",
+  "website": "https://whalesharktours.com.au",
+  "rezdyAlias": "ningaloowhalesharkndive",
+  "state": "WA",
+  "town": "Exmouth",
+  "category": null,
+  "summary": null,
+  "standouts": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "address": null
+  },
+  "heroImage": null,
+  "sourceUrls": [
+    "https://whalesharktours.com.au/",
+    "https://whalesharktours.com.au/sitemap.xml",
+    "https://www.whalesharktours.com.au/"
+  ],
+  "trips": [],
+  "offers": [],
+  "checkNotes": "NOT CAPTURED. Every request to whalesharktours.com.au (homepage, www host and sitemap.xml, tried on 12 Oct 2026 with curl and WebFetch, and retried later) returned HTTP 202 with a SiteGround bot challenge (sgcaptcha) instead of the page. The challenge was not bypassed, so no facts could be read and every field except the brief-given ones is empty. Needs a human to read the site in a normal browser, or the operator to supply details. Name, website, Rezdy alias, state and town are from the brief, not verified on the site."
+}

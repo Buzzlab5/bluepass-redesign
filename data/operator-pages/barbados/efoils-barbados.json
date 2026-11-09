@@ -1,0 +1,69 @@
+{
+  "slug": "efoils-barbados",
+  "name": "EFOILS BARBADOS",
+  "website": "https://efoilsbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": null,
+  "category": "Efoil rentals and lessons",
+  "summary": "Instructor-led sessions on electric hydrofoil boards, which lift above the water under motor power, so no waves or wind are needed. Beginners get quick tips to start riding, and the team supplies the board, a helmet and a life jacket. You book a date and time online and are told where to meet.",
+  "standouts": [
+    "Electric-powered boards, no waves or wind needed",
+    "Beginner-friendly and instructor-led",
+    "Helmet and life-jacket provided",
+    "Online booking by date and time for up to 4 persons"
+  ],
+  "contact": {
+    "phone": null,
+    "email": "owen@efoilsbarbados.com",
+    "address": "Barbados",
+    "whatsapp": null
+  },
+  "heroImage": null,
+  "sourceUrls": [
+    "https://efoilsbarbados.com/",
+    "https://efoilsbarbados.com/efoil-rental-services/",
+    "https://efoilsbarbados.com/product/reserve-a-date-and-time/",
+    "https://efoilsbarbados.com/about-efoils-barbados/",
+    "https://efoilsbarbados.com/safety-guidelines/",
+    "https://efoilsbarbados.com/contact-us/",
+    "https://efoilsbarbados.com/terms-of-service/"
+  ],
+  "trips": [
+    {
+      "title": "EFOIL Rental",
+      "kind": "other",
+      "summary": "A session riding an electric hydrofoil board, with personal instruction to get you up and riding quickly. It suits first timers and experienced riders, and the helmet, life jacket and board are provided. The meeting point is sent once you share your hotel address.",
+      "highlights": [
+        "Personalized instruction with quick tips to get you riding fast",
+        "Well-maintained, high-quality boards",
+        "Helmet and life-jacket provided",
+        "Up to 4 persons per booking"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "From", "amount": 250, "currency": "USD", "note": "Shown as 'From: $250.00'; does not say whether per person or per session" }
+      ],
+      "priceFrom": 250,
+      "includes": ["Personalized instruction", "High-quality equipment", "Helmet and life-jacket"],
+      "bring": ["Dress for water, you will get wet"],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://efoilsbarbados.com/wp-content/uploads/2025/07/New-Project-1.webp",
+        "https://efoilsbarbados.com/wp-content/uploads/2025/07/New-Project-4-1.webp",
+        "https://efoilsbarbados.com/wp-content/uploads/2025/07/Group-1321317505-6-1.webp"
+      ],
+      "bookingLinks": ["https://efoilsbarbados.com/product/reserve-a-date-and-time/"],
+      "sourceUrl": "https://efoilsbarbados.com/product/reserve-a-date-and-time/",
+      "checkNotes": "The product is named 'Reserve a Date and Time' (category Rental); title is ours. Price shows only as $; the page's product data gives the currency as USD. Session length is not stated. Booking asks for a deposit of half the total, refundable if cancelled 24 hours before the session. Meeting point is given after booking, based on your hotel address."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "No phone number, street address or meeting point on the site (our list has +1 246-571-6770 and 17 Yorkshire Development, Christ Church; neither appears on the pages read). Town left null. The site is a template build: the testimonials section still shows placeholder Lorem ipsum text. Many photos look like stock or manufacturer images (Getty and Fliteboard file names), so no hero image was chosen. Trading signs: copyright 2026, booking calendar open 12 months ahead, uploads from March and July 2025."
+}

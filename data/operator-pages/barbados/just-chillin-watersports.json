@@ -1,0 +1,341 @@
+{
+  "slug": "just-chillin-watersports",
+  "name": "Just' Chillin' Watersports",
+  "website": "https://www.justchillinwatersports.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Speightstown",
+  "category": "Private boat trips and watersports",
+  "summary": "A small private boat company based in Speightstown, running trips on the west coast in a Bayliner VR6 bowrider that takes up to six guests. Groups book the boat for a turtle and snorkel trip, a three hour private day with watersports, a ride to a seaside restaurant, or short waterskiing, wakeboarding and tube sessions. Everything can be booked and paid online.",
+  "standouts": [
+    "Private trips only, up to 6 guests per boat",
+    "Bayliner VR6 bowrider with Mercury outboard power",
+    "Boat transfers to west coast restaurants such as The Tides, Sea Shed, Lone Star and The Fish Pot",
+    "Online booking with a confirmation email straight away"
+  ],
+  "contact": {
+    "phone": "+1 246 844 3098",
+    "email": "info@justchillinwatersports.com",
+    "address": "Queen's Street, Speightstown, Saint Peter, Barbados"
+  },
+  "heroImage": "https://static.wixstatic.com/media/123606_90626013c6584852953d2ceee06d98c0~mv2.jpg",
+  "sourceUrls": [
+    "https://www.justchillinwatersports.com/",
+    "https://www.justchillinwatersports.com/private-trips",
+    "https://www.justchillinwatersports.com/turtle-snorkelling",
+    "https://www.justchillinwatersports.com/watersports",
+    "https://www.justchillinwatersports.com/restaurant-drop-offs",
+    "https://www.justchillinwatersports.com/book",
+    "https://www.justchillinwatersports.com/book-online",
+    "https://www.justchillinwatersports.com/fa-qs",
+    "https://www.justchillinwatersports.com/about-safety",
+    "https://www.justchillinwatersports.com/contact-booking",
+    "https://www.justchillinwatersports.com/booking-policies",
+    "https://www.justchillinwatersports.com/service-page/private-trip",
+    "https://www.justchillinwatersports.com/service-page/west-coast-turtle-trip",
+    "https://www.justchillinwatersports.com/service-page/private-trip-premium-picnic-basket",
+    "https://www.justchillinwatersports.com/service-page/private-restaurant-boat-transfer",
+    "https://www.justchillinwatersports.com/service-page/tube-rides"
+  ],
+  "trips": [
+    {
+      "title": "West Coast & Turtle Trip",
+      "kind": "snorkel",
+      "summary": "A private two hour cruise along the west coast with a swim among sea turtles and a snorkel over a wreck with tropical fish. Snorkel gear and refreshments are on board, and a GoPro is available for the snorkel.",
+      "highlights": [
+        "Swim with sea turtles",
+        "Snorkel over a wreck",
+        "GoPro available for your snorkel",
+        "Private boat, up to 6 guests"
+      ],
+      "duration": "2 hr",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "West Coast departure point confirmed after booking.",
+      "prices": [
+        { "label": "Private trip", "amount": 600, "currency": "USD", "note": "Price for the booking, as shown in the booking widget" }
+      ],
+      "priceFrom": 600,
+      "includes": [
+        "Snorkelling equipment",
+        "Refreshments",
+        "GoPro available for your snorkelling experience"
+      ],
+      "bring": [
+        "Swimwear",
+        "Towels",
+        "Sun protection",
+        "Sunglasses"
+      ],
+      "requirements": "Tell the operator when booking if anyone is not a confident swimmer; children must be supervised by their parents or guardians.",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://www.justchillinwatersports.com/booking-calendar/west-coast-turtle-trip"
+      ],
+      "sourceUrl": "https://www.justchillinwatersports.com/service-page/west-coast-turtle-trip",
+      "checkNotes": "The Turtle & Snorkelling page says '3-Hour Experience, Speightstown / Holetown', but the bookable service is 2 hr at US$600; used the booking service. Turtle sightings are not guaranteed per the FAQ. No photos recorded: the images on the turtle page and booking card look AI-generated or are unnamed graphics."
+    },
+    {
+      "title": "Private Trip",
+      "kind": "charter",
+      "summary": "A three hour private boat day on the west coast for your own group, with swim stops, snorkelling and watersports such as wakeboarding and tubing. The captain shapes the route around your group and the sea conditions. It does not include the picnic basket.",
+      "highlights": [
+        "3 hours, private",
+        "Swim and snorkel stops",
+        "Wakeboarding and tubing",
+        "Captain plans the route around your group"
+      ],
+      "duration": "3 hr",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "West Coast departure point confirmed after booking.",
+      "prices": [
+        { "label": "Private trip (whole boat)", "amount": 1500, "currency": "USD", "note": null }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Captain and crew",
+        "Snorkel gear for swim stops",
+        "Watersports such as wakeboarding and tubing"
+      ],
+      "bring": [
+        "Swimwear",
+        "Towels",
+        "Sun protection",
+        "Sunglasses"
+      ],
+      "requirements": "Tell the operator when booking if anyone is not a confident swimmer; children must be supervised by their parents or guardians.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/123606_20efb72cb03846f1ae15b35a9fbb9b7e~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.justchillinwatersports.com/booking-calendar/private-trip"
+      ],
+      "sourceUrl": "https://www.justchillinwatersports.com/private-trips",
+      "checkNotes": "Tagline: 'Ultimate Watersports All Inclusive Adventure'. Price is for the private boat, so priceFrom is left null. Inclusions taken from the Private Trips page feature list (expert captain, gear for swim stops, wakeboarding and tubing); the service description itself only says the picnic basket is not included."
+    },
+    {
+      "title": "Private Trip + Premium Picnic Basket",
+      "kind": "charter",
+      "summary": "The three hour private west coast trip with watersports, plus a gourmet picnic basket served on board. It must be booked at least 24 hours ahead.",
+      "highlights": [
+        "3 hours, private",
+        "Premium gourmet picnic basket",
+        "Watersports included",
+        "Book at least 24 hours ahead"
+      ],
+      "duration": "3 hr",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "West Coast departure point confirmed after booking.",
+      "prices": [
+        { "label": "Private trip with picnic basket (whole boat)", "amount": 1675, "currency": "USD", "note": "Shown as From US$1,675" }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Watersports activities",
+        "Premium gourmet picnic basket",
+        "Captain and crew"
+      ],
+      "bring": [
+        "Swimwear",
+        "Towels",
+        "Sun protection",
+        "Sunglasses"
+      ],
+      "requirements": "Must be booked at least 24 hours before the scheduled departure time.",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://www.justchillinwatersports.com/booking-calendar/private-trip-premium-picnic-basket"
+      ],
+      "sourceUrl": "https://www.justchillinwatersports.com/service-page/private-trip-premium-picnic-basket",
+      "checkNotes": "Price shown as 'From US$1,675'; the price options above that are only inside the booking widget. Price is for the private boat, so priceFrom is left null. The booking policy text attached to this service in the widget still contains an editing note ('Use this cleaned final version...'), which the operator may want to fix. No photo recorded: the card image is an unnamed 1536 by 1024 PNG that may be AI-generated."
+    },
+    {
+      "title": "Private Restaurant Boat Transfer",
+      "kind": "other",
+      "summary": "A private boat ride to a west coast restaurant, so you arrive for lunch or dinner from the water. You book your table with the restaurant yourself; meals are paid to the restaurant. Each booking is one way, and the last trip of the day has no return.",
+      "highlights": [
+        "One-way private boat transfer",
+        "The Tides (Holetown), Sea Shed (Mullins), Lone Star (Mount Standfast), The Fish Pot (Shermans)",
+        "Restaurant booked and paid separately",
+        "Last trip of the day has no return transfer"
+      ],
+      "duration": "15 min",
+      "durationMinutes": 15,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "West Coast Barbados, meeting point confirmed after booking.",
+      "prices": [
+        { "label": "Private transfer (one way)", "amount": 150, "currency": "USD", "note": null }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Private marine transfer"
+      ],
+      "bring": [
+        "Resort wear or smart-casual clothes",
+        "Sun protection",
+        "Sunglasses"
+      ],
+      "requirements": "Make your restaurant reservation directly with the venue before your trip.",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://www.justchillinwatersports.com/booking-calendar/private-restaurant-boat-transfer"
+      ],
+      "sourceUrl": "https://www.justchillinwatersports.com/restaurant-drop-offs",
+      "checkNotes": "Price is per transfer, not per person, so priceFrom is left null. The restaurants page shows four venues; the booking page sells one transfer service. No photos recorded: the restaurant page images are named 'ChatGPT Image' or 'ai-generated-IMAGE'."
+    },
+    {
+      "title": "Watersports Combo Hour",
+      "kind": "other",
+      "summary": "A private hour of watersports for your group, mixing waterskiing, wakeboarding and tube rides as conditions and experience allow.",
+      "highlights": [
+        "1 hour, private",
+        "Mix of waterskiing, wakeboarding and tube rides",
+        "Instruction and safety briefing"
+      ],
+      "duration": "1 hr",
+      "durationMinutes": 60,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "West Coast departure point confirmed after booking.",
+      "prices": [
+        { "label": "Private session", "amount": 300, "currency": "USD", "note": null }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Watersports equipment",
+        "Life jackets and safety gear",
+        "Safety briefing"
+      ],
+      "bring": [
+        "Swimwear",
+        "Towels",
+        "Sun protection"
+      ],
+      "requirements": "Share your skill level when booking; activities depend on sea conditions and experience.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/123606_90626013c6584852953d2ceee06d98c0~mv2.jpg",
+        "https://static.wixstatic.com/media/123606_6719f3db9c2f44a58f6c20ef4a054414~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.justchillinwatersports.com/booking-calendar/watersports-combo-hour"
+      ],
+      "sourceUrl": "https://www.justchillinwatersports.com/book-online",
+      "checkNotes": "Listed on the booking page only, not on the Watersports page. Price is per session, so priceFrom is left null."
+    },
+    {
+      "title": "Waterskiing",
+      "kind": "other",
+      "summary": "A private 15 minute waterskiing session behind the boat, for beginners and experienced skiers. Equipment and instruction are provided.",
+      "highlights": [
+        "15 minute session",
+        "Beginners and experienced skiers",
+        "Equipment and instruction provided"
+      ],
+      "duration": "15 min",
+      "durationMinutes": 15,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "West Coast departure point confirmed after booking.",
+      "prices": [
+        { "label": "Session", "amount": 60, "currency": "USD", "note": "Shown as From US$60" }
+      ],
+      "priceFrom": 60,
+      "includes": [
+        "Equipment",
+        "Instruction"
+      ],
+      "bring": [],
+      "requirements": "Share your skill level when booking.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/123606_6719f3db9c2f44a58f6c20ef4a054414~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.justchillinwatersports.com/booking-calendar/waterskiing"
+      ],
+      "sourceUrl": "https://www.justchillinwatersports.com/watersports",
+      "checkNotes": "Shown as 'From US$60'; higher price options are only inside the booking widget."
+    },
+    {
+      "title": "Tube Rides",
+      "kind": "other",
+      "summary": "A private 15 minute tube ride behind the boat along the west coast, suited to friends, couples and families.",
+      "highlights": [
+        "15 minute ride",
+        "Good for families and friends"
+      ],
+      "duration": "15 min",
+      "durationMinutes": 15,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "West Coast departure point confirmed after booking.",
+      "prices": [
+        { "label": "Ride", "amount": 30, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 30,
+      "includes": [
+        "Life jackets and safety gear"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/123606_90626013c6584852953d2ceee06d98c0~mv2.jpg",
+        "https://static.wixstatic.com/media/123606_fac63c6dce484bfcbbad9429df127e91~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.justchillinwatersports.com/booking-calendar/tube-rides"
+      ],
+      "sourceUrl": "https://www.justchillinwatersports.com/service-page/tube-rides",
+      "checkNotes": "The Watersports page says '15 MIN · FROM US$60', but the booking page and the Tube Rides service page show US$30; used US$30."
+    },
+    {
+      "title": "Wakeboarding",
+      "kind": "other",
+      "summary": "A private 15 minute wakeboarding session behind the boat, for beginners and experienced riders. Equipment and instruction are provided.",
+      "highlights": [
+        "15 minute session",
+        "Beginners and experienced riders",
+        "Equipment and instruction provided"
+      ],
+      "duration": "15 min",
+      "durationMinutes": 15,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "West Coast departure point confirmed after booking.",
+      "prices": [
+        { "label": "Session", "amount": 60, "currency": "USD", "note": "Shown as From US$60" }
+      ],
+      "priceFrom": 60,
+      "includes": [
+        "Equipment",
+        "Instruction"
+      ],
+      "bring": [],
+      "requirements": "Share your skill level when booking.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/123606_08c59d84951246f49301710f88f93ae8~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.justchillinwatersports.com/booking-calendar/wakeboarding"
+      ],
+      "sourceUrl": "https://www.justchillinwatersports.com/watersports",
+      "checkNotes": "Shown as 'From US$60'; higher price options are only inside the booking widget."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Booking is online through Wix Bookings on the operator's own site (/book-online and /booking-calendar/ pages); a deposit secures each booking and the balance is due on arrival, payable in cash. Deposits are not refunded for no-shows or cancellations within 7 days of departure; rescheduling allowed up to 48 hours before. Contact details (246 844 3098, info@justchillinwatersports.com, Queen's Street, Speightstown) are from the site's service pages; they differ from the phone and Gmail address in our source list (+1 246-240-1840, justchillinbarbados@gmail.com), which do not appear on the site. No WhatsApp link on the site. Departure points are confirmed after booking; town set from the business address and the turtle page's 'Speightstown / Holetown'. Many site images are AI-generated (file names 'ChatGPT Image' and 'ai-generated-IMAGE'); none of those were used. The site also sells branded T-shirts and caps (not recorded). Links to Instagram and Facebook not opened."
+}

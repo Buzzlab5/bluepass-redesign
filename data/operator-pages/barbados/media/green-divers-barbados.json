@@ -1,0 +1,211 @@
+{
+  "slug": "green-divers-barbados",
+  "logo": "https://static.wixstatic.com/media/2ac4a1_13486dc23bb84b6da19963d55a7c4dac~mv2.png",
+  "gallery": [
+    "https://static.wixstatic.com/media/635600_ec7dca2be6b0424eb21506d5ba640b10~mv2.jpg",
+    "https://static.wixstatic.com/media/2ac4a1_7ad21b402b8749afbd63184827cdce9b~mv2.jpg",
+    "https://static.wixstatic.com/media/2ac4a1_bdb1a9ba8928476b99a24acb911a08c4~mv2.jpg",
+    "https://static.wixstatic.com/media/2ac4a1_6f7a86f2b30e4f65bdd47cbd7a5a2fac~mv2.jpg",
+    "https://static.wixstatic.com/media/635600_38d9ecaac4874b4c9a581ce5161eda30~mv2.jpg",
+    "https://static.wixstatic.com/media/2ac4a1_acae4e7ec3a746dbb75f0061843a0a8c~mv2.jpg",
+    "https://static.wixstatic.com/media/635600_1eaca5ec3372493192c8eacef9b117a4~mv2.jpg",
+    "https://static.wixstatic.com/media/635600_f353e2cb05df460f83ef3da7277037d7~mv2.jpg",
+    "https://static.wixstatic.com/media/635600_1e0e934bc5014ddd8ea0e75e930ef420~mv2.jpg",
+    "https://static.wixstatic.com/media/635600_96b4edfcf10e4a38848ab23c32c263cb~mv2.jpg",
+    "https://static.wixstatic.com/media/635600_50184d2c2f504a1c986c246c7e7f6545~mv2.jpg",
+    "https://static.wixstatic.com/media/2ac4a1_b5300908621e4c16b62d12d7964b62f4~mv2.jpg",
+    "https://static.wixstatic.com/media/635600_874fa18118964672b940bc9c3d27021c~mv2.jpg",
+    "https://static.wixstatic.com/media/635600_59aea480a1094ae7a454c22027cde720~mv2.jpg",
+    "https://static.wixstatic.com/media/2ac4a1_1d744c83866d4ea489584cd8bd0b7d7a~mv2.jpeg",
+    "https://static.wixstatic.com/media/635600_58938d98ae76413193cf7b27c1f705ba~mv2.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "1-Tank Afternoon Dive",
+      "images": [
+        "https://static.wixstatic.com/media/635600_f353e2cb05df460f83ef3da7277037d7~mv2.jpg"
+      ]
+    },
+    {
+      "title": "2-Dive Morning Package",
+      "images": [
+        "https://static.wixstatic.com/media/635600_ec7dca2be6b0424eb21506d5ba640b10~mv2.jpg"
+      ]
+    },
+    {
+      "title": "3-Dive Package",
+      "images": [
+        "https://static.wixstatic.com/media/2ac4a1_b5300908621e4c16b62d12d7964b62f4~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Multi-Day Dive Packages",
+      "images": [
+        "https://static.wixstatic.com/media/635600_50184d2c2f504a1c986c246c7e7f6545~mv2.jpg",
+        "https://static.wixstatic.com/media/635600_57ab47b7053c409a8ff78dadd1bb766c~mv2.jpg",
+        "https://static.wixstatic.com/media/2ac4a1_2a497c2e542a46abaa286482da567b22~mv2.jpg",
+        "https://static.wixstatic.com/media/2ac4a1_75269116307142aca6ebafa49097a1ee~mv2.jpg",
+        "https://static.wixstatic.com/media/635600_481b802ff3a24fdc9fd9013fd5aa5e70~mv2.jpg",
+        "https://static.wixstatic.com/media/2ac4a1_0727da0f48e34853a3b014624fe3795c~mv2.jpg",
+        "https://static.wixstatic.com/media/635600_874fa18118964672b940bc9c3d27021c~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Night Dive",
+      "images": [
+        "https://static.wixstatic.com/media/635600_59aea480a1094ae7a454c22027cde720~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Dive against Debris - monthly special",
+      "images": [
+        "https://static.wixstatic.com/media/2ac4a1_5a391504f2c14fcd962566ef3d63ab8b~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Private Charter",
+      "images": [
+        "https://static.wixstatic.com/media/635600_1e0e934bc5014ddd8ea0e75e930ef420~mv2.jpg",
+        "https://static.wixstatic.com/media/635600_96b4edfcf10e4a38848ab23c32c263cb~mv2.jpg",
+        "https://static.wixstatic.com/media/2ac4a1_6f7a86f2b30e4f65bdd47cbd7a5a2fac~mv2.jpg",
+        "https://static.wixstatic.com/media/2ac4a1_1d744c83866d4ea489584cd8bd0b7d7a~mv2.jpeg"
+      ]
+    },
+    {
+      "title": "Discover Scuba Diving (DSD)",
+      "images": [
+        "https://static.wixstatic.com/media/635600_f11f5694c1f44b9f9a8a2b80fb6b1bb8~mv2.jpg",
+        "https://static.wixstatic.com/media/2ac4a1_7ad21b402b8749afbd63184827cdce9b~mv2.jpg"
+      ]
+    },
+    {
+      "title": "PADI Open Water Diver",
+      "images": [
+        "https://static.wixstatic.com/media/635600_bfa2cf996547411fa0da59f585c36951~mv2.jpg"
+      ]
+    },
+    {
+      "title": "PADI Referral Diver",
+      "images": [
+        "https://static.wixstatic.com/media/635600_f57fe529e8c54edba796f8d94da3be74~mv2.jpg"
+      ]
+    },
+    {
+      "title": "PADI Scuba Diver",
+      "images": [
+        "https://static.wixstatic.com/media/635600_1b0d8a0b7c454a1fbfcad8b099e22fd4~mv2.jpg"
+      ]
+    },
+    {
+      "title": "PADI Advanced Open Water Diver",
+      "images": []
+    },
+    {
+      "title": "PADI Rescue Diver",
+      "images": []
+    },
+    {
+      "title": "Emergency First Response (EFR)",
+      "images": []
+    },
+    {
+      "title": "PADI Emergency Oxygen Provider (O2)",
+      "images": []
+    },
+    {
+      "title": "PADI AWARE & Coral Reef Conservation",
+      "images": []
+    },
+    {
+      "title": "PADI AWARE Dive Against Debris",
+      "images": [
+        "https://static.wixstatic.com/media/635600_4248bb7698f24d4ab3105903a239e7c7~mv2.jpg"
+      ]
+    },
+    {
+      "title": "PADI Boat Diver",
+      "images": []
+    },
+    {
+      "title": "PADI Deep Diver",
+      "images": []
+    },
+    {
+      "title": "PADI Delayed Surface Marker Buoy Diver",
+      "images": [
+        "https://static.wixstatic.com/media/635600_f3ebaca38dad43f6a18b0efdac72dd42~mv2.jpg"
+      ]
+    },
+    {
+      "title": "PADI Drift Diver",
+      "images": [
+        "https://static.wixstatic.com/media/635600_de4c49f0d9734dae81ff8be0fe181d3a~mv2.jpg"
+      ]
+    },
+    {
+      "title": "PADI Fish Identification",
+      "images": [
+        "https://static.wixstatic.com/media/635600_0d749caf3b394770b8a1cb2a9f37f67f~mv2.jpg"
+      ]
+    },
+    {
+      "title": "PADI Night Diver",
+      "images": [
+        "https://static.wixstatic.com/media/635600_1228df8c700644e68947884b244e3c42~mv2.jpg"
+      ]
+    },
+    {
+      "title": "PADI Peak Performance Buoyancy (PPB)",
+      "images": [
+        "https://static.wixstatic.com/media/635600_a6ac375743a744fdbebaf25509170cca~mv2.jpg"
+      ]
+    },
+    {
+      "title": "PADI Search and Recovery Diver",
+      "images": [
+        "https://static.wixstatic.com/media/635600_65b567541bdd462aa3ea699b58d43ab6~mv2.jpg"
+      ]
+    },
+    {
+      "title": "PADI Underwater Naturalist",
+      "images": []
+    },
+    {
+      "title": "PADI Underwater Navigator",
+      "images": [
+        "https://static.wixstatic.com/media/635600_3126861199c34cab96d2e67e412a088e~mv2.jpg"
+      ]
+    },
+    {
+      "title": "PADI Underwater Photography",
+      "images": []
+    },
+    {
+      "title": "PADI Wreck Diver",
+      "images": [
+        "https://static.wixstatic.com/media/2ac4a1_01bc635d109946e58b37c46fa41829ba~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Master Scuba Diver programs",
+      "images": [
+        "https://static.wixstatic.com/media/2ac4a1_bdb1a9ba8928476b99a24acb911a08c4~mv2.jpg",
+        "https://static.wixstatic.com/media/2ac4a1_7ad21b402b8749afbd63184827cdce9b~mv2.jpg",
+        "https://static.wixstatic.com/media/635600_fc7c1c8f91fe408fa31c99214fbb962c~mv2.jpg",
+        "https://static.wixstatic.com/media/2ac4a1_b5300908621e4c16b62d12d7964b62f4~mv2.jpg"
+      ]
+    },
+    {
+      "title": "PADI Divemaster",
+      "images": [
+        "https://static.wixstatic.com/media/635600_71da40d738a9466e82bbd7ce641249d8~mv2.jpg"
+      ]
+    },
+    {
+      "title": "EFR Instructor",
+      "images": []
+    }
+  ],
+  "notes": "No videos of their own: the home page background video is Wix stock media (11062b_ prefix). Left out Wix stock and Unsplash images (11062b_, nsplsh_ and unprefixed IDs), the PADI Eco Center and Green Fins logos, venue photos of Savvy on the Bay, and the photo grid on the Dive Conservation page, which the site credits to photographer Keshia Kuhn (unnaturallynaturalviews.com); three service photos (AWARE and Coral Reef Conservation, Underwater Naturalist, Underwater Photography) are from that credited set and were also left out. Trip photos come from each service's own image in the operator's booking data."
+}

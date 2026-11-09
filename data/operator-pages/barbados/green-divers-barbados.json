@@ -1,0 +1,1395 @@
+{
+  "slug": "green-divers-barbados",
+  "name": "Green Divers Barbados",
+  "website": "https://www.greendiversbarbados.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Carlisle Bay",
+  "category": "Scuba diving and courses",
+  "summary": "Green Divers is a women-owned dive centre at Savvy on the Bay in Carlisle Bay, open since February 2026 and the first PADI Eco Center in Barbados. It runs small-group morning and afternoon boat dives on reefs and wrecks, PADI courses from Discover Scuba to Divemaster, and monthly clean-up dives and lionfish hunts.",
+  "standouts": [
+    "First PADI Eco Center in Barbados",
+    "Green Fins Digital Member",
+    "Women-owned and operated",
+    "Free refresher session for divers who have not dived in a year"
+  ],
+  "contact": {
+    "phone": "+1 246 367 8884",
+    "email": "info@greendiversbarbados.com",
+    "address": "Savvy On The Bay, Bay Street, Bridgetown, Saint Michael, Barbados",
+    "whatsapp": "+447346006590"
+  },
+  "heroImage": "https://static.wixstatic.com/media/635600_ec7dca2be6b0424eb21506d5ba640b10~mv2.jpg",
+  "sourceUrls": [
+    "https://www.greendiversbarbados.com/",
+    "https://www.greendiversbarbados.com/sitemap.xml",
+    "https://www.greendiversbarbados.com/booking-services-sitemap.xml",
+    "https://www.greendiversbarbados.com/pricing-plans-sitemap.xml",
+    "https://www.greendiversbarbados.com/pages-sitemap.xml",
+    "https://www.greendiversbarbados.com/book-online",
+    "https://www.greendiversbarbados.com/daily-schedule",
+    "https://www.greendiversbarbados.com/your-barbados-dive-experience",
+    "https://www.greendiversbarbados.com/faqs",
+    "https://www.greendiversbarbados.com/about-us",
+    "https://www.greendiversbarbados.com/private-charters",
+    "https://www.greendiversbarbados.com/multi-day-packages",
+    "https://www.greendiversbarbados.com/services-4",
+    "https://www.greendiversbarbados.com/the-green-divers-club",
+    "https://www.greendiversbarbados.com/dive-conservation",
+    "https://www.greendiversbarbados.com/divefest",
+    "https://www.greendiversbarbados.com/contact-and-directions",
+    "https://www.greendiversbarbados.com/go-pro-dive-master",
+    "https://www.greendiversbarbados.com/gd-staff"
+  ],
+  "trips": [
+    {
+      "title": "1-Tank Afternoon Dive",
+      "kind": "dive",
+      "summary": "A relaxed single-tank afternoon dive inside Carlisle Bay Marine Park, where shallow reefs and six wrecks sit close together with little current. It pairs well with the free refresher session for divers who have been out of the water for a year or more.",
+      "highlights": [
+        "Always run in Carlisle Bay Marine Park",
+        "Shallow reefs and six wrecks close together",
+        "Check in 1:30pm, boat 2pm, back around 4pm",
+        "Free refresher can be done the same day"
+      ],
+      "duration": "Boat departs 2pm, returns 4pm",
+      "durationMinutes": 120,
+      "departureTimes": [
+        "14:00"
+      ],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 81,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 81,
+      "includes": [
+        "Tanks",
+        "Weights",
+        "Guiding"
+      ],
+      "bring": [
+        "Certification card",
+        "Completed liability and medical forms (emailed in advance)",
+        "Swimsuit, towel and sun protection",
+        "Own dive gear, or add a rental kit"
+      ],
+      "requirements": "Certified divers. Free refresher session required if your last dive was a year or more ago (arrive 11am for it)",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/635600_f353e2cb05df460f83ef3da7277037d7~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/1-tank-afternoon-dive-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/1-tank-afternoon-dive-1",
+      "checkNotes": "Times from the Daily Schedule page. Gear rental is an add-on with no price shown. Prices are listed without saying per person; read as per person."
+    },
+    {
+      "title": "2-Dive Morning Package",
+      "kind": "dive",
+      "summary": "One morning, two boat dives on a mix of reefs and wrecks along the coast, in small groups with a guide. Book the first morning online and the team helps plan any further diving once you arrive.",
+      "highlights": [
+        "Two dives on reefs and wrecks",
+        "Check in 8:30am, boat 9am, back 12:30 to 1:30pm",
+        "Light snacks, refreshments and water on board",
+        "Most morning tours are drift dives"
+      ],
+      "duration": "Morning: boat departs 9am, returns 12:30 to 1:30pm",
+      "durationMinutes": 240,
+      "departureTimes": [
+        "09:00"
+      ],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 137,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 137,
+      "includes": [
+        "Tanks",
+        "Weights",
+        "Guiding",
+        "Light snacks, refreshments and water"
+      ],
+      "bring": [
+        "Certification card",
+        "Completed liability and medical forms (emailed in advance)",
+        "Swimsuit, towel and sun protection",
+        "Own dive gear, or add a rental kit"
+      ],
+      "requirements": "Certified divers. Free refresher session required if your last dive was a year or more ago (arrive 7:30am for it)",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/635600_ec7dca2be6b0424eb21506d5ba640b10~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/2-dive-morning-package-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/2-dive-morning-package-1",
+      "checkNotes": "durationMinutes is the 240-minute slot in the booking widget; the Daily Schedule gives check-in 8:30am and return 12:30 to 1:30pm. 'Most morning tours are drift dives' is from the FAQ."
+    },
+    {
+      "title": "3-Dive Package",
+      "kind": "dive",
+      "summary": "Three dives on reefs and wrecks, done as one full day of diving or spread over two days. Book the first day online and the rest is arranged with you.",
+      "highlights": [
+        "Three dives in one full day or over two days",
+        "Mix of reef and wreck sites",
+        "Small groups with guides"
+      ],
+      "duration": "One full day, or over two days",
+      "durationMinutes": null,
+      "departureTimes": [
+        "09:00"
+      ],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 198,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 198,
+      "includes": [
+        "Tanks",
+        "Weights",
+        "Guiding",
+        "Light snacks, refreshments and water"
+      ],
+      "bring": [
+        "Certification card",
+        "Completed liability and medical forms (emailed in advance)",
+        "Swimsuit, towel and sun protection",
+        "Own dive gear, or add a rental kit"
+      ],
+      "requirements": "Certified divers. Free refresher session required if your last dive was a year or more ago",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/2ac4a1_b5300908621e4c16b62d12d7964b62f4~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/3-dive-package"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/3-dive-package",
+      "checkNotes": "09:00 is the morning boat time from the Daily Schedule."
+    },
+    {
+      "title": "Multi-Day Dive Packages",
+      "kind": "dive",
+      "summary": "Packages of four to ten dives built around guided two-tank morning boat trips, with some including an afternoon dive. You book the first morning online and the team schedules the rest around tides, weather and your plans.",
+      "highlights": [
+        "4 to 10 dives across several mornings",
+        "Reefs and wrecks along the south and west coasts",
+        "Remaining days planned around tides and weather",
+        "Island residents can spread the dives out"
+      ],
+      "duration": "2 to 5 mornings",
+      "durationMinutes": null,
+      "departureTimes": [
+        "09:00"
+      ],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "4-Dive Package (two mornings)",
+          "amount": 254,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "5-Dive Package (two mornings, one afternoon)",
+          "amount": 290,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "6-Dive Package (three mornings)",
+          "amount": 336,
+          "currency": "USD",
+          "note": "Described as the most popular option"
+        },
+        {
+          "label": "7-Dive Package (three mornings, one afternoon)",
+          "amount": 387,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "8-Dive Package (four mornings)",
+          "amount": 438,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "9-Dive Package",
+          "amount": 484,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "10-Dive Package (five mornings)",
+          "amount": 530,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 254,
+      "includes": [
+        "Tanks",
+        "Weights",
+        "Guiding",
+        "Light snacks, refreshments and water"
+      ],
+      "bring": [
+        "Certification card",
+        "Completed liability and medical forms (emailed in advance)",
+        "Swimsuit, towel and sun protection",
+        "Own dive gear, or add a rental kit"
+      ],
+      "requirements": "Certified divers. Free refresher session required if your last dive was a year or more ago",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/635600_50184d2c2f504a1c986c246c7e7f6545~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/4-dive-package",
+        "https://www.greendiversbarbados.com/service-page/5-dive-package",
+        "https://www.greendiversbarbados.com/service-page/6-dive-package",
+        "https://www.greendiversbarbados.com/service-page/7-dive-package",
+        "https://www.greendiversbarbados.com/service-page/8-dive-package",
+        "https://www.greendiversbarbados.com/service-page/9-dive-package",
+        "https://www.greendiversbarbados.com/service-page/10-dive-package"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/multi-day-packages",
+      "checkNotes": "Seven separate packages (4 to 10 dives) grouped as one trip, following the operator's Multi-Day Dive Packages page; each has its own booking page, all listed in bookingLinks. Both the 6-dive and 7-dive packages are described as 'our most popular option'."
+    },
+    {
+      "title": "Night Dive",
+      "kind": "dive",
+      "summary": "A night dive on the shallow wrecks and reefs of Carlisle Bay Marine Park, where you may see sleeping turtles, hunting tarpon, octopus and squid. Run monthly or on request once at least four divers sign up.",
+      "highlights": [
+        "Shallow wrecks and reefs after dark",
+        "Sleeping turtles, tarpon, octopus and squid",
+        "Runs monthly or on request",
+        "Minimum of 4 divers to run"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Monthly or on request",
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 91,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 91,
+      "includes": [
+        "Tanks",
+        "Weights",
+        "Guiding"
+      ],
+      "bring": [
+        "Certification card",
+        "Completed liability and medical forms (emailed in advance)",
+        "Swimsuit, towel and sun protection",
+        "Own dive gear, or add a rental kit"
+      ],
+      "requirements": "Certified divers, 12 years or older. Free refresher session required if your last dive was a year or more ago",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/635600_59aea480a1094ae7a454c22027cde720~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/night-dive-1",
+      "checkNotes": "Listed with 'More Info' rather than 'Book Now'; online booking is switched off for this service, so bookingLinks is empty. Subject to availability."
+    },
+    {
+      "title": "Dive against Debris - monthly special",
+      "kind": "dive",
+      "summary": "A monthly clean-up dive at sites off the usual roster, where debris from boats and the beach tends to collect. The fee covers your tank and any equipment you need.",
+      "highlights": [
+        "Monthly clean-up dive",
+        "Sites chosen for debris, not the usual dive spots",
+        "Tank and equipment as required included"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Monthly",
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 25,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Per person",
+          "amount": 50,
+          "currency": "BBD",
+          "note": null
+        }
+      ],
+      "priceFrom": 25,
+      "includes": [
+        "Tank",
+        "Equipment as required"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/2ac4a1_5a391504f2c14fcd962566ef3d63ab8b~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/dive-against-debris-monthly-special",
+      "checkNotes": "Dates are announced on the events page and to Green Divers Club members. 'More Info' only, no online booking, so bookingLinks is empty. Certification requirement not stated on the listing."
+    },
+    {
+      "title": "Private Charter",
+      "kind": "charter",
+      "summary": "Exclusive use of the boat and crew for four hours, with at least two dive or snorkel sites chosen for your group. It suits families, friends and photographers who want to dive, snorkel or cruise the coast at their own pace.",
+      "highlights": [
+        "4 hour charter for up to 8 guests",
+        "Option A: up to 4 divers on a 2-tank dive plus up to 4 snorkellers",
+        "Option B: up to 8 divers on a 1-tank dive",
+        "Catering can be upgraded on request"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Private charter, up to 8 guests",
+          "amount": 699,
+          "currency": "USD",
+          "note": "Bookings start at this price"
+        },
+        {
+          "label": "Each added diver on Option A",
+          "amount": 100,
+          "currency": "USD",
+          "note": "Per person"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "4 hour cruise",
+        "Dive professionals and guides",
+        "At least 2 dive and snorkel sites",
+        "Snacks and refreshments",
+        "Snorkel and scuba equipment"
+      ],
+      "bring": [],
+      "requirements": "Scuba diving for certified divers; snorkelling for non-divers",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/635600_1e0e934bc5014ddd8ea0e75e930ef420~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/private-charter-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/private-charters",
+      "checkNotes": "Per-boat price, so priceFrom is null. The page says pricing may change with group size, activities and catering."
+    },
+    {
+      "title": "Discover Scuba Diving (DSD)",
+      "kind": "dive",
+      "summary": "A first try at scuba with a PADI Instructor and no experience needed. After a safety briefing and some skills in shallow water, you make an easy dive on a reef or wreck in Carlisle Bay Marine Park.",
+      "highlights": [
+        "No experience needed, not a certification",
+        "Check in 12:30pm, pool training 1 to 2pm, boat 2pm, back 4pm",
+        "Shallow dive in Carlisle Bay Marine Park",
+        "Upgrade discount if you go on to certify"
+      ],
+      "duration": "12:30pm to 4pm",
+      "durationMinutes": 210,
+      "departureTimes": [
+        "12:30"
+      ],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 125,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 125,
+      "includes": [
+        "Dive equipment",
+        "PADI eLearning"
+      ],
+      "bring": [
+        "Completed eLearning, liability and medical forms",
+        "Swimsuit, towel and sun protection"
+      ],
+      "requirements": "10 years or older, with a completed medical form",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/635600_f11f5694c1f44b9f9a8a2b80fb6b1bb8~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/discover-scuba-diving-dsd-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/discover-scuba-diving-dsd-1",
+      "checkNotes": "Times from the Daily Schedule page; 12:30 is check-in and the boat leaves at 2pm. A deposit, sent as a payment link after booking, confirms the place."
+    },
+    {
+      "title": "PADI Open Water Diver",
+      "kind": "course",
+      "summary": "The standard first certification, qualifying you to dive with a buddy to 18 metres. You do the theory by eLearning at home, then confined water sessions and four open water dives on local reefs and wrecks.",
+      "highlights": [
+        "Certifies you to 18 metres/60 feet",
+        "Four open water training dives",
+        "PADI eLearning included",
+        "Small groups"
+      ],
+      "duration": "Multiple days",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 560,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 560,
+      "includes": [
+        "Dive equipment",
+        "PADI eLearning"
+      ],
+      "bring": [
+        "Completed eLearning, liability and medical forms",
+        "Swimsuit, towel and sun protection"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/635600_bfa2cf996547411fa0da59f585c36951~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-open-water-diver-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-open-water-diver-1",
+      "checkNotes": "Minimum age not stated. 08:30 is student arrival time from the Daily Schedule; training days usually end around 4pm. Deposit confirms the booking."
+    },
+    {
+      "title": "PADI Referral Diver",
+      "kind": "course",
+      "summary": "For divers who finished the theory and pool sessions of Open Water at home. You complete the four open water dives in Carlisle Bay and nearby reef and wreck sites to finish your certification.",
+      "highlights": [
+        "Finish Open Water with four open water dives",
+        "Dives in Carlisle Bay and nearby sites",
+        "Bring your referral paperwork"
+      ],
+      "duration": "Multiple days",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 360,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 360,
+      "includes": [
+        "Dive equipment"
+      ],
+      "bring": [
+        "Course Record Referral Form",
+        "Liability release and medical forms"
+      ],
+      "requirements": "Open Water knowledge development and confined water sessions completed elsewhere",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/635600_f57fe529e8c54edba796f8d94da3be74~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-referral-diver-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-referral-diver-1",
+      "checkNotes": "eLearning not mentioned for this course. Deposit confirms the booking."
+    },
+    {
+      "title": "PADI Scuba Diver",
+      "kind": "course",
+      "summary": "A shorter first certification for beginners with limited time. It covers the core theory, basic skills and confined water training, then two open water dives.",
+      "highlights": [
+        "Core theory, skills and confined water training",
+        "Two open water dives",
+        "PADI eLearning included"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 400,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 400,
+      "includes": [
+        "Dive equipment",
+        "PADI eLearning"
+      ],
+      "bring": [
+        "Completed eLearning, liability and medical forms",
+        "Swimsuit, towel and sun protection"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/635600_1b0d8a0b7c454a1fbfcad8b099e22fd4~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-scuba-diver-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-scuba-diver-1",
+      "checkNotes": "Duration and minimum age not stated. Deposit confirms the booking."
+    },
+    {
+      "title": "PADI Advanced Open Water Diver",
+      "kind": "course",
+      "summary": "Five adventure dives over two to three days: Deep and Underwater Navigation plus three of your choice, on reef and wreck sites around Barbados.",
+      "highlights": [
+        "Five adventure dives, including Deep and Navigation",
+        "Runs over 2 to 3 days",
+        "PADI eLearning included",
+        "Upgrade discounts on matching specialties"
+      ],
+      "duration": "2 to 3 days",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 460,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 460,
+      "includes": [
+        "Dive equipment",
+        "PADI eLearning"
+      ],
+      "bring": [
+        "Completed eLearning, liability and medical forms",
+        "Swimsuit, towel and sun protection"
+      ],
+      "requirements": "12 years or older; ages 12 to 14 earn Junior Advanced Open Water limited to 21m (70ft), 15 and over to 30m (100ft)",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-advanced-open-water-diver-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-advanced-open-water-diver-1",
+      "checkNotes": "The service photo is a Wix stock image, so no trip image is recorded. Free refresher session required if your last dive was a year or more ago."
+    },
+    {
+      "title": "PADI Rescue Diver",
+      "kind": "course",
+      "summary": "Learn to recognise, prevent and manage problems in the water, help tired or stressed divers and run searches. It mixes theory, confined water skills and open water scenarios.",
+      "highlights": [
+        "Emergency scenarios in confined and open water",
+        "PADI eLearning for the theory",
+        "EFR certification needed to complete",
+        "Upgrade discount towards Master Scuba Diver"
+      ],
+      "duration": "Multiple days",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 520,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 520,
+      "includes": [
+        "Dive equipment",
+        "PADI eLearning"
+      ],
+      "bring": [
+        "Completed eLearning, liability and medical forms",
+        "Swimsuit, towel and sun protection"
+      ],
+      "requirements": "12 years or older; current EFR Primary and Secondary Care or equivalent (book EFR at the same time if needed)",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-rescue-diver-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-rescue-diver-1",
+      "checkNotes": "The service photo is a Wix stock image, so no trip image is recorded."
+    },
+    {
+      "title": "Emergency First Response (EFR)",
+      "kind": "course",
+      "summary": "A one-day CPR and first aid course for divers and non-divers, covering primary and secondary care, injury assessment and emergency management. It is required for Rescue Diver unless you hold a current CPR and first aid qualification.",
+      "highlights": [
+        "One-day course",
+        "CPR, first aid and emergency care",
+        "Open to non-divers",
+        "PADI eLearning included"
+      ],
+      "duration": "One day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 150,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 150,
+      "includes": [
+        "PADI eLearning"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/emergency-first-response-efr-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/emergency-first-response-efr-1",
+      "checkNotes": "Service photo is Wix stock, so no trip image. Upgrade discount offered when adding the O2 Provider course."
+    },
+    {
+      "title": "PADI Emergency Oxygen Provider (O2)",
+      "kind": "course",
+      "summary": "Learn to recognise diving injuries and give emergency oxygen, including assembling oxygen kits and using different masks. It complements EFR and Rescue Diver.",
+      "highlights": [
+        "Set up and use emergency oxygen kits",
+        "Recommended for all divers",
+        "PADI eLearning included"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 125,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 125,
+      "includes": [
+        "PADI eLearning"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-emergency-oxygen-provider-o2-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-emergency-oxygen-provider-o2-1",
+      "checkNotes": "Service photo is an Unsplash stock image, so no trip image. Duration not stated in the text; the booking widget slot is 120 minutes."
+    },
+    {
+      "title": "PADI AWARE & Coral Reef Conservation",
+      "kind": "course",
+      "summary": "Two conservation specialties bundled at one price, covering how coral reefs work and practical steps divers can take to reduce their impact and protect them.",
+      "highlights": [
+        "PADI AWARE and Coral Reef Conservation specialties together",
+        "Practical ways to lower your impact",
+        "Part of each AWARE course fee supports PADI AWARE conservation work"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 125,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 125,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-aware-coral-reef-conservation-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-aware-coral-reef-conservation-1",
+      "checkNotes": "The service photo is one of the images the site credits to photographer Keshia Kuhn, so it is not recorded."
+    },
+    {
+      "title": "PADI AWARE Dive Against Debris",
+      "kind": "course",
+      "summary": "A specialty on safely removing, sorting and recording marine debris, with your data sent to the global Dive Against Debris database. Diving in Carlisle Bay Marine Park, you care for a site full of wildlife and wrecks.",
+      "highlights": [
+        "Safe lifting and removal of debris",
+        "Log findings to the global Dive Against Debris database",
+        "PADI eLearning included"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 200,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 200,
+      "includes": [
+        "Dive equipment",
+        "PADI eLearning"
+      ],
+      "bring": [
+        "Completed eLearning, liability and medical forms",
+        "Swimsuit, towel and sun protection"
+      ],
+      "requirements": "12 years or older. Free refresher session required if your last dive was a year or more ago",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/635600_4248bb7698f24d4ab3105903a239e7c7~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-aware-dive-against-debris-2"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-aware-dive-against-debris-2",
+      "checkNotes": null
+    },
+    {
+      "title": "PADI Boat Diver",
+      "kind": "course",
+      "summary": "A specialty on diving from boats: entries and exits, organising gear, surface procedures and handling currents and lines.",
+      "highlights": [
+        "Boat entries, exits and surface procedures",
+        "Handling currents and line use",
+        "PADI eLearning included"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 225,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 225,
+      "includes": [
+        "PADI eLearning"
+      ],
+      "bring": [],
+      "requirements": "Free refresher session required if your last dive was a year or more ago",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-boat-diver-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-boat-diver-1",
+      "checkNotes": "Service photo is a Wix stock image, so no trip image."
+    },
+    {
+      "title": "PADI Deep Diver",
+      "kind": "course",
+      "summary": "Four deep dives that take you beyond the 18 metre Open Water limit to 40 metres, covering gas management, narcosis and buoyancy at depth on Barbados' deep wrecks and reefs.",
+      "highlights": [
+        "Four deep dives",
+        "Extends your limit to 40 metres/130 feet",
+        "PADI eLearning included"
+      ],
+      "duration": "Multiple days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 385,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 385,
+      "includes": [
+        "Dive equipment",
+        "PADI eLearning"
+      ],
+      "bring": [
+        "Completed eLearning, liability and medical forms",
+        "Swimsuit, towel and sun protection"
+      ],
+      "requirements": "15 years or older with Advanced Open Water. Free refresher session required if your last dive was a year or more ago",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-deep-diver-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-deep-diver-1",
+      "checkNotes": "Service photo is a Wix stock image, so no trip image."
+    },
+    {
+      "title": "PADI Delayed Surface Marker Buoy Diver",
+      "kind": "course",
+      "summary": "Learn to deploy a surface marker buoy from depth, with spool and reel control, buoyancy and emergency use. Useful wherever there is boat traffic or drift.",
+      "highlights": [
+        "DSMB deployment from depth",
+        "Spool and reel handling",
+        "No eLearning required"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 165,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 165,
+      "includes": [],
+      "bring": [],
+      "requirements": "12 years or older. Free refresher session required if your last dive was a year or more ago",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/635600_f3ebaca38dad43f6a18b0efdac72dd42~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-delayed-surface-marker-buoy-diver-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-delayed-surface-marker-buoy-diver-1",
+      "checkNotes": null
+    },
+    {
+      "title": "PADI Drift Diver",
+      "kind": "course",
+      "summary": "Plan and make drift dives, using the right techniques for the conditions and depth while holding neutral buoyancy.",
+      "highlights": [
+        "Planning and running drift dives",
+        "Buoyancy control in current"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 225,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 225,
+      "includes": [],
+      "bring": [],
+      "requirements": "12 years or older. Free refresher session required if your last dive was a year or more ago",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/635600_de4c49f0d9734dae81ff8be0fe181d3a~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-drift-diver-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-drift-diver-1",
+      "checkNotes": null
+    },
+    {
+      "title": "PADI Fish Identification",
+      "kind": "course",
+      "summary": "Learn to recognise common fish families and their behaviour so you understand more of what you see on each dive.",
+      "highlights": [
+        "Fish families and identifying features",
+        "Reading fish behaviour",
+        "No eLearning required"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 165,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 165,
+      "includes": [],
+      "bring": [],
+      "requirements": "Free refresher session required if your last dive was a year or more ago",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/635600_0d749caf3b394770b8a1cb2a9f37f67f~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-fish-identification-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-fish-identification-1",
+      "checkNotes": null
+    },
+    {
+      "title": "PADI Night Diver",
+      "kind": "course",
+      "summary": "Night diving procedures, light handling, navigation and buddy communication, with the chance to see marine life that is rarely out by day.",
+      "highlights": [
+        "Safe night diving procedures",
+        "Light handling and navigation",
+        "Subject to night dive availability"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 385,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 385,
+      "includes": [],
+      "bring": [],
+      "requirements": "12 years or older. Free refresher session required if your last dive was a year or more ago",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/635600_1228df8c700644e68947884b244e3c42~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-night-diver-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-night-diver-1",
+      "checkNotes": null
+    },
+    {
+      "title": "PADI Peak Performance Buoyancy (PPB)",
+      "kind": "course",
+      "summary": "Relaxed, skill-focused dives to refine buoyancy, trim and air use, and to streamline your gear.",
+      "highlights": [
+        "Buoyancy, trim and air consumption",
+        "Streamlining your equipment",
+        "PADI eLearning included"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 165,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 165,
+      "includes": [
+        "PADI eLearning"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/635600_a6ac375743a744fdbebaf25509170cca~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-peak-performance-buoyancy-ppb-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-peak-performance-buoyancy-ppb-1",
+      "checkNotes": null
+    },
+    {
+      "title": "PADI Search and Recovery Diver",
+      "kind": "course",
+      "summary": "Hands-on training in search patterns, knots and lift bags to find and recover objects underwater, working as a team.",
+      "highlights": [
+        "Search patterns and lift bag use",
+        "Planning recoveries as a team"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 385,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 385,
+      "includes": [],
+      "bring": [],
+      "requirements": "12 years or older with Advanced Open Water. Free refresher session required if your last dive was a year or more ago",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/635600_65b567541bdd462aa3ea699b58d43ab6~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-search-and-recovery-diver-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-search-and-recovery-diver-1",
+      "checkNotes": null
+    },
+    {
+      "title": "PADI Underwater Naturalist",
+      "kind": "course",
+      "summary": "A specialty on marine ecosystems, habitats and how sea life interacts, with a focus on responsible diving.",
+      "highlights": [
+        "Marine ecosystems and habitats",
+        "Responsible diving practice"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 225,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 225,
+      "includes": [],
+      "bring": [],
+      "requirements": "Free refresher session required if your last dive was a year or more ago",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-underwater-naturalist-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-underwater-naturalist-1",
+      "checkNotes": "The service photo is one of the images the site credits to photographer Keshia Kuhn, so it is not recorded."
+    },
+    {
+      "title": "PADI Underwater Navigator",
+      "kind": "course",
+      "summary": "Find your way underwater using natural references and a compass, with navigation patterns and distance estimation.",
+      "highlights": [
+        "Natural and compass navigation",
+        "Navigation patterns and distance estimation"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 330,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 330,
+      "includes": [],
+      "bring": [],
+      "requirements": "Free refresher session required if your last dive was a year or more ago",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/635600_3126861199c34cab96d2e67e412a088e~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-underwater-navigator-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-underwater-navigator-1",
+      "checkNotes": null
+    },
+    {
+      "title": "PADI Underwater Photography",
+      "kind": "course",
+      "summary": "Take better underwater photos while keeping good buoyancy and awareness, covering camera handling, composition, light and low-impact technique.",
+      "highlights": [
+        "Camera handling and composition",
+        "Lighting and low-impact technique"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 250,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 250,
+      "includes": [],
+      "bring": [],
+      "requirements": "Free refresher session required if your last dive was a year or more ago",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-underwater-photography-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-underwater-photography-1",
+      "checkNotes": "The service photo is one of the images the site credits to photographer Keshia Kuhn, so it is not recorded."
+    },
+    {
+      "title": "PADI Wreck Diver",
+      "kind": "course",
+      "summary": "Four wreck dives on Barbados' wrecks covering mapping, navigation, penetration line handling and safe technique in overhead environments.",
+      "highlights": [
+        "Four wreck dives",
+        "Mapping, navigation and line handling",
+        "PADI eLearning included"
+      ],
+      "duration": "Multiple days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 385,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 385,
+      "includes": [
+        "Dive equipment",
+        "PADI eLearning"
+      ],
+      "bring": [
+        "Completed eLearning, liability and medical forms",
+        "Swimsuit, towel and sun protection"
+      ],
+      "requirements": "15 years or older with Advanced Open Water. Free refresher session required if your last dive was a year or more ago",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/2ac4a1_01bc635d109946e58b37c46fa41829ba~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-wreck-diver-1"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/service-page/padi-wreck-diver-1",
+      "checkNotes": null
+    },
+    {
+      "title": "Master Scuba Diver programs",
+      "kind": "course",
+      "summary": "Packaged routes to PADI Master Scuba Diver, the top non-professional rating, which needs Rescue Diver, five specialties and 50 logged dives. Each program includes the courses you still need and as many dives as it takes to reach 50.",
+      "highlights": [
+        "Hero Program: from Open Water, includes Advanced, Rescue, EFR and 5 specialties",
+        "Ascent Program: from Advanced Open Water, includes Rescue, EFR and 5 specialties",
+        "Completion Program: from Rescue and EFR, includes up to 5 specialties",
+        "Eco Warrior Program: from Rescue and EFR, includes 5 eco-focused specialties"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Dives needed to reach 50 logged dives"
+      ],
+      "bring": [],
+      "requirements": "Starting level depends on the program",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/2ac4a1_bdb1a9ba8928476b99a24acb911a08c4~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.greendiversbarbados.com/services-4",
+      "checkNotes": "No prices on the page; each program is quoted on enquiry ('I'm interested!' / 'Let us build the perfect package for you'). The page's statistic about how few divers reach this rating was not repeated."
+    },
+    {
+      "title": "PADI Divemaster",
+      "kind": "course",
+      "summary": "The first professional PADI level, trained over several weeks alongside the team on real courses and daily dive operations. The schedule is built around your availability.",
+      "highlights": [
+        "Several weeks of training on real dive operations",
+        "Personalised schedule",
+        "PADI eLearning included",
+        "Bundle with EFR Instructor to save"
+      ],
+      "duration": "Several weeks",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 1500,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 1500,
+      "includes": [
+        "PADI eLearning"
+      ],
+      "bring": [],
+      "requirements": "Current EFR certification (within 24 months)",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/635600_71da40d738a9466e82bbd7ce641249d8~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/padi-divemaster"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/go-pro-dive-master",
+      "checkNotes": null
+    },
+    {
+      "title": "EFR Instructor",
+      "kind": "course",
+      "summary": "Become qualified to teach Emergency First Response courses in CPR, first aid and emergency care. Open to dive professionals and non-divers.",
+      "highlights": [
+        "Teach EFR Primary and Secondary Care",
+        "Open to non-divers"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Savvy on the Bay, Bay Street, Carlisle Bay, Bridgetown",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 450,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 450,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://www.greendiversbarbados.com/service-page/efr-instructor"
+      ],
+      "sourceUrl": "https://www.greendiversbarbados.com/go-pro-dive-master",
+      "checkNotes": "Booked with 'Request to Book', so the operator confirms each request. Service photo is an Unsplash stock image, so no trip image."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Green Divers Club: free dive club with a loyalty program to earn free dives, monthly meet-ups, Dive Against Debris dives and lionfish hunts",
+      "conditions": "Sign up on the club page",
+      "validUntil": null,
+      "sourceUrl": "https://www.greendiversbarbados.com/the-green-divers-club"
+    },
+    {
+      "text": "Free refresher session for certified divers whose last dive was a year or more ago",
+      "conditions": "Mandatory for those divers; does not use up dives in a package",
+      "validUntil": null,
+      "sourceUrl": "https://www.greendiversbarbados.com/daily-schedule"
+    },
+    {
+      "text": "Upgrade discounts: Discover Scuba to Scuba Diver or Open Water, Advanced Open Water to matching specialties, EFR plus O2 Provider, Rescue Diver to Master Scuba Diver",
+      "conditions": "Ask the shop",
+      "validUntil": null,
+      "sourceUrl": "https://www.greendiversbarbados.com/book-online"
+    },
+    {
+      "text": "Bundle PADI Divemaster with EFR Instructor to save",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://www.greendiversbarbados.com/go-pro-dive-master"
+    }
+  ],
+  "checkNotes": "All services and prices were read from the data embedded in the operator's own Wix Bookings page (/book-online), which lists every service with its USD price; the page states 'All prices are quoted in USD'. Each service has its own Wix booking page on the operator's domain, recorded in bookingLinks. Courses and DSD take a deposit by payment link after booking. Booking-widget slot lengths were not used as course durations. The FAQ says the boat 'Out of Air' is a 23ft Mako carrying a maximum of 7 divers with up to 3 staff, while the dive experience page says a 22ft Mako with a maximum of 8 guests. WhatsApp number is shown as text (+447346006590), not as a wa.me link. Photos on the Dive Conservation page are credited to photographer Keshia Kuhn (unnaturallynaturalviews.com) and were left out everywhere. DiveFest Barbados 2026 (16 to 22 August) has passed, so it is not listed. The shop opened in February 2026."
+}

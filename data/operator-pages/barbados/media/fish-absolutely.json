@@ -1,0 +1,32 @@
+{
+  "slug": "fish-absolutely",
+  "logo": "https://images.squarespace-cdn.com/content/v1/68ed87da7a9e5c5d22505d51/690c7759-4b33-4631-bae6-13ed92171c71/Absolutely_2.png",
+  "gallery": [
+    "https://images.squarespace-cdn.com/content/v1/68ed87da7a9e5c5d22505d51/79fbb74b-84e7-4e9b-8638-3739d05468d1/C656D2F8-6208-4BB8-BC22-2F554D831170.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/68ed87da7a9e5c5d22505d51/7e4243d1-f972-49a1-982d-7652eb391a8d/IMG_0621.jpg",
+    "https://images.squarespace-cdn.com/content/v1/68ed87da7a9e5c5d22505d51/e5054eba-b859-4dbb-a068-3347763edc01/IMG_4030.jpg",
+    "https://images.squarespace-cdn.com/content/v1/68ed87da7a9e5c5d22505d51/e851dacd-35d2-4143-bf55-e1cf864e4bb8/IMG_4693.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/68ed87da7a9e5c5d22505d51/bd6656f4-fd91-49e4-aac7-757291a5fe93/265204261_10159277684845733_7991432054082872407_n.jpg",
+    "https://images.squarespace-cdn.com/content/v1/68ed87da7a9e5c5d22505d51/7082327a-9644-42e9-a9b2-662084e75ec8/IMG_3388.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/68ed87da7a9e5c5d22505d51/2e13e18f-1bfd-4b9f-ae4a-683f0bd8318d/IMG_2529.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/68ed87da7a9e5c5d22505d51/c8a62866-bc46-40f7-b941-f0b17c94edbe/IMG_4577.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/68ed87da7a9e5c5d22505d51/0913a6cc-6626-4e68-a29b-963158641d70/IMG_3361.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/68ed87da7a9e5c5d22505d51/cf502b54-ac25-4d5c-91fb-c311e3d42687/IMG_3492.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/68ed87da7a9e5c5d22505d51/f0757369-772a-48d0-bce8-5fa3e21962de/IMG_2025.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/68ed87da7a9e5c5d22505d51/59c04f21-1b87-45ab-9f44-8364015ac928/IMG_4566.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/68ed87da7a9e5c5d22505d51/e5fb3832-be30-4130-b267-184aa76090a1/IMG_4533.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/68ed87da7a9e5c5d22505d51/76f12e44-fc1e-436e-aa10-19808b7ae78b/IMG_3772.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/68ed87da7a9e5c5d22505d51/923379cc-5f63-4ad5-b2fa-56fc7b203b6e/IMG_3418.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/68ed87da7a9e5c5d22505d51/332620fb-c803-40e7-9dd2-8500d574b52d/IMG_2497.png"
+  ],
+  "videos": [],
+  "trips": [
+    { "title": "Reef Runner (3hrs)", "images": [] },
+    { "title": "Fish & Snorkel Escape (4hrs)", "images": [] },
+    { "title": "Offshore Slam (8hrs)", "images": [] },
+    { "title": "Marlin Quest (10hrs)", "images": [] },
+    { "title": "Sunset Drift (3hrs)", "images": [] },
+    { "title": "Custom Trip (2-7+ days)", "images": [] }
+  ],
+  "notes": "Single-page site; all trips sit in one Trip Packages section with no photo tied to a single trip, so trip image lists are empty (the two section photos are in the gallery). Left out the template cloud graphics (Skydive_Cloud_*.png), a marlin line drawing and the embedded Instagram feed images. No videos found."
+}

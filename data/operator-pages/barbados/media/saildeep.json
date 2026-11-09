@@ -1,0 +1,31 @@
+{
+  "slug": "saildeep",
+  "logo": "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/44d72c54-17ff-41a1-a1bd-6b60b7d83747/SailDeep_Logo_Cream.png",
+  "gallery": [
+    "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/0c4bbd8b-2bee-402e-a937-0ac0102ceec2/Dolphins_Website_Header.jpg",
+    "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/b1a6fab8-d392-48df-97a4-5678a5ac9bdd/Instagram_2300px_150dpi_sRGB_SCU0014.jpg",
+    "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/b790d901-ac70-4704-a175-277246470b1d/Alex+Crank_2+Hayley+Thomas.jpg",
+    "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/1765555792550-7I9LAMHDC5JLEH9CKCWV/SailDeep_Tatum_At_Helm.jpg",
+    "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/810f0cc4-cf24-4079-91fd-8fca13ca77cc/DJI_20250413124648_0102_D.JPG",
+    "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/1765554870394-1CLNT3DJDUR5ZQJ0V3ZR/Photo%2B12-04-2025%252C%2B4%2B09%2B00%2BPM%2BMrChroma.jpg",
+    "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/c7e98461-1654-449b-ada0-c28e95b29033/IMG_1378.jpg",
+    "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/582ca16a-8287-4e30-a20e-8e45d510e7e1/IMG_8482+Hayley+Thomas.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/83dfc936-087b-473a-90c5-bb53152b0326/Random_2+Hayley+Thomas.jpg",
+    "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/f455abb8-222d-422c-b273-23ffe958161a/Instagram_2300px_150dpi_sRGB_SCU0087-Enhanced-NR.jpg",
+    "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/54ad31b4-7c25-468d-a185-587082cc70e4/Logan+Sail_1+Hayley+Thomas.jpg",
+    "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/6e88f3a4-a675-4b91-a8a2-c90e233a153f/Closeup+image+of+an+adult+lionfish",
+    "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/f36c59a5-3cb2-4dd1-926c-7435446d45b3/Instagram_2300px_150dpi_sRGB_SCU0183-Enhanced-NR-2.jpg",
+    "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/d2bc8517-274a-4178-abd7-7cf71276e68d/IMG_0762.JPG",
+    "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/16dd9855-028b-4f62-84f7-d91e9e8f54de/20250412145349_0024_D+Alexandra+copy.jpg",
+    "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/fb5d4e41-322f-4acd-a361-759f4a835aa4/IMG_3076+copy.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    { "title": "Day Passage", "images": ["https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/6d6f2c4d-ef9b-4d97-ad12-d067f5112952/Day+Passage+Video+Still.png", "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/18f90ac1-c7d3-47de-afc5-1e9c5489ae49/Woman+sitting+on+the+deck+of+Nayru.jpg", "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/03ff9658-3b42-44fc-b201-923d7fb36571/a+man+at+the+helm+of+Nayru"] },
+    { "title": "Coastal Voyage", "images": ["https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/b7bd3b7b-14ee-4fdf-8a14-702600ceb398/Divers+surfacing+after+a+dive+in+Barbados", "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/46a5e9f9-da39-4f21-8938-4c59377677d8/Cleaning+a+snapper+aboard+Nayru.jpg", "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/b9d85760-8b30-41d6-8ab7-93c6995d83cf/Sailboat+at+Sunset+off+Martinique.jpg"] },
+    { "title": "Island Voyage", "images": ["https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/566ad798-799b-499f-9322-fd908ef25fe6/Dinghy+ashore.jpg", "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/6356ab0d-e55b-41e3-ad9d-ed43534d9ac3/Through+the+palm+trees+at+the+beach+in+Barbados", "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/69a8e02b-61ac-4d61-8feb-2d03c20319db/IMG_3436.jpg", "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/f151e8f5-a4d4-451a-a9ad-beca7f43a903/IMG_1457.jpg"] },
+    { "title": "Deep Voyage", "images": ["https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/f7088a77-6973-45c5-8c62-8a4802e7563e/Towing+the+dinghy+while+fishing.jpg", "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/b0586fee-9137-4f77-b9fd-17968e2732d3/French+Angelfish+Closeup"] },
+    { "title": "Horizon Voyage", "images": ["https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/026fcdef-8251-436b-9bf5-95083035510c/Frame-11-05-2026-07-22-35.jpg", "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/df392cbc-9203-4f3c-880c-595993ad6750/Sailing+Nayru+From+The+Bow+Headsail+Only.jpg", "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/cd486b3d-d659-4268-9421-e02326007b04/Arriving+at+SoufriereThe+Pitons+Saint+Lucia+from+Nayru+copy.jpg", "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/40ca06d4-6145-460f-853b-1048d11fdd0b/DJI_20250413130611_0051_D+Alexandra+copy.jpg", "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/402ec18f-9dd9-4ad0-86b0-c48ada7e93bf/IMG_0762.png", "https://images.squarespace-cdn.com/content/v1/68e7ec5cbb45b82ba08dd139/ba60c65b-75b8-4e2e-85e5-279ebac3d074/SailDeep_Background_Image_Horizon_Voyage.png"] }
+  ],
+  "notes": "Squarespace site. All voyages share one page (/voyage), so trip photos are matched by position: the section images on /voyage plus the photo carousel under each card in the home page's Featured Voyages block; the carousel boundaries are inferred from page order, so a fact-checker should confirm which photos belong to which voyage. Several photos were taken in the Grenadines, Tobago Cays and St. Lucia (shown under Horizon and in the gallery). File names carry photographer names (Hayley Thomas, Alexandra, MrChroma); left in as the operator's own published photos. Left out: affiliate photos (Barbados Blue team, Wet & Salty) and the template merchandise shop images. Videos: the site uses Squarespace-hosted background videos (for example Dolphins_Website_Header.mp4 on the home page) served as streams with no direct .mp4, YouTube or Vimeo URL, so none recorded. The Instagram account is not used."
+}

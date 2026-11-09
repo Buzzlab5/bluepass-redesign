@@ -1,0 +1,9 @@
+{
+  "slug": "queensland-scuba-diving-co",
+  "logo": null,
+  "heroImage": null,
+  "gallery": [],
+  "videos": [],
+  "trips": [],
+  "notes": "BLOCKED, no media collected. On 15 Oct 2026 one request to https://qldscubadive.com.au/ returned HTTP 202 with a SiteGround bot challenge (a meta refresh to /.well-known/sgcaptcha/) instead of the page, so the site was not read any further and nothing was tried to get past the check. No logo, hero photo, gallery photos or trip photos were recorded, and no YouTube or Vimeo channel could be found because the site's pages and footer links were never reached. The facts file has no trips, so the trips list here is empty too. A person needs to collect the operator's own photos, logo and video links from the site in a normal browser, or ask the operator for them."
+}

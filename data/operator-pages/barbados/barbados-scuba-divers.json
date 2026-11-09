@@ -1,0 +1,790 @@
+{
+  "slug": "barbados-scuba-divers",
+  "name": "Barbados Scuba Divers",
+  "website": "https://www.246scuba.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Speightstown",
+  "category": "Scuba diving and courses",
+  "summary": "A small dive operation led by instructor Scott Clarke, diving from the dock at Little Good Harbour and the Fish Pot Restaurant on the north west coast. It runs boat and shore dives, PADI and SSI courses from a first try dive to Divemaster, and private snorkel and sunset cruises. Bookings are made by phone, email or the contact form.",
+  "standouts": [
+    "Teaches both SSI and PADI certification courses",
+    "Morning, afternoon and night dives seven days a week",
+    "Boat pick-up from your beach available",
+    "Scuba and accommodation packages"
+  ],
+  "contact": {
+    "phone": "+1 246 240 9872",
+    "email": "BarbadosScubaDivers@gmail.com",
+    "address": null,
+    "whatsapp": null
+  },
+  "heroImage": "https://static.wixstatic.com/media/8ff218_cfd6377a328f4313bc2458bb3911bbdb.jpg",
+  "sourceUrls": [
+    "https://www.246scuba.com/",
+    "https://www.246scuba.com/scuba-diving",
+    "https://www.246scuba.com/departures-pricelist",
+    "https://www.246scuba.com/private-tour",
+    "https://www.246scuba.com/video-reel",
+    "https://www.246scuba.com/contact",
+    "https://www.246scuba.com/products",
+    "https://www.246scuba.com/accommodation-restaurants",
+    "https://www.246scuba.com/instructors",
+    "https://www.246scuba.com/discover-scuba-diving",
+    "https://www.246scuba.com/open-water-diver",
+    "https://www.246scuba.com/advanced-open-water-diver",
+    "https://www.246scuba.com/adventure-diver",
+    "https://www.246scuba.com/enriched-airnitrox-diver",
+    "https://www.246scuba.com/night-diver",
+    "https://www.246scuba.com/deep-diver",
+    "https://www.246scuba.com/drift-diver",
+    "https://www.246scuba.com/wreck-diver",
+    "https://www.246scuba.com/rescue-diver",
+    "https://www.246scuba.com/emergency-first-response-provider",
+    "https://www.246scuba.com/dive-master",
+    "https://www.246scuba.com/padi-elearning"
+  ],
+  "trips": [
+    {
+      "title": "Boat Dives (Full Kit)",
+      "kind": "dive",
+      "summary": "Guided boat dives for certified divers, with full Cressi rental kit and the tanks carried and cleaned for you. Divers choose a morning, afternoon or sunset night departure, and the price per dive drops as you add more dives.",
+      "highlights": [
+        "Morning, afternoon and night departures, 7 days per week",
+        "Pick-up by boat at your beach available",
+        "No added fees or surcharges",
+        "Group packages on request"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [
+        "06:00",
+        "07:00",
+        "08:00",
+        "09:00",
+        "17:30"
+      ],
+      "season": null,
+      "departsFrom": "Dock at Fish Pot Restaurant / Little Good Harbour Hotel",
+      "prices": [
+        {
+          "label": "1 dive",
+          "amount": 80,
+          "currency": "USD",
+          "note": "Per person, full kit"
+        },
+        {
+          "label": "2 dives",
+          "amount": 160,
+          "currency": "USD",
+          "note": "Per person, full kit"
+        },
+        {
+          "label": "3 dives",
+          "amount": 235,
+          "currency": "USD",
+          "note": "Per person, full kit"
+        },
+        {
+          "label": "4 dives",
+          "amount": 310,
+          "currency": "USD",
+          "note": "Per person, full kit"
+        },
+        {
+          "label": "5 dives",
+          "amount": 380,
+          "currency": "USD",
+          "note": "Per person, full kit"
+        },
+        {
+          "label": "6 dives",
+          "amount": 450,
+          "currency": "USD",
+          "note": "Per person, full kit"
+        },
+        {
+          "label": "Additional dives",
+          "amount": 70,
+          "currency": "USD",
+          "note": "Per person, per dive"
+        },
+        {
+          "label": "Group packages",
+          "amount": null,
+          "currency": "USD",
+          "note": "On request"
+        }
+      ],
+      "priceFrom": 80,
+      "includes": [
+        "Full kit",
+        "Scuba gear carried and cleaned for you"
+      ],
+      "bring": [],
+      "requirements": "Proof of certification required",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/8ff218_821c513fe9ef4f3b9e2090aadaaa57bf.jpg",
+        "https://static.wixstatic.com/media/8ff218_dc84e62b86ab45b5992b6ea6d8246f87~mv2.jpg",
+        "https://static.wixstatic.com/media/8ff218_061d7c48f114452b9af518415a437f18~mv2.jpg",
+        "https://static.wixstatic.com/media/8ff218_4f5deab9ec3b4033b5c2316337b6d912~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/departures-pricelist",
+      "checkNotes": "Morning departure is 'When Your Ready: 6,7,8 or 9 am'; afternoon is 'Your Call: Between 12pm - 3pm' (a range, not a set time); night is 'Sunset: 5:30pm'. The price list names three bases: Moontown Dive Shop, Little Good Harbour / Fish Pot Restaurant and Mullins Beach. A 'Boat: Tanks/Weights' heading appears with no prices beside it. Booking by phone, email or contact form only."
+    },
+    {
+      "title": "Shore Dive (Full Kit)",
+      "kind": "dive",
+      "summary": "A guided dive from the beach for certified divers, with the guide meeting you at the beach and full kit supplied. It is priced per dive.",
+      "highlights": [
+        "Dive guide included",
+        "Meet at the beach",
+        "Group packages on request"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per dive",
+          "amount": 75,
+          "currency": "USD",
+          "note": "Per person, full kit"
+        },
+        {
+          "label": "Group packages",
+          "amount": null,
+          "currency": "USD",
+          "note": "On request"
+        }
+      ],
+      "priceFrom": 75,
+      "includes": [
+        "Full kit",
+        "Dive guide"
+      ],
+      "bring": [],
+      "requirements": "Proof of certification required",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/8ff218_c50d367aac9540b19fb595226db08f0c.jpg",
+        "https://static.wixstatic.com/media/8ff218_929aabe516c441cdaf5930bc4724811f.jpg",
+        "https://static.wixstatic.com/media/8ff218_6936762565c740a7adc2dd802b58fa27.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/departures-pricelist",
+      "checkNotes": "Beach location not named for the shore dive."
+    },
+    {
+      "title": "Discover Scuba Diving",
+      "kind": "dive",
+      "summary": "A first try at scuba for people who are not ready for a full course, run in a pool, off a beach or from the dive boat. A PADI professional covers the basic safety skills and stays with you through the dive.",
+      "highlights": [
+        "1 dive over about 4 hours",
+        "Pool, beach or boat",
+        "No prior scuba experience needed",
+        "All basic scuba gear provided"
+      ],
+      "duration": "1 dive / 4 hrs",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 110,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 110,
+      "includes": [
+        "Mask",
+        "Snorkel",
+        "Fins",
+        "Regulator",
+        "Buoyancy control device",
+        "Dive gauges",
+        "Weights",
+        "Tank",
+        "Discover Scuba Diving Participant Guide"
+      ],
+      "bring": [],
+      "requirements": "Minimum age 10; reasonable physical health",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/discover-scuba-diving",
+      "checkNotes": null
+    },
+    {
+      "title": "Swimming Pool Dive",
+      "kind": "dive",
+      "summary": "A scuba session in the swimming pool at Sion Hill. It is listed on the price list as a separate experience.",
+      "highlights": [
+        "Pool at Sion Hill"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pool at Sion Hill",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 50,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 50,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/departures-pricelist",
+      "checkNotes": "Only a line on the price list; no description page. Price list column headings read 'Scuba Experience', 'Scuba Course' and 'Pool@Sion Hill'."
+    },
+    {
+      "title": "PADI Open Water Course",
+      "kind": "course",
+      "summary": "The entry level scuba certification, with a half day pool session followed by four open water dives over three days. Theory can be done online through PADI eLearning or with home study materials before you arrive.",
+      "highlights": [
+        "Half day pool session and 4 open water dives",
+        "3 days",
+        "eLearning or home study option",
+        "No prior scuba experience needed"
+      ],
+      "duration": "1/2 day pool session / 4 dives / 3 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 650,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 650,
+      "includes": [],
+      "bring": [],
+      "requirements": "Minimum age 10; adequate swimming skills; good physical health",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/open-water-diver",
+      "checkNotes": "Price list shows 'OPEN WATER DIVER - $650', matching the course page."
+    },
+    {
+      "title": "PADI Scuba Diver",
+      "kind": "course",
+      "summary": "A PADI certification listed on the price list. The site gives no further detail.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 350,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 350,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/departures-pricelist",
+      "checkNotes": "Only a line on the price list; no description page."
+    },
+    {
+      "title": "Enriched Air Diver \"Nitrox\"",
+      "kind": "course",
+      "summary": "A one day specialty course on diving with enriched air nitrox, covering oxygen exposure, analysing tanks and setting a dive computer. Dives are not part of the course but can be added.",
+      "highlights": [
+        "1 day, no dives",
+        "Dives can be added",
+        "PADI eLearning option"
+      ],
+      "duration": "No dives / 1 day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 200,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 200,
+      "includes": [],
+      "bring": [],
+      "requirements": "PADI (Junior) Open Water Diver, minimum age 12",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/enriched-airnitrox-diver",
+      "checkNotes": null
+    },
+    {
+      "title": "Adventure Diver",
+      "kind": "course",
+      "summary": "Three adventure dives chosen with your instructor, such as navigation, deep or night diving, leading to the Adventure Diver certification. It is a step towards Advanced Open Water.",
+      "highlights": [
+        "3 dives over 2 days",
+        "Choose your adventure dives"
+      ],
+      "duration": "3 dives / 2 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 350,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 350,
+      "includes": [],
+      "bring": [],
+      "requirements": "PADI (Junior) Open Water Diver, minimum age 10",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/adventure-diver",
+      "checkNotes": "Page body also says '3 dives / 1 or 2 days'. The price list shows 'ADVENTURE DIVE - On Request', which appears to be a single adventure dive rather than this course."
+    },
+    {
+      "title": "Advanced Open Water Diver",
+      "kind": "course",
+      "summary": "Five adventure dives over three days, including the required deep and underwater navigation dives plus three you choose. It builds on the Open Water certification.",
+      "highlights": [
+        "5 dives over 3 days",
+        "Deep and navigation dives plus three of your choice",
+        "PADI eLearning option"
+      ],
+      "duration": "5 dives / 3 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 465,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 465,
+      "includes": [],
+      "bring": [],
+      "requirements": "PADI (Junior) Open Water Diver, minimum age 12",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/advanced-open-water-diver",
+      "checkNotes": null
+    },
+    {
+      "title": "Night Diver",
+      "kind": "course",
+      "summary": "A specialty course of three night dives, covering light handling, signals and navigating in the dark. Divers see how reef life changes after sunset.",
+      "highlights": [
+        "3 dives over 2 days"
+      ],
+      "duration": "3 dives / 2 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 350,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 350,
+      "includes": [],
+      "bring": [],
+      "requirements": "PADI (Junior) Open Water Diver or higher, minimum age 12",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/night-diver",
+      "checkNotes": null
+    },
+    {
+      "title": "Deep Diver",
+      "kind": "course",
+      "summary": "A specialty course of four deep dives to as much as 40 metres, covering dive planning, gas management and narcosis. A dive computer is needed.",
+      "highlights": [
+        "4 dives over 2 days",
+        "Dives to 40 metres"
+      ],
+      "duration": "4 dives / 2 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 450,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 450,
+      "includes": [],
+      "bring": [
+        "Dive computer"
+      ],
+      "requirements": "PADI Adventure Diver or higher, minimum age 15",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/deep-diver",
+      "checkNotes": null
+    },
+    {
+      "title": "Drift Diver",
+      "kind": "course",
+      "summary": "A one day specialty course of two drift dives, using surface marker buoys, lines and reels and staying together as a group in the current.",
+      "highlights": [
+        "2 dives in 1 day"
+      ],
+      "duration": "2 dives / 1 day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 250,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 250,
+      "includes": [],
+      "bring": [],
+      "requirements": "PADI (Junior) Open Water Diver, minimum age 12",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/drift-diver",
+      "checkNotes": null
+    },
+    {
+      "title": "Wreck Diver",
+      "kind": "course",
+      "summary": "A specialty course of four wreck dives, covering safety, surveying and mapping a wreck and using lines and reels. It also teaches how to avoid disturbing the wreck and its marine life.",
+      "highlights": [
+        "4 dives over 2 days"
+      ],
+      "duration": "4 dives / 2 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 450,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 450,
+      "includes": [],
+      "bring": [],
+      "requirements": "PADI Adventure Diver or higher, minimum age 15",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/wreck-diver",
+      "checkNotes": null
+    },
+    {
+      "title": "Rescue Diver",
+      "kind": "course",
+      "summary": "A course in preventing and handling problems in the water, from self rescue to helping a panicked or unresponsive diver. It runs over two days with two dives.",
+      "highlights": [
+        "2 dives over 2 days",
+        "PADI eLearning option"
+      ],
+      "duration": "2 dives / 2 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 425,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 425,
+      "includes": [],
+      "bring": [],
+      "requirements": "PADI (Junior) Advanced Open Water Diver, minimum age 12, Underwater Navigation Adventure Dive completed, and Emergency First Response Primary and Secondary Care training within the past 24 months",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/rescue-diver",
+      "checkNotes": "Course page says $425.00; the price list says 'RESCUE DIVER - 450' with no currency sign. Used the course page."
+    },
+    {
+      "title": "Emergency First Response Provider",
+      "kind": "course",
+      "summary": "A one day CPR and first aid course that meets the first aid requirement for Rescue Diver. Children, adults and grandparents can take it together.",
+      "highlights": [
+        "1 day, no dives",
+        "Meets Rescue Diver first aid requirement"
+      ],
+      "duration": "No dives / 1 day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 150,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 150,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/emergency-first-response-provider",
+      "checkNotes": "Not on the price list; price from the course page."
+    },
+    {
+      "title": "Divemaster",
+      "kind": "course",
+      "summary": "The first professional level of PADI training, run full time over six to twelve weeks alongside an instructor. Price is on request.",
+      "highlights": [
+        "Full time, 6 to 12 weeks"
+      ],
+      "duration": "Full time 6-12 weeks",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "PADI Rescue Diver, minimum age 18; Emergency First Response Primary and Secondary Care training within the past 24 months; medical statement signed by a physician within the last 12 months; at least 40 logged dives to begin and 60 to certify",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/dive-master",
+      "checkNotes": "Price shown as 'On Request'."
+    },
+    {
+      "title": "ReACTIVATE",
+      "kind": "course",
+      "summary": "A dive refresher listed on the price list. Price is on request.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/departures-pricelist",
+      "checkNotes": "Only a line on the price list ('ReACTIVATE - On Request'); no description page."
+    },
+    {
+      "title": "Underwater Photography",
+      "kind": "course",
+      "summary": "Underwater camera training with Lucy Agace, an INON instructor and author of the Barbados Dive Guide. She runs certification courses and daily coaching for divers who want to get more from their camera.",
+      "highlights": [
+        "INON certification courses",
+        "Daily camera coaching for any diver"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/instructors",
+      "checkNotes": "Price list shows 'UNDERWATER PHOTOGRAPHY - On Request'. Details from the instructors page."
+    },
+    {
+      "title": "Freediving courses",
+      "kind": "course",
+      "summary": "Freediving courses and private training with instructor Johannah Loch-Allen, who teaches a range of PADI freediving courses. No prices or durations are given.",
+      "highlights": [
+        "PADI freediving courses",
+        "Private training"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/instructors",
+      "checkNotes": "Mentioned only on the instructors page; course names not listed."
+    },
+    {
+      "title": "Lionfish Hunting excursions",
+      "kind": "dive",
+      "summary": "Lionfish hunting trips for individuals or groups, from the shore or by boat, led by instructor Johannah Loch-Allen. No prices or times are given.",
+      "highlights": [
+        "Shore or boat",
+        "Individuals or groups"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/instructors",
+      "checkNotes": "Mentioned only on the instructors page."
+    },
+    {
+      "title": "West Coast Cruise / Snorkel Tour",
+      "kind": "snorkel",
+      "summary": "A private morning or afternoon snorkel cruise along the west coast. Stops include the turtles at Six Men's Bay, the shallow reef and rock wall at Port St Charles, stingrays, turtles and tarpon at Holetown, and the Jolly Roger barges.",
+      "highlights": [
+        "Up to 8 stops on request",
+        "Snorkel equipment provided",
+        "Light snacks and drinks, or bring your own"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Snorkel equipment",
+        "Light snacks and drinks"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/8ff218_3fe812a80386415eb3a153ef5e5cddc4~mv2.jpg",
+        "https://static.wixstatic.com/media/8ff218_490124e883784610b34a2b881da50bdc~mv2.jpg",
+        "https://static.wixstatic.com/media/8ff218_8c757db1a4f246fbab8b6e6e5ce834c7~mv2.jpg",
+        "https://static.wixstatic.com/media/8ff218_18cbbb3e80024088b3f788c81406e09d~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/private-tour",
+      "checkNotes": "No price; enquiry through the contact page. Heading on the site reads 'WEST COAT CRUISE / SNORKEL TOUR'; body text says West Coast. Photos assigned by their order on the page."
+    },
+    {
+      "title": "Sunset Cruise",
+      "kind": "cruise",
+      "summary": "A private two hour cruise at sunset with time for a swim and a drink on board. Back on shore there are fresh water showers and the option of a meal by the beach.",
+      "highlights": [
+        "2 hours",
+        "Time for a swim",
+        "Fresh water showers on return"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/8ff218_f01403f421c84549b8815d30011e6078~mv2.jpg",
+        "https://static.wixstatic.com/media/8ff218_9aaae2496a004923bc546cdae2a980b5~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.246scuba.com/private-tour",
+      "checkNotes": "No price; enquiry through the contact page. Photos assigned by their order on the page."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Discount for divers who bring their own BCD and regulators",
+      "conditions": "Clients who provide their own BCD and regulators",
+      "validUntil": null,
+      "sourceUrl": "https://www.246scuba.com/departures-pricelist"
+    },
+    {
+      "text": "Scuba and accommodation packages",
+      "conditions": "Clients on packaged deals take booking priority",
+      "validUntil": null,
+      "sourceUrl": "https://www.246scuba.com/"
+    }
+  ],
+  "checkNotes": "No dates, years or seasonal prices anywhere on the site, so it cannot confirm current trading on its own; the list marks it active. All prices on the price list are stated as 'USD$ per person'. Site says 'No refunds, courses can be continued world-wide'. The bring-your-own-gear discount is given on the site as a percentage, left out of the offer text. Town set to Speightstown as the nearest town; the site names Little Good Harbour / Fish Pot Restaurant, Mullins Beach and Moontown as bases. Contact page names Scott Clarke as director and instructor. No booking engine: phone, email and contact form only. The video reel page loads its video in the browser only, so no video URL could be read."
+}

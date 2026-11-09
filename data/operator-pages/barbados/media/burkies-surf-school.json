@@ -1,0 +1,40 @@
+{
+  "slug": "burkies-surf-school",
+  "logo": "http://blog.surfbarbados.net/images/logo.png",
+  "gallery": [
+    "http://blog.surfbarbados.net/images/photo_gallery_110.jpg",
+    "http://blog.surfbarbados.net/images/photo_gallery_210.jpg",
+    "http://blog.surfbarbados.net/images/photo_gallery_35.jpg",
+    "http://blog.surfbarbados.net/images/photo_gallery_41.jpg",
+    "http://blog.surfbarbados.net/images/photo_gallery_51.jpg",
+    "http://blog.surfbarbados.net/images/photo_gallery_61.jpg",
+    "http://blog.surfbarbados.net/images/photo_gallery_71.jpg",
+    "http://blog.surfbarbados.net/images/photo_gallery_81.jpg",
+    "http://blog.surfbarbados.net/images/photo_gallery_91.jpg",
+    "http://blog.surfbarbados.net/images/photo_gallery_101.jpg",
+    "http://blog.surfbarbados.net/images/photo_gallery_111.jpg",
+    "http://blog.surfbarbados.net/images/photo_gallery_121.jpg",
+    "http://blog.surfbarbados.net/images/photo_gallery_131.jpg",
+    "http://blog.surfbarbados.net/images/photo_gallery_141.jpg",
+    "http://blog.surfbarbados.net/images/photo_gallery_151.jpg",
+    "http://blog.surfbarbados.net/images/photo_gallery_161.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=7bAcA8UvfTk",
+      "title": "Burkie Surf School video",
+      "sourceUrl": "http://blog.surfbarbados.net/watch-the-video.html"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Private Lesson",
+      "images": []
+    },
+    {
+      "title": "Group Lesson",
+      "images": []
+    }
+  ],
+  "notes": "The site only serves over plain http (https gives no answer), so all image URLs are http. The photo page has 38 images; the 16 larger .jpg files are listed, the small .jpeg versions left out. The lesson pages have no photos of their own. TripAdvisor award badges on the home page are left out."
+}

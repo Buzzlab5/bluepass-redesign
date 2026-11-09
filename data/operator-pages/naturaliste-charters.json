@@ -1,0 +1,321 @@
+{
+  "slug": "naturaliste-charters",
+  "name": "Naturaliste Charters",
+  "website": "https://naturalistecharters.com.au",
+  "rezdyAlias": "naturalistecharters",
+  "state": "WA",
+  "town": "Dunsborough",
+  "category": "Whale and orca tours",
+  "summary": "Whale watching cruises and full-day killer whale expeditions in Western Australia's South West and Great Southern, run on the 23 metre catamaran Alison Maree. Tours leave from Augusta from May to August, Dunsborough from August to November and Bremer Bay from December to April. The business is family owned by Paul and Alison Cross, who took over in 2009.",
+  "standouts": [
+    "Eco Certified Green Travel Leader accreditation, with more than 10 years of ECO Certification",
+    "Member of Australian Wildlife Journeys, described by the site as a Signature Experience of Australia",
+    "Family owned and operated, with Paul and Alison Cross as owners since 2009",
+    "Qualified marine biologist on board every Bremer Canyon expedition"
+  ],
+  "contact": {
+    "phone": "+61 8 9750 5500",
+    "email": "info@whales-australia.com.au",
+    "address": "Unit 1, 25-27 Dunn Bay Road, Dunsborough, Western Australia"
+  },
+  "heroImage": "https://naturalistecharters.com.au/wp-content/uploads/2024/11/NC10.jpg",
+  "sourceUrls": [
+    "https://naturalistecharters.com.au/",
+    "https://naturalistecharters.com.au/all-tours/",
+    "https://naturalistecharters.com.au/bremercanyonkillerwhales/",
+    "https://naturalistecharters.com.au/augustawhalewatching/",
+    "https://naturalistecharters.com.au/dunsboroughwhalewatching/",
+    "https://naturalistecharters.com.au/busseltonwhalewatching/",
+    "https://naturalistecharters.com.au/margaret-river-whale-watching/",
+    "https://naturalistecharters.com.au/booking/",
+    "https://naturalistecharters.com.au/faq/",
+    "https://naturalistecharters.com.au/additional-services/",
+    "https://naturalistecharters.com.au/gift-vouchers/",
+    "https://naturalistecharters.com.au/nosightingpolicy/",
+    "https://naturalistecharters.com.au/cancellationpolicy/",
+    "https://naturalistecharters.com.au/ourvessels/",
+    "https://naturalistecharters.com.au/meet-the-crew/",
+    "https://naturalistecharters.com.au/contact/",
+    "https://naturalistecharters.com.au/departurelocations/",
+    "https://naturalistecharters.com.au/bremer-bay/",
+    "https://naturalistecharters.com.au/augusta-whale-watching/",
+    "https://naturalistecharters.com.au/dunsborough-whale-watching-2/",
+    "https://naturalistecharters.com.au/albanywhalewatching/",
+    "https://naturalistecharters.com.au/perth-whale-watching/",
+    "https://naturalistecharters.com.au/ourstory/",
+    "https://naturalistecharters.com.au/our-accreditation/",
+    "https://naturalistecharters.com.au/conservation/",
+    "https://naturalistecharters.com.au/whatwearecurrentlyseeing/",
+    "https://naturalistecharters.com.au/robots.txt",
+    "https://naturalistecharters.com.au/sitemap_index.xml",
+    "https://naturalistecharters.com.au/page-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Bremer Canyon Killer Whale Expedition",
+      "kind": "tour",
+      "summary": "A full-day expedition from Bremer Bay Boat Harbour out to the Bremer Canyon on the 23 metre catamaran Alison Maree, looking for killer whales (orca). A qualified marine biologist is on board, and meals and drinks are provided through the day. It runs daily from December to April, weather and numbers permitting.",
+      "highlights": [
+        "Qualified marine biologist on board every expedition",
+        "Catering all day, with gluten free, dairy free and vegan options",
+        "Professional photographer on board and a daily blog emailed the next day",
+        "Wildlife the operator lists includes killer whales, pilot whales, sperm whales, dolphins, sea lions and pelagic birds"
+      ],
+      "duration": "Approximately 8 hours",
+      "durationMinutes": 480,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": "December to April",
+      "departsFrom": "Bremer Bay Boat Harbour, Swarbrick Road, Bremer Bay",
+      "prices": [
+        {
+          "label": "Adults",
+          "amount": 399,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Seniors",
+          "amount": 389,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Children (10-17 years)",
+          "amount": 329,
+          "currency": "AUD",
+          "note": "Minimum age is 10"
+        },
+        {
+          "label": "Bus and expedition package, Albany departure and return",
+          "amount": 511,
+          "currency": "AUD",
+          "note": "Package price from the Albany whale watching page; the bus is run with Busy Blue Bus. The FAQ gives different bus prices."
+        }
+      ],
+      "priceFrom": 399,
+      "includes": [
+        "Qualified marine biologist on board with commentary through the day",
+        "Citizen science activities during the expedition",
+        "Professional photographer on board, and a daily blog from the marine biologist emailed the next day",
+        "Catering through the day, including fresh rolls, wraps, fruit and snacks, with gluten free, dairy free and vegan options",
+        "Cool drinks, filtered water, tea, coffee, Milo and biscuits",
+        "Underwater GoPro footage shared when captured",
+        "Life jackets for everyone on board",
+        "Two toilets on board, one suitable for wheelchair access"
+      ],
+      "bring": [
+        "Seasickness medication (the site recommends it; seek advice from a GP or pharmacist)",
+        "Warm, layered, waterproof clothing and flat, closed-in shoes",
+        "A hat that will not blow off, sunscreen and a camera",
+        "A water bottle to refill on board"
+      ],
+      "requirements": "Minimum age 10, strictly enforced; proof of age may be requested and children must be supervised by a parent. Alcohol, smoking and guest drones are not permitted. Wheelchair passengers are possible with limitations: tell the office when booking and bring at least one support person.",
+      "offer": null,
+      "images": [
+        "https://naturalistecharters.com.au/wp-content/uploads/2023/08/killer-whale.jpg",
+        "https://naturalistecharters.com.au/wp-content/uploads/2020/01/Front-view-of-a-killer-whale.jpg",
+        "https://naturalistecharters.com.au/wp-content/uploads/2023/08/whale-sighting.jpg",
+        "https://naturalistecharters.com.au/wp-content/uploads/2023/08/killer-whale-watching.jpg"
+      ],
+      "bookingLinks": [
+        "https://naturalistecharters.rezdy.com/162360/bremer-canyon-killer-whale-expedition",
+        "https://naturalistecharters.rezdy.com/catalog/293156/killer-whale-expeditions",
+        "https://naturalistecharters.rezdy.com/163946/bremer-canyon-killer-whale-expedition-with-albany-bus-transfers"
+      ],
+      "sourceUrl": "https://naturalistecharters.com.au/bremercanyonkillerwhales/",
+      "checkNotes": "Prices and the 8 hour duration agree between the tour page and the Tours listing page. Departure: the tour page says arrive 7:45am for an 8:30am departure; the FAQ says boarding at 8am, arrive 30 minutes before, and return about 4:30pm. The FAQ is older in places: it says the child price is $300 and that children must be booked online as Adult then confirmed with the office, says expeditions begin in January, and mentions Sperm Whale and Pelagic expeditions from April; the tour page (December to April, children $329) is used. An online booking fee is stated on the tour page and can be avoided by phoning the office; it is a percentage so it is not recorded as a price. The Albany bus package ($511) is on the Albany whale watching page only, which looks older; the FAQ gives $484 for expedition plus bus and $99 for the bus alone (Busy Blue Bus is a separate business). Photos: the tour page says all photos are sent free after the tour, the FAQ says photos cannot be provided for every expedition; confirm. The site states a sighting rate, a sightings guarantee and a free revisit if no killer whales are seen (one revisit per person, valid for two years, not transferable, contact the office); not repeated here. Booking links: the per-trip link is from the Tours listing page; the Book Now buttons on the tour page use Rezdy catalog 293156, recorded second; the Albany bus package link is recorded third. A Multi Day Pass button links to a Rezdy catalog (634290) with no description on the site, so it is not a trip here. The Bremer Bay location page's Book button points to a catalog named augusta-whale-watching (325781) and was not recorded."
+    },
+    {
+      "title": "Augusta Whale Watching",
+      "kind": "cruise",
+      "summary": "A two hour whale watching cruise from Augusta Boat Harbour on Flinders Bay, leaving twice daily from May to August. The crew gives commentary, and humpback and southern right whales are the main species on this coast. Tea, coffee and biscuits are provided, and the vessel has life jackets for infants, a baby change table and room for strollers.",
+      "highlights": [
+        "Departs 10:00 and 14:00 daily",
+        "23 metre catamaran Alison Maree with a bow, upper and lower rear decks, an air-conditioned saloon and a wheelhouse",
+        "Morning or afternoon tea included",
+        "Family facilities: infant life jackets, baby change table, stroller space"
+      ],
+      "duration": "Approximately 2 hours (allow up to 3 hours depending on wildlife sightings)",
+      "durationMinutes": 120,
+      "departureTimes": [
+        "10:00",
+        "14:00"
+      ],
+      "season": "May to August",
+      "departsFrom": "Augusta Boat Harbour, Leeuwin Road, Augusta",
+      "prices": [
+        {
+          "label": "Adults",
+          "amount": 105,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Seniors",
+          "amount": 95,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Children (3-14)",
+          "amount": 65,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2+2)",
+          "amount": 300,
+          "currency": "AUD",
+          "note": "2 adults and 2 children"
+        },
+        {
+          "label": "Infants",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        }
+      ],
+      "priceFrom": 105,
+      "includes": [
+        "Morning or afternoon tea: tea, coffee, Milo, green tea, filtered water and biscuits",
+        "Life jackets for everyone on board, including infants",
+        "Two toilets on board, one suitable for wheelchair access, and a baby change table"
+      ],
+      "bring": [
+        "Layers, as it can be colder at sea than on land",
+        "Sun protection (sunglasses, hat, sunscreen) and a camera",
+        "A reusable drink bottle or keep cup to refill on board (soft drinks and snacks can be bought)"
+      ],
+      "requirements": "Open to all ages. Arrive 15 to 30 minutes before departure. Wheelchair passengers are possible with limitations: contact the office before booking.",
+      "offer": null,
+      "images": [
+        "https://naturalistecharters.com.au/wp-content/uploads/2020/08/Low-res.11-1.jpg",
+        "https://naturalistecharters.com.au/wp-content/uploads/2023/08/Humpback-whale-tail-splashing-against-the-water_Naturaliste-Charters-1.jpg",
+        "https://naturalistecharters.com.au/wp-content/uploads/2023/08/A-close-up-of-a-humpback-whale-surfacing_Naturaliste-Charters-e1693294135814-1.jpg",
+        "https://naturalistecharters.com.au/wp-content/uploads/2023/08/humpack-whale-spotted-breaching-the-water_Naturaliste-Charters-e1693294253490-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://naturalistecharters.rezdy.com/7899/augusta-whale-watching-eco-tours"
+      ],
+      "sourceUrl": "https://naturalistecharters.com.au/augustawhalewatching/",
+      "checkNotes": "Prices, times and season agree between the tour page and the Tours listing page. Duration: the listing and tour page say 2.0 hours with up to 3 hours allowed; the page introduction says 2 to 2.5 hours and the gift voucher page says 2.5 hours. The FAQ gives late May to mid-August; the pages say May to August, used here. The homepage 'From' price is the child fare. The site states a sighting rate and a free revisit if no whales are seen (valid for two years, one tour, not transferable); not repeated here. Restaurant discounts for ticket holders are recorded under offers. Per-trip booking link is from the Tours listing page."
+    },
+    {
+      "title": "Dunsborough Whale Watching",
+      "kind": "cruise",
+      "summary": "A two hour whale watching cruise in Geographe Bay, leaving twice daily from August to November. Guests board from the beach at Quindalup by a ramp onto a small vessel, the Indi Maree, then step across to the larger Alison Maree. Humpback whales are the main species in the bay, with blue whales possible from October.",
+      "highlights": [
+        "Departs 10:00 and 14:00 daily",
+        "Beach boarding at Quindalup by ramp with handrails, then a transfer to the Alison Maree",
+        "Humpback, southern right and blue whales are the species the operator lists for the bay",
+        "Morning or afternoon tea included"
+      ],
+      "duration": "Approximately 2 hours (allow up to 3 hours depending on wildlife sightings)",
+      "durationMinutes": 120,
+      "departureTimes": [
+        "10:00",
+        "14:00"
+      ],
+      "season": "August to November",
+      "departsFrom": "Professional Fisherman's Boat Ramp, opposite 306 Geographe Bay Road, Quindalup, Dunsborough",
+      "prices": [
+        {
+          "label": "Adults",
+          "amount": 105,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Seniors",
+          "amount": 95,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Children (3-14)",
+          "amount": 65,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Family (2+2)",
+          "amount": 300,
+          "currency": "AUD",
+          "note": "2 adults and 2 children"
+        },
+        {
+          "label": "Infants",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        }
+      ],
+      "priceFrom": 105,
+      "includes": [
+        "Morning or afternoon tea: tea, coffee, Milo, green tea, filtered water and biscuits",
+        "Life jackets for everyone on board",
+        "Two toilets on board, an indoor cabin and three outdoor deck spaces"
+      ],
+      "bring": [
+        "Layers, as it can be colder at sea than on land",
+        "Sun protection (hat, sunglasses, sunscreen) and a camera",
+        "A reusable drink bottle or keep cup to refill on board (soft drinks and snacks can be bought)"
+      ],
+      "requirements": "Open to all ages. Arrive 15 to 30 minutes before departure. Passengers with mobility issues may need assistance with the beach boarding: call the office before booking.",
+      "offer": null,
+      "images": [
+        "https://naturalistecharters.com.au/wp-content/uploads/2023/08/3-whales-sighted-on-a-whale-watching-in-dunsborough_Naturaliste-Charters-e1693288188894.jpg",
+        "https://naturalistecharters.com.au/wp-content/uploads/2023/08/db4.jpg",
+        "https://naturalistecharters.com.au/wp-content/uploads/2020/01/dunsborough-whale-watching.jpg",
+        "https://naturalistecharters.com.au/wp-content/uploads/2023/08/Humpback-whale-tail-splashing-against-the-water_Naturaliste-Charters-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://naturalistecharters.rezdy.com/160867/dunsborough-whale-watching-eco-tours"
+      ],
+      "sourceUrl": "https://naturalistecharters.com.au/dunsboroughwhalewatching/",
+      "checkNotes": "Prices, times and season agree between the tour page and the Tours listing page. The tour page's Book Now buttons jump to a calendar embedded on the same page; the per-trip booking link is from the Tours listing page. Season: the FAQ says mid-August to the end of November and another page says August to early December; the tour page says August to November, used here. The Busselton page says Busselton whale watching is no longer offered and points to Dunsborough. The homepage 'From' price is the child fare. The site states a sighting rate and a free revisit if no whales are seen (valid for two years, one tour, not transferable); not repeated here. Departure point as written on the tour page: Professional Fisherman's Boat Ramp, opposite 306 Geographe Bay Road, Quindalup."
+    },
+    {
+      "title": "Private and Custom Charters",
+      "kind": "charter",
+      "summary": "The company arranges private and custom charters, including corporate events, family occasions, special interest groups such as pelagic seabird charters, and educational tours for school groups. These are planned with the events coordinator and a marine biologist on request.",
+      "highlights": [
+        "Corporate celebrations and family occasions",
+        "Special interest groups, including pelagic seabird charters",
+        "Educational tours for school groups designed by a marine biologist with teaching qualifications"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://naturalistecharters.com.au/additional-services/",
+      "checkNotes": "Enquiry only: the Additional Services page has no booking link, price, duration, departure point, vessel or capacity, only a description and an invitation to make contact (phone 08 9750 5500). It is a short entry, so confirm whether it should be shown as a trip. The same page also lists fishing charters (sister company Legend Charters, a separate business), marine transport services and education programs, none of which are included."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers for the Bremer Canyon Killer Whale Expedition and for Augusta and Dunsborough whale watching, emailed straight away when bought online. A voucher for a dollar amount can be arranged by phone.",
+      "conditions": "Valid for 3 years from the purchase date. Tours are seasonal, and each departure location runs for only a few months a year.",
+      "validUntil": null,
+      "sourceUrl": "https://naturalistecharters.com.au/gift-vouchers/"
+    },
+    {
+      "text": "Discounts at partner restaurants on the day of your tour when you show your tour ticket: The Augusta Hotel and The Colourpatch in Augusta, Kyst in Busselton and Occy's in Dunsborough",
+      "conditions": "Augusta tour page lists all four venues; the Dunsborough tour page lists Occy's and Kyst. The discount rates are on the tour pages.",
+      "validUntil": null,
+      "sourceUrl": "https://naturalistecharters.com.au/augustawhalewatching/"
+    }
+  ],
+  "checkNotes": "Prices come from the tour pages and the Tours listing page, which agree with each other. The homepage 'From' prices are the child fares. Rezdy: the account is naturalistecharters.rezdy.com and the per-trip links come from the Tours listing page; no Rezdy page was opened. whales-australia.rezdy.com appears only inside a tracking script, not as a booking link, and was not used. Not included as trips: Busselton whale watching (the Busselton page says it is no longer offered, though the gift voucher page still lists it); Pelagic Bird Expeditions (shown as a December banner linking straight into Rezdy, listing 583274, and not described on any page read); a Multi Day Pass (a button on the Bremer Canyon page linking to Rezdy catalog 634290 with no description); fishing charters (sister company Legend Charters, a separate business); marine transport and school and education programs (listed under Additional Services with no trip details); the Margaret River, Perth and Albany pages (location pages that send guests to Augusta, Dunsborough or Bremer Bay). Sightings: the site states sighting rates and a free revisit if no whales are seen (conditions on the No Sighting Policy page); not repeated in copy. Cancellation by guests: the Cancellation Policy page says a fee applies, rising as departure gets closer, and no refund applies within 7 days of departure; no percentages are given here. Years in business differ across pages (25, 30 and 33), so none is used. The contact email was read from the site's protected email link on the contact page and its domain (whales-australia.com.au) differs from the website domain. The town is the Dunsborough office; trips also leave from Augusta and Bremer Bay. The office is open weekdays 8:30am to 4:30pm and weekends 8:30am to 2:30pm per the contact page, with hours subject to change. The FAQ and Albany pages carry older content that conflicts with the tour pages in places. About 40 requests were made, counting sitemaps, the stylesheet and the YouTube channel page. Two pages (Our Vessels and Conservation) returned a temporary server error (520, not a bot check) and loaded on one retry."
+}

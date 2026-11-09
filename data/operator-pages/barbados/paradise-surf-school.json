@@ -1,0 +1,271 @@
+{
+  "slug": "paradise-surf-school",
+  "name": "Paradise Surf School",
+  "website": "https://www.surflessonsbarbados.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": null,
+  "category": "Surf and paddleboard school",
+  "summary": "Paradise Surf School teaches beginner and intermediate surfers in Barbados and picks the beach each day by the waves. Barbadian surfers Bruce and Dane Mackie also guide longer surf tours for experienced surfers. The school runs paddleboard lessons, a paddleboard and turtle snorkel tour, and board rentals too.",
+  "standouts": [
+    "All instructors are professional surfers",
+    "Surf tours guided by Barbadian pro surfers Bruce and Dane Mackie",
+    "Refreshments after each surf lesson",
+    "Lessons and tours bookable online"
+  ],
+  "contact": {
+    "phone": "+1 246 826 8999",
+    "email": "paradisesurf@hotmail.com",
+    "address": null,
+    "whatsapp": null
+  },
+  "heroImage": "https://static.wixstatic.com/media/2a8d7c_4e11e2dfe8944323bd53971388f86dac~mv2.jpg",
+  "sourceUrls": [
+    "https://www.surflessonsbarbados.com/",
+    "https://www.surflessonsbarbados.com/about",
+    "https://www.surflessonsbarbados.com/beginnersurflessonsinbarbados",
+    "https://www.surflessonsbarbados.com/paddleboarding",
+    "https://www.surflessonsbarbados.com/surfboard-rentals",
+    "https://www.surflessonsbarbados.com/shop",
+    "https://www.surflessonsbarbados.com/book-online",
+    "https://www.surflessonsbarbados.com/service-page/surf-lesson",
+    "https://www.surflessonsbarbados.com/service-page/private-surf-lessons",
+    "https://www.surflessonsbarbados.com/service-page/paddleboard-lesson",
+    "https://www.surflessonsbarbados.com/service-page/paddleboard-lesson-1",
+    "https://www.surflessonsbarbados.com/sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Beginner/Intermediate Surf Lesson",
+      "kind": "course",
+      "summary": "A two hour shared surf lesson for first timers and improving surfers, taught at a relaxed pace. Instructors work on standing up, paddling and positioning, and catching waves on your own, with boards supplied and refreshments afterwards.",
+      "highlights": [
+        "Standing and riding waves",
+        "Paddling and positioning",
+        "Catching waves on your own",
+        "Group rates available"
+      ],
+      "duration": "2 hrs",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Shared beginner, per person", "amount": 75, "currency": "USD", "note": "Group rates available" }
+      ],
+      "priceFrom": 75,
+      "includes": ["Surf equipment", "Refreshments following lesson"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/2a8d7c_4e11e2dfe8944323bd53971388f86dac~mv2.jpg",
+        "https://static.wixstatic.com/media/2a8d7c_e6e5b15f5aec4ac3879f4e5cb030b64c~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/surflessonsbarbados/items/182976/?full-items=yes&flow=264016"
+      ],
+      "sourceUrl": "https://www.surflessonsbarbados.com/beginnersurflessonsinbarbados",
+      "checkNotes": "An older Wix booking page on the same site (/service-page/surf-lesson, marked 'not available') lists this lesson as 75 Barbadian dollars and adds rash guard, 1 instructor to every 4 students and transport first come first served; the current lesson pages say $75US, which was used. Lesson beach varies with the waves; no meeting point stated."
+    },
+    {
+      "title": "Private Surf Lesson",
+      "kind": "course",
+      "summary": "A surf lesson for you and anyone you choose to bring, with the beach picked for the day's conditions. The older booking page lists transport, board, rash guard, refreshments and GoPro video from your instructor.",
+      "highlights": [
+        "Just you and your own group",
+        "Beach chosen for the conditions",
+        "GoPro video taken by your instructor"
+      ],
+      "duration": "2 hr",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Private", "amount": 120, "currency": "USD", "note": "Home page price; does not say per person or per lesson" }
+      ],
+      "priceFrom": 120,
+      "includes": ["Transportation", "Surfboard", "Rash guard", "Refreshments", "GoPro video taken by your instructor"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/2a8d7c_e8973183854641a1abe9c02df5afc573~mv2_d_5184_3456_s_4_2.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/surflessonsbarbados/items/182976/?full-items=yes&flow=264016"
+      ],
+      "sourceUrl": "https://www.surflessonsbarbados.com/",
+      "checkNotes": "Price conflict: the home page says Private $120US; the older Wix service page (/service-page/private-surf-lessons) says $100US per person, varying with group size, and shows 100 Barbadian dollars. Used the home page. Duration and inclusions come from that service page. The home page Book Now under Surf Lessons goes to the same FareHarbor item as the shared lesson."
+    },
+    {
+      "title": "Surf Tours",
+      "kind": "tour",
+      "summary": "A longer day of surfing for intermediate and advanced surfers on holiday. Barbadian pro surfers Bruce and Dane Mackie take you to the best breaks for that day's swell.",
+      "highlights": [
+        "Guided by Bruce and Dane Mackie",
+        "Breaks chosen on the day",
+        "For intermediate and advanced surfers"
+      ],
+      "duration": "4-6 hrs",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "Intermediate or advanced surfers",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/2a8d7c_c31c26f5a3884a24905da1165a43cb5a~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/surflessonsbarbados/items/182979/?full-items=yes&flow=264016"
+      ],
+      "sourceUrl": "https://www.surflessonsbarbados.com/beginnersurflessonsinbarbados",
+      "checkNotes": "No price on the site; it says to email or call for more info. Price may only be shown in the FareHarbor booking flow (not opened)."
+    },
+    {
+      "title": "Paddleboard & Turtle Tour",
+      "kind": "tour",
+      "summary": "A 90 minute paddleboard trip along the shore looking for starfish and other sea life, then a swim with the local turtles. It runs from Carlisle Bay or Speightstown, with snorkel gear supplied.",
+      "highlights": [
+        "Shoreline paddle looking for starfish",
+        "Snorkel stop with local turtles",
+        "Carlisle Bay or Speightstown",
+        "Group rates available"
+      ],
+      "duration": "90 mins",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Carlisle Bay or Speightstown",
+      "prices": [
+        { "label": "Per person", "amount": 70, "currency": "USD", "note": "Group rates available" }
+      ],
+      "priceFrom": 70,
+      "includes": ["Snorkel equipment"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/2a8d7c_de3e429e9ff0492a9e82ba1ae7f4b274~mv2_d_3680_2760_s_4_2.jpg",
+        "https://static.wixstatic.com/media/2a8d7c_50af3975ed3c47658e551bd33a9b2349~mv2_d_5184_3456_s_4_2.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/surflessonsbarbados/items/182985/?full-items=yes&flow=264016"
+      ],
+      "sourceUrl": "https://www.surflessonsbarbados.com/paddleboarding",
+      "checkNotes": null
+    },
+    {
+      "title": "Paddleboard Beginner Lesson",
+      "kind": "course",
+      "summary": "A one or two hour introduction to stand up paddleboarding on the west or southwest coast. Experienced riders can also ask about paddle surf sessions.",
+      "highlights": [
+        "1 or 2 hour lessons",
+        "West or southwest coasts",
+        "Group rates available"
+      ],
+      "duration": "1hr or 2hr",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "West or southwest coasts",
+      "prices": [
+        { "label": "1 hour, per person", "amount": 40, "currency": "USD", "note": null },
+        { "label": "2 hours, per person", "amount": 60, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 40,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/2a8d7c_77d66807cdd848bb97ca8b60a00e3e59~mv2_d_3680_2760_s_4_2.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/surflessonsbarbados/items/182976/?full-items=yes&flow=264016"
+      ],
+      "sourceUrl": "https://www.surflessonsbarbados.com/paddleboarding",
+      "checkNotes": "The Book now button for this lesson goes to the same FareHarbor item (182976) as the surf lesson, so it may open the wrong product. Older Wix service pages list two paddleboard lessons at 80 and 60 Barbadian dollars; the current page in US dollars was used."
+    },
+    {
+      "title": "Paddleboard Rentals",
+      "kind": "other",
+      "summary": "Paddleboards for people who already paddle, by the half or full day. Boards can be delivered on the west and south coasts for rentals of several days.",
+      "highlights": [
+        "Half day or full day",
+        "Delivery on the west and south coasts for multi-day rentals",
+        "Ask about multiple day specials"
+      ],
+      "duration": "Half day or full day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Half day", "amount": 30, "currency": "USD", "note": null },
+        { "label": "Full day", "amount": 40, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 30,
+      "includes": [],
+      "bring": [],
+      "requirements": "For experienced paddlers",
+      "offer": { "text": "Multiple day specials, ask the school", "conditions": null, "validUntil": null },
+      "images": [
+        "https://static.wixstatic.com/media/2a8d7c_50af3975ed3c47658e551bd33a9b2349~mv2_d_5184_3456_s_4_2.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/surflessonsbarbados/items/182989/?full-items=yes&flow=264016"
+      ],
+      "sourceUrl": "https://www.surflessonsbarbados.com/paddleboarding",
+      "checkNotes": "Pick-up point for single-day rentals not stated."
+    },
+    {
+      "title": "Surfboard Rentals",
+      "kind": "other",
+      "summary": "Weekly rental of shortboards from Lost and longboards from NSP, from 5 foot 10 to 10 foot. Each board is listed with its size and volume so you can pick one to suit.",
+      "highlights": [
+        "Nine boards listed with size and volume",
+        "Lost shortboards and NSP longboards",
+        "Same weekly price for every board"
+      ],
+      "duration": "Per week",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Per board, per week", "amount": 125, "currency": "USD", "note": "Shown as $125/wk for each board" }
+      ],
+      "priceFrom": 125,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/2a8d7c_d77119ef7f6b49078cad0daffda4702d~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/surflessonsbarbados/items/525575/calendar/2024/03/?flow=883300&full-items=yes&back=https://www.surflessonsbarbados.com/&g4=yes",
+        "https://fareharbor.com/embeds/book/surflessonsbarbados/items/525587/calendar/2024/03/?full-items=yes&back=https://www.surflessonsbarbados.com/&flow=883300&g4=yes",
+        "https://fareharbor.com/embeds/book/surflessonsbarbados/items/525591/calendar/2024/03/?full-items=yes&back=https://www.surflessonsbarbados.com/&flow=883300&g4=yes",
+        "https://fareharbor.com/embeds/book/surflessonsbarbados/items/525592/calendar/2024/03/?full-items=yes&back=https://www.surflessonsbarbados.com/&flow=883300&g4=yes",
+        "https://fareharbor.com/embeds/book/surflessonsbarbados/items/525595/calendar/2024/03/?full-items=yes&back=https://www.surflessonsbarbados.com/&flow=883300&g4=yes",
+        "https://fareharbor.com/embeds/book/surflessonsbarbados/items/525598/calendar/2024/03/?full-items=yes&back=https://www.surflessonsbarbados.com/&flow=883300&g4=yes",
+        "https://fareharbor.com/embeds/book/surflessonsbarbados/items/525599/calendar/2024/03/?full-items=yes&back=https://www.surflessonsbarbados.com/&flow=883300&g4=yes",
+        "https://fareharbor.com/embeds/book/surflessonsbarbados/items/525601/calendar/2024/03/?full-items=yes&back=https://www.surflessonsbarbados.com/&flow=883300&g4=yes",
+        "https://fareharbor.com/embeds/book/surflessonsbarbados/items/525604/calendar/2024/03/?full-items=yes&back=https://www.surflessonsbarbados.com/&flow=883300&g4=yes"
+      ],
+      "sourceUrl": "https://www.surflessonsbarbados.com/surfboard-rentals",
+      "checkNotes": "Currency not stated, shown as $. One FareHarbor link per board (nine boards). Pick-up or delivery arrangements not stated. Board photos on this page are maker product shots and were not used."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "The site never gives a base or meeting address; surf lessons move between beaches with the waves and the paddleboard tour runs from Carlisle Bay or Speightstown, so town is null. The site has two booking systems: FareHarbor links on the current pages (used) and an older Wix booking page (/book-online, still template text) with prices in Barbadian dollars that conflict with the US dollar prices on the main pages. The older service pages list mackie_bruce@hotmail.com as a contact. The site also advertises rental cars, accommodation and other activities through a separate email (paradisevacationsbarbados@hotmail.com); these are not marine trips and were left out. A shop page sells two items for pick-up at your lesson (USD$30 and USD$25), item names not shown in the page text."
+}

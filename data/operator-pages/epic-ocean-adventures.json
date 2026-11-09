@@ -1,0 +1,581 @@
+{
+  "slug": "epic-ocean-adventures",
+  "name": "Epic Ocean Adventures",
+  "website": "https://epicoceanadventures.com.au",
+  "rezdyAlias": "epicoceanadventures",
+  "state": "QLD",
+  "town": "Noosa",
+  "category": "Kayak and surf tours",
+  "summary": "A small family-run eco tour company in Noosa Heads, running tours since 2011. Most trips go by 4x4 along the beach to Double Island Point in the Great Sandy National Park for ocean kayaking with dolphins and whales, surf lessons and beach days. Shorter kayak and paddleboard tours explore the mangrove creeks of Noosa Heads.",
+  "standouts": [
+    "Eco Nature Tourism certified since 2018",
+    "Recognised as a 2024 Best of Queensland Experience",
+    "Operating eco-adventure tours since 2011",
+    "Paddle-powered wildlife tours with no engines (\"Paddles up, engines off\")"
+  ],
+  "contact": {
+    "phone": "+61 7 5372 8066",
+    "email": "noosa@epicoceanadventures.com.au",
+    "address": "Mobile tour operator, Noosa Heads QLD 4567"
+  },
+  "heroImage": "https://www.epicoceanadventures.com.au/wp-content/uploads/2024/09/whale-260617-copy.jpg",
+  "sourceUrls": [
+    "https://www.epicoceanadventures.com.au/",
+    "https://www.epicoceanadventures.com.au/sitemaps.xml",
+    "https://www.epicoceanadventures.com.au/page-sitemap1.xml",
+    "https://www.epicoceanadventures.com.au/dolphin-view-sea-kayak-tour/",
+    "https://www.epicoceanadventures.com.au/whale-watching-ocean-kayaking/",
+    "https://www.epicoceanadventures.com.au/private-day-tour/",
+    "https://www.epicoceanadventures.com.au/noosa-kayaking-tours/",
+    "https://www.epicoceanadventures.com.au/noosa-kayak-tours/",
+    "https://www.epicoceanadventures.com.au/noosa-kayak-tours/kayak-tour/",
+    "https://www.epicoceanadventures.com.au/noosa-kayak-tours/sup-tour/",
+    "https://www.epicoceanadventures.com.au/noosa-kayak-tours/weyba-creek-conservation-park/",
+    "https://www.epicoceanadventures.com.au/noosa-stand-up-paddle-tours/",
+    "https://www.epicoceanadventures.com.au/noosa-surf-lessons/",
+    "https://www.epicoceanadventures.com.au/private-surf-lessons/",
+    "https://www.epicoceanadventures.com.au/double-island-explore-and-play-adventure/",
+    "https://www.epicoceanadventures.com.au/team-building-activities/",
+    "https://www.epicoceanadventures.com.au/school-groups/",
+    "https://www.epicoceanadventures.com.au/faqs/",
+    "https://www.epicoceanadventures.com.au/contact/",
+    "https://www.epicoceanadventures.com.au/about-us/",
+    "https://www.epicoceanadventures.com.au/sustainability/",
+    "https://www.epicoceanadventures.com.au/double-island-point/",
+    "https://www.epicoceanadventures.com.au/accessibility-guide/",
+    "https://www.epicoceanadventures.com.au/celebrating-our-best-of-queensland-award/"
+  ],
+  "trips": [
+    {
+      "title": "Noosa Dolphin Tours - Epic Ocean Kayak Tour",
+      "kind": "kayak",
+      "summary": "A guided ocean kayak tour at Double Island Point, reached by 4x4 along Teewah Beach from Noosa. You paddle the sheltered bay looking for bottlenose dolphins, turtles and rays, with humpback whales from June to October. No kayaking experience is needed.",
+      "highlights": [
+        "4x4 beach drive from Noosa via the Tewantin cable ferry",
+        "Bottlenose dolphins seen all year, whales June to October",
+        "Kayaking portion is typically around 2 hours",
+        "Six pick up points around Noosa"
+      ],
+      "duration": "6 Hours",
+      "durationMinutes": 360,
+      "departureTimes": [],
+      "season": "Year round",
+      "departsFrom": "Pick up points in Noosa: The J Noosa (60 Noosa Drive, Noosa Heads), Noosa Heads Bus Station, Bounce Noosa, 12 Robert St Noosaville (Coral Beach Resort), Noosa North Shore Ferries (Tewantin), or Noosa North Shore accommodation",
+      "prices": [
+        { "label": "Per person", "amount": 172, "currency": "AUD", "note": "Shown as \"Price $172\" on the tour page. The FAQ says there are no child discounts on Double Island Point tours." }
+      ],
+      "priceFrom": 172,
+      "includes": [
+        "Guided ocean kayak tour",
+        "Equipment",
+        "4X4 transport",
+        "National Park and ferry fees",
+        "Local commentary",
+        "Light snacks and water"
+      ],
+      "bring": [
+        "Towel",
+        "Sunscreen",
+        "Water",
+        "Camera",
+        "Change of clothes",
+        "Some extra food"
+      ],
+      "requirements": "No kayaking experience needed. Maximum weight 110kg per participant for sea kayaking (FAQ). Tell the team when booking if a child is under 7 so a car seat can be arranged.",
+      "offer": null,
+      "images": [
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2024/10/Dolphin-Kayak-Tour-Noosa-10.webp",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/06/kayaking-with-dolphin-pod.jpg",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/06/dolphins-beside-kayak.webp",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/06/dolphin-kayak-tour-double-island-point.webp"
+      ],
+      "bookingLinks": [
+        "https://epicoceanadventures.rezdy.com/97855/noosa-epic-dolphin-ocean-kayak-tour-beach-4x4-adventure"
+      ],
+      "sourceUrl": "https://www.epicoceanadventures.com.au/dolphin-view-sea-kayak-tour/",
+      "checkNotes": "Price conflict: the tour page shows $172 but the Noosa Kayaking Tours listing page shows $166 for the Dolphin Sea Kayak Tour. Used the tour page. Departure times vary daily around low tide and are only shown in the booking calendar. The FAQ page lists a slightly different set of pick up points from the tour page."
+    },
+    {
+      "title": "Noosa Whale Watching Ocean Kayaking",
+      "kind": "kayak",
+      "summary": "A guided whale watching tour by sea kayak at Double Island Point, run in the June to October humpback migration. The day starts with a 4x4 beach drive from Noosa, then a beginner-friendly paddle in the protected bay with no engine noise. Dolphins, turtles and rays are also often seen.",
+      "highlights": [
+        "Runs June to October during the humpback migration",
+        "Paddle-powered, no engine noise near the whales",
+        "4x4 beach drive from Noosa included",
+        "Free time to swim at Double Island Point"
+      ],
+      "duration": "6 Hours",
+      "durationMinutes": 360,
+      "departureTimes": [],
+      "season": "June to October",
+      "departsFrom": "Pick up points in Noosa: The J Noosa Theatre, Noosa Heads Bus Station, Bounce Noosa, Coral Beach Resort Noosa, Noosa North Shore Ferries, Noosa North Shore",
+      "prices": [
+        { "label": "Per person", "amount": 176, "currency": "AUD", "note": "Shown as \"Price $176\" on the tour page and the listing page. The FAQ says there are no child discounts on Double Island Point tours." }
+      ],
+      "priceFrom": 176,
+      "includes": [
+        "Guided kayak tour",
+        "Equipment",
+        "Transportation",
+        "Light refreshment",
+        "National Park and ferry fees"
+      ],
+      "bring": [
+        "Towel",
+        "Sunscreen",
+        "Water",
+        "Camera",
+        "Change of clothes",
+        "Some extra food"
+      ],
+      "requirements": "Beginner-friendly. Maximum weight 110kg per participant for sea kayaking (FAQ). Tell the team when booking if a child is under 7 so a car seat can be arranged.",
+      "offer": null,
+      "images": [
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2024/10/whale-pass-kayaking.webp",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/06/whale-breaching-near-kayaks.webp",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/06/whale-near-kayak.webp",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2024/09/whale-260617-copy.jpg"
+      ],
+      "bookingLinks": [
+        "https://epicoceanadventures.rezdy.com/652694/noosa-epic-whale-watching-on-ocean-kayaks-beach-4x4-tour"
+      ],
+      "sourceUrl": "https://www.epicoceanadventures.com.au/whale-watching-ocean-kayaking/",
+      "checkNotes": "Departure times vary daily around low tide and are only shown in the booking calendar. The page states whale sightings are not guaranteed."
+    },
+    {
+      "title": "Noosa Private 4×4 Day Tour",
+      "kind": "charter",
+      "summary": "A private day trip from Noosa to Double Island Point with your own guide and a 4x4 towing a trailer of kayaks, paddleboards, surfboards, snorkel gear and bodyboards. The day is planned around your group, with one or two water activities, a picnic lunch and a shade cabana on the beach. Pick up is from your Noosa accommodation.",
+      "highlights": [
+        "Private guide and 4x4 vehicle for your group",
+        "Choice of 1 or 2 aquatic activities",
+        "Picnic lunch, drinks and CoolCabana shade",
+        "Pick up from Noosa accommodation"
+      ],
+      "duration": "6-7 Hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pick up from accommodation in the Noosa region",
+      "prices": [
+        { "label": "Private tour", "amount": 1390, "currency": "AUD", "note": "Shown as \"From $1,390\" on the Noosa Kayaking Tours listing page. The private tour page itself shows no price and says to use the booking form. The site does not say how many people this covers." }
+      ],
+      "priceFrom": 1390,
+      "includes": [
+        "Private guide and 4x4 vehicle",
+        "Picnic lunch",
+        "Drinks and refreshments",
+        "Selection of aquatic activities",
+        "National Park fees",
+        "CoolCabana shade",
+        "Pick up and drop off from Noosa accommodation"
+      ],
+      "bring": [
+        "Towel",
+        "Sunscreen",
+        "Water",
+        "Camera",
+        "Change of clothes"
+      ],
+      "requirements": "Beginner friendly, no experience needed.",
+      "offer": null,
+      "images": [
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2024/09/Empty-Beaches.jpg",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/06/relaxation-with-stunning-views-1.webp",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/06/morning-tea-with-a-view.webp",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/06/double-island-point-headland-1.webp"
+      ],
+      "bookingLinks": [
+        "https://epicoceanadventures.rezdy.com/165531/noosa-epic-private-eco-tour-double-island-point-wildlife-adventure"
+      ],
+      "sourceUrl": "https://www.epicoceanadventures.com.au/private-day-tour/",
+      "checkNotes": "Duration is \"6-7 Hours\" on the tour page, \"7 Hours\" on the listing page and \"Typically we take 7 hours\" in the FAQ, so durationMinutes is left null. Price comes only from the listing page. Departure time is custom. The menu also calls this \"Epic Private Tour - Double Island Point\"."
+    },
+    {
+      "title": "Noosa Heads: Hidden Waterways & Wildlife Kayak Tour",
+      "kind": "kayak",
+      "summary": "A 2 hour kayak tour on the calm, sheltered creeks of Weyba Creek Conservation Park in Noosa Heads. You paddle through mangrove tunnels and past stingray areas, with plenty of birdlife. Choose self guided with a map and briefing, or fully guided, and there is a scavenger hunt for kids.",
+      "highlights": [
+        "Mangrove tunnels and stingray sanctuaries",
+        "Inside the Noosa Biosphere Reserve",
+        "Self guided or fully guided options",
+        "Free all day parking at the meeting point"
+      ],
+      "duration": "2 Hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Canoe Launch, Weyba Esplanade, Noosa Heads",
+      "prices": [
+        { "label": "Self Guided", "amount": 59, "currency": "AUD", "note": "Per person ($59pp)" },
+        { "label": "Fully Guided", "amount": 99, "currency": "AUD", "note": "Per person ($99pp). Other bookings may join the group." }
+      ],
+      "priceFrom": 59,
+      "includes": [
+        "Self guided or fully guided kayak tour",
+        "Equipment",
+        "Briefing",
+        "Info sheet",
+        "Map",
+        "Scavenger hunt (for kids)"
+      ],
+      "bring": [
+        "Comfortable clothes",
+        "Swimwear",
+        "Spare clothes",
+        "Sunscreen",
+        "Water",
+        "Towel",
+        "Hat",
+        "Snacks"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/03/noosa-kayak-tours-hero.webp",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/03/hidden-waterways-wildlife-kayak-tour-9.webp",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/03/hidden-waterways-wildlife-kayak-tour-8.webp",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/03/hidden-waterways-wildlife-kayak-tour-1.webp"
+      ],
+      "bookingLinks": [
+        "https://epicoceanadventures.rezdy.com/658051/noosa-heads-hidden-waterways-wildlife-kayak-tour-self-guided",
+        "https://epicoceanadventures.rezdy.com/691201/noosa-heads-hidden-waterways-wildlife-kayak-tour-fully-guided",
+        "https://epicoceanadventures.rezdy.com/catalog/619114/noosa-hidden-waterways"
+      ],
+      "sourceUrl": "https://www.epicoceanadventures.com.au/noosa-kayak-tours/kayak-tour/",
+      "checkNotes": "A private option is mentioned but no private price is shown. The FAQ says Noosa River tours have lower prices for children, but no child price appears on the page. The menu calls this \"Stingray & Mangrove Tunnel Kayak Tour\". Departure times are only in the booking calendar."
+    },
+    {
+      "title": "Noosa Stand Up Paddle - Mangrove Tunnel & Stingray Tour",
+      "kind": "tour",
+      "summary": "A 2 hour stand up paddleboard tour through the mangrove tunnels and quiet creeks of Noosa Heads. It starts with a short lesson on the water, then a paddle past birdlife and stingrays, with an optional swim stop. Self guided, fully guided and private options are offered.",
+      "highlights": [
+        "Introductory SUP lesson at the start",
+        "Calm, shallow, protected water",
+        "Hidden mangrove tunnel",
+        "Optional swim stop"
+      ],
+      "duration": "2 Hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Canoe Launch, Weyba Esplanade, Noosa Heads (pick up from Bounce Noosa or The J Theatre on request)",
+      "prices": [
+        { "label": "Self Guided", "amount": 59, "currency": "AUD", "note": "Per person ($59pp)" },
+        { "label": "Fully Guided", "amount": 99, "currency": "AUD", "note": "Per person ($99pp). Other bookings may join the group." }
+      ],
+      "priceFrom": 59,
+      "includes": [
+        "Self guided, fully guided or private stand up paddle experience",
+        "Local commentary",
+        "Equipment",
+        "Swimming"
+      ],
+      "bring": [
+        "Towel",
+        "Sunscreen",
+        "Water",
+        "Camera",
+        "Swimwear"
+      ],
+      "requirements": "Suitable for all skill levels, including beginners.",
+      "offer": null,
+      "images": [
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/03/noosa-stand-up-paddle-tours-7.webp",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/06/stand-up-paddle-tour-5.webp",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/06/stringray-1.webp",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/06/sup-tour-4.webp"
+      ],
+      "bookingLinks": [
+        "https://epicoceanadventures.rezdy.com/660286/noosa-stand-up-paddle-mangrove-tunnel-tour-self-guided",
+        "https://epicoceanadventures.rezdy.com/691200/noosa-stand-up-paddle-mangrove-tunnel-tour-fully-guided",
+        "https://epicoceanadventures.rezdy.com/660286/noosa-stand-up-paddle-mangrove-tunnel-tour-fully-guided-self-guided-private"
+      ],
+      "sourceUrl": "https://www.epicoceanadventures.com.au/noosa-kayak-tours/sup-tour/",
+      "checkNotes": "Departure times vary daily around high tide and are only in the booking calendar. No private price shown. The SUP listing page also shows \"$59\" for this tour."
+    },
+    {
+      "title": "Eco SUP Day Tour @ Double Island Point",
+      "kind": "tour",
+      "summary": "A stand up paddleboard day trip that pairs a 4x4 beach drive through the Great Sandy National Park with a paddle in the waist-deep lagoon at Double Island Point. The flat water suits all skill levels, and turtles and rays are often seen. Wetsuits are provided in the colder months.",
+      "highlights": [
+        "4x4 drive past the Rainbow Beach coloured sands",
+        "Paddle in a waist-deep lagoon",
+        "Ferry and National Park entry fees included",
+        "Wetsuits provided in colder months"
+      ],
+      "duration": "6 Hours",
+      "durationMinutes": 360,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pick up points: Noosa North Shore Ferries (Tewantin), The J Noosa (60 Noosa Drive, Noosa Heads), Noosa Heads Bus Station, 12 Robert St Noosaville (Coral Beach Resort), or Noosa North Shore accommodation",
+      "prices": [
+        { "label": "Per person", "amount": 166, "currency": "AUD", "note": "Shown as \"Price $166\" on the Noosa Stand Up Paddle Tours page." }
+      ],
+      "priceFrom": 166,
+      "includes": [
+        "All equipment",
+        "Guided instruction",
+        "Refreshments",
+        "Scenic 4X4 beach drive",
+        "Noosa North Shore ferry",
+        "National Park entry fees",
+        "Wetsuits in the colder months"
+      ],
+      "bring": [
+        "Towel",
+        "Sunscreen",
+        "Water",
+        "Camera",
+        "Swimwear",
+        "Change of clothes",
+        "Some extra food"
+      ],
+      "requirements": "Ideal for all skill levels.",
+      "offer": null,
+      "images": [
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2024/10/sup-high-res.jpg",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2024/09/coloured-sands-double-island-point-2-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://epicoceanadventures.rezdy.com/catalog/98077/stand-up-paddle-tours"
+      ],
+      "sourceUrl": "https://www.epicoceanadventures.com.au/noosa-stand-up-paddle-tours/",
+      "checkNotes": "This tour has no page of its own and is not in the site menu. Its Book Now button jumps to an embedded Rezdy catalog (98077, stand up paddle tours), so the booking link is that catalog, not a single product. The same block also says to start a booking to see the price, next to the shown $166. Check it is still sold."
+    },
+    {
+      "title": "Learn To Surf Safari & Beach 4×4 Tour",
+      "kind": "course",
+      "summary": "A small group surf lesson at Double Island Point, a long sandy point break reached by 4x4 along the beach from Noosa. Instructors start on the sand with safety and technique, then coach you in waist-deep water for about 2 hours. It suits first-timers, kids and intermediate surfers.",
+      "highlights": [
+        "Lessons on a long sandy point break",
+        "About 2 hours in the water",
+        "Small groups, max 8 per instructor",
+        "Surfboard and wet shirt or wetsuit included"
+      ],
+      "duration": "6 Hours",
+      "durationMinutes": 360,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pick up points: Noosa North Shore Ferries (Tewantin), The J Noosa (60 Noosa Drive, Noosa Heads), Noosa Heads Bus Station, 12 Robert St Noosaville (Coral Beach Resort), or Noosa North Shore accommodation",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Surf guide and small group instruction",
+        "Surfboard",
+        "Wet shirt or wetsuit",
+        "4X4 beach transport",
+        "Noosa North Shore ferry",
+        "National Park entry fees",
+        "Light snacks and water"
+      ],
+      "bring": [
+        "Towel",
+        "Sunscreen",
+        "Water",
+        "Camera",
+        "Change of clothes",
+        "Some extra food"
+      ],
+      "requirements": "Suitable for complete beginners. Children under 8 in a group lesson need a parent or guardian to assist in the water.",
+      "offer": null,
+      "images": [
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2024/09/smaller4-e1562500296956-1.jpg",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/06/surf-lesson-at-point-break.webp",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/06/fun-and-qualified-instructors.webp",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/06/kids-surfing-.webp"
+      ],
+      "bookingLinks": [
+        "https://epicoceanadventures.rezdy.com/97902/epic-learn-to-surf-safari-beach-4x4-tour-double-island-point-to-noosa"
+      ],
+      "sourceUrl": "https://www.epicoceanadventures.com.au/noosa-surf-lessons/",
+      "checkNotes": "No price on the site; the page says to start a booking to see it, so prices are only in the Rezdy widget. Max 8 participants per instructor comes from the FAQ page. The page says \"We guarantee you'll stand up on your first lesson\" and calls itself the only surf school in Noosa with lessons on a point break; not used as standouts."
+    },
+    {
+      "title": "Private Surf Lessons Noosa",
+      "kind": "course",
+      "summary": "One-on-one surf coaching at Double Island Point, with the 4x4 beach drive from Noosa shared with the day's other guests. The long point break gives more time on each wave to work on pop-ups, timing and board handling. It suits all ages, from kids and beginners to improving surfers.",
+      "highlights": [
+        "Private one-on-one instruction",
+        "Shared 4x4 beach drive from Noosa",
+        "Wetsuits or wet shirts and surf equipment included",
+        "National Park entry fees included"
+      ],
+      "duration": "6 Hours",
+      "durationMinutes": 360,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pick up points in Noosa: The J Noosa Theatre, Noosa Heads Bus Station, Bounce Noosa, Coral Beach Resort Noosa, Noosa North Shore Ferries, Noosa North Shore",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Private one on one instruction",
+        "Surf equipment",
+        "Wetsuits or wet shirts",
+        "Light snacks and water",
+        "National Park entry fees"
+      ],
+      "bring": [
+        "Towel",
+        "Sunscreen",
+        "Water",
+        "Camera",
+        "Change of clothes",
+        "Lunch or snacks"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2024/09/PRIVATE_LESSON_LOW_RES.jpg",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/01/private-surf-lesson.webp",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/01/private-surf.webp"
+      ],
+      "bookingLinks": [
+        "https://epicoceanadventures.rezdy.com/113031/private-national-park-surf-lesson-day-trip-noosa"
+      ],
+      "sourceUrl": "https://www.epicoceanadventures.com.au/private-surf-lessons/",
+      "checkNotes": "No price on the site; the page says to start a booking to see it."
+    },
+    {
+      "title": "Epic Play & Explore, Great Beach Drive 4X4 Adventure (Noosa to Double Island Point)",
+      "kind": "tour",
+      "summary": "A 4x4 day trip from Noosa to Double Island Point with free time to swim, surf, paddle or relax. You can ask for a kayak or paddleboard for the lagoon, a surfboard, bodyboard, floating ring or shade cabana, but no lesson is included. Lunch is not provided, so bring food.",
+      "highlights": [
+        "Great Beach Drive past the Rainbow Beach coloured sands",
+        "Free time at Honeymoon Bay and the point break",
+        "Gear on request: kayak, SUP, surfboards, bodyboard, Coolcabana",
+        "Bring your own surfboard at no extra cost"
+      ],
+      "duration": "6 Hours",
+      "durationMinutes": 360,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pick up points in Noosa: The J Noosa Theatre, Noosa Heads Bus Station, Bounce Noosa, Coral Beach Resort Noosa, Noosa North Shore Ferries, Noosa North Shore",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "4X4 beach drive",
+        "National Park and ferry fees",
+        "Beach gear and equipment on request",
+        "Light snacks and refreshments"
+      ],
+      "bring": [
+        "Towel",
+        "Sunscreen",
+        "Water",
+        "Camera",
+        "Snacks or lunch",
+        "Change of clothes",
+        "Own surfboard and wetsuit if wanted"
+      ],
+      "requirements": "For surfing, best suited to beginner to intermediate surfers who can catch waves on their own. No surf or SUP lesson included. Meet 15 minutes before departure.",
+      "offer": null,
+      "images": [
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/06/hero-great-beach-drive.webp",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/06/fun.webp",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/06/surfer-girl-2.webp",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/06/flatwater-stand-up-paddle.webp"
+      ],
+      "bookingLinks": [
+        "https://epicoceanadventures.rezdy.com/105425/epic-play-explore-great-beach-drive-4x4-adventure-noosa-to-double-island-point"
+      ],
+      "sourceUrl": "https://www.epicoceanadventures.com.au/double-island-explore-and-play-adventure/",
+      "checkNotes": "No price on the site; the page says to start a booking to see it. Departs daily, times vary with the tide. Damage beyond normal wear may incur repair or replacement costs."
+    },
+    {
+      "title": "Team Building Activities in Noosa",
+      "kind": "other",
+      "summary": "Corporate team days run either on Noosa Main Beach, in the Noosa Heads waterways, or as a full day at Double Island Point. Groups can mix kayaking, paddleboarding, surfing, beach games and SUP yoga, with catering on request. Each program is planned with the team and booked by enquiry.",
+      "highlights": [
+        "Noosa Main Beach sessions, 2-4 hours, up to 150+ people",
+        "Double Island Point day, 5-7 hours, up to 84 people",
+        "Noosa Heads waterways, 2-3 hours, up to 72 people",
+        "Noosa Heads SUP Yoga, 2 hours, up to 40 people"
+      ],
+      "duration": "2-7 Hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Walking distance or custom pick up from Noosa accommodation",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Aquatic activities",
+        "Team building",
+        "All activity permits",
+        "Expert guides",
+        "4X4 vehicles",
+        "Lunch (optional)"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2024/09/kayak-tour-group-1.jpg",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2024/09/4x4-vehicle-kayaks-double-island-point.jpg",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/04/sup-yoga.webp"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.epicoceanadventures.com.au/team-building-activities/",
+      "checkNotes": "Enquiry only (Contact Us buttons), no price and no booking link. Contact on the page: suzie@epicoceanadventures.com.au, (07) 5372 8066. The FAQ on this page describes only two options while the top of the page lists four."
+    },
+    {
+      "title": "School Groups",
+      "kind": "other",
+      "summary": "Outdoor education programs for schools at Double Island Point or in the Noosa Heads waterways. Lessons can cover geography, marine biology, history and Indigenous studies and outdoor education, adjusted to year level. Programs are tailored and booked by enquiry.",
+      "highlights": [
+        "Two locations: Double Island Point or Noosa Heads waterways",
+        "Curriculum links to Geography, Science, Marine Studies and History",
+        "Private guides and private transport",
+        "Pick up from schools in Noosa"
+      ],
+      "duration": "Variable",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Pick up from schools in Noosa or Noosa North Shore Ferries",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Private tour guides",
+        "Lunch (optional)",
+        "Equipment",
+        "Private transportation"
+      ],
+      "bring": [
+        "Towel",
+        "Sunscreen",
+        "Water",
+        "Camera",
+        "Swimwear",
+        "Change of clothes",
+        "Some extra food"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2026/02/school-group-mangrove-tunnel.jpg",
+        "https://www.epicoceanadventures.com.au/wp-content/uploads/2024/09/DSC_1467-1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.epicoceanadventures.com.au/school-groups/",
+      "checkNotes": "Enquiry only, no price and no booking link."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Epic Gift Cards",
+      "conditions": "Book with the voucher number online, or email the voucher number, name, preferred dates and contact details.",
+      "validUntil": null,
+      "sourceUrl": "https://www.epicoceanadventures.com.au/faqs/"
+    },
+    {
+      "text": "Carers and support persons are welcome at a discounted price when assisting a guest with accessibility needs",
+      "conditions": "Advise when booking. Discount amount not stated.",
+      "validUntil": null,
+      "sourceUrl": "https://www.epicoceanadventures.com.au/accessibility-guide/"
+    }
+  ],
+  "checkNotes": "Gift cards link to https://epicoceanadventures.rezdy.com/catalog/590708/gift-cards (in the site menu, not opened). The menu item \"Rainbow Beach Departures\" links to a separate site, rainbowbeachtours.com.au, which was not read, so any Rainbow Beach tours are not captured here. Departure times for every tour vary daily with the tide and are only shown in the Rezdy calendar. Prices for the surf lessons, Play & Explore, team building and school groups are not on the site. The homepage shows a 2026 Best of Queensland Experience stamp image, but the only written claim found is the 2024 award blog post, so the standout uses 2024. Tracking parameters (_gl) were removed from recorded Rezdy links."
+}

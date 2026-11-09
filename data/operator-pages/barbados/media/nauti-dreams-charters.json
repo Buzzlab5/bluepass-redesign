@@ -1,0 +1,97 @@
+{
+  "slug": "nauti-dreams-charters",
+  "logo": "https://nautidreamsbarbados.com/images/logo-nauti-dreams.png",
+  "gallery": [
+    "https://nautidreamsbarbados.com/images/hero-boat-turquoise.jpg",
+    "https://nautidreamsbarbados.com/images/bow-speed.jpg",
+    "https://nautidreamsbarbados.com/images/snorkel-anchorage.jpg",
+    "https://nautidreamsbarbados.com/images/family-group-catch.jpg",
+    "https://nautidreamsbarbados.com/images/group-catch-dock.jpg",
+    "https://nautidreamsbarbados.com/images/deck-catch-aerial.jpg",
+    "https://nautidreamsbarbados.com/images/offshore-action.jpg",
+    "https://nautidreamsbarbados.com/images/angler-tuna-offshore.jpg",
+    "https://nautidreamsbarbados.com/images/crew-joshua-helm-v2.jpg",
+    "https://nautidreamsbarbados.com/images/vessel-nauti-dreams.jpg",
+    "https://nautidreamsbarbados.com/images/vessel-nauti-by-nature.jpg",
+    "https://nautidreamsbarbados.com/images/fn-tuna-hero-v2.jpg",
+    "https://nautidreamsbarbados.com/images/scenic-aerial.jpg",
+    "https://nautidreamsbarbados.com/images/scenic-bridgetown.jpg",
+    "https://nautidreamsbarbados.com/images/cockpit-action.jpg",
+    "https://nautidreamsbarbados.com/images/catch-mahi-wahoo.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://nautidreamsbarbados.com/instagram/DaAjeU9xq1R.mp4",
+      "title": "Sailfish catch and release with the Nauti Dreams fleet",
+      "sourceUrl": "https://nautidreamsbarbados.com/"
+    },
+    {
+      "url": "https://nautidreamsbarbados.com/instagram/DaQAZAORiUS.mp4",
+      "title": "Mahi mahi and sailfish offshore",
+      "sourceUrl": "https://nautidreamsbarbados.com/"
+    },
+    {
+      "url": "https://nautidreamsbarbados.com/instagram/DbLOlcwR6ZY.mp4",
+      "title": "Offshore mahi mahi",
+      "sourceUrl": "https://nautidreamsbarbados.com/"
+    },
+    {
+      "url": "https://nautidreamsbarbados.com/instagram/Daax6BEvWEMwbb-vg_yekd-z.mp4",
+      "title": "A morning of sailfish and blue marlin",
+      "sourceUrl": "https://nautidreamsbarbados.com/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "3 Hour Inshore",
+      "images": [
+        "https://nautidreamsbarbados.com/images/scenic-anchored.jpg"
+      ]
+    },
+    {
+      "title": "4 Hour Inshore, Snorkel & BBQ",
+      "images": [
+        "https://nautidreamsbarbados.com/images/snorkel-anchorage.jpg",
+        "https://nautidreamsbarbados.com/images/catch-mahi-wahoo.jpg"
+      ]
+    },
+    {
+      "title": "4 Hour Offshore",
+      "images": [
+        "https://nautidreamsbarbados.com/images/angler-tuna-offshore.jpg"
+      ]
+    },
+    {
+      "title": "5 Hour Offshore & Snorkel",
+      "images": [
+        "https://nautidreamsbarbados.com/images/offshore-action.jpg"
+      ]
+    },
+    {
+      "title": "6 Hour Offshore",
+      "images": [
+        "https://nautidreamsbarbados.com/images/deck-catch-aerial.jpg"
+      ]
+    },
+    {
+      "title": "8 Hour Offshore",
+      "images": [
+        "https://nautidreamsbarbados.com/images/fish-blue-marlin-v3.jpg"
+      ]
+    },
+    {
+      "title": "Tournament Charter",
+      "images": [
+        "https://nautidreamsbarbados.com/images/wahoo-pair.jpg",
+        "https://nautidreamsbarbados.com/images/cockpit-fisheye.jpg"
+      ]
+    },
+    {
+      "title": "Jetski Tours",
+      "images": [
+        "https://nautidreamsbarbados.com/images/open-water-wide.jpg"
+      ]
+    }
+  ],
+  "notes": "Single-page app; image paths and copy were read from the site's own script file on the same domain. More boat photos are on the fleet pages: vessel-nauti-dreams-2.jpg, vessel-nauti-dreams-3.jpg, vessel-nauti-dreams-interior.jpg, vessel-nauti-by-nature-2.jpg, vessel-nauti-by-nature-3.jpg, vessel-nauti-by-nature-deck.jpg, fn-tuna-full-v2.jpg, fn-group-tuna-v2.jpg, fn-wahoo-v2.jpg, fn-mahi-v2.jpg (all under /images/). The four videos are the operator's Instagram reels, saved as .mp4 files on its own domain and shown in the home page feed; Instagram itself was not opened. A fifth feed post (an image, not a video) shows a named public figure and is left out. No YouTube or Vimeo links. Apparel photos and the fish-guide species images are left out."
+}

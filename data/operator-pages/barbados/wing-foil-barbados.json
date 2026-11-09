@@ -1,0 +1,107 @@
+{
+  "slug": "wing-foil-barbados",
+  "name": "Wing Foil Barbados",
+  "website": "https://www.wingfoilbarbados.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Welches",
+  "category": "Wing foil lessons",
+  "summary": "A wing foil school at Welches on the south coast, led by Paolo Perucci, a professional surfer and windsurfer who has lived in Barbados since the late 1990s. Lessons are private or for up to two people per instructor, with courses for beginners, intermediate riders and advanced riders. Drone video and photos of your session are available on request.",
+  "standouts": [
+    "Up to 2 people per instructor",
+    "Drone aerial video and photos of your session, on request",
+    "Lead instructor Paolo Perucci, a professional surfer and windsurfer in Barbados since the late 1990s",
+    "Over five years of teaching experience"
+  ],
+  "contact": {
+    "phone": "+1 246 236 3356",
+    "email": "paolodeepblue@me.com",
+    "address": "Welches, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://static.wixstatic.com/media/c7d2ac_1068069bbfb24e7fb7028ff365e4acf9~mv2.jpeg",
+  "sourceUrls": [
+    "https://www.wingfoilbarbados.com/",
+    "https://www.wingfoilbarbados.com/courses",
+    "https://www.wingfoilbarbados.com/meet-the-instructor",
+    "https://www.wingfoilbarbados.com/video-clinic",
+    "https://www.wingfoilbarbados.com/contact-us"
+  ],
+  "trips": [
+    {
+      "title": "Private Lesson",
+      "kind": "course",
+      "summary": "One to one wing foil coaching, booked as a single 2 hour lesson or a 6 hour package. Beginners learn to ride the foilboard, rise onto the foil, control upwind and downwind and make first turns. Intermediate and advanced courses are planned around your level, from gybes and tacks to jumping, wave riding and freestyle.",
+      "highlights": [
+        "Beginner course: four days, 8 hours in total",
+        "Intermediate: foil control, foot switches, gybes, toeside riding and tacks",
+        "Advanced: jumping, wave riding, speed runs, advanced transitions and freestyle",
+        "Intermediate and advanced courses are custom designed for each rider"
+      ],
+      "duration": "2 hours, or 6 hour package",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Private lesson (2 hours)", "amount": 200, "currency": "USD", "note": null },
+        { "label": "Private package (6 hours)", "amount": 540, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 200,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/c7d2ac_b746d849b86f408581770d0579db976a~mv2.jpeg",
+        "https://static.wixstatic.com/media/c7d2ac_00807223daf346238ad105289c858f31~mv2.jpeg",
+        "https://static.wixstatic.com/media/c7d2ac_da59a0af053f468d8a095c41f6292518~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.wingfoilbarbados.com/courses",
+      "checkNotes": "The courses page describes Beginner, Intermediate and Advanced courses and then a single price list (private and group, 2 hours or 6 hours); it does not give a price for the 8 hour beginner course. The 'BOOK NOW!' form asks only for name, email and subject, so booking is by enquiry (form, email or WhatsApp). No departure beach or times stated; the site gives Welches, Barbados as its location."
+    },
+    {
+      "title": "Group Lesson",
+      "kind": "course",
+      "summary": "Wing foil lessons for two people sharing one instructor, booked as a 2 hour lesson or a 6 hour package. It suits friends or couples learning together, and follows the same beginner, intermediate and advanced course content as the private lessons.",
+      "highlights": [
+        "Maximum of 2 people per instructor",
+        "2 hour lesson or 6 hour package",
+        "Beginner course covers riding the foilboard, rise and glide, upwind and downwind control and turning"
+      ],
+      "duration": "2 hours, or 6 hour package",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Group lesson (2 hours), per person", "amount": 130, "currency": "USD", "note": "Max 2" },
+        { "label": "Group package (6 hours), per person", "amount": 360, "currency": "USD", "note": "Max 2" }
+      ],
+      "priceFrom": 130,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/c7d2ac_b746d849b86f408581770d0579db976a~mv2.jpeg",
+        "https://static.wixstatic.com/media/c7d2ac_da59a0af053f468d8a095c41f6292518~mv2.jpeg",
+        "https://static.wixstatic.com/media/c7d2ac_00807223daf346238ad105289c858f31~mv2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.wingfoilbarbados.com/courses",
+      "checkNotes": "Prices shown as '$130 USD per person (max 2)' and '$360 USD per person (max 2)'. Booking by enquiry form, email or WhatsApp only. No departure beach or times stated."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Drone and video analysis: drone aerial videos and photos of you riding",
+      "conditions": "Service on request; no price stated",
+      "validUntil": null,
+      "sourceUrl": "https://www.wingfoilbarbados.com/courses"
+    }
+  ],
+  "checkNotes": "Site footer reads 2025 and course photos are dated April 2025. Phone is shown only as 'Whatsapp +12462363356', with no wa.me link, so contact.whatsapp is null. The site claims to be the only wing foil school in Barbados offering drone video; not repeated as a standout because it cannot be checked from the site. A second instructor, Adolfo Berti, is listed. The Video Clinic page says 'coming soon'. The course levels (Beginner, Intermediate, Advanced Course) are folded into the two priced lesson types because the price list is by lesson type, not by course."
+}

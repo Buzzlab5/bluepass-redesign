@@ -1,0 +1,115 @@
+{
+  "slug": "blue-dolphin-marine-tours",
+  "logo": "https://www.bluedolphintours.com.au/wp-content/themes/bluedolphin/dist/images/logo-dark.svg",
+  "gallery": [
+    "https://www.bluedolphintours.com.au/wp-content/uploads/dolphins-1.jpg",
+    "https://www.bluedolphintours.com.au/wp-content/uploads/about-feature-dolphin.jpg",
+    "https://www.bluedolphintours.com.au/wp-content/uploads/blog-feature-turtle.jpg",
+    "https://www.bluedolphintours.com.au/wp-content/uploads/Dugong.jpg",
+    "https://www.bluedolphintours.com.au/wp-content/uploads/fraser-island-eco-tour-dolphin-watching.jpg",
+    "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-tours-fraser-island-kgari-eco-sailing-adventure-drone-view.jpg",
+    "https://www.bluedolphintours.com.au/wp-content/uploads/ECO-SAILING-CATAMARAN.jpg",
+    "https://www.bluedolphintours.com.au/wp-content/uploads/Bec2-3.jpg",
+    "https://www.bluedolphintours.com.au/wp-content/uploads/Aqua-mat.jpg",
+    "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-tours-fraser-island-kgari-eco-sailing-adventure-aqua-mat-fun.jpg",
+    "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-tours-champagne-sunset-sail-red-sky.jpg",
+    "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-tours-champagne-sunset-sail-urangan-pier.jpg",
+    "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-tours-champagne-sunset-sail-conversations.jpg",
+    "https://www.bluedolphintours.com.au/wp-content/uploads/12.jpg",
+    "https://www.bluedolphintours.com.au/wp-content/uploads/11.jpg",
+    "https://www.bluedolphintours.com.au/wp-content/uploads/blue-dolphin-tours-hervey-bay-whale-watching-tours.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=8pG3X0u9Beo",
+      "title": "Hervey Bay's best dolphin and whale encounters",
+      "sourceUrl": "https://www.youtube.com/channel/UCQ-SE2tYDpqaareLn5YK1Wg"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=e3S-7ZFxvXA",
+      "title": "Friendly whale montage",
+      "sourceUrl": "https://www.youtube.com/channel/UCQ-SE2tYDpqaareLn5YK1Wg"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CeO7DBmEzWE",
+      "title": "Hervey Bay humpback whales",
+      "sourceUrl": "https://www.youtube.com/channel/UCQ-SE2tYDpqaareLn5YK1Wg"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yOKjOcR8qu4",
+      "title": "Spy-hopping whales",
+      "sourceUrl": "https://www.youtube.com/channel/UCQ-SE2tYDpqaareLn5YK1Wg"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0JFCyZ9snnE",
+      "title": "Eye to eye with a humpback whale",
+      "sourceUrl": "https://www.youtube.com/channel/UCQ-SE2tYDpqaareLn5YK1Wg"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7iNQ6SGMefA",
+      "title": "Friendly whales in Hervey Bay",
+      "sourceUrl": "https://www.youtube.com/channel/UCQ-SE2tYDpqaareLn5YK1Wg"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Exclusive Whale Watching Encounter",
+      "images": [
+        "https://www.bluedolphintours.com.au/wp-content/uploads/Exclusive-Whale-Encounters.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/Spy-hop.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-whale-watching-tours-humpback-whale-jump.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-whale-watching-tours-humpback-whale-spy-hop-hello.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-whale-watching-tours-humpback-whale-belly.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-whale-watching-tours-humpback-whale-under-boat.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/Triple-spy-hop.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/Breach-M-Seabury.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/blue-dolphin-tours-hervey-bay-whale-watching-tours.jpg"
+      ]
+    },
+    {
+      "title": "Dolphin Eco Adventure",
+      "images": [
+        "https://www.bluedolphintours.com.au/wp-content/uploads/dolphin-watching-tours-hervey-bay-header.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-dolphin-watching-tours-dolphins-up-close.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/Dugong.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/fraser-island-eco-tour-dolphin-watching.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-tours-fraser-island-kgari-eco-sailing-adventure-drone-view.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-tours-fraser-island-kgari-eco-sailing-adventure-aqua-mat-fun.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/Bec2-3.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/fraser-island-tours-boom-netting@2x.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/fraser-island-eco-tour-beach-swim.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/fraser-island-eco-tour-relax-in-the-sun.jpg"
+      ]
+    },
+    {
+      "title": "Champagne Sunset Sail",
+      "images": [
+        "https://www.bluedolphintours.com.au/wp-content/uploads/champagne-sunset-cruise-hervey-bay-header.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-tours-champagne-sunset-sail-red-sky.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-tours-champagne-sunset-sail-urangan-pier.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-tours-champagne-sunset-sail-conversations.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-champagne-sunset-sailing-cruise-pier.jpg"
+      ]
+    },
+    {
+      "title": "Private Sailing Charters",
+      "images": [
+        "https://www.bluedolphintours.com.au/wp-content/uploads/private-sailing-charter-venue-hervey-bay-header.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-tours-private-sailing-catamaran-ocean.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-tours-private-charter-hens-party-celebration.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-tours-private-charter-party-celebration.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-private-charters-sailing-catamaran.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/hervey-bay-tours-champagne-sunset-sail-red-sky.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/boat.jpg"
+      ]
+    },
+    {
+      "title": "K'gari (formerly Fraser Island) Exclusive Tours",
+      "images": [
+        "https://www.bluedolphintours.com.au/wp-content/uploads/blue-dolphin-tours-hervey-bay-fraser-island-tours.jpg",
+        "https://www.bluedolphintours.com.au/wp-content/uploads/PILEVALLEY.jpg"
+      ]
+    }
+  ],
+  "notes": "Logo: logo-dark.svg is the colour version (blue and sand) of the header logo; the header's default logo.svg is all white, for use over photos. Videos come from the operator's own YouTube channel (Blue Dolphin Marine Tours), linked from the footer of every page; titles taken from the channel feed. There are 15 videos on the channel, mostly 2018 whale clips; the 2023 promo is first. No videos are embedded in the site pages. Trip photos use the full-size files (the pages show 740x555 crops); every URL answered 200. Bec2-3.jpg full size is about 11 MB. Left out: the skipper and owner portraits (Peter-Lynch.jpg, Pete-Jodie.jpg, staff photos), the TripAdvisor award badge, eco certification logo, a box-wine graphic, the SVG feature icons, and 8.jpg, which is only in the pages' structured data and not shown. Breach-M-Seabury.jpg on the whale page is named for a person (likely a guest photographer); no credit shows on the page. The sitemap's gallery-2 to gallery-8 and portfolio-8 pages are empty placeholders; the real gallery is /gallery/. The Rezdy booking iframe was not opened."
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "whale-swim-queensland",
+  "logo": "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/Artboard-1-copy-4-e1744770620521.png",
+  "gallery": [
+    "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/by-Lise-de-Boer-The-Pressure-Project-5.jpg",
+    "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/Whale-Week-The-Pressure-Project-10-1.jpg",
+    "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/LIS5175-e1745457618431.jpg",
+    "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/DJI_0272-e1744702208630.jpg",
+    "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/by-Lise-de-Boer-The-Pressure-Project.jpg",
+    "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/by-Lise-de-Boer-The-Pressure-Project-6.jpg",
+    "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/DSC01419.jpeg",
+    "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/DSC00191.jpg",
+    "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/Whale-Week-The-Pressure-Project-20.jpg",
+    "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/Whale-Week-The-Pressure-Project-12-1.jpg",
+    "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/Whale-Week-The-Pressure-Project-18-1.jpg",
+    "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/6A76768A-CA5C-4BFA-9DD5-A76CE1ED55B9-e1744851264552.jpg",
+    "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/LIS5170.jpg",
+    "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/DSC04176-2.jpg",
+    "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/Whale-Swim-Website-2.png"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=psxnF2ub7Mw",
+      "title": "The intimate journey of the humpbacks",
+      "sourceUrl": "https://whaleswimqueensland.com.au/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wg5KbtpU-pw",
+      "title": "The ultimate whale swim retreat in Australia",
+      "sourceUrl": "https://whaleswimqueensland.com.au/whale-week/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1ienLz7W3nU",
+      "title": "Close encounter with a humpback whale",
+      "sourceUrl": "https://whaleswimqueensland.com.au/whale-week/"
+    },
+    {
+      "url": "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/WhaleSwims-Horiz.00227586.mp4",
+      "title": "Whale swim highlights",
+      "sourceUrl": "https://whaleswimqueensland.com.au/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gSyrVTmtCwM",
+      "title": "Whale encounters from the first whale week of the season",
+      "sourceUrl": "https://www.youtube.com/@WhaleSwimQueensland"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_4mNGS3gJTg",
+      "title": "Baby humpback comes up to say hello",
+      "sourceUrl": "https://www.youtube.com/@WhaleSwimQueensland"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Humpback Whale Swim",
+      "images": [
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/by-Lise-de-Boer-The-Pressure-Project.jpg",
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/DSC00191.jpg",
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/by-Lise-de-Boer-The-Pressure-Project-6.jpg",
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/Frankies-Gelato-April-2025-2-edited.jpg"
+      ]
+    },
+    {
+      "title": "Private Whale Charter",
+      "images": [
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/DSC00191.jpg",
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/by-Lise-de-Boer-The-Pressure-Project-6.jpg",
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/by-Lise-de-Boer-The-Pressure-Project.jpg",
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/Frankies-Gelato-April-2025-2-edited.jpg"
+      ]
+    },
+    {
+      "title": "Whale Week Australia",
+      "images": [
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/Whale-Week-The-Pressure-Project-12-1.jpg",
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/Whale-Week-The-Pressure-Project-10-1.jpg",
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/Whale-Week-The-Pressure-Project-20.jpg",
+        "https://whaleswimqueensland.com.au/wp-content/uploads/2025/04/Whale-Week-The-Pressure-Project-18-1.jpg"
+      ]
+    }
+  ],
+  "notes": "Logo is the transparent PNG the header shows (926 x 666; the site crops it to a 150 px square). The footer logo is The Pressure Project's, on black, and was not used. Photos use the original upload files on whaleswimqueensland.com.au rather than the Jetpack copies on i0.wp.com; several originals are very large (by-Lise-de-Boer files 7 to 15 MB, DSC04176-2.jpg 16 MB, LIS5170.jpg 15 MB), and the same file at i0.wp.com/whaleswimqueensland.com.au/wp-content/uploads/...?w=2560 is a smaller fallback. The facts file's 1024 px versions (DSC00191-1024x754.jpg, by-Lise-de-Boer-The-Pressure-Project-6-1024x674.jpg, Frankies-Gelato-April-2025-2-edited-1024x1024.jpg, Whale-Week-The-Pressure-Project-12-1-1024x576.jpg and -18-1-1024x576.jpg) are listed here as their full-size files. Humpback Whale Swim and Private Whale Charter share one booking page, so they share its photos; Whale-Week-The-Pressure-Project-18-1.jpg is from the home page Whale Week card (kept because the facts file has it). Frankies-Gelato-April-2025-2-edited.jpg is a whale photo by its alt text but its file name names another business, so check it before use. Left out: every pexels-eliannedipp stock photo, Tonga6.jpg and Tonga3 (Tonga, titled 'Photo by Jono Allen'), the home page portrait 5FB8E04A-D64F-40B2-9E2F-20D819535817.jpg (captioned 'Photo by Jono Allen', the photographer credited on the Tonga image, so it may be Tonga too), and by-Kate-Newlyn.jpg on the protecting-humpbacks article (location unstated). Whale-Swim-Website-2.png is the home page cover image and may carry text. Videos: psxnF2ub7Mw is on The Pressure Project's own channel (the parent business) and is embedded on the home page; the mp4 (about 146 MB) is the home page background video; the two shorts come from the Whale Swim Queensland channel the footer links to. No bot check was hit."
+}

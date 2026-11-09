@@ -1,0 +1,51 @@
+{
+  "slug": "cat-the-fiddle-luxury-charters",
+  "logo": "https://catandthefiddlebarbados.com/wp-content/uploads/2025/07/output-onlinepngtools-2.png",
+  "heroImage": "https://catandthefiddlebarbados.com/wp-content/uploads/2025/07/DJI_20241222132743_0453_D-scaled.jpg",
+  "gallery": [
+    "https://catandthefiddlebarbados.com/wp-content/uploads/2025/07/DJI_20241222132743_0453_D-scaled.jpg",
+    "https://catandthefiddlebarbados.com/wp-content/uploads/2025/07/DJI_20241204131906_0245_D-scaled.jpg",
+    "https://catandthefiddlebarbados.com/wp-content/uploads/2025/07/DJI_20241222134517_0526_D-scaled.jpg",
+    "https://catandthefiddlebarbados.com/wp-content/uploads/2025/07/DJI_20241222135637_0570_D-scaled.jpg",
+    "https://catandthefiddlebarbados.com/wp-content/uploads/2026/01/DJI_20251124103007_0027_D-scaled.jpg",
+    "https://catandthefiddlebarbados.com/wp-content/uploads/2025/07/DSC01950-scaled.jpg",
+    "https://catandthefiddlebarbados.com/wp-content/uploads/2025/07/DSC02104-scaled.jpg",
+    "https://catandthefiddlebarbados.com/wp-content/uploads/2025/07/DSC02646-scaled.jpg",
+    "https://catandthefiddlebarbados.com/wp-content/uploads/2025/08/CF-Final-5-scaled.jpg",
+    "https://catandthefiddlebarbados.com/wp-content/uploads/2025/08/CF-Final-12-scaled.jpg",
+    "https://catandthefiddlebarbados.com/wp-content/uploads/2025/08/CF-Final-29-scaled.jpg",
+    "https://catandthefiddlebarbados.com/wp-content/uploads/2025/08/CF-Final-42-scaled.jpg",
+    "https://catandthefiddlebarbados.com/wp-content/uploads/2025/08/OTM-25-scaled-1.webp",
+    "https://catandthefiddlebarbados.com/wp-content/uploads/2025/08/OTM-78-scaled-1.webp",
+    "https://catandthefiddlebarbados.com/wp-content/uploads/2025/08/CATF_121-scaled-1.webp",
+    "https://catandthefiddlebarbados.com/wp-content/uploads/2025/08/CATF-16-scaled-1.webp"
+  ],
+  "videos": [
+    { "url": "https://catandthefiddlebarbados.com/wp-content/uploads/2025/08/CATF-Website.mp4", "title": "Home page film", "sourceUrl": "https://catandthefiddlebarbados.com/" }
+  ],
+  "trips": [
+    {
+      "title": "Morning Shared Lunch Catamaran Cruise",
+      "images": [
+        "https://catandthefiddlebarbados.com/wp-content/uploads/2025/08/OTM-31-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Afternoon Shared Catamaran Tour",
+      "images": [
+        "https://catandthefiddlebarbados.com/wp-content/uploads/2025/08/CF-Final-41_edit-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Private Charters",
+      "images": [
+        "https://catandthefiddlebarbados.com/wp-content/uploads/2025/08/CF-Final-12-scaled.jpg",
+        "https://catandthefiddlebarbados.com/wp-content/uploads/2025/08/CF-Final-42-scaled.jpg",
+        "https://catandthefiddlebarbados.com/wp-content/uploads/2025/07/DJI_20241204131906_0245_D-scaled.jpg",
+        "https://catandthefiddlebarbados.com/wp-content/uploads/2025/07/DJI_20241222135703_0572_D-copy.jpg",
+        "https://catandthefiddlebarbados.com/wp-content/uploads/2026/01/DJI_20251124103007_0027_D-scaled.jpg"
+      ]
+    }
+  ],
+  "notes": "WordPress (Elementor) site; the '-scaled' files are the full-size versions WordPress serves (the unscaled originals also load but run 12 to 30 MB). One background image on the charters page has a stock file name (woman-sailing-on-the-yacht-near-the-rocky-coast-MESHY2A.jpg) and was left out. The home page film (CATF-Website.mp4) is about 122 MB and has no title on the page. The gallery page has about 60 photos; 16 were picked across drone, deck and vessel shots. No YouTube or Vimeo channel linked. Peek booking pages were not opened."
+}

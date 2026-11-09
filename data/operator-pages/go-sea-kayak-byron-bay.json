@@ -1,0 +1,395 @@
+{
+  "slug": "go-sea-kayak-byron-bay",
+  "name": "Go Sea Kayak Byron Bay",
+  "website": "https://goseakayakbyronbay.com.au",
+  "rezdyAlias": "goseakayak",
+  "state": "NSW",
+  "town": "Byron Bay",
+  "category": "Sea and river kayak tours",
+  "summary": "A kayak tour company in Byron Bay owned by Kurt Tutt, with tours led by trained local surf lifesavers. Ocean tours paddle the Cape Byron Marine Park looking for dolphins, turtles and whales, and calmer river tours run on the Brunswick River at Brunswick Heads. Tours run all year.",
+  "standouts": [
+    "Gold for Ecotourism at the NSW Tourism Awards in 2018 and 2019",
+    "Eco Certified and holds the 'Recognising Our Culture' certification",
+    "Owned by 3 time world title Surf Life Saving medallist Kurt Tutt, with surf lifesaver guides",
+    "Donates $1 from every customer to Sea Shepherd and the Southern Cross University Dolphin Research Centre"
+  ],
+  "contact": {
+    "phone": "+61 416 222 344",
+    "email": "info@goseakayak.com.au",
+    "address": "On The Park, Opposite 56 Lawson Street, Byron Bay, NSW 2481"
+  },
+  "heroImage": "https://goseakayakbyronbay.com.au/wp-content/uploads/2017/12/go_sea_kayaks_slide3-2.jpg",
+  "sourceUrls": [
+    "https://goseakayakbyronbay.com.au/",
+    "https://goseakayakbyronbay.com.au/sitemap_index.xml",
+    "https://goseakayakbyronbay.com.au/page-sitemap.xml",
+    "https://goseakayakbyronbay.com.au/product-sitemap.xml",
+    "https://goseakayakbyronbay.com.au/byron-bay-kayak-tour/",
+    "https://goseakayakbyronbay.com.au/the-byron-bay-sea-kayak-tour/",
+    "https://goseakayakbyronbay.com.au/the-best-byron-bay-kayak-tour/",
+    "https://goseakayakbyronbay.com.au/sunrise-byron-bay-kayak-tour/",
+    "https://goseakayakbyronbay.com.au/brunswick-river-kayak-tour/",
+    "https://goseakayakbyronbay.com.au/sunset-brunswick-river-kayak-tour/",
+    "https://goseakayakbyronbay.com.au/groups/",
+    "https://goseakayakbyronbay.com.au/school-groups/",
+    "https://goseakayakbyronbay.com.au/private-groups/",
+    "https://goseakayakbyronbay.com.au/corporate-groups/",
+    "https://goseakayakbyronbay.com.au/christmas-parties/",
+    "https://goseakayakbyronbay.com.au/gift-vouchers-2/",
+    "https://goseakayakbyronbay.com.au/about/go-sea-guarantee/",
+    "https://goseakayakbyronbay.com.au/about/go-sea-free-return-tour/",
+    "https://goseakayakbyronbay.com.au/faqs/",
+    "https://goseakayakbyronbay.com.au/contact-us/",
+    "https://goseakayakbyronbay.com.au/about/",
+    "https://goseakayakbyronbay.com.au/why-choose-gsk/",
+    "https://goseakayakbyronbay.com.au/about/sustainability/",
+    "https://goseakayakbyronbay.com.au/about/whale-watching/",
+    "https://goseakayakbyronbay.com.au/about/spotting-dolphins/",
+    "https://goseakayakbyronbay.com.au/terms-conditions/",
+    "https://goseakayakbyronbay.com.au/shop/"
+  ],
+  "trips": [
+    {
+      "title": "Byron Bay Sea Kayak Tour",
+      "kind": "kayak",
+      "summary": "A guided sea kayak tour around Australia's most easterly point in the Cape Byron Marine Park, home to bottlenose dolphins, humpback whales and three species of sea turtle. Guides share local history, Aboriginal culture and marine biology, and finish by teaching you to surf the kayak back to shore. A kayaking lesson on the beach comes first, so no experience is needed.",
+      "highlights": [
+        "Dolphins seen on most tours, whales in season",
+        "Led by trained local surf lifesavers",
+        "Stable sit-on-top double kayaks",
+        "Finish by surfing your kayak to shore"
+      ],
+      "duration": "2 to 2.5 hours",
+      "durationMinutes": 120,
+      "departureTimes": [
+        "09:30",
+        "13:00"
+      ],
+      "season": "Year round",
+      "departsFrom": "On the park, opposite 56 Lawson St, Byron Bay",
+      "prices": [
+        {
+          "label": "Price (homepage badge)",
+          "amount": 99,
+          "currency": "AUD",
+          "note": "Shown only as a \"$99\" price badge image beside this tour on the homepage. Not stated whether adult or per person."
+        }
+      ],
+      "priceFrom": 99,
+      "includes": [
+        "2-2.5 hr fully guided tour",
+        "Secure storage",
+        "All safety gear",
+        "Wetsuits in cooler months",
+        "Kayaking lesson on the beach"
+      ],
+      "bring": [
+        "Comfortable light clothing (eg swimwear) that can get wet",
+        "Hat and sunglasses",
+        "Water bottle",
+        "Towel and clothes to change into afterwards"
+      ],
+      "requirements": "Ages 5 and over. A good level of physical fitness is required. Children 5-15 must be with an adult. Combined weight limit of 190kg per two-person kayak. Not recommended after 15 weeks of pregnancy.",
+      "offer": {
+        "text": "Go Sea Guarantee: if you don't see a dolphin, turtle or whale, paddle again for free",
+        "conditions": "Applies to your first tour in Byron Bay. Book the free return by email with your booking reference. Not transferable and not refundable. The guarantee page says the free return has no expiry.",
+        "validUntil": null
+      },
+      "images": [
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2017/12/go_sea_kayaks_slide3-2.jpg",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2024/09/BEAUTIFUL-DOLPHINS-SHOT-CAPE.jpeg",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/GoSea_home1.jpg",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/home_3.jpg"
+      ],
+      "bookingLinks": [
+        "https://goseakayak.rezdy.com/91347/the-byron-bay-sea-kayak-tour",
+        "https://goseakayak.rezdy.com/91347/dolphin-sea-kayak-tour"
+      ],
+      "sourceUrl": "https://goseakayakbyronbay.com.au/byron-bay-kayak-tour/",
+      "checkNotes": "Price is only in a badge image on the homepage; no text price on any tour page. Departure times conflict: \"9:30am and 1:00pm\" (homepage tour block, whale watching page) vs \"9:30am and 1:30pm\" (homepage slider); used 9:30am and 1:00pm. Meeting point conflict: \"SHED 1 - opposite 58 Lawson St\" on this page vs \"opposite 56 Lawson St\" on the other pages and contact page. Meet 30 mins before (tour pages) or 25 mins (homepage). Non-swimmers: this page says not recommended, other pages and the FAQ say physically fit non-swimmers are fine. Duration badge says 2 hours, inclusions say 2-2.5 hr. Whale season is June to October on the whale page and June to November in the FAQ. Two older duplicate pages exist (/the-byron-bay-sea-kayak-tour/, /the-best-byron-bay-kayak-tour/)."
+    },
+    {
+      "title": "Sunrise Byron Bay Sea Kayak Tour",
+      "kind": "kayak",
+      "summary": "The same guided sea kayak route as the Byron Bay tour, run at dawn with views of the coastline and the Byron Bay lighthouse. It only runs when the morning forecast is very good and the Cape Byron Marine Park approves it. Dolphins, whales and turtles may be seen.",
+      "highlights": [
+        "Runs only on very good morning forecasts",
+        "Views of the coast and Byron Bay lighthouse",
+        "Led by trained local surf lifesavers",
+        "Ages 5 and over"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "On the park, opposite 56 Lawson St, Byron Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "2-2.5 hr fully guided tour",
+        "Secure storage",
+        "All safety gear",
+        "Wetsuits in cooler months",
+        "Kayaking lesson on the beach"
+      ],
+      "bring": [
+        "Comfortable light clothing (eg swimwear) that can get wet",
+        "Hat and sunglasses",
+        "Water bottle",
+        "Towel and clothes to change into afterwards"
+      ],
+      "requirements": "Ages 5 and over. A good level of physical fitness is required.",
+      "offer": null,
+      "images": [
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2025/09/Go-Sea-Kayak-Sunrise-Byron-Bay-Ocean-Kayak-Tour-banner.png"
+      ],
+      "bookingLinks": [
+        "https://goseakayak.rezdy.com/11985/the-sunrise-byron-bay-sea-kayak-tour",
+        "https://goseakayak.rezdy.com/11985/sunrise-sea-kayak-tour"
+      ],
+      "sourceUrl": "https://goseakayakbyronbay.com.au/sunrise-byron-bay-kayak-tour/",
+      "checkNotes": "No price on the site. Scheduled only on good forecasts; the homepage also says sunrise tours are available during school holidays and by appointment. No fixed time."
+    },
+    {
+      "title": "Brunswick River Nature Tour",
+      "kind": "kayak",
+      "summary": "A gentle 2 hour guided paddle on the Brunswick River at Brunswick Heads, about 10 minutes north of Byron Bay. Tours run at high tide when the water is clearest, past sand dunes and river banks with birdlife and marine life, with a stop for a swim. Children from 3 can join, and it is the tour suggested for non-swimmers.",
+      "highlights": [
+        "Runs at high tide for the clearest water",
+        "Suitable for ages 3 and over",
+        "Recommended for non-swimmers",
+        "Swim stop on the river bank"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Brunswick Heads Scout Hall (riverside), 38-40 South Beach Road, Brunswick Heads",
+      "prices": [
+        {
+          "label": "Price (homepage badge)",
+          "amount": 79,
+          "currency": "AUD",
+          "note": "Shown only as a \"$79\" price badge image beside this tour on the homepage. Not stated whether adult or per person."
+        }
+      ],
+      "priceFrom": 79,
+      "includes": [
+        "2 hr fully guided tour",
+        "Secure storage",
+        "All safety gear",
+        "Wetsuits in cooler months",
+        "Kayaking lesson"
+      ],
+      "bring": [
+        "Comfortable light clothing (eg swimwear) that can get wet",
+        "Hat and sunglasses",
+        "Water bottle",
+        "Towel and clothes to change into afterwards"
+      ],
+      "requirements": "Ages 3 and over. Children must be with an adult. Physically fit non-swimmers are welcome.",
+      "offer": null,
+      "images": [
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2025/09/Go-Sea-Kayak-Brunswick-Heads-River-Nature-Kayak-Tour-banner.png",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/GoSea_home2.jpg"
+      ],
+      "bookingLinks": [
+        "https://goseakayak.rezdy.com/91393/brunswick-river-nature-kayak-tour"
+      ],
+      "sourceUrl": "https://goseakayakbyronbay.com.au/brunswick-river-kayak-tour/",
+      "checkNotes": "Price only in a homepage badge image. Departure time changes daily with the high tide. Meet 10 mins before (homepage)."
+    },
+    {
+      "title": "Sunset Brunswick River Kayak Tour",
+      "kind": "kayak",
+      "summary": "An easy evening paddle on the Brunswick River, through mangrove channels as the sun sets behind the hinterland. Guides explain how mangroves filter the river, and rays, herons, eagles and kingfishers are often seen. It suits beginners and families with kids from 3.",
+      "highlights": [
+        "Mangrove channels at dusk",
+        "Rays, mullet and river birdlife",
+        "Easy, suitable for kids 3 and over",
+        "Runs year round, times follow sunset"
+      ],
+      "duration": "approx. 2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": "Year round",
+      "departsFrom": "Brunswick Heads Scout Hall, South Beach Rd, Brunswick Heads",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 75,
+          "currency": "AUD",
+          "note": "$75.00pp. Family and locals discounts available (amounts not stated)."
+        }
+      ],
+      "priceFrom": 75,
+      "includes": [
+        "All kayaking gear",
+        "Lifejackets"
+      ],
+      "bring": [
+        "Hat",
+        "Sunscreen",
+        "Water bottle",
+        "Towel",
+        "Change of clothes"
+      ],
+      "requirements": "Easy, suitable for beginners and kids 3 and over.",
+      "offer": {
+        "text": "Family and locals discounts available",
+        "conditions": "Discount amounts not stated on the site.",
+        "validUntil": null
+      },
+      "images": [
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2025/09/Go-Sea-Kayak-Brunswick-Heads-Sunset-River-Kayak-Tour-banner.png",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2025/09/Sunset-glow-on-Brunswick-River-Experience-Wildlife-Mangroves-at-Dusk-along-the-beautiful-Brunswick-River-in-Brunswick-Heads.png",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2025/09/Sunset-Brunswick-River-Kayak-Tour-Experience-Rays-gliding-under-the-kayaks-Mangroves-at-Dusk-along-the-beautiful-Brunswick-River-in-Brunswick-Heads.png",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2025/09/Sunset-Brunswick-River-Kayak-Tour-Experience-Wildlife-Mangroves-at-Dusk-along-the-beautiful-Brunswick-River-in-Brunswick-Heads.png"
+      ],
+      "bookingLinks": [
+        "https://goseakayak.rezdy.com/454373/sunset-bruns-river-nature-tour"
+      ],
+      "sourceUrl": "https://goseakayakbyronbay.com.au/sunset-brunswick-river-kayak-tour/",
+      "checkNotes": "The page gives a sample schedule (meet 4:30pm, finish by 6:30pm) marked \"for example purposes\" and \"seasonal\", so no departure time is recorded. The page says it meets at a \"Brunswick River launch site\" in the schedule and at the Scout Hall below it."
+    },
+    {
+      "title": "Christmas Parties",
+      "kind": "kayak",
+      "summary": "A Christmas party package that starts with a London double decker bus from Byron Bay to the Brunswick River for a guided sunset kayak tour. Afterwards the group stops at the Hotel Bruns for a drink before the bus returns to Byron Bay. It suits work teams, friends and families.",
+      "highlights": [
+        "London double decker bus transfers from Byron Bay",
+        "Sunset kayak on the Brunswick River",
+        "Drinks stop at the Hotel Bruns",
+        "Bookable online"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Byron Bay (bus transfer to the Brunswick River)",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "London Double Decker bus transfers",
+        "Sunset kayak tour on the Brunswick River",
+        "Stop at the Hotel Bruns"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2024/09/Go-Sea-Kayak-Byron-Bay-Brunswick-River-Christmas-Parties-with-transport.jpeg",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2024/09/Go-Sea-Kayak-Byron-Bay-Corporate-Group-Events-Sunset-Kayaking-on-the-Brunswick-River-NSW.png"
+      ],
+      "bookingLinks": [
+        "https://goseakayak.rezdy.com/664844/christmas-party-sunset-bruns-river-nature-tour-with-magic-bus-transfers"
+      ],
+      "sourceUrl": "https://goseakayakbyronbay.com.au/christmas-parties/",
+      "checkNotes": "No price, duration or dates on the site. The page does not say whether drinks at the Hotel Bruns are included in the price. The page only says \"This Christmas\", with no dates."
+    },
+    {
+      "title": "School Groups",
+      "kind": "kayak",
+      "summary": "Kayaking excursions for school groups on the Brunswick River, mixing paddling with lessons on mangroves, native wildlife and local ecology. Guides set the difficulty to the group's experience and provide all equipment. Programs are arranged by enquiry.",
+      "highlights": [
+        "Brunswick River location",
+        "Mangroves, wildlife and local ecology",
+        "All equipment provided",
+        "Enquiry only"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Brunswick River, Brunswick Heads",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All necessary equipment"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/byron_bruns_home1.jpg",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/03/go_sea_kayak_contact.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://goseakayakbyronbay.com.au/school-groups/",
+      "checkNotes": "Enquiry form only, no price."
+    },
+    {
+      "title": "Private Groups",
+      "kind": "kayak",
+      "summary": "Private guided kayak trips for a single group, either on the ocean at Byron Bay or on the Brunswick River. Guides give full instruction so beginners can join. Rates are by email enquiry.",
+      "highlights": [
+        "Choice of Byron Bay ocean or Brunswick River",
+        "Guided with full instruction",
+        "Suitable for beginners",
+        "Rates on request"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Byron Bay or Brunswick Heads",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/11/go_sea_kayak_brunstour2.jpg",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go-sea-kayak-6.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://goseakayakbyronbay.com.au/private-groups/",
+      "checkNotes": "Enquiry only. The FAQ says to email info@goseakayak.com.au for availability and rates."
+    },
+    {
+      "title": "Corporate Groups",
+      "kind": "kayak",
+      "summary": "Team-building sea kayak trips for companies in Byron Bay, guided with full instruction so novices can take part. The day is built around teamwork on the water. Bookings are by enquiry.",
+      "highlights": [
+        "Sea kayaking in Byron Bay",
+        "Guided with full instruction",
+        "Team building focus",
+        "Enquiry only"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Byron Bay",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go_sea_kayak_training.jpg",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go-sea-kayak-gallery-18.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://goseakayakbyronbay.com.au/corporate-groups/",
+      "checkNotes": "Enquiry form only, no price."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers for any kayak tour",
+      "conditions": "Can be used once and are not refundable. Bought through https://goseakayak.rezdy.com/catalog/1200/gift-vouchers (not opened). An older shop page on the site lists Dolphin or River Kayak Tours vouchers at Family $230.00, Adult $75.00 and Child $50.00.",
+      "validUntil": null,
+      "sourceUrl": "https://goseakayakbyronbay.com.au/gift-vouchers-2/"
+    },
+    {
+      "text": "Discounts for groups of 10 or more",
+      "conditions": "Email info@goseakayak.com.au. No discounted tickets for public holidays, school holidays, long weekends or peak weekends. Amount not stated.",
+      "validUntil": null,
+      "sourceUrl": "https://goseakayakbyronbay.com.au/terms-conditions/"
+    }
+  ],
+  "checkNotes": "Only two image-only price badges ($99 Byron Bay, $79 Brunswick River) and one text price ($75 Sunset Brunswick) appear on the site; other prices are only in the Rezdy widget. The /shop/ voucher prices come from a WooCommerce shop last updated in 2018 that is not in the menu (the menu's Gift Vouchers goes to Rezdy), so treat them as possibly stale. Pick-ups: the Terms and FAQ say no pick-ups, but another FAQ answer says they provide snacks and drinks and free accommodation pick-up; treat pick-up as not offered. Office hours differ between the footer (8am to 6pm, 7 days) and the contact page (8am to 5pm Mon to Sat, 8am to 1pm Sun). The footer badge image reads \"ECO Certified advanced ecotourism\" (file name mentions Green Travel Leader) but the page text only says \"Eco Certified\". The homepage claims they are the only Byron Bay tour company with both Eco and Recognising Our Culture certification; not used. The /about/go-sea-guarantee/ link from the homepage returns 404; the guarantee is on /about/go-sea-free-return-tour/ and the Terms."
+}

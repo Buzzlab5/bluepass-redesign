@@ -1,0 +1,116 @@
+{
+  "slug": "sea-lion-charters",
+  "name": "Sea Lion Charters",
+  "website": "https://sealioncharters.com.au",
+  "rezdyAlias": "turquoisesafaris",
+  "state": "WA",
+  "town": "Jurien Bay",
+  "category": "Sea lion swim tours",
+  "summary": "Snorkel tours to swim with Australian sea lions in the Jurien Bay Marine Park, from a business founded in 1998. Two 10 metre boats, licensed for 12 and 15 passengers, leave from Jurien Bay Boat Harbour and anchor near a sea lion colony. Snorkellers can interact with the sea lions for up to 45 minutes, and tours run all year.",
+  "standouts": [
+    "Operating in the Jurien Bay Marine Park for more than 25 years; founded in 1998",
+    "Two 10 metre LeisureCat boats, licensed for 12 and 15 passengers",
+    "All crew qualified in Senior First Aid; skippers hold Commercial Boating Licences",
+    "Member of the Western Australian Tourism Commission; completes its Quality Business Accreditation each year"
+  ],
+  "contact": {
+    "phone": "1300 732 546",
+    "email": "info@sealioncharters.com.au",
+    "address": "PO Box 838, Jurien Bay 6516"
+  },
+  "heroImage": "https://static.wixstatic.com/media/bebe0a_c75fe919950b469c9d3e91d264b33587~mv2.jpg",
+  "sourceUrls": [
+    "https://www.sealioncharters.com.au/",
+    "https://www.sealioncharters.com.au/tours",
+    "https://www.sealioncharters.com.au/bookings",
+    "https://www.sealioncharters.com.au/about",
+    "https://www.sealioncharters.com.au/faq",
+    "https://www.sealioncharters.com.au/general-8",
+    "https://www.sealioncharters.com.au/sea-lion-facts",
+    "https://www.sealioncharters.com.au/gallery",
+    "https://www.sealioncharters.com.au/zh",
+    "https://www.sealioncharters.com.au/sitemap.xml",
+    "https://www.sealioncharters.com.au/pages-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Sea Lion Tours",
+      "kind": "swim",
+      "summary": "A snorkel tour to swim with Australian sea lions in the Jurien Bay Marine Park. The boat anchors near a sea lion colony, and snorkellers can interact with the sea lions for up to 45 minutes, or until the sea lions lose interest. Wetsuits, snorkel gear, hot drinks and snacks are included.",
+      "highlights": [
+        "Up to 45 minutes in the water with the sea lions, or until they lose interest",
+        "Two 10 metre boats to choose from: Sound Waves (12 passengers) and Mojo (15 passengers)",
+        "Non-swimmers can come as observers and upgrade to snorkelling on the day",
+        "Snorkel sites are in shallow water, 1 to 4 metres deep"
+      ],
+      "duration": "120 minutes (approximately)",
+      "durationMinutes": 120,
+      "departureTimes": [
+        "07:00-07:30",
+        "09:30-10:00"
+      ],
+      "season": "Year round",
+      "departsFrom": "Jurien Bay Boat Harbour, off Harbour Drive, Jurien Bay (floating pontoon behind the information bay)",
+      "prices": [
+        {
+          "label": "Sea lion tour, from price",
+          "amount": 130,
+          "currency": "AUD",
+          "note": "Shown as 'From AUD $130.00' for both boats. Ticket type and age group are not stated."
+        },
+        {
+          "label": "Observer upgrade to snorkeller, paid on the day (supplement)",
+          "amount": 26,
+          "currency": "AUD",
+          "note": "Extra amount for an observer who decides to snorkel on the day, paid by cash or card. The observer ticket price itself is not stated."
+        },
+        {
+          "label": "GoPro camera hire, per person (optional)",
+          "amount": 50,
+          "currency": "AUD",
+          "note": "Gear hire, not part of the trip price. Limited number available."
+        }
+      ],
+      "priceFrom": 130,
+      "includes": [
+        "Tusa masks, snorkels and fins, cleaned in an antibacterial solution after every tour",
+        "Long-arm, short-leg 3mm custom-made wetsuits, washed in an antibacterial wetsuit wash after every tour",
+        "Buoyancy vests",
+        "Hot drinks (tea, coffee and hot chocolate), drinking water and snacks",
+        "Toilet and changing area on board, and hot showers at the Boat Harbour after the tour",
+        "Wetsuit fitting and safety talk before departure"
+      ],
+      "bring": [
+        "Swimwear (for snorkellers)",
+        "Camera or GoPro",
+        "Hat and sunglasses",
+        "Warm jacket or jumper",
+        "Sunscreen",
+        "Optional: your own wetsuit and snorkelling equipment (the price is the same)"
+      ],
+      "requirements": "Arrive 15 minutes before departure. Terms and Conditions: participants must be able to swim, be aged 3 years or over, and be physically and medically fit; anyone under 18 must be accompanied by a parent or guardian. FAQ: no set age limits, and a medium level of fitness is required. The Tours page says a minimum swimming ability is a must because it is an open ocean swim, and strong swimming ability is desirable. Not suitable with a back injury; seek medical advice if pregnant. Boats are wheelchair accessible via the floating pontoons and side-entry doors.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/bebe0a_1260b23b88244662b7ee85674ddb71de~mv2.jpg",
+        "https://static.wixstatic.com/media/bebe0a_cdb8472576004378a6caa2375f49b40c~mv2.jpg",
+        "https://static.wixstatic.com/media/bebe0a_d6032781356e4fff87701aba3329ee56~mv2.jpg",
+        "https://static.wixstatic.com/media/bebe0a_5d17a7e3bf4d4bb0abb7dff7b72c7026~mv2.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.sealioncharters.com.au/bookings",
+        "https://turquoisesafaris.rezdy.com/catalog/50512/sea-lion-tours"
+      ],
+      "sourceUrl": "https://www.sealioncharters.com.au/tours",
+      "checkNotes": "The Tours page has two entries, 'Sea Lion Tours: Sound Waves' and 'Sea Lion Tours: Mojo'. Both show the same duration and price, and the FAQ says the only difference is capacity (Mojo 15, Sound Waves 12) and that the boat chosen at booking is not guaranteed. Merged into one trip. PRICES: only 'From AUD $130.00' appears on the page. The full price list sits inside the booking widget, so ticket types, age groups and the observer ticket price are unknown. The $26 observer upgrade and the $50 GoPro hire come from the FAQ. BOOKING: the Book now page holds an embedded booking widget (an HTML embed that is not in the page source, so it was not read). The Rezdy catalogue link appears only in the Home page header and was not opened. FAQ: bookings are essential, tours only depart if booked, full price is paid up front when booking online, no deposit. TIMES: the Tours page says tours 'generally depart at 7.00-7.30 am and 9.30-10 am' and return no later than 1.00 pm; these are ranges, not fixed times. The FAQ says one trip runs every day and up to two a day depending on demand (extra tours at weekends and school holidays), all subject to weather. The boat ride is 15 to 30 minutes each way. CONFLICTS: colonies, 'one of two' (Home page hero text) against 'one of three' (included section; the FAQ says three islands); in-water time, 'maximum of 45 minutes' on the English pages against '1 to 1.5 hours' on the Chinese-language Home page; minimum age, 3 years in the Terms against no set limit in the FAQ; the Terms say participants must be able to swim while the FAQ allows observers. NO GUARANTEE: the Tours page says every day is different, a sea lion interaction cannot be guaranteed, and there are no refunds or guarantees; not repeated as a promise. The page also calls Turquoise Safaris' policy 'Enter At Own Risk'. CANCELLATION (FAQ and Terms): if you cancel less than 48 hours before departure a fee of half the ticket price applies, no refund for a no-show, and tours cancelled by the operator are rescheduled or refunded. A waiver may be required. OTHER FACTS NOT USED ELSEWHERE: water temperature can be below 15 degrees Celsius in winter and up to 25 in summer (FAQ); wheelchairs up to 600mm wide (FAQ); the Tours page mentions 'Sea Lion Safaris' once and 'Sea Lion Interaction Tours' in the policy text, probably older names for the same tour."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift vouchers available for all tours",
+      "conditions": "Non-refundable. Only one gift card or voucher can be redeemed per person per booking.",
+      "validUntil": null,
+      "sourceUrl": "https://www.sealioncharters.com.au/faq"
+    }
+  ],
+  "checkNotes": "SAME BUSINESS as turquoise-safaris: one ABN, one Rezdy account (turquoisesafaris) and the same sea lion tour on two websites. Keep one page. REDIRECT: sealioncharters.com.au answers with a permanent redirect to www.sealioncharters.com.au. This is the same domain on the same business, not another business's site. The live site calls itself 'Sea Lion Charters', with the header line 'A company of Turquoise Safaris'. The Terms and Conditions define the operator as the businesses of Turquoise Safaris and Sea Lion Charters under one ABN (75 937 088 962). REZDY: rezdyAlias 'turquoisesafaris' comes from the sea lion tours catalogue link in the Home page header (turquoisesafaris.rezdy.com/catalog/50512/sea-lion-tours, not opened). It is treated as the operator's own account because of the single ABN above. A person should confirm that this Rezdy account is theirs for sea lion tours and see whether it also sells other Turquoise Safaris trips, none of which this site describes. TRIPS: one sea trip only, the sea lion snorkel tour. Nothing else (no hire, land tour or other trip) is described on the site. PHOTO RIGHTS: Terms 6.4 and 6.5 say the site's content and images belong to the operator and may not be copied or reused without written permission, so get the operator's agreement before photos go live. Two photos on the Sea lion facts page have file names starting 'WA_018_TURQUOISE_SAFARIS' and three have older WordPress-style names (colony, DSC2344, DJI_0005); no credit to anyone else is shown, but ownership is worth confirming. MEDIA NOT USED: the Gallery page is only an Instagram feed widget (not read), and the Home and About pages each carry a site-hosted video player whose file address is not in the page source, so no videos are recorded. The site links to no YouTube, Vimeo or social pages. CONTACT: the only address is a PO Box; the departure point is Jurien Bay Boat Harbour. CLAIMS KEPT OUT: 'original and best' and 'longest-serving', the customer 'life-changing' line, the statement that guests will only experience sea lions in their natural habitat, and the population-decline figure on the Sea lion facts page. The footer reads Copyright 2023, while the sitemap shows pages last modified 2026-08-31. No captcha, bot check or block was met; 11 pages fetched, one at a time."
+}

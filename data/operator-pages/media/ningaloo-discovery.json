@@ -1,0 +1,225 @@
+{
+  "slug": "ningaloo-discovery",
+  "logo": "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/02/Ningaloo-Discovery-logo-A@2x.png",
+  "gallery": [
+    "https://www.ningaloodiscovery.com.au/wp-content/uploads/2016/03/Swimming-with-Whale-Sharks-Drone.jpg",
+    "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/05/WS-and-customer-daisy-scaled.jpg",
+    "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/customer-and-close-up-whaleshark-front-view.jpg",
+    "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/05/HW-guests-scaled.jpg",
+    "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/05/mum-and-calf-scaled.jpg",
+    "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/double-breach-nush.jpg",
+    "https://www.ningaloodiscovery.com.au/wp-content/uploads/2016/03/Ningaloo-Snorkelers-Drone-1.jpg",
+    "https://www.ningaloodiscovery.com.au/wp-content/uploads/2019/09/ningaloo-discovery-whale-sharks-2.jpg",
+    "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/WC-and-Whale-copy-scaled.jpg",
+    "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/05/double-whaleshark-BEST-SHOT.jpg",
+    "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/swimmers-side-view-whaleshark-blue-water-2.jpg",
+    "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/05/guests-with-humpy.jpg",
+    "https://www.ningaloodiscovery.com.au/wp-content/uploads/2016/01/jackmanta.jpg",
+    "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/green-turtle-breath.jpg",
+    "https://www.ningaloodiscovery.com.au/wp-content/uploads/2016/03/Ningaloo-Discovery-29-03-16.jpg",
+    "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/03/ningaloo-sunset-sails-3.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=eWc7mSbeZ_g",
+      "title": "Whale shark swims",
+      "sourceUrl": "https://www.ningaloodiscovery.com.au/swimming-with-whale-sharks-video/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=EsXjArndwpU",
+      "title": "Humpback whale swims",
+      "sourceUrl": "https://www.ningaloodiscovery.com.au/humpback-whale-interactions/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yaHpkLbd7ik",
+      "title": "Welcome on board Windcheetah",
+      "sourceUrl": "https://www.ningaloodiscovery.com.au/ningaloo-whale-shark-swim-and-sail/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SQgtrcQrc5M",
+      "title": "Swimming with whale sharks",
+      "sourceUrl": "https://www.ningaloodiscovery.com.au/swimming-with-whale-sharks-video/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UxUkg4KsoHE",
+      "title": "Sunset sail",
+      "sourceUrl": "https://www.ningaloodiscovery.com.au/ningaloo-reef-sunset-sails/"
+    },
+    {
+      "url": "https://www.ningaloodiscovery.com.au/wp-content/uploads/2016/03/Ningaloo-Discovery-1080p.mp4",
+      "title": "Ningaloo Discovery tour film",
+      "sourceUrl": "https://www.ningaloodiscovery.com.au/swimming-with-whale-sharks-video/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Ningaloo Whale Shark Swim on a Sailing Catamaran",
+      "images": [
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/48870263516_7d3e017d51_k.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/5220003-Edit-2-scaled.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/09/50316276827_fc433aef0b_k.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/09/50037583492_88e98bf1c3_o-scaled.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/48870580476_198a98766c_k.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/09/50336682358_7d346ff444_h.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/NT4A9742.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2019/09/Ningaloo-Discovery-17.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/green-turtle-breath.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/09/crew-cargonet.jpg"
+      ]
+    },
+    {
+      "title": "Ningaloo Whale Shark Swim on a Powerboat",
+      "images": [
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/48542942686_b4c6e0422b_k.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/49634046122_f0315ec699_h.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/49680019911_59d788bc14_k.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/P4230109.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/49659801473_bc6fdb22a0_h.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/49660637482_d600ff7af8_h.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/09/51414961086_214ae2afd9_o-scaled.jpg"
+      ]
+    },
+    {
+      "title": "Ningaloo Whale Shark Swim & Eco Tour on a Sailing Catamaran (Shoulder Season)",
+      "images": [
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/shark-swimmer-copy-scaled.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/09/51310853103_c724b26dbd_o-scaled.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/09/51439959009_2c99574677_o-scaled.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/green-turtle-breath.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/48870263516_7d3e017d51_k.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/5220003-Edit-2-scaled.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/09/50336682358_7d346ff444_h.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/09/50316276827_fc433aef0b_k.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/09/crew-cargonet.jpg"
+      ]
+    },
+    {
+      "title": "Ningaloo Whale Shark Swim & Eco Tour on a Powerboat (Shoulder Season)",
+      "images": [
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/49608778183_6e5da95687_h.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/49679485748_f48bc0822b_k.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/Edited-2.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/09/51403418386_bb508f1fc4_o-scaled.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/09/51439965269_d200b1787a_o-scaled.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/09/51439959009_2c99574677_o-scaled.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/shark-swimmer-copy-scaled.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/P4230109.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/49659801473_bc6fdb22a0_h.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/green-turtle-breath.jpg"
+      ]
+    },
+    {
+      "title": "Ningaloo Humpback Whale Swim on a Powerboat",
+      "images": [
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2016/01/humpback-whale-swim.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2019/03/whale-and-swimmers-humpback.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2018/08/29194157837_3dbfda8cbe_o-copy.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2019/09/Ningaloo-Discovery-11.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2019/09/Ningaloo-Discovery-12.jpg"
+      ]
+    },
+    {
+      "title": "Ningaloo Humpback Whale Swim on a Sailing Catamaran",
+      "images": [
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2019/09/Ningaloo-Discovery-11.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/02/Ningaloo-Discovery-12a.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/02/Ningaloo-Discovery-12b-e1602498462177.png"
+      ]
+    },
+    {
+      "title": "Murion Islands Snorkel Adventure",
+      "images": [
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2022/04/IMG_7101.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2022/04/image12.jpeg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2022/06/52036486192_b8a0f1186b_o.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2022/06/green-turtle-clear-water-takes-a-breath.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2022/06/41954152754_75cc84aec0_o-copy.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2022/06/48408647626_c43b7c322f_o.jpg"
+      ]
+    },
+    {
+      "title": "Ningaloo Lagoon Snorkel and Whale Watch Tour",
+      "images": [
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2022/06/41954152754_75cc84aec0_o-copy.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2022/06/48408647626_c43b7c322f_o.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2022/06/green-turtle-clear-water_-1.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2022/06/52036486192_b8a0f1186b_o.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2022/06/green-turtle-clear-water-takes-a-breath.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2022/04/IMG_7101.jpg"
+      ]
+    },
+    {
+      "title": "Glass Bottom Boat Tours in Ningaloo",
+      "images": [
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/10/view-ningaloo-glass-bottom-boat-scaled.jpeg"
+      ]
+    },
+    {
+      "title": "Ningaloo Sunset Sail (Bus Pickup Included)",
+      "images": [
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/03/ningaloo-sunset-sails-4.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/03/44219740005_9c935e221b_o.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/10/P5080359.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/10/Screen-Shot-2021-03-23-at-2.15.37-pm.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/10/Screen-Shot-2021-03-23-at-1.51.22-pm-2.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/10/Screen-Shot-2021-03-23-at-2.16.30-pm-2.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/10/Screen-Shot-2021-03-23-at-1.50.59-pm.jpg"
+      ]
+    },
+    {
+      "title": "Ningaloo Sunset Sail – Meet at Marina",
+      "images": [
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/03/ningaloo-sunset-sails-4.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/03/44219740005_9c935e221b_o.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/10/P5080359.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/10/Screen-Shot-2021-03-23-at-2.15.37-pm.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/10/Screen-Shot-2021-03-23-at-1.51.22-pm-2.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/10/Screen-Shot-2021-03-23-at-2.16.30-pm-2.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/10/Screen-Shot-2021-03-23-at-1.50.59-pm.jpg"
+      ]
+    },
+    {
+      "title": "Exclusive Tours and Charters",
+      "images": [
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2022/04/IMG_7101.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2022/04/image0-2.jpeg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/03/ningaloo-sunset-sails-3.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2022/10/52181720534_735e28e003_o.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/06/P4230109.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/09/50336682358_7d346ff444_h.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/03/44219740005_9c935e221b_o.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/10/Screen-Shot-2021-03-23-at-2.15.37-pm.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/10/Screen-Shot-2021-03-23-at-2.16.30-pm-2.jpg"
+      ]
+    },
+    {
+      "title": "Ningaloo Live-Aboards",
+      "images": [
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2016/01/swim-wth-turtles.jpg"
+      ]
+    },
+    {
+      "title": "Summer Eco (Whale Shark) Tour",
+      "images": [
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2019/03/whale-shark-above-ningaloo.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2019/03/swim-whale-sharks.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2019/03/swim-whale-sharks2.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2016/03/Ningaloo-Discovery-at-Sunset-e1462428080412.jpg"
+      ]
+    },
+    {
+      "title": "Lagoon Snorkel and Sail – Half Day",
+      "images": [
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2021/03/ningaloo-sunset-sails-3.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2020/10/50399698778_2a01f156cc_k_lg.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2019/09/Ningaloo-Discovery-9.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2019/03/swim-whale-sharks.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2017/07/dji_0152.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2019/03/img_7906.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2018/04/img_2243-2-copy.jpg",
+        "https://www.ningaloodiscovery.com.au/wp-content/uploads/2018/04/img_2291-2-copy.jpg"
+      ]
+    }
+  ],
+  "notes": "The 300x300 thumbnails in the facts file were replaced by their full-size originals (WordPress size suffix removed; -scaled copies used where WordPress made them); every URL was checked to load. Photo galleries used: photos-from-our-tours, its whale shark and humpback sub-galleries, the home and about pages. Glass Bottom Boat Tours: the only photo on that page is view-ningaloo-glass-bottom-boat-scaled.jpeg, and the page books through Subsea Explorer's 'View Ningaloo' Rezdy widget, so the photo is probably the partner's; check before use. Ningaloo Live-Aboards has a single header photo and no gallery. 'Lagoon Snorkel and Sail - Half Day' maps to the general things-to-do-in-exmouth page, so its photos are that page's. Videos: eWc7mSbeZ_g and EsXjArndwpU (Base Imagery) and SQgtrcQrc5M (Clip Media) are production-company uploads made for Ningaloo Discovery and embedded on its own pages; yaHpkLbd7ik and UxUkg4KsoHE are on Ningaloo Discovery's own channels; the 1080p mp4 (64 MB) is hosted on the operator's site. Not recorded (over the six-video limit): the home page background loop youtube.com/watch?v=2mPMV1sZWco ('Ningaloo Discovery Website Banner', Base Imagery). The site links to no YouTube or Vimeo channel. Left out: review avatars, Google review photos, award and certification badges. No captcha or bot check met. Booking pages are Rezdy widgets and were not opened."
+}

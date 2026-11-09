@@ -1,0 +1,288 @@
+{
+  "slug": "freediving-barbados",
+  "name": "Freediving Barbados",
+  "website": "https://freedivingbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Maxwell",
+  "category": "Freediving courses",
+  "summary": "Alex Davis, an AIDA Master Instructor who holds 11 Barbados national freediving records, teaches AIDA and PADI freediving courses from first breath-hold to advanced depth. Courses take no more than four students and mix pool sessions with open water dives, typically in Carlisle Bay. He also guides spearfishing trips that target invasive lionfish.",
+  "standouts": [
+    "AIDA Master Instructor and Advanced PADI Freedive Instructor",
+    "11 Barbados national freediving records, deepest 92m (301ft)",
+    "No more than 4 students per course",
+    "Teaching AIDA 2* and 3* courses in Barbados since 2015"
+  ],
+  "contact": {
+    "phone": "+1 246 230 8580",
+    "email": "FreedivingBarbados@gmail.com",
+    "address": "Maxwell, Christ Church, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://freedivingbarbados.com/wp-content/uploads/2022/08/Home9.jpg",
+  "sourceUrls": [
+    "https://freedivingbarbados.com/",
+    "https://freedivingbarbados.com/freedive-course/",
+    "https://freedivingbarbados.com/freedive-course/aida-2/",
+    "https://freedivingbarbados.com/freedive-course/aida-3/",
+    "https://freedivingbarbados.com/freedive-course/padi-freediver/",
+    "https://freedivingbarbados.com/about-us/",
+    "https://freedivingbarbados.com/contact-us/",
+    "https://freedivingbarbados.com/wp-json/wp/v2/pages?per_page=50&_fields=link,modified",
+    "http://spearfishingbarbados.com/trips/sea-scooter-tours/",
+    "https://spearfishingbarbados.com/",
+    "https://spearfishingbarbados.com/daytime-spearfishing-tours/"
+  ],
+  "trips": [
+    {
+      "title": "AIDA 1 & 2*",
+      "kind": "course",
+      "summary": "The most popular course: AIDA 1* and 2* combined over two full days of theory, pool work and open water dives. You learn breathing, equalisation, buddy safety and rescue, and work towards dives of at least 50ft and breath-holds over two minutes.",
+      "highlights": [
+        "Deep freedives to at least 50ft (up to 65ft)",
+        "Static breath-holds over 2 minutes and 40m dynamic in the pool",
+        "First open water dive typically in Carlisle Bay, with a look at the wrecks",
+        "No more than 4 students"
+      ],
+      "duration": "2 full days, 7am to around 3:30pm",
+      "durationMinutes": null,
+      "departureTimes": ["07:00"],
+      "season": "Weekdays and weekends, no fixed schedule",
+      "departsFrom": null,
+      "prices": [
+        { "label": "Per person", "amount": 275, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 275,
+      "includes": ["Pool fees", "Certification costs", "Transport (in most cases)", "Water", "All equipment, including low volume freediving masks and long blade fins"],
+      "bring": ["Lunch on both days (or stop along the way)", "Pen and paper for theory notes", "Towel", "Sunscreen", "Your own wetsuit is advised for a better fit"],
+      "requirements": "Over 16 years old and able to swim 200m unassisted (or 300m with mask and fins)",
+      "offer": null,
+      "images": [
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/diver2.jpg",
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/turtle.jpg",
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/diver1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://freedivingbarbados.com/freedive-course/aida-2/",
+      "checkNotes": "Booked by contact form, email or phone; dates arranged to suit. The operator is based on the south coast and transport can usually be provided, so no single departure point is stated."
+    },
+    {
+      "title": "AIDA 3*",
+      "kind": "course",
+      "summary": "A three-day course for divers who already hold AIDA 2* or similar. It covers Frenzel equalisation, freefall, deep safety and CO2 training, with open water sessions working towards 24m and up to 30m.",
+      "highlights": [
+        "Deep freedives to at least 24m (up to 30m)",
+        "Static breath-holds over 2:45 minutes and at least 55m dynamic",
+        "Frenzel equalisation and freefall technique",
+        "Deep blackout rescue and self rescue from depth"
+      ],
+      "duration": "3 consecutive days, 7am to around 3:30pm",
+      "durationMinutes": null,
+      "departureTimes": ["07:00"],
+      "season": "Weekdays and weekends, no fixed schedule",
+      "departsFrom": null,
+      "prices": [
+        { "label": "Per person", "amount": 375, "currency": "USD", "note": "A boat fee may apply if a small vessel is needed to reach deeper sites" }
+      ],
+      "priceFrom": 375,
+      "includes": ["Pool fees", "Certification costs", "Transport (in most cases)", "Water", "Weights"],
+      "bring": ["Lunch (or stop along the way)", "Pen and paper for theory notes", "Towel", "Sunscreen", "Your own mask, snorkel, fins and wetsuit (gear can be provided where needed)"],
+      "requirements": "Over 16 years old and completed AIDA 2* or equivalent; valid First Aid training (EFR or similar) advised",
+      "offer": null,
+      "images": [
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/diver3.jpg",
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/diver5.jpg",
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/diver1-1.jpg",
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/diver2-1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://freedivingbarbados.com/freedive-course/aida-3/",
+      "checkNotes": "Boat fee amount not stated; the site says it depends on number of students, conditions and scheduling. The page says 'lunch on both days' although the course runs three days."
+    },
+    {
+      "title": "AIDA 1*",
+      "kind": "course",
+      "summary": "A one-day introduction to freediving that gets you in the water holding your breath, with no performance requirements.",
+      "highlights": [
+        "One day",
+        "No performance requirements"
+      ],
+      "duration": "One day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://freedivingbarbados.com/freedive-course/",
+      "checkNotes": "Listed on the courses page only, with no price, times or requirements. The AIDA 1 & 2* page sells it combined with AIDA 2*."
+    },
+    {
+      "title": "Basic Freediver",
+      "kind": "course",
+      "summary": "A short introductory course, similar to AIDA 1*, that eases you into freediving with no performance requirements.",
+      "highlights": [
+        "No performance requirements"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://freedivingbarbados.com/freedive-course/",
+      "checkNotes": "Listed on the courses page only, with no price, duration or requirements."
+    },
+    {
+      "title": "PADI Freediver",
+      "kind": "course",
+      "summary": "A two-day PADI course with theory done beforehand on the Freediver Touch app, then pool and open water sessions. You work towards dives of at least 10m, breath-holds over 90 seconds and basic rescue skills.",
+      "highlights": [
+        "Deep freedives to at least 10m (up to 16m or 55ft)",
+        "Static breath-holds over 90 seconds and 25m dynamic in the pool",
+        "Ocean dive in Carlisle Bay on day one",
+        "No more than 4 students"
+      ],
+      "duration": "2 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": ["Pool fees", "Certification costs", "Transport (in most cases)", "Water", "All equipment, including low volume freediving masks and long blade fins"],
+      "bring": ["Lunch on both days (or stop along the way)", "Towel", "Sunscreen", "Your own wetsuit is advised for a better fit"],
+      "requirements": "15 years or older and able to swim 200m unassisted (or 300m with mask and fins)",
+      "offer": null,
+      "images": [
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/padidiver1.jpg",
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/padidiver2.jpg",
+        "https://freedivingbarbados.com/wp-content/uploads/2017/06/padidiver3.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://freedivingbarbados.com/freedive-course/padi-freediver/",
+      "checkNotes": "No price on the page. The page ends: 'We have shifted our focus to the AIDA 1&2* course', so this course may no longer be offered; confirm with the operator."
+    },
+    {
+      "title": "PADI Advanced Freediver",
+      "kind": "course",
+      "summary": "The next PADI level after Freediver, working on breath-holds over 2:30 minutes and dives up to 20m, with advanced skills learned through the Freediver Touch app.",
+      "highlights": [
+        "Breath-holds over 2:30 minutes",
+        "Dives up to 20m"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "PADI Freediver course completed",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://freedivingbarbados.com/freedive-course/",
+      "checkNotes": "Listed on the courses page only, with no price or duration. The About page says the business is currently the only centre in Barbados offering Advanced PADI freediving courses."
+    },
+    {
+      "title": "Sea Scooter Tour",
+      "kind": "tour",
+      "summary": "A tour of Barbados shipwrecks using an underwater sea scooter.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://freedivingbarbados.com/freedive-course/",
+      "checkNotes": "Only one line on the courses page. Its 'Book a Tour' link goes to http://spearfishingbarbados.com/trips/sea-scooter-tours/, which returns a 404 page, so the tour may no longer run; confirm with the operator before publishing."
+    },
+    {
+      "title": "Daytime Spearfishing",
+      "kind": "tour",
+      "summary": "A guided spearfishing dive of about two hours that needs no previous experience, starting with a full briefing on freediving and spearfishing technique. Invasive lionfish are a main target, and the catch is filleted for you to take home.",
+      "highlights": [
+        "No prior freediving or spearfishing experience needed",
+        "Invasive lionfish are one of the main targets",
+        "Catch filleted afterwards to take home",
+        "Typical groups up to 4 people"
+      ],
+      "duration": "Around 2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Per person", "amount": 140, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 140,
+      "includes": ["All equipment", "Pre-dive briefing"],
+      "bring": ["Swimming clothes or suit", "Towel", "Sunscreen", "Drinking water"],
+      "requirements": "Must be a strong swimmer",
+      "offer": null,
+      "images": [
+        "https://spearfishingbarbados.com/wp-content/uploads/2025/01/Lionfish3-1-scaled.jpg",
+        "https://spearfishingbarbados.com/wp-content/uploads/2025/01/PXL_20240115_174733146-scaled.jpg",
+        "https://spearfishingbarbados.com/wp-content/uploads/2025/01/DSC05955edit.jpg",
+        "https://spearfishingbarbados.com/wp-content/uploads/2025/01/Lionfish-1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://spearfishingbarbados.com/daytime-spearfishing-tours/",
+      "checkNotes": "Read from spearfishingbarbados.com, the operator's sister site under the Spearfishing Barbados name (same phone number, same guide Alex Davis, linked from the freediving site). Drop this trip if only freedivingbarbados.com pages should count. 'Book Now' goes to the contact page, so enquiry only. Duration 'usually around 2hrs' is from the home page."
+    },
+    {
+      "title": "Bluewater Spearfishing",
+      "kind": "tour",
+      "summary": "Offshore spearfishing for experienced spearos only, targeting wahoo and mahi mahi. Trips run with small groups for about five hours, and wahoo can be found as little as a mile from shore.",
+      "highlights": [
+        "For experienced spearfishers only",
+        "Targets wahoo and mahi mahi",
+        "Small groups"
+      ],
+      "duration": "Approximately 5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "Experienced spearfishers only",
+      "offer": null,
+      "images": [
+        "https://spearfishingbarbados.com/wp-content/uploads/2025/01/Alex-Davis-wahoo-scaled.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://spearfishingbarbados.com/",
+      "checkNotes": "Read from the sister site spearfishingbarbados.com (see the Daytime Spearfishing note). No price shown. Enquiry only."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Courses run weekdays and weekends with no fixed schedule; booking is by contact form, email or phone, with no online booking page found. Town is Maxwell, the address on the contact page; open water sessions are typically in Carlisle Bay. The spearfishing trips come from spearfishingbarbados.com, the same operator's second site (shared phone +1 246 230 8580, email spearfishingbarbados@gmail.com). The site also sells carbon fiber fins and says it is certified to teach EFR first aid and AED courses, but lists no EFR course details, so neither is recorded as a trip. Site looks current: contact and About pages were last modified January 2025 according to the site's WordPress API."
+}

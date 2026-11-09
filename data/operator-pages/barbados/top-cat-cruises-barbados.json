@@ -1,0 +1,220 @@
+{
+  "slug": "top-cat-cruises-barbados",
+  "name": "Top Cat Cruises Barbados",
+  "website": "https://topcatcruisesbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Catamaran cruises",
+  "summary": "Top Cat Cruises runs a 72-foot catamaran from its base on Wharf Road in Bridgetown. Trips include a lunch cruise, a sunset cruise, a turtle snorkelling tour, a family day cruise and private charters. Bookings are made through an enquiry form, by phone or by email.",
+  "standouts": [
+    "72-foot by 26-foot catamaran",
+    "Snorkelling gear provided",
+    "Crew gives guided commentary on the places you pass",
+    "Turtle tours run with more limited numbers than other cruises"
+  ],
+  "contact": {
+    "phone": "+1 246 266 7245",
+    "email": "info@topcatcruisesbarbados.com",
+    "address": "Wharf Road, Bridgetown Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://topcatcruisesbarbados.com/wp-content/uploads/2025/02/DSC_1400.jpg",
+  "sourceUrls": [
+    "https://topcatcruisesbarbados.com/",
+    "https://topcatcruisesbarbados.com/cruises/",
+    "https://topcatcruisesbarbados.com/faq/",
+    "https://topcatcruisesbarbados.com/gallery/",
+    "https://topcatcruisesbarbados.com/contact-us/"
+  ],
+  "trips": [
+    {
+      "title": "Lunch Cruises",
+      "kind": "cruise",
+      "summary": "A midday cruise along the coast with a traditional lunch of local dishes served on board. Guests can swim with turtles and snorkel over the shipwrecks in Carlisle Bay, or stay on deck or in the cabin.",
+      "highlights": [
+        "Traditional lunch of locally inspired dishes",
+        "Swim with turtles",
+        "Shipwrecks at Carlisle Bay",
+        "Deck and cabin seating"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Lunch",
+        "Snorkelling gear",
+        "Light snacks, drinks and rum punch"
+      ],
+      "bring": [
+        "Beach clothing or swimwear",
+        "Sunscreen, sunglasses and a hat",
+        "Non-slip shoes or sandals",
+        "Camera or phone in a waterproof pouch",
+        "Medications or personal essentials",
+        "Towel"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://topcatcruisesbarbados.com/wp-content/uploads/2025/07/Lunch-Cruises-Plain-1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://topcatcruisesbarbados.com/cruises/",
+      "checkNotes": "No price on the cruise listing. The site-wide Book Cruise request form shows 'Prices: Children $60.00 Adult $85.00' and times 9:30am and 12:30pm, but does not say which cruise they apply to and does not name the currency, so they are not attached to this trip. Duration not stated. Snacks, drinks, rum punch and snorkel gear are from the FAQ page, which covers all tours."
+    },
+    {
+      "title": "Sunset Bliss Cruise",
+      "kind": "cruise",
+      "summary": "An evening sail on the catamaran to watch the sun go down over the Caribbean Sea. Rum punch and other drinks are served and live music plays on board.",
+      "highlights": [
+        "Sunset over the Caribbean Sea",
+        "Complimentary rum punch and beverages",
+        "Live music",
+        "Onboard seating options"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Rum punch and beverages",
+        "Live music"
+      ],
+      "bring": [
+        "Beach clothing",
+        "Sunscreen, sunglasses and a hat",
+        "Non-slip shoes or sandals",
+        "Camera or phone in a waterproof pouch"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://topcatcruisesbarbados.com/wp-content/uploads/2025/02/DSC_1400.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://topcatcruisesbarbados.com/cruises/",
+      "checkNotes": "Price shown as 'Price: TBA'. Image matched to this trip by its position in the page layout."
+    },
+    {
+      "title": "Private Charter Cruise",
+      "kind": "charter",
+      "summary": "The catamaran and a private crew for your own group, with the route chosen around what you want to do. Catering options are included, and it is offered for birthdays, anniversaries and other events.",
+      "highlights": [
+        "Itinerary tailored to the group",
+        "Private crew",
+        "Complimentary catering options",
+        "Available for birthdays and anniversaries"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Private crew",
+        "Complimentary catering options"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://topcatcruisesbarbados.com/cruises/",
+      "checkNotes": "Price shown as 'Price: TBA'. The only photo beside this trip has a stock-library file name, so it is not used. FAQ gives a maximum vessel capacity of 200 passengers."
+    },
+    {
+      "title": "Snorkel & Swim with Turtles Tour",
+      "kind": "snorkel",
+      "summary": "A tour to snorkel at reef sites and swim with sea turtles in the wild, with a guide in the water. Refreshments are served on board between stops.",
+      "highlights": [
+        "Snorkelling at reef locations",
+        "Swim with sea turtles in their natural habitat",
+        "Guide for a safe, educational swim",
+        "Refreshments on board"
+      ],
+      "duration": "4.5 hours",
+      "durationMinutes": 270,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Guide",
+        "Refreshments",
+        "Snorkelling gear"
+      ],
+      "bring": [
+        "Swimwear",
+        "Sunscreen, sunglasses and a hat",
+        "Non-slip shoes or sandals",
+        "Camera or phone in a waterproof pouch",
+        "Towel"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://topcatcruisesbarbados.com/wp-content/uploads/2025/02/Screenshot-2025-02-22-090434.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://topcatcruisesbarbados.com/cruises/",
+      "checkNotes": "Price shown as '$TBA per person'. The FAQ says turtle tours have more limited availability than other cruises. Only image beside this trip is a screenshot file."
+    },
+    {
+      "title": "Family Fun Day Cruise",
+      "kind": "cruise",
+      "summary": "A day of sailing and swimming planned for families, with games and activities for children and water sports gear sized for kids. A barbecue lunch is served on board.",
+      "highlights": [
+        "Kid-friendly activities and games",
+        "Water sports equipment for children",
+        "Family-sized seating",
+        "BBQ lunch on board"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "BBQ lunch",
+        "Water sports equipment for children"
+      ],
+      "bring": [
+        "Beach clothing or swimwear",
+        "Sunscreen, sunglasses and a hat",
+        "Non-slip shoes or sandals",
+        "Towel"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://topcatcruisesbarbados.com/wp-content/uploads/2025/02/DSC_1438-1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://topcatcruisesbarbados.com/cruises/",
+      "checkNotes": "Price shown as 'Price: TBA'."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Add-ons on request: deejay services, banana boat rental, Big Mable rental and catering",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://topcatcruisesbarbados.com/"
+    }
+  ],
+  "checkNotes": "Every Book Now button opens the same request form (Request Quote or Request a Call); there is no online booking or checkout, so all trips are enquiry only. That form shows 'Prices: Children $60.00 Adult $85.00' with times 9:30am and 12:30pm and a weekday or weekend choice, without naming a cruise or a currency; not attached to any trip. Departure point not stated; the head office is on Wharf Road, Bridgetown, and the form asks for a pick up location. Phone shown as +1 246-266-SAIL (7245). Copyright 2025 in the footer."
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "calypso-cruises",
+  "logo": "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/Logo-no-bkgd.png",
+  "heroImage": "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calpysoluv2.jpg",
+  "gallery": [
+    "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calypsoatsea-1.jpg",
+    "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calypsosnorkel.jpg",
+    "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/Sails.jpg",
+    "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calypsosky.jpg",
+    "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calypsoleap.jpg",
+    "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calypsofollowtheleader.jpg",
+    "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calypsoentranced.jpg",
+    "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calypsoberth.jpg",
+    "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calypsocrew.jpg",
+    "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calypsocheer.jpg",
+    "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calypsosnooze.jpg",
+    "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calypsotan.jpg",
+    "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calypsolime.jpg",
+    "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calypsommmmmmm.jpg",
+    "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calypsoendlessrumpunch.jpg",
+    "https://calypsocruisesbarbados.com/wp-content/uploads/2018/12/WhatsApp-Image-2018-12-24-at-7.04.14-PM.jpeg"
+  ],
+  "videos": [
+    { "url": "https://calypsocruisesbarbados.com/wp-content/uploads/2019/01/CCmantarayv02.mp4", "title": "Manta ray clip", "sourceUrl": "https://calypsocruisesbarbados.com/" }
+  ],
+  "trips": [
+    {
+      "title": "Lunch Cruise",
+      "images": [
+        "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calpysoluv2.jpg",
+        "https://calypsocruisesbarbados.com/wp-content/uploads/2019/01/calypso-cruises.jpg"
+      ]
+    },
+    {
+      "title": "Sunset Cruise",
+      "images": [
+        "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calpysosunset.jpg"
+      ]
+    },
+    {
+      "title": "Private Charters",
+      "images": [
+        "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/Sails2.jpg"
+      ]
+    }
+  ],
+  "notes": "WordPress (Divi) site; full-size originals used. All trips are on the home page, there are no separate trip pages, so trip photos come from each home page section. The gallery page has 22 photos from 2018; a Tripadvisor graphic (calypsotripadvisor.jpg) and a few close-up shots were left out. The video title is a guess from the file name (CCmantarayv02.mp4); it has no caption on the page. The site links only to Facebook and Tripadvisor, no YouTube or Vimeo channel."
+}

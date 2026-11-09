@@ -1,0 +1,156 @@
+{
+  "slug": "barbados-snorkeling-tours-by-hayden-browne",
+  "name": "Barbados Snorkeling Tours by Hayden Browne",
+  "website": "https://barbadossnorkeling.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Holetown",
+  "category": "Snorkel boat tours",
+  "summary": "Hayden Browne hosts small group snorkel trips from Holetown Beach on his own boat, Bajan Breeze, which he launched in March 2026 after eight years working on another local boat. Each trip stops with turtles, tarpon and stingrays, then over a reef and a sunken barge, and he photographs guests in the water. Payment is in cash.",
+  "standouts": [
+    "Complimentary photography included",
+    "Small-group experience",
+    "Does not promote touching wildlife or coral reefs",
+    "Owner Hayden Browne is your only contact and host"
+  ],
+  "contact": {
+    "phone": "+1 246 265 7107",
+    "email": null,
+    "address": "Holetown Beach, on the beach of the Surfside and Zaccios restaurants, St. James, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://barbadossnorkeling.com/wp-content/uploads/2023/10/20230717_132414-scaled.jpg",
+  "sourceUrls": [
+    "https://barbadossnorkeling.com/",
+    "https://barbadossnorkeling.com/tour-times-explained/",
+    "https://barbadossnorkeling.com/contact-us/",
+    "https://barbadossnorkeling.com/wp-json/wp/v2/pages?per_page=50&_fields=id,link,title,modified,status"
+  ],
+  "trips": [
+    {
+      "title": "Snorkeling Tour",
+      "kind": "snorkel",
+      "summary": "A snorkel trip of about one and a half to two hours with two stops near Holetown. The first stop has tarpon, sea turtles and stingrays, and the second is over reef and a sunken barge in 25 feet of water with many reef fish. Five departures a day, with photos of you in the water included.",
+      "highlights": [
+        "Two stops in the Holetown area",
+        "Sea turtles, tarpon and stingrays, then reef and shipwreck",
+        "Complimentary photography",
+        "Toddlers ride free"
+      ],
+      "duration": "1 1/2 to 2 hours",
+      "durationMinutes": null,
+      "departureTimes": ["07:20", "10:20", "12:20", "14:20", "16:20"],
+      "season": null,
+      "departsFrom": "Holetown Beach, by the Surfside and Zaccios restaurants",
+      "prices": [
+        { "label": "Per person, 7:20 am", "amount": 75, "currency": "USD", "note": "BB$150.00" },
+        { "label": "Per person, 7:20 am", "amount": 150, "currency": "BBD", "note": "US$75.00" },
+        { "label": "Per person, 10:20 am", "amount": 60, "currency": "USD", "note": "BB$120.00" },
+        { "label": "Per person, 10:20 am", "amount": 120, "currency": "BBD", "note": "US$60.00" },
+        { "label": "Per person, 12:20 pm", "amount": 60, "currency": "USD", "note": "BB$120.00" },
+        { "label": "Per person, 12:20 pm", "amount": 120, "currency": "BBD", "note": "US$60.00" },
+        { "label": "Per person, 2:20 pm", "amount": 75, "currency": "USD", "note": "BB$150.00" },
+        { "label": "Per person, 2:20 pm", "amount": 150, "currency": "BBD", "note": "US$75.00" },
+        { "label": "Per person, 4:20 pm", "amount": 75, "currency": "USD", "note": "BB$150.00" },
+        { "label": "Per person, 4:20 pm", "amount": 150, "currency": "BBD", "note": "US$75.00" },
+        { "label": "Toddlers", "amount": 0, "currency": "USD", "note": "BB$00.00" }
+      ],
+      "priceFrom": 60,
+      "includes": [
+        "Snorkel mask",
+        "Life jacket",
+        "Fins",
+        "Floating water mat",
+        "Easy boarding ladders",
+        "Water, soft drinks & rum punch",
+        "Complimentary photography",
+        "Wi-Fi available on request"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://barbadossnorkeling.com/wp-content/uploads/2026/03/nYQmHxGw.jpeg",
+        "https://barbadossnorkeling.com/wp-content/uploads/2026/03/aV7spZpA-scaled.jpeg",
+        "https://barbadossnorkeling.com/wp-content/uploads/2026/03/fSATYb9A-scaled.jpeg",
+        "https://barbadossnorkeling.com/wp-content/uploads/2023/10/20230717_132414-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://barbadossnorkeling.com/",
+        "https://barbadossnorkeling.com/tour-times-explained/"
+      ],
+      "sourceUrl": "https://barbadossnorkeling.com/",
+      "checkNotes": "Cash only. Adults and children pay the same rate. Booking is a request form on the home page and the tour times page that shows availability and sends an email confirmation; no card payment. The contact page (last changed 2019) still shows older rates (Regular Adult US$50.00/BB$100.00, Kids under 14 US$25.00/BB$50.00, 2 hours, times 9:20 AM / 12:20 PM / 2:15 PM); used the current home page rates. Tour times page gives each departure as a two hour window (for example 7:20 AM to 9:20 AM). Site says its stingrays are 'friendly and trained by us'."
+    },
+    {
+      "title": "Nearby Hotel Beach Pickup + Snorkeling Tour",
+      "kind": "snorkel",
+      "summary": "The same Holetown snorkel trip with a boat pickup from the beach of a listed west coast hotel. Pickup and boarding times are confirmed by WhatsApp at least 24 hours before the trip.",
+      "highlights": [
+        "Beach pickup from 14 listed hotels",
+        "Pickup time confirmed by WhatsApp 24 hours ahead",
+        "Guests at other hotels meet the boat at Holetown Beach"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Beach pickup at Fairmont Royal Pavilion, Glitter Bay Resort, Colony Club Hotel, Coral Reef Club Hotel, Sandpiper Hotel, Royalton Vessence, Mango Bay Hotel, The Club Barbados Hotel, Sandy Lane Hotel, Tamarind Hotel, The House Hotel, Beach View Hotel, Crystal Cove Hotel or Waves Resort & Spa",
+      "prices": [
+        { "label": "Per person", "amount": 75, "currency": "USD", "note": "BB$150" },
+        { "label": "Per person", "amount": 150, "currency": "BBD", "note": "US$75" }
+      ],
+      "priceFrom": 75,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": ["https://barbadossnorkeling.com/"],
+      "sourceUrl": "https://barbadossnorkeling.com/",
+      "checkNotes": "Cash only. Duration not stated separately for the pickup option. The booking form does not show a separate pickup option; check how pickup is requested."
+    },
+    {
+      "title": "Private Tours",
+      "kind": "snorkel",
+      "summary": "A private snorkel trip for your own group, with more time at each stop and more chances for photos and video. Suggested for nervous or non-swimmers, families with young children and special occasions.",
+      "highlights": [
+        "Your group only",
+        "Suited to non-swimmers or nervous swimmers",
+        "Families with young children",
+        "Birthdays and special occasions"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown Beach",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://barbadossnorkeling.com/",
+      "checkNotes": "No price shown; the contact page says 'Private tours: Contact us for rates'. Enquiry by phone or WhatsApp."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Locals may qualify for special rates",
+      "conditions": "Contact for rates",
+      "validUntil": null,
+      "sourceUrl": "https://barbadossnorkeling.com/"
+    },
+    {
+      "text": "Photography is included when you book directly from the website",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://barbadossnorkeling.com/"
+    }
+  ],
+  "checkNotes": "Trading: home page last changed 2026-09-20 and says the boat Bajan Breeze launched in March 2026. Phone '+1 246 265-7107 (whatsapp available)' is on the contact page, but the site shows no wa.me link and no email address on the pages read. The contact page also says 'Contact us for party cruises' with no details; not built as a trip. The site links to holetownbeachbarbados.com for other beach activities (a separate site, not read). The site warns guests to book before showing up and to beware of touts on the beach."
+}

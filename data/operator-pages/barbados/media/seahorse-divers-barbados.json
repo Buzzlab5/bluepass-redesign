@@ -1,0 +1,34 @@
+{
+  "slug": "seahorse-divers-barbados",
+  "logo": "https://static.wixstatic.com/media/1091f2_76fad9cce3154973b6c3c872b69a89cb~mv2.png",
+  "gallery": [
+    "https://static.wixstatic.com/media/1091f2_ac47b9fbe68b40dfa6fd9da63be7f8e3~mv2.jpg",
+    "https://static.wixstatic.com/media/1091f2_a4dc4fa907e5424a841b9003985473cd~mv2.jpg",
+    "https://static.wixstatic.com/media/1091f2_f36f0bd42eae4160852ea0f1265f07a0~mv2.jpg",
+    "https://static.wixstatic.com/media/1091f2_2bb28d5d377a48f3bf2b2717b50a234f~mv2.jpg",
+    "https://static.wixstatic.com/media/1091f2_98e399d3c37543e29a63488f3879dea4~mv2.avif",
+    "https://static.wixstatic.com/media/1091f2_5648ef41879a41e4a7ee9ecc7ad7cc2a~mv2.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Certified Divers",
+      "images": [
+        "https://static.wixstatic.com/media/1091f2_ac47b9fbe68b40dfa6fd9da63be7f8e3~mv2.jpg",
+        "https://static.wixstatic.com/media/1091f2_f36f0bd42eae4160852ea0f1265f07a0~mv2.jpg",
+        "https://static.wixstatic.com/media/1091f2_a4dc4fa907e5424a841b9003985473cd~mv2.jpg",
+        "https://static.wixstatic.com/media/1091f2_2bb28d5d377a48f3bf2b2717b50a234f~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Discover Scuba",
+      "images": [
+        "https://static.wixstatic.com/media/1091f2_a4dc4fa907e5424a841b9003985473cd~mv2.jpg",
+        "https://static.wixstatic.com/media/1091f2_2bb28d5d377a48f3bf2b2717b50a234f~mv2.jpg",
+        "https://static.wixstatic.com/media/1091f2_f36f0bd42eae4160852ea0f1265f07a0~mv2.jpg",
+        "https://static.wixstatic.com/media/1091f2_ac47b9fbe68b40dfa6fd9da63be7f8e3~mv2.jpg"
+      ]
+    }
+  ],
+  "notes": "Single-page Wix site with few photos; no separate trip pages, so trip photos are the page's own photos. Last gallery item is the operator's dive site map. Left out the home header background (88aac0_832eb49bd1564c7486ed663da2c219e1~mv2.png, 1536x2048), which comes from a different Wix media account and looks like a template or generated image, plus contact and social icons. No YouTube, Vimeo or hosted video found."
+}

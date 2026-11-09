@@ -1,0 +1,131 @@
+{
+  "slug": "burkies-surf-school",
+  "name": "Burkie's Surf School",
+  "website": "http://blog.surfbarbados.net",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Freights Bay",
+  "category": "Surf school",
+  "summary": "A surf school run by Alan Burke, a Barbadian surfer who competed in eight ISA World Surfing Games and has taught since 1993. Lessons run in small waves, usually under 3 ft, between Long Beach and Freights Bay on the south coast. Boards are chosen to suit each surfer, and booking is by email or WhatsApp.",
+  "standouts": [
+    "Founded in 2002; Alan Burke has taught surfing since 1993",
+    "Alan Burke competed in 8 ISA World Surfing Games",
+    "Barbados National Champion 7 times and Long Board National Champion 10 times",
+    "President of the Barbados Surfing Association 1997 to 2002"
+  ],
+  "contact": {
+    "phone": "+1 246-832-1664",
+    "email": "burkesinc4@gmail.com",
+    "address": null,
+    "whatsapp": null
+  },
+  "heroImage": "http://blog.surfbarbados.net/images/photo_gallery_110.jpg",
+  "sourceUrls": [
+    "http://blog.surfbarbados.net/",
+    "http://blog.surfbarbados.net/book-a-lesson.html",
+    "http://blog.surfbarbados.net/lessons/index.html",
+    "http://blog.surfbarbados.net/packages.html",
+    "http://blog.surfbarbados.net/about-alan.html",
+    "http://blog.surfbarbados.net/contact/index.html",
+    "http://blog.surfbarbados.net/surf-watch.html",
+    "http://blog.surfbarbados.net/about/index.html",
+    "http://blog.surfbarbados.net/read-reviews.html",
+    "http://blog.surfbarbados.net/photos/index.html",
+    "http://blog.surfbarbados.net/burkies-shop/index.html",
+    "http://blog.surfbarbados.net/watch-the-video.html"
+  ],
+  "trips": [
+    {
+      "title": "Private Lesson",
+      "kind": "course",
+      "summary": "A private surf lesson with Alan Burke for one or two surfers. Lessons run in small waves suited to your level, on beginner boards chosen for your height, weight and ability. You can book a single two-hour lesson or six hours spread over three days.",
+      "highlights": [
+        "Up to 2 surfers per lesson",
+        "Usually in waves under 3 ft",
+        "Boards matched to each surfer's height, weight and ability",
+        "Single 2 hour lesson or 6 hours over 3 days"
+      ],
+      "duration": "2 Hour, or 6 Hour (done over 3 days)",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Long Beach to Freights Bay area, 1 mile south of the airport",
+      "prices": [
+        {
+          "label": "2 Hour private lesson, max 2 surfers",
+          "amount": 230,
+          "currency": "USD",
+          "note": "Per lesson, up to 2 surfers"
+        },
+        {
+          "label": "6 Hour private lesson, done over 3 days",
+          "amount": 650,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 230,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "http://blog.surfbarbados.net/lessons/index.html",
+      "checkNotes": "Booked by email (send name, height, weight, date and times) or WhatsApp. Same prices on the Book A Lesson page. Prices are from pages marked 2022; check they are current."
+    },
+    {
+      "title": "Group Lesson",
+      "kind": "course",
+      "summary": "A two-hour group surf lesson in small waves between Long Beach and Freights Bay, with boards chosen to suit each surfer. It can also be booked as six hours of coaching over three days.",
+      "highlights": [
+        "Usually in waves under 3 ft",
+        "Over 4 surf spots used within a 2 mile radius",
+        "Boards matched to each surfer's height, weight and ability"
+      ],
+      "duration": "2 hour, or 6 hour (done over 3 days)",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Long Beach to Freights Bay area, 1 mile south of the airport",
+      "prices": [
+        {
+          "label": "Group lesson, 2 hour",
+          "amount": 80,
+          "currency": "USD",
+          "note": "Lessons page"
+        },
+        {
+          "label": "Group lesson, 6 hour (done over 3 days)",
+          "amount": 225,
+          "currency": "USD",
+          "note": "Lessons page"
+        },
+        {
+          "label": "Private group, 2 hour, up to 4 surfers",
+          "amount": 320,
+          "currency": "USD",
+          "note": "Book A Lesson page; per group"
+        },
+        {
+          "label": "Private group, each additional surfer",
+          "amount": 80,
+          "currency": "USD",
+          "note": "Book A Lesson page"
+        }
+      ],
+      "priceFrom": 80,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "http://blog.surfbarbados.net/lessons/index.html",
+      "checkNotes": "Conflict: the Lessons page lists a Group Lesson at $80 US for 2 hours and $225US for 6 hours over 3 days, while the Book A Lesson page instead lists a Private Group at $320US for up to 4 surfers plus $80US each additional. Both kept and labelled; check which is current. The $80 group price does not say per person. Prices are from pages marked 2022; check they are current."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Site looks old: it is a static copy of an old WordPress site, served over http only (https does not answer). Footers say 2011 to 2012 on most pages and 2022 on the Lessons, Book A Lesson and Contact pages; nothing newer was found. Our list marks the school active, so trips are built, but prices and contacts need confirming. The site writes the name both as Burkie's Surf School and BURKIE SURF SCHOOL. Booking is by email only (no online booking): the lesson pages give burkesinc4@gmail.com, the Contact page gives burkesinc@caribsurf.com. WhatsApp +1 (246) 832-1664 is shown as text with no wa.me link. Packages page is a placeholder (\"Packages will be described here\"). The Burkie Surf Shop sells apparel, boards and accessories, not built. Kids coaching not listed as a product. heroImage picked as the first gallery photo; orientation not checked."
+}

@@ -68,3 +68,6 @@ next-env.d.ts
 
 # Operator photos uploaded while trying the app locally without Supabase
 /public/dev-uploads/
+
+# Photo measurements the operator-page importer remembers for a week
+/data/operator-pages/**/.photo-checks.json

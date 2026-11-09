@@ -1,0 +1,101 @@
+{
+  "slug": "noosa-ocean-rider",
+  "logo": "https://www.oceanrider.com.au/images/ocean-rider-logo.png",
+  "gallery": [
+    "https://www.oceanrider.com.au/images/whale-slider-01.webp",
+    "https://www.oceanrider.com.au/images/whale-slider-02.webp",
+    "https://www.oceanrider.com.au/images/whale-slider-03.webp",
+    "https://www.oceanrider.com.au/images/whale-slider-04.webp",
+    "https://www.oceanrider.com.au/images/whale-slider-05.webp",
+    "https://www.oceanrider.com.au/images/whale-slider-06.webp",
+    "https://www.oceanrider.com.au/images/tour-img-01.webp",
+    "https://www.oceanrider.com.au/images/tour-img-02.webp",
+    "https://www.oceanrider.com.au/images/tour-img-03.webp",
+    "https://www.oceanrider.com.au/images/tour-img-04.webp",
+    "https://www.oceanrider.com.au/images/img-bg-01.webp",
+    "https://www.oceanrider.com.au/images/about-img-01.webp",
+    "https://www.oceanrider.com.au/images/humpbacks.webp",
+    "https://www.oceanrider.com.au/uploads/DOLPHINS-2.jpg",
+    "https://www.oceanrider.com.au/uploads/IMG_2691.jpg",
+    "https://www.oceanrider.com.au/images/whale-slider-07.webp"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=6VWEpPuyfus",
+      "title": "Out on the water with Noosa Ocean Rider",
+      "sourceUrl": "https://www.youtube.com/channel/UCJe_9_0jkQz2vYRmHpk2czA"
+    },
+    {
+      "url": "https://www.oceanrider.com.au/video/banner-video.mp4",
+      "title": "Homepage film",
+      "sourceUrl": "https://oceanrider.com.au/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=F1mmjCYx9HA",
+      "title": "Tourism Australia feature on Noosa Ocean Rider",
+      "sourceUrl": "https://www.youtube.com/channel/UCJe_9_0jkQz2vYRmHpk2czA"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3ALc8SDsg24",
+      "title": "Whales off Noosa",
+      "sourceUrl": "https://www.youtube.com/channel/UCJe_9_0jkQz2vYRmHpk2czA"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pf7ZpBFapDo",
+      "title": "Noosa Ocean Rider tour",
+      "sourceUrl": "https://www.youtube.com/channel/UCJe_9_0jkQz2vYRmHpk2czA"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2HxKyk_-jpE",
+      "title": "Adventure tour, December 2022",
+      "sourceUrl": "https://www.youtube.com/channel/UCJe_9_0jkQz2vYRmHpk2czA"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Ocean Tour & Dolphin Safari",
+      "images": [
+        "https://www.oceanrider.com.au/images/packages-01.webp",
+        "https://www.oceanrider.com.au/images/packages-02.webp",
+        "https://www.oceanrider.com.au/images/packages-03.webp",
+        "https://www.oceanrider.com.au/images/packages-04.webp"
+      ]
+    },
+    {
+      "title": "Whale Watching Adventures",
+      "images": [
+        "https://www.oceanrider.com.au/images/packages-whale-01.webp",
+        "https://www.oceanrider.com.au/images/packages-whale-02.webp",
+        "https://www.oceanrider.com.au/images/packages-whale-03.webp",
+        "https://www.oceanrider.com.au/images/packages-whale-04.webp",
+        "https://www.oceanrider.com.au/images/packages-06.webp",
+        "https://www.oceanrider.com.au/images/packages-04.webp"
+      ]
+    },
+    {
+      "title": "Ocean Tour, Whale & Dolphin Safari",
+      "images": [
+        "https://www.oceanrider.com.au/images/packages-05.webp",
+        "https://www.oceanrider.com.au/images/packages-whale-05.webp",
+        "https://www.oceanrider.com.au/images/packages-whale-06.webp",
+        "https://www.oceanrider.com.au/images/packages-whale-07.webp",
+        "https://www.oceanrider.com.au/images/packages-02.webp",
+        "https://www.oceanrider.com.au/images/packages-04.webp"
+      ]
+    },
+    {
+      "title": "Private Charter",
+      "images": [
+        "https://www.oceanrider.com.au/images/tour-img-03.webp"
+      ]
+    },
+    {
+      "title": "Learn to Freedive with OceanSense",
+      "images": [
+        "https://www.oceanrider.com.au/images/OceanSense-for-Oceanrider.webp",
+        "https://www.oceanrider.com.au/uploads/OceanSense-for-Oceanrider-web-scaled.jpg"
+      ]
+    }
+  ],
+  "notes": "Site is a static build with a <base> tag, so all images resolve under www.oceanrider.com.au/images/. Logo is the header logo (ocean-rider-logo.png); or-logo.png is a side-panel variant. Gallery is from the home page whale carousel, the tour cards, the parallax photo, the about page, the Humpbacks and High Rises page and two blog photos (blog thumbnails are served from /thumb/900/500/1/uploads/, the full files from /uploads/ load and are used). Videos are from the Noosa Oceanrider YouTube channel linked in the site header, plus the self-hosted homepage film (banner-video.mp4, about 14 MB). Trip pages each carry one photo slider; the round tour icons on those pages (tour-01 to tour-03.webp) link to other tours and were left out, as were the customer avatars (pic1 to pic3.png) on the price page. Private Charter has no page of its own: its only photo is its card on the /price/ page. Learn to Freedive: only the OceanSense image on oceanrider.com.au (trip page and the 2021 freediving blog post) was used, nothing from OceanSense's own site. No bot checks met."
+}

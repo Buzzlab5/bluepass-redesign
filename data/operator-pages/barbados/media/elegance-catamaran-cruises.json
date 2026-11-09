@@ -1,0 +1,31 @@
+{
+  "slug": "elegance-catamaran-cruises",
+  "logo": "https://www.elegancebarbados.com/wp-content/uploads/2018/08/elegance-logo-blue.png",
+  "gallery": [
+    "https://www.elegancebarbados.com/wp-content/uploads/2018/08/elegance-catamaran-barbados-drone.png",
+    "https://www.elegancebarbados.com/wp-content/uploads/2018/12/boat-at-sea1.jpg",
+    "https://www.elegancebarbados.com/wp-content/uploads/2018/08/turtle.jpg",
+    "https://www.elegancebarbados.com/wp-content/uploads/2013/01/gallery-turtle-swimmer1.jpg",
+    "https://www.elegancebarbados.com/wp-content/uploads/2013/01/gallery-couple-snorkeling1.jpg",
+    "https://www.elegancebarbados.com/wp-content/uploads/2013/01/gallery-child-snorkel1.jpg",
+    "https://www.elegancebarbados.com/wp-content/uploads/2013/01/gallery-turtle1.jpg",
+    "https://www.elegancebarbados.com/wp-content/uploads/2013/01/gallery-boat1.jpg",
+    "https://www.elegancebarbados.com/wp-content/uploads/2013/01/gallery-sunbathe1.jpg",
+    "https://www.elegancebarbados.com/wp-content/uploads/2013/01/gallery-lounge1.jpg",
+    "https://www.elegancebarbados.com/wp-content/uploads/2013/01/galleryfish1.jpg",
+    "https://www.elegancebarbados.com/wp-content/uploads/2013/01/gallery-couple-snorkel1.jpg",
+    "https://www.elegancebarbados.com/wp-content/uploads/2013/01/toast1.jpg",
+    "https://www.elegancebarbados.com/wp-content/uploads/2012/01/sea-turtle1.jpg",
+    "https://www.elegancebarbados.com/wp-content/uploads/2012/01/snorkel-elegance-sailing1.jpg",
+    "https://www.elegancebarbados.com/wp-content/uploads/2012/01/sailing1.jpg"
+  ],
+  "videos": [
+    { "url": "https://www.youtube.com/watch?v=eqtUAFV4SIQ", "title": "Swimming with turtles on Elegance", "sourceUrl": "https://www.elegancebarbados.com/about-elegance-catamarans-barbados/" }
+  ],
+  "trips": [
+    { "title": "Lunch Cruise", "images": ["https://www.elegancebarbados.com/wp-content/uploads/2018/12/boat-at-sea1.jpg", "https://www.elegancebarbados.com/wp-content/uploads/2018/08/turtle.jpg"] },
+    { "title": "Sunset Dinner Cruise", "images": ["https://www.elegancebarbados.com/wp-content/uploads/2018/11/elegance-barbados-catamaran-sunset.jpg", "https://www.elegancebarbados.com/wp-content/uploads/2012/01/sunset-catamaran12.jpg"] },
+    { "title": "Private Cruise", "images": ["https://www.elegancebarbados.com/wp-content/uploads/2018/08/elegance-catamaran-barbados-drone.png"] }
+  ],
+  "notes": "The site has no separate trip pages; trip photos are the ones beside each cruise on the Sailing Excursions page and the home page. The embedded YouTube video sits on the operator's About page but is published by the Darkside Kites channel, not the operator. Two gallery photos were left out: one of the singer Olly Murs on board (a recognisable public figure) and one whose file name suggests a Facebook download. Most photos date from 2012 to 2018 uploads. No bot checks met."
+}

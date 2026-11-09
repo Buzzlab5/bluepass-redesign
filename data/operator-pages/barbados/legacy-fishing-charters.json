@@ -1,0 +1,175 @@
+{
+  "slug": "legacy-fishing-charters",
+  "name": "Legacy Fishing Charters",
+  "website": "https://www.letsgofishingbarbados.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Fishing charters",
+  "summary": "Private deep sea fishing charters from the Careenage in Bridgetown on a 40 foot Viking sportfisher, run by Captain Jono Jones, who was raised in Barbados and raced as a professional jockey before founding the business. Choose 4, 6 or 8 hours, or a tournament package, with gear, bait, drinks and fish cleaning included. The fishing grounds on the drop-off are 10 to 15 minutes from the harbour.",
+  "standouts": [
+    "Private charters only, no shared trips",
+    "40 foot Viking sportfisher with flybridge, air-conditioned cabin, restroom and fighting chair",
+    "Shimano and Penn tackle, with all bait, gear and licences included",
+    "Catch cleaned and filleted on return"
+  ],
+  "contact": {
+    "phone": "+1 246 822 8228",
+    "email": "bookings@letsgofishingbarbados.com",
+    "address": "The Careenage, Bridgetown, St. Michael, Barbados",
+    "whatsapp": "https://wa.me/12468228228"
+  },
+  "heroImage": "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-401-1-scaled.jpg",
+  "sourceUrls": [
+    "https://www.letsgofishingbarbados.com/",
+    "https://www.letsgofishingbarbados.com/trips/",
+    "https://www.letsgofishingbarbados.com/book-now/",
+    "https://www.letsgofishingbarbados.com/faq-frequently-asked-questions/",
+    "https://www.letsgofishingbarbados.com/about-us/",
+    "https://www.letsgofishingbarbados.com/deep-sea-fishing/",
+    "https://www.letsgofishingbarbados.com/photos/",
+    "https://www.letsgofishingbarbados.com/catch-of-the-day/"
+  ],
+  "trips": [
+    {
+      "title": "4 Hour Fishing Charter",
+      "kind": "charter",
+      "summary": "A short private charter for first-time anglers, families, cruise ship guests or anyone with limited time. The crew handles the gear and bait and cleans the catch at the end.",
+      "highlights": [
+        "Targets wahoo, barracuda, tuna and mahi-mahi",
+        "Captain Jono and a first mate on board",
+        "Flexible start times",
+        "Round-trip transport available for an extra fee"
+      ],
+      "duration": "Approximately 4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": "Year round",
+      "departsFrom": "The Careenage, Bridgetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All fishing gear and bait",
+        "Rods and reels",
+        "Complimentary drinks: beer, rum punch, sodas, bottled water",
+        "Light snacks",
+        "Professional crew (Captain Jono & First Mate)",
+        "Catch cleaning & filleting"
+      ],
+      "bring": ["Sunscreen", "Hat", "Sunglasses", "Comfortable clothing", "Light jacket", "Camera"],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-392.jpg"
+      ],
+      "bookingLinks": ["https://www.letsgofishingbarbados.com/book-now/"],
+      "sourceUrl": "https://www.letsgofishingbarbados.com/trips/",
+      "checkNotes": "No prices on the site. The Book Now page is a booking request form; the site says confirmation follows. Departure listed as 'Flexible start times'. What-to-bring list and year-round season are from the FAQ page."
+    },
+    {
+      "title": "6 Hour Fishing Trip",
+      "kind": "charter",
+      "summary": "A longer private charter for keen anglers who want more time to chase bigger fish, with live bait and outriggers. Sandwiches are served and there is a chance to swim or snorkel partway through if the weather allows.",
+      "highlights": [
+        "The operator's most popular trip",
+        "Targets wahoo, mahi-mahi, tuna and sailfish",
+        "Swim or snorkel stop, weather permitting",
+        "Flexible start times"
+      ],
+      "duration": "6 Hours",
+      "durationMinutes": 360,
+      "departureTimes": [],
+      "season": "Year round",
+      "departsFrom": "The Careenage, Bridgetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All equipment and live bait",
+        "Premium tackle setup (tuna tubes, outriggers)",
+        "Fresh sandwiches and snacks",
+        "Complimentary drinks: rum punch, beer, soft drinks, water",
+        "Catch cleaning & filleting"
+      ],
+      "bring": ["Sunscreen", "Hat", "Sunglasses", "Comfortable clothing", "Light jacket", "Camera"],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-456-1.jpg"
+      ],
+      "bookingLinks": ["https://www.letsgofishingbarbados.com/book-now/"],
+      "sourceUrl": "https://www.letsgofishingbarbados.com/trips/",
+      "checkNotes": "The trip block says 'Duration: Approximately 4 hours' and also 'Duration: 6 Hours'; used 6 hours from the trip name. No prices on the site. Round-trip transport listed as available for an additional fee."
+    },
+    {
+      "title": "8 Hour Fishing Trip",
+      "kind": "charter",
+      "summary": "A full day offshore for big game fish, starting early in the morning. Lunch, fruit and local snacks are served on board, and the boat has an air-conditioned salon and a restroom with shower.",
+      "highlights": [
+        "Targets blue marlin, yellowfin tuna, sailfish, wahoo and mahi-mahi",
+        "Sonar and GPS tracking",
+        "Full onboard lunch",
+        "Optional swim or snorkel break"
+      ],
+      "duration": "Approximately 8 hours",
+      "durationMinutes": 480,
+      "departureTimes": [],
+      "season": "Year round",
+      "departsFrom": "The Careenage, Bridgetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All equipment and live bait",
+        "Advanced sonar and GPS tracking",
+        "Complimentary drinks throughout the day",
+        "Full onboard lunch, snacks, fruit, and local treats",
+        "Comfortable seating, air-conditioned salon, restroom with shower",
+        "Catch cleaning & filleting"
+      ],
+      "bring": ["Sunscreen", "Hat", "Sunglasses", "Comfortable clothing", "Light jacket", "Camera"],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.letsgofishingbarbados.com/wp-content/uploads/2025/03/barbados-legacy-fishing-charters-169.jpg"
+      ],
+      "bookingLinks": ["https://www.letsgofishingbarbados.com/book-now/"],
+      "sourceUrl": "https://www.letsgofishingbarbados.com/trips/",
+      "checkNotes": "Departure: 'Early morning preferred', no set time. The 'Ideal for' line on the Trips page is placeholder Latin text; the home page says it suits serious anglers, big-game enthusiasts and private groups. No prices on the site. Round-trip transport available for an additional fee."
+    },
+    {
+      "title": "Tournament Fishing Charters",
+      "kind": "charter",
+      "summary": "Packages for anglers who want to fish regional tournaments around the Caribbean on board Legacy. Gear, live bait, meals and drinks are covered for the days of the event.",
+      "highlights": [
+        "Regional Caribbean tournaments",
+        "Targets blue marlin, yellowfin tuna, sailfish, wahoo and mahi-mahi",
+        "Full onboard lunch and drinks",
+        "Early morning departures"
+      ],
+      "duration": "Days of Tournament",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "The Careenage, Bridgetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All equipment and live bait",
+        "Advanced sonar and GPS tracking",
+        "Complimentary drinks throughout the day",
+        "Full onboard lunch, snacks, fruit, and local treats",
+        "Comfortable seating, air-conditioned salon, restroom with shower",
+        "Catch cleaning and filleting"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": ["https://www.letsgofishingbarbados.com/book-now/"],
+      "sourceUrl": "https://www.letsgofishingbarbados.com/trips/",
+      "checkNotes": "No tournament names, dates or prices on the site. The only photo in this block is a generic theme image (destination-usa.jpg), left out. Departure point for tournaments outside Barbados not stated; Careenage is the site-wide departure point."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Trading: home page footer reads 2017 - 2026 and photos were uploaded in 2025. Header email shows as bookings@www.letsgofishingbarbados.com (a typo); used the footer and FAQ address bookings@letsgofishingbarbados.com. Second captain Denis Marsh listed on the About page with phone (246) 230-1317. No prices anywhere on the site; booking is a request form on the Book Now page, or call or WhatsApp Captain Jono Jones."
+}

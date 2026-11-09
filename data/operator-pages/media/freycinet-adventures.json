@@ -1,0 +1,43 @@
+{
+  "slug": "freycinet-adventures",
+  "logo": "https://static.wixstatic.com/media/a0b6bf_1686aaf5f7d54dbe9f007872266319e7~mv2.png",
+  "gallery": [
+    "https://static.wixstatic.com/media/a0b6bf_784955f4b032476789079641c392b790~mv2.jpg",
+    "https://static.wixstatic.com/media/a0b6bf_b4693a2e60ce43469c3837501c0885d6~mv2.jpg",
+    "https://static.wixstatic.com/media/a0b6bf_e65b2e85796a433c8e35a758ccaa9e66~mv2.jpg",
+    "https://static.wixstatic.com/media/a0b6bf_bbf9b28612104837930db20770532844~mv2.jpg",
+    "https://static.wixstatic.com/media/a0b6bf_706198441a1b4767ac581e11a215d72a~mv2.jpg",
+    "https://static.wixstatic.com/media/a0b6bf_746dd77bbcac4c2eb74ccc261a22c760~mv2.jpg",
+    "https://static.wixstatic.com/media/a0b6bf_4fb34dbe1619406998b9712ac51a41d8~mv2.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "The Freycinet Paddle",
+      "images": [
+        "https://static.wixstatic.com/media/a0b6bf_e65b2e85796a433c8e35a758ccaa9e66~mv2.jpg",
+        "https://static.wixstatic.com/media/a0b6bf_784955f4b032476789079641c392b790~mv2.jpg",
+        "https://static.wixstatic.com/media/a0b6bf_e1fbac17511445099ca91c93fc022098~mv2.png"
+      ]
+    },
+    {
+      "title": "Sunrise Breakfast Paddle",
+      "images": [
+        "https://static.wixstatic.com/media/a0b6bf_706198441a1b4767ac581e11a215d72a~mv2.jpg",
+        "https://static.wixstatic.com/media/a0b6bf_0d6afa2b7a2f43fc84d11dc8722d20c6~mv2.png"
+      ]
+    },
+    {
+      "title": "Oyster Tasting Paddle",
+      "images": [
+        "https://static.wixstatic.com/media/a0b6bf_746dd77bbcac4c2eb74ccc261a22c760~mv2.jpg",
+        "https://static.wixstatic.com/media/a0b6bf_4fb34dbe1619406998b9712ac51a41d8~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Wineglass Bay walking tour",
+      "images": []
+    }
+  ],
+  "notes": "Wix site; every image URL is the original Wix media file (static.wixstatic.com/media/<id>), each checked to load. Logo is the transparent 700x400 PNG linked to the home page in every page's header; the site's schema logo is a 100x100 square (https://static.wixstatic.com/media/a0b6bf_92c87658db0e4a7294e73052909891a3~mv2.png). Wineglass Bay walking tour: both photos on its page are Freycinet Lodge files by name (https://static.wixstatic.com/media/a0b6bf_4f1ce65cc4cb4ff98982409b912584fc~mv2.jpg is 'Freycinet Lodge Dec 2025 - 115', https://static.wixstatic.com/media/a0b6bf_7862b42e216c4d4a975e284f668a7e59~mv2.jpg is 'RST_FLD_2025_JN-177' with the same file tag as the Lodge set), and the home page walking card https://static.wixstatic.com/media/a0b6bf_fdfe9b9848a042138d1f722f9721ffe2~mv2.jpg is 'Freycinet Lodge Dec 2025 - 130'. All three left out as credited to Freycinet Lodge. The facts file still lists the first two as this trip's images and they should come out there too. Three hero photos on the info pages are named after Paddy Pallin, another business, so they were left out until the operator confirms they own them: https://static.wixstatic.com/media/a0b6bf_ccdb868a4ca14575bad7fdeeb8f57e4f~mv2.jpg, https://static.wixstatic.com/media/a0b6bf_2395f095a5d048d19842fd74801b1cbd~mv2.jpg, https://static.wixstatic.com/media/a0b6bf_194948faa8404353a61c236a6cc79d43~mv2.jpg. The five Local Info tiles and the two tour-card PNGs are 300x200 Canva-style tiles of unknown origin, so they were kept out of the gallery (the two tour cards stay on their trips because the facts file already has them). No videos: no YouTube or Vimeo embeds, no hosted video files, and the site links only to TripAdvisor, Facebook and Instagram. 14 pages read."
+}

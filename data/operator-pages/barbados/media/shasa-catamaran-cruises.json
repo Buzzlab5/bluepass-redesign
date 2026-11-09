@@ -1,0 +1,62 @@
+{
+  "slug": "shasa-catamaran-cruises",
+  "logo": "https://static.wixstatic.com/media/a7b826_d3e07d329a5a47b682bd9ac8183d8667~mv2.png",
+  "gallery": [
+    "https://static.wixstatic.com/media/a7b826_a3f75ec533ad4baeb42c856c2cc2af1b~mv2.jpg",
+    "https://static.wixstatic.com/media/a7b826_9d651444ead04b4d86599f289968c879~mv2.jpg",
+    "https://static.wixstatic.com/media/a7b826_1618b1dfd88c406596ab93f72a0dc2fa~mv2.jpg",
+    "https://static.wixstatic.com/media/a7b826_6e47196ddb9841f3a074a651b57cdd90~mv2.jpg",
+    "https://static.wixstatic.com/media/aac731_fc009eda9fc3433d9d5b20f17aeccb5a~mv2.jpg",
+    "https://static.wixstatic.com/media/aac731_3927a69ccb544d11a807a16c5aa020db~mv2.jpg",
+    "https://static.wixstatic.com/media/a7b826_c1ea6043169747268a6db7c710157fbf~mv2.jpg",
+    "https://static.wixstatic.com/media/aac731_6c07b6b241414ef59cb9bf399620d7b4~mv2.jpg",
+    "https://static.wixstatic.com/media/aac731_12e88982836d47f5ac36261ca548037f~mv2.jpg",
+    "https://static.wixstatic.com/media/a7b826_8606b7fa16d34a2794b3fbef0d9f47bd~mv2.jpg",
+    "https://static.wixstatic.com/media/a7b826_0b193b4e475d40418537b9947c030fde~mv2.jpg",
+    "https://static.wixstatic.com/media/a7b826_b842497d2b2e4e79b38735a0f8ac2a28~mv2.jpg",
+    "https://static.wixstatic.com/media/a7b826_fd839743486548cb8de7e82208607293~mv2.jpg",
+    "https://static.wixstatic.com/media/a7b826_bebc2370125d43839c555008ee1f2e63~mv2.jpg",
+    "https://static.wixstatic.com/media/aac731_526d5c2c31334623bc977f216a3b472c~mv2.jpg",
+    "https://static.wixstatic.com/media/a7b826_1028c83196544db2a66f6fc994e46fc2~mv2.png"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Snorkel Cruise",
+      "images": [
+        "https://static.wixstatic.com/media/a7b826_9d651444ead04b4d86599f289968c879~mv2.jpg",
+        "https://static.wixstatic.com/media/aac731_06cfed8bc7804c5d951c858d84fbc875~mv2.jpg",
+        "https://static.wixstatic.com/media/a7b826_eb33190bd99b48058973a1f31cd786f6~mv2.jpg",
+        "https://static.wixstatic.com/media/a7b826_cf222b4e5dcb44c8951f006f186470b1~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Lunch Cruise",
+      "images": [
+        "https://static.wixstatic.com/media/a7b826_a3f75ec533ad4baeb42c856c2cc2af1b~mv2.jpg",
+        "https://static.wixstatic.com/media/a7b826_790a42dc16ce430eba8e64bab3c357c7~mv2.jpg",
+        "https://static.wixstatic.com/media/aac731_cf6e05ca19e248b4a85d09dead73f755~mv2.jpg",
+        "https://static.wixstatic.com/media/a7b826_093c6e38efff4b0b94b6237557b422df~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Sunset Cruise",
+      "images": [
+        "https://static.wixstatic.com/media/aac731_fc009eda9fc3433d9d5b20f17aeccb5a~mv2.jpg",
+        "https://static.wixstatic.com/media/a7b826_8606b7fa16d34a2794b3fbef0d9f47bd~mv2.jpg",
+        "https://static.wixstatic.com/media/a7b826_1028c83196544db2a66f6fc994e46fc2~mv2.png",
+        "https://static.wixstatic.com/media/aac731_a046f5e7bebd4093b52e09642e169645~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Private Charter",
+      "images": [
+        "https://static.wixstatic.com/media/a7b826_6e47196ddb9841f3a074a651b57cdd90~mv2.jpg",
+        "https://static.wixstatic.com/media/aac731_6e58c4c5b5854de0ba3f9bd15cafccb2~mv2.jpg",
+        "https://static.wixstatic.com/media/aac731_5aaf1b34a8a848d49c3ea3ae0855f564~mv2.jpg",
+        "https://static.wixstatic.com/media/a7b826_dbd847ef831147899c0bf9c1afbd0bdd~mv2.jpg"
+      ]
+    }
+  ],
+  "notes": "Wix site, no bot checks. Image URLs are the Wix originals (the static.wixstatic.com/media/ID path without the /v1/fill sizing). Logo is the business logo PNG named in the site's own business data; the header shows a JPG version (a7b826_2160cca010444c55ae2fb628e4a296da~mv2.jpg). Left out the sponsor and partner logos in the footer (Mount Gay, Yeti, BHL Group and others). No videos and no YouTube or Vimeo links on the site. Each trip page has only four photos."
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "queensland-scuba-diving-co",
+  "name": "Queensland Scuba Diving Co",
+  "website": "https://qldscubadive.com.au",
+  "rezdyAlias": null,
+  "state": "QLD",
+  "town": null,
+  "category": null,
+  "summary": null,
+  "standouts": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "address": null
+  },
+  "heroImage": null,
+  "sourceUrls": [],
+  "trips": [],
+  "offers": [],
+  "checkNotes": "NOT CAPTURED. On 15 Oct 2026 the single request to https://qldscubadive.com.au/, made with plain curl and its default user agent, returned HTTP 202 with a SiteGround bot challenge (a meta refresh to /.well-known/sgcaptcha/) instead of the page. The site resolved normally, so this is not a DNS problem. Per the research rules the challenge was not bypassed and the site was not tried again: no retry, no other pages, no sitemap or robots file, no other fetcher, no caches or archives, no search engines, no changed browser identity. Nothing in this file was read from the operator's site, so trips, prices, times, requirements, contact details, booking links, photos and the Rezdy alias are all empty or null. The town, category and summary are null because they are not confirmed on the site. Name, website and state are from the brief, and the name is the one on our list, not checked against how the business writes it on its own site. Our list describes the operator as daily Wave Break Island catamaran dives and courses on the Gold Coast, but that is unverified and has not been copied into any field. A person needs to read the site in a normal browser, or get the details from the operator directly, before this page can be prepared."
+}

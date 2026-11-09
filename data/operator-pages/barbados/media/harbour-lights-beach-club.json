@@ -1,0 +1,58 @@
+{
+  "slug": "harbour-lights-beach-club",
+  "logo": "https://harbourlightsbarbados.com/sites/default/files/images/HARBOUR_LIGHTS_BARBADOS_LOGO.svg",
+  "gallery": [
+    "https://harbourlightsbarbados.com/sites/default/files/header-images/turtle_tours_01.jpg",
+    "https://harbourlightsbarbados.com/sites/default/files/images/turtle_tours_descrip_img_01.png",
+    "https://harbourlightsbarbados.com/sites/default/files/images/turtle_tours_descrip_img_02.png",
+    "https://harbourlightsbarbados.com/sites/default/files/guaranteed_chair_turtle.jpg",
+    "https://harbourlightsbarbados.com/sites/default/files/header-images/beach_day_02_0.jpg",
+    "https://harbourlightsbarbados.com/sites/default/files/images/home_beach-club.jpg",
+    "https://harbourlightsbarbados.com/sites/default/files/images/day_descrip_img_03.jpg",
+    "https://harbourlightsbarbados.com/sites/default/files/images/wpas-beachclub.jpg",
+    "https://harbourlightsbarbados.com/sites/default/files/images/cruise_ship_passengers_01.jpg",
+    "https://harbourlightsbarbados.com/sites/default/files/gallery-images/img_3564-10.jpg",
+    "https://harbourlightsbarbados.com/sites/default/files/gallery-images/img_3564-11.jpg",
+    "https://harbourlightsbarbados.com/sites/default/files/gallery-images/img_3564-10-1.jpg",
+    "https://harbourlightsbarbados.com/sites/default/files/gallery-images/img_3564-11-0.jpg",
+    "https://harbourlightsbarbados.com/sites/default/files/blstsse_1.jpg",
+    "https://harbourlightsbarbados.com/sites/default/files/pdocb_1_0_0.jpg"
+  ],
+  "videos": [
+    { "url": "https://harbourlightsbarbados.com/sites/default/files/Turtle%20Tour.mp4", "title": "Turtle and shipwreck snorkel tour", "sourceUrl": "https://harbourlightsbarbados.com/turtle-shipwreck-snorkel-tours" },
+    { "url": "https://harbourlightsbarbados.com/sites/default/files/banner-videos/HL_WEBSITE_VIDEO_BC-compressed-S5.mp4", "title": "Harbour Lights beach club", "sourceUrl": "https://harbourlightsbarbados.com/day" },
+    { "url": "https://harbourlightsbarbados.com/sites/default/files/HL_WEBSITE_VIDEO___21072025__v2.mp4", "title": "Harbour Lights venue video", "sourceUrl": "https://harbourlightsbarbados.com/" }
+  ],
+  "trips": [
+    {
+      "title": "Sea Turtle + Shipwreck Snorkel Tour",
+      "images": [
+        "https://harbourlightsbarbados.com/sites/default/files/header-images/turtle_tours_01.jpg",
+        "https://harbourlightsbarbados.com/sites/default/files/images/turtle_tours_descrip_img_01.png",
+        "https://harbourlightsbarbados.com/sites/default/files/images/turtle_tours_descrip_img_02.png",
+        "https://harbourlightsbarbados.com/sites/default/files/guaranteed_chair_turtle.jpg"
+      ]
+    },
+    {
+      "title": "Beach Lounger + Sea Turtle and Shipwreck Snorkel Combo",
+      "images": [
+        "https://harbourlightsbarbados.com/sites/default/files/blstsse_1.jpg",
+        "https://harbourlightsbarbados.com/sites/default/files/blstsse_2.jpg",
+        "https://harbourlightsbarbados.com/sites/default/files/blstsse_3.jpg",
+        "https://harbourlightsbarbados.com/sites/default/files/blstsse_4.jpg",
+        "https://harbourlightsbarbados.com/sites/default/files/guaranteed_chair_turtle.jpg"
+      ]
+    },
+    {
+      "title": "A Perfect Day on Carlisle Bay",
+      "images": [
+        "https://harbourlightsbarbados.com/sites/default/files/pdocb_1_0_0.jpg",
+        "https://harbourlightsbarbados.com/sites/default/files/blstsse_2_0_0.jpg",
+        "https://harbourlightsbarbados.com/sites/default/files/pdocb_2_0_0.jpg",
+        "https://harbourlightsbarbados.com/sites/default/files/pdocb_4_0_0.jpg",
+        "https://harbourlightsbarbados.com/sites/default/files/pdocb_5_0_0.jpg"
+      ]
+    }
+  ],
+  "notes": "Image URLs are the original Drupal files (style and itok parts removed), each checked to load. Left out the turtle-facts and wreck site photos on the tour page (hawksbill.jpg, green-turtle.jpg, leatherback.jpg, berwyn.jpg, ctrek.jpg, eillon.jpg, bajanqueen.jpg) because they may be stock or archive images, plus dinner show and nightclub photos, icons and banners. The home page video is a general venue video and may show the dinner show and nightclub as well as the beach. No YouTube or Vimeo links found."
+}

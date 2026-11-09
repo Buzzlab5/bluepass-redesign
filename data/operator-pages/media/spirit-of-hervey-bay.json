@@ -1,0 +1,8 @@
+{
+  "slug": "spirit-of-hervey-bay",
+  "logo": null,
+  "gallery": [],
+  "videos": [],
+  "trips": [],
+  "notes": "BLOCKED, no media collected. The only request made, https://spiritofherveybay.com/ with curl's default user agent, returned HTTP 202 with 'sg-captcha: challenge' and a redirect to /.well-known/sgcaptcha/ (a SiteGround captcha). I stopped there and did not try to get past it. No logo, hero, gallery photos, videos or per-trip photos were recorded, and no YouTube or Vimeo channel could be identified because the site's pages were never read. The facts file has no trips, so the trips list here is empty too."
+}

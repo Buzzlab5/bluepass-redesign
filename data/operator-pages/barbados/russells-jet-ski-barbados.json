@@ -1,0 +1,67 @@
+{
+  "slug": "russells-jet-ski-barbados",
+  "name": "Russell's Jet Ski Barbados",
+  "website": "https://www.barbadosjetski.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "South and west coasts",
+  "category": "Jet ski rental",
+  "summary": "Jet ski hire by the half hour, hour or two hours, run by Russel, who grew up on the Barbados coast and has operated jet skis for more than 15 years. He meets you at a beach on the south or west coast near where you are staying. Book by phone or WhatsApp.",
+  "standouts": [
+    "Russel has over 15 years of experience operating jet skis",
+    "Meeting point arranged at a beach near your accommodation on the south or west coast"
+  ],
+  "contact": {
+    "phone": "+1-246-835-1711",
+    "email": null,
+    "address": null,
+    "whatsapp": null
+  },
+  "heroImage": "https://static.wixstatic.com/media/0b340f_a678a165d2c841fc9a0bd161ae577b41~mv2.jpg",
+  "sourceUrls": [
+    "https://www.barbadosjetski.com/",
+    "https://www.barbadosjetski.com/pricing",
+    "https://www.barbadosjetski.com/gallery",
+    "https://www.barbadosjetski.com/sitemap.xml",
+    "https://www.barbadosjetski.com/pages-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Jet Ski Rentals",
+      "kind": "other",
+      "summary": "Ride a jet ski off the Barbados coast for half an hour, one hour or two hours. The meeting point is a beach on the south or west coast close to where you are staying, arranged when you book.",
+      "highlights": [
+        "Half hour, 1 hour and 2 hour options",
+        "Meeting point at a beach near your accommodation",
+        "Suits first time riders as well as experienced riders"
+      ],
+      "duration": "1/2 hour, 1 hour or 2 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "A beach on the south or west coast near your accommodation, arranged when booking",
+      "prices": [
+        { "label": "1/2 Hour Rental", "amount": 80, "currency": "USD", "note": null },
+        { "label": "1 Hour Rental", "amount": 140, "currency": "USD", "note": "Shown as \"$140 uds\"" },
+        { "label": "2 Hour Rental", "amount": 300, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 80,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/0b340f_a096f12e5cd842918e533ff38da0718d~mv2.jpg",
+        "https://static.wixstatic.com/media/0b340f_8f33cf5211d24459b643dc75f2348d48~mv2.jpg",
+        "https://static.wixstatic.com/media/0b340f_6a52568dafb544b6a4e7fc99eef96ad0~mv2.jpg",
+        "https://static.wixstatic.com/media/0b340f_426940973c0f468ea11ed2048647b9a0~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.barbadosjetski.com/pricing",
+      "checkNotes": "Jet ski tour. The site calls these both jet ski tours and rentals; the price list names them rentals. Prices do not say whether they are per jet ski or per rider. The 1 hour price is written \"$140 uds\", read as USD. Book by phone or WhatsApp on +1-246-835-1711; no booking page."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Status was unverified. The site shows no dates or years; its Wix sitemap lists all pages as last modified 2025-01-19, and the pricing page loads. Could not confirm from the site alone that the business is still trading. The business name is written both Russell's and Russel's on the site. No email, address or wa.me link on the site; the phone number is given for calls and WhatsApp."
+}

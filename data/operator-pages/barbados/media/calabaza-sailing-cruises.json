@@ -1,0 +1,61 @@
+{
+  "slug": "calabaza-sailing-cruises",
+  "logo": "https://static.wixstatic.com/media/9f382c_7f78aa2c836e4559bffb152dbef86674~mv2.png",
+  "heroImage": "https://static.wixstatic.com/media/e6c5d9_341b96b22c934def8d207147af065b2c~mv2_d_3194_2395_s_2.jpg",
+  "gallery": [
+    "https://static.wixstatic.com/media/3c986d_46a62c47adf64741a8e35c2e6610ecaa~mv2_d_4288_3216_s_4_2.jpg",
+    "https://static.wixstatic.com/media/3c986d_6331acf1a2ab47728014d2e86b8893a2~mv2_d_4288_3216_s_4_2.jpg",
+    "https://static.wixstatic.com/media/3c986d_911ef44a207f4c0d824ccc24a2ea616c~mv2_d_4288_3216_s_4_2.jpg",
+    "https://static.wixstatic.com/media/3c986d_fa798d36beb04ea5a69debc45e4f8442~mv2_d_4288_3216_s_4_2.jpg",
+    "https://static.wixstatic.com/media/3c986d_bf4d1435a8154fbab54d7b28d75b033e~mv2_d_4288_3216_s_4_2.jpg",
+    "https://static.wixstatic.com/media/3c986d_322e3a60917944fca449144f0b70eba4~mv2_d_4288_3216_s_4_2.jpg",
+    "https://static.wixstatic.com/media/3c986d_15f7449d801b4b01ba7904555760e3bc~mv2_d_4288_3216_s_4_2.jpg",
+    "https://static.wixstatic.com/media/3c986d_24b0e167863e4dac86453673db7a594c~mv2_d_4288_3216_s_4_2.jpg",
+    "https://static.wixstatic.com/media/e6c5d9_452de7cf446542728fcc75394b2072c4~mv2_d_4000_3000_s_4_2.jpg",
+    "https://static.wixstatic.com/media/e6c5d9_05653d247acc46c39da9c2e6ea1b541a~mv2_d_4000_3000_s_4_2.jpg",
+    "https://static.wixstatic.com/media/e6c5d9_c0b4bb56ced847fda1c6ec3f35b32b23~mv2.jpg",
+    "https://static.wixstatic.com/media/e6c5d9_50a884703c454e52899a0e3a243ac731~mv2.jpg",
+    "https://static.wixstatic.com/media/e6c5d9_9c6285080b684d95990c9e3bc3ea8a64~mv2.jpg",
+    "https://static.wixstatic.com/media/8de313_e7b914e835084bae9bc08a6158e8094c~mv2.jpg",
+    "https://static.wixstatic.com/media/e6c5d9_e12c852f688e4c26875f32c2249a0cd7~mv2.jpg",
+    "https://static.wixstatic.com/media/e6c5d9_41bb64a210e84ab4b90a1d0af8f87092~mv2.jpg"
+  ],
+  "videos": [
+    { "url": "https://www.youtube.com/watch?v=v4uD_z2SItY", "title": "Swimming with turtles on the Calabaza cruise", "sourceUrl": "https://www.sailcalabaza.com/videos" },
+    { "url": "https://www.youtube.com/watch?v=kQ_zmMQON6o", "title": "Calabaza under sail at sunset", "sourceUrl": "https://www.sailcalabaza.com/videos" },
+    { "url": "https://www.youtube.com/watch?v=cpoP33vaaoE", "title": "A day on the lunch cruise", "sourceUrl": "https://www.sailcalabaza.com/videos" },
+    { "url": "https://www.youtube.com/watch?v=NPQzUPBm0gU", "title": "Calabaza sunset cruise, 2017", "sourceUrl": "https://www.sailcalabaza.com/videos" },
+    { "url": "https://www.youtube.com/watch?v=2jgVIvXwjDs", "title": "Calabaza cruise", "sourceUrl": "https://www.sailcalabaza.com/videos" },
+    { "url": "https://www.youtube.com/watch?v=7eX9YdOW4gw", "title": "A guest's day with Calabaza", "sourceUrl": "https://www.sailcalabaza.com/videos" }
+  ],
+  "trips": [
+    {
+      "title": "Lunch Cruise",
+      "images": [
+        "https://static.wixstatic.com/media/e6c5d9_5716cd23c5cf468089efb468daecdfde~mv2.jpg",
+        "https://static.wixstatic.com/media/e6c5d9_f8ee6999ae024851baed49ac59d4293b~mv2.jpg",
+        "https://static.wixstatic.com/media/e6c5d9_508f5efb2d744c4d8f29cdb4ce8f34bb~mv2.jpg",
+        "https://static.wixstatic.com/media/e6c5d9_2a32b2c416b044238c6571ce444099bf~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Afternoon Cruise",
+      "images": [
+        "https://static.wixstatic.com/media/e6c5d9_b9a2c9c122e7456fbd696c7dc156e9b8~mv2.jpg",
+        "https://static.wixstatic.com/media/e6c5d9_f5bf3774fcf143a596d2df9be1518012~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Private Charters",
+      "images": [
+        "https://static.wixstatic.com/media/e6c5d9_2ddaf7930e564d10be1ee5dab7d2ce8e~mv2.jpg",
+        "https://static.wixstatic.com/media/e6c5d9_017c66bcab4040809e0719ea3b8d8022~mv2.jpg",
+        "https://static.wixstatic.com/media/e6c5d9_dcc1be7d8264475cb6b4af1e4e8be5c5~mv2.jpg",
+        "https://static.wixstatic.com/media/e6c5d9_936a41286f414004bbc7f8c29a25619a~mv2.jpg",
+        "https://static.wixstatic.com/media/e6c5d9_2c73ae48d323469aa2745ac0f1cf9df5~mv2.jpg",
+        "https://static.wixstatic.com/media/e6c5d9_aaebf074e16a4a94a048e3a03a7e1dc8~mv2.jpg"
+      ]
+    }
+  ],
+  "notes": "Wix site; image URLs are the original files with the Wix resize path removed. The about page photos (two portrait shots) are placed under the Lunch Cruise because they sit beside it on the page; they could equally be general. Trip pages do not exist as separate pages, trip photos come from the home page cards. Two further YouTube videos on the videos page were left out (a 19 minute film and a sponsorship clip). Several videos appear to be guest uploads embedded by the operator."
+}

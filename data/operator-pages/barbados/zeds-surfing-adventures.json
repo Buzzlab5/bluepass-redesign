@@ -1,0 +1,172 @@
+{
+  "slug": "zeds-surfing-adventures",
+  "name": "Zed's Surfing Adventures",
+  "website": "https://www.zedssurfing.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Surfers Point",
+  "category": "Surf school",
+  "summary": "A surf school and guesthouse at Surfers Point on the south coast, run by Zed Layson, who has surfed since 1977 and coached since 2000. Private and small group lessons for beginners and families, coaching for experienced surfers, surf trips to other breaks and board rental with delivery.",
+  "standouts": [
+    "Founder Zed Layson has surfed since 1977 and coached since 2000",
+    "Zed represented Barbados on the national surf team",
+    "Featured on a National Geographic list of 10 surf schools in the world",
+    "Group lessons are a maximum of 5 surfers to 1 instructor"
+  ],
+  "contact": {
+    "phone": "+1 (246) 231-5251",
+    "email": "zedssurfing@gmail.com",
+    "address": "Surfers Point, Inch Marlow, Christ Church, Barbados",
+    "whatsapp": "https://wa.me/2462315251"
+  },
+  "heroImage": "https://static.wixstatic.com/media/b9d90a_9b708f0c01a54d5ca70c628662d17d77~mv2.jpg",
+  "sourceUrls": [
+    "https://www.zedssurfing.com/",
+    "https://www.zedssurfing.com/surf-lessons-in-barbados",
+    "https://www.zedssurfing.com/about-us",
+    "https://www.zedssurfing.com/contact-us",
+    "https://www.zedssurfing.com/things-to-do",
+    "https://www.zedssurfing.com/shortboards",
+    "https://www.zedssurfing.com/midlengths",
+    "https://www.zedssurfing.com/longboards",
+    "https://www.zedssurfing.com/surfing-accommodation-in-barbados"
+  ],
+  "trips": [
+    {
+      "title": "Surf Lessons",
+      "kind": "course",
+      "summary": "A one hour surf lesson after a 15 minute introduction on the beach, with boards included. Choose a private lesson with your own instructor, or a group lesson of up to five people that suits families and children.",
+      "highlights": [
+        "Private lessons are one surfer with 1 instructor",
+        "Group lessons are a maximum of 5 with 1 instructor",
+        "Lessons for kids and families",
+        "Surfboards included"
+      ],
+      "duration": "1 hour, with a 15 minute intro on the beach",
+      "durationMinutes": 75,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Private lesson", "amount": 150, "currency": "USD", "note": "For 1 person" },
+        { "label": "Group lesson", "amount": 50, "currency": "USD", "note": "For 1 person" },
+        { "label": "Additional surfer", "amount": 50, "currency": "USD", "note": "Each" }
+      ],
+      "priceFrom": 50,
+      "includes": ["Surfboards", "15 minute intro on the beach"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/b9d90a_a065d37f55994042bf64fb85cca351b5~mv2.jpg",
+        "https://static.wixstatic.com/media/b9d90a_12f18471f45a4eaababa7daaf0079f9f~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.zedssurfing.com/surf-lessons-in-barbados",
+      "checkNotes": "Book Now buttons lead to the contact form; enquiry only. The lesson page does not say which beach lessons use; the business address is Surfers Point. durationMinutes adds the 1 hour lesson and the 15 minute intro."
+    },
+    {
+      "title": "Surf Tours",
+      "kind": "tour",
+      "summary": "A surf trip with transport to surf breaks around the island, board rental, and pick-up and drop-off.",
+      "highlights": [
+        "Transport to surf breaks",
+        "Board rental included",
+        "Pick-up and drop-off"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Surf tour", "amount": 150, "currency": "USD", "note": "Price basis (per person or per group) not stated" }
+      ],
+      "priceFrom": 150,
+      "includes": ["Transportation to surf breaks", "Board rentals", "Pick-up and drop-off"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.zedssurfing.com/surf-lessons-in-barbados",
+      "checkNotes": "Shown as $150 USD with no per person or per group label and no duration. Book Now leads to the contact form; enquiry only."
+    },
+    {
+      "title": "Private Coaching",
+      "kind": "course",
+      "summary": "One-to-one coaching for surfers who want to improve their technique. Sessions can include contest strategy, video analysis and private group training.",
+      "highlights": [
+        "One-on-one coaching",
+        "Contest strategy sessions",
+        "Video analysis",
+        "Private group training"
+      ],
+      "duration": "Priced per hour",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Private coaching", "amount": 75, "currency": "USD", "note": "Per hour" }
+      ],
+      "priceFrom": 75,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.zedssurfing.com/surf-lessons-in-barbados",
+      "checkNotes": "Priced per hour; no set session length stated. Book Now leads to the contact form; enquiry only."
+    },
+    {
+      "title": "Surfboard Rentals",
+      "kind": "other",
+      "summary": "Shortboards, mid-lengths and longboards for hire by the day. The team will bring boards to you anywhere on the island.",
+      "highlights": [
+        "High performance and beginner boards",
+        "Shortboards, mid-lengths and longboards",
+        "Boards delivered to where you want to surf"
+      ],
+      "duration": "Per day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "High performance board", "amount": 40, "currency": "USD", "note": "Per day" },
+        { "label": "Beginner board", "amount": 25, "currency": "USD", "note": "Per day" }
+      ],
+      "priceFrom": 25,
+      "includes": ["Board delivery"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/b9d90a_b3a947ac34e34a97a81aaf69c3a8b01b~mv2.jpg",
+        "https://static.wixstatic.com/media/b9d90a_55dde8e3fcd84644918e112e97654252~mv2.jpg",
+        "https://static.wixstatic.com/media/b9d90a_de178f762d374b0eab81d7c08e63e4d4~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.zedssurfing.com/surf-lessons-in-barbados",
+      "checkNotes": "Prices differ by page: the lessons page shows US$40 a day for high performance boards and US$25 a day for beginner boards; the Shortboards, MidLength and Longboards pages show US$40 a day, or US$25 a day for guests staying at Zed's. Used the lessons page. Rental, not a guided trip."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Guests staying at Zed's rent surfboards at US$25 per day",
+      "conditions": "For guests staying at Zed's accommodation",
+      "validUntil": null,
+      "sourceUrl": "https://www.zedssurfing.com/shortboards"
+    },
+    {
+      "text": "Surf accommodation at Zed's, Surfers Point: studios and a 2 bedroom unit, summer rates from $115 USD per night (1 May to 14 December) and winter rates from $180 USD per night (15 December to 30 April)",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://www.zedssurfing.com/surfing-accommodation-in-barbados"
+    }
+  ],
+  "checkNotes": "All booking is by contact form, WhatsApp or email; no booking engine found. The site's wa.me link is wa.me/2462315251 (no leading country code 1), recorded as shown. Fishing charters on the Things To Do page are run by partner businesses (Remember Me Now Fishing Charters and Eclipse Fishing Charters), so they are not listed as trips. Hero image is a portrait photo; no wide landscape photo was found."
+}

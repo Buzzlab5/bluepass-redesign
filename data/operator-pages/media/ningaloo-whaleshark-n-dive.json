@@ -1,0 +1,8 @@
+{
+  "slug": "ningaloo-whaleshark-n-dive",
+  "logo": null,
+  "gallery": [],
+  "videos": [],
+  "trips": [],
+  "notes": "BLOCKED. On 13 Oct 2026 one request to https://whalesharktours.com.au/ returned HTTP 202 with a SiteGround bot challenge (a meta refresh to /.well-known/sgcaptcha/) instead of the page, the same as on 12 Oct. The challenge was not bypassed, so no logo, photos or videos were collected, and the facts file has no trips to match. Needs a human to read the site in a normal browser, or the operator to supply media."
+}

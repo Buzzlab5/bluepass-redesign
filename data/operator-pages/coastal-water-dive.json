@@ -1,0 +1,308 @@
+{
+  "slug": "coastal-water-dive",
+  "name": "Coastal Water Dive",
+  "website": "https://coastalwaterdive.com.au",
+  "rezdyAlias": null,
+  "state": "WA",
+  "town": "Bunbury",
+  "category": "Dive courses and training",
+  "summary": "A dive shop in East Bunbury that has served the South West dive community since 1997. It teaches PADI courses from Open Water to technical diving, with ocean dives in local Bunbury waters, and runs free club shore dives for certified divers. Open Water and technical courses are kept to two students per instructor.",
+  "standouts": [
+    "Servicing the South West dive community since 1997",
+    "Open Water courses limited to two students per instructor and run over a single weekend",
+    "Open Water courses taught by a PADI Master Scuba Diver Trainer",
+    "Technical diving courses limited to two students per instructor and can be run one on one"
+  ],
+  "contact": {
+    "phone": "+61 8 9721 7786",
+    "email": "info@coastalwaterdive.com.au",
+    "address": "6 Mummery Crescent, East Bunbury WA 6230"
+  },
+  "heroImage": "https://static.wixstatic.com/media/910317_4e746cdf42df45aeac73d0c4e5e166ad~mv2.jpg",
+  "sourceUrls": [
+    "https://www.coastalwaterdive.com.au/",
+    "https://www.coastalwaterdive.com.au/learn-to-dive",
+    "https://www.coastalwaterdive.com.au/product-page/padi-open-water-course",
+    "https://www.coastalwaterdive.com.au/product-page/padi-discover-scuba-diving",
+    "https://www.coastalwaterdive.com.au/recreational-courses",
+    "https://www.coastalwaterdive.com.au/recreational-diving",
+    "https://www.coastalwaterdive.com.au/product-page/padi-advanced-open-water-diver",
+    "https://www.coastalwaterdive.com.au/product-page/padi-drysuit-diver",
+    "https://www.coastalwaterdive.com.au/product-page/padi-enriched-air-nitrox-diver",
+    "https://www.coastalwaterdive.com.au/product-page/padi-deep-diver-specialty",
+    "https://www.coastalwaterdive.com.au/product-page/padi-rec-sidemount-diver",
+    "https://www.coastalwaterdive.com.au/product-page/padi-full-face-mask-diver",
+    "https://www.coastalwaterdive.com.au/product-page/padi-search-recovery-diver",
+    "https://www.coastalwaterdive.com.au/product-page/padi-rescue-course",
+    "https://www.coastalwaterdive.com.au/product-page/padi-digital-underwater-photographer",
+    "https://www.coastalwaterdive.com.au/technical-courses",
+    "https://www.coastalwaterdive.com.au/technical-diving",
+    "https://www.coastalwaterdive.com.au/product-page/padi-tec-40",
+    "https://www.coastalwaterdive.com.au/product-page/padi-tec-45",
+    "https://www.coastalwaterdive.com.au/product-page/padi-tec-50",
+    "https://www.coastalwaterdive.com.au/product-page/padi-tec-sidemount-diver-specialty",
+    "https://www.coastalwaterdive.com.au/dive-club",
+    "https://www.coastalwaterdive.com.au/events",
+    "https://www.coastalwaterdive.com.au/calendar",
+    "https://www.coastalwaterdive.com.au/snorkelling",
+    "https://www.coastalwaterdive.com.au/travel",
+    "https://www.coastalwaterdive.com.au/philippines-2026",
+    "https://www.coastalwaterdive.com.au/about",
+    "https://www.coastalwaterdive.com.au/contact",
+    "https://www.coastalwaterdive.com.au/gallery",
+    "https://www.coastalwaterdive.com.au/dive-courses",
+    "https://www.coastalwaterdive.com.au/returns-cancellations-policy",
+    "https://www.coastalwaterdive.com.au/product-page/gift-card",
+    "https://www.coastalwaterdive.com.au/_files/ugd/5cd799_e6c2803b73a04b44b593ed3eb3490231.pdf",
+    "https://www.coastalwaterdive.com.au/sitemap.xml",
+    "https://www.coastalwaterdive.com.au/pages-sitemap.xml",
+    "https://www.coastalwaterdive.com.au/store-products-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "PADI Open Water Diver",
+      "kind": "course",
+      "summary": "A PADI Open Water Diver course for beginners, kept to two students per instructor and run over a weekend. Theory is online, followed by pool training at the South West Sports Centre and four ocean dives with a PADI Master Scuba Diver Trainer. The standard weekend starts with a Friday evening fit-out and ends with three shore dives on Sunday.",
+      "highlights": [
+        "Maximum of two students per instructor, over a single weekend",
+        "Four ocean dives over two days, after confined water dives in the pool",
+        "Taught by a PADI Master Scuba Diver Trainer",
+        "Complimentary weekend of scuba hardware rental after the course, to join a social dive"
+      ],
+      "duration": "2 to 3 days (standard format is one weekend)",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "2026 weekend dates listed: October 24th & 25th, November 7th & 8th, November 28th & 29th, December 5th & 6th, December 19th & 20th",
+      "departsFrom": "Dive shop (6 Mummery Crescent, East Bunbury) on Friday evening, then the South West Sports Centre pool and a local dive site",
+      "prices": [
+        {
+          "label": "PADI Open Water Diver, sale price",
+          "amount": 699,
+          "currency": "AUD",
+          "note": "Regular price $849"
+        },
+        {
+          "label": "2 Day Private Course (1 - 2 students), sale price",
+          "amount": 1548,
+          "currency": "AUD",
+          "note": "Regular price $1,698. Shown when this option is selected; the page does not say whether it is per person or per group"
+        },
+        {
+          "label": "2 Day Private Course (3 - 4 students), sale price",
+          "amount": 2549,
+          "currency": "AUD",
+          "note": "Regular price $2,699. Shown when this option is selected; the page does not say whether it is per person or per group"
+        }
+      ],
+      "priceFrom": 699,
+      "includes": [
+        "PADI eLearning",
+        "Scuba equipment hire",
+        "Professional instruction",
+        "International PADI registration",
+        "Digital certification card",
+        "Confined water dives",
+        "4 ocean dives"
+      ],
+      "bring": [
+        "Mask, snorkel, wetsuit and fins are recommended; they are provided if you do not have your own",
+        "Meals and water (not included)",
+        "Your own transport to the pool and dive sites (not included)"
+      ],
+      "requirements": "Minimum age 12. Student divers aged 12 to 14 earn the PADI Junior Open Water Diver certification, which they may upgrade to PADI Open Water Diver certification on reaching 15. Ability to swim at least 200 metres and tread water for 10 minutes. Medically fit for diving; a medical questionnaire is part of the course documents, and a recreational dive medical from a GP may be needed if any medical question is answered yes.",
+      "offer": {
+        "text": "Complimentary weekend of scuba hardware rental (BCD, regulators, weights, cylinder) to join a social dive, given once you complete the course",
+        "conditions": null,
+        "validUntil": null
+      },
+      "images": [
+        "https://static.wixstatic.com/media/910317_4e746cdf42df45aeac73d0c4e5e166ad~mv2.jpg",
+        "https://static.wixstatic.com/media/910317_3e24c88e9e894ad090d76f9645fa9931~mv2.jpg",
+        "https://static.wixstatic.com/media/910317_4ef10b3cf13744e7a8af54e2f21f5924~mv2.jpg",
+        "https://static.wixstatic.com/media/910317_9dc594dd893a418ba39c940952544c1e~mv2.png"
+      ],
+      "bookingLinks": [
+        "https://www.coastalwaterdive.com.au/product-page/padi-open-water-course"
+      ],
+      "sourceUrl": "https://www.coastalwaterdive.com.au/product-page/padi-open-water-course",
+      "checkNotes": "Prices from the product page: regular price $849, sale price $699. The two private options show their prices only when selected in the dates drop-down, and the page does not say whether they are per person or per group. Sold through the product page's Add to Cart and Buy Now, no separate booking system. The course information PDF linked from the Learn to Dive page still shows $849, lists mask, snorkel, suit, boots and fins as not included (the product page says they are provided if you do not have your own) and lists scuba hardware rental and air fills as included. Duration differs: the Recreational Diving course list says 2 to 3 days (theory 5 to 10 hours of eLearning), the product page says a single weekend and a standard two-day format. Schedule from the PDF: Friday 5pm fit-out at the dive shop, Saturday 8am pool at the South West Sports Centre, Saturday 3pm first ocean dive, Sunday 9am three shore dives at a local dive site. The product page gives Saturday pool 8am to 2pm, first open water session 3pm to 5pm, Sunday open water dives 2 to 4. The ocean dive site is not named, and the PDF's 'dive shop' is taken to be the shop at 6 Mummery Crescent. Dates in the drop-down that had already passed on 15 October 2026 and were left out of season: August 29th & 30th, September 12th & 13th, September 20th & 21st, October 10th & 11th; the drop-down also has a Dates TBC option. Images: three photos from the Learn to Dive page plus the 600 by 600 product tile, which was not viewed and may have text on it."
+    },
+    {
+      "title": "PADI Advanced Open Water Diver",
+      "kind": "course",
+      "summary": "A PADI course for certified divers that builds navigation and buoyancy skills, includes deep diving and three specialty dives, and certifies divers to dive to 30 metres. It combines PADI eLearning theory with five adventure dives. It can be run over a single weekend or across several dates.",
+      "highlights": [
+        "PADI eLearning theory and five adventure dives",
+        "Navigation, buoyancy and deep diving practice",
+        "Certifies divers to dive to 30 metres",
+        "Single weekend or several dates when the full course is paid upfront"
+      ],
+      "duration": "2 to 3 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Flexible dates with the Full Course option",
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Full course",
+          "amount": 649,
+          "currency": "AUD",
+          "note": "Paying for the full course upfront saves $50, per the page. Available on flexible dates"
+        },
+        {
+          "label": "Theory only (PADI eLearning), dives scheduled later",
+          "amount": 150,
+          "currency": "AUD",
+          "note": "Each adventure dive is then $110, five dives in total"
+        },
+        {
+          "label": "Each adventure dive (five in total), after the theory only option",
+          "amount": 110,
+          "currency": "AUD",
+          "note": "Charged per dive when eLearning is bought first"
+        }
+      ],
+      "priceFrom": 649,
+      "includes": [
+        "PADI eLearning theory",
+        "5 adventure dives"
+      ],
+      "bring": [],
+      "requirements": "12 years or older. Open Water Diver (or qualifying certification).",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/910317_b47c87b0db464bd4a06988834b7498dd~mv2.png"
+      ],
+      "bookingLinks": [
+        "https://www.coastalwaterdive.com.au/product-page/padi-advanced-open-water-diver"
+      ],
+      "sourceUrl": "https://www.coastalwaterdive.com.au/product-page/padi-advanced-open-water-diver",
+      "checkNotes": "Price $649 from the product page; the drop-down offers Theory Only, Full Course Flexible Dates ($649) and May 2nd & 3rd (2026) ($649), a date that has passed and was left out. Sold through the product page's Add to Cart and Buy Now. Age, prerequisite, 6 to 8 hours of eLearning and 2 to 3 days from the Recreational Diving course list. The page does not name the dive site or say whether equipment is included, so includes lists only what the page states. The only image is the 600 by 600 product tile, which was not viewed and may have text on it."
+    },
+    {
+      "title": "PADI Drysuit Diver",
+      "kind": "course",
+      "summary": "A PADI specialty course on diving in a drysuit. It covers avoiding common drysuit problems, choosing a drysuit and undergarments, and caring for the suit. The course has one pool session and two ocean dives.",
+      "highlights": [
+        "1 pool session and 2 ocean dives",
+        "Avoid common drysuit diving problems",
+        "Choose a drysuit and undergarments",
+        "Care for your drysuit"
+      ],
+      "duration": "2 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "PADI Drysuit Diver",
+          "amount": 599,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 599,
+      "includes": [],
+      "bring": [],
+      "requirements": "12 years or older. Open Water Diver (or qualifying certification).",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/910317_b380fa00b46d46049c88e1e1066430e5~mv2.png"
+      ],
+      "bookingLinks": [
+        "https://www.coastalwaterdive.com.au/product-page/padi-drysuit-diver"
+      ],
+      "sourceUrl": "https://www.coastalwaterdive.com.au/product-page/padi-drysuit-diver",
+      "checkNotes": "The course dates drop-down shows only TBC, so no dates are set; confirm it is currently being run. Price $599 from the product page; sold through its Add to Cart and Buy Now. Duration (2 days, theory 2 to 4 hours of eLearning), age and prerequisite from the Recreational Diving course list. The page does not name the pool or ocean site or say what is included. The only image is the 600 by 600 product tile, which was not viewed and may have text on it."
+    },
+    {
+      "title": "PADI Tec 40",
+      "kind": "course",
+      "summary": "A PADI technical diving course for divers moving from recreational to technical diving, qualifying them for limited decompression dives to 40 metres. It has seven knowledge development sections, four practical application sessions and four training dives. Classes have at most two students per instructor and can be run one on one.",
+      "highlights": [
+        "Seven knowledge development sections, four practical application sessions and four training dives",
+        "Qualifies divers for limited decompression dives to 40 metres/130 feet",
+        "Maximum of two students per instructor, can be 1:1",
+        "Tec 40 and Tec 45 combo available for an extra $500 when booked together"
+      ],
+      "duration": "2 to 3 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Tec 40, sale price",
+          "amount": 999,
+          "currency": "AUD",
+          "note": "Regular price $1,499"
+        },
+        {
+          "label": "Tec 40 and Tec 45 combo, sale price",
+          "amount": 1499,
+          "currency": "AUD",
+          "note": "Regular price $1,999. The page says the combo is only an extra $500 when booked together"
+        }
+      ],
+      "priceFrom": 999,
+      "includes": [],
+      "bring": [],
+      "requirements": "To enrol you must hold PADI Advanced Open Water Diver (PADI Rescue Diver recommended), PADI Enriched Air Diver, and PADI Deep Diver or proof of 10 dives to 30 metres/100 feet or deeper; have 30 logged dives; be 18 years old; and have a Diver Medical Form signed by a physician within the last 12 months. Qualifying certifications from other diver training organizations may apply.",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/910317_44e47c260d3a441b80834f03b2c5ab01~mv2.jpg",
+        "https://static.wixstatic.com/media/910317_58a6de5e9e7d41fb8087823102f7e4e9~mv2.jpg",
+        "https://static.wixstatic.com/media/910317_f7da4dce17f34aaca87c9ea32d58f1c2~mv2.jpg",
+        "https://static.wixstatic.com/media/910317_d973ec8a85cb427da71fa0c7bded4899~mv2.png"
+      ],
+      "bookingLinks": [
+        "https://www.coastalwaterdive.com.au/product-page/padi-tec-40"
+      ],
+      "sourceUrl": "https://www.coastalwaterdive.com.au/product-page/padi-tec-40",
+      "checkNotes": "Prices from the product page: regular $1,499, sale $999; the combo option is $1,999 regular and $1,499 sale. Sold through the product page's Add to Cart and Buy Now. No dates are listed: the page says the technical instructor liaises directly with you to organise dates after you book. The page does not say where the four training dives take place. Duration is the page's 2 to 3 days depending on the student's preferred format. Images: three photos from the Technical Diving page (the page that lists the Tec courses) plus the 600 by 600 product tile, which was not viewed and may have text on it."
+    },
+    {
+      "title": "Club Dives",
+      "kind": "dive",
+      "summary": "Local club shore dives, led by a qualified PADI Instructor and open to certified divers. They are free to attend.",
+      "highlights": [
+        "Shore dives led by a qualified PADI Instructor",
+        "Free to attend for certified divers"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Club shore dive, certified divers",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free to attend"
+        }
+      ],
+      "priceFrom": 0,
+      "includes": [],
+      "bring": [
+        "Your own dive gear (the page says hire gear is not available)"
+      ],
+      "requirements": "Certified divers",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.coastalwaterdive.com.au/dive-club",
+      "checkNotes": "No booking link: the page has no booking, only a Club Dives button to the shop's Facebook events (not opened) and an embedded events calendar that did not load in the page text, so dates, times and dive sites are unknown. The page says hire gear is not available and that cylinder hire is coming soon in 2025, so the page may be out of date; confirm club dives are still running before publishing. The only image on the page is a PNG that was not identified, so it was left out."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift cards from $150 to $1,000, bought online and redeemed in store",
+      "conditions": "Redeemed in store within one business day of purchase; the recipient gives their name, or uses the printable voucher that is emailed",
+      "validUntil": null,
+      "sourceUrl": "https://www.coastalwaterdive.com.au/product-page/gift-card"
+    }
+  ],
+  "checkNotes": "Rezdy: the only booking-system link on the site is the Dive Charters menu item, https://bunburyexclusivecruises.rezdy.com/?agentCode=COASTALWATERDIVE, which sits in a Rezdy account belonging to a different business (Bunbury Exclusive Cruises, with Coastal Water Dive's agent code). It was not opened, the site has no page describing the charters, so no charter trip is listed and rezdyAlias is null. Courses are sold on the site's own product pages (Add to Cart and Buy Now), so each course's bookingLinks is its product page. Left out, with reasons. Courses where the page describes theory or skills but no ocean or open water session, so a person can add them if wanted: Discover Scuba Diving $700 (half day in a pool or pool-like environment with an optional open water dive, dates TBC); Enriched Air (Nitrox) Diver $199 sale, $350 regular (online theory plus a practical session, no dives described, and the page still shows a 21st March date and a winter promo to 1st October, so it looks out of date); Deep Diver $849; Rec Sidemount Diver $999; Full Face Mask Diver $499 (dates option is Expression of Interest only); Search & Recovery Diver $499; Rescue Diver $849; Digital Underwater Photographer $399; Tec 45 $1,499; Tec 50 $1,499; Tec Sidemount $999. All of these show TBC dates or none. Also Introduction to PADI eLearning and Introduction to PADI Rescue eLearning at $0.00 (online only). Not trips: the Snorkelling page is about Cressi masks and fins for sale; a quote there mentions the owner's own snorkel tours but no tour is described or priced. The Philippines 2026 dive travel (8 to 21 September 2026 and 12 to 21 September 2026, resort based, from $8,088 and $6,564) and Komodo August 2025 are overseas trips whose dates have passed, and /komodo-2025, /bali-2025, /james and /secret-specials were not opened. Retail shop and online store, equipment servicing, cylinder hydrostatic testing, and commercial diving (a separate business, commercialwaterdive.com.au) are not trips. No freediving or pool-only sessions were found on the site although the list mentions freediving. Contact: the site shows the phone as (08) 9721 7786, recorded here as +61 8 9721 7786. The opening hours block reads oddly (Monday 'Hibernating', Sunday 'gone diving') and was not recorded. The About page says owner Torry has stepped back from day to day management and James is store manager and instructor. The ocean dive sites are never named; the pool is the South West Sports Centre (course information PDF). The site's text says course dives happen in local Bunbury waters. Hero: the homepage background is a 1920 by 1080 PNG called 'Untitled design (5).png', a design export that may have graphics on it, so it was not used; the hero is a Learn to Dive page photo instead. The site uses Wix, so image URLs without the resize suffix are the originals. About 37 pages and files were read; Facebook, Instagram and rezdy.com were not opened."
+}

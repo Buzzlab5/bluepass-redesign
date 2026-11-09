@@ -1,0 +1,131 @@
+{
+  "slug": "calypso-cruises",
+  "name": "Calypso Cruises",
+  "website": "https://calypsocruisesbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Catamaran sail and snorkel",
+  "summary": "Captain Nick and his crew sail Calypso Girl, a 43 foot catamaran, along the Barbados coast with no more than 14 guests on shared trips. The lunch cruise stops to snorkel with turtles and over a reef or shipwreck, with a Bajan buffet and an open bar. There is also a sunset sail and private charters by the hour.",
+  "standouts": [
+    "No more than 14 guests on shared cruises",
+    "Calypso Girl, a 43ft sailing catamaran with a custom ladder for getting in and out of the water",
+    "Pick-up from your hotel, resort or ship on the lunch cruise",
+    "Private charters for up to 20 people"
+  ],
+  "contact": {
+    "phone": "+1 246 252 1534",
+    "email": "calypsocruisesbarbados@gmail.com",
+    "address": "Wharf Road, Bridgetown",
+    "whatsapp": "https://wa.me/12462521534"
+  },
+  "heroImage": "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calpysoluv2.jpg",
+  "sourceUrls": [
+    "https://calypsocruisesbarbados.com/",
+    "https://calypsocruisesbarbados.com/book/",
+    "https://calypsocruisesbarbados.com/gallery/",
+    "https://calypsocruisesbarbados.com/wp-json/wp/v2/pages?per_page=50&_fields=id,slug,link,modified,title",
+    "https://calypsocruisesbarbados.com/wp-json/wp/v2/posts?per_page=10&_fields=modified,date,slug,link",
+    "https://calypsocruisesbarbados.com/wp-json/wc/store/v1/products"
+  ],
+  "trips": [
+    {
+      "title": "Lunch Cruise",
+      "kind": "sail",
+      "summary": "A five hour sail up the coast with a small group, starting with coffee, tea and snacks on board. You can snorkel with turtles and over a reef or shipwreck, or stay on deck, before a full Bajan buffet lunch at anchor. Pick-up from your hotel, resort or ship is included.",
+      "highlights": [
+        "Max 14 guests",
+        "Snorkelling with turtles and over a shipwreck or reef",
+        "Full Bajan buffet lunch with dessert",
+        "Open bar throughout the cruise"
+      ],
+      "duration": "10AM until 3PM (5 hour tour)",
+      "durationMinutes": 300,
+      "departureTimes": ["10:00"],
+      "season": null,
+      "departsFrom": "Wharf Road, Bridgetown",
+      "prices": [
+        { "label": "Per person", "amount": 135, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 135,
+      "includes": [
+        "Pick up from your hotel, resort or ship",
+        "Snorkeling gear and noodles",
+        "Coffee, tea and light snacks to start the morning",
+        "Hors d'oeuvres while sailing",
+        "Full Bajan buffet lunch: local fish, baked chicken, macaroni pie, salads, dinner rolls or garlic bread, and desserts",
+        "Open bar: premium bar, wine, rum punch, coffee, tea, juices and soft drinks"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calpysoluv2.jpg",
+        "https://calypsocruisesbarbados.com/wp-content/uploads/2019/01/calypso-cruises.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://calypsocruisesbarbados.com/",
+      "checkNotes": "Booking by WhatsApp to Captain Nick or by email only. Inclusions are from the 'The Cruise' section of the home page, which describes the 5 hour tour; matched to the Lunch Cruise. Departure point taken from the Contact / Book page ('How to find us? Wharf Road, Bridgetown')."
+    },
+    {
+      "title": "Sunset Cruise",
+      "kind": "sail",
+      "summary": "A three hour late afternoon sail timed for the sunset. Drinks come from the boat's stocked bar.",
+      "highlights": [
+        "Sunset sail along the coast",
+        "Premium stocked bar",
+        "Lower price for under 16s"
+      ],
+      "duration": "3.30PM until 6.30PM",
+      "durationMinutes": 180,
+      "departureTimes": ["15:30"],
+      "season": null,
+      "departsFrom": "Wharf Road, Bridgetown",
+      "prices": [
+        { "label": "Per person", "amount": 85, "currency": "USD", "note": null },
+        { "label": "Under 16 years", "amount": 70, "currency": "USD", "note": "persons under 16 years" }
+      ],
+      "priceFrom": 85,
+      "includes": ["Drinks from the premium stocked bar"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/calpysosunset.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://calypsocruisesbarbados.com/",
+      "checkNotes": "Booking by WhatsApp or email only. The site does not say whether pick-up or food is included on this cruise; the Contact / Book page says pick up options are available."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "The whole boat for your group, for a birthday, wedding party or a quiet day out. Charters are priced by the hour with a three hour minimum, and take up to 20 people.",
+      "highlights": [
+        "Charged by the hour, minimum 3 hours",
+        "Up to 20 people",
+        "Party cruises available"
+      ],
+      "duration": "Minimum 3 hours",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Wharf Road, Bridgetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://calypsocruisesbarbados.com/wp-content/uploads/2018/11/Sails2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://calypsocruisesbarbados.com/",
+      "checkNotes": "No hourly rate shown on the site. Booking by WhatsApp or email only."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Booking is by WhatsApp or email only; no WooCommerce shop or online checkout found (the store API returns 404 and there are no product pages), despite the batch hint. Site looks older but is maintained: WordPress page data shows the home page last edited 2024-12-11 and the Contact / Book page 2024-09-11. No 2025 or 2026 dates or prices appear on the site. Reviews quoted on the site date from 2018 to 2021 and the Tripadvisor award shown is for 2020. The site spells the boat builder 'Fontaine Pajot' (2003 build)."
+}

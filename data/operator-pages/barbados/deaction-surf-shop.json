@@ -1,0 +1,235 @@
+{
+  "slug": "deaction-surf-shop",
+  "name": "deAction Surf Shop",
+  "website": "https://www.briantalma.pro/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Silver Sands",
+  "category": "Board sports school",
+  "summary": "A wooden beach shop on Silver Sands, run by windsurfer Brian Talma, that teaches windsurfing, kitesurfing, surfing and stand up paddling. A sheltered lagoon suits first timers, and the outer reef has waves for experienced riders. The shop also rents and sells Naish boards, sails and kites.",
+  "standouts": [
+    "Beachfront shop on deAction Beach, Silver Sands",
+    "Lagoon area for beginners and outer reef waves for experienced riders",
+    "Rents and sells Naish surf, SUP, kite and windsurf equipment",
+    "Kitesurfing lessons led by instructor Tony \"Corn\" Lord"
+  ],
+  "contact": {
+    "phone": "+1 246 428 2027 or +1 246 826 7087",
+    "email": null,
+    "address": "deAction Shop & Beach Appartments, Silver Sands, Christ Church, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://www.briantalma.pro/wp-content/uploads/2016/07/SLIDER_1.jpg",
+  "sourceUrls": [
+    "https://www.briantalma.pro/",
+    "https://www.briantalma.pro/sup/",
+    "https://www.briantalma.pro/surfing/",
+    "https://www.briantalma.pro/kitesurfing/",
+    "https://www.briantalma.pro/windsurfing/",
+    "https://www.briantalma.pro/shop/",
+    "https://www.briantalma.pro/contact-us/",
+    "https://www.briantalma.pro/brians-gallery/",
+    "https://www.briantalma.pro/wp-json/wp/v2/posts",
+    "https://www.briantalma.pro/wp-json/wp/v2/pages"
+  ],
+  "trips": [
+    {
+      "title": "SUP Safari",
+      "kind": "tour",
+      "summary": "A stand up paddle along the south coast from the deAction shop to Oistins, about two miles, passing many surf spots on the way. At Oistins the group snorkels with turtles.",
+      "highlights": [
+        "About a two mile paddle from deAction Surf Shop to Oistins",
+        "Passes many surf spots on the south coast",
+        "Snorkel with turtles at Oistins"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "deAction Surf Shop, Silver Sands, Christ Church",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "For intermediate stand up paddlers",
+      "offer": null,
+      "images": [
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/SUP_1-1.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/SUP_2.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/SUP-2.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/SUP-1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.briantalma.pro/sup/",
+      "checkNotes": "No price or duration on the site. 'Book Now' goes to the contact form. Turtle snorkel at Oistins is mentioned; no feeding is advertised."
+    },
+    {
+      "title": "Beginner Stand Up Paddling Lesson",
+      "kind": "course",
+      "summary": "A first stand up paddle session that starts with a short briefing on the beach covering the basics and the route. Lessons run from Enterprise Beach, about ten minutes' drive from the shop.",
+      "highlights": [
+        "Starts on Enterprise Beach, 10 minutes drive from the shop",
+        "5 minute briefing on the beach on the fundamentals of SUP and the route"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Enterprise Beach, Christ Church",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/SUP-1.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/SUP_2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.briantalma.pro/sup/",
+      "checkNotes": "No price or lesson length on the site. Booking by the contact form or phone."
+    },
+    {
+      "title": "Beginner Surf Lesson",
+      "kind": "course",
+      "summary": "A one hour first surf lesson: ten minutes on the beach learning how to stand up, then fifty minutes riding small waves. Lessons run in the inner waves by the shop or at Freights, a beginner spot five minutes' drive away.",
+      "highlights": [
+        "10 minute beach talk, then 50 minutes in the water",
+        "Inner small waves by the shop, or at Freights (5 minutes drive)",
+        "The shop states you will be standing up within the hour or your money back"
+      ],
+      "duration": "1 hour",
+      "durationMinutes": 60,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "deAction Surf Shop, Silver Sands, or Freights",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/SURFING_1.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/Surf-1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.briantalma.pro/surfing/",
+      "checkNotes": "No price on the site. Title is ours; the page describes 'the first hour long lesson'. Booking by the contact form or phone."
+    },
+    {
+      "title": "\"Riding\" package",
+      "kind": "course",
+      "summary": "A two hour surf package that teaches you to pick a wave, catch it and ride it on your own.",
+      "highlights": [
+        "Learn to select a wave, catch it and ride by yourself"
+      ],
+      "duration": "two hour",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "deAction Surf Shop, Silver Sands, or Freights",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/SURFING_1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.briantalma.pro/surfing/",
+      "checkNotes": "No price on the site. Booking by the contact form or phone."
+    },
+    {
+      "title": "\"Surfer\" package",
+      "kind": "course",
+      "summary": "A six hour surf package covering wave selection and catching waves, then moving on to more advanced moves such as turning on a wave.",
+      "highlights": [
+        "Wave selection and catching waves",
+        "Introduces more advanced moves such as turning on a wave"
+      ],
+      "duration": "six hour",
+      "durationMinutes": 360,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "deAction Surf Shop, Silver Sands, or Freights",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/Surf-1.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.briantalma.pro/surfing/",
+      "checkNotes": "No price on the site, and it does not say how the six hours are split. Booking by the contact form or phone."
+    },
+    {
+      "title": "Kitesurfing Starter package",
+      "kind": "course",
+      "summary": "A six hour kitesurfing course, usually split over two or three sessions. It moves from flying a small stunt kite to body dragging with a big kite and then getting up on the board. Lessons are run by a team led by Tony \"Corn\" Lord.",
+      "highlights": [
+        "Six hours, normally divided into 2 to 3 sessions",
+        "Small stunt kite, then body dragging with a big kite, then getting up on the board",
+        "Flat water in the inner lagoon and waves off the outer reef"
+      ],
+      "duration": "six hours",
+      "durationMinutes": 360,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "deAction Surf Shop, Silver Sands, Christ Church",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/KITESURFING_1.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/KITESURFING_2.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/KITESURFING_3.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/Kite-2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.briantalma.pro/kitesurfing/",
+      "checkNotes": "No price on the site. Kite rentals need a confident level 3 rider (able to keep upwind). Booking by the contact form or phone."
+    },
+    {
+      "title": "Beginner Windsurfing Lessons",
+      "kind": "course",
+      "summary": "Windsurfing lessons for beginners from the shop's instructors, starting in the lagoon for those not yet comfortable in waves. Intermediate and expert windsurfers can rent Naish freeride boards and sails.",
+      "highlights": [
+        "Lagoon area for getting started away from the waves",
+        "Rental of Naish freeride boards and Naish sails from 4.5 to 7.0"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "deAction Surf Shop, Silver Sands, Christ Church",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.briantalma.pro/wp-content/uploads/2016/07/WINDSURFING_1.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/Wind-4.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/Wind-1.jpg",
+        "https://www.briantalma.pro/wp-content/uploads/2013/07/Wind-2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.briantalma.pro/windsurfing/",
+      "checkNotes": "No price or lesson length on the site. Title is ours; the page says 'We offer lessons for beginners'. Booking by the contact form or phone."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Enquiry only: every 'Book Now' on the activity pages goes to the contact form at https://briantalma.pro/contact-us/. No prices anywhere on the site. Activity pages were last changed in July 2016 and the newest blog post is May 2018, though the home page was updated in April 2026, so the business looks to be in place but the lesson details may be out of date. The site also rents beach apartments, a studio and a house at Silver Sands and Long Beach (not included as trips). No email address or WhatsApp link on the site; the WooCommerce shop and BookSurfCamps camps mentioned in our list were not found on these pages."
+}

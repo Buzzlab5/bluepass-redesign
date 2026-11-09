@@ -1,0 +1,25 @@
+{
+  "slug": "barbados-sailing",
+  "name": "Barbados Sailing",
+  "website": "https://barbadossailing.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": null,
+  "category": null,
+  "summary": null,
+  "standouts": [],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "address": null,
+    "whatsapp": null
+  },
+  "heroImage": null,
+  "sourceUrls": [
+    "https://barbadossailing.com/"
+  ],
+  "trips": [],
+  "offers": [],
+  "checkNotes": "Blocked: on 19 Oct 2026 https://barbadossailing.com/ answered 'Error 406 - Not Acceptable ... a request has been blocked by Mod Security' to a plain curl request (curl's default user agent). Treated as a bot check and stopped; no other pages or tools tried. Nothing on this page has been read from the site. Name taken from the batch list (listed there as 'Barbados Sailing (Why Not / Wasn't Me Catamaran Cruises)', base The Wharf Boardwalk, Bridgetown, email captainron@barbadossailing.com, phone +1 (246) 230-3792, booking by WhatsApp, phone or email); none of that is verified. Needs a person to read the site in a browser, or ask the operator for their trip list."
+}

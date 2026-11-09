@@ -1,0 +1,116 @@
+{
+  "slug": "wet-salty-adventure-sailing-school",
+  "logo": "https://static.wixstatic.com/media/cbe278_cfa86d61c66841248dd93907b7c4ac68~mv2.png",
+  "gallery": [
+    "https://static.wixstatic.com/media/cbe278_a6cd6fa7c1c24bd8abd4e3dfa6bbd6e9~mv2.jpg",
+    "https://static.wixstatic.com/media/62489d_4fa579b91d954b1b953fd3ae94374cc0~mv2.jpg",
+    "https://static.wixstatic.com/media/62489d_a1b97e6122604001afb64cbf073de2df~mv2.jpg",
+    "https://static.wixstatic.com/media/62489d_ba67756f8b194f229e8d9684e1b66bfe~mv2.jpg",
+    "https://static.wixstatic.com/media/62489d_3222262176894f3f8f04a216e1c32c9b~mv2.jpg",
+    "https://static.wixstatic.com/media/cbe278_d862a0ef95af4739b51895a81d856bcb~mv2.jpg",
+    "https://static.wixstatic.com/media/62489d_32839ff77ae248daba689dcee363388e~mv2.jpg",
+    "https://static.wixstatic.com/media/62489d_c2721d9a0b9544f38195f865234e7936~mv2.jpg",
+    "https://static.wixstatic.com/media/62489d_94fa0abe0747450c88cf77cdd20a4585~mv2.jpg",
+    "https://static.wixstatic.com/media/62489d_a70208a788de46dfb7cb610861c59ddf~mv2.jpg",
+    "https://static.wixstatic.com/media/62489d_65ce684cd0574f5fbaefe4769b35149b~mv2.jpeg",
+    "https://static.wixstatic.com/media/62489d_5c124d6038d74d39851cf73b3533a3ad~mv2.jpeg",
+    "https://static.wixstatic.com/media/62489d_ec3bf0f38963434582e0eadef0cf45b1~mv2.jpeg",
+    "https://static.wixstatic.com/media/62489d_44996dd9264f4ec49eac51dbd0b3cf8f~mv2.jpg",
+    "https://static.wixstatic.com/media/cbe278_dff0ce7898b14fab837fd66c7170bc40~mv2.jpg",
+    "https://static.wixstatic.com/media/cbe278_2f2f52db78034f37b94ea54c6d6c6d86~mv2.jpeg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "ASA 101 Basic Keelboat Sailing",
+      "images": [
+        "https://static.wixstatic.com/media/cbe278_df293eb31f864d6ba66d8c985ecfef7e~mv2.jpg"
+      ]
+    },
+    {
+      "title": "ASA 103 Coastal Cruising",
+      "images": [
+        "https://static.wixstatic.com/media/cbe278_4c3856f29d6e4b67bde5f39c0435994c~mv2.jpg"
+      ]
+    },
+    {
+      "title": "ASA 110 Small Boat Sailing",
+      "images": [
+        "https://static.wixstatic.com/media/62489d_55e6ebe245f54854a4ff7173de0eb98f~mv2.jpeg"
+      ]
+    },
+    {
+      "title": "ASA 114 Catamaran Cruising",
+      "images": [
+        "https://static.wixstatic.com/media/62489d_5418a0dfe377432d82b33769c55f9b0e~mv2.jpeg"
+      ]
+    },
+    {
+      "title": "Beginner to Skipper",
+      "images": [
+        "https://static.wixstatic.com/media/cbe278_badd049d326848ed86fa5884eeda8143~mv2.jpeg"
+      ]
+    },
+    {
+      "title": "Learn to Cruise",
+      "images": [
+        "https://static.wixstatic.com/media/cbe278_0cea90ef49fc46a88d16ec5c3b8e40d8~mv2.jpeg"
+      ]
+    },
+    {
+      "title": "Catamaran Learn to Cruise",
+      "images": [
+        "https://static.wixstatic.com/media/cbe278_0cea90ef49fc46a88d16ec5c3b8e40d8~mv2.jpeg"
+      ]
+    },
+    {
+      "title": "Sailing Vacation & Mile building Experience",
+      "images": [
+        "https://static.wixstatic.com/media/cbe278_b9ff0d45f88b4685adafc267cde42edb~mv2.jpeg",
+        "https://static.wixstatic.com/media/cbe278_11b14da2bc1f441ba653b2a1a25f8e9f~mv2.jpeg",
+        "https://static.wixstatic.com/media/cbe278_be71946a07424bfdad75b54d7ad3edde~mv2.jpeg"
+      ]
+    },
+    {
+      "title": "AB 101 Beginner Powerboating",
+      "images": [
+        "https://static.wixstatic.com/media/62489d_d79c6cfb8df4414d8e95c06dcab4f789~mv2.jpg"
+      ]
+    },
+    {
+      "title": "AB 103 Intermediate Powerboating",
+      "images": [
+        "https://static.wixstatic.com/media/62489d_be9b035bd422416f865bce223d5fcb51~mv2.jpg"
+      ]
+    },
+    {
+      "title": "AB 104 Advanced Powerboating",
+      "images": []
+    },
+    {
+      "title": "Day Sail on a J/24",
+      "images": [
+        "https://static.wixstatic.com/media/62489d_19bf324ee57244f98e6810e81a1ed614~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Day Sail on Jeanneau 32i",
+      "images": [
+        "https://static.wixstatic.com/media/62489d_dc663ccca8404feb877f3029404b4d97~mv2.jpg"
+      ]
+    },
+    {
+      "title": "Day Sail on a Cruising Catamaran",
+      "images": [
+        "https://static.wixstatic.com/media/cbe278_426b54a7f0814e51a49ff9424cc5c7d4~mv2.jpeg"
+      ]
+    },
+    {
+      "title": "Beach catamaran sailing experience",
+      "images": [
+        "https://static.wixstatic.com/media/cbe278_56c7004a38c445f7b69862bc6cbd826c~mv2.jpeg"
+      ]
+    }
+  ],
+  "notes": "Wix site; image URLs are the original files on Wix's image CDN (static.wixstatic.com/media/ID), which is where the site serves them. No YouTube, Vimeo or self-hosted videos found. The liveaboard and charter pages carry slideshow galleries of many more photos without file names, so they could not be matched to individual trips and only the first visible photo of each is listed. Left out: simple-gray-avatar-icons-representing-600nw (stock-style name, testimonial placeholder), whatsapp-image-2024-01-16-at-144712-1-1200x_.jpeg (looks downloaded from another site), the ASA logo, reviewer photos and icon graphics. AB 102 photo (AB102.jpg) on the American Boating page is not matched to a course. Logo is the header badge; its original size could not be confirmed. The site loads a Wix captcha module for forms; no bot check was shown."
+}

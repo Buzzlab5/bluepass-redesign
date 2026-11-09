@@ -1,0 +1,254 @@
+{
+  "slug": "ocean-extreme",
+  "name": "Ocean Extreme",
+  "website": "https://oceanextreme.com.au",
+  "rezdyAlias": "oceanextreme",
+  "state": "NSW",
+  "town": "Sydney",
+  "category": "Small-boat whale watching",
+  "summary": "Family owned whale watching and coastal tour operator running small rigid inflatable boats from Circular Quay and Manly Wharf in Sydney. Whale watching runs from mid May to mid November, and the same boats offer an offshore coastal tour to Bondi Beach, corporate outings and private hire. The three boats, Extreme, Osprey and Orca, carry between 12 and 28 passengers.",
+  "standouts": [
+    "Family owned and run by a local, taking guests whale watching for more than a decade",
+    "Fleet of three rigid inflatable boats carrying 12 to 28 passengers",
+    "Re-ride credit if no whales are spotted on a whale watching tour",
+    "Keeps the required 100 metre distance from whales; it is up to the whales whether they approach the boat"
+  ],
+  "contact": {
+    "phone": "1300 60 40 80",
+    "email": "enqs@oceanextreme.com.au",
+    "address": "PO Box 1082, Manly NSW 1655 (mailing address)"
+  },
+  "heroImage": "https://oceanextreme.com.au/wp-content/uploads/2019/01/Whale-breach-3410.jpg",
+  "sourceUrls": [
+    "https://oceanextreme.com.au/",
+    "https://oceanextreme.com.au/whale-watching/",
+    "https://oceanextreme.com.au/bookings/",
+    "https://oceanextreme.com.au/bondi-beach-coastal-tour/",
+    "https://oceanextreme.com.au/about-us/",
+    "https://oceanextreme.com.au/corporate/",
+    "https://oceanextreme.com.au/faqs/",
+    "https://oceanextreme.com.au/contact/",
+    "https://oceanextreme.com.au/terms-conditions/",
+    "https://oceanextreme.com.au/thrill-rides/",
+    "https://oceanextreme.com.au/gallery-whale-watching/",
+    "https://oceanextreme.com.au/gallery-celebrities/",
+    "https://oceanextreme.com.au/galleries/bondi-bash/",
+    "https://oceanextreme.com.au/galleries/clients/",
+    "https://oceanextreme.com.au/sitemap_index.xml",
+    "https://oceanextreme.com.au/page-sitemap.xml",
+    "https://oceanextreme.com.au/galleries-sitemap.xml",
+    "https://www.youtube.com/channel/UCliAgppBnjocXHgIp5MFG-g/videos"
+  ],
+  "trips": [
+    {
+      "title": "Whale Watching Safari",
+      "kind": "tour",
+      "summary": "A small-boat whale watching tour from Circular Quay or Manly Wharf, mostly to see humpback whales on their migration along the Sydney coast. Skippers head anywhere from 1km to 20km offshore depending on where the whales are, and the boats work together to find the same pods. Tours take about 2 hours from Circular Quay and about 1.5 hours from Manly Wharf.",
+      "highlights": [
+        "Three small rigid inflatable boats: Extreme (21 passengers), Osprey (28) and Orca (12)",
+        "Open straddle seating on Extreme and Orca, full canopy and regular seating on Osprey",
+        "Daily departures from Circular Quay and Manly Wharf during the season",
+        "Re-ride credit if no whales are spotted on the tour"
+      ],
+      "duration": "About 2 hours from Circular Quay, about 1.5 hours from Manly Wharf",
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:00",
+        "11:00",
+        "14:00",
+        "08:15",
+        "11:15",
+        "14:15"
+      ],
+      "season": "Mid May to mid November",
+      "departsFrom": "Campbell's Cove Pontoon, Circular Quay West; Manly Lifestyle Club pontoon, Manly Wharf East; Rose Bay floating wharf next to the Rose Bay boat ramp",
+      "prices": [
+        {
+          "label": "Whale watching, per person",
+          "amount": 149,
+          "currency": "AUD",
+          "note": "The only price shown in text on the site; no child or other price options are listed"
+        }
+      ],
+      "priceFrom": 149,
+      "includes": [
+        "Wind and spray jacket for every passenger",
+        "Cabin on board to store bags"
+      ],
+      "bring": [
+        "Warm layers under the supplied jacket, plus a beanie and gloves on cold days",
+        "Sunglasses and sunscreen",
+        "Closed shoes, preferably flat (required)",
+        "Trousers rather than a dress or skirt on Extreme and Orca, which have straddle seats",
+        "Phone or camera, carried at your own risk because of water spray",
+        "Water bottle (allowed on board)"
+      ],
+      "requirements": "Minimum age 12 on Extreme and Orca, minimum age 6 on Osprey. Pregnant passengers cannot join. Arrive at least 20 minutes before departure at Circular Quay and at least 15 minutes before at Manly Wharf and Rose Bay. No smoking or alcohol on the vessel.",
+      "offer": null,
+      "images": [
+        "https://oceanextreme.com.au/wp-content/uploads/2019/01/Whale-breach-3445.jpg",
+        "https://oceanextreme.com.au/wp-content/uploads/2024/04/whale-watching-vessels.jpg",
+        "https://oceanextreme.com.au/wp-content/uploads/2023/08/oceanextreme2.png",
+        "https://oceanextreme.com.au/wp-content/uploads/2023/08/osprey.png"
+      ],
+      "bookingLinks": [
+        "https://oceanextreme.com.au/bookings/"
+      ],
+      "sourceUrl": "https://oceanextreme.com.au/whale-watching/",
+      "checkNotes": "Sold through a booking calendar embedded on the bookings page (the same calendar is embedded on the whale watching page and the home page); the calendar was not opened, so child prices, live times and the exact products listed there are unconfirmed. The only price in text is $149 per person, in the whale watching page FAQ ('on the Ocean Extreme vessel'); it is not clear that it applies to every age or to Osprey. The home page presents Extreme and Osprey as two separate whale watching sections with different minimum ages; kept here as one trip because the FAQs page says guests can pick any boat and times are shared. The Rezdy calendar may list separate products by boat or departure point, so split if it does. Times from the FAQs page: weekends Circular Quay 8:00am, 11:00am and 2:00pm and Manly Wharf 8:15am, 11:15am and 2:15pm; weekdays Circular Quay 11:00am and Manly Wharf 11:15am, with an afternoon session often added in busy periods such as school holidays. departureTimes merges weekend and weekday times. Duration is about 2 hours from Circular Quay and about 1.5 hours from Manly Wharf (whale watching page FAQ). Season differs by page: early November (whale watching page intro), late November (whale watching page FAQ), mid November (FAQs page, used here, most recently edited). Minimum age is 12 on Extreme and Orca and 6 on Osprey (FAQs and about pages); the terms page says 12 for everyone. Rose Bay pick up appears only on the FAQs and about pages; the home and whale watching pages list Circular Quay and Manly only. Arrival times: 20 minutes at Circular Quay, 15 minutes at Manly and Rose Bay (FAQs). Photos are not included or guaranteed, though the crew often shares photos afterwards (FAQs). The site advertises 'sightings guaranteed'; not repeated in copy, the policy is the re-ride credit listed under offers. The FAQs page and the terms page give conflicting cancellation terms (a small fee for cancelling more than 48 hours ahead versus a full refund); check before publishing."
+    },
+    {
+      "title": "Bondi Beach Coastal Tour",
+      "kind": "tour",
+      "summary": "A coastal sightseeing tour from Circular Quay past the Sydney Harbour landmarks, out through the Heads to The Gap and south along about 5km of coastline to Bondi Beach, with a stop for photos. The page describes it as a sightseeing tour rather than a thrill ride, though larger swells can make it lively. You can finish at Manly Wharf, Watsons Bay or back at Circular Quay.",
+      "highlights": [
+        "Cruise past Sydney Harbour landmarks, then out through the Heads",
+        "Close-up view of the cliffs at The Gap",
+        "About 5km of coastline south to Bondi Beach, with a photo stop",
+        "Finish at Manly Wharf, Watsons Bay or Circular Quay"
+      ],
+      "duration": "60 minutes",
+      "durationMinutes": 60,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Campbell's Cove Pontoon, Circular Quay West (arrive 20 minutes before departure)",
+      "prices": [
+        {
+          "label": "Per person, from",
+          "amount": 85,
+          "currency": "AUD",
+          "note": "From the older thrill rides page, not shown on the current tour page"
+        },
+        {
+          "label": "Private hire (maximum 21 passengers)",
+          "amount": 1200,
+          "currency": "AUD",
+          "note": "From the older thrill rides page"
+        }
+      ],
+      "priceFrom": 85,
+      "includes": [],
+      "bring": [],
+      "requirements": "Minimum age 12. Arrive 20 minutes before departure.",
+      "offer": null,
+      "images": [
+        "https://oceanextreme.com.au/wp-content/uploads/2018/12/bondi-thrillride.jpg",
+        "https://oceanextreme.com.au/wp-content/uploads/2019/01/OX-0028-2.jpg",
+        "https://oceanextreme.com.au/wp-content/uploads/2018/12/thrillride.jpg",
+        "https://oceanextreme.com.au/wp-content/uploads/2019/01/thrill-rides.jpg"
+      ],
+      "bookingLinks": [
+        "https://oceanextreme.rezdy.com/10693/bondi-beach-coastline-tour-departing-circular-quay-hop-off-at-manly-watsons-bay-or-circular-quay"
+      ],
+      "sourceUrl": "https://oceanextreme.com.au/bondi-beach-coastal-tour/",
+      "checkNotes": "The booking link is the Rezdy product embedded as an iframe on the coastal tour page (product 10693); the '?iframe=true' part was removed and the Rezdy page was not opened. The current tour page shows no price, duration or times. The price from $85 per person, the 60 minute duration and the $1200 private hire (maximum 21 passengers) come from the thrill rides page, which is not in the site menu and was last edited in 2020, so they may be out of date; confirm against the booking widget. The thrill rides page says the tour departs Circular Quay and does not mention the Manly or Watsons Bay finishing options, so the duration may differ by finishing point. The tour runs on Extreme or Orca depending on passenger numbers (coastal tour page). Season and departure times are not stated. The photos come from the Bondi Bash gallery and the thrill rides page. The second photo is listed on the thrill rides page under a path that returns not found, so the working copy from the Bondi Bash gallery is used."
+    },
+    {
+      "title": "Palm Beach Pursuit",
+      "kind": "tour",
+      "summary": "A three hour private hire trip past every beach on the Northern Beaches, around Barrenjoey Headland and into Pittwater. Guests leave the boat for an hour at Palm Beach, then return by boat about 40 kilometres back to the city. It leaves from Circular Quay or Manly and is private hire only.",
+      "highlights": [
+        "Past every beach on the Northern Beaches and around Barrenjoey Headland",
+        "An hour ashore at Palm Beach to explore, eat or picnic",
+        "Private hire only",
+        "Introduced in 2014"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Circular Quay and Manly",
+      "prices": [
+        {
+          "label": "Private hire",
+          "amount": 1800,
+          "currency": "AUD",
+          "note": "Private hire only"
+        }
+      ],
+      "priceFrom": 1800,
+      "includes": [],
+      "bring": [
+        "A picnic if you want one, for the hour ashore"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://oceanextreme.com.au/wp-content/uploads/2018/12/thrillride.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://oceanextreme.com.au/thrill-rides/",
+      "checkNotes": "Enquiry only: the page says to email blake@oceanextreme.com.au to book, and there is no booking link. Described only on the thrill rides page, which is not linked from the site menu and was last edited in 2020 (it is listed in the sitemap), so confirm the trip is still offered before publishing. Passenger limit, age requirement and season are not stated for this trip. The one photo is the image shown beside this text on the thrill rides page and may not show this trip."
+    },
+    {
+      "title": "Corporate Team Building",
+      "kind": "charter",
+      "summary": "Group outings on fast boats for team building, parties, bucks and hens, functions and celebrations. Packages include high-speed passenger transfers, offshore coastal tours, inner harbour scenic tours and whale watching packages, with pick up and drop off at a choice of harbour wharves. Packages are tailor made, so groups contact the team for a quote.",
+      "highlights": [
+        "Simple, high-speed passenger transfers",
+        "Offshore coastal eco tours",
+        "Inner harbour scenic tours",
+        "Whale watching packages"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "A choice of wharves in Sydney Harbour for pick up and drop off",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://oceanextreme.com.au/wp-content/uploads/2019/01/corporate.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://oceanextreme.com.au/corporate/",
+      "checkNotes": "Enquiry only: the page directs groups to the contact page for a tailor made package. No prices, durations, group sizes or times are stated. Client logos and testimonials on the page were not used."
+    },
+    {
+      "title": "Custom Adventures & Passenger Transfers",
+      "kind": "charter",
+      "summary": "Private hire of the boats for events and passenger transfers, described on the home page as a fun water taxi. Hire is offered during the summer, and the team gives a free quote on request.",
+      "highlights": [
+        "Boats available to hire for events",
+        "Works like a water taxi for passenger transfers",
+        "Free quote on request"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Summer",
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://oceanextreme.com.au/wp-content/uploads/2021/06/passenger-transfers.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://oceanextreme.com.au/",
+      "checkNotes": "Enquiry only: the home page section sends visitors to the contact page for a free quote. It says 'both our vessels' are available, while the about page lists three boats. No prices, group sizes, durations or pick up points are stated; the corporate page mentions a choice of harbour wharves. This may overlap with the Corporate Team Building trip; merge if the operator treats them as one service."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Re-ride credit if no whales are spotted on a whale watching tour (the site calls it a sightings guarantee)",
+      "conditions": "Each passenger receives a credit for another whale watching tour in the same season. It is non-transferable and must be used by the original passenger. If the tour takes place in November, the credit is valid the following season. The terms page calls it a Standby Ticket, redeemable no more than 24 hours before the requested departure and subject to availability.",
+      "validUntil": null,
+      "sourceUrl": "https://oceanextreme.com.au/whale-watching/"
+    },
+    {
+      "text": "Gift vouchers",
+      "conditions": "Valid for 12 months, with the expiry date shown on the voucher. Unused vouchers are not refunded after expiry. Expiry extensions are available for a fee by phone while the voucher is still valid. Vouchers are non-refundable within 48 hours of departure.",
+      "validUntil": null,
+      "sourceUrl": "https://oceanextreme.com.au/terms-conditions/"
+    }
+  ],
+  "checkNotes": "Booking runs through Rezdy (alias oceanextreme). The bookings page embeds two Rezdy widgets as iframes, a catalog (oceanextreme.rezdy.com/catalog/552526/all) and a products calendar (oceanextreme.rezdy.com/productsCalendar/12546); neither was opened, so live prices, times, child prices, voucher options and any products not described on the site are unknown. The Bondi tour has its own embedded product link. Every menu item has a page, so no trip is listed only as a menu link. The legal entity named in the terms is Manly Boats Pty Ltd. The phone number is 1300 60 40 80 on every page except the terms page, which gives 1300 64 40 80 for voucher extensions. The thrill rides page is not in the site menu and was last edited in 2020; it is the only source for the Bondi tour price and for the Palm Beach Pursuit, so confirm both are current. Cancellation terms conflict between the FAQs and terms pages for both public and private hire bookings (the FAQs mention a small cancellation fee, the terms mention a full refund outside 48 hours); not copied into trip copy. The home page also shows a Facebook feed with recent sighting posts; nothing from it was used. The site makes absolute claims such as sightings guaranteed, fastest vessels in Sydney, pioneer of small boat whale watching and the only adventure vessel permitted offshore; these were kept out of the copy. The about page text says Extreme has twin 425 horsepower engines while its table says 450; engine power is not used."
+}

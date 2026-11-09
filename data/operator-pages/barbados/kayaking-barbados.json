@@ -1,0 +1,158 @@
+{
+  "slug": "kayaking-barbados",
+  "name": "Kayaking Barbados",
+  "website": "https://kayakingbarbados.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Speightstown",
+  "category": "Sea kayak tours",
+  "summary": "Kayaking Barbados runs guided sea kayak tours on the north west coast of Barbados. Tours range from a 90 minute history paddle at Speightstown to a three hour trip along the cliffs and coves of the north. They also rent kayaks, paddleboards and snorkel gear, and deliver rental kayaks anywhere on the island.",
+  "standouts": [
+    "Tandem kayaks for two people sharing a boat",
+    "Rental kayaks delivered and picked up island-wide",
+    "Tripadvisor Five Star Rating"
+  ],
+  "contact": {
+    "phone": "+1 246 266 0951",
+    "email": "carlos@kayakingbarbados.com",
+    "address": null,
+    "whatsapp": "https://wa.me/12462660951"
+  },
+  "heroImage": "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/blob-0006.png",
+  "sourceUrls": [
+    "https://kayakingbarbados.com/",
+    "https://kayakingbarbados.com/tours",
+    "https://kayakingbarbados.com/rentals"
+  ],
+  "trips": [
+    {
+      "title": "Rugged North",
+      "kind": "kayak",
+      "summary": "A three hour kayak tour along the north west coast, where the sea has cut cliffs and coves into the shore. The trip can include a visit to an old fort, or some kayak surfing with a guide watching over you.",
+      "highlights": [
+        "Cliffs and coves of the north west coast",
+        "Visit to a long forgotten fort",
+        "Supervised kayak surfing"
+      ],
+      "duration": "3 hrs",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Tour price", "amount": 70, "currency": "USD", "note": "Shown as $70.00; page does not say whether per person or per kayak" }
+      ],
+      "priceFrom": 70,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/69102820_409475096435133_6643830706973838491_n.jpg"
+      ],
+      "bookingLinks": ["https://kayakingbarbados.com/tours"],
+      "sourceUrl": "https://kayakingbarbados.com/tours",
+      "checkNotes": "Currency not stated, shown as $; the page's PayPal Buy Now form is set to USD. Paid through a PayPal Buy Now button on the tours page. Page does not say whether the price is per person or per kayak. Departure point and times not stated."
+    },
+    {
+      "title": "West Coast Sunset",
+      "kind": "kayak",
+      "summary": "An evening paddle on the west coast, two hours long. The route passes Six Men's, one of the island's oldest fishing villages, and the condominiums built into the cliffs at Port Ferdinand.",
+      "highlights": [
+        "Evening paddle",
+        "Passes the fishing village at Six Men's",
+        "Passes Port Ferdinand"
+      ],
+      "duration": "2 hrs",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Tour price", "amount": 60, "currency": "USD", "note": "Shown as $60.00; page does not say whether per person or per kayak" }
+      ],
+      "priceFrom": 60,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/25011199_361856674287994_8240815224702107648_n.jpg"
+      ],
+      "bookingLinks": ["https://kayakingbarbados.com/tours"],
+      "sourceUrl": "https://kayakingbarbados.com/tours",
+      "checkNotes": "Currency not stated, shown as $; the page's PayPal Buy Now form is set to USD. Paid through a PayPal Buy Now button on the tours page. Page does not say whether the price is per person or per kayak. Departure point and start time not stated."
+    },
+    {
+      "title": "Historic Speightstown",
+      "kind": "kayak",
+      "summary": "A 90 minute paddle built around the history of Speightstown. The town was once a leading port with a direct link to England, guarded by nine forts along the north west coast, and the guide tells its story of war, piracy and survival along the way.",
+      "highlights": [
+        "History of Speightstown as a port",
+        "Nine forts once guarded the north west coast",
+        "Stories brought to life through re-creations"
+      ],
+      "duration": "1.5 hrs",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Tour price", "amount": 50, "currency": "USD", "note": "Shown as $50.00; page does not say whether per person or per kayak" }
+      ],
+      "priceFrom": 50,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/205c6b7095fb1d01e36829a1175821e8.JPG"
+      ],
+      "bookingLinks": ["https://kayakingbarbados.com/tours"],
+      "sourceUrl": "https://kayakingbarbados.com/tours",
+      "checkNotes": "Currency not stated, shown as $; the page's PayPal Buy Now form is set to USD. Paid through a PayPal Buy Now button on the tours page. Page does not say whether the price is per person or per kayak. Departure point and times not stated."
+    },
+    {
+      "title": "Rentals",
+      "kind": "other",
+      "summary": "Single and double kayaks, paddleboards and snorkel gear for hire by the day or the week. Rental kayaks are delivered and picked up anywhere on the island.",
+      "highlights": [
+        "Single and double kayaks",
+        "Paddleboards",
+        "Full face snorkel and fins",
+        "Daily or weekly hire"
+      ],
+      "duration": "Daily or weekly",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "Kayak Rental - Single Daily", "amount": 50, "currency": "USD", "note": "Shown as $50.00" },
+        { "label": "Kayak Rental - Single Weekly", "amount": 160, "currency": "USD", "note": "Shown as $160.00" },
+        { "label": "Kayak Rental - Double Daily", "amount": 75, "currency": "USD", "note": "Shown as $75.00" },
+        { "label": "Kayak Rental - Double Weekly", "amount": 200, "currency": "USD", "note": "Shown as $200.00" },
+        { "label": "Paddleboard Rental - Daily", "amount": 50, "currency": "USD", "note": "Shown as $50.00" },
+        { "label": "Paddleboard Rental - Weekly", "amount": 200, "currency": "USD", "note": "Shown as $200.00" },
+        { "label": "Full Face Snorkel - Daily", "amount": 10, "currency": "USD", "note": "Shown as $10.00" },
+        { "label": "Snorkel Fins - Daily", "amount": 10, "currency": "USD", "note": "Shown as $10.00" }
+      ],
+      "priceFrom": 50,
+      "includes": ["Kayak delivery and pickup island-wide"],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/30603845_457255098065204_163105716687601664_n.jpg",
+        "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/aa101ee22d6edf5e928d608b8c6fd848.JPG",
+        "https://img1.wsimg.com/isteam/ip/f80605d0-1290-4dbb-a47f-adb80f6b8c9d/afbd0461769e57b804ced177daff765b.jpg"
+      ],
+      "bookingLinks": ["https://kayakingbarbados.com/rentals"],
+      "sourceUrl": "https://kayakingbarbados.com/rentals",
+      "checkNotes": "Groups the eight items on the Rentals page, each with its own PayPal Buy Now button. Currency not stated, shown as $; the page's PayPal forms are set to USD. priceFrom is the single kayak daily rate; snorkel gear is $10.00 a day. Delivery and pickup is stated on the home page for kayak rentals."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "No address or launch point on the site; town set to Speightstown from the Historic Speightstown tour and the north west coast routes, and matches the batch list base (Sand Street, Speightstown). Contact form on the home page is protected by reCAPTCHA (not used). Site footer reads Copyright 2026 and the rentals page has an image uploaded in July 2026, so the site is current. Home page links a TripAdvisor review page; not opened."
+}

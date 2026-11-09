@@ -1,0 +1,268 @@
+{
+  "slug": "seahorse-divers-barbados",
+  "name": "Seahorse Divers Barbados",
+  "website": "https://www.seahorsediversbb.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "St Lawrence Gap",
+  "category": "Scuba diving",
+  "summary": "A small dive shop by the entrance to St Lawrence Gap, run by dive leader David Hutson, who has more than 30 years in the industry. There is one boat trip each morning with two dives on south coast reefs and wrecks, in groups of up to six certified divers or three beginners. Bookings are by email or WhatsApp message, and payment is cash only.",
+  "standouts": [
+    "Owner David Hutson has been in the diving industry for over 30 years",
+    "Small groups: maximum 6 certified divers or 3 Discover Scuba divers per trip",
+    "18 south coast dive sites listed, including the six wrecks of Carlisle Bay Marine Park",
+    "Private and small group diving trips"
+  ],
+  "contact": {
+    "phone": "+1 246 230 7485",
+    "email": "info@seahorsediversbb.com",
+    "address": "St. Lawrence Main Road (Highway 7), Christ Church, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://static.wixstatic.com/media/1091f2_ac47b9fbe68b40dfa6fd9da63be7f8e3~mv2.jpg",
+  "sourceUrls": [
+    "https://www.seahorsediversbb.com/",
+    "https://www.seahorsediversbb.com/sitemap.xml",
+    "https://www.seahorsediversbb.com/pages-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Certified Divers",
+      "kind": "dive",
+      "summary": "A morning boat trip with two dives for certified divers, on south coast sites such as the Carlisle Bay wrecks, Friar's Craig, Castle Bank and The Muff. Groups are kept to six divers. Single dives, same-day two-tank dives and packages of up to ten dives are offered, plus a short refresher.",
+      "highlights": [
+        "Two dives each morning, Monday to Saturday",
+        "Maximum of 6 certified divers per trip",
+        "Sites include Carlisle Bay Marine Park, Friar's Craig, Castle Bank, Mount Charlie and The Muff",
+        "Transport back to the hotel offered in select areas"
+      ],
+      "duration": "Boat leaves at 8:30am and returns around 12:15pm",
+      "durationMinutes": 225,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": "Monday to Saturday; closed Sundays and public holidays",
+      "departsFrom": "Seahorse Divers shop, St. Lawrence Main Road (Highway 7), Christ Church",
+      "prices": [
+        {
+          "label": "1 Tank Dive",
+          "amount": 80,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "1 Tank Dive",
+          "amount": 160,
+          "currency": "BBD",
+          "note": null
+        },
+        {
+          "label": "2 Tank Dive",
+          "amount": 140,
+          "currency": "USD",
+          "note": "Completed the same day"
+        },
+        {
+          "label": "2 Tank Dive",
+          "amount": 280,
+          "currency": "BBD",
+          "note": "Completed the same day"
+        },
+        {
+          "label": "3 Dive Package",
+          "amount": 200,
+          "currency": "USD",
+          "note": "No sharing of dive packages"
+        },
+        {
+          "label": "3 Dive Package",
+          "amount": 400,
+          "currency": "BBD",
+          "note": "No sharing of dive packages"
+        },
+        {
+          "label": "4 Dive Package",
+          "amount": 255,
+          "currency": "USD",
+          "note": "No sharing of dive packages"
+        },
+        {
+          "label": "4 Dive Package",
+          "amount": 510,
+          "currency": "BBD",
+          "note": "No sharing of dive packages"
+        },
+        {
+          "label": "5 Dive Package",
+          "amount": 310,
+          "currency": "USD",
+          "note": "No sharing of dive packages"
+        },
+        {
+          "label": "5 Dive Package",
+          "amount": 620,
+          "currency": "BBD",
+          "note": "No sharing of dive packages"
+        },
+        {
+          "label": "6 Dive Package",
+          "amount": 390,
+          "currency": "USD",
+          "note": "No sharing of dive packages"
+        },
+        {
+          "label": "6 Dive Package",
+          "amount": 780,
+          "currency": "BBD",
+          "note": "No sharing of dive packages"
+        },
+        {
+          "label": "7 Dive Package",
+          "amount": 440,
+          "currency": "USD",
+          "note": "No sharing of dive packages"
+        },
+        {
+          "label": "7 Dive Package",
+          "amount": 880,
+          "currency": "BBD",
+          "note": "No sharing of dive packages"
+        },
+        {
+          "label": "8 Dive Package",
+          "amount": 485,
+          "currency": "USD",
+          "note": "No sharing of dive packages"
+        },
+        {
+          "label": "8 Dive Package",
+          "amount": 970,
+          "currency": "BBD",
+          "note": "No sharing of dive packages"
+        },
+        {
+          "label": "9 Dive Package",
+          "amount": 530,
+          "currency": "USD",
+          "note": "No sharing of dive packages"
+        },
+        {
+          "label": "9 Dive Package",
+          "amount": 1060,
+          "currency": "BBD",
+          "note": "No sharing of dive packages"
+        },
+        {
+          "label": "10 Dive Package",
+          "amount": 575,
+          "currency": "USD",
+          "note": "No sharing of dive packages"
+        },
+        {
+          "label": "10 Dive Package",
+          "amount": 1150,
+          "currency": "BBD",
+          "note": "No sharing of dive packages"
+        },
+        {
+          "label": "Refresher",
+          "amount": 15,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "Refresher",
+          "amount": 30,
+          "currency": "BBD",
+          "note": null
+        }
+      ],
+      "priceFrom": 80,
+      "includes": [],
+      "bring": [
+        "A change of dry clothes for the ride back to the hotel if transport is provided"
+      ],
+      "requirements": "Certified divers; arrive at the shop at 7:30am; bookings close 24 hours before diving",
+      "offer": {
+        "text": "Discount if you have your own equipment (tank and weight rental only)",
+        "conditions": "Stated on the price list; amount given there as a percentage",
+        "validUntil": null
+      },
+      "images": [
+        "https://static.wixstatic.com/media/1091f2_ac47b9fbe68b40dfa6fd9da63be7f8e3~mv2.jpg",
+        "https://static.wixstatic.com/media/1091f2_f36f0bd42eae4160852ea0f1265f07a0~mv2.jpg",
+        "https://static.wixstatic.com/media/1091f2_a4dc4fa907e5424a841b9003985473cd~mv2.jpg",
+        "https://static.wixstatic.com/media/1091f2_2bb28d5d377a48f3bf2b2717b50a234f~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.seahorsediversbb.com/",
+      "checkNotes": "Cash only, no credit card facilities. Bookings by email or WhatsApp message only (messages, no calls, to 1-(246) 824-6352); the page also has a booking request form. durationMinutes worked out from the stated 8:30am departure and return 'around 12:15pm'. No night dives, no certification courses or referral dives, no Nitrox. The site advises cruise ship passengers they cannot make the 7:30am meet time unless on an overnight ship."
+    },
+    {
+      "title": "Discover Scuba",
+      "kind": "dive",
+      "summary": "A first dive for beginners with no certification. It includes a lesson, a practice session and one dive, or two dives on the same day with the +1 Dive option. Groups are limited to three people.",
+      "highlights": [
+        "Lesson, practice session and 1 dive",
+        "Option to add a second dive the same day",
+        "Maximum of 3 Discover Scuba divers per trip"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [
+        "08:30"
+      ],
+      "season": "Monday to Saturday; closed Sundays and public holidays",
+      "departsFrom": "Seahorse Divers shop, St. Lawrence Main Road (Highway 7), Christ Church",
+      "prices": [
+        {
+          "label": "Discover Scuba",
+          "amount": 125,
+          "currency": "USD",
+          "note": "Lesson, practice session and 1 dive"
+        },
+        {
+          "label": "Discover Scuba",
+          "amount": 250,
+          "currency": "BBD",
+          "note": "Lesson, practice session and 1 dive"
+        },
+        {
+          "label": "Discover Scuba +1 Dive",
+          "amount": 180,
+          "currency": "USD",
+          "note": "Lesson, practice session and 2 dives, completed the same day"
+        },
+        {
+          "label": "Discover Scuba +1 Dive",
+          "amount": 360,
+          "currency": "BBD",
+          "note": "Lesson, practice session and 2 dives, completed the same day"
+        }
+      ],
+      "priceFrom": 125,
+      "includes": [
+        "Lesson",
+        "Practice session",
+        "1 dive (2 dives with Discover Scuba +1 Dive)"
+      ],
+      "bring": [
+        "A change of dry clothes for the ride back to the hotel if transport is provided"
+      ],
+      "requirements": "Uncertified beginners and first-time divers; booking form asks about asthma, physical limitations, heart condition and pregnancy",
+      "offer": null,
+      "images": [
+        "https://static.wixstatic.com/media/1091f2_a4dc4fa907e5424a841b9003985473cd~mv2.jpg",
+        "https://static.wixstatic.com/media/1091f2_2bb28d5d377a48f3bf2b2717b50a234f~mv2.jpg",
+        "https://static.wixstatic.com/media/1091f2_f36f0bd42eae4160852ea0f1265f07a0~mv2.jpg",
+        "https://static.wixstatic.com/media/1091f2_ac47b9fbe68b40dfa6fd9da63be7f8e3~mv2.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.seahorsediversbb.com/",
+      "checkNotes": "Departure time taken from the single daily boat: the site says 'One trip a day (morning) - 2 dives' and the boat leaves at 8:30am. Cash only. Booking by email or WhatsApp message, or the Discover Scuba booking request form on the page."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Single-page Wix site. Phone 1-246-230-7485 is listed in the footer, but the booking section says bookings are by email or WhatsApp messages only, to 1-(246) 824-6352 (no calls); no wa.me link on the site. Closed dates listed through December 2027, so the business is trading. Footer reads 'Seahorse Divers (Barbados) Inc' and the page title 'Seahorse Divers (Barbados) Ltd'."
+}

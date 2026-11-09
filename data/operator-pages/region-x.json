@@ -1,0 +1,1349 @@
+{
+  "slug": "region-x",
+  "name": "Region X",
+  "website": "https://regionx.com.au",
+  "rezdyAlias": "regionx",
+  "state": "NSW",
+  "town": "Batemans Bay",
+  "category": "Sea kayak tours",
+  "summary": "Region X runs guided sea kayak, walking and kayak camping trips from Batemans Bay on the NSW South Coast. Short tours include oyster tasting on the Clyde River, glass bottom kayaks in a marine sanctuary and a sunset pizza paddle. They also hire kayaks at Mossy Point and lead longer journeys in Murramarang National Park and further afield.",
+  "standouts": [
+    "Ecotourism Certification from Ecotourism Australia",
+    "Nine-time Tripadvisor Travellers' Choice winner",
+    "Running kayak trips around Batemans Bay since 2006",
+    "Supports seabird breeding field science and runs marine debris kayak clean-ups"
+  ],
+  "contact": {
+    "phone": "1300 001 060",
+    "email": "info@regionx.com.au",
+    "address": null
+  },
+  "heroImage": "https://regionx.com.au/wp-content/uploads/2021/07/hero-kayak-01.jpg",
+  "sourceUrls": [
+    "https://regionx.com.au/",
+    "https://regionx.com.au/contact/",
+    "https://regionx.com.au/about/",
+    "https://regionx.com.au/Sustainability/",
+    "https://regionx.com.au/gift-cards/",
+    "https://regionx.com.au/programs/",
+    "https://regionx.com.au/programs/skills-sessions/",
+    "https://regionx.com.au/programs/young-at-heart-kayak-program-2/",
+    "https://regionx.com.au/programs/region-x-memberships/",
+    "https://regionx.com.au/hire/kayak-hire-at-batemans-bay/",
+    "https://regionx.com.au/tours/short-tours/clyde-river-oyster-tasting-kayak-tour/",
+    "https://regionx.com.au/tours/short-tours/glass-bottom-kayak-tour-batemans-bay/",
+    "https://regionx.com.au/tours/short-tours/sunset-pizza-paddle/",
+    "https://regionx.com.au/tours/half-day-tours/half-day-sea-kayak-tour/",
+    "https://regionx.com.au/tours/half-day-tours/sea-kayak-tour-the-tollgate-islands-batemans-bay/",
+    "https://regionx.com.au/tours/half-day-tours/snorkel-from-a-kayak-tour/",
+    "https://regionx.com.au/tours/day-tours/canberra-to-coast-day-tour-with-oyster-tasting-kayak-experiences/",
+    "https://regionx.com.au/tours/day-tours/day-walk-murramarang-national-park/",
+    "https://regionx.com.au/tours/day-tours/day-walk-pigeon-house-mountain-morton-national-park/",
+    "https://regionx.com.au/tours/multi-day-tours/overnight-kayak-camping-tour-departing-batemans-bay/",
+    "https://regionx.com.au/tours/multi-day-tours/3-day-clyde-river-guided-paddle/",
+    "https://regionx.com.au/tours/multi-day-tours/overnight-kayak-camping-canberra-to-coast/",
+    "https://regionx.com.au/tours/multi-day-tours/3-day-murramarang-coast-journey-departing-batemans-bay/",
+    "https://regionx.com.au/tours/multi-day-tours/3-day-murramarang-coast-journey-departing-canberra/",
+    "https://regionx.com.au/tours/multi-day-tours/run-wild-a-trail-running-escape-in-murramarang-national-park/",
+    "https://regionx.com.au/tours/self-guided/3-day-clyde-river-self-guided-paddle/",
+    "https://regionx.com.au/tours/self-guided/murramarang-shuttle-service/",
+    "https://regionx.com.au/hire/kayak-hire/",
+    "https://regionx.com.au/destinations/ningaloo-western-australia/",
+    "https://regionx.com.au/destinations/fiji/",
+    "https://regionx.com.au/destinations/hinchinbrook-queensland/",
+    "https://regionx.com.au/destinations/the-arctic/",
+    "https://regionx.com.au/destinations/costa-rica/",
+    "https://regionx.com.au/programs/skills-sit-on-top-part-1/"
+  ],
+  "trips": [
+    {
+      "title": "Oyster Tasting Kayak Tour – Batemans Bay",
+      "kind": "kayak",
+      "summary": "A two hour guided paddle on the Clyde River estuary that stops at a working oyster farm. You meet the growers, watch a shucking demonstration and taste several oyster varieties, then paddle through the leases and the 'Oyster Village'. The paddling distance is short and suits most ages and abilities.",
+      "highlights": [
+        "Meet a 4th generation oyster farmer",
+        "Oyster tasting and a shucking demonstration",
+        "Paddle through the oyster leases of the Clyde River",
+        "Short paddle in double sea kayaks"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [
+        "10:00",
+        "13:00"
+      ],
+      "season": null,
+      "departsFrom": "Banks of the Clyde River, Batemans Bay",
+      "prices": [
+        {
+          "label": "Kids, from",
+          "amount": 119,
+          "currency": "AUD",
+          "note": "Site text reads 'Price: Kids from $119'"
+        },
+        {
+          "label": "Members, from",
+          "amount": 89,
+          "currency": "AUD",
+          "note": "Region X members"
+        }
+      ],
+      "priceFrom": 119,
+      "includes": [
+        "Fully guided kayak tour",
+        "All kayaking equipment",
+        "A kayaking lesson",
+        "Splash jacket",
+        "'Meet an Oyster Farmer'",
+        "A selection of oysters for oyster tasting",
+        "Access to the oyster farms",
+        "A digital photo album of your experience"
+      ],
+      "bring": [
+        "Clothes you're happy to get dripped on (activewear)",
+        "Sun protection (hat, sunscreen, sunglasses)",
+        "A warm layer and a beanie in colder months",
+        "A bottle of water",
+        "Water shoes, or old sneakers"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/10/Oysters_HERO.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Oyster_01.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/Copy-of-Oyster_smile.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/oysterdrone2.jpg"
+      ],
+      "bookingLinks": [
+        "https://regionx.rezdy.com/calendarWidget/73314?iframe=true"
+      ],
+      "sourceUrl": "https://regionx.com.au/tours/short-tours/clyde-river-oyster-tasting-kayak-tour/",
+      "checkNotes": "The only non-member price is labelled 'Kids from $119'; this looks like a site typo for an adult or per-person price, so priceFrom uses 119. Confirm the adult price in the booking widget. Itinerary heading reads '10AM AND 1PM DAILY'."
+    },
+    {
+      "title": "Glass Bottom Kayak Tour, Batemans Bay",
+      "kind": "kayak",
+      "summary": "A two hour family tour in stable double kayaks fitted with clear portholes, in the Cullendulla Creek marine sanctuary just north of Batemans Bay. Guides help you spot stingrays, crabs, fish and birds, and talk about how First Nations people used the area. Snacks are shared in the mangroves or on the sand flats, depending on the tide.",
+      "highlights": [
+        "Double kayaks with Perspex portholes",
+        "Cullendulla Creek Nature Reserve marine sanctuary",
+        "Suited to first time kayakers and families",
+        "Snacks included"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Cullendulla Creek Nature Reserve, just north of Batemans Bay",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 119,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Members, from",
+          "amount": 89,
+          "currency": "AUD",
+          "note": "Region X members"
+        }
+      ],
+      "priceFrom": 119,
+      "includes": [
+        "Fully guided 2 hour discovery tour",
+        "All kayaking equipment",
+        "A kayaking lesson",
+        "Splash jacket",
+        "Snacks",
+        "A digital photo album of your experience"
+      ],
+      "bring": [
+        "Clothes you are happy to get wet (activewear)",
+        "Sun protection (hat, sunscreen, sunglasses)",
+        "A warm layer, towel and change of clothes for after the tour",
+        "Water shoes, or old sneakers",
+        "A bottle of water"
+      ],
+      "requirements": "Recommended for ages 3 and up",
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/10/glass_bottom_hero_bigger.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/DSCN1595.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/52203756921_89944ea657_o-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://regionx.rezdy.com/calendarWidget/9142?iframe=true"
+      ],
+      "sourceUrl": "https://regionx.com.au/tours/short-tours/glass-bottom-kayak-tour-batemans-bay/",
+      "checkNotes": "Site says 'Morning and Afternoon tours DAILY', with start times depending on daylight saving and given in the order confirmation, so no times are listed."
+    },
+    {
+      "title": "Pizza Paddle – Sunset Kayak Tour",
+      "kind": "kayak",
+      "summary": "A two hour guided paddle on the Clyde River at sunset, with pizza from a Batemans Bay waterfront restaurant delivered to your kayak. After dinner the guide leads you into the Clyde River National Park after dark and talks about local history, oyster farming, gold and timber. Vegetarian, vegan and gluten free options are available.",
+      "highlights": [
+        "Pizza delivered to your kayak on the water",
+        "Sunset and after dark paddle on the Clyde River",
+        "Look for phosphorescence and nocturnal marine life",
+        "Vegetarian, vegan and gluten free options"
+      ],
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": "Available all year, times adjusted for sunset",
+      "departsFrom": "Clyde River, Batemans Bay",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 129,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Members, from",
+          "amount": 99,
+          "currency": "AUD",
+          "note": "Region X members"
+        }
+      ],
+      "priceFrom": 129,
+      "includes": [
+        "Fully guided sunset kayak tour",
+        "All kayaking equipment",
+        "A kayaking lesson",
+        "Splash jacket and reflective vest",
+        "Pizza, either a large shared between 2 or a small for 1",
+        "A digital photo album of your experience"
+      ],
+      "bring": [
+        "Clothes you're happy to get dripped on (activewear)",
+        "A warm layer and a beanie in colder months",
+        "Sun protection in warmer months",
+        "Water shoes, or old sneakers",
+        "A bottle of water",
+        "A headtorch"
+      ],
+      "requirements": "Suitable for ages 3 and above",
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/10/Pizza_HERO.jpg",
+        "https://regionx.com.au/wp-content/uploads/2021/10/Pizza_Suntset_2021.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/51112379673_ddea0c23bf_o-scaled.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/51842709110_457ba45512_o.jpg"
+      ],
+      "bookingLinks": [
+        "https://regionx.rezdy.com/calendarWidget/10389?iframe=true"
+      ],
+      "sourceUrl": "https://regionx.com.au/tours/short-tours/sunset-pizza-paddle/",
+      "checkNotes": "Departure time is season dependent; the sample itinerary runs from about 5:30pm to 7:30pm. Season text comes from the homepage card."
+    },
+    {
+      "title": "Half Day Sea Kayak Tour, Batemans Bay",
+      "kind": "kayak",
+      "summary": "A five hour guided sea kayak trip along the Batemans Bay coastline in double sit-in sea kayaks, split into two easy legs. You stop in a sheltered cove for a morning tea picnic with time to snorkel, swim or walk. The route changes with the conditions, and migrating whales can be seen in season.",
+      "highlights": [
+        "Two kayak legs split by a morning tea picnic",
+        "Optional snorkel, gear provided (no wetsuits)",
+        "Seals, dolphins and migrating whales in season",
+        "Route chosen on the day to suit conditions"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [],
+      "season": "All year, on demand, weather permitting",
+      "departsFrom": "Varies with conditions, generally within 20km of Batemans Bay; confirmed by phone or SMS the afternoon before",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 159,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Members, from",
+          "amount": 129,
+          "currency": "AUD",
+          "note": "Region X members"
+        }
+      ],
+      "priceFrom": 159,
+      "includes": [
+        "Guided 5 hour coastal experience",
+        "2 easy kayak legs, split by morning tea",
+        "All kayaking gear",
+        "Dry bags for your belongings",
+        "Optional snorkel session at morning tea, own gear or theirs (wetsuits not supplied)",
+        "Morning tea picnic",
+        "Photos of your experience"
+      ],
+      "bring": [
+        "Swimmers",
+        "Towel",
+        "Goggles, if you wish"
+      ],
+      "requirements": "Not suitable for children under 9. Equipment limits: waist max 135cm, chest max 125cm, seat width 45cm, double kayak max load 230kg",
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2021/07/hero-beach-01.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/Solo_Half_Day.jpg",
+        "https://regionx.com.au/wp-content/uploads/2021/07/hero-kayak-01.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/seal-swim-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://regionx.rezdy.com/calendarWidget/12172?iframe=true"
+      ],
+      "sourceUrl": "https://regionx.com.au/tours/half-day-tours/half-day-sea-kayak-tour/",
+      "checkNotes": "Whale season is stated three ways: 'August to November' (page highlights), 'Between June and November' (page body) and 'July to November' (homepage). Itinerary shows a 7:30 to 8am meeting time, but the meeting point and time are confirmed the day before, so no fixed time is listed. Open water tour, conditions dependent."
+    },
+    {
+      "title": "Sea Kayak Tollgate Islands",
+      "kind": "kayak",
+      "summary": "A five hour guided paddle for people who have kayaked before, crossing about an hour of open water to the protected Tollgate Islands off Batemans Bay. You circle the islands to see cliffs, grottos and seabird colonies, as landing is not allowed, then rest at a mainland beach for morning tea. The trip finishes by midday.",
+      "highlights": [
+        "Paddle offshore to the Tollgate Islands sanctuary",
+        "Caves, grottos and overhung ledges",
+        "Seabirds including little penguins",
+        "Morning tea picnic on a mainland beach"
+      ],
+      "duration": "5 hours",
+      "durationMinutes": 300,
+      "departureTimes": [],
+      "season": "All year, on demand, weather permitting",
+      "departsFrom": "Maloneys Beach or Wimbie Beach, chosen the day before depending on conditions",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 179,
+          "currency": "AUD",
+          "note": "Site shows 'Price: $179'"
+        },
+        {
+          "label": "Members, from",
+          "amount": 159,
+          "currency": "AUD",
+          "note": "Region X members"
+        }
+      ],
+      "priceFrom": 179,
+      "includes": [
+        "Guided 5 hour kayak journey",
+        "All kayaking gear",
+        "Dry bags for your belongings",
+        "Optional anchor and snorkel, own gear or theirs (wetsuits not supplied)",
+        "Morning tea picnic",
+        "Photos of your experience"
+      ],
+      "bring": [],
+      "requirements": "Previous kayaking experience needed. No kids or non-swimmers; not suitable for children under 12",
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/10/Tollgates_HERO.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Tollgates_Caves.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Tollgates_01.jpg"
+      ],
+      "bookingLinks": [
+        "https://regionx.rezdy.com/calendarWidget/20044?iframe=true"
+      ],
+      "sourceUrl": "https://regionx.com.au/tours/half-day-tours/sea-kayak-tour-the-tollgate-islands-batemans-bay/",
+      "checkNotes": "Meeting time is 'TBA (season pending)'. Price is shown as a flat $179 rather than 'from'; labelled Adult here for clarity. Same whale season conflict as the Half Day tour (August to November vs June to November). Homepage card says 'Advanced Kayakers Only'."
+    },
+    {
+      "title": "Snorkel from a kayak – Batemans Bay",
+      "kind": "snorkel",
+      "summary": "A three hour trip in sit-on-top kayaks to a sheltered reef or shoreline, where the guides anchor the kayaks and you slide in to snorkel. Expect kelp, fish, urchins, rays and sometimes seals, then hot drinks and muffins afterwards. Wetsuits and snorkel gear are supplied, and non-swimmers can join if they keep their life jacket on.",
+      "highlights": [
+        "Snorkel from anchored kayaks",
+        "Kelp forest and cold water marine life",
+        "Water from about 16 degrees in winter to about 22 in April",
+        "Hot drink and snack included"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [
+        "08:00"
+      ],
+      "season": "All year, on demand, weather permitting",
+      "departsFrom": "Varies with conditions, generally within 20km of Batemans Bay; confirmed by phone or SMS the afternoon before",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 139,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Members, from",
+          "amount": 109,
+          "currency": "AUD",
+          "note": "Region X members"
+        }
+      ],
+      "priceFrom": 139,
+      "includes": [
+        "Guided 3 hour kayak snorkel journey",
+        "All kayaking equipment",
+        "All snorkel gear (BYO welcome)",
+        "Wetsuit",
+        "Hot drink and a snack",
+        "Photos of your experience"
+      ],
+      "bring": [],
+      "requirements": "Suitable for first time kayakers and snorkellers, and for non-swimmers who keep their PFD (life jacket) on",
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/12/IMG_0917-1.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/12/IMG_1625.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/12/GOPR0502.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/seal-swim-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://regionx.rezdy.com/calendarWidget/525065?iframe=true"
+      ],
+      "sourceUrl": "https://regionx.com.au/tours/half-day-tours/snorkel-from-a-kayak-tour/",
+      "checkNotes": "Wetsuit is not in the 'Package Includes' list but the itinerary and homepage say wetsuits are provided. Visibility depends on wind, rain, swell and tides."
+    },
+    {
+      "title": "Canberra to Coast Day Tour with Oyster Tasting Kayak Experiences",
+      "kind": "tour",
+      "summary": "A guided day trip from Canberra to the coast, travelling through Bungendore and Braidwood. You see the kangaroos at Pebbly Beach in Murramarang National Park, have free time for lunch in Batemans Bay, then join the oyster tasting kayak tour on the Clyde River before returning to Canberra.",
+      "highlights": [
+        "Pickup from the Canberra CBD",
+        "Kangaroos at Pebbly Beach, Murramarang National Park",
+        "Oyster tasting kayak tour on the Clyde River",
+        "Back in Canberra around 5:30 to 6pm"
+      ],
+      "duration": "9 hours",
+      "durationMinutes": 540,
+      "departureTimes": [
+        "07:00"
+      ],
+      "season": null,
+      "departsFrom": "Your chosen Canberra CBD location",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 249,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 249,
+      "includes": [
+        "Transfer from Canberra to Batemans Bay and return",
+        "Fully guided experience",
+        "Oyster tasting kayak tour",
+        "Photos of your experience"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/10/canberra_to_coast_hero.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/IMG_8482.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Walks_Kanga.jpg"
+      ],
+      "bookingLinks": [
+        "https://regionx.rezdy.com/calendarWidget/30110?iframe=true"
+      ],
+      "sourceUrl": "https://regionx.com.au/tours/day-tours/canberra-to-coast-day-tour-with-oyster-tasting-kayak-experiences/",
+      "checkNotes": "Lunch is not included. Runs daily, subject to minimum numbers."
+    },
+    {
+      "title": "Day Walk with kayak lake crossing – Murramarang National Park",
+      "kind": "tour",
+      "summary": "A guided day walk on the Murramarang National Park coast, starting at South Durras, over rock platforms, cliff tops and long beaches. The group crosses Durras Lake on foot or by kayak and stops for a picnic lunch and a swim. Hotel transfers from Batemans Bay are included.",
+      "highlights": [
+        "Coastal walk in Murramarang National Park",
+        "Lake crossing by kayak",
+        "Morning tea and picnic lunch",
+        "Whales from the clifftops in season"
+      ],
+      "duration": "7 hours",
+      "durationMinutes": 420,
+      "departureTimes": [
+        "07:30"
+      ],
+      "season": null,
+      "departsFrom": "Hotel pickups in Batemans Bay; walk starts at South Durras",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 195,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 195,
+      "includes": [
+        "Hotel transfer",
+        "Guided day walk through the national park",
+        "Morning tea",
+        "Lake crossing by kayak",
+        "Picnic lunch",
+        "Photos of your experience"
+      ],
+      "bring": [],
+      "requirements": "Not recommended for anyone with knee, ankle, heart or lung conditions",
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/10/day-walk-hero.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Walks_03.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Walks_sandstone.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Walks_Kanga.jpg"
+      ],
+      "bookingLinks": [
+        "https://regionx.rezdy.com/190094/murramarang-national-park-day-tour-with-kayak-option?iframe=true"
+      ],
+      "sourceUrl": "https://regionx.com.au/tours/day-tours/day-walk-murramarang-national-park/",
+      "checkNotes": "Runs daily, minimum numbers required. Return to Batemans Bay about 3pm. Whale season stated as 'August to November' and 'Between June and November' on the same page."
+    },
+    {
+      "title": "Day Walk – Pigeon House Mountain Morton National Park",
+      "kind": "tour",
+      "summary": "A guided summit hike up Pigeon House Mountain in Morton National Park, with transfers from Batemans Bay or Ulladulla. The track is steep at the start and finishes with steel ladders to the summit, which looks over the Budawang wilderness and the coast. Afterwards the group swims in the upper Clyde River and has lunch.",
+      "highlights": [
+        "Summit views over the Budawangs and the coast",
+        "Steel ladders to the summit",
+        "Swim stop on the upper Clyde River",
+        "Morning tea and lunch included"
+      ],
+      "duration": "7 hours approx",
+      "durationMinutes": 420,
+      "departureTimes": [
+        "07:00"
+      ],
+      "season": "All year, on demand, weather permitting",
+      "departsFrom": "Group meeting point or hotel pickup in Batemans Bay or Ulladulla",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 139,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 139,
+      "includes": [
+        "Hotel pickup Batemans Bay or Ulladulla",
+        "Guides",
+        "Morning tea",
+        "Lunch",
+        "Return transfers"
+      ],
+      "bring": [],
+      "requirements": "NPWS Grade 4 track, rough and steep. Not suitable for children under 5. Not recommended for anyone with knee, ankle, heart or lung conditions",
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/10/pigeon_house-mountain_hero.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/50318869641_daf13e1dcf_o.jpg"
+      ],
+      "bookingLinks": [
+        "https://regionx.rezdy.com/calendarWidget/135003?iframe=true"
+      ],
+      "sourceUrl": "https://regionx.com.au/tours/day-tours/day-walk-pigeon-house-mountain-morton-national-park/",
+      "checkNotes": "Road access to the hike start can depend on conditions."
+    },
+    {
+      "title": "Overnight Kayak Camping Tour, Batemans Bay",
+      "kind": "kayak",
+      "summary": "A guided two day sea or river kayak trip from Batemans Bay with a night at a remote campsite. Guides cook all meals and supply tents and mattresses, and the afternoon is free for walking, snorkelling or swimming. The route is chosen on the weather and the campsites have few or no facilities.",
+      "highlights": [
+        "Night at a remote coastal or river campsite",
+        "All meals cooked by the guides",
+        "Tents and air mattresses supplied",
+        "Seals, dolphins and whales (June to November)"
+      ],
+      "duration": "2 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Batemans Bay",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 449,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 449,
+      "includes": [
+        "Fully guided 2 day kayak tour",
+        "Kayaking equipment and dry bags",
+        "Camping equipment: tent, air mattress",
+        "All meals from Day 1 morning tea to Day 2 lunch",
+        "Transfer to and from Batemans Bay",
+        "National Park entry",
+        "A digital photo album of your experience"
+      ],
+      "bring": [
+        "A comprehensive packing list is sent on booking",
+        "A good sleeping bag is recommended"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/07/JDS_0073.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/51657745696_a7349ce39b_o.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/kayak6-scaled.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/Coastal_Camp1.jpg"
+      ],
+      "bookingLinks": [
+        "https://regionx.rezdy.com/calendarWidget/164339?iframe=true"
+      ],
+      "sourceUrl": "https://regionx.com.au/tours/multi-day-tours/overnight-kayak-camping-tour-departing-batemans-bay/",
+      "checkNotes": "Homepage calls this the '2 Day Kayak Camping Tour - Batemans Bay Coast'. Exact route depends on the weather."
+    },
+    {
+      "title": "3 Day Clyde River Guided Kayak Camping",
+      "kind": "kayak",
+      "summary": "A guided three day kayak journey down Bhundoo, the Clyde River, from fresh water to the sea at Batemans Bay. Nights are spent at riverside camps including Bonnie Doon, with meals cooked by the guides. On the last day you paddle through working oyster leases and finish under the Batemans Bay Bridge.",
+      "highlights": [
+        "Paddle from fresh water to salt water",
+        "Riverside camps including Bonnie Doon",
+        "Oyster leases on the final day",
+        "No experience required"
+      ],
+      "duration": "3 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Seasonal rates: high season Sep to April, low season May to August",
+      "departsFrom": "Pickup in Batemans Bay; paddle starts at Shallow Crossing",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 899,
+          "currency": "AUD",
+          "note": "Seasonal rates apply"
+        }
+      ],
+      "priceFrom": 899,
+      "includes": [
+        "Fully guided 3 day kayak camping tour",
+        "A detailed lesson in kayak camping",
+        "Kayaking equipment and dry bags",
+        "Camping equipment: tent, air mattress",
+        "All meals from Day 1 morning tea to Day 3 lunch",
+        "Transfers to and from Batemans Bay",
+        "National Park entry",
+        "A digital photo album of your experience"
+      ],
+      "bring": [
+        "A comprehensive packing list is sent on booking",
+        "A good sleeping bag is recommended"
+      ],
+      "requirements": "No experience required; campsites have limited to no facilities",
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2023/09/IMG_3569-2-scaled.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/12/jds_0506_51878710418_o.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/12/jds_0451_51877676487_o.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/12/DSCN0061-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://regionx.rezdy.com/productsMonthlyCalendar/576548?iframe=true"
+      ],
+      "sourceUrl": "https://regionx.com.au/tours/multi-day-tours/3-day-clyde-river-guided-paddle/",
+      "checkNotes": "Season field holds the seasonal pricing periods as stated, not an operating season. Pickup time TBA."
+    },
+    {
+      "title": "Overnight Kayak Camping, from Canberra",
+      "kind": "kayak",
+      "summary": "The two day kayak camping trip with return transport from Canberra. Guides choose an ocean or river route on the weather, cook all meals and set up camp at a remote site. You are back in Canberra on the second afternoon.",
+      "highlights": [
+        "Return transfers from Canberra",
+        "Ocean or river route chosen on the weather",
+        "Night at a remote campsite",
+        "All camp meals included"
+      ],
+      "duration": "2 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Hotel pickup in Canberra",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 549,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 549,
+      "includes": [
+        "Transfers to and from Canberra",
+        "Fully guided 2 day kayak tour",
+        "All kayaking and camping equipment",
+        "All camp meals",
+        "Photos of your experience"
+      ],
+      "bring": [
+        "A full packing list is provided on request"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/07/IMG_7385.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/overnight-from-canberra-hero.jpg"
+      ],
+      "bookingLinks": [
+        "https://regionx.rezdy.com/calendarWidget/374763?iframe=true"
+      ],
+      "sourceUrl": "https://regionx.com.au/tours/multi-day-tours/overnight-kayak-camping-canberra-to-coast/",
+      "checkNotes": "Pickup time in Canberra is 'TBA depending on the season'. Hero image taken from the homepage card for this tour."
+    },
+    {
+      "title": "3 Day Murramarang Premium Journey – Departing Batemans Bay",
+      "kind": "tour",
+      "summary": "A guided three day walk through Murramarang National Park, carrying only a day pack while luggage is moved for you. You walk 10 to 16km a day over cliff tops, beaches and rainforest, cross Durras Lake by kayak and stay two nights in beachfront villas at Murramarang Resort. Meals are prepared by the guides or served at the resort.",
+      "highlights": [
+        "Day pack only, luggage transferred",
+        "10 to 16km of walking per day",
+        "Kayak crossing of Durras Lake",
+        "2 nights in villas at Murramarang Resort"
+      ],
+      "duration": "3 days",
+      "durationMinutes": null,
+      "departureTimes": [
+        "07:30"
+      ],
+      "season": "Every Wednesday and Sunday, February through to November, excluding public holidays",
+      "departsFrom": "Hotel pickups in Batemans Bay",
+      "prices": [
+        {
+          "label": "Adult",
+          "amount": 1750,
+          "currency": "AUD",
+          "note": "Twin share"
+        },
+        {
+          "label": "Child",
+          "amount": 1550,
+          "currency": "AUD",
+          "note": "Twin share"
+        }
+      ],
+      "priceFrom": 1750,
+      "includes": [
+        "Fully guided 3 day walk experience",
+        "2 nights accommodation in villas",
+        "Meals",
+        "Lake kayaking experience",
+        "Transfer to and from Batemans Bay",
+        "Photos of your experience"
+      ],
+      "bring": [
+        "A comprehensive packing list is sent on booking"
+      ],
+      "requirements": null,
+      "offer": {
+        "text": "Book a spring walk and get a free extra night in a beachfront cabin",
+        "conditions": null,
+        "validUntil": null
+      },
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2024/04/IMG_6684-scaled.jpg",
+        "https://regionx.com.au/wp-content/uploads/2026/08/22.jpg",
+        "https://regionx.com.au/wp-content/uploads/2026/08/20.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Walks_02.jpg"
+      ],
+      "bookingLinks": [
+        "https://regionx.rezdy.com/calendarWidget/181939?iframe=true"
+      ],
+      "sourceUrl": "https://regionx.com.au/tours/multi-day-tours/3-day-murramarang-coast-journey-departing-batemans-bay/",
+      "checkNotes": "Not included: flights, transfers to and from Batemans Bay before or after the tour, alcohol, travel insurance. Spring offer wording on this page differs from the site-wide 'Spring Discount' banner ('3rd night free'); offer has no stated end date."
+    },
+    {
+      "title": "3.5 Day Murramarang Coast Journey – Departing Canberra",
+      "kind": "tour",
+      "summary": "The guided Murramarang National Park walk with return transport from Canberra. You travel to Batemans Bay the afternoon before, then walk three days with a day pack while luggage is moved, staying two nights in villas at Murramarang Resort. The trip ends back in Canberra around 6pm on day four.",
+      "highlights": [
+        "Transfer from Canberra the afternoon before",
+        "3 walking days on cliff tops, beaches and rainforest",
+        "2 nights in villas at Murramarang Resort",
+        "Return to Canberra on day 4"
+      ],
+      "duration": "3.5 days, 3 nights + transfer afternoon",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Canberra",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 1350,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 1350,
+      "includes": [
+        "Transfer from Canberra to Batemans Bay the afternoon prior to the walk",
+        "Fully guided 3 day walk experience",
+        "2 nights accommodation in private villas",
+        "All meals from morning tea day 2 to lunch day 4",
+        "All activities",
+        "Photos of your experience",
+        "Return transfer to Canberra on day 4"
+      ],
+      "bring": [
+        "A comprehensive packing list is sent on booking"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/10/Day-Walk_HERO.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/IMG_8388.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/51908122856_7603618001_o.jpg"
+      ],
+      "bookingLinks": [
+        "https://regionx.rezdy.com/calendarWidget/374764?iframe=true"
+      ],
+      "sourceUrl": "https://regionx.com.au/tours/multi-day-tours/3-day-murramarang-coast-journey-departing-canberra/",
+      "checkNotes": "Not included: Batemans Bay accommodation and dinner on night 1, breakfast on day 2, flights, alcohol, travel insurance. The homepage card calls it a '3 Day' journey that 'includes city transfer, all meals and stunning accommodation', which conflicts with this page. The from price ($1350) is lower than the Batemans Bay departure ($1750 adult) for a longer trip; confirm."
+    },
+    {
+      "title": "Run Wild – a Trail run experience in Murramarang National Park",
+      "kind": "tour",
+      "summary": "A two and a half day trail running holiday based at the NRMA Murramarang Beachfront Holiday Resort in South Durras. Guides lead runs of up to about 40km in total along beaches, headlands and up Durras Mountain, with a support vehicle and shorter or flat options. Non-runners are welcome and stay in the same villas.",
+      "highlights": [
+        "Up to about 40km of trail, can be shortened",
+        "Run guide plus vehicle support",
+        "Beachfront villas at South Durras",
+        "Options for non-runners"
+      ],
+      "duration": "2.5 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Most Fridays starting October",
+      "departsFrom": "NRMA Murramarang Beachfront Holiday Resort, South Durras",
+      "prices": [
+        {
+          "label": "2026 intro offer",
+          "amount": 1750,
+          "currency": "AUD",
+          "note": "Based on twin share"
+        }
+      ],
+      "priceFrom": 1750,
+      "includes": [
+        "Up to 40+ km of trail run options",
+        "2 nights accommodation in resort villas, twin, triple or quad share",
+        "All meals from afternoon tea day 1 to lunch day 3",
+        "Trail run guides",
+        "Run vehicle support",
+        "Non-runner options",
+        "Photos of your experience"
+      ],
+      "bring": [
+        "Your own trail food and drink such as gels, hydration mix and bars",
+        "Minimum safety equipment for running (GPX files are shared)"
+      ],
+      "requirements": null,
+      "offer": {
+        "text": "2026 intro offer: $1750 based on twin share",
+        "conditions": null,
+        "validUntil": null
+      },
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2026/08/55452739427_183ba616e0_k.jpg",
+        "https://regionx.com.au/wp-content/uploads/2026/08/55453029962_a2d046bb97_c.jpg",
+        "https://regionx.com.au/wp-content/uploads/2023/09/mini-bus-pickup.jpg"
+      ],
+      "bookingLinks": [
+        "https://regionx.rezdy.com/calendarWidget/742355?iframe=true"
+      ],
+      "sourceUrl": "https://regionx.com.au/tours/multi-day-tours/run-wild-a-trail-running-escape-in-murramarang-national-park/",
+      "checkNotes": "Check-in from 2pm on day 1. Not a marine trip; included because the operator sells it. The site-wide spring banner also offers '3rd night free' on this trip."
+    },
+    {
+      "title": "Multi-Day Clyde River Self Guided Paddle",
+      "kind": "kayak",
+      "summary": "A self guided kayak camping trip on Bhundoo, the Clyde River, over two to four days, with three the most popular. You book a base pack covering the shuttle, trip planning, launch day help and on-call support, then add kayaks and camping gear as extras. You book your own campsites and pack your own food.",
+      "highlights": [
+        "Paddle at your own pace, 2 to 4 days",
+        "Shuttle on unsealed roads to the river start",
+        "On-call support and river pickup if needed",
+        "Can be paddled year round"
+      ],
+      "duration": "2-4 Days (3 days most popular)",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Can be paddled year round",
+      "departsFrom": "Batemans Bay area; they meet you at your planned finish point and shuttle you to the river",
+      "prices": [
+        {
+          "label": "Base pack, from",
+          "amount": 500,
+          "currency": "AUD",
+          "note": "Plus extras (kayaks, gear, extra shuttle seats)"
+        }
+      ],
+      "priceFrom": 500,
+      "includes": [
+        "One-way shuttle for up to 4 people",
+        "Transport of kayaks and equipment",
+        "Pre-trip briefing and planning support",
+        "Launch-day assistance from a kayak guide",
+        "On-call river support during the trip",
+        "Area map and local information"
+      ],
+      "bring": [
+        "Your own first aid kit",
+        "Food",
+        "Personal items",
+        "Campsite bookings made in advance"
+      ],
+      "requirements": "Kayaks, paddles, safety and camping gear are not in the base pack and must be added as extras. Safety and weather checks are the paddler's responsibility",
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/12/DSCN0061-1.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/SelfGuided_Clyde_01.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/12/7ca8d65e-e9a5-4d17-af8f-5cb975a5353b_51878649161_o.jpg"
+      ],
+      "bookingLinks": [
+        "https://regionx.rezdy.com/calendarWidget/739471?iframe=true"
+      ],
+      "sourceUrl": "https://regionx.com.au/tours/self-guided/3-day-clyde-river-self-guided-paddle/",
+      "checkNotes": "Extras pricing is only in the booking widget. Plan for about 3 to 4 hours of paddling per day, per the site."
+    },
+    {
+      "title": "Shuttle Service, Murramarang South Coast Walk",
+      "kind": "other",
+      "summary": "A vehicle shuttle for people walking the Murramarang Coast Walk on their own. Most walkers leave their car at Pretty Beach and are collected at Maloneys Beach at the end, then driven back. Walking gear can also be rented.",
+      "highlights": [
+        "Collection time agreed in advance",
+        "Usual route Maloneys Beach back to Pretty Beach",
+        "Optional drinks at the end point",
+        "Walking equipment for rent"
+      ],
+      "duration": "2 hours approx",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Chosen pickup location; usually Maloneys Beach",
+      "prices": [
+        {
+          "label": "Up to 4 walkers, from",
+          "amount": 250,
+          "currency": "AUD",
+          "note": null
+        },
+        {
+          "label": "Per person, 5 to 18 walkers",
+          "amount": 60,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 60,
+      "includes": [
+        "Flexible collection time, chosen prior",
+        "Driver and vehicle at chosen location",
+        "Transfer back to your car or accommodation",
+        "Optional drinks at the end point"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2023/09/mini-bus-pickup.jpg"
+      ],
+      "bookingLinks": [
+        "https://regionx.rezdy.com/calendarWidget/411293?iframe=true"
+      ],
+      "sourceUrl": "https://regionx.com.au/tours/self-guided/murramarang-shuttle-service/",
+      "checkNotes": "Transport service rather than a tour. priceFrom uses the per person rate, which applies only to groups of 5 to 18."
+    },
+    {
+      "title": "Kayak Hire – the boatshed, Mossy Point",
+      "kind": "other",
+      "summary": "Self guided kayak hire from the boatshed at Mossy Point on the Tomaga River, about 20 minutes south of Batemans Bay. Staff give a short lesson and kit you out with a life jacket and dry bag, then you explore the estuary, mangroves and sand flats at your own pace. Large stingrays often feed at the boatshed, and dogs are welcome.",
+      "highlights": [
+        "Single, double or double with a child seat",
+        "Kayaking lesson before you go",
+        "Stingrays feed at the boatshed",
+        "Coffee and local food at the boatshed"
+      ],
+      "duration": "From 1 hour",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "The Boatshed, Mossy Point, Tomaga River",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 40,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 40,
+      "includes": [
+        "Stable sit-on-top kayaks",
+        "PFD (life jacket)",
+        "Dry bag for your personal items",
+        "Kayaking lesson",
+        "Local knowledge",
+        "A discount on a future visit"
+      ],
+      "bring": [
+        "Clothes you are happy to get wet (activewear)",
+        "Sun protection (hat, sunscreen, sunglasses)",
+        "A warm layer, towel and change of clothes for after the tour",
+        "Water shoes, or old sneakers",
+        "A bottle of water"
+      ],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/07/hire_groups.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/Hire_02.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/hero-01.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/children-kayak-found-stingray.jpg"
+      ],
+      "bookingLinks": [
+        "https://regionx.rezdy.com/calendarWidget/9368?iframe=true"
+      ],
+      "sourceUrl": "https://regionx.com.au/hire/kayak-hire/",
+      "checkNotes": "Homepage says hire runs between 7:30am and 2:30pm, 2 hours recommended. The future-visit discount is stated on the site as '10%'; wording kept without the figure. The hire page's 'What we provide' list (snacks, splash jacket, photo album) looks copied from the glass bottom tour; not used."
+    },
+    {
+      "title": "Equipment Hire – collection Batemans Bay",
+      "kind": "other",
+      "summary": "Day and multi-day hire of kayaks, snorkel gear, wetsuits and camping equipment, collected from the warehouse at 6 Russell St, Batemans Bay. It suits people with some experience who want to run their own trip. You need roof racks or a trailer unless you book the shuttle.",
+      "highlights": [
+        "Sit-in and sit-on-top kayaks",
+        "Snorkel gear and wetsuits",
+        "Tents, kitchen and safety gear including EPIRBs",
+        "Hire in 24 hour periods"
+      ],
+      "duration": "From day to multi day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "6 Russell St, Batemans Bay",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 20,
+          "currency": "AUD",
+          "note": "Per item rates not shown on the page"
+        }
+      ],
+      "priceFrom": 20,
+      "includes": [
+        "Your choice of equipment",
+        "Advice on where to go",
+        "24 hour hire periods"
+      ],
+      "bring": [
+        "A phone or other communication device",
+        "Clothes you are happy to get wet",
+        "Sun protection",
+        "A warm layer, towel and change of clothes",
+        "Water shoes, or old sneakers",
+        "A bottle of water"
+      ],
+      "requirements": "Previous experience suggested. You transport the kayaks yourself (roof racks or a trailer) unless you book the shuttle",
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/07/hire_groups.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://regionx.com.au/hire/kayak-hire-at-batemans-bay/",
+      "checkNotes": "Booked by enquiry form, no Rezdy link on the page. The enquiry form lists items with '$ Per day' placeholders but no amounts."
+    },
+    {
+      "title": "Ningaloo, Western Australia",
+      "kind": "kayak",
+      "summary": "An annual guided trip at Ningaloo Reef and Cape Range National Park, based out of Exmouth in Western Australia. You sea kayak and snorkel inside the reef lagoon and stay at a safari camp, then spend two nights at a resort with a day swimming with whale sharks. Three package styles are offered.",
+      "highlights": [
+        "Kayak and snorkel inside Ningaloo Reef",
+        "Gorge walks in Cape Range National Park",
+        "Whale shark swim day",
+        "3 package styles"
+      ],
+      "duration": "From 6 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "2027: June 6 – 12 (Hike & Kayak + Whale Sharks), June 13 – 20 (Base Camp Kayak + Whale Sharks), June 20 – 26 (Expedition Kayak + Whale Sharks)",
+      "departsFrom": "Exmouth, Western Australia",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 4190,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 4190,
+      "includes": [
+        "Fully guided 6 to 7 day package",
+        "4 nights safari camping",
+        "All sea kayaking equipment including dry bags",
+        "Snorkelling gear, wetsuit in season",
+        "Camping equipment",
+        "Transport to and from Cape Range NP",
+        "All meals, food and drinks (BYO alcohol)",
+        "National Park entry and camping fees",
+        "1 day whale shark discovery tour",
+        "2 nights at Mantarays resort, Exmouth",
+        "2 restaurant dinners"
+      ],
+      "bring": [
+        "A comprehensive packing list is sent on booking",
+        "BYO alcohol"
+      ],
+      "requirements": "Usually needs a minimum of 4 participants to run",
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/07/Great-View.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/8F52F7CB-A795-47D6-83E5-4A19E56A0B72.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/52194785110_ee94303281_o.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/07/52184888142_9b0a535b73_o.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://regionx.com.au/destinations/ningaloo-western-australia/",
+      "checkNotes": "Enquiry only, no booking link. Trip runs in Western Australia, not from Batemans Bay. Itinerary on the page is the Base Camp version; the first resort dinner is covered to $70 per person."
+    },
+    {
+      "title": "Fiji – Yasawa Islands",
+      "kind": "kayak",
+      "summary": "A nine day sea kayak expedition through the Yasawa Islands of Fiji. Paddlers camp on beaches, stay in island villages and snorkel reefs, with daily paddles of about 11 to 20km, and finish at a resort with a chance to snorkel with manta rays. Suited to people with paddling experience and fit, active beginners.",
+      "highlights": [
+        "Six days of kayaking through the Yasawa chain",
+        "Village stays and beach camps",
+        "Snorkel with manta rays on the last day",
+        "Resort night at Barefoot Manta"
+      ],
+      "duration": "9 Days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "Sunday July 25th – Monday August 2nd 2027",
+      "departsFrom": "Nadi, Fiji",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 6140,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 6140,
+      "includes": [
+        "Pre-trip briefing and first night at a Nadi hotel",
+        "Boat to Tavewa Island",
+        "Kayaking and camping equipment",
+        "Meals as listed in the itinerary",
+        "Resort night at Barefoot Manta"
+      ],
+      "bring": [],
+      "requirements": "Suitable for those with prior paddling experience and fit, active beginners. Usually needs a minimum of 4 participants",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://regionx.com.au/destinations/fiji/",
+      "checkNotes": "Enquiry only. Includes list is drawn from the quick itinerary; dinner on day 1 is not included. Image file names ('Fiji-Southern-Sea-Ventures', 'SSV') suggest the photos and possibly the trip come from a partner operator; confirm image rights. Every photo on the Fiji page is named after Southern Sea Ventures, another kayak company, so none is used until Region X confirms which are theirs."
+    },
+    {
+      "title": "Hinchinbrook – Far North Queensland",
+      "kind": "kayak",
+      "summary": "A six day guided sea kayak expedition around Hinchinbrook Island National Park, starting from Mission Beach in Queensland. You carry all gear in the kayaks, camp on a different beach each night and walk rainforest trails to waterfalls and swimming holes. A kayak training day in Batemans Bay is held before the trip.",
+      "highlights": [
+        "Expedition kayaking around Hinchinbrook Island",
+        "Kayak training day in Batemans Bay beforehand",
+        "Rainforest walks and waterfalls",
+        "Dugongs and turtles possible"
+      ],
+      "duration": "6 Days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "2026: departs every Sunday June – October; some dates sold out",
+      "departsFrom": "Mission Beach, Queensland (pre-trip meeting at Mission Reef Resort, Wongaling Beach)",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 2900,
+          "currency": "AUD",
+          "note": null
+        }
+      ],
+      "priceFrom": 2900,
+      "includes": [
+        "Fully guided 6 day kayak expedition",
+        "Access to the uninhabited island",
+        "Kayak training day in Batemans Bay",
+        "All camping and sea kayak tuition",
+        "Island walks",
+        "All meals",
+        "Photos of your experience"
+      ],
+      "bring": [],
+      "requirements": "No sea kayaking experience required, but familiarity with kayaking is encouraged",
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2022/12/Hinch_2022_01.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/12/20180813-En-route-to-Zoe-Bay-2-2.jpeg",
+        "https://regionx.com.au/wp-content/uploads/2022/12/20180815-Gould-camping-2.jpeg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://regionx.com.au/destinations/hinchinbrook-queensland/",
+      "checkNotes": "Enquiry only. Page lists 2026 dates only (June to October), so most are past; 2027 dates not shown. A heading says '7 days on an uninhabited island' while the overview says 6 days."
+    },
+    {
+      "title": "The Arctic: Svalbard",
+      "kind": "liveaboard",
+      "summary": "Small ship voyages in Svalbard lasting 8 to 12 days, with optional kayak outings among the ice plus hiking and zodiac trips. Guests sleep on board each night. Wildlife can include polar bears, walrus, seals, whales and seabirds.",
+      "highlights": [
+        "Small ship, no camping",
+        "Optional sea kayaking among the ice",
+        "Hiking and zodiac excursions",
+        "Polar bears, walrus and whales possible"
+      ],
+      "duration": "8-12 days liveaboard style",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "2027 departures: 24th May, 20th July, 8th August",
+      "departsFrom": "Svalbard",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2023/12/Arctic-Hero.jpg",
+        "https://regionx.com.au/wp-content/uploads/2024/01/arctic-06.jpg",
+        "https://regionx.com.au/wp-content/uploads/2024/01/arctic-14.jpg",
+        "https://regionx.com.au/wp-content/uploads/2024/01/arctic-02.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://regionx.com.au/destinations/the-arctic/",
+      "checkNotes": "Price shown as '$POA'. Enquiry only. Year 2027 taken from the page heading 'Svalbard: May, July & August 2027'."
+    },
+    {
+      "title": "Costa Rica",
+      "kind": "kayak",
+      "summary": "An eight day kayak and culture trip in Costa Rica, paddling the Golfo Dulce and staying in jungle lodges. It starts with two nights in San Jose and includes a visit to a cacao farm and an internal flight back from Puerto Jimenez. A Region X host travels with the group.",
+      "highlights": [
+        "Kayak the Golfo Dulce",
+        "5 nights in moving lodge camps",
+        "Cacao farm visit",
+        "Region X host for the whole trip"
+      ],
+      "duration": "8 Days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": "2027 departures: April 10th, May 8th and October 30th",
+      "departsFrom": "San Jose, Costa Rica",
+      "prices": [
+        {
+          "label": "From",
+          "amount": 2750,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 2750,
+      "includes": [
+        "Fully guided 8 day experience paddling the Golfo Dulce",
+        "2 nights San Jose hotel",
+        "5 nights lodge based camps (moving)",
+        "Internal flight from Puerto Jimenez to San Jose",
+        "All meals except in San Jose",
+        "Guides and equipment for activities",
+        "Photos of your experience",
+        "Region X host for the duration"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2026/05/Costa-Rica-Kayaking-3743-scaled.jpg",
+        "https://regionx.com.au/wp-content/uploads/2023/08/Costa-Rica-Kayaking-3787-scaled.jpg",
+        "https://regionx.com.au/wp-content/uploads/2026/05/IMG_2730.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://regionx.com.au/destinations/costa-rica/",
+      "checkNotes": "Price is in USD, the only non-AUD price on the site. Enquiry only. One photo looked like a partner lodge's (Playa San Josecito, Golfo Dulce) and was left out."
+    },
+    {
+      "title": "Get more from your Sit on top – part 1",
+      "kind": "course",
+      "summary": "A four hour beginner skills session for adults using sit-on-top kayaks around Batemans Bay. It covers equipment and fit, reading weather and water, the main strokes, and getting in and out, followed by a short paddle. Part 2 builds on it with rescues and trip planning.",
+      "highlights": [
+        "For novice adults and first timers",
+        "Strokes, fit, weather and water basics",
+        "Certificate of completion",
+        "Leads into the social paddle group"
+      ],
+      "duration": "1 x 4hr session",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Batemans Bay area, location confirmed by email a few days before",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All kayaking equipment (BYO welcome for a discount)",
+        "Qualified kayak instructors",
+        "Splash jackets",
+        "A certificate of completion",
+        "Light refreshments",
+        "A digital photo album of your lesson"
+      ],
+      "bring": [
+        "Clothes you're happy to get damp (activewear)",
+        "Sun protection (hat, sunscreen, sunglasses)",
+        "A warm layer and a beanie in colder months",
+        "Water shoes, or old sneakers",
+        "A bottle of water",
+        "A towel"
+      ],
+      "requirements": "Minimum of 3 paddlers for the lesson to go ahead",
+      "offer": {
+        "text": "$30 off each paddle if you bring your own kayak and equipment",
+        "conditions": "Use code OWNGEAR on the payment screen",
+        "validUntil": null
+      },
+      "images": [
+        "https://regionx.com.au/wp-content/uploads/2021/10/p9716a3ff-0f9a-447e-8b9b-1ff7559db3ef_0dc21b6b-b4b8-45e4-8f90-738ac0348d94_m.jpg",
+        "https://regionx.com.au/wp-content/uploads/2022/10/GlassBottom_04.jpg"
+      ],
+      "bookingLinks": [
+        "https://regionx.rezdy.com/calendarWidget/651580?iframe=true"
+      ],
+      "sourceUrl": "https://regionx.com.au/programs/skills-sit-on-top-part-1/",
+      "checkNotes": "Price is only in the booking widget. Other skills sessions (Sit on top part 2, Sit in part 1 and 2) and programs were not opened; see operator checkNotes."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Gift cards in $50, $100, $150, $200, $400 and $600 values, delivered by email",
+      "conditions": "Valid for 3 years; can be used on any tour, any date",
+      "validUntil": null,
+      "sourceUrl": "https://regionx.com.au/gift-cards/"
+    },
+    {
+      "text": "Spring discount: 3rd night free on the Murramarang Coast Walk and the Run Wild trail run",
+      "conditions": "Promo code sent by email after signing up on the site",
+      "validUntil": null,
+      "sourceUrl": "https://regionx.com.au/"
+    },
+    {
+      "text": "Spring discount on South Coast NSW short and half day kayak tours",
+      "conditions": "Promo code sent by email after signing up on the site",
+      "validUntil": null,
+      "sourceUrl": "https://regionx.com.au/"
+    },
+    {
+      "text": "Region X Social Adventure Club membership, $120 per year",
+      "conditions": "Includes Tuesday social paddles, member pricing on Region X NSW tours, $120 off destination journeys such as Ningaloo and Fiji, member pricing on selected gear, priority booking and a member T-shirt. Renews annually. Young at Heart course not included.",
+      "validUntil": null,
+      "sourceUrl": "https://regionx.com.au/programs/region-x-memberships/"
+    }
+  ],
+  "checkNotes": "Site lists no business street address on the contact page; the equipment hire page gives a warehouse pickup at 6 Russell St, Batemans Bay and kayak hire runs from the Boatshed at Mossy Point. Offers with percentages were reworded without the figure: the spring kayak tour code is '10% off', the membership gives '25% off Region X NSW tours', and the footer says 'Get 10% - 20% off our Kayak Tours'. Decide whether to show these. Member prices shown on tour pages need a $120 a year membership. Not captured as trips (not opened, page budget): Sit on top part 2, Sit in kayak part 1 and 2 skills sessions, Young at Heart Remastered, social paddles (included in membership, Tuesdays 9am), after school program, school holiday programs, school programs, accessible kayaking program, monthly paddle program, and the Batemans Bay and Canberra to the coast destination pages. The Young at Heart page rendered no text without JavaScript. Ecotourism Australia certification level is not stated. Homepage claims '#1 rated sea kayak company in Australia' and a Tripadvisor 5.0 rating; not used. Ningaloo, Fiji, Hinchinbrook, Arctic and Costa Rica trips run outside NSW and are enquiry only."
+}

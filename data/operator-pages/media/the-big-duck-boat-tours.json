@@ -1,0 +1,107 @@
+{
+  "slug": "the-big-duck-boat-tours",
+  "logo": "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/efdbdf88-943a-4868-b01b-5144ba083bfa/logo+big+duck+white.jpg",
+  "heroImage": "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1699330788175-RZLN8DDKF2LROMRIFO6N/The+Big+Duck+Boat+Tour.jpg",
+  "gallery": [
+    "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1491264753464-M4I13HY8MM4Y48DEZO45/big+duck+with+dolphins+at+bow+high+res.jpg",
+    "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1491264910956-18DZ5XWXDW436KEFY67V/Big+Duck+with+seals+%282%29.jpg",
+    "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1491265023734-GE6D4UA2IKAJUAMFF0PB/Big+Duck+Cliffs.jpg",
+    "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1491265146674-IS7WPH5EF8W14OW4ELTA/Fun+on+Big+Duck+%281%29.jpg",
+    "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1455161184313-QAGUNB103DU86AID33WF/dolphins+from+Big+Duck.jpg",
+    "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1456000044257-9NEFSJC69L4L1GAVTB2D/dolphin+watch+whale.jpg",
+    "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/a1e3b127-79f4-49f8-a421-e0e85c44c349/fur+seal.jpg",
+    "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1492750405045-RAKPN4CPQNU7LM7GKSAA/Big+Duck+Southern+Right+Whale+Breach.jpg",
+    "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1671666890871-BZA9EHKU1S085TIXBAA2/Sea-Wirrina-Fleurieu-Peninsula-SA-20220204-97.jpg",
+    "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1671666946601-UMJD071CP5KUYMQFXG31/Sea-Wirrina-Fleurieu-Peninsula-SA-20220204-126.jpg",
+    "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1671666975803-W5EUHDZLRP5K0B1EAIBY/Sea-Wirrina-Fleurieu-Peninsula-SA-20220204-154.jpg",
+    "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/0060b22d-4a50-492c-b92a-490d0f9385d8/Sea-Wirrina-Fleurieu-Peninsula-SA-20220204-52.jpg",
+    "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1455999967263-K92A7177LPRG9N03F36Z/photo+1.JPG",
+    "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1455999901676-DFTXL5NM7U9GGTKYWQYE/photo+3.JPG",
+    "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1456000037610-6S5B5HQP1GBNJUQYY1ZV/IMG_1477.JPG",
+    "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1491265135474-Z7X45DOALG8ODYLLJTL2/IMG_2397+%282%29.JPG"
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=yjfhWIh7WMM",
+      "title": "Sea Wirrina tour",
+      "sourceUrl": "https://www.youtube.com/channel/UCeqmB3ivrWwRLmUOUNIyYew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=megra3coiTQ",
+      "title": "Dolphins and seals at Victor Harbor",
+      "sourceUrl": "https://www.youtube.com/channel/UCeqmB3ivrWwRLmUOUNIyYew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2SF0N-49GBI",
+      "title": "Dolphins filmed on GoPro",
+      "sourceUrl": "https://www.youtube.com/channel/UCeqmB3ivrWwRLmUOUNIyYew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5EWoQglaEQs",
+      "title": "Australian sea lions visit the boat",
+      "sourceUrl": "https://www.youtube.com/channel/UCeqmB3ivrWwRLmUOUNIyYew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XqFhDKnfwIw",
+      "title": "Dolphin watching",
+      "sourceUrl": "https://www.youtube.com/channel/UCeqmB3ivrWwRLmUOUNIyYew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mgRK4A3Awdg",
+      "title": "The Big Duck Boat Tours, July 2016",
+      "sourceUrl": "https://www.youtube.com/channel/UCeqmB3ivrWwRLmUOUNIyYew"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Seal Island Tour",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/a1e3b127-79f4-49f8-a421-e0e85c44c349/fur+seal.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1455589619859-ADTXWIROYM7SU37T20AA/P3310393.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1455167960121-1DRXVN8A50KJR0ZFNCN1/67_expanded_gallery3.jpg"
+      ]
+    },
+    {
+      "title": "Southern Ocean Adventure",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/f181a020-ef34-410e-98a2-2c580cb36ebb/The+Big+Duck+Boat+Tour.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1455161184313-QAGUNB103DU86AID33WF/dolphins+from+Big+Duck.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1455590808054-R1RGRFH0HYFT3UAKEGAL/67_expanded_gallery3.jpg"
+      ]
+    },
+    {
+      "title": "Winter Whale Watching",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1492751078580-931GXWCZMR2AOAVGCS8S/whale+2.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1492751227936-M9JRBGGUFYFDCWHUNM9W/P3310393.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1523486645953-XPCL1HEEEC0H9YD6DA0Z/Big+Duck+Southern+Right+Whale+Tail.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1492750405045-RAKPN4CPQNU7LM7GKSAA/Big+Duck+Southern+Right+Whale+Breach.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/54002098-9cd3-4ce2-94b6-007a43e3335c/Vessel+and+Whale+with+Bluff+in+background.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1456000044257-9NEFSJC69L4L1GAVTB2D/dolphin+watch+whale.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1455508829411-AFL17E1YNOPU85UQKPAK/whale+tail.jpg"
+      ]
+    },
+    {
+      "title": "Sea Wirrina Tour",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/0060b22d-4a50-492c-b92a-490d0f9385d8/Sea-Wirrina-Fleurieu-Peninsula-SA-20220204-52.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1455589619859-ADTXWIROYM7SU37T20AA/P3310393.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1718253123914-DMR6GZOYUP0SGGO0E89I/Sea-Wirrina-Fleurieu-Peninsula-SA-20220204-0258.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1718253389794-ZVMZRDPIWDRWQQ7PI51C/Sea-Wirrina-Fleurieu-Peninsula-SA-20220204-130.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1718253422215-69HLA1Z453Y3AOAMLC8F/Sea-Wirrina-Fleurieu-Peninsula-SA-20220204-132.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1671666890871-BZA9EHKU1S085TIXBAA2/Sea-Wirrina-Fleurieu-Peninsula-SA-20220204-97.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1671666946601-UMJD071CP5KUYMQFXG31/Sea-Wirrina-Fleurieu-Peninsula-SA-20220204-126.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1671666975803-W5EUHDZLRP5K0B1EAIBY/Sea-Wirrina-Fleurieu-Peninsula-SA-20220204-154.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1671667069137-2CCH20QQUN7IRI8L0WUX/Sea-Wirrina-Fleurieu-Peninsula-SA-20220204-0268+2+3.jpg"
+      ]
+    },
+    {
+      "title": "Private Charters",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/c177b64b-c7c8-4086-96c1-c7c9bc1388c1/Sea-Wirrina-Fleurieu-Peninsula-SA-20220204-186.jpg",
+        "https://images.squarespace-cdn.com/content/v1/56bbf43ac6fc089e185ca1a9/1455590808054-R1RGRFH0HYFT3UAKEGAL/67_expanded_gallery3.jpg"
+      ]
+    }
+  ],
+  "notes": "Site is Squarespace; every page answered normally and no captcha or bot check was hit. Pages read: home, five tour and charter pages, gallery, FAQ, access, environment, crew, contact and notice pages. Logo is the site header logo (logo+big+duck+white.jpg, a JPG with white in its name), so it may be white lettering on a solid background; a person should check it before use. No SVG, PNG or WebP logo was found. heroImage repeats the home page banner photo (The Big Duck Boat Tour.jpg, 5500 by 3928); the other banner photos were no better. Gallery leads with the 'Photos from on board The Big Duck' gallery page, then the home page and tour page cards and the whale page. Videos: 13 videos are on the YouTube channel the site footer links to (youtube.com/channel/UCeqmB3ivrWwRLmUOUNIyYew); six are listed. Left out: four that look produced by others (a South Australian Tourism Commission video, a South Aussie with Cosi TV episode, Tourism Champions and Hello SA) and three that show tours the site no longer describes (Murray Mouth Adventure, Murray Mouth Crossing, Discovery Tour). Most listed videos are about nine to ten years old; 'Sea Wirrina tour' is about two years old. The FAQ and Accessibility pages also host a safety and boarding video, but it is a Squarespace-hosted file with no direct file link, so it was not recorded. Left out as other people's or doubtful photos: banner photos credited by file name to photographers (Rapid Bay FP - Ben Goode, Fleurieu Peninsula FP - Jem Cresswell, Wright Is Encounter Bay FP - Isaac Forman, Serio and Encounter Bay FP - Isaac Forman, Serio); a Dreamstime banner (dreamstime_xxl_1631616.jpg) and an AdobeStock image on the home page; a seal banner with a stock-style file name (seal-2870893_1920.jpg); a photo of two New Zealand fur seals with a Wikimedia-style file name; the 58-photo whale page slideshow except for six photos with the boat or Big Duck in the file name (the rest carry other people's names, look like Facebook downloads, or are labelled file photos); the gallery page's Instagram thumbnails; the Spirit of the Coorong photo (another tour product); maps, award and certification badges, sponsor logos, the Ngarrindjeri flag, crew portraits and the access photos on the FAQ and Accessibility pages. The Sea-Wirrina-Fleurieu-Peninsula-SA-20220204 photo series is used for Sea Wirrina and the gallery; it carries no credit on the site but the file naming looks like a commissioned shoot, so confirm it belongs to the operator. P3310393.jpg and 67_expanded_gallery3.jpg are shared body photos that appear on several tour pages (different uploads with the same file name). Sea Wirrina has no photos of its own on its page other than two credited ones, so its photo list uses the Sea Wirrina series from the home and gallery pages. No images were downloaded or opened, so sizes, orientation and any text printed on a photo were not checked."
+}

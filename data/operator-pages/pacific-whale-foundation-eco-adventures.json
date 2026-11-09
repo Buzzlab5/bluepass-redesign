@@ -1,0 +1,283 @@
+{
+  "slug": "pacific-whale-foundation-eco-adventures",
+  "name": "Pacific Whale Foundation Eco-Adventures",
+  "website": "https://pacificwhale.com.au",
+  "rezdyAlias": null,
+  "state": "QLD",
+  "town": "Hervey Bay",
+  "category": "Whale watching cruises",
+  "summary": "Small-group whale watching and wildlife cruises from Urangan Harbour in Hervey Bay on Ocean Defender, a 12 metre rigid inflatable boat. The operator is a registered Australian charity and the Australian arm of the Pacific Whale Foundation, and it puts its tour profits into whale research, education and conservation. Whale watches run through the humpback season from July to October, with a wildlife cruise through the Great Sandy Strait in summer.",
+  "standouts": [
+    "Advanced Ecotourism certified through Ecotourism Australia",
+    "Hervey Bay's Ultimate Small Group Whale Watch is a Tourism Australia Signature Experience",
+    "Registered Australian charity; tour and shop profits go to research, education and conservation",
+    "Working in Hervey Bay since 1984, with whale research behind its tours"
+  ],
+  "contact": {
+    "phone": "1800 454 310",
+    "email": "herveybay@pacificwhale.org",
+    "address": "Shop 1, Great Sandy Straits Marina, 17 Buccaneer Dr, Urangan, Queensland"
+  },
+  "heroImage": "https://pacificwhale.com.au/wp-content/uploads/2024/04/PACWHALE_OZ-9725-scaled.jpg",
+  "sourceUrls": [
+    "https://pacificwhale.com.au/",
+    "https://pacificwhale.com.au/hervey-bay-ultimate-whalewatch/",
+    "https://pacificwhale.com.au/hervey-bays-sunset-whale-watch/",
+    "https://pacificwhale.com.au/seven-island-ultimate-wildlife-cruise/",
+    "https://pacificwhale.com.au/private-charters/",
+    "https://pacificwhale.com.au/our-vessel/",
+    "https://pacificwhale.com.au/frequently-asked-questions/",
+    "https://pacificwhale.com.au/video-photo-gallery/",
+    "https://pacificwhale.com.au/find-us/",
+    "https://pacificwhale.com.au/fraser-experience-tours/",
+    "https://pacificwhale.com.au/qantas-passenger-perks/",
+    "https://pacificwhale.com.au/meet-the-team/",
+    "https://pacificwhale.com.au/education-and-schools/",
+    "https://pacificwhale.com.au/hervey-bay-fraser-coast/",
+    "https://pacificwhale.com.au/pacific-whale-foundation/",
+    "https://pacificwhale.com.au/ocean-store-check-in-here/",
+    "https://pacificwhale.com.au/trailer-for-return-to-kgari/",
+    "https://pacificwhale.com.au/great-sandy-straits-small-group-sunset-cruise/",
+    "https://pacificwhale.com.au/seven-island-ultimate-wildlife-cruise-2/",
+    "https://pacificwhale.com.au/cruises/",
+    "https://pacificwhale.com.au/sitemap_index.xml",
+    "https://pacificwhale.com.au/page-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Hervey Bay's Ultimate Small Group Whale Watch",
+      "kind": "tour",
+      "summary": "A three hour small-group whale watch from Urangan Harbour on Ocean Defender, a 12 metre rigid inflatable boat with covered, forward-facing seats at water level. Crew trained in marine sciences give commentary, and underwater hydrophones let guests hear whale song. Children receive a Junior Naturalist activity booklet.",
+      "highlights": [
+        "Small group on Ocean Defender, a purpose-built 12 metre rigid inflatable boat",
+        "Live whale song through underwater hydrophones",
+        "Commentary from crew trained in marine sciences, with an onboard whale researcher collecting data",
+        "Junior Naturalist programme and activity booklet for children"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [
+        "07:00",
+        "11:00",
+        "14:30"
+      ],
+      "season": "July to October",
+      "departsFrom": "Urangan Harbor (check-in at the Ocean Store, Shop 1, Great Sandy Straits Marina, 17 Buccaneer Dr, Urangan, 30 minutes before departure)",
+      "prices": [
+        {
+          "label": "Adult (13+)",
+          "amount": 133,
+          "currency": "AUD",
+          "note": "Retail price"
+        },
+        {
+          "label": "Child (6-12)",
+          "amount": 99,
+          "currency": "AUD",
+          "note": "Retail price"
+        }
+      ],
+      "priceFrom": 133,
+      "includes": [
+        "Free local Bundaberg Brewed drinks",
+        "A freshly baked cookie from The Bakers Room Artisan Bakery",
+        "A Whale Watching Guide",
+        "A Junior Naturalist Whale Watch Guide activity booklet for children",
+        "Onboard toilet"
+      ],
+      "bring": [
+        "Flat, closed-toe footwear",
+        "Jacket or rain gear",
+        "Sun protection",
+        "Camera (underwater and GoPro cameras are allowed, drones are not)"
+      ],
+      "requirements": "Children under 5 are not allowed on this cruise (trip page). The FAQ says tours suit children aged 6 and over and to call 1800 454 310 about ages 3 to 5. Not wheelchair accessible. Not recommended for people with neck or back concerns or who are pregnant. No smoking on the vessel.",
+      "offer": {
+        "text": "Buy one get one half price online: the second adult ticket is $66.50 and the second child ticket is $49.50",
+        "conditions": "No end date shown. The page does not say how the two tickets are matched.",
+        "validUntil": null
+      },
+      "images": [
+        "https://pacificwhale.com.au/wp-content/uploads/2026/09/1-1.png",
+        "https://pacificwhale.com.au/wp-content/uploads/2024/04/PACWHALE_OZ-9725-scaled.jpg",
+        "https://pacificwhale.com.au/wp-content/uploads/2024/04/spyhop-scaled-e1712379682797.jpg",
+        "https://pacificwhale.com.au/wp-content/uploads/2024/04/IMG_0621-edited.jpg"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/pacificwhaleoz/items/46288/?full-items=yes&flow=4149"
+      ],
+      "sourceUrl": "https://pacificwhale.com.au/hervey-bay-ultimate-whalewatch/",
+      "checkNotes": "Departure times (7:00am, 11:00am, 2:30pm) come from the FAQ; the trip page gives none. Capacity conflicts: the trip page text and FAQ say a maximum of 38 passengers, the same page's benefits list and the vessel page say 40. Child rules conflict: trip page says no children under 5, FAQ says call for ages 3 to 5. Season: home page says whale season runs July 1 to October 31, FAQ says early July to late October. The site states a sighting guarantee with a free return ticket for a set date range (15 July on the trip page, 16 July in the benefits list, both to 9 October); not repeated here. Booking link is the per-trip link on the home page card; the trip page itself embeds a general calendar. Prices are the same retail and online except for the buy one get one half price offer. Education groups can book this trip with an extra classroom session (email only), noted on /education-and-schools/."
+    },
+    {
+      "title": "Hervey Bay's Sunset Whale Watch",
+      "kind": "tour",
+      "summary": "A whale watch of about 2.5 hours on Ocean Defender, timed for sunset over the Great Sandy Strait. Guests hear whale song through underwater hydrophones and learn about the latest whale research from the crew. The trip is limited to 30 passengers, and guests may bring their own alcohol within set limits.",
+      "highlights": [
+        "Sunset over the Great Sandy Strait",
+        "Maximum of 30 passengers on this trip",
+        "Live whale song through underwater hydrophones",
+        "BYO alcohol allowed within set limits (no glass, soft cooler bags only)"
+      ],
+      "duration": "2.5 hours (approximately)",
+      "durationMinutes": 150,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Urangan Harbor (check-in at the Ocean Store, Shop 1, Great Sandy Straits Marina)",
+      "prices": [
+        {
+          "label": "Adult (13+)",
+          "amount": 133,
+          "currency": "AUD",
+          "note": "Retail price"
+        },
+        {
+          "label": "Child (6-12)",
+          "amount": 99,
+          "currency": "AUD",
+          "note": "Retail price"
+        }
+      ],
+      "priceFrom": 133,
+      "includes": [
+        "Free local Bundaberg Brewed drinks",
+        "A freshly baked cookie from The Bakers Room Artisan Bakery",
+        "A Whale Watching Guide",
+        "A Junior Naturalist Whale Watch Guide activity booklet for children",
+        "Onboard toilet"
+      ],
+      "bring": [
+        "Optional: your own alcohol, no glass, a maximum of 3 standard drinks per person, soft cooler bags only"
+      ],
+      "requirements": "Children under 5 are not allowed on this cruise. No alcohol for anyone under 18. The vessel operates under Queensland Responsible Service of Alcohol requirements. Not wheelchair accessible.",
+      "offer": {
+        "text": "Buy one get one half price online: the second adult ticket is $66.50 and the second child ticket is $49.50",
+        "conditions": "No end date shown. The page does not say how the two tickets are matched.",
+        "validUntil": null
+      },
+      "images": [
+        "https://pacificwhale.com.au/wp-content/uploads/2026/09/2-1.png"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/pacificwhaleoz/items/708990/?full-items=yes&flow=4149"
+      ],
+      "sourceUrl": "https://pacificwhale.com.au/hervey-bays-sunset-whale-watch/",
+      "checkNotes": "Departure time and operating dates are not stated on the page; whale season is July to October per the home page. Duration conflict: the trip page says 2.5 hours (approximately), the Qantas Passenger Perks page says 3 hours (approximately); used the trip page. Capacity conflict: the intro says a maximum of 30 passengers, the benefits list says 40. The trip page embeds a calendar for FareHarbor item 708990, matching the home page card link. The page repeats a sighting guarantee with a free return ticket for a date range; not repeated here. No photo on the trip page other than a page banner, so only the home page card image is recorded."
+    },
+    {
+      "title": "Seven Island Ultimate Wildlife Cruise",
+      "kind": "cruise",
+      "summary": "A 2.5 hour cruise through the sheltered Great Sandy Strait between the Fraser Coast and K'gari, passing Round Island, Little Woody Island, Duck Island, Picnic Island and Big Woody Island. Certified naturalists talk about the wildlife, the habitats and Pacific Whale Foundation's research. It is listed as a summer cruise.",
+      "highlights": [
+        "Route through the Great Sandy Strait past several small islands and Pelican Bank",
+        "Certified naturalists on board",
+        "Wildlife recorded on the route includes dolphins, green turtles, dugongs, rays and sea eagles",
+        "Children under 5 travel free"
+      ],
+      "duration": "2.5 hours",
+      "durationMinutes": 150,
+      "departureTimes": [],
+      "season": "Summer cruise, starts 15 December",
+      "departsFrom": "Urangan Harbor (check-in at the Ocean Store, Shop 1, Great Sandy Straits Marina)",
+      "prices": [
+        {
+          "label": "Adult (13+)",
+          "amount": 100,
+          "currency": "AUD",
+          "note": "Retail and online price"
+        },
+        {
+          "label": "Child (6-12)",
+          "amount": 73,
+          "currency": "AUD",
+          "note": "Retail and online price"
+        },
+        {
+          "label": "Child (under 5)",
+          "amount": 0,
+          "currency": "AUD",
+          "note": "Free"
+        }
+      ],
+      "priceFrom": 100,
+      "includes": [
+        "Free local Bundaberg Brewed drinks",
+        "A freshly baked cookie from The Bakers Room Artisan Bakery"
+      ],
+      "bring": [
+        "No glass containers",
+        "Reusable bottles and containers instead of single-use plastics",
+        "Secure your belongings so nothing blows overboard"
+      ],
+      "requirements": "Not wheelchair accessible (Ocean Defender and the stepped boarding gangway).",
+      "offer": null,
+      "images": [
+        "https://pacificwhale.com.au/wp-content/uploads/2026/09/3-1.png"
+      ],
+      "bookingLinks": [
+        "https://fareharbor.com/embeds/book/pacificwhaleoz/items/505103/?full-items=yes&flow=4149"
+      ],
+      "sourceUrl": "https://pacificwhale.com.au/seven-island-ultimate-wildlife-cruise/",
+      "checkNotes": "Start date and season need a person's check. The page is labelled 'New Summer Cruise' and gives no dates. The home page section 'Ultimate Dolphin & Turtle Watch', marked 'STARTS 15 December' with a two hour duration, uses the same FareHarbor item (505103) and near identical text, so it was treated as the same cruise and not listed twice; the page text lists wildlife from December to June. If it is a separate trip, add it. The page heading reads 'Great Sandy Straits: Seven Island Ultimate Wildlife Cruise'; the menu and home page name is used as the title. Departure times are not stated (page says 'See Calendar'). Only photo on the page is a banner, so only the home page card image is recorded."
+    },
+    {
+      "title": "Private Charters",
+      "kind": "charter",
+      "summary": "Private hire of Ocean Defender for school, education, naturalist, photography and community fundraising groups, as well as celebrations and corporate outings. Packages are tailored to the group, with discounted rates for school, charity and education groups. Quotes are by email, phone or the online form.",
+      "highlights": [
+        "12 metre rigid inflatable boat with covered seating at water level",
+        "Discounted rates for school, charity and education groups",
+        "In whale season, education groups can help collect data for research",
+        "Half deposit to confirm, balance due 7 days before departure"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "Vessel capacity is 40 passengers maximum (vessel page). Not wheelchair accessible. Cancellation: no fee 14 or more days before departure; a quarter of the total booking value 7 to 14 days before; the full booking value is forfeited less than 7 days before.",
+      "offer": null,
+      "images": [
+        "https://pacificwhale.com.au/wp-content/uploads/2026/08/PACWHALE_OZ-38763.jpg",
+        "https://pacificwhale.com.au/wp-content/uploads/2024/04/PACWHALE_OZ-9725-scaled.jpg",
+        "https://pacificwhale.com.au/wp-content/uploads/2023/12/IMG_3290-scaled.jpg",
+        "https://pacificwhale.com.au/wp-content/uploads/2023/12/Copyright-PWF_17.jpg",
+        "https://pacificwhale.com.au/wp-content/uploads/2024/04/0O9A6841-edited-e1712379934205.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://pacificwhale.com.au/private-charters/",
+      "checkNotes": "Enquiry only: booking is by email (herveybay@pacificwhale.org), phone (1800 454 310) or the Request A Quote form, so there is no booking link and no price. Duration, departure point, dates and season are not stated. The page says charters are available year-round in the context of the marine park's wildlife, so season is left empty. The sitemap also lists /private-charters-2/, which was not read."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Discount for residents of listed Hervey Bay and Fraser Coast area postcodes, available by calling 1800 454 310",
+      "conditions": "Postcodes listed: Hervey Bay 4655, Maryborough 4650, Tiaro 4650, Burrum Heads 4659, Howard 4659, Torbanlea 4662, Gympie 4570, Cooloola 4880, Rainbow Beach 4581. Cannot be used with any other promotion. The discount amount is shown on the trip pages.",
+      "validUntil": null,
+      "sourceUrl": "https://pacificwhale.com.au/hervey-bay-ultimate-whalewatch/"
+    },
+    {
+      "text": "Qantas Passenger Perks: discount for Qantas international passengers with a valid Qantas booking reference. Discounted prices, adult / child: Ultimate Small Group Whale Watch $113.05 / $84.15, Sunset Whale Watch $113.05 / $84.15, Seven Island Ultimate Wildlife Cruise $85.00 / $62.05",
+      "conditions": "For travel between 1 July 2026 and 30 June 2027 on an international Qantas-marketed flight into Australia (QF flight number on the ticket). The tour date must fall within the same travel period as the flight. Qantas domestic flights are not eligible.",
+      "validUntil": "2027-06-30",
+      "sourceUrl": "https://pacificwhale.com.au/qantas-passenger-perks/"
+    },
+    {
+      "text": "Free travel for companion card holders with any full fare ticket, Monday to Friday",
+      "conditions": "Call 1800 454 310 to book. No pension or senior's card discount is offered.",
+      "validUntil": null,
+      "sourceUrl": "https://pacificwhale.com.au/frequently-asked-questions/"
+    },
+    {
+      "text": "Discounted rates for school, charity and education groups",
+      "conditions": "Private charters are quoted by email or phone; the Ultimate Whale Watch has school group rates and an optional classroom session.",
+      "validUntil": null,
+      "sourceUrl": "https://pacificwhale.com.au/private-charters/"
+    }
+  ],
+  "checkNotes": "Booking system: the three scheduled trips are sold through FareHarbor (company shortname pacificwhaleoz); the links recorded are the per-trip links on the home page cards, and no FareHarbor page was opened. rezdyAlias: the only Rezdy booking links on the site are pacificwhale.rezdy.com/2546/k-gari-escape-tour, /310902/fantastic-k-gari-tour and /96869/k-gari-exclusive-tour on /fraser-experience-tours/, plus an agent link on fraserexperiencetours.rezdy.com. Those are 4WD land tours of K'gari from Fraser Experience Tours, a separate family owned business shown on this site (adult $310 to $465, 11 hours), so they are not listed as trips. The alias 'pacificwhale' therefore covers the K'gari land tours only; none of the marine trips are on Rezdy. Not included as trips: the K'gari tours; free school education sessions and virtual offerings (email to book); gift cards (menu link only, into FareHarbor item 50251); and a page at /great-sandy-straits-small-group-sunset-cruise/ ('Small Group Sunset Cruise', 2.5 hours in the quick details but 2 hours in the text, maximum 30 passengers, adult $100, child $73, FareHarbor item 740029) that is in the sitemap but not linked from the menu or home page, so it is not confirmed as running. A person should decide whether to add it. /seven-island-ultimate-wildlife-cruise-2/ is an unfinished draft (contains 'Need space for retail/online discount') and was ignored. Hawaii and other Pacific Whale Foundation operations were not read. Policies from the FAQ: full refund if cancelled more than 48 hours before departure, otherwise non-refundable; full refund if the captain cancels for weather or other reasons; third party bookings follow the third party's policy. The site repeats a free return ticket guarantee for sightings between mid July and 9 October; not repeated in copy. Prices on the site are shown in dollars without a currency code; AUD assumed from the .com.au site. Phone is shown as 1800 454 310. The street number (17 Buccaneer Dr) comes from the FAQ; the footer gives only Shop 1, Great Sandy Straits Marina, Urangan. SECURITY: the page /pacific-whale-foundation/ carries a long block of unrelated gambling article text (apparent injected spam) below the About text; it was ignored and the owner may want to know. A page banner on the whale watch pages is a K'gari guide cover image and was not used. rezdyAlias cleared: the only Rezdy links on the site are a separate business's K'gari land tours; the marine trips sell through FareHarbor."
+}

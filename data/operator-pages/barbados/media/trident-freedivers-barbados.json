@@ -1,0 +1,64 @@
+{
+  "slug": "trident-freedivers-barbados",
+  "logo": "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1561742326/logo_trident_white.png",
+  "gallery": [
+    "https://res.cloudinary.com/dsr9bgg8i/image/upload/q_100/v1561743347/HomePage.jpg",
+    "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571673096/UW_PHotoPageMainImage.jpg",
+    "https://res.cloudinary.com/dsr9bgg8i/image/upload/q_100/v1561743951/hanna-line2.jpg",
+    "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1561743764/hanna_coral.jpg",
+    "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1561743603/hanna-line.jpg",
+    "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571941520/spear_bg.jpg",
+    "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571667928/Turtle_0936_36x24_gtdudh.jpg",
+    "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571668948/181006_FreedivingLevel1_Day2-6181-2_zl7xfu.jpg",
+    "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571667737/TridentFreedivers_Spearfishing-0421_rti432.jpg",
+    "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571671995/TridentFreedivers_KyleMaryam-0071_acj2vq.jpg",
+    "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571672153/TridentFreedivers_KyleMaryam-0163_vcqunr.jpg",
+    "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571672153/TridentFreedivers_KyleMaryam-0278_inudr6.jpg",
+    "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571673018/TridentFreedivers_amaia-0528_copy_qxi267.jpg",
+    "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571676256/line_diving.jpg",
+    "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571675298/bubble.jpg",
+    "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571676072/M5cAH_ozmigv.jpg"
+  ],
+  "videos": [
+    { "url": "https://www.youtube.com/watch?v=MbqAXzigkh8", "title": "Mother and child freedive in Barbados", "sourceUrl": "https://www.tridentfreedivers.com/" },
+    { "url": "https://www.youtube.com/watch?v=1Es2R7irmAg", "title": "Barracuda", "sourceUrl": "https://www.tridentfreedivers.com/" },
+    { "url": "https://www.youtube.com/watch?v=PjtFekVXWx4", "title": "How to duck dive, freediving for beginners", "sourceUrl": "https://www.youtube.com/channel/UC0T5nwd5DXkmZws8zODx-NQ" },
+    { "url": "https://www.youtube.com/watch?v=mfC9Jygtfo4", "title": "Manta ray visitors in Barbados", "sourceUrl": "https://www.youtube.com/channel/UC0T5nwd5DXkmZws8zODx-NQ" },
+    { "url": "https://www.youtube.com/watch?v=OX3uDl82sW0", "title": "Freediving in Barbados", "sourceUrl": "https://www.youtube.com/channel/UC0T5nwd5DXkmZws8zODx-NQ" }
+  ],
+  "trips": [
+    { "title": "PADI certification course (2 days)", "images": [
+      "https://res.cloudinary.com/dsr9bgg8i/image/upload/q_100/v1561743951/hanna-line2.jpg",
+      "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571759467/freedive_card.jpg"
+    ] },
+    { "title": "Freediving course (1 day)", "images": [
+      "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571759467/freedive_card.jpg",
+      "https://res.cloudinary.com/dsr9bgg8i/image/upload/q_100/v1561743951/hanna-line2.jpg"
+    ] },
+    { "title": "Fun Dives", "images": [] },
+    { "title": "PADI Advanced Freediver course", "images": [] },
+    { "title": "Coastal Spearfishing Tour", "images": [
+      "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571941520/spear_bg.jpg",
+      "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571759635/spear_card.jpg"
+    ] },
+    { "title": "Blue water Tour", "images": [
+      "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571941520/spear_bg.jpg"
+    ] },
+    { "title": "Spearfishing at night", "images": [
+      "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571941520/spear_bg.jpg"
+    ] },
+    { "title": "Photography Tour", "images": [
+      "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571673096/UW_PHotoPageMainImage.jpg",
+      "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571759474/photo_card.jpg",
+      "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571671995/TridentFreedivers_KyleMaryam-0071_acj2vq.jpg",
+      "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571672153/TridentFreedivers_KyleMaryam-0163_vcqunr.jpg",
+      "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571672153/TridentFreedivers_KyleMaryam-0278_inudr6.jpg",
+      "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571673018/TridentFreedivers_amaia-0528_copy_qxi267.jpg",
+      "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571667928/Turtle_0936_36x24_gtdudh.jpg",
+      "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571668948/181006_FreedivingLevel1_Day2-6181-2_zl7xfu.jpg",
+      "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571664764/gabby_Surf-0303_q89sk3.jpg",
+      "https://res.cloudinary.com/dsr9bgg8i/image/upload/v1571667216/SeaReinas_UW-1024_ngstmz.jpg"
+    ] }
+  ],
+  "notes": "Photos are served from the operator's Cloudinary account (res.cloudinary.com/dsr9bgg8i). The logo is a white PNG for dark headers; no dark version found. Page header photos on the freediving, spearfishing and photography pages are CSS backgrounds, read from the site stylesheet. Some photography page images are named after clients or shoots (Hunikom, SeaReinas, gabby_Surf); they sit in the operator's own gallery of images for sale. Extra videos come from the YouTube channel the site links to; many channel uploads are short personal clips and were left out."
+}

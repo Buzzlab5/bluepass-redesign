@@ -1,0 +1,377 @@
+{
+  "slug": "tidetales-water-sports",
+  "name": "TideTales Water Sports",
+  "website": "https://tidetaleswatersports.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Bridgetown",
+  "category": "Pontoon boat cruises",
+  "summary": "TideTales runs shared and private trips on a pontoon boat off Barbados, with morning brunch and sunset departures. Trips stop for snorkelling over reefs and wrecks, and the boat carries water toys such as an automatic surfboard and sea scooters. Snorkel and scuba gear and life jackets are provided.",
+  "standouts": [
+    "Staff trained in first aid, CPR, water rescue and emergency procedures",
+    "Snorkelling and scuba diving gear provided for all guests",
+    "Water toys include an automatic surfboard, sea scooters, LED kayaks and luminescent paddle boards",
+    "Pontoon boat with a shaded lounge area and bathrooms"
+  ],
+  "contact": {
+    "phone": "+1 246 850 7774",
+    "email": "info@tidetaleswatersports.com",
+    "address": null,
+    "whatsapp": null
+  },
+  "heroImage": "https://tidetaleswatersports.com/wp-content/uploads/2025/12/Private-Charter.jpeg",
+  "sourceUrls": [
+    "https://tidetaleswatersports.com/",
+    "https://tidetaleswatersports.com/charters/",
+    "https://tidetaleswatersports.com/book-now/",
+    "https://tidetaleswatersports.com/product/brunch-cruise-morning-cruise/",
+    "https://tidetaleswatersports.com/product/sunset-cruise-evening-cruise/",
+    "https://tidetaleswatersports.com/product/private-4-hour-charter/",
+    "https://tidetaleswatersports.com/product/private-charter-booking/",
+    "https://tidetaleswatersports.com/product/charter-booking/",
+    "https://tidetaleswatersports.com/product/drinks-package/",
+    "https://tidetaleswatersports.com/product/food-only-package/",
+    "https://tidetaleswatersports.com/product/boat-rental-only/",
+    "https://tidetaleswatersports.com/faqs/",
+    "https://tidetaleswatersports.com/contact-us/",
+    "https://tidetaleswatersports.com/special-offers/",
+    "https://tidetaleswatersports.com/about-us/",
+    "https://tidetaleswatersports.com/blog/",
+    "https://tidetaleswatersports.com/guide-to-shared-boat-experiences-barbados/",
+    "https://tidetaleswatersports.com/best-barbados-water-sports/"
+  ],
+  "trips": [
+    {
+      "title": "Brunch Cruise (Morning Cruise)",
+      "kind": "cruise",
+      "summary": "A shared morning trip on the pontoon boat with time to snorkel over coral reefs and swim where sea turtles are often seen. Brunch is served on board, and the boat's water toys and refreshments are part of the shared charter.",
+      "highlights": [
+        "Shared charter, daytime sailing",
+        "Snorkelling over coral reefs",
+        "Brunch on the water",
+        "Water sports, refreshments and onboard music included"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All water sports",
+        "Refreshments",
+        "Onboard music",
+        "Snorkelling and scuba diving gear",
+        "Life jackets"
+      ],
+      "bring": [
+        "Form of ID",
+        "Reef-safe sunscreen",
+        "Swimwear",
+        "Towel",
+        "Hat and sunglasses",
+        "Waterproof bag",
+        "Flip-flops or water shoes",
+        "Reusable water bottle",
+        "Waterproof camera or GoPro"
+      ],
+      "requirements": "Children must be accompanied by an adult. Some water sports may have age or height restrictions.",
+      "offer": null,
+      "images": [
+        "https://tidetaleswatersports.com/wp-content/uploads/2025/12/Private-Charter.jpeg"
+      ],
+      "bookingLinks": [
+        "https://tidetaleswatersports.com/product/brunch-cruise-morning-cruise/"
+      ],
+      "sourceUrl": "https://tidetaleswatersports.com/product/brunch-cruise-morning-cruise/",
+      "checkNotes": "Prices only inside the WooCommerce booking widget (Adult and Kid fields), not shown on the page. Trip description taken from the page's meta description plus the Shared Charters section of the Charters page; the product page itself has no description text. Duration, times and departure point not stated. Includes and bring list are from the Charters and FAQs pages, which apply to all charters."
+    },
+    {
+      "title": "Sunset Cruise (Evening Cruise)",
+      "kind": "cruise",
+      "summary": "A shared evening trip on the pontoon boat with a stop to snorkel and swim, then rum punch on deck as the sun goes down. Water toys, refreshments and music are part of the shared charter.",
+      "highlights": [
+        "Shared charter, sunset sailing",
+        "Snorkel and swim stop",
+        "Rum punch at sunset",
+        "Water sports, refreshments and onboard music included"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All water sports",
+        "Refreshments",
+        "Onboard music",
+        "Snorkelling and scuba diving gear",
+        "Life jackets"
+      ],
+      "bring": [
+        "Form of ID",
+        "Reef-safe sunscreen",
+        "Swimwear",
+        "Towel",
+        "Hat and sunglasses",
+        "Waterproof bag",
+        "Flip-flops or water shoes",
+        "Reusable water bottle",
+        "Waterproof camera or GoPro"
+      ],
+      "requirements": "Children must be accompanied by an adult. Some water sports may have age or height restrictions.",
+      "offer": null,
+      "images": [
+        "https://tidetaleswatersports.com/wp-content/uploads/2026/02/Sunset-Dinner-Cruise-40-1.jpg"
+      ],
+      "bookingLinks": [
+        "https://tidetaleswatersports.com/product/sunset-cruise-evening-cruise/"
+      ],
+      "sourceUrl": "https://tidetaleswatersports.com/product/sunset-cruise-evening-cruise/",
+      "checkNotes": "Prices only inside the WooCommerce booking widget (Adult and Kid fields), not shown on the page. Trip description taken from the page's meta description plus the Shared Charters section of the Charters page. Duration, times and departure point not stated."
+    },
+    {
+      "title": "Private 4 Hour Charter",
+      "kind": "charter",
+      "summary": "The pontoon boat and crew for your own group for four hours, by day or at night. The route can include swimming with turtles, hidden beaches or time relaxing at sea, with the boat's water toys, refreshments and music on board.",
+      "highlights": [
+        "Daytime or nighttime charter",
+        "Route tailored to the group",
+        "All water sports, refreshments and onboard music",
+        "Optional catering, photographer or drone operator, transport and premium alcohol upgrades"
+      ],
+      "duration": "4 Hour",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "All water sports",
+        "Refreshments",
+        "Onboard music",
+        "Snorkelling and scuba diving gear",
+        "Life jackets"
+      ],
+      "bring": [
+        "Form of ID",
+        "Reef-safe sunscreen",
+        "Swimwear",
+        "Towel",
+        "Hat and sunglasses",
+        "Waterproof bag",
+        "Flip-flops or water shoes",
+        "Reusable water bottle"
+      ],
+      "requirements": "Children must be accompanied by an adult. Some water sports may have age or height restrictions.",
+      "offer": null,
+      "images": [
+        "https://tidetaleswatersports.com/wp-content/uploads/2025/12/Private-Charter.jpeg",
+        "https://tidetaleswatersports.com/wp-content/uploads/2024/11/Untitled-14.jpg"
+      ],
+      "bookingLinks": [
+        "https://tidetaleswatersports.com/product/private-4-hour-charter/"
+      ],
+      "sourceUrl": "https://tidetaleswatersports.com/product/private-4-hour-charter/",
+      "checkNotes": "Page says all prices are quoted in USD, but prices are only inside the booking widget (Adult and Child fields). Duration taken from the trip title. Add-ons from the Private Charters section of the Charters page; that page lists round-trip transportation as an add-on while the FAQs say transportation is not offered."
+    },
+    {
+      "title": "Private Charter Booking",
+      "kind": "charter",
+      "summary": "A private charter for up to 16 guests, aimed at group events, team days and corporate retreats. The route can be shaped to the group and a dedicated crew runs the day.",
+      "highlights": [
+        "Up to 16 guests",
+        "Customisable route",
+        "Dedicated crew"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Private charter, from",
+          "amount": 1750,
+          "currency": "USD",
+          "note": "Per charter, up to 16 guests"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://tidetaleswatersports.com/wp-content/uploads/2024/11/Untitled-14.jpg"
+      ],
+      "bookingLinks": [
+        "https://tidetaleswatersports.com/product/private-charter-booking/"
+      ],
+      "sourceUrl": "https://tidetaleswatersports.com/product/private-charter-booking/",
+      "checkNotes": "Price shown as From: US$1,750.00. This product is not linked from the Book Now page, which links Private Charter to the Private 4 Hour Charter instead; it may be an older listing of the same charter. Duration not stated. priceFrom left null because the price is per charter, not per person."
+    },
+    {
+      "title": "Drinks Package",
+      "kind": "cruise",
+      "summary": "Three hours on the water on the pontoon boat with drinks included. Priced per person and booked by date and time on the site.",
+      "highlights": [
+        "3 hours on the water",
+        "Drinks included"
+      ],
+      "duration": "3 hours",
+      "durationMinutes": 180,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 90,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 90,
+      "includes": [
+        "Drinks"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://tidetaleswatersports.com/wp-content/uploads/2025/12/ITS07217-scaled.jpg"
+      ],
+      "bookingLinks": [
+        "https://tidetaleswatersports.com/product/drinks-package/"
+      ],
+      "sourceUrl": "https://tidetaleswatersports.com/product/drinks-package/",
+      "checkNotes": "Listed on the Book Now page as a package; the site does not say whether it is a stand-alone outing or an add-on to a cruise."
+    },
+    {
+      "title": "Food-Only Package",
+      "kind": "cruise",
+      "summary": "Four hours on the water on the pontoon boat with food included. Priced per person and booked by date and time on the site.",
+      "highlights": [
+        "4 hours on the water",
+        "Food included"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 110,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 110,
+      "includes": [
+        "Food"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://tidetaleswatersports.com/wp-content/uploads/2025/08/Wraps-Salads.jpg"
+      ],
+      "bookingLinks": [
+        "https://tidetaleswatersports.com/product/food-only-package/"
+      ],
+      "sourceUrl": "https://tidetaleswatersports.com/product/food-only-package/",
+      "checkNotes": "Listed on the Book Now page as a package; the site does not say whether it is a stand-alone outing or an add-on to a cruise."
+    },
+    {
+      "title": "Boat Rental Only",
+      "kind": "cruise",
+      "summary": "Four hours on the TideTales pontoon boat, priced per person, without the food or drinks packages.",
+      "highlights": [
+        "4 hours on the pontoon boat"
+      ],
+      "duration": "4 hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 75,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 75,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://tidetaleswatersports.com/product/boat-rental-only/"
+      ],
+      "sourceUrl": "https://tidetaleswatersports.com/product/boat-rental-only/",
+      "checkNotes": "Listed on the Book Now page as a package. The FAQs say refreshments are included in all charters; this option does not say what is included beyond the boat."
+    },
+    {
+      "title": "LED-Lit Kayaking Night Adventure",
+      "kind": "kayak",
+      "summary": "A night paddle in kayaks lit from below, so the water and marine life underneath show in the glow. It runs in calm water after dark.",
+      "highlights": [
+        "Night kayaking",
+        "LED lights under the kayak",
+        "Calm, clear water"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://tidetaleswatersports.com/charters/",
+      "checkNotes": "Listed under TideTales Exclusives on the Charters page with no price or booking link. The home and About pages list LED kayaking among the water toys, so it may be part of a charter rather than a separate trip."
+    },
+    {
+      "title": "Glow Night Paddle Tours",
+      "kind": "tour",
+      "summary": "An evening paddle on luminescent paddle boards fitted with LED lights, out on the water under the night sky.",
+      "highlights": [
+        "Night paddle",
+        "Luminescent paddle boards with LED lighting"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://tidetaleswatersports.com/charters/",
+      "checkNotes": "Listed under TideTales Exclusives on the Charters page with no price or booking link. The Charters page calls it bioluminescent while the About page describes LED-lit paddle boards; the summary follows the About page. May be part of a charter rather than a separate trip."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "The site does not state a departure point or marina; town Bridgetown is from the operator list, not the site. Phone 246-850-7774 is used across the site, but the FAQs page also shows 246-267-3339. A product called Charter Booking (Free, one person) exists at /product/charter-booking/ and looks like a placeholder; not included as a trip. Special Offers page says no offer is available now. Trading: products dated 2026 and blog posts dated October 2026. Contact form has a reCAPTCHA field; all pages loaded normally. The operator list says it is also sold on Viator, TripAdvisor and Expedia; those links are not recorded."
+}

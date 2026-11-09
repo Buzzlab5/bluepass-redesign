@@ -1,0 +1,388 @@
+{
+  "slug": "rogers-scuba-shack",
+  "name": "Roger's Scuba Shack",
+  "website": "https://rogersscuba.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Carlisle Bay",
+  "category": "Scuba diving and PADI courses",
+  "summary": "A family-owned PADI dive shop on Carlisle Bay, on Highway 7. Every dive goes out by boat, with a two-tank dive each morning and try dives at midday in the bay's marine park, home to several shipwrecks. They also run snorkel trips and PADI courses up to Divemaster.",
+  "standouts": [
+    "PADI 5 Star dive shop",
+    "Family owned",
+    "Two dive boats, Phoenix and Melissa",
+    "All dive prices include full equipment and VAT"
+  ],
+  "contact": {
+    "phone": "+1 246 436 3483",
+    "email": "info@rogersscubashack.com",
+    "address": "Carlisle Bay, Highway 7, Barbados",
+    "whatsapp": null
+  },
+  "heroImage": "https://rogersscuba.com/wp-content/uploads/2024/12/Phoenix.jpg",
+  "sourceUrls": [
+    "https://rogersscuba.com/",
+    "https://rogersscuba.com/rates/",
+    "https://rogersscuba.com/general-information/",
+    "https://rogersscuba.com/discover-scuba-diving/",
+    "https://rogersscuba.com/open-water-diver/",
+    "https://rogersscuba.com/advanced-open-water/",
+    "https://rogersscuba.com/rescue-diver/",
+    "https://rogersscuba.com/master-scuba-diver/",
+    "https://rogersscuba.com/divemaster/",
+    "https://rogersscuba.com/boats/",
+    "https://rogersscuba.com/photos/",
+    "https://rogersscuba.com/contacts/"
+  ],
+  "trips": [
+    {
+      "title": "Two Tank Dive",
+      "kind": "dive",
+      "summary": "The shop's morning boat trip, with two dives at different sites around the island's reefs and wrecks. You meet at the shop at 9 am, or they collect you from your hotel, and you are back around 1.30 pm. Full equipment is included.",
+      "highlights": [
+        "Two dives at different sites",
+        "Meet at 9 am, back around 1.30 pm",
+        "Hotel pick-up can be arranged",
+        "Packages of 3, 5 and 10 dives"
+      ],
+      "duration": "9 am to around 1.30 pm",
+      "durationMinutes": null,
+      "departureTimes": ["09:00"],
+      "season": "Open daily",
+      "departsFrom": "Roger's Scuba Shack, Carlisle Bay, Highway 7",
+      "prices": [
+        { "label": "Two Tank Dive", "amount": 155, "currency": "USD", "note": null },
+        { "label": "3 Dive Package", "amount": 225, "currency": "USD", "note": null },
+        { "label": "5 Dive Package", "amount": 340, "currency": "USD", "note": null },
+        { "label": "10 Dive Package", "amount": 600, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 155,
+      "includes": [
+        "All equipment: BCD, regulator, fins, mask, wetsuit, tank and weights",
+        "VAT"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_1543.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_0261.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://rogersscuba.com/general-information/",
+      "checkNotes": "Prices from /rates/, which says all prices are in US Dollars and include VAT. The rates page lists the 3, 5 and 10 dive packages without saying which trips they cover; placed with the morning two-tank dive. Booking by phone, email or contact form; payment taken on the day in cash, Visa or Mastercard."
+    },
+    {
+      "title": "One Tank Dive",
+      "kind": "dive",
+      "summary": "A single guided boat dive for certified divers, with full equipment included. The site lists the price but not a set time.",
+      "highlights": ["Full equipment included", "Hotel pick-up can be arranged"],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Roger's Scuba Shack, Carlisle Bay, Highway 7",
+      "prices": [
+        { "label": "One Tank Dive", "amount": 90, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 90,
+      "includes": [
+        "All equipment: BCD, regulator, fins, mask, wetsuit, tank and weights",
+        "VAT"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://rogersscuba.com/rates/",
+      "checkNotes": "The General Information page only describes the morning two-tank dive and the midday Discover Scuba; no time is given for single dives."
+    },
+    {
+      "title": "Night Dive",
+      "kind": "dive",
+      "summary": "A guided night dive for certified divers. Dive lights can be added for a small charge.",
+      "highlights": ["Night dive lights available"],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Roger's Scuba Shack, Carlisle Bay, Highway 7",
+      "prices": [
+        { "label": "Night Dive", "amount": 95, "currency": "USD", "note": null },
+        { "label": "Night Dive Lights", "amount": 15, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 95,
+      "includes": [
+        "All equipment: BCD, regulator, fins, mask, wetsuit, tank and weights",
+        "VAT"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://rogersscuba.com/rates/",
+      "checkNotes": "No time or details given beyond the price."
+    },
+    {
+      "title": "Snorkel Trips",
+      "kind": "snorkel",
+      "summary": "Snorkel trips run by the dive shop. The rates page lists the price but gives no route, time or length.",
+      "highlights": [],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Roger's Scuba Shack, Carlisle Bay, Highway 7",
+      "prices": [
+        { "label": "Snorkel Trips", "amount": 30, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 30,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://rogersscuba.com/rates/",
+      "checkNotes": "Only a name and price on the rates page; ask the operator what the trip covers."
+    },
+    {
+      "title": "Discover Scuba Diving",
+      "kind": "dive",
+      "summary": "A first try at scuba with a PADI instructor, with no experience needed. You learn the basics and practise simple skills in shallow water, then dive in Carlisle Bay, a marine park with shipwrecks. The dive can count toward a later PADI Scuba Diver or Open Water certification.",
+      "highlights": [
+        "Dive in Carlisle Bay marine park, with shipwrecks",
+        "Instructor-led briefing and shallow water skills",
+        "Meet at 12 pm, back around 3 pm",
+        "The dive can count toward PADI Open Water"
+      ],
+      "duration": "2 – 3 hour session",
+      "durationMinutes": null,
+      "departureTimes": ["12:00"],
+      "season": null,
+      "departsFrom": "Roger's Scuba Shack, Carlisle Bay, Highway 7",
+      "prices": [
+        { "label": "Per person", "amount": 125, "currency": "USD", "note": "Including instructor lead presentations and all the gear needed" }
+      ],
+      "priceFrom": 125,
+      "includes": [
+        "Instructor-led presentations",
+        "All the gear needed"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://rogersscuba.com/wp-content/uploads/2018/06/Photo-12-14-16-2-04-25-PM.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2018/06/IMG_1455.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2018/06/Photo-3-15-17-8-59-59-AM.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://rogersscuba.com/discover-scuba-diving/",
+      "checkNotes": "Course page gives a typical session of 12:00 to 2.30 pm; the General Information page says meet at 12 pm, back around 3 pm. Transport between hotel and shop can be arranged."
+    },
+    {
+      "title": "PADI Open Water Course",
+      "kind": "course",
+      "summary": "The entry-level PADI certification, which lets you dive to 18 metres with a buddy. You do the theory online before you arrive (about 5 to 10 hours), then confined water sessions and open water dives over about two days. A referral option is listed for those who did the pool work at home.",
+      "highlights": [
+        "About four days in total",
+        "Theory by PADI eLearning before you travel",
+        "Certifies you to 18 metres / 60 feet",
+        "Referral option available"
+      ],
+      "duration": "Four days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Roger's Scuba Shack, Carlisle Bay, Highway 7",
+      "prices": [
+        { "label": "PADI Open Water Course", "amount": 600, "currency": "USD", "note": null },
+        { "label": "Referral", "amount": 350, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 600,
+      "includes": [
+        "All equipment: BCD, regulator, fins, mask, wetsuit, tank and weights"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://rogersscuba.com/wp-content/uploads/2015/11/newdivers.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2017/12/Photo-1-1-13-1-21-26-AM.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_1468.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2018/06/Photo-2-24-17-3-55-23-PM.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://rogersscuba.com/open-water-diver/",
+      "checkNotes": "Prices from /rates/. 'Referral' is listed there without detail; placed here as the Open Water referral by its name. The rates page says the course runs over four days; the course page says about four days in total."
+    },
+    {
+      "title": "PADI Advanced Open Water",
+      "kind": "course",
+      "summary": "Five adventure dives that build on Open Water: deep diving and underwater navigation, plus three you choose, such as night, wreck or photography. It certifies you to dive to 30 metres and usually runs over two to three full days.",
+      "highlights": [
+        "Five dives over 2 to 3 full days",
+        "Deep and navigation dives, plus three of your choice",
+        "Certifies you to 30 metres"
+      ],
+      "duration": "2 -3 full days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Roger's Scuba Shack, Carlisle Bay, Highway 7",
+      "prices": [
+        { "label": "PADI Advanced Open Water", "amount": 450, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 450,
+      "includes": [
+        "All equipment: BCD, regulator, fins, mask, wetsuit, tank and weights"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_0130.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_1466.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2011/12/Image63.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2018/06/Photo-1-9-13-2-39-59-AM.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://rogersscuba.com/advanced-open-water/",
+      "checkNotes": "Price from /rates/. The course page says 'The Advanced Open Water course with In Deep', which looks like text copied from another dive centre."
+    },
+    {
+      "title": "Rescue Diver",
+      "kind": "course",
+      "summary": "The PADI Rescue Diver course: self rescue, spotting stress in other divers, and handling panicked or unresponsive divers. It ends with rescue scenarios in open water and is the step before professional training.",
+      "highlights": [
+        "Self rescue and emergency management",
+        "Rescuing panicked and unresponsive divers",
+        "12 open water training exercises"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Roger's Scuba Shack, Carlisle Bay, Highway 7",
+      "prices": [
+        { "label": "Rescue Diver", "amount": 550, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 550,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_0076.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2018/06/Stone-fish-1.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2018/06/Photo-1-19-17-1-02-09-PM.png"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://rogersscuba.com/rescue-diver/",
+      "checkNotes": "Price from /rates/."
+    },
+    {
+      "title": "Master Scuba Diver",
+      "kind": "course",
+      "summary": "PADI's highest recreational rating, earned over time rather than on a set course. You need Rescue Diver, five PADI specialty courses and at least 50 logged dives.",
+      "highlights": [
+        "Minimum age 15",
+        "PADI Rescue Diver required",
+        "Five PADI Specialty Diver courses",
+        "At least 50 logged dives"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "15 years old; PADI Rescue Diver; minimum of five PADI Specialty Diver courses; minimum of 50 logged dives",
+      "offer": null,
+      "images": [
+        "https://rogersscuba.com/wp-content/uploads/2015/11/newdivers.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://rogersscuba.com/master-scuba-diver/",
+      "checkNotes": "No price shown; it is a rating built from other courses."
+    },
+    {
+      "title": "Divemaster",
+      "kind": "course",
+      "summary": "The first professional PADI level, working closely with an instructor on theory, dive planning and supervising divers in training. It is open to certified Advanced Open Water and Rescue Divers.",
+      "highlights": [
+        "12 theory presentations and exams",
+        "Dive site mapping and an emergency assistance plan",
+        "Supervising students in training",
+        "Rescue skills workshop"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Roger's Scuba Shack, Carlisle Bay, Highway 7",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "Certified PADI Advanced Open Water Diver and Rescue Diver",
+      "offer": null,
+      "images": [
+        "https://rogersscuba.com/wp-content/uploads/2018/06/Photo-1-9-13-3-51-54-AM.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_1469.jpg",
+        "https://rogersscuba.com/wp-content/uploads/2017/12/IMG_1482.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://rogersscuba.com/divemaster/",
+      "checkNotes": "No price shown on the site."
+    },
+    {
+      "title": "Courses Offered",
+      "kind": "course",
+      "summary": "PADI specialty and first aid courses listed on the rates page: Deep Diver, Wreck Diver, Night Diver, Underwater Navigator, Underwater Naturalist, Underwater Photography and Medic First Aid.",
+      "highlights": [
+        "Deep Diver and Wreck Diver",
+        "Night Diver and Underwater Navigator",
+        "Underwater Naturalist and Underwater Photography",
+        "Medic First Aid"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Roger's Scuba Shack, Carlisle Bay, Highway 7",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://rogersscuba.com/rates/",
+      "checkNotes": "Names only, no prices or details. 'Dive Master' is also in this list and has its own entry above."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Discount on dives and dive packages for divers with their own BCD and regulator",
+      "conditions": null,
+      "validUntil": null,
+      "sourceUrl": "https://rogersscuba.com/rates/"
+    },
+    {
+      "text": "Round trip transport between your hotel and the shop",
+      "conditions": "Can be arranged when booking",
+      "validUntil": null,
+      "sourceUrl": "https://rogersscuba.com/rates/"
+    }
+  ],
+  "checkNotes": "Enquiry only: the site says to call, email or use the contact form to book, and charges are made on the day (cash, Visa or Mastercard). No WhatsApp link. The rates page states the discount for own equipment as a percentage; left out here. Site footer says 2024 and the newest updates (team and boat photos) are from November and December 2024; prices carry no date. Status is active in our list, but no 2025 or 2026 content was seen, so worth confirming prices with the operator."
+}

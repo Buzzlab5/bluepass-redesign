@@ -1,0 +1,153 @@
+{
+  "slug": "bayplay",
+  "logo": "https://bayplay.com.au/wp-content/uploads/2023/08/Bayplay-logo-new.png",
+  "gallery": [
+    "https://bayplay.com.au/wp-content/uploads/2022/11/Kayak-Slider.jpg",
+    "https://bayplay.com.au/wp-content/uploads/2022/11/Snorkel-Header.jpg",
+    "https://bayplay.com.au/wp-content/uploads/2022/10/Facemask-Slider.jpg",
+    "https://bayplay.com.au/wp-content/uploads/2022/11/Sea-Dragon-New-1.jpg",
+    "https://bayplay.com.au/wp-content/uploads/2022/10/Sea-Kayak-Sanctuary-2.jpg",
+    "https://bayplay.com.au/wp-content/uploads/2025/08/Snorkelling.jpg",
+    "https://bayplay.com.au/wp-content/uploads/2025/12/Dive-Site-hero.jpg",
+    "https://bayplay.com.au/wp-content/uploads/2022/11/SUP-Headers.jpg",
+    "https://bayplay.com.au/wp-content/uploads/2022/11/Bay-Play-Gallery-1.jpg",
+    "https://bayplay.com.au/wp-content/uploads/2022/11/Bay-Play-Gallery-2.jpg",
+    "https://bayplay.com.au/wp-content/uploads/2022/11/Bay-Play-Gallery-3.jpg",
+    "https://bayplay.com.au/wp-content/uploads/2022/11/Bay-Play-Gallery-4.jpg",
+    "https://bayplay.com.au/wp-content/uploads/2022/11/Bay-Play-Gallery-5.jpg",
+    "https://bayplay.com.au/wp-content/uploads/2022/11/Bay-Play-Gallery-6.jpg",
+    "https://bayplay.com.au/wp-content/uploads/2022/11/Bay-Play-Gallery-7.jpg",
+    "https://bayplay.com.au/wp-content/uploads/2022/11/Bay-Play-Gallery-8.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Snorkel With Sea Dragons",
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Snorkel-Sea-Dragon.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Snorkel-Dragons.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Sea-Dragon-New-1.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Sea-Dragon-New-2.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Sea-Dragon-New-3.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Snorkel-Header.jpg"
+      ]
+    },
+    {
+      "title": "Kayak The Dolphin Sanctuary",
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/10/Sea-Kayaking-slider-1.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/10/Sea-Kayaking-slider-2.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/10/Kayak-Dolphin-Mornington-Peninsula-1.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/10/Kayak-Dolphin-Mornington-Peninsula-2.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/10/Kayak-Dolphin-Mornington-Peninsula-3.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/10/Kayak-Dolphin-Mornington-Peninsula-4.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/10/Kayak-Dolphin-Mornington-Peninsula-5.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/10/Kayak-Dolphin-Mornington-Peninsula-6.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/10/Kayak-Dolphin-Mornington-Peninsula-7.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/10/Kayak-Dolphin-Mornington-Peninsula-8.jpg"
+      ]
+    },
+    {
+      "title": "Discover Scuba Dive",
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2025/12/Scuba-Diving_0006_DSD-1.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2025/12/Scuba-Diving_0005_DSD-2.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2025/12/Scuba-Diving_0004_DSD-3.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2025/12/Scuba-Diving_0003_DSD-4.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2025/12/Scuba-Diving_0002_DSD-5.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2025/12/Scuba-Diving_0001_DSD-6.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2025/12/Scuba-Diving_0000_DSD-7.jpg"
+      ]
+    },
+    {
+      "title": "Guided Scuba Dive for Certified Divers",
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2025/12/Dive-Site-hero.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Guided-Diving-Tours.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Scuba-Diving-Explore.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Nudibranch-1.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2025/12/Octopus-1.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Nudibranch-2.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2025/12/Octopus-2.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Nudibranch-3.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2025/12/Octopus-3.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Sea-Dragon-New-1.jpg"
+      ]
+    },
+    {
+      "title": "PADI Open Water Course",
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Padi-Open-Water-page.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Padi-Open-Water.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Private-Diving-Tours.jpg"
+      ]
+    },
+    {
+      "title": "PADI Advanced Open Water Course",
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Padi-Advanced-page.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Padi-Advanced.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Private-Diving-Tours.jpg"
+      ]
+    },
+    {
+      "title": "PADI Refresher Course",
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Diving-Portsea.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Padi-Refresher.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Private-Diving-Tours.jpg"
+      ]
+    },
+    {
+      "title": "PADI Rescue Diver Course",
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Padi-Rescue-page.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Private-Diving-Tours.jpg"
+      ]
+    },
+    {
+      "title": "Stand-Up Paddle Board",
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/SUP.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/SUP-Mornington-Peninsula.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Paddleboard-1.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Paddleboard-2-1.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Paddleboard-3.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Paddleboard-4.jpeg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/SUP-Headers.jpg"
+      ]
+    },
+    {
+      "title": "Private Guided Scuba Dives",
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Private-Diving-Tours.jpg",
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Guided-Diving-Tours.jpg"
+      ]
+    },
+    {
+      "title": "Private Discover Scuba Dive",
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Guided-Diving-Tours.jpg"
+      ]
+    },
+    {
+      "title": "Private Kayak Tour - Dolphin Sanctuary",
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Guided-Kayak-Tours.jpg"
+      ]
+    },
+    {
+      "title": "Private Snorkel with Sea Dragons",
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/Guided-Snorkel-Tours.jpg"
+      ]
+    },
+    {
+      "title": "Private Stand Up Paddle Board tour",
+      "images": [
+        "https://bayplay.com.au/wp-content/uploads/2022/11/SUP-Mornington-Peninsula.jpg"
+      ]
+    }
+  ],
+  "notes": "Nothing blocked: the site answered every request normally and no bot check appeared. No image files were opened (the brief says not to download them), so every choice here is from file names, where the file sits on the page and file size, and a person should look at the hero and gallery before publishing. All image URLs were checked with a header request and load. Logo is the header logo as the site serves it (Bayplay-logo-new.png, shown at 500 pixels wide); no larger version was found. No heroImage given: the facts file already uses the wide Kayak-Slider.jpg home page slide; other wide candidates are in the gallery (Snorkel-Header.jpg, Facemask-Slider.jpg, Dive-Site-hero.jpg, SUP-Headers.jpg). Gallery leads with those slider and header photos, then Sea-Dragon-New-1.jpg, Sea-Kayak-Sanctuary-2.jpg, Snorkelling.jpg and the first eight photos from the site's own Gallery page (Bay-Play-Gallery-1 to 8, 29 on the page); their contents were not checked, so some may show land activities. Videos: none. No YouTube or Vimeo embed or link appears on any page read, and the footer links only go to Facebook and Instagram, which were not opened. Left out: Sea-Dragon-CTA.jpg (the call to action band repeated at the foot of every page, banner style), Snorkel-Gear.png, Stand-Up-Paddleboard.png, Scuba-Diver_isolated.png and Sea-Kayak-isolated.jpg (cut-out graphics), PADI-logo.jpg, Quality-Tourism-logo.jpg and DAN-World.jpg (logos and badges), Water-Sea_background-2.jpg, Water_Strip.jpg, PADI-Filler.jpg and Hire-Divider.jpg (backgrounds and dividers), the Instagram feed (placeholder images only), accommodation, bike, walking and hire photos (BayPlay-Accommodation.jpg, Portsea-Retreat, Bike and Walk images, Dive-hire.jpg, Stand-up-hire.jpg, Sit-on-Top.jpg, Sea-Kayak-hire.jpg), and the 640x480 and 480x313 resized copies (full-size originals used and all load). Trip photos: the three PADI course pages and the private tour cards have only one or two photos of their own. Private-Diving-Tours.jpg is a section image shared across the dive and course pages. Guided Scuba Dive photos include the Dive Locations page (weedy sea dragon, nudibranch and octopus sites). The private tour images are card pictures on the Private Tours page. The Open Water, Advanced and Refresher pictures named Padi-* without 'page' are the cards on the PADI courses index. No photo on the site carries another business or photographer credit. The Gallery page alt text shows camera file names only. The Corporate page has newer 2025 photos (Wetsuit-group-photo.jpg, Sea-Dragons.jpg, Secrets.jpg, 1-Kayak.jpg, SUP.jpg) that were not used because they sit on a group enquiry page."
+}

@@ -1,0 +1,219 @@
+{
+  "slug": "reefwalker-ocean-discovery",
+  "name": "Reefwalker Ocean Discovery Tours",
+  "website": "https://reefwalker.com.au",
+  "rezdyAlias": "reefwalkercharters",
+  "state": "WA",
+  "town": "Kalbarri",
+  "category": "Whale watching and cruises",
+  "summary": "Whale watching, sunset coastal cliff cruises, crayfish pot pulling and deep sea fishing charters from Kalbarri on the Coral Coast. Trips leave from the Kalbarri Maritime Facility on Isle G, a 50ft vessel licensed to carry up to 29 passengers. The business was started by the late Robert Curic in 1992 and is now run by his son, Aydan Curic.",
+  "standouts": [
+    "Family business established in 1992, now run by owner and skipper Aydan Curic",
+    "Isle G is a 50ft West Coaster licensed to carry up to 29 passengers, with a shaded deck, seating and toilets",
+    "No minimum age on tours; children under 3 travel free",
+    "Passengers may bring their own alcohol on board, with glasses and an ice box provided"
+  ],
+  "contact": {
+    "phone": "+61 417 931 091",
+    "email": "reefwalker@wn.com.au",
+    "address": "Kalbarri Maritime Facility, Grey Street, Kalbarri WA 6536"
+  },
+  "heroImage": "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1656649647519-FASCYVRPJMKXJSI0HR3X/Kalbarri+Cliffs+%28Large%29.png",
+  "sourceUrls": [
+    "https://www.reefwalker.com.au/",
+    "https://www.reefwalker.com.au/tours",
+    "https://www.reefwalker.com.au/our-story",
+    "https://www.reefwalker.com.au/faq",
+    "https://www.reefwalker.com.au/terms-and-conditions",
+    "https://www.reefwalker.com.au/contact",
+    "https://www.reefwalker.com.au/gallery",
+    "https://www.reefwalker.com.au/sitemap.xml",
+    "https://www.reefwalker.com.au/robots.txt"
+  ],
+  "trips": [
+    {
+      "title": "Kalbarri Sunset Coastal Cliff Cruise",
+      "kind": "cruise",
+      "summary": "A sunset cruise of about 90 minutes on Isle G along the Kalbarri coastal cliffs, where the cliffs meet the Indian Ocean. It suits the end of a day spent exploring on land. Guests can bring their own drinks on board.",
+      "highlights": [
+        "Sunset cruise along the Kalbarri coastal cliffs",
+        "About 90 minutes on the water",
+        "Bring your own drinks; glasses and an ice box provided",
+        "Shaded deck with seating and toilets on Isle G"
+      ],
+      "duration": "approximately 90 minutes",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Kalbarri Maritime Facility, Grey Street, Kalbarri (Pen 1, about 300m north of the Kalbarri IGA)",
+      "prices": [
+        {
+          "label": "From price (lowest ticket price listed)",
+          "amount": 50,
+          "currency": "AUD",
+          "note": "Starting price shown for this trip. Other ticket types are not listed."
+        }
+      ],
+      "priceFrom": 50,
+      "includes": [
+        "Own drinks allowed on board; wine glasses, champagne glasses and an ice box are provided"
+      ],
+      "bring": [
+        "Jumper or windproof jacket (conditions at sea are often cooler than on land)",
+        "Comfortable lightweight clothing",
+        "Covered shoes, worn at all times during the tour",
+        "Seasickness tablets if you need them (not supplied; the crew offer water and assistance on board)"
+      ],
+      "requirements": "No minimum age. A child ticket covers ages 3 to 12 and children under 3 are free. Children must be supervised by a parent or guardian at all times and are not allowed on the flybridge or in the wheelhouse.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/f2420b63-fd8b-45e9-b40a-6f5b0f789166/Kalbarri+Sunset+copy.jpg",
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/ad4888e8-530e-454c-a770-00ece9870f39/Reefwalker+Cruise+%28Large%29.jpg",
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1656649647519-FASCYVRPJMKXJSI0HR3X/Kalbarri+Cliffs+%28Large%29.png",
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1656649625908-1T10MSKE4J5WJ8PJ1264/Kalbarri+Cliffs.jpg"
+      ],
+      "bookingLinks": [
+        "https://reefwalkercharters.rezdy.com/384018/kalbarri-sunset-coastal-cliff-cruise"
+      ],
+      "sourceUrl": "https://www.reefwalker.com.au/tours",
+      "checkNotes": "Only a 'From AUD $50.00' price is shown, with no adult, child or family breakdown, so adult versus child is unknown. No departure time is stated (sunset timing changes through the year); times are in the booking system, which was not opened. No season is stated for this trip; the home page says the business explores the region all year round. The home page calls this its most popular tour; not repeated here. Booking link taken from the trip's Book Now button; the booking system was not opened."
+    },
+    {
+      "title": "Kalbarri Whale Watching Tour",
+      "kind": "cruise",
+      "summary": "A cruise of about two hours along the Kalbarri coastline during the humpback whale migration season, watching the whales' migrating behaviour. Whales are wild, so where they are found and how long it takes to find them varies. There is no minimum age, and children under 3 are free.",
+      "highlights": [
+        "Humpback whale watching along the Kalbarri coastline",
+        "About 2 hours on the water",
+        "Runs during the whale migration season",
+        "Own drinks allowed on board"
+      ],
+      "duration": "approximately 2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Kalbarri Maritime Facility, Grey Street, Kalbarri (Pen 1, about 300m north of the Kalbarri IGA)",
+      "prices": [
+        {
+          "label": "From price (lowest ticket price listed)",
+          "amount": 85,
+          "currency": "AUD",
+          "note": "Starting price shown for this trip. Other ticket types are not listed."
+        }
+      ],
+      "priceFrom": 85,
+      "includes": [
+        "Own drinks allowed on board; wine glasses, champagne glasses and an ice box are provided"
+      ],
+      "bring": [
+        "Jumper or windproof jacket (conditions at sea are often cooler than on land)",
+        "Comfortable lightweight clothing",
+        "Covered shoes, worn at all times during the tour",
+        "Seasickness tablets if you need them (not supplied; the crew offer water and assistance on board)"
+      ],
+      "requirements": "No minimum age. A child ticket covers ages 3 to 12 and children under 3 are free. Children must be supervised by a parent or guardian at all times and are not allowed on the flybridge or in the wheelhouse.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/b37edfaa-86a8-4281-8550-af7c0a52c7d4/Humpback+2+%28Large%29.jpg",
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/46f4cd5e-7ce5-4e64-b3e8-eea23f1e09ce/Humpback+2+%28Large%29.png",
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1656649220922-VVAIMHO4BNXGFC7ZWR9O/Whale+4+%28Large%29.jpg",
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1656649737032-6XR5RYU2IS8WVJ0CQLNO/Whale+tail.png"
+      ],
+      "bookingLinks": [
+        "https://reefwalkercharters.rezdy.com/383816/kalbarri-whale-watching"
+      ],
+      "sourceUrl": "https://www.reefwalker.com.au/tours",
+      "checkNotes": "Season is given only as 'during migration season'; no months are stated, so season is null. No departure time is stated. Only a 'From AUD $85.00' price is shown, with no ticket breakdown. The FAQ and terms page state a whale sighting guarantee with a free return tour voucher valid for 2 years (subject to availability, non-transferable, and a no sighting is decided by the operator); this is not repeated as fact in the copy. The FAQ also says the location and duration of finding whales cannot be guaranteed. Booking link taken from the trip's Book Now button; the booking system was not opened."
+    },
+    {
+      "title": "Kalbarri Crayfish Catch & Keep Tour",
+      "kind": "tour",
+      "summary": "A hands-on cruise of about 90 minutes where guests haul pots to catch Western Rock Lobster, guided by the crew. It is run as a catch and keep tour. Own drinks are allowed on board.",
+      "highlights": [
+        "Haul the pots to catch Western Rock Lobster",
+        "Interactive trip guided by the crew",
+        "About 90 minutes on the water",
+        "Own drinks allowed on board"
+      ],
+      "duration": "approximately 90 minutes",
+      "durationMinutes": 90,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Kalbarri Maritime Facility, Grey Street, Kalbarri (Pen 1, about 300m north of the Kalbarri IGA)",
+      "prices": [
+        {
+          "label": "From price (lowest ticket price listed)",
+          "amount": 85,
+          "currency": "AUD",
+          "note": "Starting price shown for this trip. Other ticket types are not listed."
+        }
+      ],
+      "priceFrom": 85,
+      "includes": [
+        "Own drinks allowed on board; wine glasses, champagne glasses and an ice box are provided"
+      ],
+      "bring": [
+        "Jumper or windproof jacket (conditions at sea are often cooler than on land)",
+        "Comfortable lightweight clothing",
+        "Covered shoes, worn at all times during the tour",
+        "Seasickness tablets if you need them (not supplied; the crew offer water and assistance on board)"
+      ],
+      "requirements": "No minimum age. A child ticket covers ages 3 to 12 and children under 3 are free. Children must be supervised by a parent or guardian at all times and are not allowed on the flybridge or in the wheelhouse.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/b598ca4c-9915-4e6c-94c2-4fdf2a96a2dd/Lobster+%28Large%29.jpg"
+      ],
+      "bookingLinks": [
+        "https://reefwalkercharters.rezdy.com/384015/kalbarri-rocklobster-pot-pull-tour"
+      ],
+      "sourceUrl": "https://www.reefwalker.com.au/tours",
+      "checkNotes": "Only a 'From AUD $85.00' price is shown, with no ticket breakdown. No departure time or season is stated. The page does not say how much guests may keep, or what the catch rules are; a person should check what 'Catch & Keep' covers. The booking link slug reads 'kalbarri-rocklobster-pot-pull-tour'. Booking link taken from the trip's Book Now button; the booking system was not opened."
+    },
+    {
+      "title": "Kalbarri Deep Sea Fishing Charter",
+      "kind": "charter",
+      "summary": "A deep sea fishing charter of about 8 hours for beginners and experienced anglers, with single line or share line options. Target species depend on the season and include pink snapper, dhufish, coral trout, red emperor, bald chin groper, Spanish mackerel, yellowfin tuna and sharks. All ages are welcome on board.",
+      "highlights": [
+        "Single line or share line options",
+        "Suits beginners and experienced anglers",
+        "Target species vary by season",
+        "Runs from 16 December to 14 October each year"
+      ],
+      "duration": "approximately 8 hours",
+      "durationMinutes": 480,
+      "departureTimes": [],
+      "season": "16 December to 14 October each year",
+      "departsFrom": "Kalbarri Maritime Facility, Grey Street, Kalbarri (Pen 1, about 300m north of the Kalbarri IGA)",
+      "prices": [
+        {
+          "label": "From price (lowest ticket price listed)",
+          "amount": 275,
+          "currency": "AUD",
+          "note": "Starting price shown for this trip. Other ticket types are not listed."
+        }
+      ],
+      "priceFrom": 275,
+      "includes": [
+        "Own drinks allowed on board; wine glasses, champagne glasses and an ice box are provided"
+      ],
+      "bring": [
+        "Jumper or windproof jacket (conditions at sea are often cooler than on land)",
+        "Comfortable lightweight clothing",
+        "Covered shoes, worn at all times during the tour",
+        "Seasickness tablets if you need them (not supplied; the crew offer water and assistance on board)"
+      ],
+      "requirements": "No minimum age. A child ticket covers ages 3 to 12 and children under 3 are free. Children must be supervised by a parent or guardian at all times and are not allowed on the flybridge or in the wheelhouse.",
+      "offer": null,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/628f100fbc44a2412c17576b/1656649288497-49UDYZHKOQ41ON9AMHS7/GOPR0051_lg.png"
+      ],
+      "bookingLinks": [
+        "https://reefwalkercharters.rezdy.com/384413/kalbarri-deep-sea-fishing-charter"
+      ],
+      "sourceUrl": "https://www.reefwalker.com.au/tours",
+      "checkNotes": "Seasonal: the page says fishing charters run from 16 December to 14 October each year, so the date this was read (16 October 2026) falls in the closed gap; confirm the next opening date before publishing. Only a 'From AUD $275.00' price is shown; the single line and share line prices are not listed. The site does not say whether rods, bait, tackle or food are included. No departure time is stated. Departure point, what to bring and age rules are taken from the general FAQ and terms, which are written for the tours in general. This trip appears only on the tours page, not on the home page. Booking link taken from the trip's Book Now button; the booking system was not opened."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Domain: https://reefwalker.com.au does not load over https (it presents a Squarespace certificate for other names); the http address redirects to https://www.reefwalker.com.au, which is the same business, and every page here was read there. No other business's domain is involved. Name: the site header, page titles and About page say 'Reefwalker Ocean Discovery Tours'; the FAQ and terms page say 'Reefwalker Ocean Discovery'. The booking account is 'reefwalkercharters' and the review links on the Contact page name 'Reefwalker Charters Kalbarri'; these look like the same business under an earlier name, but a person should confirm the Rezdy account belongs to this operator. Prices: the site shows only a 'From' price for each trip and the full ticket list sits in the booking system, which was not opened (Rezdy pages are not fetched), so each trip has one price option only. The FAQ gives the child ticket age range as 3 to 12 and says under 3s are free, but no child price is shown. Departure times and the whale watching season are not stated anywhere on the site. The Book Now button in the menu links to the booking catalogue (https://reefwalkercharters.rezdy.com/catalog/387893/tours), not to a single trip; it is not recorded as a trip link, and the catalogue may list more trips than the four on the site. Sighting guarantee: the FAQ and terms page promise a sighting guarantee with a free return voucher; left out of the copy. Cancellations (terms page): must be in writing, not by phone; fees rise as departure gets closer and nothing is refunded within 12 hours of departure; weather cancellations by the operator offer a full refund or a reschedule; missed tours and seasickness are not refunded or rescheduled. Phone shown on the site as 0417 931 091. No land-only activities, hire or other businesses' trips were found. No gift vouchers or offers are shown on the site."
+}

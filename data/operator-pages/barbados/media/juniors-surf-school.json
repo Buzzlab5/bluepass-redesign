@@ -1,0 +1,42 @@
+{
+  "slug": "juniors-surf-school",
+  "logo": "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/64f64ed0-cb3a-4c03-9256-63e9ad46f583/jss_black_logo.png",
+  "gallery": [
+    "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/4d03a596-7267-420b-8104-c68290072464/Junior_surfing.jpg",
+    "https://static1.squarespace.com/static/62015b66c6c93a12a555289e/t/64c4bf31f64df0756c12ea35/1690615618703/_AA07206.jpg",
+    "https://static1.squarespace.com/static/62015b66c6c93a12a555289e/t/64c4beccf8cb8d77ee7eb954/1690615514131/_AA08750.jpg",
+    "https://static1.squarespace.com/static/62015b66c6c93a12a555289e/t/64c4be5ef8cb8d77ee7eb596/1690615395587/_AA01580.jpg",
+    "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/fbe36621-4293-4411-a9b7-2c6d0ffa41bc/Junior_class.png",
+    "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/d5bf53ca-12b4-4699-8de5-f1e311403a21/Junior_class1.png",
+    "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/317b0245-b52f-4eb5-b8df-b1c3508cd49d/Junior_class2.png",
+    "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/dea20cb4-d801-46a1-a71f-274b01091325/Junior_class3.png",
+    "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/21cacda8-1c9f-4ee3-8507-bacae98e041e/Junior_class1.png",
+    "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/71f249bf-1b64-4dba-b1a9-0d88cdf70a52/Junior_class3.png",
+    "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/eb35c65c-e3fe-4c2b-9bad-6cead3254c79/Junior_surf.png",
+    "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/64a2f662-611a-4493-b600-2af96156b2e1/Junior.png",
+    "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/18196b6d-5e47-4b10-b96d-91a67a99f20c/JSS-image1.png",
+    "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/1683731764726-REME9X1GM85R0CBNF9AP/IMG_02603B104066-1.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/1686414898043-F969DMG9DQVCLTKG38UB/best+surf+barbados+.jpg",
+    "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/1684778162877-0ULX6YCJ41UYTIKK4116/Best+Surf+schools+Barbados+.jpg"
+  ],
+  "videos": [],
+  "trips": [
+    {
+      "title": "Group Lessons",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/21cacda8-1c9f-4ee3-8507-bacae98e041e/Junior_class1.png",
+        "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/71f249bf-1b64-4dba-b1a9-0d88cdf70a52/Junior_class3.png",
+        "https://images.squarespace-cdn.com/content/v1/62015b66c6c93a12a555289e/4d03a596-7267-420b-8104-c68290072464/Junior_surfing.jpg"
+      ]
+    },
+    {
+      "title": "Private Lessons",
+      "images": []
+    },
+    {
+      "title": "Advanced Lessons",
+      "images": []
+    }
+  ],
+  "notes": "The pricing page that lists all three lessons has no photos of its own (only the logo and a footer drawing), so trip photos come from the schedule lesson page. Four home page photos are Unsplash stock (file names start unsplash-image) and were left out. A journal photo of Zed's Surfing Adventures was left out because it is credited to another business. The three _AA photos are the share images of the about, pricing and contact pages. No videos found on the site."
+}

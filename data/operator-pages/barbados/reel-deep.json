@@ -1,0 +1,208 @@
+{
+  "slug": "reel-deep",
+  "name": "Reel Deep",
+  "website": "https://reeldeepboat.com",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Holetown",
+  "category": "Fishing and private boat tours",
+  "summary": "Reel Deep is a Holetown boat run by Captain Alpha, who has more than 30 years at sea. It offers private fishing charters for wahoo, mahi mahi, barracuda and tuna, and private cruises along the coast with snorkelling stops. Trips are arranged by WhatsApp, phone or a quote form.",
+  "standouts": [
+    "Captain Alpha has over 30 years of experience",
+    "Private and group bookings, available daily",
+    "Fishing and cruising can be combined with snorkelling or beach stops",
+    "Sunrise and sunset cruise options"
+  ],
+  "contact": {
+    "phone": "+1 (246) 835-5671",
+    "email": "reeldeepboat@gmail.com",
+    "address": "Holetown, Barbados",
+    "whatsapp": "https://wa.link/m9u1el"
+  },
+  "heroImage": "https://reeldeepboat.com/wp-content/uploads/2025/02/webpghome.jpg",
+  "sourceUrls": [
+    "https://reeldeepboat.com/",
+    "https://reeldeepboat.com/services/",
+    "https://reeldeepboat.com/about-us/",
+    "https://reeldeepboat.com/gallery/",
+    "https://reeldeepboat.com/contact/"
+  ],
+  "trips": [
+    {
+      "title": "Half-Day Fishing Charter",
+      "kind": "charter",
+      "summary": "Four hours of deep-sea and reef fishing for wahoo, mahi mahi, barracuda, tuna and kingfish. Rods, bait and tackle are on board, and the crew guides first-timers.",
+      "highlights": [
+        "Deep-sea and reef fishing",
+        "Targets wahoo, mahi mahi, barracuda, tuna and kingfish",
+        "Suits beginners and casual anglers",
+        "Available daily, private or group"
+      ],
+      "duration": "4 Hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Rods, bait, tackle and fishing gear",
+        "Guidance from experienced captains and crew",
+        "Cold drinks and snacks onboard"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": ["https://reeldeepboat.com/wp-content/uploads/2025/01/Untitled-design-23.png"],
+      "bookingLinks": [],
+      "sourceUrl": "https://reeldeepboat.com/services/",
+      "checkNotes": "No prices on the site. Booked through the Get Quote form, WhatsApp or phone. Departure point is not stated on the trip; the business gives its location as Holetown."
+    },
+    {
+      "title": "Full-Day Fishing Charter",
+      "kind": "charter",
+      "summary": "Eight hours of deep-sea and reef fishing for anglers who want a longer day on the water. Gear, drinks and snacks are provided.",
+      "highlights": [
+        "Deep-sea and reef fishing",
+        "Targets wahoo, mahi mahi, barracuda, tuna and kingfish",
+        "Aimed at keen anglers",
+        "Available daily, private or group"
+      ],
+      "duration": "8 Hours",
+      "durationMinutes": 480,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Rods, bait, tackle and fishing gear",
+        "Guidance from experienced captains and crew",
+        "Cold drinks and snacks onboard"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": ["https://reeldeepboat.com/wp-content/uploads/2025/01/Untitled-design-23.png"],
+      "bookingLinks": [],
+      "sourceUrl": "https://reeldeepboat.com/services/",
+      "checkNotes": "No prices on the site. Booked through the Get Quote form, WhatsApp or phone."
+    },
+    {
+      "title": "Custom Fishing Experience",
+      "kind": "charter",
+      "summary": "A fishing trip planned around the group, for experienced anglers or larger parties. Length and route are agreed with the captain.",
+      "highlights": [
+        "Tailored to the group",
+        "For experienced anglers and groups",
+        "Private and group bookings"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Rods, bait, tackle and fishing gear",
+        "Cold drinks and snacks onboard"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": ["https://reeldeepboat.com/wp-content/uploads/2025/01/Untitled-design-23.png"],
+      "bookingLinks": [],
+      "sourceUrl": "https://reeldeepboat.com/services/",
+      "checkNotes": "No price or duration on the site. Booked through the Get Quote form, WhatsApp or phone."
+    },
+    {
+      "title": "Half-Day Private Cruise",
+      "kind": "cruise",
+      "summary": "A four-hour private cruise along the coast, suited to families and couples. Snorkelling, fishing or a beach stop can be added, and the home page lists snorkelling with turtles among its boat tours.",
+      "highlights": [
+        "Private boat for your group",
+        "Add snorkelling, fishing or beach stops",
+        "Sunrise and sunset options",
+        "Suits families and couples"
+      ],
+      "duration": "4 Hours",
+      "durationMinutes": 240,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Experienced captain and crew"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://reeldeepboat.com/wp-content/uploads/2025/01/Untitled-design-24.png",
+        "https://reeldeepboat.com/wp-content/uploads/2025/02/guestsswim.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://reeldeepboat.com/services/",
+      "checkNotes": "No prices on the site. Booked through the Get Quote form, WhatsApp or phone. The site mentions snorkelling with turtles but not feeding them."
+    },
+    {
+      "title": "Full-Day Private Cruise",
+      "kind": "cruise",
+      "summary": "An eight-hour private cruise that takes in several spots along the coast. Snorkelling, fishing or beach stops can be built into the day.",
+      "highlights": [
+        "Several stops in one day",
+        "Add snorkelling, fishing or beach stops",
+        "Private boat for your group"
+      ],
+      "duration": "8 Hours",
+      "durationMinutes": 480,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Experienced captain and crew"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": ["https://reeldeepboat.com/wp-content/uploads/2025/01/Untitled-design-24.png"],
+      "bookingLinks": [],
+      "sourceUrl": "https://reeldeepboat.com/services/",
+      "checkNotes": "No prices on the site. Booked through the Get Quote form, WhatsApp or phone."
+    },
+    {
+      "title": "Custom Tours",
+      "kind": "cruise",
+      "summary": "A private trip where the group plans its own route and activities, often used for honeymoons, birthdays and proposals. Details are agreed with the captain.",
+      "highlights": [
+        "Plan your own route and activities",
+        "For honeymoons, birthdays and proposals",
+        "Private boat for your group"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Holetown",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [
+        "Experienced captain and crew"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": ["https://reeldeepboat.com/wp-content/uploads/2025/01/Untitled-design-24.png"],
+      "bookingLinks": [],
+      "sourceUrl": "https://reeldeepboat.com/services/",
+      "checkNotes": "No price or duration on the site. Booked through the Get Quote form, WhatsApp or phone."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "No prices anywhere on the site; every trip is enquiry only through the Get Quote pop-up form, WhatsApp or phone. Two phone numbers appear: +1 (246) 835-5671 in the header and contact page, +1 (246) 850-5671 in the footer. The WhatsApp buttons use wa.link short links (wa.link/m9u1el and wa.link/dpweco), not wa.me. Email is hidden behind Cloudflare email protection on the page and decodes to the address given. Office hours on the contact page: Mon to Sat, 10.00AM to 05.30PM. The founder is named as Captain Alpha; customer reviews also name captains Ralph and Mario. Footer reads 2024 and uploads are dated early 2025; status given as active."
+}

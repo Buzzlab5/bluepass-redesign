@@ -1,0 +1,163 @@
+{
+  "slug": "kiteboarding-barbados",
+  "name": "Kiteboarding Barbados",
+  "website": "https://www.kiteboardingbarbados.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Silver Sands",
+  "category": "Kitesurfing lessons",
+  "summary": "Kiteboarding Barbados teaches kitesurfing on the south coast, with instructors from Barbados, at Silver Point or Long Beach depending on the wind. Lessons start at two hours, with all gear provided. They also teach surfing and rent surfboards and stand up paddleboards.",
+  "standouts": [
+    "Instructors from Barbados who know the local beaches",
+    "All kitesurfing gear provided, including lifejacket and helmet",
+    "Kitesurfing taught from 8 years old"
+  ],
+  "contact": {
+    "phone": "+1 246 236 2105",
+    "email": "info@kiteboardingbarbados.com",
+    "address": null,
+    "whatsapp": "https://wa.me/12462362105"
+  },
+  "heroImage": "https://www.kiteboardingbarbados.com/wp-content/uploads/2018/10/Website-Pic-Geoff-Kiteboarding.jpg",
+  "sourceUrls": [
+    "https://www.kiteboardingbarbados.com/",
+    "https://www.kiteboardingbarbados.com/kiteboarding-lessons-barbados-kitesurfing-barbados/",
+    "https://www.kiteboardingbarbados.com/sup-surfing-classes-barbados/",
+    "https://www.kiteboardingbarbados.com/faq/",
+    "https://www.kiteboardingbarbados.com/contact-us/",
+    "https://www.kiteboardingbarbados.com/gallery/",
+    "https://www.kiteboardingbarbados.com/sitemap.xml",
+    "https://www.kiteboardingbarbados.com/page-sitemap.xml"
+  ],
+  "trips": [
+    {
+      "title": "Kiteboarding Lessons",
+      "kind": "course",
+      "summary": "Kitesurfing lessons at Silver Point or Long Beach on the south coast, with the beach chosen by the wind on the day. You learn to set up and steer the kite, launch and land it safely, self rescue, body drag and get up on the board. The school says most learners need three to five two hour lessons to get up and riding.",
+      "highlights": [
+        "Lessons of 2, 4, 6, 8 or 10 hours",
+        "Gear, lifejacket and helmet provided",
+        "Peak kite season December to July",
+        "Wind usually 12 to 25 knots at peak times"
+      ],
+      "duration": "From 2 hours",
+      "durationMinutes": 120,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Silver Point or Long Beach, depending on wind direction",
+      "prices": [
+        { "label": "One on one, 2 hr and 4 hr lessons", "amount": 80, "currency": "USD", "note": "Per hour" },
+        { "label": "One on one, 6 hr and 8 hr lessons", "amount": 70, "currency": "USD", "note": "Per hour" },
+        { "label": "One on one, 10 hr lesson", "amount": 65, "currency": "USD", "note": "Per hour" },
+        { "label": "Bring a friend, 2 hr and 4 hr lessons", "amount": 60, "currency": "USD", "note": "Per hour; page does not say whether per person" },
+        { "label": "Bring a friend, 6 hr and 8 hr lessons", "amount": 55, "currency": "USD", "note": "Per hour; page does not say whether per person" },
+        { "label": "Bring a friend, 10 hr lesson", "amount": 50, "currency": "USD", "note": "Per hour; page does not say whether per person" }
+      ],
+      "priceFrom": 50,
+      "includes": ["Equipment", "Lifejacket", "Helmet"],
+      "bring": ["Water", "Sunglasses", "Hat", "Sunscreen", "Bathing trunks", "For women, bathing shorts over a swimsuit is recommended"],
+      "requirements": "From 8 years old; swimming ability needed",
+      "offer": null,
+      "images": [
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2018/10/IMG_1711.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.kiteboardingbarbados.com/kiteboarding-lessons-barbados-kitesurfing-barbados/",
+      "checkNotes": "Enquiry only: booked through a lesson request form on this page (no payment or instant confirmation), phone/WhatsApp or email. Rates are per hour with equipment included; groups larger than 2 must contact for rates. FAQ says group classes are 3 hours per lesson with three students per instructor, no price shown. Home page says classes run every day starting at 8:00 a.m., but the FAQ says kite lessons run between 9am and 3pm subject to weather, so no departure times recorded. FAQ: no wind means no lesson, and you pay only for lessons taken. Lesson page names the spots Silver Rock and Long Beach; FAQ names them Silver Point and Long Beach Bay. priceFrom is the lowest hourly rate."
+    },
+    {
+      "title": "Surf Board Classes",
+      "kind": "course",
+      "summary": "Surf lessons for adults and children with local instructors, starting at one hour. The school works from south coast beaches including Long Beach, Silver Point and Freights.",
+      "highlights": [
+        "One or two hour classes",
+        "Kids classes",
+        "Classes every day"
+      ],
+      "duration": "1 hour or 2 hours",
+      "durationMinutes": 60,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "1 hour", "amount": 40, "currency": "USD", "note": null },
+        { "label": "2 hours", "amount": 70, "currency": "USD", "note": null },
+        { "label": "Kids", "amount": 30, "currency": "USD", "note": "Duration not stated" }
+      ],
+      "priceFrom": 40,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2018/11/RVQJ8042.jpg",
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2018/11/RXYJ6319.jpg",
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/IMG_2362.jpg",
+        "https://www.kiteboardingbarbados.com/wp-content/uploads/2019/01/IMG_2379.jpg"
+      ],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.kiteboardingbarbados.com/sup-surfing-classes-barbados/",
+      "checkNotes": "Enquiry only: the page says contact us to book. Home page says surfing classes run every day starting at 8:00 a.m. Beach for surf classes not stated; the home page lists Long Beach, Silver Point and Freights among the beaches the instructors use."
+    },
+    {
+      "title": "Surf Board Rental",
+      "kind": "other",
+      "summary": "Surfboards for hire by the hour, day or week.",
+      "highlights": [
+        "Hire from 1 hour to 1 week"
+      ],
+      "duration": "1 hour to 1 week",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "1 hour", "amount": 10, "currency": "USD", "note": null },
+        { "label": "2 hours", "amount": 20, "currency": "USD", "note": null },
+        { "label": "3 hours", "amount": 25, "currency": "USD", "note": null },
+        { "label": "1 day", "amount": 30, "currency": "USD", "note": null },
+        { "label": "1 week", "amount": 100, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 10,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.kiteboardingbarbados.com/sup-surfing-classes-barbados/",
+      "checkNotes": "Enquiry only: the page says contact us. Pickup point not stated."
+    },
+    {
+      "title": "SUP Rental",
+      "kind": "other",
+      "summary": "Stand up paddleboards for hire for two hours, a day or a week, with the option of an instructor.",
+      "highlights": [
+        "Hire for 2 hours, 1 day or 1 week",
+        "Instructor available"
+      ],
+      "duration": "2 hours to 1 week",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": null,
+      "prices": [
+        { "label": "2 hours", "amount": 25, "currency": "USD", "note": "* US$15 with instructor" },
+        { "label": "1 day", "amount": 35, "currency": "USD", "note": null },
+        { "label": "1 week", "amount": 125, "currency": "USD", "note": null }
+      ],
+      "priceFrom": 25,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [],
+      "bookingLinks": [],
+      "sourceUrl": "https://www.kiteboardingbarbados.com/sup-surfing-classes-barbados/",
+      "checkNotes": "Enquiry only: the page says contact us. The 2 hour price carries the footnote '* US$15 with instructor', which is unclear (an add-on or a different rate); check with the operator. Home page says a 1 hr SUP rental is available, but the price table shows N/A for 1 hour."
+    }
+  ],
+  "offers": [],
+  "checkNotes": "Site looks old but not closed: footer reads Copyright 2019, the page sitemap shows the last content change on 6 Aug 2020, and there are no 2025 or 2026 dates or prices. The lesson booking form still loads and the lesson page says 'Now accepting bookings for the season!'. The batch list marks the business active. Prices may be out of date; confirm with the operator. No street address on the site; town set to Silver Sands, the area of Silver Point and Silver Rock beach named on the site. The batch list hint mentions WooCommerce book-now links, but no shop or product pages exist (/shop/ returns 404); the Book Now buttons lead to the lesson request form. WhatsApp link built from the number the site lists as Phone/WhatsApp. Facebook and Instagram links not opened."
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "baird-bay-experience",
+  "logo": "https://bairdbay.com/wp-content/uploads/2026/09/logo-lockup-white.png",
+  "gallery": [
+    "https://bairdbay.com/wp-content/uploads/2025/05/Sea-Lion-Swim-Tour-3-Robert-Lang-Photography-AIS24.jpg",
+    "https://bairdbay.com/wp-content/uploads/2025/05/Sea-Lion-Swim-Tour-Robert-Lang-Photography-AIS24b.jpg",
+    "https://bairdbay.com/wp-content/uploads/2026/06/Baird-Bay-Sealions.jpg",
+    "https://bairdbay.com/wp-content/uploads/2026/09/season-boat-scaled.jpg",
+    "https://bairdbay.com/wp-content/uploads/2026/06/Boat-anchored-in-front-of-villas-copy-scaled.jpg",
+    "https://bairdbay.com/wp-content/uploads/2025/11/Baird-Bay-Coastal-Village_Robert-Lang-Photography.jpg",
+    "https://bairdbay.com/wp-content/uploads/2025/05/baird-bay-eco-experience-ayre-peninsula-sa-11-rotated.jpg",
+    "https://bairdbay.com/wp-content/uploads/2025/05/Baird_Bay_Experience-90.jpg",
+    "https://bairdbay.com/wp-content/uploads/2025/11/0dc9e890-c04a-409b-ab11-bb0aea757754.jpg",
+    "https://bairdbay.com/wp-content/uploads/2025/05/BairdBay_SurfingTour.webp",
+    "https://bairdbay.com/wp-content/uploads/2026/09/pricing-sealions.png",
+    "https://bairdbay.com/wp-content/uploads/2026/09/villa-eko.jpg",
+    "https://bairdbay.com/wp-content/uploads/2025/05/baird-bay-eco-experience-ayre-peninsula-sa-13.jpg",
+    "https://bairdbay.com/wp-content/uploads/2025/05/baird-bay-eco-experience-ayre-peninsula-sa-14.jpg",
+    "https://bairdbay.com/wp-content/uploads/2025/05/5C_7480-Edit.jpg",
+    "https://bairdbay.com/wp-content/uploads/2025/05/Baird_Bay_Experience-13.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://vimeo.com/1199950933",
+      "title": "Baird Bay Experience homepage video",
+      "sourceUrl": "https://bairdbay.com/homepage2/"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Sea Lion & Dolphin Swim",
+      "images": [
+        "https://bairdbay.com/wp-content/uploads/2025/05/Sea-Lion-Swim-Tour-2-Robert-Lang-Photography-AIS24-scaled.jpg",
+        "https://bairdbay.com/wp-content/uploads/2025/05/Sea-Lion-Swim-Tour-Robert-Lang-Photography-AIS24-1-scaled.jpg",
+        "https://bairdbay.com/wp-content/uploads/2025/05/9C.jpg",
+        "https://bairdbay.com/wp-content/uploads/2025/05/Baird_Bay_Experience-131.jpg",
+        "https://bairdbay.com/wp-content/uploads/2025/05/Baird_Bay_Experience-210.jpg",
+        "https://bairdbay.com/wp-content/uploads/2025/01/5C_8016.jpg",
+        "https://bairdbay.com/wp-content/uploads/2025/01/125314-scaled-1.jpg",
+        "https://bairdbay.com/wp-content/uploads/2025/01/154933-scaled-1.jpg",
+        "https://bairdbay.com/wp-content/uploads/2025/01/121142-scaled-1.jpg",
+        "https://bairdbay.com/wp-content/uploads/2025/05/28.jpg"
+      ]
+    }
+  ],
+  "notes": "Site is served through a NitroPack CDN; every URL here is the matching file on bairdbay.com itself and each one answered 200. Logo: the header lockup on the current home page (1200px PNG). It is white on transparent, made for dark backgrounds; the same white mark is also at https://bairdbay.com/wp-content/uploads/2025/01/BB-Logo_white-WEB.webp (the logo in the site's schema data). No colour version found. Video: the only operator video is a Vimeo background on /homepage2/ (vimeo.com/1199950933). Vimeo does not resolve on this network, so its title and owner were not confirmed. Left out: the hero background video on the home and Ocean Tours pages, because it is an iStock stock clip (iStock-1198326672.mp4); the animated GIFs (why-sealions.gif, BB-www-HomePage-GIF-10-images.gif, an ezgif villa GIF); a screenshot, eco certification logos and wallpaper textures; and photos whose file names name an RM Williams 'Australia In Style' shoot (sustainability and villa pages). Many photos are named 'Robert Lang Photography' (a photographer, apparently commissioned for the 2024 Australia In Style shoot; the facts file hero is one of them). No credit shows on the pages; keep or drop at the operator's claim. The Ocean Tours page holds 20 tour photos; the 10 kept are the facts-file photos plus the largest camera originals. The others are 2025/01/6.jpg, 16.jpg, 21.jpg, 23.jpg, 33.jpg, 37.jpg, 154931-scaled-1.jpg and 2025/05/Baird_Bay_Experience-196.jpg, -194.jpg and the lunch photo Baird-Bay-Experience-Tour-Food_Robert-Lang-Photography-408.jpg. The non-scaled WordPress originals are 10 to 18 MB, so the WordPress '-scaled' full-size files (about 2560px) are used instead. No YouTube channel is linked from the site."
+}

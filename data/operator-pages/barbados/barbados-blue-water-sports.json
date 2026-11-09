@@ -1,0 +1,722 @@
+{
+  "slug": "barbados-blue-water-sports",
+  "name": "Barbados Blue Water Sports",
+  "website": "https://www.divebarbadosblue.com/",
+  "rezdyAlias": null,
+  "country": "BB",
+  "state": "Barbados",
+  "town": "Carlisle Bay",
+  "category": "Scuba and snorkel centre",
+  "summary": "Barbados Blue is a PADI dive centre at the Hilton on Needham's Point, a short boat ride from the wrecks of Carlisle Bay Marine Park. It runs daily dives and turtle and shipwreck snorkel trips, PADI courses from a first try dive to Divemaster, freediving courses and private charters. Two marine biologists on staff run reef cleanups and coral restoration work.",
+  "standouts": [
+    "PADI 5-Star Dive Centre",
+    "The only PADI Freediving Centre on the island",
+    "PADI AWARE partner with two marine biologists on staff",
+    "Nine shipwrecks within a mile of the dive shop"
+  ],
+  "contact": {
+    "phone": "+1 246 434 5764",
+    "email": null,
+    "address": "Hilton Hotel Complex, Needham's Point, Pebbles Beach, Carlisle Bay, St. Michael",
+    "whatsapp": null
+  },
+  "heroImage": "https://www.divebarbadosblue.com/wp-content/uploads/scuba.jpg",
+  "sourceUrls": [
+    "https://www.divebarbadosblue.com/",
+    "https://www.divebarbadosblue.com/about-us/scuba-price-list/",
+    "https://www.divebarbadosblue.com/scuba/",
+    "https://www.divebarbadosblue.com/snorkel/",
+    "https://www.divebarbadosblue.com/snorkel/private-charter/",
+    "https://www.divebarbadosblue.com/padi-training/beginner/",
+    "https://www.divebarbadosblue.com/padi-training/advanced/",
+    "https://www.divebarbadosblue.com/padi-training/freediving/",
+    "https://www.divebarbadosblue.com/padi-training/specialty/",
+    "https://www.divebarbadosblue.com/padi-training/go-pro-divemaster/",
+    "https://www.divebarbadosblue.com/faqs/",
+    "https://www.divebarbadosblue.com/about-us/our-boats/",
+    "https://www.divebarbadosblue.com/conservation/",
+    "https://www.divebarbadosblue.com/book-now/",
+    "https://www.divebarbadosblue.com/contact/"
+  ],
+  "trips": [
+    {
+      "title": "Snorkel Turtle & Shipwreck Safari",
+      "kind": "snorkel",
+      "summary": "A guided snorkel trip five minutes by boat to Carlisle Bay Marine Park, where you swim with green sea turtles and float over shipwrecks from the two world wars. Guides explain the history of the wrecks, and all gear and a snorkel vest are provided.",
+      "highlights": [
+        "Daily at 9:30am and 2:00pm",
+        "5-minute boat ride to Carlisle Bay Marine Park",
+        "Green sea turtles and WWI and WWII shipwrecks",
+        "All snorkel gear and vests provided"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [
+        "09:30",
+        "14:00"
+      ],
+      "season": null,
+      "departsFrom": "Barbados Blue dive centre, Hilton Barbados, Needham's Point",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 55,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 55,
+      "includes": [
+        "Guide",
+        "Snorkel, mask, fins and lifejacket or snorkel vest",
+        "Freshwater rinse tank for gear",
+        "Drinking water on board",
+        "Light snack (if available)",
+        "Safety briefing"
+      ],
+      "bring": [
+        "Swimsuit",
+        "Towel",
+        "GoPro (camera cases for sale or rent)"
+      ],
+      "requirements": "All snorkellers wear a snorkel vest. The morning tour needs a minimum of 4 people. Children as young as 2 have snorkelled with them.",
+      "offer": null,
+      "images": [
+        "https://www.divebarbadosblue.com/wp-content/uploads/snorkel.jpg",
+        "https://www.divebarbadosblue.com/wp-content/uploads/home_snorkel_box.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/WjjjJ"
+      ],
+      "sourceUrl": "https://www.divebarbadosblue.com/snorkel/",
+      "checkNotes": "Meet at the dive centre at 9:00am or 1:30pm. Price from the Price List page. Duration not stated. The snorkel page also embeds a Peek booking widget (www.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/ZYy0B); not opened."
+    },
+    {
+      "title": "2 Tank Dive",
+      "kind": "dive",
+      "summary": "A morning boat dive trip with two tanks for certified divers, to reefs and wrecks on the west and south coasts. The boat leaves at 9:30am from the dive centre at the Hilton.",
+      "highlights": [
+        "Departs 9:30am daily",
+        "Two dives on reefs and wrecks",
+        "West and south coast sites",
+        "For certified divers"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [
+        "09:30"
+      ],
+      "season": null,
+      "departsFrom": "Barbados Blue dive centre, Hilton Barbados, Needham's Point",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 175,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 175,
+      "includes": [],
+      "bring": [],
+      "requirements": "Certified divers who have dived in the past 12 months. Others are advised to take the free Scuba Refresher first, which means joining the afternoon dive instead.",
+      "offer": null,
+      "images": [
+        "https://www.divebarbadosblue.com/wp-content/uploads/scuba.jpg",
+        "https://www.divebarbadosblue.com/wp-content/uploads/home_scuba_box.jpg",
+        "https://www.divebarbadosblue.com/wp-content/uploads/home_diving_box.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/4ddXA"
+      ],
+      "sourceUrl": "https://www.divebarbadosblue.com/scuba/",
+      "checkNotes": "Meet at the dive centre at 9:00am. Price from the Price List page. Duration not stated. A free Scuba Refresher can be added when booking (meet 11:30am per the Scuba page; the daily schedule lists it at 12:00pm). In summer some dives go to the east coast."
+    },
+    {
+      "title": "1 Tank Dive",
+      "kind": "dive",
+      "summary": "An afternoon single-tank boat dive in Carlisle Bay Marine Park, where several shipwrecks lie close to the dive centre. It suits certified divers and those who have just done a refresher.",
+      "highlights": [
+        "Departs 2:00pm daily",
+        "Carlisle Bay Marine Park",
+        "Shipwrecks within a mile of the dive shop",
+        "For certified divers"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [
+        "14:00"
+      ],
+      "season": null,
+      "departsFrom": "Barbados Blue dive centre, Hilton Barbados, Needham's Point",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 99,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 99,
+      "includes": [],
+      "bring": [],
+      "requirements": "Certified divers. Divers who have not dived in the past 12 months are advised to take the free Scuba Refresher.",
+      "offer": null,
+      "images": [
+        "https://www.divebarbadosblue.com/wp-content/uploads/scuba.jpg",
+        "https://www.divebarbadosblue.com/wp-content/uploads/home_diving_box.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/o66xA"
+      ],
+      "sourceUrl": "https://www.divebarbadosblue.com/scuba/",
+      "checkNotes": "Meet at the dive centre at 1:30pm. Price from the Price List page; the Marine Park as the site is from the daily schedule. Duration not stated."
+    },
+    {
+      "title": "Dive Packages",
+      "kind": "dive",
+      "summary": "Packs of 3 to 10 boat dives for certified divers, used across the morning and afternoon dive trips. Divers bringing their own full set of gear get a further discount.",
+      "highlights": [
+        "3, 4, 5, 6, 8 or 10 dives",
+        "Morning and afternoon dive trips",
+        "Reef and wreck sites",
+        "Extra discount with full personal gear"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Barbados Blue dive centre, Hilton Barbados, Needham's Point",
+      "prices": [
+        {
+          "label": "3 Dive Package",
+          "amount": 255,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "4 Dive Package",
+          "amount": 325,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "5 Dive Package",
+          "amount": 375,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "6 Dive Package",
+          "amount": 440,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "8 Dive Package",
+          "amount": 575,
+          "currency": "USD",
+          "note": null
+        },
+        {
+          "label": "10 Dive Package",
+          "amount": 699,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 255,
+      "includes": [],
+      "bring": [],
+      "requirements": "Certified divers.",
+      "offer": null,
+      "images": [
+        "https://www.divebarbadosblue.com/wp-content/uploads/scuba.jpg",
+        "https://www.divebarbadosblue.com/wp-content/uploads/private_scuba_highlight.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/3yykV",
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/vPPyY",
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/WjjRv",
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/EMMMo",
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/dyyyz",
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/L3331"
+      ],
+      "sourceUrl": "https://www.divebarbadosblue.com/about-us/scuba-price-list/",
+      "checkNotes": "Prices per package, per diver, from the Price List page (headed USD$)."
+    },
+    {
+      "title": "Discover Scuba Diving, Resort Experience",
+      "kind": "dive",
+      "summary": "A first try at scuba with a PADI instructor, with no certification needed. There is no swimming test, and the session starts at noon at the dive centre.",
+      "highlights": [
+        "Daily at 12:00pm",
+        "No experience or swimming test needed",
+        "PADI instructor-led",
+        "Minimum age 10 in the ocean"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [
+        "12:00"
+      ],
+      "season": null,
+      "departsFrom": "Barbados Blue dive centre, Hilton Barbados, Needham's Point",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 150,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 150,
+      "includes": [],
+      "bring": [],
+      "requirements": "Minimum age 10 in the ocean. A PADI medical form must be completed; a YES answer to any question needs a doctor's clearance.",
+      "offer": null,
+      "images": [
+        "https://www.divebarbadosblue.com/wp-content/uploads/padi_beginner.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/ayyy6"
+      ],
+      "sourceUrl": "https://www.divebarbadosblue.com/padi-training/beginner/",
+      "checkNotes": "Price from the Price List page; time from the site's daily schedule (Try Scuba for Beginners). Age and swimming details from the FAQs page. Duration not stated."
+    },
+    {
+      "title": "PADI Scuba Diver",
+      "kind": "course",
+      "summary": "A PADI scuba certification offered alongside the full Open Water Diver course. The theory can be done at home through PADI eLearning before you arrive.",
+      "highlights": [
+        "PADI certification",
+        "eLearning available before travel",
+        "Water fitness evaluation"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Barbados Blue dive centre, Hilton Barbados, Needham's Point",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 485,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 485,
+      "includes": [],
+      "bring": [],
+      "requirements": "Water fitness evaluation including a 200m swim and a 10-minute survival float. A PADI medical form must be completed; a YES answer to any question needs a doctor's clearance.",
+      "offer": null,
+      "images": [
+        "https://www.divebarbadosblue.com/wp-content/uploads/padi_beginner.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/vPPPM"
+      ],
+      "sourceUrl": "https://www.divebarbadosblue.com/padi-training/beginner/",
+      "checkNotes": "Price from the Price List page. The site does not describe this course beyond the FAQ, which names it next to the Open Water Diver course. Duration not stated."
+    },
+    {
+      "title": "PADI Open Water Diver",
+      "kind": "course",
+      "summary": "The full entry-level PADI scuba certification. Many students finish in two to three days in Barbados, and the theory can be done at home first through PADI eLearning.",
+      "highlights": [
+        "Full PADI certification",
+        "Many students certify in 2 to 3 days",
+        "eLearning available before travel"
+      ],
+      "duration": "2 to 3 days",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Barbados Blue dive centre, Hilton Barbados, Needham's Point",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 599,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 599,
+      "includes": [],
+      "bring": [],
+      "requirements": "Water fitness evaluation including a 200m swim and a 10-minute survival float. A PADI medical form must be completed; a YES answer to any question needs a doctor's clearance.",
+      "offer": null,
+      "images": [
+        "https://www.divebarbadosblue.com/wp-content/uploads/padi_beginner.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/Vzzzo"
+      ],
+      "sourceUrl": "https://www.divebarbadosblue.com/padi-training/beginner/",
+      "checkNotes": "Price from the Price List page. Duration is the site's statement that many students leave certified within 2 to 3 days."
+    },
+    {
+      "title": "PADI Open Water Referral Diver",
+      "kind": "course",
+      "summary": "A referral version of the PADI Open Water Diver course. The site lists it on the price list without describing what it covers.",
+      "highlights": [
+        "PADI Open Water referral"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Barbados Blue dive centre, Hilton Barbados, Needham's Point",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 430,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 430,
+      "includes": [],
+      "bring": [],
+      "requirements": "A PADI medical form must be completed; a YES answer to any question needs a doctor's clearance.",
+      "offer": null,
+      "images": [
+        "https://www.divebarbadosblue.com/wp-content/uploads/padi_beginner.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/3yyyL"
+      ],
+      "sourceUrl": "https://www.divebarbadosblue.com/about-us/scuba-price-list/",
+      "checkNotes": "Listed on the Price List page only, with no description; check what the referral covers with the operator."
+    },
+    {
+      "title": "PADI Advanced Open Water Diver",
+      "kind": "course",
+      "summary": "The next PADI level after Open Water, with five training dives to build skills and confidence. A shorter Adventure Diver option with three dives is also offered.",
+      "highlights": [
+        "5 training dives",
+        "For Open Water certified divers",
+        "Adventure Diver option with 3 dives"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Barbados Blue dive centre, Hilton Barbados, Needham's Point",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 520,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 520,
+      "includes": [],
+      "bring": [],
+      "requirements": "PADI Open Water Diver or equivalent certification. A PADI medical form must be completed; a YES answer to any question needs a doctor's clearance.",
+      "offer": null,
+      "images": [
+        "https://www.divebarbadosblue.com/wp-content/uploads/padi_advanced.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/BqqqO"
+      ],
+      "sourceUrl": "https://www.divebarbadosblue.com/padi-training/advanced/",
+      "checkNotes": "Price from the Price List page."
+    },
+    {
+      "title": "PADI Enriched Air (EANx) Diver",
+      "kind": "course",
+      "summary": "PADI training to dive with enriched air nitrox.",
+      "highlights": [
+        "PADI Enriched Air certification"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Barbados Blue dive centre, Hilton Barbados, Needham's Point",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 199,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 199,
+      "includes": [],
+      "bring": [],
+      "requirements": "A PADI medical form must be completed; a YES answer to any question needs a doctor's clearance.",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/8aaaM"
+      ],
+      "sourceUrl": "https://www.divebarbadosblue.com/about-us/scuba-price-list/",
+      "checkNotes": "Listed on the Price List page only, with no description."
+    },
+    {
+      "title": "PADI Rescue Diver",
+      "kind": "course",
+      "summary": "A PADI course that teaches divers to handle problems in the water and help others. It follows the Advanced Open Water certification.",
+      "highlights": [
+        "Self-rescue and helping other divers",
+        "Follows Advanced Open Water"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Barbados Blue dive centre, Hilton Barbados, Needham's Point",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 570,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 570,
+      "includes": [],
+      "bring": [],
+      "requirements": "PADI Advanced Open Water certification. A PADI medical form must be completed; a YES answer to any question needs a doctor's clearance.",
+      "offer": null,
+      "images": [
+        "https://www.divebarbadosblue.com/wp-content/uploads/padi_advanced.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/Vzzz6"
+      ],
+      "sourceUrl": "https://www.divebarbadosblue.com/padi-training/advanced/",
+      "checkNotes": "Price from the Price List page; description from the Advanced training page."
+    },
+    {
+      "title": "PADI Freediving",
+      "kind": "course",
+      "summary": "Breath-hold diving courses at PADI Basic, Freediver and Advanced levels, run by the island's only PADI Freediving Centre. A dedicated freediving boat can also be chartered privately for up to 10 people.",
+      "highlights": [
+        "PADI Basic, Freediver and Advanced levels",
+        "Only PADI Freediving Centre on the island",
+        "Private freediving charter for up to 10",
+        "Cressi dealer with fins and masks in stock"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Barbados Blue dive centre, Hilton Barbados, Needham's Point",
+      "prices": [
+        {
+          "label": "Starting from, per person",
+          "amount": 220,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 220,
+      "includes": [],
+      "bring": [],
+      "requirements": "A PADI medical form must be completed; a YES answer to any question needs a doctor's clearance.",
+      "offer": null,
+      "images": [
+        "https://www.divebarbadosblue.com/wp-content/uploads/padi_freediving.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/bdddD"
+      ],
+      "sourceUrl": "https://www.divebarbadosblue.com/padi-training/freediving/",
+      "checkNotes": "Price shown as 'starting from' on the Price List page. The freediving page also embeds a Peek widget (www.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/jY0Wx); not opened. Private freediving charter price not stated."
+    },
+    {
+      "title": "PADI Reef Rescue Diver Specialty",
+      "kind": "course",
+      "summary": "A two-dive specialty for certified divers in coral restoration. You learn to maintain a coral nursery and may plant nursery-grown coral on the reef in Barbados.",
+      "highlights": [
+        "2 dives",
+        "Coral nursery maintenance",
+        "Plant nursery-reared coral",
+        "Counts toward PADI Master Diver"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Barbados Blue dive centre, Hilton Barbados, Needham's Point",
+      "prices": [
+        {
+          "label": "Per person",
+          "amount": 325,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": 325,
+      "includes": [],
+      "bring": [],
+      "requirements": "Certified divers.",
+      "offer": null,
+      "images": [
+        "https://www.divebarbadosblue.com/wp-content/uploads/padi_training_specialty_image1.jpg",
+        "https://www.divebarbadosblue.com/wp-content/uploads/conservation_coral_nursery2.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/ykylk"
+      ],
+      "sourceUrl": "https://www.divebarbadosblue.com/conservation/",
+      "checkNotes": "Price from the Price List page; description from the Conservation and Specialty pages."
+    },
+    {
+      "title": "Divemaster Course & Internship",
+      "kind": "course",
+      "summary": "PADI Divemaster training for experienced Rescue Divers who want to go professional, learning to supervise dives and assist with classes. It can be taken as a course or as a longer internship.",
+      "highlights": [
+        "PADI professional level",
+        "Course or internship",
+        "Supervise dives and assist with classes"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Barbados Blue dive centre, Hilton Barbados, Needham's Point",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "Experienced PADI Rescue Diver.",
+      "offer": null,
+      "images": [
+        "https://www.divebarbadosblue.com/wp-content/uploads/padi_divemaster.jpg"
+      ],
+      "bookingLinks": [
+        "https://www.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/Dy029"
+      ],
+      "sourceUrl": "https://www.divebarbadosblue.com/padi-training/go-pro-divemaster/",
+      "checkNotes": "No price on the site pages read; prices only inside the Peek widget, which was not opened."
+    },
+    {
+      "title": "Sunset Charter",
+      "kind": "cruise",
+      "summary": "An evening boat trip from the dive centre, listed under daily tours and private charters.",
+      "highlights": [
+        "Evening departure",
+        "Minimum 4 people"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Barbados Blue dive centre, Hilton Barbados, Needham's Point",
+      "prices": [
+        {
+          "label": "Sunset Charter",
+          "amount": 140,
+          "currency": "USD",
+          "note": "Minimum 4 people required"
+        }
+      ],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": "Minimum 4 people required.",
+      "offer": null,
+      "images": [],
+      "bookingLinks": [
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/dyyyE"
+      ],
+      "sourceUrl": "https://www.divebarbadosblue.com/about-us/scuba-price-list/",
+      "checkNotes": "Listed on the Price List page only, with no description, times or duration. The page does not say whether USD $140 is per person; priceFrom left null."
+    },
+    {
+      "title": "Private Charter",
+      "kind": "charter",
+      "summary": "A private half-day trip planned around your group: snorkelling, diving, freediving, beach stops or a fast cruise along the coast. Local snacks and an open bar with a house mojito, wine and local beer are included.",
+      "highlights": [
+        "Half-day, planned to your group",
+        "Snorkel, dive, freedive or cruise",
+        "Beach stops and champagne celebrations on request",
+        "Open bar and local snacks"
+      ],
+      "duration": "Half day",
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Barbados Blue dive centre, Hilton Barbados, Needham's Point",
+      "prices": [
+        {
+          "label": "Private charter, starting from",
+          "amount": 899,
+          "currency": "USD",
+          "note": null
+        }
+      ],
+      "priceFrom": null,
+      "includes": [
+        "Local snacks",
+        "Open bar with Blue Mojito, wine and local beers"
+      ],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.divebarbadosblue.com/wp-content/uploads/scorkel_private_charters.jpg",
+        "https://www.divebarbadosblue.com/wp-content/uploads/private_charters_highlight.jpg",
+        "https://www.divebarbadosblue.com/wp-content/uploads/private_scuba_highlight.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/REdpw"
+      ],
+      "sourceUrl": "https://www.divebarbadosblue.com/snorkel/private-charter/",
+      "checkNotes": "Price shown as 'starting from' USD $899 on the Price List page; per charter, so priceFrom is null. Group size and duration in hours not stated."
+    },
+    {
+      "title": "Reef Rescue Network Experiences",
+      "kind": "other",
+      "summary": "Short conservation experiences run with the Reef Rescue Network: a reef rescue dive, a sea turtle awareness session, a shark conservation session and a snorkel experience. Ask the dive team which suits you.",
+      "highlights": [
+        "Reef Rescue Dive Experience",
+        "Sea Turtle Awareness Experience",
+        "Shark Conservation Experience",
+        "Snorkel Experience"
+      ],
+      "duration": null,
+      "durationMinutes": null,
+      "departureTimes": [],
+      "season": null,
+      "departsFrom": "Barbados Blue dive centre, Hilton Barbados, Needham's Point",
+      "prices": [],
+      "priceFrom": null,
+      "includes": [],
+      "bring": [],
+      "requirements": null,
+      "offer": null,
+      "images": [
+        "https://www.divebarbadosblue.com/wp-content/uploads/conservation.jpg",
+        "https://www.divebarbadosblue.com/wp-content/uploads/conservation_coral_nursery2.jpg"
+      ],
+      "bookingLinks": [
+        "https://book.peek.com/s/59c67f61-6557-481c-a58b-42c7dbaf20e4/kYvwY"
+      ],
+      "sourceUrl": "https://www.divebarbadosblue.com/conservation/",
+      "checkNotes": "No prices, times or durations on the page; booking through the Peek link on the Conservation page, not opened."
+    }
+  ],
+  "offers": [
+    {
+      "text": "Discount on dive packages for divers with their own full set of dive gear, using promo code GOTGEAR at checkout",
+      "conditions": "Dive packages only; full personal dive gear required",
+      "validUntil": null,
+      "sourceUrl": "https://www.divebarbadosblue.com/about-us/scuba-price-list/"
+    },
+    {
+      "text": "Complimentary Scuba Refresher for divers who have not dived in the last 12 months, added when booking online",
+      "conditions": "Refresher divers meet at 11:30am and cannot join the morning dive",
+      "validUntil": null,
+      "sourceUrl": "https://www.divebarbadosblue.com/scuba/"
+    }
+  ],
+  "checkNotes": "All online booking goes through Peek (book.peek.com and www.peek.com links on the Price List and activity pages); none were opened. Prices are from the Price List page, headed USD$ or USD. No email address is shown on the site, only a contact form; the operator list gives info@divebarbadosblue.com. WhatsApp number shown as +1 246 230 3064 with no wa.me link. Toll-free USA/Canada +1 800 929 7154. Hours 8:30am to 4:30pm every day. Scuba page says six shipwrecks in Carlisle Bay Marine Park; home page says nine shipwrecks within a mile of the shop. Trading: reviews dated to July 2026 and the Price List updated March 2026. Footer copyright 2023. Pages load a reCAPTCHA script for forms; no bot check was shown. Also sold on PADI Adventures per the operator list; not recorded."
+}

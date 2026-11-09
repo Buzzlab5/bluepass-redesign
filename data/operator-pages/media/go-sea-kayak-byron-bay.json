@@ -1,0 +1,111 @@
+{
+  "slug": "go-sea-kayak-byron-bay",
+  "logo": "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/11/Go_sea_logo.png",
+  "gallery": [
+    "https://goseakayakbyronbay.com.au/wp-content/uploads/2024/09/BEAUTIFUL-DOLPHINS-SHOT-CAPE.jpeg",
+    "https://goseakayakbyronbay.com.au/wp-content/uploads/2018/06/go-sea-gallery-1.jpg",
+    "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go-sea-kayak-15.jpg",
+    "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go-sea-kayak-1.jpg",
+    "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go-sea-kayak-18.jpg",
+    "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go-sea-kayak-17.jpg",
+    "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go-sea-kayak-19.jpg",
+    "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go-sea-kayak-2.jpg",
+    "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go-sea-kayak-12.jpg",
+    "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go-sea-kayak-14.jpg",
+    "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go-sea-kayak-10.jpg",
+    "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/GoSea_home1.jpg",
+    "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go-sea-kayak-9.jpg",
+    "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go-sea-kayak-3.jpg",
+    "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go-sea-kayak-13.jpg",
+    "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go-sea-kayak-16.jpg"
+  ],
+  "videos": [
+    {
+      "url": "https://vimeo.com/256700443",
+      "title": "The Go Sea Kayak story",
+      "sourceUrl": "https://goseakayakbyronbay.com.au/"
+    },
+    {
+      "url": "https://vimeo.com/253364931",
+      "title": "Brunswick River nature tours",
+      "sourceUrl": "https://goseakayakbyronbay.com.au/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Xvor7-e6icI",
+      "title": "Paddling with Go Sea Kayak, December 2012",
+      "sourceUrl": "https://www.youtube.com/user/GoSeaKayakByronBay"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=N4j0_pI01rg",
+      "title": "Paddling with Go Sea Kayak, Christmas Eve 2012",
+      "sourceUrl": "https://www.youtube.com/user/GoSeaKayakByronBay"
+    }
+  ],
+  "trips": [
+    {
+      "title": "Byron Bay Sea Kayak Tour",
+      "images": [
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2024/09/BEAUTIFUL-DOLPHINS-SHOT-CAPE.jpeg",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2025/09/Byron-Bay-Ocean-Kayak-Tour-Experience-our-GOLD-Award-Winning-Guided-Kayak-tours-in-Byron-Bay-see-dolphins-turtles-and-whales.png",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go_sea_kayak_tours.jpg",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/11/go_sea_kayak_byron_tours.jpg",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2017/12/go_sea_kayaks_slide3-2.jpg",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/GoSea_home1.jpg",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/home_3.jpg"
+      ]
+    },
+    {
+      "title": "Sunrise Byron Bay Sea Kayak Tour",
+      "images": [
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2025/09/Sunrise-Byron-Bay-Ocean-Kayak-Tour-Experience-our-GOLD-Award-Winning-Guided-Kayak-tours-at-sunrise-in-Byron-Bay-see-dolphins-turtles-and-whales-book-now.png",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2025/09/Go-Sea-Kayak-Sunrise-Byron-Bay-Ocean-Kayak-Tour-banner.png"
+      ]
+    },
+    {
+      "title": "Brunswick River Nature Tour",
+      "images": [
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2025/09/Brunswick-River-Nature-Kayak-Tour-Experience-our-GOLD-Award-Winning-Guided-Kayak-tour-in-Brunswick-Heads.png",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/GoSea_home2.jpg",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2025/09/Go-Sea-Kayak-Brunswick-Heads-River-Nature-Kayak-Tour-banner.png"
+      ]
+    },
+    {
+      "title": "Sunset Brunswick River Kayak Tour",
+      "images": [
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2025/09/Sunset-Brunswick-River-Kayak-Tour-Experience-Wildlife-Mangroves-at-Dusk-along-the-beautiful-Brunswick-River-in-Brunswick-Heads.png",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2025/09/Sunset-Brunswick-River-Kayak-Tour-Experience-Rays-gliding-under-the-kayaks-Mangroves-at-Dusk-along-the-beautiful-Brunswick-River-in-Brunswick-Heads.png",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2025/09/Sunset-glow-on-Brunswick-River-Experience-Wildlife-Mangroves-at-Dusk-along-the-beautiful-Brunswick-River-in-Brunswick-Heads.png",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2025/09/Go-Sea-Kayak-Brunswick-Heads-Sunset-River-Kayak-Tour-banner.png"
+      ]
+    },
+    {
+      "title": "Christmas Parties",
+      "images": [
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2024/09/Go-Sea-Kayak-Byron-Bay-Brunswick-River-Christmas-Parties-with-transport.jpeg",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2024/09/Go-Sea-Kayak-Byron-Bay-Corporate-Group-Events-Sunset-Kayaking-on-the-Brunswick-River-NSW.png"
+      ]
+    },
+    {
+      "title": "School Groups",
+      "images": [
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/byron_bruns_home1.jpg",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/03/go_sea_kayak_contact.jpg"
+      ]
+    },
+    {
+      "title": "Private Groups",
+      "images": [
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go-sea-kayak-6.jpg",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/11/go_sea_kayak_brunstour2.jpg"
+      ]
+    },
+    {
+      "title": "Corporate Groups",
+      "images": [
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go-sea-kayak-gallery-18.jpg",
+        "https://goseakayakbyronbay.com.au/wp-content/uploads/2016/09/go_sea_kayak_training.jpg"
+      ]
+    }
+  ],
+  "notes": "WordPress site; all image URLs are full-size originals and were checked to load. Logo is the only header logo the site serves (a small 3.5 KB PNG). Gallery is from the Gallery page (/media/gallery/) and the home page. Staff portraits on /about/our-team/ were left out. Award and certification badges were left out. Trip pages carry few photos: each has a header banner plus one or more text-overlay promo PNGs (the importer can drop those); Byron Bay Sea Kayak Tour also takes the photo from the older /the-byron-bay-sea-kayak-tour/ page. Videos: the two Vimeo videos are embedded on the home page (titles from the embed titles; vimeo.com itself is unreachable from this network, so they were not opened). The site links to the YouTube channel youtube.com/user/GoSeaKayakByronBay, whose videos are short raw tour clips from December 2012; the two most viewed are listed. The YouTube video on /about/sustainability/ (aGP9loQ0dqs, 'Reefs At Risk') belongs to The Coverup Film, not the operator, so it was left out. 23 pages read."
+}
