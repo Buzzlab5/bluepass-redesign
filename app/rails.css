@@ -1770,6 +1770,14 @@ body:has(.bk-embed.theme-light) {
 .bk-done__reef {
   color: var(--color-ink-muted);
 }
+.bk-done__banner {
+  width: 100%;
+  margin: 0;
+  padding: 12px 16px;
+  border: 1px solid var(--color-hairline);
+  border-radius: var(--radius-md);
+  line-height: 1.5;
+}
 .bk-done__actions {
   display: flex;
   flex-wrap: wrap;
