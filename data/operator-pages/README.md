@@ -34,7 +34,7 @@ production therefore publishes nothing on its own.
 
 Each set has a review file of the calls a person has to make before approving anything.
 `REVIEW.md` covers the Australian pages: the permits behind the 42 in-water animal trips, the
-certification claims no one has checked with the certifier, the sites with nothing newer than
-2019 on them, and the 182 trips with no price. `barbados/REVIEW.md` covers the Barbadian ones:
+five certification claims that Ecotourism Australia's register does not support, the sites
+with nothing newer than 2019 on them, and the 182 trips with no price. `barbados/REVIEW.md` covers the Barbadian ones:
 a broker reselling other operators' boats, a hacked website, businesses that may no longer
 trade, and the trips that touch Barbados's turtle-feeding and jet ski rules.

@@ -45,15 +45,84 @@ and in every state that is allowed only under a permit or licence. What each sit
   Adventures says it is licensed to swim with wild dolphins and Temptation Sailing names a
   licence; Moonraker Dolphin Swims and Sea All Dolphin Swims state nothing.
 
-## Certification claims
+## Certification claims, checked against the register
 
-41 of the 70 pages carry an eco-certification or accreditation claim in their standouts
-(Advanced Ecotourism, ECO Certified, Climate Action, Quality Tourism, Sustainable Tourism
-Accredited). Every one was read off the operator's own site or a logo and none has been
-checked with the certifier. Ecotourism Australia publishes its directory, so the Advanced
-and ECO claims are checkable. Three to look at first: BayPlay (awards text reads dated),
-Octopus Garden (a Quality Tourism badge with no number or year) and Exmouth Adventure Co
-(a Sustainable Tourism Accredited logo that names no accrediting body).
+41 of the 70 pages carry an eco-certification or accreditation claim in their standouts.
+Every one was read off the operator's own site or a logo. They have now been checked against
+Ecotourism Australia's own directory, the Green Travel Guide, on 10 November 2026: each
+operator was matched to a listing by its name or by the website the listing links to, and
+the level was read off the listing page, which states it as "ECO Certified, Advanced
+Ecotourism level", "ecotourism level" or "nature tourism level".
+
+### Claims the register does not support
+
+| Operator | The page says | The register says |
+|---|---|---|
+| Rodney Fox Shark Expeditions | ECO Certified, Advanced Ecotourism | ECO Certified, ecotourism level |
+| Three Islands Whale Shark Dive | Advanced ECO Certification | ECO Certified, ecotourism level |
+| Wings Sailing Charters | Advanced Eco Tourism operators for over 20 years | ECO Certified, ecotourism level (listed as Wings Sailing Charters Whitsundays) |
+| Epic Ocean Adventures | Eco Nature Tourism certified since 2018 | ECO Certified, ecotourism level (a level above what the page claims) |
+| Jervis Bay Wild | Holds Advanced Eco-certification | No listing. The only Jervis Bay listing is Sea Kayak Jervis Bay, a different business. |
+
+Those four Advanced claims should not be published as they stand. Hervey Bay Whale Watch
+needs an eye as well: its listing carries both an Advanced and an ecotourism line, most
+likely one per certified product.
+
+Two pages understate instead. Baird Bay Experience is Advanced and claims only ECO Certified.
+Kangaroo Island Marine Adventures and Kings Ningaloo Reef Tours are both at nature tourism
+level, the entry level, and both pages also claim Green Travel Leader status, which their
+listings do not show.
+
+### Confirmed, and the names to correct
+
+The level matches the claim for Aquascene Magnetic Island, Ecotreasures, Imagine Cruises,
+Ningaloo Discovery, Pacific Whale Foundation, Tasman Venture, Temptation Sailing, The Big
+Duck and Moonraker Dolphin Swims (all Advanced), and for Absolute Ocean Charters, Blue
+Dolphin Marine Tours, Freedom Whale Watch, Kangaroo Island Ocean Safari, Naturaliste
+Charters and Sydney Harbour Boat Tours (ECO at the ecotourism level, which is what their
+wording claims).
+
+Five are listed under a different name, worth knowing before anyone rings the certifier:
+Freedom Whale Watch is **Freedom Ecotours**, Moonraker Dolphin Swims is **Moonraker
+Cruises**, and the others carry a longer name (Epic Ocean Adventures Noosa, Pacific Whale
+Foundation Eco Adventures Australia, Wings Sailing Charters Whitsundays).
+
+Two programme names are wrong on the page and should be fixed whatever the outcome: Go Sea
+Kayak's "Recognising Our Culture" is Ecotourism Australia's **Respecting Our Culture**, and
+Sea All Dolphin Swims' "Certified Green Leader" is not a programme at all (the recognition
+is called Green Travel Leader; Sea All's listing shows the ecotourism level).
+
+### Certified, but not in the directory
+
+- **Go Sea Kayak Byron Bay.** Ecotourism Australia's own news says it holds Advanced
+  Ecotourism for two of its products and Respecting Our Culture, so the claim stands even
+  though the directory has no listing for it.
+- **Region X.** An Ecotourism Australia announcement of Advanced Ecotourism, Climate Action
+  and ROC certification for Region X turns up in search, but the page itself would not open
+  and there is no listing. Treat as probably true, unconfirmed.
+- **View Ningaloo** and **Jurien Bay Oceanic Experience** claim Ecotourism Australia
+  certification and nothing anywhere supports it. Ask them for the certificate.
+
+### Claims no public register can settle
+
+Ask these operators for the certificate, because the certifier publishes no searchable list:
+
+- **The Australian Tourism Industry Council family** (Quality Tourism Accredited, Sustainable
+  Tourism Accredited, Australian Accredited Tourism Business, EcoStar): Octopus Garden,
+  BayPlay, Australian Coastal Safaris, Exmouth Adventure Co, Wildside Adventures, Ningaloo
+  Whaleshark Swim, and Three Islands' EcoStar claim. Its directory and its Trust the Tick
+  site both load their listings in the browser only and neither answers a query.
+- **EarthCheck**, for Pilgrim Sailing's "EarthCheck certified (verified August 2024)".
+  EarthCheck's members directory shows no members at all to a reader, and nothing else
+  mentions Pilgrim.
+- **Tourism Council WA**, for Ningaloo Blue Dive's certified eco tourism business claim.
+- Sea Lion Charters and Turquoise Safaris both claim the **Western Australian Tourism
+  Commission**, which trades as Tourism WA and runs no business accreditation. Whatever they
+  hold will be the Council's, so the wording is wrong either way.
+
+Method, for anyone repeating this: the register's own search returns an empty page and its
+certification filters return nothing, so the listing sitemap (710 listings) is the index, and
+"no listing" means absent from it on 10 November 2026.
 
 ## Confirm they are still trading
 
